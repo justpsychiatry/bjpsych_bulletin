@@ -20,6 +20,7 @@ Contents
 
    usage
    api
-   PMC7360952
+   pmc
+   pmc2
    PMC*
    *
