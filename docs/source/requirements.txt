@@ -1,0 +1,4 @@
+sphinxcontrib.datatemplates
+sphinxcontrib.bibtex
+sphinx_rtd_theme
+sphinx-sitemap

@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'BJPsychOpen'
+copyright = '2021, BJpsych'
+author = 'Justpsychiatry'
 
 release = '0.1'
 version = '0.1.0'
@@ -16,6 +16,7 @@ extensions = [
     'sphinx.ext.doctest',
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
+    'sphinxcontrib.datatemplates',
     'sphinx.ext.intersphinx',
 ]
 
