@@ -31,11 +31,8 @@ Contents
    :glob:
    :maxdepth: 1
 
-   usage
-   api
-   pmc
-   pmc2
-   PMC*
+   ./2022/index.rst
+   ./2021/index.rst
    *
 .. admonition:: Copyrights
 
