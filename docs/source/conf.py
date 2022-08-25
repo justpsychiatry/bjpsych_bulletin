@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'BJPsychOpen'
+project = 'BJPsychBulletin'
 copyright = '2021, BJpsych'
 author = 'Justpsychiatry'
 
