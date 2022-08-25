@@ -16,7 +16,7 @@ extensions = [
     'sphinx.ext.doctest',
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
-    'sphinx_rtd_theme'
+    'sphinx_rtd_theme',
     'sphinxcontrib.datatemplates',
     'myst_parser',
     'sphinx.ext.intersphinx',
