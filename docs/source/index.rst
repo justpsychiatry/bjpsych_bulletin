@@ -29,6 +29,8 @@ Contents
 --------
 
 .. toctree::
+   :glob:
+   :maxdepth: 1
 
    usage
    api
