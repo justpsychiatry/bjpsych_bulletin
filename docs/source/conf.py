@@ -16,6 +16,7 @@ extensions = [
     'sphinx.ext.doctest',
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
+    'sphinx_rtd_theme'
     'sphinxcontrib.datatemplates',
     'myst_parser',
     'sphinx.ext.intersphinx',
@@ -31,7 +32,7 @@ templates_path = ['_templates']
 
 # -- Options for HTML output
 
-html_theme = 'furo'
+html_theme = 'sphinx_rtd_theme'
 
 source_suffix = {
     '.rst': 'restructuredtext',
