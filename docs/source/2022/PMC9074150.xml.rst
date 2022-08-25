@@ -1,0 +1,527 @@
+===========================================================
+Recognition and management of depression in early psychosis
+===========================================================
+
+:Author: Zainab Bashir
+:Author: Sian Lowri Griffiths
+:Author: Rachel UpthegroveCorrespondence to Dr Sian Lowri Griffiths
+         (s.l.griffiths@bham.ac.uk)
+:Date: 2022-04
+:Abstract:
+   .. rubric:: Aims and method
+      :name: sec_a1
+
+   Depression in first-episode psychosis (FEP) is highly prevalent and
+   associated with poor outcomes; it has become increasingly recognised
+   and adopted in national and international guidelines for psychosis.
+   Using a 26-item questionnaire, this study aimed to explore if this
+   shift has led to greater recognition among UK psychiatrists, and more
+   effective management of depression in FEP.
+
+   .. rubric:: Results
+      :name: sec_a2
+
+   Of the 297 respondents, 54.4% observed depression occurring in
+   chronic psychosis, with the least number of respondents (17.7%)
+   identifying depression occurring frequently during FEP. Although
+   there was reasonable agreement in the use of antidepressants as a
+   first-line treatment for depression (70% prescribing
+   antidepressants), there was uncertainty around assessing depression
+   and delineating from psychosis symptoms, and particularly negative
+   symptoms.
+
+   .. rubric:: Clinical implications
+      :name: sec_a3
+
+   Evidence-based treatments for comorbid depression in psychosis will
+   lead to clearer national guidelines, allowing for optimal management
+   of depression in early psychosis, potentially leading to improved
+   outcomes for these individuals.
+
+
+pmc
+Depression is prevalent in first-episode psychosis (FEP), with rates of
+up to 70% at illness onset.\ :sup:`1` It is associated with a higher
+risk of relapse,\ :sup:`2` poorer functional outcomes\ :sup:`3,4` and
+suicide.\ :sup:`5` Although the National Institute for Health and Care
+Excellence (NICE) recommends monitoring for depression within psychosis,
+specific guidance on the treatment of comorbid depression has been
+limited, until recently.\ :sup:`6,7` The lack of large-scale controlled
+trials investigating the effectiveness of adjunctive
+antidepressants\ :sup:`8` has perhaps resulted in considerable variation
+in prescribing practices.\ :sup:`6,9` A study of 80 000 international
+psychiatrists showed little consensus on the best management strategy
+for treating depression in schizophrenia; a third of clinicians reported
+that they rarely or never prescribe antidepressants in combination with
+antipsychotics.\ :sup:`9,10` Since this publication in 2001,\ :sup:`9`
+depression as a common occurrence in psychosis has become more widely
+recognised.\ :sup:`11,12` Monitoring for depression in psychosis is
+featured more commonly in national and international
+guidelines,\ :sup:`7` and the recent British Association for
+Psychopharmacology updated consensus statement is the first UK guide to
+include specific pharmacological treatment recommendations.\ :sup:`13`
+
+We aim to understand whether there has been an improvement in clinician
+awareness of depression in psychosis; this may have an impact on
+effective management, particularly in the early stages of psychosis,
+where treatment is likely to be more effective.\ :sup:`14` Using a
+survey which was distributed to UK psychiatrists, this study aimed to
+explore the level of recognition and management of depression through
+the course of FEP.
+
+.. _sec1:
+
+Method
+======
+
+.. _sec1-1:
+
+Participants
+------------
+
+Participants were members of the Royal College of Psychiatrists, which
+is a professional organisation of psychiatrists based in the UK. The
+sample therefore comprised psychiatrists of various ages and career
+stage, from those in training to consultant level. Although there are
+around 8700 psychiatrists registered at the Royal College of Psychiatry,
+the survey was targeted at, and only distributed to, the general adult
+faculty. Participants were given the opportunity to enter into a prize
+draw to win £200 worth of Amazon vouchers.
+
+.. _sec1-2:
+
+Measures
+--------
+
+.. _sec1-2-1:
+
+Management of Depression in Psychosis questionnaire
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+The Management of Depression in Psychosis questionnaire is a shortened
+version of Siris et al's original questionnaire.\ :sup:`9` It was felt
+to be the most suitable as it was designed to evaluate clinician
+awareness and management approach. It also allows for comparison of
+trends of psychiatric practices in assessing and managing depression in
+psychosis over time. The questionnaire has been adapted to focus on the
+identification of depression and prescribing in the early course of
+psychosis. For the purpose of this study, recognition of depression is
+defined as assessing for the three cardinal symptoms of depression,
+namely low mood, anhedonia and anergia. The questionnaire was built into
+Survey Monkey for ease, practicality and anonymous online
+administration. The questionnaire was completed anonymously and
+comprised 23 questions relating to the following: demographic
+characteristics of the respondents (e.g. gender, years since graduation,
+specialty/subspecialty and region of practice); recognition of symptoms
+relevant to the diagnosis of depression; depression time course in
+psychosis; factors and symptoms that prompt the prescription of
+antidepressants; evaluation measures; and treatment selection and
+practice (e.g. medication dose and duration).
+
+.. _sec1-2-2:
+
+Procedure
+~~~~~~~~~
+
+The questionnaires were completed over a period of 2 months after being
+granted ethical approval and agreed sponsorship by University of
+Birmingham (REC Reference: ERN_18-1658). Participants were provided with
+information about the study, informed of the voluntary nature of their
+participation, and reminded that responses were anonymous with the
+option to opt in for the prize draw. Written informed consent was
+obtained from all participants.
+
+.. _sec1-3:
+
+Data analysis
+-------------
+
+Data were downloaded from Survey Monkey (see
+http://www.surveymonkey.co.uk/r/Depression_in_psychosis_survey) and
+inspected using a Microsoft Excel (365 for Windows) worksheet.
+Descriptive statistics were explored using SPSS version 24 for Windows.
+
+.. _sec2:
+
+Results
+=======
+
+In total, there were 297 respondents; although on average, it was
+observed that a third of the participants who completed the survey also
+skipped at least one question in the questionnaire. A total of 52% were
+male, and on average, the sample had 21 years (s.d. 11.5) of practice
+since graduating from medical school. Responses by geographical regions
+were as follows: London (13.4%), South-East (12.4%), West Midlands
+(11.9%), South-West (11.9%) and Scotland (11.9%). We had the least
+responses from Wales (2.6%), Northern Ireland (2.6) and East Midlands
+(3.6%), and 26.8% of participants did not give a response. The majority
+of the respondents were clinicians that practiced within community
+settings (67.7%).
+
+.. _sec2-1:
+
+Observed prevalence and time course of depression in psychosis
+--------------------------------------------------------------
+
+A total of 41.2% of participants had a case-load of which patients with
+psychosis comprised >50%; 46.6% had between 5–50% and 1.3% had <5%. The
+majority of respondents reported observing depression occurring
+concurrently with chronic stable psychosis (54.4%), and 23% reported
+depression occurring concurrently with acute relapse. With regards to
+depression emerging in the initial phase of illness, 19.1% observed
+depression within the prodromal phase to the acute psychotic phase;
+32.4% reported depression emerging as the first acute episode of
+psychosis resolves, and 17.7% of respondents reported observing
+depression during the first episode of psychosis.
+
+.. _sec2-2:
+
+Assessment and diagnosis of depression in psychosis
+---------------------------------------------------
+
+Respondents were asked to select the first five most relevant symptoms
+they consider in diagnosing depression in psychosis: 93.2% identified
+low mood, 68.3% identified anhedonia, 57.1% identified suicidal
+thoughts, 53.2% identified poor motivation and 48.3% identified interest
+in life as a symptom. Please see `Fig. 1 <#fig01>`__ for the full
+breakdown of symptoms reported by respondents. Fig. 1Breakdown of main
+symptoms identified by respondents to diagnose depression in psychosis.
+
+The majority of participants reported not utilising a specific interview
+system to inform a diagnosis of depression in psychosis (96.6%). In
+terms of employing depression evaluation measures, 35.1% of respondents
+reported using none, 39.1% used the Beck Depression Inventory, 28.5%
+used the Hamilton Rating Scale for Depression, 17.2% used the Brief
+Psychiatric Scale and 9.3% used the Calgary Depression Scale for
+Schizophrenia (CDSS).
+
+.. _sec2-3:
+
+Recognition and management of depression in psychosis
+-----------------------------------------------------
+
+Participants were asked about which clinical guidelines they used to aid
+the recognition and management of depression in psychosis: 61.5% of
+respondents used NICE guidelines, 50.0% used the Maudsley Prescribing
+Guidelines, 27.6% used British Association for Psychopharmacology
+guidelines and 12.0% used *BJPsych Advances* (previously known as
+*Advances in Psychiatric Treatment*) articles; the remainder mainly used
+clinical experience.
+
+.. _sec2-4:
+
+Treatment approaches
+--------------------
+
+.. _sec2-4-1:
+
+Antidepressant therapy
+~~~~~~~~~~~~~~~~~~~~~~
+
+The majority of respondents reported that antidepressant medication
+would be their first line of treatment for psychosis with comorbid
+depression (69.5%), 32.5% indicated cognitive–behavioural therapy, 12.3%
+reported a ‘watch and wait approach’ and 7.4% would reduce the dose of
+the prescribed antipsychotic medication.
+
+In terms of factors that would prompt prescribing of an antidepressant,
+84.2% reported a family history of depression, 40.4% reported poor
+interpersonal and social skills, 39.2% reported ‘living alone’ and 29.8%
+reported a ‘recent loss or rejection’. Key symptoms prompting a
+prescription of an antidepressant medication included hopelessness
+(80.1%), low mood (76.5%) and suicidal ideation (75.5%).
+
+With regards to antidepressants prescribed in early psychosis with
+comorbid depression, selective serotonin reuptake inhibitors were
+generally preferred; the majority of respondents opted for sertraline
+(85.4%), followed by mirtazapine (49.8%), fluoxetine (45.4%) and
+venlafaxine (33.7%). Interestingly, 28.8% of participants opted for
+citalopram and 15.1% opted for escitalopram. Please see `Fig.
+2 <#fig02>`__ for the proportions of antidepressants prescribed. Fig.
+2Proportions of antidepressants reported to be prescribed as first-line
+treatments for depression in early psychosis
+
+.. _sec2-4-2:
+
+Antipsychotic therapy
+~~~~~~~~~~~~~~~~~~~~~
+
+Participants were asked about antipsychotics they routinely prescribe
+for young people with early psychosis. Atypical antipsychotic agents
+were the most commonly prescribed: 66.0% of respondents opted for
+aripiprazole, 54.2% opted for olanzapine, 52.2% opted for risperidone
+and 44.3% opted for quetiapine. Clozapine was selected by 9.9% of
+respondents. Please see `Fig. 3 <#fig03>`__ for the proportion of
+antipsychotics prescribed. Fig. 3Proportions of antipsychotics
+prescribed by respondents.
+
+.. _sec2-4-3:
+
+Drug combinations and treatment duration
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+In terms of conjunctive antidepressant and dopamine antagonist
+prescribing, 55.7% reported they would not frequently prescribe this
+combination, 35.8% reported often prescribing and 8.5% affirmed that
+they very often prescribe this combination.
+
+A total of 13.5% of respondents stated that they would completely avoid
+mirtazapine and olanzapine in combination, with a handful citing reasons
+such as weight gain and oversedation; 14.4% stated they would actively
+avoid citalopram and antipsychotics in combination, with some citing
+reasons such as increased risk of corrected QT interval prolongation;
+and 42.3% reported that there were no combinations that they would
+actively avoid.
+
+With regards to duration of therapy, 47.8% of respondents estimated
+expecting clinical benefits within 2–4 weeks of adding antidepressant to
+dopamine antagonist therapy, 43.3% thought it would likely take 4–6
+weeks and 7.5% predicted improvement in 6–12 weeks. The majority of
+participants (77.5%) felt that antidepressant therapy should continue
+for 6–12 months once the individual showed a satisfactory response,
+15.7% felt that therapy should continue for >12 months and 8.3% felt
+that therapy should continue for 3–6 months. In terms of physical health
+monitoring when coprescribing, 77.9% monitored heart rhythm via
+electrocardiogram, monitored blood chemistry (prolactin, glucose and
+lipid profile), 73.4% monitored bloods (prolactin, glucose and lipid
+profile) and 42.9% undertook a physical examination. However, 18.2%
+reported that no physical health interventions were carried out.
+
+.. _sec2-4-4:
+
+Non-pharmacological treatment approaches
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+On average, most respondents prescribed non-pharmacological therapies
+for depression in FEP, with 82.1% opting for psychoeducation and
+cognitive–behavioural therapy, 67.2% opting for psychosocial
+interventions and 42.3% opting for family interventions. A further 10.5%
+of participants reported prescribing electroconvulsive therapy, and a
+handful opted for lifestyle interventions and supportive psychotherapy.
+
+.. _sec2-5:
+
+Reflections from respondents
+----------------------------
+
+Overall, about a third of the participants highlighted difficulty in
+delineating negative symptoms of psychosis from depression during a
+period of psychosis. Others described the complex interactions of
+positive and cognitive symptoms that are hard to disentangle, as well as
+the possibility of an affective illness occurring as the primary driver
+for psychosis. Many respondents expressed keenness in offering
+psychology or psychotherapy, but cited problems with availability at the
+time of need.
+
+.. _sec3:
+
+Discussion
+==========
+
+This study aimed to gauge the level of recognition and management
+approaches used by UK psychiatrists to manage and treat depression in
+psychosis. With depression in psychosis now being adopted in national
+and international clinical guidelines,\ :sup:`7` we wanted to explore
+whether any change in recognition has led to more effective management
+of depression in those with psychosis, particularly in the early stages
+of illness.
+
+Overall, the majority of respondents (69.5%) indicated the use of
+antidepressant medication as a first line of treatment for young people
+with psychosis and comorbid depression. There was reasonable agreement
+among clinicians on the contextual factors and key symptoms that would
+prompt a prescription of antidepressant medication. For example, the
+majority of respondents reported low mood and anhedonia as the major
+symptoms for diagnosing depression (93% and 68%, respectively), with 45%
+also identifying anergia as a core symptom. Over 80% of participants
+reported that they would routinely prescribe a selective serotonin
+reuptake inhibitor (sertraline in particular). This indicates a
+reasonable agreement between clinicians on the best strategy for
+managing comorbid depression with psychosis. These findings demonstrate
+a possible shift in the management strategy since Siris et
+al's\ :sup:`9` earlier publication, where a third of clinicians reported
+that they would rarely prescribe antidepressants in adjunct to
+antipsychotic medication.
+
+Although previous studies have reported 70% prevalence rates of
+depression at illness onset,\ :sup:`1` our study showed fewer
+respondents (19%) identified depression as occurring frequently in FEP;
+instead, 54% reported observing depression occurring with stable
+psychosis. This might suggest that depression in the early phases of
+psychosis is still underrecognised; this is concerning, given that young
+people in particular are at heightened risk of suicide within the first
+12 months following the initial episode of psychosis.\ :sup:`15,16`
+However, it must also be acknowledged that the findings from our survey
+are reliant on the memory of clinicians, with a potential for recall
+bias, and so the accuracy of these findings may be challenged.
+
+Despite a consensus on treatment strategies for depression, what became
+apparent from the survey was the uncertainty around assessing depression
+and delineating from psychosis symptoms, and particularly negative
+symptoms. Interestingly, a large proportion do not employ structured
+interview schedules to inform their assessment, which could aid this
+delineation. In particular, the CDSS was only used by 9% of respondents.
+The CDSS is a short and easily used instrument, designed specifically
+for the assessment of depression in psychosis, as it distinguishes
+between negative and positive symptoms.\ :sup:`17` Better promotion of
+these evaluation measures may be warranted.
+
+There were also reports of challenges faced by clinicians in determining
+if the symptoms were part of an affective component of the psychotic
+episode, potentially highlighting the need for a better understanding of
+the diagnostic uncertainty and course of depression in early
+psychosis.\ :sup:`18`
+
+Over the past two decades, there appears to have been a shift in
+prescribing of antipsychotic medications – particularly from the first
+generation (typical) to second generation (atypical) agents.\ :sup:`19`
+This is also reflected in our survey, where the majority were
+prescribing atypical agents such as aripiprazole, olanzapine,
+risperidone and quetiapine, compared with 4.9% and 3.9% of respondents
+prescribing haloperidol and zuclopenthixol. Thus, there appears to be a
+particular preference toward the antipsychotics believed to have the
+least side-effects, but not with recognition that some antipsychotics
+may have more antidepressant properties,\ :sup:`20` or possibly promote
+depression, such as haloperidol.\ :sup:`13`
+
+In regards to coprescribing in the present study, most respondents
+reported that there were no combinations of antidepressants and
+antipsychotics that they would actively avoid; however, some did express
+actively avoiding citalopram and antipsychotic in combination, with some
+citing risk of prolongation of the corrected QT interval. A similar
+percentage reported they would actively avoid a combination of
+mirtazapine and olanzapine because of increased risk of weight gain and
+sedation. In line with this, the majority of respondents (>70%) stated
+that they provided routine physical health monitoring when
+coprescribing. These findings indicate that clinicians are perhaps more
+cognisant of the potential physical health problems caused by
+antipsychotic medications, and may suggest proactiveness in mitigating
+such risks. Although this finding is encouraging, recent data shows that
+only 32.3% of individuals with severe mental illness in England receive
+a full physical health check.\ :sup:`21,22` Given the lowered life
+expectancy of individuals with schizophrenia, the current NICE
+recommendations advocate for annual physical health checks for all
+individuals with severe mental health problems.\ :sup:`23` Improving
+physical health monitoring should remain a top priority.\ :sup:`22`
+
+.. _sec3-1:
+
+Implications for clinical practice
+----------------------------------
+
+Our results may indicate further training and embedding of routine
+assessment tools into clinical practice is be needed to further increase
+the recognition and management of depression, which, if achieved, could
+improve outcomes. Indeed, this finding is in keeping with the wider
+literature on the difficulty of promoting the use of instruments, such
+as the CDSS, into routine practice.\ :sup:`24` A suggestion may be to
+embed these instruments into electronic patient records, and include
+monitoring of comorbidities as part of quality improvement programmes,
+and national audits such as the National Clinical Audit of
+Psychosis.\ :sup:`25`
+
+.. _sec3-2:
+
+Study strengths and limitations
+-------------------------------
+
+This study was the first to explore clinician recognition and management
+of depression in young people with FEP. Although the survey was
+completed by 297 clinicians, responses were underrepresented in certain
+parts of the country (particularly Wales, Northern Ireland and East
+Midlands), and overall response rate was low. On average, a third of the
+participants who completed the survey also returned incomplete
+questionnaires, affecting the overall representativeness of the
+information provided.
+
+This study relied on the clinician reflecting on their previous
+practice, awareness and general approach, and they were provided with
+multiple options for each question. As such, there is a potential for
+recall bias. Furthermore, some questions were focused on depression
+within psychosis more generally, meaning that responses were less
+specific to depression in FEP. It is also very likely that clinicians
+within the Early Intervention Service and those with more interest in
+this field may have been more involved in the survey. An Amazon voucher
+was also offered as an incentive for participation, again, further
+introducing a respondent bias.
+
+Another limitation was in disseminating the survey. Because of
+regulations governing the Royal College of Psychiatry, emails were only
+distributed to members registered under the General Adult Psychiatry
+faculty. The questionnaire was not disseminated to other psychiatric
+disciplines that may have been relevant, such as Child and Adolescent
+Mental Health Service, and Forensic or Learning Disability
+subspecialties. Finally, the survey was UK-based, with a low response
+rate. Further research is required to understand whether these practices
+are uniform in a larger sample of participants, and across different
+countries, particularly in the USA and Europe.
+
+In conclusion, although there is now more consensus on recognising
+depression in early psychosis strategies, there continues to be
+variations in the approach toward its assessment and management (e.g. in
+the use of specific interview schedules or evaluation measures to assess
+depression in those with psychosis). Although our findings are
+tentative, given the low response rate, the survey indicates that
+adjunctive treatment is being administered by most clinicians; however,
+some expressed difficulties in differentiating between depression
+occurring in relation to psychosis and negative symptoms of psychosis,
+and there was little consensus on treatment duration and time of
+expectation of response. Embedding of structured assessment tools into
+routine practice, in addition to devising clearer national guidelines
+based on large definitive trials, would be instrumental in improving
+future practice in early psychosis, potentially leading to improved
+outcomes.
+
+We thank the Royal College of Psychiatrists for supporting our research
+by distributing our study information to its members. We also thank the
+clinicians who took time to participate in this study.
+
+**Zainab Bashir** (MBBS, MSc, MRCPsych) is an ST5 Psychiatry Registrar
+at the Psychiatric Intensive Care Unit, Birmingham and Solihull Mental
+Health Foundation Trust, UK. **Sian Lowri Griffiths** (PhD) is a
+Research Fellow at theInstitute for Mental Health, University of
+Birmingham, UK. **Rachel Upthegrove** (MBBS, FRCPsych, PhD) is a
+Professor at the Institute for Mental Health, University of Birmingham,
+UK; and a Consultant Psychiatrist at the Birmingham Early Intervention
+Service, Birmingham Women's and Children's NHS Foundation Trust, UK.
+
+.. _sec-das:
+
+Data availability
+=================
+
+The corresponding and senior authors had full access to study data and
+had final responsibility for the decision to submit for publication. The
+data that support the findings of this study are available on request
+from the corresponding author, S.L.G. The data are not publicly
+available due to privacy or ethical restrictions.
+
+R.U. was the chief investigator and funds recipient. S.L.G. and Z.B.
+designed the study protocol and survey. The data were analysed by Z.B.
+and S.L.G. Z.B. and S.L.G. drafted the manuscript, with further input
+from R.U. All authors provided comments on the manuscripts and approved
+the final version.
+
+.. _nts5:
+
+Declaration of interest
+=======================
+
+R.U. reports grants from Medical Research Council, the National
+Institute for Health Research's Health Technology Assessment and the
+European Commission's Seventh Framework Programme, and personal fees
+from Sunovion, outside the submitted work.
+
+.. _sec4:
+
+Supplementary material
+----------------------
+
+For supplementary material accompanying this paper visit
+http://doi.org/10.1192/bjb.2021.15.
+
+.. container:: caption
+
+   .. rubric:: 
+
+   click here to view supplementary material

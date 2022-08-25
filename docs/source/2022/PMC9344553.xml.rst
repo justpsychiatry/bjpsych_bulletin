@@ -1,0 +1,282 @@
+==========================================================================
+Effects of the COVID-19 pandemic on provision of electroconvulsive therapy
+==========================================================================
+
+:Author: Richard Braithwaite
+:Author: Robert Chaplin
+:Author: Vimal SivasankerCorrespondence to Richard Braithwaite
+         (richard.braithwaite@nhs.net)
+:Date: 2022-06
+:Abstract:
+   .. rubric:: Aims and method
+      :name: sec_a1
+
+   COVID-19 has had a heavy impact on healthcare provision worldwide,
+   including delivery of electroconvulsive therapy (ECT). A survey was
+   completed in the UK and Republic of Ireland in April and July 2020 by
+   95 and 89 ECT clinics respectively.
+
+   .. rubric:: Results
+      :name: sec_a2
+
+   In April 2020, 53% of the clinics provided only emergency treatment
+   and 24% had closed. Reasons included unavailability of anaesthetists,
+   infection control measures and staff sickness. Restrictions persisted
+   in July, with disruption to an estimated 437 individuals’ treatment
+   and poor outcomes, including clinical deterioration and readmission.
+
+   .. rubric:: Clinical implications
+      :name: sec_a3
+
+   Risk stratification, longer clinic sessions, improvements in
+   ventilation, regular virus testing, pragmatic staff rostering and
+   availability of personal protective equipment will protect against
+   service disruption in subsequent waves of the pandemic.
+
+
+pmc
+Recent editorials in the *BJPsych*\ :sup:`1–3` concerning the effects of
+COVID-19 on psychiatry were written at the outset of the pandemic. It
+would perhaps have been impossible for their authors to have predicted
+what has been by far the most devastating effect of the pandemic on
+psychiatric care: suspension or reduction of normal service provision.
+This has included minimisation of face-to-face care and, crucially,
+limited provision of one of the most effective psychiatric treatments,
+electroconvulsive therapy (ECT).
+
+ECT typically involves aerosol-generating procedures (AGPs), including
+bag-mask ventilation, suction of secretions and, less commonly,
+laryngeal mask or endotracheal airway insertion and removal.\ :sup:`4`
+It was apparent early on in the pandemic that ECT might pose a risk of
+viral transmission between patients and healthcare professionals, and
+that alterations to practice might be needed to ensure safety. However,
+it quickly became apparent that provision of ECT was rapidly diminishing
+in most areas and even grinding to a halt in some. Anecdotally,
+anaesthesia staff had been redeployed in many localities but, although
+anticipated, significant levels of staff sickness and shielding were yet
+to be encountered.
+
+We present the findings of a survey conducted at two time points during
+the pandemic. The aim of the study was to establish the nature, extent
+and effects of any disruption to ECT services, with a view to
+establishing how obstacles to full service provision might be overcome
+in due course.
+
+The survey was conducted by the ECT Accreditation Service (ECTAS), the
+department of the Royal College of Psychiatrists responsible for the
+setting and monitoring of clinical standards in the delivery of ECT
+services across three regions of the UK (England, Wales and Northern
+Ireland) as well as in the Republic of Ireland. The survey did not cover
+ECT clinics in Scotland, where standards are set and monitored by the
+Scottish ECT Accreditation Network.
+
+.. _sec1:
+
+Method
+======
+
+Each ECTAS member clinic was sent a link to an online survey via the
+network's email discussion group during two 1-week periods in April and
+July 2020. The questionnaire was developed following consultation with
+clinical experts from ECTAS. Reminders were sent to non-responding
+clinics 2 days before the closing dates. Because this was a
+retrospective survey of clinicians and did not influence patient care,
+ethical approval was not required.
+
+In addition to the questions set out in `Table 1 <#tab01>`__,
+respondents were asked for the total number of patients at their clinic
+who had had their treatment affected by the pandemic since 16 March
+2020, including those who would otherwise have received ECT but had not.
+Table 1Survey responses from ECT clinics in England, Wales, Northern
+Ireland and the Republic of IrelandQuestionsResponses, *n* (%)April
+2020July 2020Is your ECT service currently being affected by the
+COVID-19 pandemic?Yes84 (88)69 (78)No11 (12)20 (22)What is the
+reason?\ `a <#tfn1_2>`__\ Lack of availability of anaesthetists49 (52)10
+(11)Increased PPE/environmental requirement43 (45)7 (8)Required
+infection control procedures have reduced treatment
+capacity\ `b <#tfn1_3>`__–48 (54)Staff sickness/shielding43 (45)10
+(11)Staff redeployed\ `b <#tfn1_3>`__–3 (3)Other\ `c <#tfn1_4>`__\ 20
+(21)23 (26)What has been the impact on service
+provision?\ `a <#tfn1_2>`__\ No service provided at present23 (24)8
+(9)Reduced number of sessions12 (13)13 (15)Service restricted to most
+urgent/severe cases50 (53)38 (43)Other\ `d <#tfn1_5>`__\ 14 (15)25
+(28)What has been the effect on patients who would normally have
+received ECT prior to the pandemic?\ `a <#tfn1_2>`__\ Having ECT at a
+different clinic16 (17)20 (22)Reduced frequency of ECT20 (21)14 (16)Not
+having any ECT, in-patient, duration of stay potentially increased47
+(49)28 (31)Not having any ECT, discharged from hospital17 (18)17 (19)ECT
+course curtailed35 (37)19 (21)Continuation/maintenance ECT stopped46
+(48)42 (47)Clinical condition worsened, probably as a result18 (19)29
+(33)Admitted to hospital3 (3)16 (18)Detained in hospital1 (1)6
+(7) [1]_ [2]_ [3]_ [4]_ [5]_
+
+.. _sec2:
+
+Results
+=======
+
+We are aware of 108 ECT clinics in existence in the four regions covered
+by this study; of those, 98 are members of ECTAS and were sent surveys
+to complete. In total, 95 clinics (97%) submitted responses to the
+survey in April 2020 and 89 (91%) in July 2020. Thus, our data cover 89%
+and 82% of all existing clinics at the two time points respectively.
+
+The main findings are summarised in `Table 1 <#tab01>`__. Of 95 clinics,
+84 (88%) were being adversely affected by the pandemic in April 2020: 50
+(53%) were restricting ECT to the most urgent and/or severe cases and 22
+(23%) were providing no service at all. By July, of 89 clinics, 69 (78%)
+were still affected, with 38 (43%) restricting cases and 8 (9%)
+remaining closed.
+
+Additionally, the 364 patients who had had their treatment affected by
+the pandemic since 16 March 2020, including those who had had ECT
+withheld, had risen to 437 by July 2020. One clinic alone had had the
+treatment of 41 patients affected.
+
+.. _sec3:
+
+Discussion
+==========
+
+Our survey shows that the vast majority of ECT services have been, and
+continue to be, adversely affected by the COVID-19 pandemic. Obstacles
+to delivery of ECT have been, and remain, various.
+
+Anaesthetists and operating department practitioners were withdrawn from
+ECT lists to staff enlarged intensive care units (ICUs), despite most
+ICUs never having even neared capacity. This affected over half of the
+clinics at the beginning of the pandemic, with some still experiencing
+problems by July 2020, when the first peak of COVID-19 infections had
+long subsided.
+
+Some ECT suites, with no means for adequate ventilation, have been
+unable to safely host a treatment that potentially involves AGPs. Even
+those suites that were adequately ventilated or have since been fitted
+with ventilation systems may continue to operate at reduced patient
+capacity. Many require patients to fully recover in treatment rooms
+owing to limited space for safe distancing between patients elsewhere
+and repurposing of recovery areas for doffing of personal protective
+equipment (PPE). Even in suites that retain separate recovery areas, the
+treatment room must be left fallow after any AGP for a set period before
+cleaning in preparation for the next patient. In some clinics this is as
+long as 30 min, depending on the frequency of air changes the room.
+
+Treatment rooms require full cleaning between patients, and staff
+members spend a lot of time donning and doffing PPE. These necessities
+at best halve patient throughput.\ :sup:`5` Some ECT services run from
+suites without adequate ventilation have instead delivered treatments in
+general hospital operating theatres,\ :sup:`6` which are subject not
+only to the restrictions listed above but also necessitate vying for
+time and facilities with surgical teams. Additionally, poor supply of
+PPE may have temporarily limited ECT provision in some hospitals.
+
+The resultant loss of productivity has been devastating for many
+patients. It has led to services variously cancelling all ECT or
+prioritising only the sickest patients; some clinics have stopped
+out-patient treatment. Widespread cessation of continuation and
+maintenance ECT has led to recurrence of severe illness, and delays in
+initiating acute courses have resulted in worse patient outcomes,
+particularly in life-threatening illness. Admissions and even formal
+detentions in hospital have occurred or been lengthened as a
+consequence.
+
+.. _sec3-1:
+
+Recommendations
+---------------
+
+Looking to the near future, it is imperative that ECT services remain
+functional even if there is a second wave of COVID-19 infections this
+winter. Guidance published in September 2020 jointly by four anaesthesia
+organisations in the UK\ :sup:`7` takes a pragmatic approach towards
+COVID-19 risk stratification that might prove helpful in increasing
+patient turnover. Crucially, it asserts that in-patients who are
+regularly tested for the virus and are on wards where COVID-19 patients
+are not being treated should be considered low risk. Previously only a
+small minority of out-patients who were shielding at home and regularly
+tested for the virus had been considered low risk. For treatment of
+low-risk patients, staff need wear only basic PPE (an apron, gloves and
+a surgical mask, with consideration of eye protection), usual recovery
+areas can be used and treatment rooms do not require full cleaning
+between patients.\ :sup:`7`
+
+However, patients in medium- and high-risk groups will continue to
+present for ECT. Some clinics may require improvements in ventilation to
+facilitate faster throughput of such patients. It is essential that any
+shut-down clinics be reopened without delay, following liaison between
+infection control, anaesthesia and ECT staff. Psychiatric staff must
+work closely with anaesthesia colleagues to develop pathways enabling
+out-patients to access ECT, including regular fast-track virus testing.
+
+It would be all too easy, with the benefit of hindsight, to criticise
+decisions made at the outset of the pandemic to redeploy anaesthetists,
+en masse, in anticipation of a surge in ICU usage of far greater
+magnitude than ultimately occurred. But it is important that the same
+situation does not recur and that staff are pulled from delivering ECT
+only if ICUs have a genuine need for the personnel and careful
+consideration of the balance of negative outcomes concludes that such
+action is unavoidable. PPE must be kept available. Lastly, the need to
+lengthen or widen ECT lists into afternoon sessions or on more days of
+the week must be seriously considered by healthcare providers, with job
+planning and prioritisation of staffing for ECT services made to
+facilitate this.
+
+We thank Eve Blanchard and Sinead Rogers of the ECT Accreditation
+Service for organising and collating the results of the survey and
+Professor George Kirov for his suggestions regarding this paper.
+
+**Richard Braithwaite** is a consultant psychiatrist with Isle of Wight
+NHS Trust, at St Mary's Hospital, Newport, Isle of Wight, and vice-chair
+of the Special Committee on Electroconvulsive Therapy and Related
+Treatments at the Royal College of Psychiatrists, London, UK. **Robert
+Chaplin** is Clinical Lead for Accreditation in the College Centre for
+Quality Improvement, Royal College of Psychiatrists, London, UK. **Vimal
+Sivasanker** is a consultant psychiatrist with Hertfordshire Partnership
+University NHS Foundation Trust, at Kingsley Green, Radlett, and chair
+of the Electroconvulsive Therapy Accreditation Service Advisory Group,
+Royal College of Psychiatrists, London, UK.
+
+.. _sec-das1:
+
+Data availability
+=================
+
+The data that support the findings of this study are available from the
+corresponding author on reasonable request.
+
+R.B. analysed the data and wrote the initial draft manuscript. R.C. was
+involved in designing the study, wrote the draft abstract and revised
+the manuscript. V.S. was involved in designing the study and revised the
+manuscript. All authors gave final approval of the version to be
+published and agree to be accountable for all aspects of the work.
+
+This research received no specific grant from any funding agency,
+commercial or not-for-profit sectors, but the survey was facilitated by
+employees of the Royal College of Psychiatrists, London.
+
+.. _nts5:
+
+Declaration of interest
+=======================
+
+None.
+
+.. [1]
+   ECT, electroconvulsive therapy; COVID-19, coronavirus disease 2019;
+   PPE, personal protective equipment.
+
+.. [2]
+   Multiple responses were allowed for these questions.
+
+.. [3]
+   These options were not listed in the March 2020 version of the
+   survey.
+
+.. [4]
+   ‘Other’ category included clinic/theatre space or equipment needed by
+   another service, and staff being redeployed to other areas.
+
+.. [5]
+   ‘Other’ category included patients being treated at a neighbouring
+   clinic, and list length reduced to allow time for use of PPE and
+   decontamination of facilities between patients.

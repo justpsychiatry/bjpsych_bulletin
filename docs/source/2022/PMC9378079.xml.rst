@@ -1,0 +1,61 @@
+=============================================================================================================
+Developing Inpatient Management Strategies for Behavioural and Psychological Symptoms of Dementia (DIMS-BPSD)
+=============================================================================================================
+
+:Author: Jennifer Parker
+:Author: Ryan Beazley
+:Author: Stephen De Souza*Presenting author.
+:Date: 2022-06
+:Abstract:
+   .. rubric:: Aims
+      :name: sec_a1
+
+   This project details the development of a Quality Improvement Project
+   aiming to review and improve the management of behavioural and
+   psychological symptoms of dementia (BPSD) on an old age psychiatry
+   ward. BPSD refers to a constellation of non-cognitive symptoms and
+   signs which arise in people with dementia, including disturbed
+   perception, thought content, mood or behaviour. Examples include
+   agitation, depression, apathy, repetitive questioning, psychosis,
+   aggression, sleep problems, and socially inappropriate behaviours.
+   BPSD arise in 5/6 of people with dementia over the course of their
+   illness and are associated with a deterioration in cognition and
+   progression in dementia plus secondary harms such as falls and
+   hospitalisation. Pyrland Two ward is a mixed gender specialised
+   organic old age psychiatry inpatient unit serving the county of
+   Somerset. Most patients have a diagnosis of dementia, are being cared
+   for using either MHA or MCA legislation and exhibit one or more BPSD.
+   There was no structured or formalised approach to the management of
+   BPSD at inception.
+
+   .. rubric:: Methods
+      :name: sec_a2
+
+   A point-in-time audit was conducted to produce baseline measurements
+   of BPSD management on the ward, measured against NICE
+   criteria.Plan-Do-Study-Act (PDSA) methodology was employed to
+   incorporate incremental quality improvement interventions such as a
+   ward-round checklist and staff education.
+
+   .. rubric:: Results
+      :name: sec_a3
+
+   Baseline: (n = 14) 4/14 formally diagnosed with BPSD. 6/14 were
+   prescribed antipsychotic medications, of which 1/6 fully met NICE
+   standards. 2/14 had structured assessment tools used.Results
+   following introduction of improvement methods: (n = 8) 8/8 formally
+   diagnosed with BPSD. 7/8 were prescribed antipsychotic medications,
+   of which 4/7 fully met NICE standards. 7/8 had structured assessment
+   tools used.
+
+   .. rubric:: Conclusion
+      :name: sec_a4
+
+   It was possible to see modest improvements in the ward-based
+   management of BPSD using quality improvement methodology, including
+   more favourable psychotropic prescribing. However, total patient
+   numbers are small and further interventions, such as more PDSA
+   cycles, may add value and encourage sustainability.
+
+
+pmc

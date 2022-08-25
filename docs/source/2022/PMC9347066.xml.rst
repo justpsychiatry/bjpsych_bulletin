@@ -1,0 +1,401 @@
+=================================================================================
+Adverse childhood experiences and adult self-harm in a female forensic population
+=================================================================================
+
+:Author: Rachel Holden
+:Author: Imogen Stables
+:Author: Penelope Brown
+:Author: Maria FotiadouCorrespondence to Dr Rachel Holden
+         (rachel.holden@kcl.ac.uk) [1]_
+:Date: 2022-06
+:Abstract:
+   .. rubric:: Aims and method
+      :name: sec_a1
+
+   This study aimed to investigate the prevalence of adverse childhood
+   experiences (ACEs) among patients in a female forensic psychiatric
+   in-patient medium-secure unit, and to analyse the link between ACEs,
+   adulthood self-harm and associated comorbidities and risk factors.
+   The study used a cross-sectional design, with data gathered from the
+   anonymised electronic health records of patients.
+
+   .. rubric:: Results
+      :name: sec_a2
+
+   It was found that there was a high prevalence of both ACEs and
+   self-harm among this patient group, and that there was a relationship
+   between the two; those with more ACEs were more likely to have
+   self-harmed during adulthood. Of the individual ACE categories, it
+   was also demonstrated that emotional abuse had a significant
+   association with adulthood self-harm.
+
+   .. rubric:: Clinical implications
+      :name: sec_a3
+
+   In medium-secure settings for women, implementation of
+   trauma-informed care will be beneficial because of the high number of
+   those with mental disorders who have experienced adversity during
+   their childhood.
+
+
+pmc
+Adverse childhood experiences (ACEs) are stressful or traumatic life
+events that occur before 18 years of age.\ :sup:`1,2` Having a history
+of ACEs is not uncommon: in a national household survey of adults
+residing in England, 47% of participants reported at least one
+ACE.\ :sup:`3` Research on ACEs has demonstrated links between ACEs and
+self-harm.\ :sup:`4` In a female prison population, all types of
+childhood abuse and neglect were more prevalent in those who self-harmed
+compared with those who did not, with significant associations between
+adulthood self-harm and both childhood emotional and sexual
+abuse.\ :sup:`5` ACEs have a cumulative effect on health outcomes, with
+higher numbers of ACEs predicting more adverse health
+outcomes.\ :sup:`6`
+
+This study occurred on Spring Ward, the female ward of River House
+Medium Secure Unit (MSU) in South London and Maudsley NHS Foundation
+Trust. Since opening in April 2008, the ward has offered a
+multidisciplinary biopsychosocial approach to support women toward
+recovery and reintegration into the community.\ :sup:`7` In 2017,
+following the success of implementing the Healing Trauma programme (a
+gender-specific intervention for trauma victims),\ :sup:`8` a
+trauma-informed care approach was introduced. Implementation involved
+team consultation, presentation and a training session on Stephanie
+Covington's Becoming Trauma-Informed Programme.\ :sup:`9`
+
+This study was conducted as part of a service evaluation to determine
+the prevalence of ACEs in a female MSU cohort and to explore the
+relationship between ACEs and adulthood self-harm. Links between ACEs
+and adulthood self-harming behaviours, violence and comorbidities (such
+as personality disorder) will be explored, which will enable us to
+better understand the present and future needs of patients.
+
+.. _sec1-1:
+
+Aims
+====
+
+Our first aim was to establish the prevalence of ACEs in patients in a
+female MSU, using a structured ACE questionnaire. Second, we aimed to
+establish the prevalence of adulthood self-harm, personality disorder,
+alcohol and drug misuse, and history of violence among female
+in-patients in the MSU. And finally, we aimed to explore the
+relationship between ACEs and adulthood self-harm.
+
+.. _sec2:
+
+Method
+======
+
+.. _sec2-1:
+
+Design and procedure
+--------------------
+
+The main study utilised a cross-sectional design, using medical records.
+The researchers conducted a thorough review of each patient's electronic
+medical records. Using previously recorded information, the amount of
+ACEs were calculated by the researcher, based upon the trauma history
+recorded in the patients records.
+
+.. _sec2-2:
+
+Participants
+------------
+
+All patients who were admitted to or were receiving continuing treatment
+on the ward between April 2008 and July 2019 were considered eligible
+for participation in this study. Criteria for admission to the ward
+include being over 18 years of age, committing an offence or having a
+significant history of violence. All patients are sectioned under the
+Mental Health Act 1983 (MHA) throughout their admission. The ward can
+accommodate 15 patients. Because of the relapsing and remitting nature
+of the mental disorders of many patients, several patients had multiple
+admissions during the study period; for these patients, data was
+gathered from medical records documented during their most recent
+admission.
+
+Initially, 68 participants were included in the sample. Two participants
+were excluded from the analysis because of insufficient information in
+their medical records regarding their childhood, taking the final sample
+to 66 participants. Demographic and clinical information included age on
+admission, ethnicity, primary diagnosis, MHA section, personality
+disorder, alcohol and drug misuse, and violence history. Ethnicity was
+recorded into subsections: White British, Black British, Black African,
+Black Caribbean, Asian and other. Primary diagnosis was recorded into
+three categories, according to the ICD-10: schizophrenia spectrum
+disorders (codes F20–F29), mood [affective] disorders (codes F30–F39)
+and personality disorders (codes F60–F69).\ :sup:`10` MHA sections of
+all patients were recorded into categories: forensic (section 37,
+sections 37 and 41, sections 47 and 49, and sections 48 and 49) and
+civil (section 3).\ :sup:`11`
+
+.. _sec2-3:
+
+Data collection and analysis
+----------------------------
+
+Exposure to adverse experiences up to 18 years of age was assessed for
+each participant, following a thorough review of their medical notes;
+ACE history was summarised by a ten-item version of the Adverse
+Childhood Experiences Questionnaire.\ :sup:`12` The ACE questionnaire
+consists of ten binary (yes/no) questions that assess exposure to
+emotional, physical and sexual abuse; emotional and physical neglect;
+and household dysfunction, including domestic violence, substance use
+and incarceration. Participants’ self-harm history since 18 years of age
+was obtained via medical records, along with comorbid personality
+disorder, alcohol and drug misuse, and history of violence. Self-harm
+was coded as a binary variable, with the presence of self-harm being
+recorded if there was any mention of self-harm or suicide attempt in
+adulthood mentioned in the medical records. ACEs were extracted from
+records of patients’ trauma history recorded in psychological and
+psychiatric reports contained in their medical records. Personality
+disorder presence was defined as a previous diagnosis of any type of
+personality disorder. Alcohol and drug misuse were defined as any
+positive history of problematic use of alcohol or drugs. History of
+violence was defined as any violence history before the event leading to
+admission. Each of these variables were recorded as dichotomous (yes/no)
+variables.
+
+Data was analysed with the Statistical Package for Social Sciences (IBM
+SPSS, version 25 for Mac).
+
+.. _sec2-4:
+
+Ethical approval
+----------------
+
+Ethical approval was granted by the Research, Outcomes and Service
+Evaluation Committee, a branch of the Behavioural and Developmental
+Psychiatry Clinical Academic Group of South London and Maudsley NHS
+Foundation Trust. The ethical approval included the use of anonymised
+medical records. This was a service development project using historic
+clinical records and as such the study was exempt from a need to provide
+informed consent.
+
+.. _sec3:
+
+Results
+=======
+
+Patients were aged between 18 and 72 years at admission (`Table
+1 <#tab01>`__). The sample was primarily Black and minority ethnic, and
+most patients had a primary diagnosis of schizophrenia, schizotypal and
+delusional disorders (ICD-10 codes F20–F29).\ :sup:`10` The majority of
+the sample had a history of drug misuse. Over a third of the sample had
+a history of alcohol misuse, and over a quarter had a comorbid
+personality disorder diagnosis. Table 1Demographic and clinical
+characteristics of the patient sampleCharacteristicCases (*N* = 66)Age
+at admission (years), mean (s.d.)38.40 (±11.37)Age categories (years),
+*n* (%)<2510 (15.2)25–3413 (19.7)35–4426 (39.3)45–5412 (18.2)≥555
+(7.6)Ethnicity, *n* (%)White British20 (30.3)Black British13 (19.7)Black
+African13 (19.7)Black Caribbean10 (15.2)Asian2 (3.0)Other8 (12.1)Primary
+diagnosis, *n* (%)F20–F29, Schizophrenia, schizotypal and delusional
+disorders57 (86.4)F30–F39, Mood [affective] disorders4 (6.1)F60–F69,
+Disorders of adult personality and behaviour5 (7.6)Comorbid personality
+disorder, *n* (%)20 (30.3)Alcohol misuse, *n* (%)25 (37.9)Drug misuse,
+*n* (%)34 (51.5)
+
+.. _sec3-1:
+
+Number and prevalence of ACEs
+-----------------------------
+
+In the total sample, the mean number of ACEs was 2.89 (±2.35) (`Table
+2 <#tab02>`__), with ACE number showing a positively skewed
+distribution. Within the sample, most individuals (*n* = 54, 81.9%) had
+experienced at least one ACE during childhood; of the total sample,
+28.8% had experienced two to three ACEs and 37.9% had experienced four
+or more ACEs. Among the ACE categories, emotional and physical abuse
+were the most common, and the rarest ACE was incarceration of household
+members (`Table 2 <#tab02>`__). Table 2Main study prevalence of number
+of ACEs and each category of ACECases, *N* = 66Number of ACEs, mean
+(s.d.)2.89 (2.35)Number of ACEs, *n* (%)012 (18.2)110 (15.2)214 (21.2)35
+(7.6)46 (9.1)57 (10.6)67 (10.6)74 (6.1)80 (0.0)91 (1.5)100 (0.0)ACE, *n*
+(%)Emotional abuse27 (40.9)Physical abuse27 (40.9)Sexual abuse20
+(30.3)Emotional neglect26 (39.4)Physical neglect20 (30.3)Parental
+separation or divorce26 (39.4)Violence against mother8 (12.1)Household
+alcohol/drug misuse13 (19.7)Mental illness in household21
+(31.8)Incarceration of household member2 (3.0) [2]_
+
+.. _sec3-2:
+
+Number of ACEs and adulthood self-harm
+--------------------------------------
+
+Adulthood self-harm in the sample was analysed. It was determined that
+over half of the sample had self-harmed during adulthood (*n* = 36,
+54.5%). Because of the positive skewed nature of the number of ACEs, we
+ran a Spearman's correlation to assess the relationship between number
+of ACEs and adulthood self-harm on the total sample of 66 patients.
+There was a statistically significant positive correlation between
+number of ACEs and adulthood self-harm (*r*\ :sub:`s`\ (64) = 0.45,
+*P* < 0.001). Following this, binary logistic regression was performed
+to ascertain the effect of increasing number of ACEs on the likelihood
+of adulthood self-harm. The binary logistic regression model was
+statistically significant (*χ*\ :sup:`2`\ (1) = 15.11, *P* < 0.005). The
+model explained 27.4% (Nagelkerke *R*\ :sup:`2`) of the variance in
+adulthood self-harm, and correctly classified 75.7% of cases
+(specificity 83.3%, sensitivity 69.4%). For every one-point increase in
+number of ACEs, individuals were 1.62 times more likely to self-harm as
+adults.
+
+.. _sec3-3:
+
+ACE categories and adulthood self-harm
+--------------------------------------
+
+We conducted an analysis to determine whether there was any association
+between individual ACE categories and adulthood self-harm. The total
+sample who had self-harmed during adulthood was analysed to determine
+the prevalence of each type of ACE within this category. In those who
+had self-harmed during adulthood, emotional abuse was the most common
+ACE (*n* = 22, 33.3%), followed by physical abuse (*n* = 19, 28.8%),
+emotional neglect (*n* = 19, 28.8%) and physical neglect (*n* = 17,
+25.8%). Estimates of the odds ratio for each of the ten ACEs ranged from
+1.38 (95% CI 0.47–3.99) for sexual abuse to 8.05 (95% CI 2.07–31.39) for
+physical neglect. However, statistically significant associations with
+adulthood self-harm were only seen for emotional abuse, physical abuse,
+emotional neglect and physical neglect. These relationships were then
+further explored by Pearson's *χ*\ :sup:`2`-tests and Fisher's exact
+tests, which confirmed that four categories of ACE had a statistically
+significant association with adulthood self-harm: emotional abuse
+(*χ*\ :sup:`2`\ (1) = 13.37, *P* < 0.001), physical abuse
+(*χ*\ :sup:`2`\ (1) = 4.62, *P* = 0.032), emotional neglect
+(*χ*\ :sup:`2`\ (1) = 5.94), *P* = 0.015) and physical neglect
+(*P* = 0.001, Fisher's exact test, two-sided).
+
+Multivariate binary logistic regression was conducted to determine
+whether emotional abuse, physical abuse, emotional neglect and physical
+neglect maintained their statistically significant association with
+adulthood self-harm when all four categories were accounted for. In this
+model, 31.2% (Nagelkerke *R*\ :sup:`2`) of the variation in adulthood
+self-harm was explained by these four ACE categories. This model
+correctly classified 71.2% of cases (specificity 80.0%, sensitivity
+63.9%). When accounting for emotional abuse, physical abuse, emotional
+neglect and physical neglect, only emotional abuse maintained a
+statistically significant relationship with adulthood self-harm
+(*P* = 0.034), showing that being emotionally abused increased the
+likelihood of adulthood self-harm by 7.36 times (`Table 3 <#tab03>`__).
+Table 3Multivariate binary logistic regression to analyse the
+association between emotional abuse, physical abuse, emotional neglect
+and physical neglect, and adulthood
+self-harmVariables\ *B*\ s.e.Waldd.f.SignificanceExp(*B*)95% CI for
+Exp(*B*)LowerUpperStep 1Emotional
+abuse1.9970.9444.47710.0347.3641.15846.805Physical
+abuse−0.5070.9050.31410.5750.6020.1023.549Emotional
+neglect−0.9651.1160.74810.3870.3810.0433.395Physical
+neglect1.9271.1382.86810.0906.8680.73963.859 [3]_
+
+.. _sec4:
+
+Discussion
+==========
+
+This study was the first to analyse the prevalence of ACEs, adulthood
+self-harm and their relationship in a female MSU population in the UK.
+Multivariate binary logistic regression revealed a statistically
+significant association between an increasing number of ACEs and
+increased likelihood of adulthood-self harm. Emotional abuse was shown
+to have a statistically significant association with adulthood
+self-harm.
+
+We found a high prevalence of ACE exposure in this female MSU cohort,
+with over 80% of individuals experiencing at least one ACE and 56%
+experiencing more than two ACEs. The prevalence of ACE exposure among
+this female MSU group was higher than the 47% prevalence in the general
+adult population of the UK.\ :sup:`3`
+
+Within this population, there was a high prevalence of adulthood
+self-harm. Adulthood self-harm in our sample was reported by 54.5%,
+similar to the rates reported by Ribeiro et al\ :sup:`13` (whose MSU
+population overlapped with ours), who found that 46.7% had a documented
+history of self-harm before MSU admission. Baker et al\ :sup:`14`
+interviewed female patients in a medium-secure setting and discussed
+their experiences of self-harm; an overarching theme discussed was that
+of ‘the traumatised individual’, suggesting that individuals linking
+their traumatic experiences to self-harming behaviour is not uncommon.
+The high prevalence of ACEs amongst the female MSU population indicates
+that a trauma-informed approach to care in MSU settings for women is
+crucial. Application of ‘universal trauma precautions’ is necessary, to
+ensure that all who have been exposed to ACEs receive care that is not
+only growth-promoting, but also less likely to cause re-traumatisation
+than standard care.\ :sup:`15`
+
+We found a statistically significant correlation between an increasing
+number of ACEs and the likelihood of adulthood self-harm. This is
+similar to research by Cleare et al,\ :sup:`16` showing that those with
+a history of repeat self-harm were significantly more likely to report
+exposure to multiple ACEs. Moreover, our finding of a statistically
+significant relationship between emotional abuse and adulthood self-harm
+supports the research by Howard et al,\ :sup:`5` who found a
+statistically significant association between emotional abuse and
+self-harm in a sample of female prisoners.
+
+It was advantageous to focus on those admitted to a single female MSU
+over the past 11 years, as there is limited data regarding this
+population. Use of electronic medical records to obtain data meant
+minimal information was missing and there was low attrition. In this
+niche population, we achieved a good sample size; only around 12% of the
+3500 MSU beds in the UK are occupied by women.\ :sup:`17`
+
+The ACE questionnaire is limited as it provides no information regarding
+the severity, degree, duration, timing or quality of each ACE component,
+which may differ significantly from person to person. Furthermore, data
+collected about self-harm behaviours could have been improved by using
+the Inventory of Statements about Self-Injury questionnaire,\ :sup:`18`
+examining the type, frequency, severity and reasons for the behaviour.
+Further research could focus on collecting more in-depth childhood
+histories from patients, or using self-harm measures that capture
+frequency and severity.
+
+Limited research is also available in forensic psychiatric settings,
+specifically MSUs, and nationwide research into ACEs and self-harm
+within these units could be beneficial. Furthermore, the
+neurodevelopmental and psychological mechanisms by which ACEs and
+self-harm are linked need exploration.
+
+**Rachel Holden** is a clinical psychologist at South London and
+Maudsley NHS Foundation Trust, UK, and a Clinical Psychologist Lecturer
+with the Institute of Psychiatry, Psychology & Neuroscience at King's
+College London, UK. **Imogen Stables** is a Medical Student at GKT
+School of Medical Education, King's College London, UK. **Penelope
+Brown** is a Consultant Forensic Psychiatrist at South London and
+Maudsley NHS Foundation Trust, UK. **Maria Fotiadou** is a Consultant
+Forensic Psychiatrist South London and Maudsley NHS Foundation Trust,
+UK.
+
+.. _sec-das1:
+
+Data availability
+=================
+
+The data that support the findings of this study are available from the
+corresponding author, R.H., upon reasonable request.
+
+I.S. was involved in data collection, data analysis and writing of the
+manuscript. R.H., P.B. and M.F. contributed to writing the manuscript.
+
+.. _nts4:
+
+Declaration of interest
+=======================
+
+None.
+
+.. [1]
+   Joint first authors.
+
+.. [2]
+   Within the sample, two was the most common amount of ACEs (56% of the
+   sample experienced two or more ACEs) and emotional and physical abuse
+   were the most common ACE categories. ACE, adverse childhood
+   experience.
+
+.. [3]
+   This multivariate binary logistic regression model included all
+   adverse childhood experience categories that were individually
+   significantly associated with adulthood self-harm. It was run to
+   determine whether statistical significance was maintained when all
+   the categories were accounted for; only emotional abuse remained
+   significantly associated with adulthood self-harm.
