@@ -1,2 +1,0 @@
-.. datatemplate:xml:: PMC7360952.xml
-   :template: jats-to-html.tmpl
