@@ -1,12 +1,11 @@
-2021
+2022
 ####
 
 .. toctree::
-    :glob:
-    :maxdepth: 1
-    :Title: Articles
-
-    PMC*
-    *
-
+   :caption: Articles
+   :glob:
+   
+   PMC*
+   *
 ...
+

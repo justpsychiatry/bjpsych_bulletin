@@ -34,6 +34,7 @@ Contents
    ./2022/index.rst
    ./2021/index.rst
    *
+
 .. admonition:: Copyrights
 
    CCBY 4.0
