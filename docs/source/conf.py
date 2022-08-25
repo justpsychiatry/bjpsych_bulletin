@@ -32,5 +32,12 @@ templates_path = ['_templates']
 
 html_theme = 'furo'
 
+source_suffix = {
+    '.rst': 'restructuredtext',
+    '.txt': 'restructuredtext',
+    '.md': 'markdown',
+}
+
+
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
