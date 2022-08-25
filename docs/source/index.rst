@@ -10,8 +10,7 @@ Welcome to BJPsych Bulletin Archive
    *BJPsych Bulletin* is not responsible for statements made by contributors and material in BJPsych Bulletin does not necessarily reflect the views of the Editor-in-Chief or the College.
 
 :Author(s): Royal College of Psychiatrists, issuing body
-:NLM-Title-Abbreviation:
-:Psychiatr Bull (2014)
+:NLM-Title-Abbreviation: Psychiatr Bull (2014)
 :Title(s): The psychiatric bulletin.
 :Uniform-title: Psychiatric bulletin (2014) 
 :Continues: Psychiatrist ISSN 1758-3209
