@@ -17,6 +17,7 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinxcontrib.datatemplates',
+    'myst_parser'
     'sphinx.ext.intersphinx',
 ]
 
@@ -35,7 +36,7 @@ html_theme = 'furo'
 source_suffix = {
     '.rst': 'restructuredtext',
     '.txt': 'restructuredtext',
-    '.md': 'markdown',
+    '.md': 'myst',
 }
 
 
