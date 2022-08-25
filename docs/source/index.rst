@@ -33,6 +33,12 @@ Contents
 
    ./2022/index.rst
    ./2021/index.rst
+   ./2020/index.rst
+   ./2019/index.rst
+   ./2018/index.rst
+   ./2017/index.rst
+   ./2016/index.rst
+
    *
 
 .. admonition:: Copyrights
