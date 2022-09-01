@@ -82,12 +82,14 @@ sitemap_filename = "bjpsychmap.xml"
 sitemap_url_scheme = "{link}"
 hoverxref_auto_ref = True
 
-.. admonition:: Copyright Notice
+
+rst_epilog = """
+
+ .. admonition:: Copyright Notice
  
-    Articles published from BJPsych Bulletin are open-access, published under the terms of creative commons  Attribution licence (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted re-use, distribution, and reproduction in any medium, provided the original work is properly cited.
+     Articles published from BJPsych Bulletin are open-access, published under the terms of creative commons  Attribution licence (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted re-use, distribution, and reproduction in any medium, provided the original work is properly cited.
     The Authors own the copyrights to the individual articles. 
        
-
 """
 
 hoverxref_roles = [
