@@ -39,8 +39,6 @@ Contents
    ./2017/index.rst
    ./2016/index.rst
 
-   *
-
 .. admonition:: Copyrights
 
-   CCBY 4.0
+   CCBY 4.0 

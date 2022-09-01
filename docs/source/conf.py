@@ -2,25 +2,25 @@
 
 # -- Project information
 
+
+import os
+import sys
+sys.path.insert(0, os.path.abspath('.'))
+#import sphinx_rtd_theme
+import sphinxcontrib.bibtex
+import myst_parser
+import sphinxcontrib.apa
+
 project = 'BJPsychBulletin'
-copyright = '2021, BJpsych'
+Copyright = '2022, Justpsychiatry'
 author = 'Justpsychiatry'
 
-release = '0.1'
-version = '0.1.0'
+#release = '0.1'
+#version = '0.1.0'
 
 # -- General configuration
 
-extensions = [
-    'sphinx.ext.duration',
-    'sphinx.ext.doctest',
-    'sphinx.ext.autodoc',
-    'sphinx.ext.autosummary',
-    'sphinx_rtd_theme',
-    'sphinxcontrib.datatemplates',
-    'myst_parser',
-    'sphinx.ext.intersphinx',
-]
+
 
 intersphinx_mapping = {
     'python': ('https://docs.python.org/3/', None),
@@ -30,6 +30,37 @@ intersphinx_disabled_domains = ['std']
 
 templates_path = ['_templates']
 
+extensions = [
+    'sphinx.ext.duration',
+    'sphinx.ext.doctest',
+    'sphinx_sitemap',
+    'sphinx.ext.autodoc',
+    'sphinx.ext.autosummary',
+    'sphinx.ext.intersphinx',
+    'sphinxcontrib.bibtex',
+    'sphinxcontrib.apa',
+    'myst_parser',
+    'sphinx_rtd_theme',
+    'sphinx_design',
+    'sphinx_search.extension',
+    'hoverxref.extension',
+]
+
+myst_enable_extensions = [
+    "amsmath",
+    "colon_fence",
+    "deflist",
+    "dollarmath",
+    "fieldlist",
+    "html_admonition",
+    "html_image",
+    "linkify",
+    "replacements",
+    "smartquotes",
+    "strikethrough",
+    "substitution",
+    "tasklist",
+]
 # -- Options for HTML output
 
 html_theme = 'sphinx_rtd_theme'
@@ -40,6 +71,31 @@ source_suffix = {
     '.md': 'myst',
 }
 
+
+html_theme = 'sphinx_rtd_theme'
+html_static_path = ['_static']
+html_title = "BJPsych Bulletin Archive"
+html_baseurl ='https://justpsychiatry.co.uk/projects/bjpsych-bull/'
+bibtex_bibfiles = ['bjpsych.bib']
+bibtex_reference_style = 'author_year'
+sitemap_filename = "bjpsychmap.xml"
+sitemap_url_scheme = "{link}"
+hoverxref_auto_ref = True
+
+.. admonition:: Copyright Notice
+ 
+    Articles published from BJPsych Bulletin are open-access, published under the terms of creative commons  Attribution licence (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted re-use, distribution, and reproduction in any medium, provided the original work is properly cited.
+    The Authors own the copyrights to the individual articles. 
+       
+
+"""
+
+hoverxref_roles = [
+    'numref',
+    'term',
+    'abbr',
+    'ref',
+]
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
