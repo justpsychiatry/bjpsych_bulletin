@@ -1,112 +1,1168 @@
-<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
-<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-journalpublishing1.dtd?><?SourceDTD.Version 1.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">BJPsych Bull</journal-id><journal-id journal-id-type="iso-abbrev">BJPsych Bull</journal-id><journal-id journal-id-type="hwp">pbrcpsych</journal-id><journal-title-group><journal-title>BJPsych Bulletin</journal-title></journal-title-group><issn pub-type="ppub">2056-4694</issn><issn pub-type="epub">2056-4708</issn><publisher><publisher-name>Royal College of Psychiatrists</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">5709681</article-id><article-id pub-id-type="doi">10.1192/pb.bp.116.055749</article-id><article-categories><subj-group subj-group-type="heading"><subject>Original Papers</subject></subj-group></article-categories><title-group><article-title>Assessing the second-hand effects of a new no-smoking policy in an acute mental health trust</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Perry</surname><given-names>Benjamin Ian</given-names></name><xref ref-type="aff" rid="A1">1</xref><xref ref-type="aff" rid="A2">2</xref><xref ref-type="corresp" rid="cor1"/></contrib><contrib contrib-type="author"><name><surname>Meehan</surname><given-names>Katherine</given-names></name><xref ref-type="aff" rid="A2">2</xref></contrib><contrib contrib-type="author"><name><surname>Jainer</surname><given-names>Ashok Kumar</given-names></name><xref ref-type="aff" rid="A2">2</xref></contrib></contrib-group><aff id="A1"><label>1</label>University of Warwick</aff><aff id="A2"><label>2</label>Coventry and Warwickshire Partnership NHS Trust</aff><author-notes><corresp id="cor1">
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article">    <?properties open_access?>    <?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN?>    <?DTDIdentifier.IdentifierType public?>    <?SourceDTD.DTDName JATS-journalpublishing1.dtd?>    <?SourceDTD.Version 1.0?>    <?ConverterInfo.XSLTName jp2nlmx2.xsl?>    <?ConverterInfo.Version 1?>
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="nlm-ta">BJPsych Bull</journal-id>
+            <journal-id journal-id-type="iso-abbrev">BJPsych Bull</journal-id>
+            <journal-id journal-id-type="hwp">pbrcpsych</journal-id>
+            <journal-title-group>
+                <journal-title>BJPsych Bulletin</journal-title>
+            </journal-title-group>
+            <issn pub-type="ppub">2056-4694</issn>
+            <issn pub-type="epub">2056-4708</issn>
+            <publisher>
+                <publisher-name>Royal College of Psychiatrists</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="pmcid">5709681</article-id>
+            <article-id pub-id-type="doi">10.1192/pb.bp.116.055749</article-id>
+            <article-categories>
+                <subj-group subj-group-type="heading">
+                    <subject>Original Papers</subject>
+                </subj-group>
+            </article-categories>
+            <title-group>
+                <article-title>Assessing the second-hand effects of a new no-smoking policy in an acute mental health trust</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Perry</surname>
+                        <given-names>Benjamin Ian</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                    <xref ref-type="aff" rid="A2">2</xref>
+                    <xref ref-type="corresp" rid="cor1" />
+                </contrib>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Meehan</surname>
+                        <given-names>Katherine</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A2">2</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Jainer</surname>
+                        <given-names>Ashok Kumar</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A2">2</xref>
+                </contrib>
+            </contrib-group>
+            <aff id="A1">
+                <label>1</label>University of Warwick</aff>
+            <aff id="A2">
+                <label>2</label>Coventry and Warwickshire Partnership NHS Trust</aff>
+            <author-notes>
+                <corresp id="cor1">
 Correspondence to Benjamin Ian Perry (<email>benjamin.perry@covwarkpt.nhs.uk</email>)
-</corresp><fn><p><bold>Benjamin Ian Perry</bold> MBBS BSc, Division of Mental Health and Wellbeing, University of Warwick, UK, and Coventry and Warwickshire Partnership NHS Trust, UK. <bold>Katherine Meehan</bold> MBChB BSc, Coventry and Warwickshire Partnership NHS Trust, UK. <bold>Ashok Kumar Jainer</bold>, Coventry and Warwickshire Partnership NHS Trust, UK.</p></fn></author-notes><pub-date pub-type="ppub"><month>12</month><year>2017</year></pub-date><volume>41</volume><issue>6</issue><fpage>325</fpage><lpage>330</lpage><history><date date-type="received"><day>7</day><month>12</month><year>2016</year></date><date date-type="rev-recd"><day>21</day><month>3</month><year>2017</year></date><date date-type="accepted"><day>5</day><month>5</month><year>2017</year></date></history><permissions><copyright-statement>&#x000a9; 2017 The Authors</copyright-statement><copyright-year>2017</copyright-year><license license-type="creative-commons" xlink:href="http://creativecommons.org/licenses/by/4.0"><license-p>This is an open-access article published by the Royal College of Psychiatrists and distributed under the terms of the Creative Commons Attribution License (<uri xlink:href="http://creativecommons.org/licenses/by/4.0">http://creativecommons.org/licenses/by/4.0</uri>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xlink:title="pdf" xlink:href="325.pdf"/><abstract><p id="P1"><bold>Aims and method</bold> To examine whether a new no-smoking policy in an in-patient mental health setting had any effects outside of smoking cessation. Our hypothesis stated that a forced smoking ban for in-patients may result in an increased susceptibility for clinical incidents, aggression and lower admission rates. All patients admitted to adult in-patient mental health services in Coventry and Warwickshire Partnership NHS Trust were included in the analysis. Data 6 months post-implementation of the smoking policy (1 July 2015 to 1 January 2016) were compared with the same period 1 year prior (1 July 2014 to 1 January 2015). Patient demographics, admission rates, ward occupancy, average lengths of stay, numbers of reported incidents and use of the Mental Health Act 1983 (MHA) were compared.</p><p id="P2"><bold>Results</bold> We analysed 4223 admissions. We found a significantly increased number of admissions under the MHA (<italic>P</italic> = 0.007), a significantly greater number of reported smoking-related incidents (<italic>P</italic> &#x0003c; 0.001) and aggression-related incidents in the psychiatric intensive care unit (<italic>P</italic> &#x0003c; 0.001). However, we found no significant difference in capacity of in-patient wards (<italic>P</italic> = 0.39), admission length (<italic>P</italic> = 0.34) or total aggression-related incidents (<italic>P</italic> = 0.86).</p><p id="P3"><bold>Clinical implications</bold> Although further comparisons over longer time periods are necessary, our results suggest that enforced smoking cessation on acutely unwell psychiatric patients admitted to the most restricted environments may have some negative effects. Nicotine replacement therapy should be offered to all patients to minimise the risk of clinical incident.</p></abstract></article-meta></front><body><p id="P4">Smoking rates among those with a mental illness are 70% higher than in the general population.<sup><xref rid="R1" ref-type="bibr">1</xref></sup> In fact, although the prevalence of smoking in the general population has decreased, this has not occurred for those with a mental illness.<sup><xref rid="R2" ref-type="bibr">2</xref></sup> In particular, the highest smoking rates are found in those acutely unwell with a psychiatric illness, in in-patient units.<sup><xref rid="R3" ref-type="bibr">3</xref>&#x02013;<xref rid="R6" ref-type="bibr">6</xref></sup></p><p id="P5">Multiple explanations for such high smoking rates within the mental health sector have been put forward, including symptom control and amelioration,<sup><xref rid="R7" ref-type="bibr">7</xref></sup> boredom or loneliness,<sup><xref rid="R8" ref-type="bibr">8</xref>,<xref rid="R9" ref-type="bibr">9</xref></sup> an increased propensity to experience more severe nicotine withdrawal symptoms than the general population,<sup><xref rid="R10" ref-type="bibr">10</xref>,<xref rid="R11" ref-type="bibr">11</xref></sup> for relaxation in a stressful environment,<sup><xref rid="R9" ref-type="bibr">9</xref>,<xref rid="R12" ref-type="bibr">12</xref></sup> a common genetic vulnerability<sup><xref rid="R5" ref-type="bibr">5</xref></sup> or that people with a mental illness are less susceptible to anti-smoking messages.<sup><xref rid="R13" ref-type="bibr">13</xref></sup></p><p id="P6">As a result of relatively higher smoking rates, people with a mental illness also have higher mortality rates than the general population. Tobacco use contributes significantly to causes of ill health and mortality in those with mental health disorders.<sup><xref rid="R11" ref-type="bibr">11</xref></sup> Individuals at particular risk are patients with schizophrenia, who have a life expectancy 20% shorter than the general population.<sup><xref rid="R14" ref-type="bibr">14</xref>,<xref rid="R15" ref-type="bibr">15</xref></sup> Tobacco use can also affect the effectiveness of some psychiatric medication, necessitating increased dosages and therefore purporting a higher chance of side-effects.<sup><xref rid="R16" ref-type="bibr">16</xref></sup></p><p id="P7">The UK government implemented its smoke-free policy in July 2007, which extended to all &#x02018;substantially enclosed&#x02019; public and work places. This included hospitals, with the aim of reducing the impact of second-hand smoke on patients and staff<sup><xref rid="R17" ref-type="bibr">17</xref></sup> This was extended to all types of in-patient units from 2008.</p><p id="P8">Guidance from the National Institute for Health and Care Excellence (NICE), published in 2013, aims to support smoking cessation, temporary abstinence from smoking and smoke-free policies in all secondary care settings.<sup><xref rid="R18" ref-type="bibr">18</xref></sup> In this guidance, &#x02018;secondary care&#x02019; refers to all publicly funded secondary and tertiary care facilities, including buildings, grounds and vehicles. It covers in-patient, residential and long-term care for severe mental illness in hospitals, psychiatric settings, specialist and secure units.</p><p id="P9">Prior to the introduction of the legislation, a relatively large survey of National Health Service (NHS) staff found that a third of psychiatric staff disagreed with smoke-free legislation compared with only one in ten of general staff.<sup><xref rid="R19" ref-type="bibr">19</xref></sup> A survey of mental health units in England in January 2007 found that the vast majority (91%) believed mental health premises faced particular challenges due to the high smoking prevalence among patients, associated safety risks, and potential interactions with antipsychotic medication.<sup><xref rid="R20" ref-type="bibr">20</xref></sup> However, despite the challenges, the smoke-free policy has been rated positive overall. Cited advantages include a reduced exposure of patients and staff to second-hand smoke, an enhancement and support in patients' motivation to stop smoking, improved sleeping patterns among patients, and the conversion of former smoking rooms into new recreational spaces.<sup><xref rid="R20" ref-type="bibr">20</xref></sup></p><p id="P10">Since the development of non-smoking policies within the NHS, debate has evolved around any potential infringement this might have on a patient's human rights. A patient at one of Scotland's high-security forensic hospitals recently won a court ruling that a blanket ban on smoking breached his human rights.<sup><xref rid="R21" ref-type="bibr">21</xref></sup> According to Article 8 of the Human Rights Act 1998, everyone has the right to respect for his private life and his home. With regard to mental health units, lengthy hospital admissions may qualify as breach of one's private and home life.</p><p id="P11">The introduction of a non-smoking policy to mental health services remains a relatively novel practice. We are yet to fully appreciate its impact on in-patient services. Coventry and Warwickshire Partnership NHS Trust in the UK introduced a no-smoking policy within its mental health units on 1 July 2015. The Trust is one of the first to implement this policy following the growing evidence of high smoking rates and adverse health implications within the mental health population. Although the benefits of smoking cessation are widely acknowledged, there exists an assumption that enforcing smoking cessation on unwilling patients results in increased stress levels and therefore higher rates of aggression-related incidents.</p><p id="P12">Voluntary admission to an in-patient mental health ward requires the patient to agree to certain ward policies and procedures explained by the clinician. Within the Trust it is standard procedure to explain the non-smoking policy for both voluntary and involuntary admissions. The impacts outside of smoking cessation caused by a forced no-smoking policy has previously been analysed in a medium secure unit, finding no significant difficulties and that the widely anticipated problems did not materialise.<sup><xref rid="R22" ref-type="bibr">22</xref></sup> We have been unable to find another study analysing similar changes in a typical psychiatric unit (mixed voluntary and involuntary patients).</p><sec disp-level="2" id="S1"><title>Aims and objectives</title><p id="P13">The aim of the study was to examine whether a newly implemented no-smoking policy for patients in a typical in-patient mental health setting had any effects outside of smoking cessation. The objectives were first to compare admission rates and bed occupancy/capacity levels at comparable time periods pre- and post-implementation of the new no-smoking policy in a specified mental health trust. We also sought to compare the numbers of reported incidents occurring on the wards at comparable time periods pre- and post-implementation, focusing particularly on aggression-related and smoking-related incidents. In addition, we wanted to ascertain whether there was any significant difference in the use of the Mental Health Act 1983 at comparable time periods pre- and post-implementation of the new policy, and whether this was related to the change in smoking policy.</p></sec><sec sec-type="methods" id="S2"><title>Method</title><sec id="S3"><title>Study location and Trust smoking policy</title><p id="P14">Data were collected from all patients admitted to mental health beds in Coventry and Warwickshire Partnership NHS Trust during the 12 months before and 6 months after implementation of the smoking ban. The change in policy was implemented on 1 July 2015, therefore data were collected between 1 July 2014 and 1 January 2016. The Trust smoking ban states that &#x02018;all staff, patients and visitors are not able to smoke tobacco products in Trust buildings or on Trust land.&#x02019;<sup><xref rid="R23" ref-type="bibr">23</xref></sup> The Trust maintains a policy of offering nicotine replacement therapy to admitted patients, comprising of either an e-cigarette or nicotine transdermal patch.</p><p id="P15">Adult in-patient mental health services in the Trust comprise of three acute psychiatric units: the Caludon Centre in Coventry (112 beds), St Michael's Hospital in Warwick (41 beds) and the Pembleton Unit in Nuneaton (12 beds), with adult rehabilitation services provided at multiple sites (40 beds), for a catchment area of around 850 000 people.</p></sec><sec id="S4"><title>Inclusion and exclusion criteria</title><p id="P16">All patients admitted to adult in-patient mental health services, both acute and rehabilitation, in Coventry and Warwickshire Partnership NHS Trust were included in analysis. To account for seasonal variation, data 6 months post-implementation of the smoking policy (1 July 2015 to 1 January 2016) were compared with the same 6 months the year prior to implementation of the smoking policy (1 July 2014 to 1 January 2015). There were no specific inclusion criteria for diagnosis or length of admission to help prevent selection bias. All sites within the Trust were included in the analysis.</p></sec><sec id="S5"><title>Ethics</title><p id="P17">The study was approved by Coventry and Warwickshire Partnership NHS Trust as a service evaluation and as such did not need formal ethical approval from an NHS research ethics committee. Data were collated in an anonymised format from routine clinical records, by the authors.</p></sec><sec id="S6"><title>Data collection</title><p id="P18">First, basic demographic data such as mean age and gender were obtained. Second, monthly admission rates and ward occupancy levels between the dates were collected. Third, monthly total numbers of reported incidents were obtained. All data were collected by data analysts within the Trust.</p></sec><sec id="S7"><title>Statistical analysis</title><p id="P19">For the count data (number of admissions under the MELA, total incidents, aggression-related incidents, psychiatric intensive care unit (PICU) incidents and smoking incidents), Poisson regression was used to generate a significance value. Where data were provided as percentages (i.e. capacity), we converted to mean <italic>n</italic> based on the total Trust capacity (<italic>n</italic> = 205). The Shapiro-Wilk test for normality allowed a decision as to whether to use parametric or non-parametric statistical comparisons. All statistical comparisons were made using IBM SPSS Statistics 24.</p><p id="P20">Since we were are measuring six outcomes in our analysis, a Bonferroni correction was applied. The &#x003b1;-value (0.05) was therefore adjusted to a significance value of <italic>P</italic> = 0.008.</p></sec></sec><sec sec-type="results" id="S8"><title>Results</title><sec id="S9"><title>Demographic data</title><p id="P21"><xref ref-type="table" rid="T1">Table 1</xref> outlines the demographic data comparisons during our two selected periods of analysis. <xref ref-type="table" rid="T2">Table 2</xref> outlines the findings from our other objectives.</p><table-wrap id="T1" orientation="portrait" position="float"><label>Table 1</label><caption><p>Demographic differences</p></caption><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" valign="middle" span="1"/><col align="left" valign="middle" span="1"/><col align="left" valign="middle" span="1"/></colgroup><thead><tr><th rowspan="1" colspan="1"/><th align="center" rowspan="1" colspan="1">Pre-implementation</th><th align="center" rowspan="1" colspan="1">Post-implementation</th></tr></thead><tbody><tr><td rowspan="1" colspan="1"><italic>n</italic></td><td rowspan="1" colspan="1">2124</td><td rowspan="1" colspan="1">2099</td></tr><tr><td colspan="3" rowspan="1"><hr/></td></tr><tr><td rowspan="1" colspan="1">Male, %</td><td rowspan="1" colspan="1">60.2</td><td rowspan="1" colspan="1">59.9</td></tr><tr><td colspan="3" rowspan="1"><hr/></td></tr><tr><td rowspan="1" colspan="1">Age, years: mean</td><td rowspan="1" colspan="1">29.56</td><td rowspan="1" colspan="1">29.39</td></tr></tbody></table></table-wrap><table-wrap id="T2" orientation="portrait" position="float"><label>Table 2</label><caption><p>Data outlining differences before/after implementation of no-smoking policy</p></caption><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" valign="middle" span="1"/><col align="left" valign="middle" span="1"/><col align="left" valign="middle" span="1"/><col align="left" valign="middle" span="1"/><col align="left" valign="middle" span="1"/><col align="left" valign="middle" span="1"/><col align="left" valign="middle" span="1"/><col align="right" valign="middle" span="1"/></colgroup><thead><tr><th rowspan="1" colspan="1"/><th align="center" rowspan="1" colspan="1">Jul</th><th align="center" rowspan="1" colspan="1">Aug</th><th align="center" rowspan="1" colspan="1">Sep</th><th align="center" rowspan="1" colspan="1">Oct</th><th align="center" rowspan="1" colspan="1">Nov</th><th align="center" rowspan="1" colspan="1">Dec</th><th align="center" rowspan="1" colspan="1">Mean</th></tr></thead><tbody><tr><td rowspan="1" colspan="1">Number of admissions under Mental<break/>Health Act 1983, <italic>n</italic></td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Before</td><td rowspan="1" colspan="1">143</td><td rowspan="1" colspan="1">144</td><td rowspan="1" colspan="1">145</td><td rowspan="1" colspan="1">171</td><td rowspan="1" colspan="1">169</td><td rowspan="1" colspan="1">173</td><td rowspan="1" colspan="1">157.5</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;After</td><td rowspan="1" colspan="1">207</td><td rowspan="1" colspan="1">184</td><td rowspan="1" colspan="1">141</td><td rowspan="1" colspan="1">174</td><td rowspan="1" colspan="1">188</td><td rowspan="1" colspan="1">169</td><td rowspan="1" colspan="1">177.2</td></tr><tr><td colspan="8" rowspan="1"><hr/></td></tr><tr><td rowspan="1" colspan="1">In-patient ward capacity, %</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Before</td><td rowspan="1" colspan="1">101</td><td rowspan="1" colspan="1">102</td><td rowspan="1" colspan="1">100</td><td rowspan="1" colspan="1">101</td><td rowspan="1" colspan="1">104</td><td rowspan="1" colspan="1">104</td><td rowspan="1" colspan="1">102.0</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;After</td><td rowspan="1" colspan="1">104</td><td rowspan="1" colspan="1">101</td><td rowspan="1" colspan="1">102</td><td rowspan="1" colspan="1">104</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;98</td><td rowspan="1" colspan="1">101</td><td rowspan="1" colspan="1">101.7</td></tr><tr><td colspan="8" rowspan="1"><hr/></td></tr><tr><td rowspan="1" colspan="1">In-patient ward capacity, mean <italic>n</italic></td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Before</td><td rowspan="1" colspan="1">207.5</td><td rowspan="1" colspan="1">209.1</td><td rowspan="1" colspan="1">205</td><td rowspan="1" colspan="1">207.5</td><td rowspan="1" colspan="1">213.2</td><td rowspan="1" colspan="1">213.2</td><td rowspan="1" colspan="1">209.3</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;After</td><td rowspan="1" colspan="1">217.2</td><td rowspan="1" colspan="1">207.5</td><td rowspan="1" colspan="1">209.1</td><td rowspan="1" colspan="1">213.2</td><td rowspan="1" colspan="1">200.9</td><td rowspan="1" colspan="1">207.5</td><td rowspan="1" colspan="1">209.2</td></tr><tr><td colspan="8" rowspan="1"><hr/></td></tr><tr><td rowspan="1" colspan="1">Mean duration of stay, days</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Before</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;38.1</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;38.8</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;40.6</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;44.3</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;55.7</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;36.6</td><td rowspan="1" colspan="1">42.4</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;After</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;44.7</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;37.0</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;37.2</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;37.8</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;41.9</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;36.3</td><td rowspan="1" colspan="1">45.4</td></tr><tr><td colspan="8" rowspan="1"><hr/></td></tr><tr><td rowspan="1" colspan="1">Total aggression-related incidents, <italic>n</italic></td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Before</td><td rowspan="1" colspan="1">105</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;87</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;59</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;48</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;82</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;88</td><td rowspan="1" colspan="1">78.2</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;After</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;76</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;92</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;51</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;93</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;79</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;90</td><td rowspan="1" colspan="1">80.2</td></tr><tr><td colspan="8" rowspan="1"><hr/></td></tr><tr><td rowspan="1" colspan="1">Aggression-related incidents on PICU, <italic>n</italic></td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Before</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;24</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;16</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;16</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;22</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;21</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;13</td><td rowspan="1" colspan="1">18.6</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;After</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;32</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;20</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;35</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;25</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;37</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;29</td><td rowspan="1" colspan="1">29.6</td></tr><tr><td colspan="8" rowspan="1"><hr/></td></tr><tr><td rowspan="1" colspan="1">Smoking-related incidents, <italic>n</italic></td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Before</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;9</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;7</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;9</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;7</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;2</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;5</td><td rowspan="1" colspan="1">6.5</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;After</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;38</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;19</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;17</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;12</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;9</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;26</td><td rowspan="1" colspan="1">20.2</td></tr></tbody></table><table-wrap-foot><fn id="TFN1"><p>PICU, psychiatric intensive care unit.</p></fn></table-wrap-foot></table-wrap></sec><sec sec-type="subjects" id="S10"><title>Number of patients admitted under the Mental Health Act 1983</title><p id="P22">Poisson regression found that the number of admissions under the MHA increased (1.13, 95% CI 1.03&#x02013;1.23) at the boundary of our corrected &#x003b1;-value, <italic>P</italic> = 0.007, in the same 6 months the year following the introduction of the new smoking policy.</p></sec><sec id="S11"><title>In-patient ward capacity</title><p id="P23">Our findings show that the bed capacity was at maximum or over-maximum at each month studied. Using the data adjusted into mean capacity, the Shapiro-Wilk test for normality (<italic>P</italic> = 0.306) allowed us to proceed with an unpaired <italic>t</italic>-test, which showed no significant difference (<italic>P</italic> = 0.99).</p></sec><sec id="S12"><title>Average duration of in-patient admission in days</title><p id="P24">The Shapiro-Wilk test for normality (<italic>P</italic> = 0.068) allowed us to proceed with an unpaired <italic>t</italic>-test, which showed no significant difference (<italic>P</italic> = 0.34).</p></sec><sec id="S13"><title>Total number of in-patient aggression-related incidents</title><p id="P25">Poisson regression revealed no significant difference in total aggression-related incidents following the introduction of the new smoking policy (1.02, 95% CI 0.90&#x02013;1.12; <italic>P</italic> = 0.70).</p></sec><sec id="S14"><title>Aggression-related incidents (PICU only)</title><p id="P26">Poisson regression revealed a significant increase in aggression-related incidents in PICU following the introduction of the new smoking policy (1.59, 95% CI 1.26&#x02013;2.01; <italic>P</italic> &#x0003c; 0.001).</p></sec><sec id="S15"><title>Smoking-related incidents</title><p id="P27">Poisson regression revealed a significant increase in smoking-related incidents following the introduction of the new smoking policy (3.10, 95% CI 2.55&#x02013;4.46; <italic>P</italic> &#x0003c; 0.001).</p></sec></sec><sec sec-type="discussion" id="S16"><title>Discussion</title><sec id="S17"><title>Main findings</title><p id="P28">We aimed to ascertain whether a new no-smoking policy for in-patients at a specified mental health trust might result in any less favourable effects outside of smoking cessation. We found a statistically significant increase in the number of admissions under the MHA, total number of reported aggression-related incidents on PICU, and a statistically significant increase in the number of reported smoking-related incidents. The majority of these findings may be expected. In consideration with our finding that in-patient bed capacity was at or over 100% for each of the months studied (potentially due to patients being &#x02018;on leave&#x02019; from hospital but still named in beds), one might argue that the acutely stressed state necessary to be granted an admission into bedspace at a premium would have been of considerable severity. Such patients may also have been admitted against their will, further heightening stress levels. One may therefore consider that immediately and forcefully removing the right to smoking, a past-time that can bring comfort, reduce stress, ameliorate psychiatric symptoms and help to fight boredom, may be poorly timed.</p><p id="P29">Perhaps a more surprising finding is the statistically significant increase in patients admitted under the MHA This was included as an outcome measure as it was hypothesised that patients may refuse informal admission based on the no-smoking policy. Although patient refusal for informal admission may have contributed to the effect, it is likely not the whole story, as that hypothesis relies on the provision of adequate information to patients, i.e. the new smoking policy is explained prior to admission. Other work<sup><xref rid="R24" ref-type="bibr">24</xref></sup> has shown that this is not always the case. It is also well known that detentions under the MHA have been on the rise across the UK over the past 10 years,<sup><xref rid="R25" ref-type="bibr">25</xref></sup> due to a multitude of factors (not smoking related) which we were unable to analyse in this study. In-depth case-note analysis may have allowed us to qualitatively ascertain whether the smoking policy played a part in this significant finding, and future research analysing this perhaps legitimate question could take this into account.</p><p id="P30">We found no significant difference in the total number of reported aggression-related incidents. At face value, this finding suggests that in an open-ward environment, the new smoking policy did not cause an increase in agitation or aggression, which contradicts the finding we obtained from PICU only There are several possible explanations for this. First, the patients that are admitted to PICU are likely to be more acutely stressed than those admitted to an open ward and therefore the potential to cause an &#x02018;incident&#x02019; might be increased. Second, the more strictly controlled environment in PICU may lend itself to better adherence of the smoking policy than for informal patients on an open ward (who may be allowed out for &#x02018;grounds leave&#x02019; each hour, or more), thus the new smoking policy may be felt more among patients on PICU Third, there is the very likely possibility that not all incidents are reported. Incident reporting can sometimes be viewed as an arduous process, especially for staff with busy in-patient ward roles. Although this could affect the results both in the open-ward environment and on PICU, one could suggest that staff on PICU might be more familiar with and better trained to deal with incidents, thus incident reporting might be better adhered to.</p><p id="P31">We also found no significant difference in patients' length of admission, suggesting that the new no-smoking policy did not positively or negatively affect the patient journey through mental health services. This might be an expected finding as the benefits of smoking cessation are known for long-term rather than short-term health. However, it is useful to address this result in light of our findings of increased smoking-related and aggression-related incidents, as it suggests that the new policy's potential to predispose to aggression or agitation does not necessarily result in prolonged in-patient stay. We also found no significant difference in in-patient ward capacity, which could be expected considering capacity was at maximum or above maximum for each month studied.</p></sec><sec id="S18"><title>Strategies and limitations</title><p id="P32">We believe this study is one of the first to assess the effects of a new no-smoking policy of psychiatric in-patients in the UK, in an age where the importance of physical health in psychiatric patients is becoming increasingly recognised, such that many more healthcare trusts may in future choose to adopt a similar policy. In using the entire sampling frame over a 6-month period, we have ensured a large sample size which may help to reduce the potential for type I or II statistical errors. We have reduced the impact of seasonal variation by comparing the same 6 months both in the year of introduction of the new no-smoking policy and the year preceding it. In comparing data across time, we can demonstrate a temporal association with the positive findings. Furthermore, regarding the new no-smoking policy being more strictly enforced on PICU, a dose-response relationship may be observed when comparing the non-significant open ward aggression-related findings with those obtained from PICU In addition, we have included a range of measures that were chosen prior to commencing data collection.</p><p id="P33">There are however a number of limiting factors that should be taken into consideration. First and most importantly, we cannot show that the new no-smoking policy is causal to the positive findings. There could be many other causes for increased aggression-related incidents on PICU and it is therefore not clear how much (if at all) the change in smoking policy contributed. It is however less probable to consider reverse causality as a factor in this study, as it is unlikely that the no-smoking policy was enacted because of significant aggression-related incidents.</p><p id="P34">In addition, we are unable to determine the effect of any poor reporting practice on our findings. We have mentioned that reporting might be better in certain areas of in-patient psychiatric care than others which may skew our results and invalidate comparisons. Despite our efforts, we were unable to obtain a comparison of total number of reported incidents between the two time periods. This would have better highlighted the reporting practices in the Trust across the two time periods and may be useful for future work.</p><p id="P35">It may also be possible that the timing of our data collection may have affected the validity of our results. We chose to measure the 6 months immediately following the introduction of the new no-smoking policy. It is likely that group practice takes time to adapt and this may be an explanation for some of the negative findings in our results. It may have been more appropriate to choose a length of inclusion greater than 6 months to better visualise this, however we were limited by time and resources. Both adherence to the Trust smoking policy and the reporting of incidents (if common) may improve over time, and it therefore may be useful to repeat this study in the future to compare the results.</p><p id="P36">Finally, since our study only measured outcomes during in-patient stay, we were unable to ascertain any longer-term effects of the new smoking policy, such as the increased achievement of smoking cessation among patients admitted under the new no-smoking policy. Further work might seek to establish the longer-term effects of such a policy.</p><p id="P37">Other research has been carried out on this topic internationally, which correlates partially with our results. A 2002 systematic review<sup><xref rid="R26" ref-type="bibr">26</xref></sup> including studies from several countries found no significant behavioural effects when smoking bans were enacted in psychiatric units, although the review also notes that in the included studies, smoking bans were not associated with long-term smoking cessation among patients. More recently, a 2005 study<sup><xref rid="R27" ref-type="bibr">27</xref></sup> from the USA found no significant increase in aggression with the introduction of a new smoking ban. Furthermore, a survey<sup><xref rid="R28" ref-type="bibr">28</xref></sup> of mental health staff working at an Australian healthcare trust in 2013 found that although most staff preferred to work in a smoke-free environment, around half of survey respondents found the smoking ban to be detrimental to acute patient care, which may give the impression of increased agitation or behavioural problems among patients involved.</p><p id="P38">Our results are therefore broadly in line with the findings of others. However, it is notable that we have shown a potential difference in the effects of a smoking ban on different patient groups across different settings. Further work might seek to clarify and further examine the reasons behind this finding.</p><p id="P39">Overall, the reasoning behind a smoke-free hospital environment is clear. The long-term health benefits of smoking cessation are numerous and well documented, and other work has shown staff to prefer a smoke-free working environment. However, there is the legitimate debate as to whether the acutely stressed state is the right time to impose this lifestyle change, and whether it is even ethical to do so. Our results show that, in general, a new smoke-free policy did not result in significant changes of reported aggressive behaviour or incidents, and did not affect the patient journey through mental health services. However, we found significantly increased smoking- and aggression-related incidents in more restricted environments. It is possible that the most highly agitated psychiatric patients are most susceptible to cause incidents with this enforced lifestyle change. Our finding of significantly increased use of the MHA may be explained by other factors, but also may warrant further research. Therefore, to reduce the impact this may have on both patients and staff tasked with dealing with any resultant incident, nicotine replacement therapy should be considered for all relevant patients.</p></sec></sec></body><back><fn-group><fn fn-type="COI-statement"><p><bold>Declaration of interest</bold> None.</p></fn></fn-group><ack><p id="P40">The authors would like to extend their thanks to the data analysts of Coventry and Warwickshire Partnership NHS Trust for their support in obtaining the data used in this study, and to Pascal Perry-Cheung for his kind assistance.</p></ack><ref-list><title>References</title><ref id="R1"><label>1</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><collab>Centers for Disease Control and Prevention</collab></person-group>
-<source>Smoking among U.S. adults with mental illness 70 percent higher than for adults with no mental illness</source>. <publisher-name>CDC</publisher-name>, <year>2012</year>.
-</mixed-citation></ref><ref id="R2"><label>2</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Szatkowski</surname><given-names>L</given-names></name><name name-style="western"><surname>McNeill</surname><given-names>A</given-names></name></person-group>
-<article-title>Diverging trends in smoking behaviors according to mental health status</article-title>. <source>Nicotine Tob Res</source>
-<year>2015</year>; <volume>17</volume>: <fpage>356</fpage>&#x02013;<lpage>60</lpage>.
-<pub-id pub-id-type="pmid">25180078</pub-id></mixed-citation></ref><ref id="R3"><label>3</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><name name-style="western"><surname>Meltzer</surname><given-names>H</given-names></name></person-group>
+                </corresp>
+                <fn>
+                    <p>
+                        <bold>Benjamin Ian Perry</bold> MBBS BSc, Division of Mental Health and Wellbeing, University of Warwick, UK, and Coventry and Warwickshire Partnership NHS Trust, UK. <bold>Katherine Meehan</bold> MBChB BSc, Coventry and Warwickshire Partnership NHS Trust, UK. <bold>Ashok Kumar Jainer</bold>, Coventry and Warwickshire Partnership NHS Trust, UK.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="ppub">
+                <month>12</month>
+                <year>2017</year>
+            </pub-date>
+            <volume>41</volume>
+            <issue>6</issue>
+            <fpage>325</fpage>
+            <lpage>330</lpage>
+            <history>
+                <date date-type="received">
+                    <day>7</day>
+                    <month>12</month>
+                    <year>2016</year>
+                </date>
+                <date date-type="rev-recd">
+                    <day>21</day>
+                    <month>3</month>
+                    <year>2017</year>
+                </date>
+                <date date-type="accepted">
+                    <day>5</day>
+                    <month>5</month>
+                    <year>2017</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>&#x000a9; 2017 The Authors</copyright-statement>
+                <copyright-year>2017</copyright-year>
+                <license license-type="creative-commons" xlink:href="http://creativecommons.org/licenses/by/4.0">
+                    <license-p>This is an open-access article published by the Royal College of Psychiatrists and distributed under the terms of the Creative Commons Attribution License (<uri xlink:href="http://creativecommons.org/licenses/by/4.0">http://creativecommons.org/licenses/by/4.0</uri>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <self-uri xlink:title="pdf" xlink:href="325.pdf" />
+            <abstract>
+                <p id="P1">
+                    <bold>Aims and method</bold> To examine whether a new no-smoking policy in an in-patient mental health setting had any effects outside of smoking cessation. Our hypothesis stated that a forced smoking ban for in-patients may result in an increased susceptibility for clinical incidents, aggression and lower admission rates. All patients admitted to adult in-patient mental health services in Coventry and Warwickshire Partnership NHS Trust were included in the analysis. Data 6 months post-implementation of the smoking policy (1 July 2015 to 1 January 2016) were compared with the same period 1 year prior (1 July 2014 to 1 January 2015). Patient demographics, admission rates, ward occupancy, average lengths of stay, numbers of reported incidents and use of the Mental Health Act 1983 (MHA) were compared.</p>
+                <p id="P2">
+                    <bold>Results</bold> We analysed 4223 admissions. We found a significantly increased number of admissions under the MHA (<italic>P</italic> = 0.007), a significantly greater number of reported smoking-related incidents (<italic>P</italic> &#x0003c; 0.001) and aggression-related incidents in the psychiatric intensive care unit (<italic>P</italic> &#x0003c; 0.001). However, we found no significant difference in capacity of in-patient wards (<italic>P</italic> = 0.39), admission length (<italic>P</italic> = 0.34) or total aggression-related incidents (<italic>P</italic> = 0.86).</p>
+                <p id="P3">
+                    <bold>Clinical implications</bold> Although further comparisons over longer time periods are necessary, our results suggest that enforced smoking cessation on acutely unwell psychiatric patients admitted to the most restricted environments may have some negative effects. Nicotine replacement therapy should be offered to all patients to minimise the risk of clinical incident.</p>
+            </abstract>
+        </article-meta>
+    </front>
+    <body>
+        <p id="P4">Smoking rates among those with a mental illness are 70% higher than in the general population.<sup>
+            <xref rid="R1" ref-type="bibr">1</xref>
+        </sup> In fact, although the prevalence of smoking in the general population has decreased, this has not occurred for those with a mental illness.<sup>
+        <xref rid="R2" ref-type="bibr">2</xref>
+    </sup> In particular, the highest smoking rates are found in those acutely unwell with a psychiatric illness, in in-patient units.<sup>
+    <xref rid="R3" ref-type="bibr">3</xref>&#x02013;<xref rid="R6" ref-type="bibr">6</xref>
+</sup>
+</p>
+<p id="P5">Multiple explanations for such high smoking rates within the mental health sector have been put forward, including symptom control and amelioration,<sup>
+<xref rid="R7" ref-type="bibr">7</xref>
+</sup> boredom or loneliness,<sup>
+<xref rid="R8" ref-type="bibr">8</xref>,<xref rid="R9" ref-type="bibr">9</xref>
+</sup> an increased propensity to experience more severe nicotine withdrawal symptoms than the general population,<sup>
+<xref rid="R10" ref-type="bibr">10</xref>,<xref rid="R11" ref-type="bibr">11</xref>
+</sup> for relaxation in a stressful environment,<sup>
+<xref rid="R9" ref-type="bibr">9</xref>,<xref rid="R12" ref-type="bibr">12</xref>
+</sup> a common genetic vulnerability<sup>
+<xref rid="R5" ref-type="bibr">5</xref>
+</sup> or that people with a mental illness are less susceptible to anti-smoking messages.<sup>
+<xref rid="R13" ref-type="bibr">13</xref>
+</sup>
+</p>
+<p id="P6">As a result of relatively higher smoking rates, people with a mental illness also have higher mortality rates than the general population. Tobacco use contributes significantly to causes of ill health and mortality in those with mental health disorders.<sup>
+<xref rid="R11" ref-type="bibr">11</xref>
+</sup> Individuals at particular risk are patients with schizophrenia, who have a life expectancy 20% shorter than the general population.<sup>
+<xref rid="R14" ref-type="bibr">14</xref>,<xref rid="R15" ref-type="bibr">15</xref>
+</sup> Tobacco use can also affect the effectiveness of some psychiatric medication, necessitating increased dosages and therefore purporting a higher chance of side-effects.<sup>
+<xref rid="R16" ref-type="bibr">16</xref>
+</sup>
+</p>
+<p id="P7">The UK government implemented its smoke-free policy in July 2007, which extended to all &#x02018;substantially enclosed&#x02019; public and work places. This included hospitals, with the aim of reducing the impact of second-hand smoke on patients and staff<sup>
+<xref rid="R17" ref-type="bibr">17</xref>
+</sup> This was extended to all types of in-patient units from 2008.</p>
+<p id="P8">Guidance from the National Institute for Health and Care Excellence (NICE), published in 2013, aims to support smoking cessation, temporary abstinence from smoking and smoke-free policies in all secondary care settings.<sup>
+<xref rid="R18" ref-type="bibr">18</xref>
+</sup> In this guidance, &#x02018;secondary care&#x02019; refers to all publicly funded secondary and tertiary care facilities, including buildings, grounds and vehicles. It covers in-patient, residential and long-term care for severe mental illness in hospitals, psychiatric settings, specialist and secure units.</p>
+<p id="P9">Prior to the introduction of the legislation, a relatively large survey of National Health Service (NHS) staff found that a third of psychiatric staff disagreed with smoke-free legislation compared with only one in ten of general staff.<sup>
+<xref rid="R19" ref-type="bibr">19</xref>
+</sup> A survey of mental health units in England in January 2007 found that the vast majority (91%) believed mental health premises faced particular challenges due to the high smoking prevalence among patients, associated safety risks, and potential interactions with antipsychotic medication.<sup>
+<xref rid="R20" ref-type="bibr">20</xref>
+</sup> However, despite the challenges, the smoke-free policy has been rated positive overall. Cited advantages include a reduced exposure of patients and staff to second-hand smoke, an enhancement and support in patients' motivation to stop smoking, improved sleeping patterns among patients, and the conversion of former smoking rooms into new recreational spaces.<sup>
+<xref rid="R20" ref-type="bibr">20</xref>
+</sup>
+</p>
+<p id="P10">Since the development of non-smoking policies within the NHS, debate has evolved around any potential infringement this might have on a patient's human rights. A patient at one of Scotland's high-security forensic hospitals recently won a court ruling that a blanket ban on smoking breached his human rights.<sup>
+<xref rid="R21" ref-type="bibr">21</xref>
+</sup> According to Article 8 of the Human Rights Act 1998, everyone has the right to respect for his private life and his home. With regard to mental health units, lengthy hospital admissions may qualify as breach of one's private and home life.</p>
+<p id="P11">The introduction of a non-smoking policy to mental health services remains a relatively novel practice. We are yet to fully appreciate its impact on in-patient services. Coventry and Warwickshire Partnership NHS Trust in the UK introduced a no-smoking policy within its mental health units on 1 July 2015. The Trust is one of the first to implement this policy following the growing evidence of high smoking rates and adverse health implications within the mental health population. Although the benefits of smoking cessation are widely acknowledged, there exists an assumption that enforcing smoking cessation on unwilling patients results in increased stress levels and therefore higher rates of aggression-related incidents.</p>
+<p id="P12">Voluntary admission to an in-patient mental health ward requires the patient to agree to certain ward policies and procedures explained by the clinician. Within the Trust it is standard procedure to explain the non-smoking policy for both voluntary and involuntary admissions. The impacts outside of smoking cessation caused by a forced no-smoking policy has previously been analysed in a medium secure unit, finding no significant difficulties and that the widely anticipated problems did not materialise.<sup>
+<xref rid="R22" ref-type="bibr">22</xref>
+</sup> We have been unable to find another study analysing similar changes in a typical psychiatric unit (mixed voluntary and involuntary patients).</p>
+<sec disp-level="2" id="S1">
+<title>Aims and objectives</title>
+<p id="P13">The aim of the study was to examine whether a newly implemented no-smoking policy for patients in a typical in-patient mental health setting had any effects outside of smoking cessation. The objectives were first to compare admission rates and bed occupancy/capacity levels at comparable time periods pre- and post-implementation of the new no-smoking policy in a specified mental health trust. We also sought to compare the numbers of reported incidents occurring on the wards at comparable time periods pre- and post-implementation, focusing particularly on aggression-related and smoking-related incidents. In addition, we wanted to ascertain whether there was any significant difference in the use of the Mental Health Act 1983 at comparable time periods pre- and post-implementation of the new policy, and whether this was related to the change in smoking policy.</p>
+</sec>
+<sec sec-type="methods" id="S2">
+<title>Method</title>
+<sec id="S3">
+<title>Study location and Trust smoking policy</title>
+<p id="P14">Data were collected from all patients admitted to mental health beds in Coventry and Warwickshire Partnership NHS Trust during the 12 months before and 6 months after implementation of the smoking ban. The change in policy was implemented on 1 July 2015, therefore data were collected between 1 July 2014 and 1 January 2016. The Trust smoking ban states that &#x02018;all staff, patients and visitors are not able to smoke tobacco products in Trust buildings or on Trust land.&#x02019;<sup>
+<xref rid="R23" ref-type="bibr">23</xref>
+</sup> The Trust maintains a policy of offering nicotine replacement therapy to admitted patients, comprising of either an e-cigarette or nicotine transdermal patch.</p>
+<p id="P15">Adult in-patient mental health services in the Trust comprise of three acute psychiatric units: the Caludon Centre in Coventry (112 beds), St Michael's Hospital in Warwick (41 beds) and the Pembleton Unit in Nuneaton (12 beds), with adult rehabilitation services provided at multiple sites (40 beds), for a catchment area of around 850 000 people.</p>
+</sec>
+<sec id="S4">
+<title>Inclusion and exclusion criteria</title>
+<p id="P16">All patients admitted to adult in-patient mental health services, both acute and rehabilitation, in Coventry and Warwickshire Partnership NHS Trust were included in analysis. To account for seasonal variation, data 6 months post-implementation of the smoking policy (1 July 2015 to 1 January 2016) were compared with the same 6 months the year prior to implementation of the smoking policy (1 July 2014 to 1 January 2015). There were no specific inclusion criteria for diagnosis or length of admission to help prevent selection bias. All sites within the Trust were included in the analysis.</p>
+</sec>
+<sec id="S5">
+<title>Ethics</title>
+<p id="P17">The study was approved by Coventry and Warwickshire Partnership NHS Trust as a service evaluation and as such did not need formal ethical approval from an NHS research ethics committee. Data were collated in an anonymised format from routine clinical records, by the authors.</p>
+</sec>
+<sec id="S6">
+<title>Data collection</title>
+<p id="P18">First, basic demographic data such as mean age and gender were obtained. Second, monthly admission rates and ward occupancy levels between the dates were collected. Third, monthly total numbers of reported incidents were obtained. All data were collected by data analysts within the Trust.</p>
+</sec>
+<sec id="S7">
+<title>Statistical analysis</title>
+<p id="P19">For the count data (number of admissions under the MELA, total incidents, aggression-related incidents, psychiatric intensive care unit (PICU) incidents and smoking incidents), Poisson regression was used to generate a significance value. Where data were provided as percentages (i.e. capacity), we converted to mean <italic>n</italic> based on the total Trust capacity (<italic>n</italic> = 205). The Shapiro-Wilk test for normality allowed a decision as to whether to use parametric or non-parametric statistical comparisons. All statistical comparisons were made using IBM SPSS Statistics 24.</p>
+<p id="P20">Since we were are measuring six outcomes in our analysis, a Bonferroni correction was applied. The &#x003b1;-value (0.05) was therefore adjusted to a significance value of <italic>P</italic> = 0.008.</p>
+</sec>
+</sec>
+<sec sec-type="results" id="S8">
+<title>Results</title>
+<sec id="S9">
+<title>Demographic data</title>
+<p id="P21">
+<xref ref-type="table" rid="T1">Table 1</xref> outlines the demographic data comparisons during our two selected periods of analysis. <xref ref-type="table" rid="T2">Table 2</xref> outlines the findings from our other objectives.</p>
+<table-wrap id="T1" orientation="portrait" position="float">
+<label>Table 1</label>
+<caption>
+<p>Demographic differences</p>
+</caption>
+<table frame="hsides" rules="groups">
+<colgroup span="1">
+<col align="left" valign="middle" span="1" />
+<col align="left" valign="middle" span="1" />
+<col align="left" valign="middle" span="1" />
+</colgroup>
+<thead>
+<tr>
+<th rowspan="1" colspan="1" />
+<th align="center" rowspan="1" colspan="1">Pre-implementation</th>
+<th align="center" rowspan="1" colspan="1">Post-implementation</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<italic>n</italic>
+</td>
+<td rowspan="1" colspan="1">2124</td>
+<td rowspan="1" colspan="1">2099</td>
+</tr>
+<tr>
+<td colspan="3" rowspan="1">
+<hr />
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">Male, %</td>
+<td rowspan="1" colspan="1">60.2</td>
+<td rowspan="1" colspan="1">59.9</td>
+</tr>
+<tr>
+<td colspan="3" rowspan="1">
+<hr />
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">Age, years: mean</td>
+<td rowspan="1" colspan="1">29.56</td>
+<td rowspan="1" colspan="1">29.39</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<table-wrap id="T2" orientation="portrait" position="float">
+<label>Table 2</label>
+<caption>
+<p>Data outlining differences before/after implementation of no-smoking policy</p>
+</caption>
+<table frame="hsides" rules="groups">
+<colgroup span="1">
+<col align="left" valign="middle" span="1" />
+<col align="left" valign="middle" span="1" />
+<col align="left" valign="middle" span="1" />
+<col align="left" valign="middle" span="1" />
+<col align="left" valign="middle" span="1" />
+<col align="left" valign="middle" span="1" />
+<col align="left" valign="middle" span="1" />
+<col align="right" valign="middle" span="1" />
+</colgroup>
+<thead>
+<tr>
+<th rowspan="1" colspan="1" />
+<th align="center" rowspan="1" colspan="1">Jul</th>
+<th align="center" rowspan="1" colspan="1">Aug</th>
+<th align="center" rowspan="1" colspan="1">Sep</th>
+<th align="center" rowspan="1" colspan="1">Oct</th>
+<th align="center" rowspan="1" colspan="1">Nov</th>
+<th align="center" rowspan="1" colspan="1">Dec</th>
+<th align="center" rowspan="1" colspan="1">Mean</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">Number of admissions under Mental<break />
+Health Act 1983, <italic>n</italic>
+</td>
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Before</td>
+<td rowspan="1" colspan="1">143</td>
+<td rowspan="1" colspan="1">144</td>
+<td rowspan="1" colspan="1">145</td>
+<td rowspan="1" colspan="1">171</td>
+<td rowspan="1" colspan="1">169</td>
+<td rowspan="1" colspan="1">173</td>
+<td rowspan="1" colspan="1">157.5</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;After</td>
+<td rowspan="1" colspan="1">207</td>
+<td rowspan="1" colspan="1">184</td>
+<td rowspan="1" colspan="1">141</td>
+<td rowspan="1" colspan="1">174</td>
+<td rowspan="1" colspan="1">188</td>
+<td rowspan="1" colspan="1">169</td>
+<td rowspan="1" colspan="1">177.2</td>
+</tr>
+<tr>
+<td colspan="8" rowspan="1">
+<hr />
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">In-patient ward capacity, %</td>
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Before</td>
+<td rowspan="1" colspan="1">101</td>
+<td rowspan="1" colspan="1">102</td>
+<td rowspan="1" colspan="1">100</td>
+<td rowspan="1" colspan="1">101</td>
+<td rowspan="1" colspan="1">104</td>
+<td rowspan="1" colspan="1">104</td>
+<td rowspan="1" colspan="1">102.0</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;After</td>
+<td rowspan="1" colspan="1">104</td>
+<td rowspan="1" colspan="1">101</td>
+<td rowspan="1" colspan="1">102</td>
+<td rowspan="1" colspan="1">104</td>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;98</td>
+<td rowspan="1" colspan="1">101</td>
+<td rowspan="1" colspan="1">101.7</td>
+</tr>
+<tr>
+<td colspan="8" rowspan="1">
+<hr />
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">In-patient ward capacity, mean <italic>n</italic>
+</td>
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Before</td>
+<td rowspan="1" colspan="1">207.5</td>
+<td rowspan="1" colspan="1">209.1</td>
+<td rowspan="1" colspan="1">205</td>
+<td rowspan="1" colspan="1">207.5</td>
+<td rowspan="1" colspan="1">213.2</td>
+<td rowspan="1" colspan="1">213.2</td>
+<td rowspan="1" colspan="1">209.3</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;After</td>
+<td rowspan="1" colspan="1">217.2</td>
+<td rowspan="1" colspan="1">207.5</td>
+<td rowspan="1" colspan="1">209.1</td>
+<td rowspan="1" colspan="1">213.2</td>
+<td rowspan="1" colspan="1">200.9</td>
+<td rowspan="1" colspan="1">207.5</td>
+<td rowspan="1" colspan="1">209.2</td>
+</tr>
+<tr>
+<td colspan="8" rowspan="1">
+<hr />
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">Mean duration of stay, days</td>
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Before</td>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;38.1</td>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;38.8</td>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;40.6</td>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;44.3</td>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;55.7</td>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;36.6</td>
+<td rowspan="1" colspan="1">42.4</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;After</td>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;44.7</td>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;37.0</td>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;37.2</td>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;37.8</td>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;41.9</td>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;36.3</td>
+<td rowspan="1" colspan="1">45.4</td>
+</tr>
+<tr>
+<td colspan="8" rowspan="1">
+<hr />
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">Total aggression-related incidents, <italic>n</italic>
+</td>
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Before</td>
+<td rowspan="1" colspan="1">105</td>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;87</td>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;59</td>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;48</td>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;82</td>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;88</td>
+<td rowspan="1" colspan="1">78.2</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;After</td>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;76</td>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;92</td>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;51</td>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;93</td>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;79</td>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;90</td>
+<td rowspan="1" colspan="1">80.2</td>
+</tr>
+<tr>
+<td colspan="8" rowspan="1">
+<hr />
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">Aggression-related incidents on PICU, <italic>n</italic>
+</td>
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Before</td>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;24</td>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;16</td>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;16</td>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;22</td>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;21</td>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;13</td>
+<td rowspan="1" colspan="1">18.6</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;After</td>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;32</td>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;20</td>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;35</td>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;25</td>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;37</td>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;29</td>
+<td rowspan="1" colspan="1">29.6</td>
+</tr>
+<tr>
+<td colspan="8" rowspan="1">
+<hr />
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">Smoking-related incidents, <italic>n</italic>
+</td>
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Before</td>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;9</td>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;7</td>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;9</td>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;7</td>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;2</td>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;5</td>
+<td rowspan="1" colspan="1">6.5</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;After</td>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;38</td>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;19</td>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;17</td>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;12</td>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;9</td>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;26</td>
+<td rowspan="1" colspan="1">20.2</td>
+</tr>
+</tbody>
+</table>
+<table-wrap-foot>
+<fn id="TFN1">
+<p>PICU, psychiatric intensive care unit.</p>
+</fn>
+</table-wrap-foot>
+</table-wrap>
+</sec>
+<sec sec-type="subjects" id="S10">
+<title>Number of patients admitted under the Mental Health Act 1983</title>
+<p id="P22">Poisson regression found that the number of admissions under the MHA increased (1.13, 95% CI 1.03&#x02013;1.23) at the boundary of our corrected &#x003b1;-value, <italic>P</italic> = 0.007, in the same 6 months the year following the introduction of the new smoking policy.</p>
+</sec>
+<sec id="S11">
+<title>In-patient ward capacity</title>
+<p id="P23">Our findings show that the bed capacity was at maximum or over-maximum at each month studied. Using the data adjusted into mean capacity, the Shapiro-Wilk test for normality (<italic>P</italic> = 0.306) allowed us to proceed with an unpaired <italic>t</italic>-test, which showed no significant difference (<italic>P</italic> = 0.99).</p>
+</sec>
+<sec id="S12">
+<title>Average duration of in-patient admission in days</title>
+<p id="P24">The Shapiro-Wilk test for normality (<italic>P</italic> = 0.068) allowed us to proceed with an unpaired <italic>t</italic>-test, which showed no significant difference (<italic>P</italic> = 0.34).</p>
+</sec>
+<sec id="S13">
+<title>Total number of in-patient aggression-related incidents</title>
+<p id="P25">Poisson regression revealed no significant difference in total aggression-related incidents following the introduction of the new smoking policy (1.02, 95% CI 0.90&#x02013;1.12; <italic>P</italic> = 0.70).</p>
+</sec>
+<sec id="S14">
+<title>Aggression-related incidents (PICU only)</title>
+<p id="P26">Poisson regression revealed a significant increase in aggression-related incidents in PICU following the introduction of the new smoking policy (1.59, 95% CI 1.26&#x02013;2.01; <italic>P</italic> &#x0003c; 0.001).</p>
+</sec>
+<sec id="S15">
+<title>Smoking-related incidents</title>
+<p id="P27">Poisson regression revealed a significant increase in smoking-related incidents following the introduction of the new smoking policy (3.10, 95% CI 2.55&#x02013;4.46; <italic>P</italic> &#x0003c; 0.001).</p>
+</sec>
+</sec>
+<sec sec-type="discussion" id="S16">
+<title>Discussion</title>
+<sec id="S17">
+<title>Main findings</title>
+<p id="P28">We aimed to ascertain whether a new no-smoking policy for in-patients at a specified mental health trust might result in any less favourable effects outside of smoking cessation. We found a statistically significant increase in the number of admissions under the MHA, total number of reported aggression-related incidents on PICU, and a statistically significant increase in the number of reported smoking-related incidents. The majority of these findings may be expected. In consideration with our finding that in-patient bed capacity was at or over 100% for each of the months studied (potentially due to patients being &#x02018;on leave&#x02019; from hospital but still named in beds), one might argue that the acutely stressed state necessary to be granted an admission into bedspace at a premium would have been of considerable severity. Such patients may also have been admitted against their will, further heightening stress levels. One may therefore consider that immediately and forcefully removing the right to smoking, a past-time that can bring comfort, reduce stress, ameliorate psychiatric symptoms and help to fight boredom, may be poorly timed.</p>
+<p id="P29">Perhaps a more surprising finding is the statistically significant increase in patients admitted under the MHA This was included as an outcome measure as it was hypothesised that patients may refuse informal admission based on the no-smoking policy. Although patient refusal for informal admission may have contributed to the effect, it is likely not the whole story, as that hypothesis relies on the provision of adequate information to patients, i.e. the new smoking policy is explained prior to admission. Other work<sup>
+<xref rid="R24" ref-type="bibr">24</xref>
+</sup> has shown that this is not always the case. It is also well known that detentions under the MHA have been on the rise across the UK over the past 10 years,<sup>
+<xref rid="R25" ref-type="bibr">25</xref>
+</sup> due to a multitude of factors (not smoking related) which we were unable to analyse in this study. In-depth case-note analysis may have allowed us to qualitatively ascertain whether the smoking policy played a part in this significant finding, and future research analysing this perhaps legitimate question could take this into account.</p>
+<p id="P30">We found no significant difference in the total number of reported aggression-related incidents. At face value, this finding suggests that in an open-ward environment, the new smoking policy did not cause an increase in agitation or aggression, which contradicts the finding we obtained from PICU only There are several possible explanations for this. First, the patients that are admitted to PICU are likely to be more acutely stressed than those admitted to an open ward and therefore the potential to cause an &#x02018;incident&#x02019; might be increased. Second, the more strictly controlled environment in PICU may lend itself to better adherence of the smoking policy than for informal patients on an open ward (who may be allowed out for &#x02018;grounds leave&#x02019; each hour, or more), thus the new smoking policy may be felt more among patients on PICU Third, there is the very likely possibility that not all incidents are reported. Incident reporting can sometimes be viewed as an arduous process, especially for staff with busy in-patient ward roles. Although this could affect the results both in the open-ward environment and on PICU, one could suggest that staff on PICU might be more familiar with and better trained to deal with incidents, thus incident reporting might be better adhered to.</p>
+<p id="P31">We also found no significant difference in patients' length of admission, suggesting that the new no-smoking policy did not positively or negatively affect the patient journey through mental health services. This might be an expected finding as the benefits of smoking cessation are known for long-term rather than short-term health. However, it is useful to address this result in light of our findings of increased smoking-related and aggression-related incidents, as it suggests that the new policy's potential to predispose to aggression or agitation does not necessarily result in prolonged in-patient stay. We also found no significant difference in in-patient ward capacity, which could be expected considering capacity was at maximum or above maximum for each month studied.</p>
+</sec>
+<sec id="S18">
+<title>Strategies and limitations</title>
+<p id="P32">We believe this study is one of the first to assess the effects of a new no-smoking policy of psychiatric in-patients in the UK, in an age where the importance of physical health in psychiatric patients is becoming increasingly recognised, such that many more healthcare trusts may in future choose to adopt a similar policy. In using the entire sampling frame over a 6-month period, we have ensured a large sample size which may help to reduce the potential for type I or II statistical errors. We have reduced the impact of seasonal variation by comparing the same 6 months both in the year of introduction of the new no-smoking policy and the year preceding it. In comparing data across time, we can demonstrate a temporal association with the positive findings. Furthermore, regarding the new no-smoking policy being more strictly enforced on PICU, a dose-response relationship may be observed when comparing the non-significant open ward aggression-related findings with those obtained from PICU In addition, we have included a range of measures that were chosen prior to commencing data collection.</p>
+<p id="P33">There are however a number of limiting factors that should be taken into consideration. First and most importantly, we cannot show that the new no-smoking policy is causal to the positive findings. There could be many other causes for increased aggression-related incidents on PICU and it is therefore not clear how much (if at all) the change in smoking policy contributed. It is however less probable to consider reverse causality as a factor in this study, as it is unlikely that the no-smoking policy was enacted because of significant aggression-related incidents.</p>
+<p id="P34">In addition, we are unable to determine the effect of any poor reporting practice on our findings. We have mentioned that reporting might be better in certain areas of in-patient psychiatric care than others which may skew our results and invalidate comparisons. Despite our efforts, we were unable to obtain a comparison of total number of reported incidents between the two time periods. This would have better highlighted the reporting practices in the Trust across the two time periods and may be useful for future work.</p>
+<p id="P35">It may also be possible that the timing of our data collection may have affected the validity of our results. We chose to measure the 6 months immediately following the introduction of the new no-smoking policy. It is likely that group practice takes time to adapt and this may be an explanation for some of the negative findings in our results. It may have been more appropriate to choose a length of inclusion greater than 6 months to better visualise this, however we were limited by time and resources. Both adherence to the Trust smoking policy and the reporting of incidents (if common) may improve over time, and it therefore may be useful to repeat this study in the future to compare the results.</p>
+<p id="P36">Finally, since our study only measured outcomes during in-patient stay, we were unable to ascertain any longer-term effects of the new smoking policy, such as the increased achievement of smoking cessation among patients admitted under the new no-smoking policy. Further work might seek to establish the longer-term effects of such a policy.</p>
+<p id="P37">Other research has been carried out on this topic internationally, which correlates partially with our results. A 2002 systematic review<sup>
+<xref rid="R26" ref-type="bibr">26</xref>
+</sup> including studies from several countries found no significant behavioural effects when smoking bans were enacted in psychiatric units, although the review also notes that in the included studies, smoking bans were not associated with long-term smoking cessation among patients. More recently, a 2005 study<sup>
+<xref rid="R27" ref-type="bibr">27</xref>
+</sup> from the USA found no significant increase in aggression with the introduction of a new smoking ban. Furthermore, a survey<sup>
+<xref rid="R28" ref-type="bibr">28</xref>
+</sup> of mental health staff working at an Australian healthcare trust in 2013 found that although most staff preferred to work in a smoke-free environment, around half of survey respondents found the smoking ban to be detrimental to acute patient care, which may give the impression of increased agitation or behavioural problems among patients involved.</p>
+<p id="P38">Our results are therefore broadly in line with the findings of others. However, it is notable that we have shown a potential difference in the effects of a smoking ban on different patient groups across different settings. Further work might seek to clarify and further examine the reasons behind this finding.</p>
+<p id="P39">Overall, the reasoning behind a smoke-free hospital environment is clear. The long-term health benefits of smoking cessation are numerous and well documented, and other work has shown staff to prefer a smoke-free working environment. However, there is the legitimate debate as to whether the acutely stressed state is the right time to impose this lifestyle change, and whether it is even ethical to do so. Our results show that, in general, a new smoke-free policy did not result in significant changes of reported aggressive behaviour or incidents, and did not affect the patient journey through mental health services. However, we found significantly increased smoking- and aggression-related incidents in more restricted environments. It is possible that the most highly agitated psychiatric patients are most susceptible to cause incidents with this enforced lifestyle change. Our finding of significantly increased use of the MHA may be explained by other factors, but also may warrant further research. Therefore, to reduce the impact this may have on both patients and staff tasked with dealing with any resultant incident, nicotine replacement therapy should be considered for all relevant patients.</p>
+</sec>
+</sec>
+</body>
+<back>
+<fn-group>
+<fn fn-type="COI-statement">
+<p>
+<bold>Declaration of interest</bold> None.</p>
+</fn>
+</fn-group>
+<ack>
+<p id="P40">The authors would like to extend their thanks to the data analysts of Coventry and Warwickshire Partnership NHS Trust for their support in obtaining the data used in this study, and to Pascal Perry-Cheung for his kind assistance.</p>
+</ack>
+<ref-list>
+<title>References</title>
+<ref id="R1">
+<label>1</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<collab>Centers for Disease Control and Prevention</collab>
+</person-group>
+<source>Smoking among U.S. adults with mental illness 70 percent higher than for adults with no mental illness</source>.<publisher-name>CDC</publisher-name>,<year>2012</year>.
+</mixed-citation>
+</ref>
+<ref id="R2">
+<label>2</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Szatkowski</surname>
+<given-names>L</given-names>
+</name>
+<name name-style="western">
+<surname>McNeill</surname>
+<given-names>A</given-names>
+</name>
+</person-group>
+<article-title>Diverging trends in smoking behaviors according to mental health status</article-title>.<source>Nicotine Tob Res</source>
+<year>2015</year>;<volume>17</volume>:<fpage>356</fpage>&#x02013;<lpage>60</lpage>.
+<pub-id pub-id-type="pmid">25180078</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R3">
+<label>3</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Meltzer</surname>
+<given-names>H</given-names>
+</name>
+</person-group>
 <source>Economic Activity and Social Functioning of Residents with Psychiatric Disorders</source>: p. <fpage>83</fpage>
-<publisher-name>HMSO</publisher-name>, <year>1996</year>.
-</mixed-citation></ref><ref id="R4"><label>4</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Meltzer</surname><given-names>H</given-names></name><name name-style="western"><surname>Gill</surname><given-names>B</given-names></name><name name-style="western"><surname>Hinds</surname><given-names>K</given-names></name><name name-style="western"><surname>Petticrew</surname><given-names>M</given-names></name></person-group>
-<article-title>The prevalence of psychiatric morbidity among adults living in institutions</article-title>. <source>Int Rev Psychiatry</source>
-<year>2003</year>; <volume>15</volume>: <fpage>129</fpage>&#x02013;<lpage>33</lpage>.
-<pub-id pub-id-type="pmid">12745320</pub-id></mixed-citation></ref><ref id="R5"><label>5</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><collab>Royal College of Psychiatrists</collab></person-group>
-<source>Smoking and mental health</source>. <publisher-name>Royal College of Psychiatrists</publisher-name>, <year>2017</year>.
-</mixed-citation></ref><ref id="R6"><label>6</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><name name-style="western"><surname>Jochelson</surname><given-names>K</given-names></name><name name-style="western"><surname>Majrowski</surname><given-names>B</given-names></name></person-group>
-<source>Clearing the Air: Debating Smoke-Free Policies in Psychiatric Units</source>. <publisher-name>King's Fund</publisher-name>, <year>2006</year>.
-</mixed-citation></ref><ref id="R7"><label>7</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Smith</surname><given-names>RC</given-names></name><name name-style="western"><surname>Singh</surname><given-names>A</given-names></name><name name-style="western"><surname>Infante</surname><given-names>M</given-names></name><name name-style="western"><surname>Khandat</surname><given-names>A</given-names></name><name name-style="western"><surname>Kloos</surname><given-names>A</given-names></name></person-group>
-<article-title>Effects of cigarette smoking and nicotine nasal spray on psychiatric symptoms and cognition in schizophrenia</article-title>. <source>Neuropsychopharmacology</source>
-<year>2002</year>; <volume>27</volume>: <fpage>479</fpage>&#x02013;<lpage>97</lpage>.
-<pub-id pub-id-type="pmid">12225705</pub-id></mixed-citation></ref><ref id="R8"><label>8</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Lasser</surname><given-names>K</given-names></name><name name-style="western"><surname>Boyd</surname><given-names>JW</given-names></name><name name-style="western"><surname>Woolhandler</surname><given-names>S</given-names></name><name name-style="western"><surname>Himmelstein</surname><given-names>DU</given-names></name><name name-style="western"><surname>McCormick</surname><given-names>D</given-names></name><name name-style="western"><surname>Bor</surname><given-names>DH</given-names></name></person-group>
-<article-title>Smoking and mental illness: a population-based prevalence study</article-title>. <source>JAMA</source>
-<year>2000</year>; <volume>284</volume>: <fpage>2606</fpage>&#x02013;<lpage>10</lpage>.
-<pub-id pub-id-type="pmid">11086367</pub-id></mixed-citation></ref><ref id="R9"><label>9</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Ratschen</surname><given-names>E</given-names></name><name name-style="western"><surname>Britton</surname><given-names>J</given-names></name><name name-style="western"><surname>McNeill</surname><given-names>A</given-names></name></person-group>
-<article-title>Implementation of smoke-free policies in mental health in-patient settings in England</article-title>. <source>Br J Psychiatry</source>
-<year>2009</year>; <volume>194</volume>: <fpage>547</fpage>&#x02013;<lpage>51</lpage>.
-<pub-id pub-id-type="pmid">19478296</pub-id></mixed-citation></ref><ref id="R10"><label>10</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>West</surname><given-names>R</given-names></name></person-group>
-<article-title>The multiple facets of cigarette addiction and what they mean for encouraging and helping smokers to stop</article-title>. <source>COPD</source>
-<year>2009</year>; <volume>6</volume>: <fpage>277</fpage>&#x02013;<lpage>83</lpage>.
-<pub-id pub-id-type="pmid">19811387</pub-id></mixed-citation></ref><ref id="R11"><label>11</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Lawn</surname><given-names>S</given-names></name><name name-style="western"><surname>Campion</surname><given-names>J</given-names></name></person-group>
-<article-title>Factors associated with success of smoke-free initiatives in Australian psychiatric in-patient units</article-title>. <source>Psychiatr Serv</source>
-<year>2010</year>; <volume>61</volume>: <fpage>300</fpage>&#x02013;<lpage>5</lpage>.
-<pub-id pub-id-type="pmid">20194408</pub-id></mixed-citation></ref><ref id="R12"><label>12</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Prochaska</surname><given-names>JJ</given-names></name></person-group>
-<article-title>Smoking and mental illness-breaking the link</article-title>. <source>N Engl J Med</source>
-<year>2011</year>; <volume>365</volume>: <fpage>196</fpage>&#x02013;<lpage>8</lpage>.
-<pub-id pub-id-type="pmid">21774707</pub-id></mixed-citation></ref><ref id="R13"><label>13</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Lawrence</surname><given-names>D</given-names></name><name name-style="western"><surname>Mitrou</surname><given-names>F</given-names></name><name name-style="western"><surname>Zubrick</surname><given-names>SR</given-names></name></person-group>
-<article-title>Smoking and mental illness: results from population surveys in Australia and the United States</article-title>. <source>BMC Public Health</source>
-<year>2009</year>; <volume>9</volume>: <fpage>285</fpage>.
-<pub-id pub-id-type="pmid">19664203</pub-id></mixed-citation></ref><ref id="R14"><label>14</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Hennekens</surname><given-names>CH</given-names></name><name name-style="western"><surname>Hennekens</surname><given-names>AR</given-names></name><name name-style="western"><surname>Hollar</surname><given-names>D</given-names></name><name name-style="western"><surname>Casey</surname><given-names>DE</given-names></name></person-group>
-<article-title>Schizophrenia and increased risks of cardiovascular disease</article-title>. <source>Am Heart J</source>
-<year>2005</year>; <volume>150</volume>: <fpage>1115</fpage>&#x02013;<lpage>21</lpage>.
-<pub-id pub-id-type="pmid">16338246</pub-id></mixed-citation></ref><ref id="R15"><label>15</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Joukamaa</surname><given-names>M</given-names></name><name name-style="western"><surname>Heliovaara</surname><given-names>M</given-names></name><name name-style="western"><surname>Knekt</surname><given-names>P</given-names></name><name name-style="western"><surname>Aromaa</surname><given-names>A</given-names></name><name name-style="western"><surname>Raitasalo</surname><given-names>R</given-names></name><name name-style="western"><surname>Lehtinen</surname><given-names>V</given-names></name></person-group>
-<article-title>Mental disorders and cause-specific mortality</article-title>. <source>Br J Psychiatry</source>
-<year>2001</year>; <volume>179</volume>: <fpage>498</fpage>&#x02013;<lpage>502</lpage>.
-<pub-id pub-id-type="pmid">11731351</pub-id></mixed-citation></ref><ref id="R16"><label>16</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Doll</surname><given-names>R</given-names></name><name name-style="western"><surname>Peto</surname><given-names>R</given-names></name></person-group>
-<article-title>Mortality in relation to smoking: 20 years' observations on male British doctors</article-title>. <source>BMJ</source>
-<year>1976</year>; <volume>2</volume>: <fpage>1525</fpage>&#x02013;<lpage>36</lpage>.
-<pub-id pub-id-type="pmid">1009386</pub-id></mixed-citation></ref><ref id="R17"><label>17</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><collab>Department of Health</collab></person-group>
-<source>Policy Paper. 2010 to 2015 Government Policy: Smoking</source>. <publisher-name>Department of Health</publisher-name>, <year>2015</year>.
-</mixed-citation></ref><ref id="R18"><label>18</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><collab>National Institute for Health and Care Excellence</collab></person-group>
-<source>Smoking: Acute, Maternity and Mental Health Services</source>. <publisher-name>NICE</publisher-name>, <year>2013</year>.
-</mixed-citation></ref><ref id="R19"><label>19</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>McNally</surname><given-names>L</given-names></name><name name-style="western"><surname>Oyefeso</surname><given-names>A</given-names></name><name name-style="western"><surname>Annan</surname><given-names>J</given-names></name><name name-style="western"><surname>Perryman</surname><given-names>K</given-names></name><name name-style="western"><surname>Bloor</surname><given-names>R</given-names></name><name name-style="western"><surname>Freeman</surname><given-names>S</given-names></name><etal/></person-group>
-<article-title>A survey of staff attitudes to smoking-related policy and intervention in psychiatric and general health care settings</article-title>. <source>J Public Health (Oxf)</source>
-<year>2006</year>; <volume>28</volume>: <fpage>192</fpage>&#x02013;<lpage>6</lpage>.
-<pub-id pub-id-type="pmid">16809790</pub-id></mixed-citation></ref><ref id="R20"><label>20</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Ratschen</surname><given-names>E</given-names></name><name name-style="western"><surname>Britton</surname><given-names>J</given-names></name><name name-style="western"><surname>McNeill</surname><given-names>A</given-names></name></person-group>
-<article-title>The smoking culture in psychiatry: time for change</article-title>. <source>Br J Psychiatry</source>
-<year>2011</year>; <volume>198</volume>: <fpage>6</fpage>&#x02013;<lpage>7</lpage>.
-<pub-id pub-id-type="pmid">21200069</pub-id></mixed-citation></ref><ref id="R21"><label>21</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Cramb</surname><given-names>A</given-names></name></person-group>
-<article-title>Smoking ban at state hospital breached a patient's human rights, says judge</article-title>. <source>The Telegraph</source>
-<year>2013</year>; <day>27</day>
+<publisher-name>HMSO</publisher-name>,<year>1996</year>.
+</mixed-citation>
+</ref>
+<ref id="R4">
+<label>4</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Meltzer</surname>
+<given-names>H</given-names>
+</name>
+<name name-style="western">
+<surname>Gill</surname>
+<given-names>B</given-names>
+</name>
+<name name-style="western">
+<surname>Hinds</surname>
+<given-names>K</given-names>
+</name>
+<name name-style="western">
+<surname>Petticrew</surname>
+<given-names>M</given-names>
+</name>
+</person-group>
+<article-title>The prevalence of psychiatric morbidity among adults living in institutions</article-title>.<source>Int Rev Psychiatry</source>
+<year>2003</year>;<volume>15</volume>:<fpage>129</fpage>&#x02013;<lpage>33</lpage>.
+<pub-id pub-id-type="pmid">12745320</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R5">
+<label>5</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<collab>Royal College of Psychiatrists</collab>
+</person-group>
+<source>Smoking and mental health</source>.<publisher-name>Royal College of Psychiatrists</publisher-name>,<year>2017</year>.
+</mixed-citation>
+</ref>
+<ref id="R6">
+<label>6</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Jochelson</surname>
+<given-names>K</given-names>
+</name>
+<name name-style="western">
+<surname>Majrowski</surname>
+<given-names>B</given-names>
+</name>
+</person-group>
+<source>Clearing the Air: Debating Smoke-Free Policies in Psychiatric Units</source>.<publisher-name>King's Fund</publisher-name>,<year>2006</year>.
+</mixed-citation>
+</ref>
+<ref id="R7">
+<label>7</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Smith</surname>
+<given-names>RC</given-names>
+</name>
+<name name-style="western">
+<surname>Singh</surname>
+<given-names>A</given-names>
+</name>
+<name name-style="western">
+<surname>Infante</surname>
+<given-names>M</given-names>
+</name>
+<name name-style="western">
+<surname>Khandat</surname>
+<given-names>A</given-names>
+</name>
+<name name-style="western">
+<surname>Kloos</surname>
+<given-names>A</given-names>
+</name>
+</person-group>
+<article-title>Effects of cigarette smoking and nicotine nasal spray on psychiatric symptoms and cognition in schizophrenia</article-title>.<source>Neuropsychopharmacology</source>
+<year>2002</year>;<volume>27</volume>:<fpage>479</fpage>&#x02013;<lpage>97</lpage>.
+<pub-id pub-id-type="pmid">12225705</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R8">
+<label>8</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Lasser</surname>
+<given-names>K</given-names>
+</name>
+<name name-style="western">
+<surname>Boyd</surname>
+<given-names>JW</given-names>
+</name>
+<name name-style="western">
+<surname>Woolhandler</surname>
+<given-names>S</given-names>
+</name>
+<name name-style="western">
+<surname>Himmelstein</surname>
+<given-names>DU</given-names>
+</name>
+<name name-style="western">
+<surname>McCormick</surname>
+<given-names>D</given-names>
+</name>
+<name name-style="western">
+<surname>Bor</surname>
+<given-names>DH</given-names>
+</name>
+</person-group>
+<article-title>Smoking and mental illness: a population-based prevalence study</article-title>.<source>JAMA</source>
+<year>2000</year>;<volume>284</volume>:<fpage>2606</fpage>&#x02013;<lpage>10</lpage>.
+<pub-id pub-id-type="pmid">11086367</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R9">
+<label>9</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Ratschen</surname>
+<given-names>E</given-names>
+</name>
+<name name-style="western">
+<surname>Britton</surname>
+<given-names>J</given-names>
+</name>
+<name name-style="western">
+<surname>McNeill</surname>
+<given-names>A</given-names>
+</name>
+</person-group>
+<article-title>Implementation of smoke-free policies in mental health in-patient settings in England</article-title>.<source>Br J Psychiatry</source>
+<year>2009</year>;<volume>194</volume>:<fpage>547</fpage>&#x02013;<lpage>51</lpage>.
+<pub-id pub-id-type="pmid">19478296</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R10">
+<label>10</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>West</surname>
+<given-names>R</given-names>
+</name>
+</person-group>
+<article-title>The multiple facets of cigarette addiction and what they mean for encouraging and helping smokers to stop</article-title>.<source>COPD</source>
+<year>2009</year>;<volume>6</volume>:<fpage>277</fpage>&#x02013;<lpage>83</lpage>.
+<pub-id pub-id-type="pmid">19811387</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R11">
+<label>11</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Lawn</surname>
+<given-names>S</given-names>
+</name>
+<name name-style="western">
+<surname>Campion</surname>
+<given-names>J</given-names>
+</name>
+</person-group>
+<article-title>Factors associated with success of smoke-free initiatives in Australian psychiatric in-patient units</article-title>.<source>Psychiatr Serv</source>
+<year>2010</year>;<volume>61</volume>:<fpage>300</fpage>&#x02013;<lpage>5</lpage>.
+<pub-id pub-id-type="pmid">20194408</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R12">
+<label>12</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Prochaska</surname>
+<given-names>JJ</given-names>
+</name>
+</person-group>
+<article-title>Smoking and mental illness-breaking the link</article-title>.<source>N Engl J Med</source>
+<year>2011</year>;<volume>365</volume>:<fpage>196</fpage>&#x02013;<lpage>8</lpage>.
+<pub-id pub-id-type="pmid">21774707</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R13">
+<label>13</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Lawrence</surname>
+<given-names>D</given-names>
+</name>
+<name name-style="western">
+<surname>Mitrou</surname>
+<given-names>F</given-names>
+</name>
+<name name-style="western">
+<surname>Zubrick</surname>
+<given-names>SR</given-names>
+</name>
+</person-group>
+<article-title>Smoking and mental illness: results from population surveys in Australia and the United States</article-title>.<source>BMC Public Health</source>
+<year>2009</year>;<volume>9</volume>:<fpage>285</fpage>.
+<pub-id pub-id-type="pmid">19664203</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R14">
+<label>14</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Hennekens</surname>
+<given-names>CH</given-names>
+</name>
+<name name-style="western">
+<surname>Hennekens</surname>
+<given-names>AR</given-names>
+</name>
+<name name-style="western">
+<surname>Hollar</surname>
+<given-names>D</given-names>
+</name>
+<name name-style="western">
+<surname>Casey</surname>
+<given-names>DE</given-names>
+</name>
+</person-group>
+<article-title>Schizophrenia and increased risks of cardiovascular disease</article-title>.<source>Am Heart J</source>
+<year>2005</year>;<volume>150</volume>:<fpage>1115</fpage>&#x02013;<lpage>21</lpage>.
+<pub-id pub-id-type="pmid">16338246</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R15">
+<label>15</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Joukamaa</surname>
+<given-names>M</given-names>
+</name>
+<name name-style="western">
+<surname>Heliovaara</surname>
+<given-names>M</given-names>
+</name>
+<name name-style="western">
+<surname>Knekt</surname>
+<given-names>P</given-names>
+</name>
+<name name-style="western">
+<surname>Aromaa</surname>
+<given-names>A</given-names>
+</name>
+<name name-style="western">
+<surname>Raitasalo</surname>
+<given-names>R</given-names>
+</name>
+<name name-style="western">
+<surname>Lehtinen</surname>
+<given-names>V</given-names>
+</name>
+</person-group>
+<article-title>Mental disorders and cause-specific mortality</article-title>.<source>Br J Psychiatry</source>
+<year>2001</year>;<volume>179</volume>:<fpage>498</fpage>&#x02013;<lpage>502</lpage>.
+<pub-id pub-id-type="pmid">11731351</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R16">
+<label>16</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Doll</surname>
+<given-names>R</given-names>
+</name>
+<name name-style="western">
+<surname>Peto</surname>
+<given-names>R</given-names>
+</name>
+</person-group>
+<article-title>Mortality in relation to smoking: 20 years' observations on male British doctors</article-title>.<source>BMJ</source>
+<year>1976</year>;<volume>2</volume>:<fpage>1525</fpage>&#x02013;<lpage>36</lpage>.
+<pub-id pub-id-type="pmid">1009386</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R17">
+<label>17</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<collab>Department of Health</collab>
+</person-group>
+<source>Policy Paper. 2010 to 2015 Government Policy: Smoking</source>.<publisher-name>Department of Health</publisher-name>,<year>2015</year>.
+</mixed-citation>
+</ref>
+<ref id="R18">
+<label>18</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<collab>National Institute for Health and Care Excellence</collab>
+</person-group>
+<source>Smoking: Acute, Maternity and Mental Health Services</source>.<publisher-name>NICE</publisher-name>,<year>2013</year>.
+</mixed-citation>
+</ref>
+<ref id="R19">
+<label>19</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>McNally</surname>
+<given-names>L</given-names>
+</name>
+<name name-style="western">
+<surname>Oyefeso</surname>
+<given-names>A</given-names>
+</name>
+<name name-style="western">
+<surname>Annan</surname>
+<given-names>J</given-names>
+</name>
+<name name-style="western">
+<surname>Perryman</surname>
+<given-names>K</given-names>
+</name>
+<name name-style="western">
+<surname>Bloor</surname>
+<given-names>R</given-names>
+</name>
+<name name-style="western">
+<surname>Freeman</surname>
+<given-names>S</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>A survey of staff attitudes to smoking-related policy and intervention in psychiatric and general health care settings</article-title>.<source>J Public Health (Oxf)</source>
+<year>2006</year>;<volume>28</volume>:<fpage>192</fpage>&#x02013;<lpage>6</lpage>.
+<pub-id pub-id-type="pmid">16809790</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R20">
+<label>20</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Ratschen</surname>
+<given-names>E</given-names>
+</name>
+<name name-style="western">
+<surname>Britton</surname>
+<given-names>J</given-names>
+</name>
+<name name-style="western">
+<surname>McNeill</surname>
+<given-names>A</given-names>
+</name>
+</person-group>
+<article-title>The smoking culture in psychiatry: time for change</article-title>.<source>Br J Psychiatry</source>
+<year>2011</year>;<volume>198</volume>:<fpage>6</fpage>&#x02013;<lpage>7</lpage>.
+<pub-id pub-id-type="pmid">21200069</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R21">
+<label>21</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Cramb</surname>
+<given-names>A</given-names>
+</name>
+</person-group>
+<article-title>Smoking ban at state hospital breached a patient's human rights, says judge</article-title>.<source>The Telegraph</source>
+<year>2013</year>;<day>27</day>
 <month>8</month>.
-</mixed-citation></ref><ref id="R22"><label>22</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Shetty</surname><given-names>A</given-names></name><name name-style="western"><surname>Alex</surname><given-names>R</given-names></name><name name-style="western"><surname>Bloye</surname><given-names>D</given-names></name></person-group>
-<article-title>The experience of a smoke-free policy in a medium secure hospital</article-title>. <source>Psychiatrist</source>
-<year>2010</year>; <volume>34</volume>: <fpage>287</fpage>&#x02013;<lpage>9</lpage>.
-</mixed-citation></ref><ref id="R23"><label>23</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><collab>Coventry and Warwickshire Partnership NHS Trust</collab></person-group>
-<source>NHS trust goes &#x02018;smokefree&#x02019; from Wednesday 1 July 2015</source>. <publisher-name>Coventry and Warwickshire Partnership NHS Trust</publisher-name>, <day>29</day>
+</mixed-citation>
+</ref>
+<ref id="R22">
+<label>22</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Shetty</surname>
+<given-names>A</given-names>
+</name>
+<name name-style="western">
+<surname>Alex</surname>
+<given-names>R</given-names>
+</name>
+<name name-style="western">
+<surname>Bloye</surname>
+<given-names>D</given-names>
+</name>
+</person-group>
+<article-title>The experience of a smoke-free policy in a medium secure hospital</article-title>.<source>Psychiatrist</source>
+<year>2010</year>;<volume>34</volume>:<fpage>287</fpage>&#x02013;<lpage>9</lpage>.
+</mixed-citation>
+</ref>
+<ref id="R23">
+<label>23</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<collab>Coventry and Warwickshire Partnership NHS Trust</collab>
+</person-group>
+<source>NHS trust goes &#x02018;smokefree&#x02019; from Wednesday 1 July 2015</source>.<publisher-name>Coventry and Warwickshire Partnership NHS Trust</publisher-name>,<day>29</day>
 <month>6</month>
 <year>2015</year>.
-</mixed-citation></ref><ref id="R24"><label>24</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Perry</surname><given-names>B</given-names></name><name name-style="western"><surname>Singh</surname><given-names>SP</given-names></name><name name-style="western"><surname>White</surname><given-names>D</given-names></name></person-group>
-<article-title>Capacity assessment and information provision for voluntary psychiatric patients: a service evaluation in a UK NHS Trust</article-title>. <source>Int J Ment Health Capacity Law</source>
-<year>2016</year>; <volume>22</volume>: <fpage>107</fpage>&#x02013;<lpage>18</lpage>.
-</mixed-citation></ref><ref id="R25"><label>25</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><collab>Care Quality Commission</collab></person-group>
-<source>Monitoring the Mental Health Act in 2013/14</source>. <publisher-name>CQC</publisher-name>, <year>2015</year>.
-</mixed-citation></ref><ref id="R26"><label>26</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>El-Guebaly</surname><given-names>N</given-names></name><name name-style="western"><surname>Cathcart</surname><given-names>J</given-names></name><name name-style="western"><surname>Currie</surname><given-names>S</given-names></name><name name-style="western"><surname>Brown</surname><given-names>D</given-names></name><name name-style="western"><surname>Gloster</surname><given-names>S</given-names></name></person-group>
-<article-title>Public health and therapeutic aspects of smoking bans in mental health and addiction settings</article-title>. <source>Psychiatr Serv</source>
-<year>2002</year>; <volume>53</volume>: <fpage>1617</fpage>&#x02013;<lpage>22</lpage>.
-<pub-id pub-id-type="pmid">12461225</pub-id></mixed-citation></ref><ref id="R27"><label>27</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Matthews</surname><given-names>LS</given-names></name><name name-style="western"><surname>Diaz</surname><given-names>B</given-names></name><name name-style="western"><surname>Bird</surname><given-names>P</given-names></name><name name-style="western"><surname>Cook</surname><given-names>A</given-names></name><name name-style="western"><surname>Stephenson</surname><given-names>AE</given-names></name><name name-style="western"><surname>Kraus</surname><given-names>JE</given-names></name><etal/></person-group>
-<article-title>Implementing a smoking ban in an acute psychiatric admissions unit</article-title>. <source>J Psychosoc Nurs Ment Health Serv</source>
-<year>2005</year>; <volume>43</volume>: <fpage>33</fpage>&#x02013;<lpage>6</lpage>.
-<pub-id pub-id-type="pmid">16350913</pub-id></mixed-citation></ref><ref id="R28"><label>28</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Hehir</surname><given-names>AM</given-names></name><name name-style="western"><surname>Indig</surname><given-names>D</given-names></name><name name-style="western"><surname>Prosser</surname><given-names>S</given-names></name><name name-style="western"><surname>Archer</surname><given-names>VA</given-names></name></person-group>
-<article-title>Implementation of a smoke-free policy in a high secure mental health in-patient facility: staff survey to describe experience and attitudes</article-title>. <source>BMC Public Health</source>
-<year>2013</year>; <volume>13</volume>: <fpage>315</fpage>.
-<pub-id pub-id-type="pmid">23566256</pub-id></mixed-citation></ref></ref-list></back></article>
+</mixed-citation>
+</ref>
+<ref id="R24">
+<label>24</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Perry</surname>
+<given-names>B</given-names>
+</name>
+<name name-style="western">
+<surname>Singh</surname>
+<given-names>SP</given-names>
+</name>
+<name name-style="western">
+<surname>White</surname>
+<given-names>D</given-names>
+</name>
+</person-group>
+<article-title>Capacity assessment and information provision for voluntary psychiatric patients: a service evaluation in a UK NHS Trust</article-title>.<source>Int J Ment Health Capacity Law</source>
+<year>2016</year>;<volume>22</volume>:<fpage>107</fpage>&#x02013;<lpage>18</lpage>.
+</mixed-citation>
+</ref>
+<ref id="R25">
+<label>25</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<collab>Care Quality Commission</collab>
+</person-group>
+<source>Monitoring the Mental Health Act in 2013/14</source>.<publisher-name>CQC</publisher-name>,<year>2015</year>.
+</mixed-citation>
+</ref>
+<ref id="R26">
+<label>26</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>El-Guebaly</surname>
+<given-names>N</given-names>
+</name>
+<name name-style="western">
+<surname>Cathcart</surname>
+<given-names>J</given-names>
+</name>
+<name name-style="western">
+<surname>Currie</surname>
+<given-names>S</given-names>
+</name>
+<name name-style="western">
+<surname>Brown</surname>
+<given-names>D</given-names>
+</name>
+<name name-style="western">
+<surname>Gloster</surname>
+<given-names>S</given-names>
+</name>
+</person-group>
+<article-title>Public health and therapeutic aspects of smoking bans in mental health and addiction settings</article-title>.<source>Psychiatr Serv</source>
+<year>2002</year>;<volume>53</volume>:<fpage>1617</fpage>&#x02013;<lpage>22</lpage>.
+<pub-id pub-id-type="pmid">12461225</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R27">
+<label>27</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Matthews</surname>
+<given-names>LS</given-names>
+</name>
+<name name-style="western">
+<surname>Diaz</surname>
+<given-names>B</given-names>
+</name>
+<name name-style="western">
+<surname>Bird</surname>
+<given-names>P</given-names>
+</name>
+<name name-style="western">
+<surname>Cook</surname>
+<given-names>A</given-names>
+</name>
+<name name-style="western">
+<surname>Stephenson</surname>
+<given-names>AE</given-names>
+</name>
+<name name-style="western">
+<surname>Kraus</surname>
+<given-names>JE</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>Implementing a smoking ban in an acute psychiatric admissions unit</article-title>.<source>J Psychosoc Nurs Ment Health Serv</source>
+<year>2005</year>;<volume>43</volume>:<fpage>33</fpage>&#x02013;<lpage>6</lpage>.
+<pub-id pub-id-type="pmid">16350913</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R28">
+<label>28</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Hehir</surname>
+<given-names>AM</given-names>
+</name>
+<name name-style="western">
+<surname>Indig</surname>
+<given-names>D</given-names>
+</name>
+<name name-style="western">
+<surname>Prosser</surname>
+<given-names>S</given-names>
+</name>
+<name name-style="western">
+<surname>Archer</surname>
+<given-names>VA</given-names>
+</name>
+</person-group>
+<article-title>Implementation of a smoke-free policy in a high secure mental health in-patient facility: staff survey to describe experience and attitudes</article-title>.<source>BMC Public Health</source>
+<year>2013</year>;<volume>13</volume>:<fpage>315</fpage>.
+<pub-id pub-id-type="pmid">23566256</pub-id>
+</mixed-citation>
+</ref>
+</ref-list>
+</back>
+</article>

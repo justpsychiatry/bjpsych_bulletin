@@ -1,0 +1,563 @@
+==========================================================================================
+Review and update of the Health of the Nation Outcome Scales for Elderly People (HoNOS65+)
+==========================================================================================
+
+Mick James
+Bill Buckingham
+Gary Cheung
+Roderick McKay
+Jon Painter
+Malcom W. StewartCorrespondence to Mick James via
+(Emma.George@rcpsych.ac.uk)
+:Date: 2018-12
+
+:Abstract:
+   .. rubric:: Aims and method
+      :name: sec_a1
+
+   The Health of the Nation Outcome Scales for Elderly People (HoNOS65+)
+   has been used widely for 20 years, but has not been updated to
+   reflect contemporary clinical practice. The Royal College of
+   Psychiatrists convened an advisory board, with expertise from the UK,
+   Australia and New Zealand, to propose amendments. The aim was to
+   improve rater experience when using the HoNOS65+ glossary by removing
+   ambiguity and inconsistency, rather than a more radical revision.
+
+   .. rubric:: Results
+      :name: sec_a2
+
+   Views and experience from the countries involved were used to produce
+   a series of amendments intended to improve intra- and interrater
+   reliability and improve validity. This update will be called HoNOS
+   Older Adults to reflect the changing nature of the population and
+   services provided to meet their needs. These improvements are
+   reported verbatim, together with the original HoNOS65+ to aid
+   comparison.
+
+   .. rubric:: Clinical implications
+      :name: sec_a3
+
+   Formal examination of the psychometric properties of the revised
+   measure is needed. However, clinician training will remain crucial.
+
+   .. rubric:: Declaration of interest
+      :name: sec_a4
+
+   None.
+
+
+.. contents::
+   :depth: 3
+..
+
+The Health of the Nation Outcome Scales (HoNOS) was originally developed
+for use with working-age adults.(n.d.a) Subsequent testing found that,
+in general, the scales also performed well with older people, but that
+some adaptations (especially relating to ratings of physical health and
+cognitive impairment) would be beneficial.(n.d.b) This resulted in the
+development of the HoNOS65+,(n.d.c) which was validated against other
+established mental health measures used with older people and shown to
+have good interrater reliability.(n.d.c) As well as this standardised
+version, a further version was developed with a tabulated
+glossary.(n.d.d)
+
+Like the HoNOS, the HoNOS65+ was intended to: •be short and simple for
+routine use and acceptable to a range of mental health
+professionals;•have adequate coverage of clinical and social
+functions;•be sensitive to change over time;•have demonstrable and
+acceptable reliability;•have known relationships with more established
+scales.(n.d.e)
+
+Since its development over 20 years ago, the HoNOS65+ has been
+translated into several other languages, including Spanish, Dutch,
+French, Greek and Italian, and is now routinely used in clinical
+practice and research around the world.(n.d.f) Australia and New Zealand
+have mandated use of the original format of the HoNOS65+ scales for
+routine monitoring and outcome measurement across their mental health
+services,(n.d.g)\ :sup:`,`\ (n.d.h) while across England both the
+original version and the more recently developed tabulated version are
+used to provide these nationally required
+data.(n.d.c)\ :sup:`,`\ (n.d.d)\ :sup:`,`\ (n.d.i)
+
+Experience of staff training and the evaluation of aggregated data-sets
+over this period, together with considerable advances in mental
+healthcare for older people, led to a recognition that the HoNOS 65+
+required review and updating. As copyright holder for the HoNOS family
+of measures, the Royal College of Psychiatrists (RCPsych) elected to
+undertake a limited review that aimed to use expert opinion to improve
+the utility of the HoNOS65+ in contemporary older people's mental health
+services (rather than a full redevelopment and revalidation), while
+remaining true to its original aims and maintaining comparability with
+existing data-sets. This paper outlines the scope and process of the
+review, the issues identified and a revised set of scales (subsequently
+renamed HoNOS Older Adults).
+
+.. _sec1:
+
+Method
+======
+
+In recognition of their nationally mandated use of
+HoNOS65+,(n.d.g)\ :sup:`–`\ (n.d.i) and to ensure that each country's
+interests were considered, an advisory board (chaired by the RCPsych's
+National HoNOS Advisor) was convened with representatives from England,
+Australia and New Zealand. Each government nominated individuals with
+extensive experience in any of the following: HoNOS65+ staff training;
+using HoNOS65+ in practice; using aggregated HoNOS65+ data; or service-,
+professional- or governmental-level oversight. In addition to their own
+views, board members canvased widely for clinicians' opinions regarding
+which aspects of the HoNOS65+ required refinement.
+
+To ensure consistency with the concurrent HoNOS review, the same
+criteria were used to judge suggestions.(n.d.j) These criteria were that
+for a change to be supported, it needed to result in a tangible
+improvement (e.g. simplification/clarification/removal of anachronisms)
+and: •maintain the original instrument's integrity as far as
+possible;•maximise comparability with existing individual and aggregated
+data;•support the use of HoNOS Older Adults as a summary of clinical
+assessment(s);•adhere to the HoNOS65+ ‘core rules’ i.e. ○each item is a
+behaviourally anchored five-point scale○items are sequentially rated
+(1–12)○all available information is used to make a rating○information
+already rated in an earlier item is disregarded○the most severe
+problem/worst manifestation from the preceding 2 weeks is rated○problems
+are rated according to the degree of distress caused and/or its effects
+on behaviour○problems are rated by a mental health professional trained
+in clinical assessment○problems are rated regardless of cause.
+
+In addition to these original HoNOS terms of reference, the board was
+keen to take this opportunity to consider whether there were
+opportunities to optimise alignment between the newly updated adult and
+older people's versions. The rationale for this was threefold. First,
+some of the HoNOS updates had come from the original HoNOS65+.(n.d.j)
+Second, anecdotal reports suggested that some electronic patient record
+systems were unable to differentiate between the two versions and/or
+make both glossaries available to clinicians. Third, since the
+development of the HoNOS65+, the somewhat arbitrary age cut-off of 65
+has become less justified given the increasing variation in functional
+impairment with age across different populations.(n.d.k)
+
+Using the collated feedback and the ensuing board discussions, a summary
+paper was produced by a board member with extensive experience in old
+age psychiatry. This highlighted some scales where alignment might be
+considered a viable option and those where alignment was unlikely owing
+to the nature of presenting needs in this population. This dictated the
+sequence of the board's teleconferences and its approach to each scale.
+
+For the scales where alignment was considered to be potentially feasible
+and likely to improve utility, two questions were asked: first, does it
+resolve the concerns or problems with the scale reported by old age
+clinicians in the field; and, second, is the new HoNOS (2018) wording
+appropriate for older people's mental healthcare? Two positive responses
+resulted in the revised HoNOS scale being adopted for older people. A
+negative response led to an iterative process to produce a revised
+wording that was appropriate for the older people's version of the tool.
+During this process, consideration was given to whether these proposed
+changes could also be applied to the draft HoNOS (2018). Where
+appropriate, to improve both, the draft HoNOS (2018) was aligned with
+the HoNOS older adult. Where this was not possible, the scale was
+grouped with items where full alignment had been deemed unfeasible.
+
+For this second group of scales, the board considered both the new HoNOS
+and the original HoNOS65+ wording in the context of the collated
+feedback in order to produce a revised HoNOS65+ scale glossary.
+
+.. _sec2:
+
+Results
+=======
+
+Upon completion of their discussions, the board was able to fully align
+seven of the 12 scales, with the remaining five having a high degree of
+similarity but also retaining some key differences. The revised tool
+(ultimately renamed HoNOS Older Adults) can be seen in Supplementary
+Table 1, available at https://doi.org/10.1192/bjb.2018.68. Each item's
+original wording is also included (in greyed-out boxes) to aid
+comparison.
+
+.. _sec3:
+
+Discussion
+==========
+
+This publication follows the review of the original (working age)
+HoNOS.(n.d.j) However, in reality, each review was informed by the other
+prior to each version of the tool being finalised. As a result, issues
+specific to older people will be discussed in full below, whereas those
+common to both tools (and hence previously discussed) will be summarised
+here purely for completeness. Readers are therefore advised to refer to
+James *et al* (2018) to gain an understanding of these common issues.
+
+.. _sec3-1:
+
+Overarching rating guidelines
+-----------------------------
+
+After reviewing the HoNOS65+ introductory guidance, the board agreed
+that the issues were identical to those identified with respect to the
+HoNOS, i.e. that brevity had been prioritised at the expense of clarity.
+The board also agreed that the newly amended HoNOS guidance was entirely
+appropriate given that the two tools were intended to function in the
+same way. Consequently, the same guidance was used, as it: •clarified
+the severity threshold between subclinical (0–1) and clinical (2–4)
+ratings;•made an overt statement regarding the need for cultural
+competence on the part of assessors;•acknowledged the limitations of
+continuing to use the term ‘patient’.
+
+.. _sec3-1-1:
+
+Scale 1: overactive or aggressive or disruptive or agitated behaviour
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+There was agreement that the issues with this scale were similar,
+regardless of age, i.e. that: •raters should be encouraged to consider
+all four concepts in the title (rather than just focusing on
+aggression);•the issue of culturally sanctioned aggression was now
+satisfactorily addressed in the preceding, over-arching guidance.
+
+However, some of the original HoNOS65+ examples were felt to be of
+continued value; hence, those pertaining to the following behaviours
+were retained: •restlessness/wandering•uncooperativeness/resistiveness
+and the need for persuasion•sexual disinhibition and deliberate
+incontinence.
+
+There was some discussion about whether to contextualise inappropriate
+behaviours (i.e. in public *v.* in private); however, in keeping with
+the underpinning principles of the scales, it was agreed to simply focus
+on the behaviour itself. As a result, the two new versions of this scale
+are broadly similar, but not identical.
+
+.. _sec3-1-2:
+
+Scale 2: non-accidental self-injury
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+There was agreement that the issues with this scale were the same
+regardless of age, i.e. that the new scale should: •consider risks,
+thoughts and behaviours•rely on the over-arching guidance to ensure
+culturally competent ratings of some forms of ritualistic self-harm.
+
+As a result, the newly revised HoNOS 2018 version of this scale was
+adopted without amendment.
+
+.. _sec3-1-3:
+
+Scale 3: problem drinking or drug-taking
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+There was agreement that the issues with this scale were the same
+regardless of age, i.e. that the new scale should: •include descriptors
+of craving, dependency and behaviour that align with contemporary
+ratings of severity(n.d.l) and which accommodate rating individuals
+undergoing short-term, enforced abstinence;•omit the subjective concept
+of ‘social norms’;•exclude tobacco use unless it has led to problems
+over and above the detrimental effects traditionally associated with a
+person's physical health.
+
+As a result, the newly revised HoNOS 2018 version of this scale was
+adopted without amendment.
+
+.. _sec3-1-4:
+
+Scale 4: cognitive problems
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+After an iterative process of revisions to both the original HoNOS 65+
+and the draft HoNOS 2018 versions of this scale, a shared version of the
+scale was produced. The main issues addressed were therefore: •the
+unhelpfully narrow focus on dementia•the large step between the original
+ratings of 2 and 3.
+
+A final review, however, identified the need to retain one example from
+a rating of 4 on the original HoNOS 65+, i.e. ‘consistently unable to
+recognise or name close friends/family’. As a result, the two versions
+of this scale are almost, but not absolutely, identical.
+
+.. _sec3-1-5:
+
+Scale 5: physical illness or disability problems
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+The new HoNOS 2018 version of this scale was not suitable for older
+people, and alignment was not deemed viable owing to the effects of
+age-associated complexities including spectacles and hearing aids, as
+well as the differing clinical significance of minor falls for the two
+age groups. Hence, while some text is shared between the new versions of
+this scale, many of the original HoNOS65+ examples were retained to
+reduce ambiguity. The two new versions of this scale are therefore
+notably different.
+
+.. _sec3-1-6:
+
+Scale 6: problems associated with hallucinations and delusions
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+There was agreement that the issues with this scale were the same
+regardless of age. As a result, the newly revised HoNOS 2018 version of
+this scale (i.e. limited to minor linguistic changes) was adopted
+without amendment.
+
+.. _sec3-1-7:
+
+Scale 7: problems with depressed mood
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+There was agreement that the issues with this scale were the same
+regardless of age, i.e. that: •descriptors should be aligned with the
+scale's title to remove the current HoNOS65+ contradictions (helpfully,
+focusing on mood and excluding the wider symptoms of depression also
+avoided any need to accommodate the differing presentations of
+depression between the two age groups);•ratings should include a more
+balanced description of cognitive, affective and behavioural aspects of
+low mood (e.g. loss of interest, guilt and low self-esteem) to avoid
+unduly focusing on feelings of guilt.
+
+As a result, the newly revised HoNOS 2018 version of this scale was
+adopted without amendment.
+
+.. _sec3-1-8:
+
+Scale 8: other mental and behavioural problems
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+There was agreement that the issues with this scale were the same
+regardless of age, i.e. the need to: •recognise the dominance of anxiety
+ratings in this scale, although the creation of a separate scale was
+deemed to be outside the scope of this work;•recognise the possibility
+that rating the most severe problem can lead to a failure to capture
+less severe issues, while electing to retain this approach;•add ‘elated
+mood’ to the list of options and re-code the options to accommodate
+this;•provide additional explanations of each option to improve
+consistency of ratings.
+
+As a result, the newly revised HoNOS 2018 version of this scale was
+adopted without amendment.
+
+.. _sec3-1-9:
+
+Scale 9: problems with relationships
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+There was agreement that the issues with this scale were the same
+regardless of age. As a result, the newly revised HoNOS 2018 version of
+this scale (limited to minor linguistic changes) was adopted without
+amendment.
+
+.. _sec3-1-10:
+
+Scale 10: problems with activities of daily living
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+As with Scale 4, after an iterative process of revisions to both the
+original HoNOS 65+ and the draft revisions to the HoNOS 2018 version of
+this scale, a shared version of the scale was produced. The main issue
+addressed was therefore: •clarifying how to ‘manage’ the effects of any
+existing support the person is receiving.
+
+A final review, however, identified the need to retain two examples from
+the original HoNOS 65+. ‘Occasional urinary incontinence or continent
+only if toileted’ was therefore included as an example for a rating of
+3, while ‘full supervision required with dressing and eating; frequent
+incontinence’ was included to help illustrate a rating of 4. As a
+result, the two versions of this scale are almost, but not absolutely,
+identical.
+
+.. _sec3-1-11:
+
+Scale 11: problems with housing and living conditions
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+The new HoNOS 2018 version of this scale was found to be unsuitable for
+older people, and complete alignment was not deemed viable owing to the
+need to maintain references to the risks posed to older people by their
+environment. Removing this feature from the HoNOS65+ was judged to
+represent a major (and unhelpful) change. Therefore, much of the revised
+HoNOS 2018 version was adopted, i.e.: •clarification that the scale is
+intended to rate how well the person's current environment matches their
+needs/abilities, not their abilities *per se*;•clarification that when
+rating patients temporarily admitted to hospital their ‘usual’ place of
+residence should be considered;•updates to some of the terminology used.
+
+However, in addition: •the original HoNOS65+ references to risk were
+maintained (and, for consistency, introduced to a rating of 1).•the
+original HoNOS65+ concept of patient satisfaction was removed owing to
+potential contradictions between suitability of and satisfaction with
+housing and living conditions.
+
+As a result, the two new versions of this scale are similar, but not
+identical.
+
+.. _sec3-1-12:
+
+Scale 12: problems with occupation and activities
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+There was agreement that the issues with this scale were the same
+regardless of age, i.e. that there was a need to: •clarify that the
+scale is intended to rate how well the person's current environment
+optimises opportunities to meet their needs or develop their abilities,
+not their abilities *per se*;•clarify that when rating patients
+temporarily admitted to hospital their ‘usual’ place of residence should
+be considered.•update some of the terminology used.
+
+As a result, the newly revised HoNOS 2018 version of this scale was
+adopted without amendment.
+
+.. _sec3-2:
+
+Other issues
+------------
+
+The advisory board was aware that since the publication of the HoNOS65+
+there have been shifts in the well-being of older people, with frailty
+and disability tending to occur later in life.(n.d.k) With this has also
+come a shift in the focus of some services for this population. As a
+result, the existing title, with its focus on the over-65s, was felt to
+be unhelpful and slightly anachronistic. Increasing the age limit (e.g.
+to HoNOS 70+) may be more reflective of the group of individuals for
+whom the tool would be most appropriate in some countries, but still
+somewhat arbitrary. As a result, it was agreed to rename the scales
+HoNOS Older Adults, as this would allow clinicians and services to
+exercise their judgement about when it was appropriate to use each new
+version of the tool. This could allow the measures to be aligned with
+variations in the cut-off age for service organisations and practice in
+different countries and over time. While this variability may have some
+effect on the comparability of data internationally, it could
+significantly simplify utilisation of the measures in individual
+countries.
+
+As with the review of HoNOS,(n.d.j) additional areas for development
+were identified that had merit, but these would have constituted
+substantial changes and required the development of a completely new
+instrument. These of course remain an option for future development,
+pending sector agreement, as well as government interest and funding.
+
+.. _sec4:
+
+Summary
+=======
+
+The anticipated benefits of these changes should ideally be subject to
+empirical testing through assessment of interrater reliability and
+revalidation of the measure in the field. This type of study requires
+funding and preferably involvement from countries that have heavily
+invested in the HoNOS65+ to date. This issue is being actively pursued
+by members of the advisory board
+
+It is also acknowledged that the different jurisdictions involved in the
+review (and others that have also invested in the use of HoNOS65+) may
+encounter a range of differing implementation issues. Training
+programmes in particular are likely to be affected, and while the
+proposed changes are intended to improve the ease and accuracy of using
+the scales, it must be stressed that these do not obviate the continued
+need for training in the use of the scales.
+
+Advisory Board membershipMick JamesNational HoNOS Advisor and MHCT
+Project Manager, RCPsychProf Mike CrawfordDirector of the College Centre
+for Quality Improvement, RCPsychAdrian WorrellHead of Centre for Quality
+Improvement, RCPsychJon PainterJoint Clinical Lead, Care Pathways and
+Packages Project, EnglandDr Gary CheungSenior Lecturer in Psychiatry,
+Department of Psychological Medicine, University of Auckland, NZ.Dr
+Clive BensemannDirector of Mental Health & Addictions HSG Auckland
+District Health Board, NZDr Arran CulverDeputy Director Mental Health
+Ministry of Health, NZDr Crawford DuncanConsultant Psychogeriatrician,
+Capital and Coast District Health Board, New ZealandDr Mark
+SmithClinical Lead, Te Pou, NZDr Rod McKayChair, National Mental Health
+Information Development Expert Advisory Panel, AustraliaMr Tim
+CoombsAustralian Mental Health Outcomes and Classification Network
+(AMHOCN)), AustraliaMs Rosemary DicksonAMHOCN and NMHIDEAP Coordinator,
+AustraliaAllen Morris-YatesDirector of the Centralised Data Management
+Service (CDMS), AustraliaMr Bill BuckinghamAustralian Government
+Department of Health Technical Advisor (Mental Health), AustraliaDr
+Malcolm W. StewartConsultant Psychologist, New ZealandRichard
+WoodcockService and Information Development Manager. Te Pou o te
+Whakaaro Nui, New Zealand
+
+.. _sec5:
+
+Supplementary material
+======================
+
+For supplementary material accompanying this paper visit
+http://dx.doi.org/10.1192/bjb.2018.68.
+
+.. container:: caption
+
+   .. rubric:: 
+
+   click here to view supplementary material
+
+**Mick James** is National HoNOS Advisor at the Centre for Advanced
+Learning and Conferences, Royal College of Psychiatrists, London, UK;
+**Bill Buckingham** is Technical Advisor (Mental Health) at the
+Australian Government, Department of Health, Canberra, Australian
+Capital Territory, Australia; **Gary Cheung** is Senior Lecturer in
+Psychiatry at the Department of Psychological Medicine, University of
+Auckland, New Zealand; **Roderick McKay**, Director Psychiatry and
+Mental Health Programs, Higher Education and Training Institute, NSW
+Health, New South Wales Government, Australia; **Jon Painter** is Senior
+Lecturer in Mental Health at Sheffield Hallam University, UK; and
+**Malcom W. Stewart** is a Consultant Psychologist at Thrive Psychology,
+Psychology, Auckland, New Zealand.
+
+.. container:: references csl-bib-body hanging-indent
+   :name: refs
+
+   .. container:: csl-entry
+      :name: ref-ref1
+
+      n.d.a.
+
+   .. container:: csl-entry
+      :name: ref-ref2
+
+      n.d.b.
+
+   .. container:: csl-entry
+      :name: ref-ref3
+
+      n.d.c.
+
+   .. container:: csl-entry
+      :name: ref-ref4
+
+      n.d.d.
+
+   .. container:: csl-entry
+      :name: ref-ref5
+
+      n.d.e.
+
+   .. container:: csl-entry
+      :name: ref-ref6
+
+      n.d.f.
+
+   .. container:: csl-entry
+      :name: ref-ref7
+
+      n.d.g.
+
+   .. container:: csl-entry
+      :name: ref-ref8
+
+      n.d.h.
+
+   .. container:: csl-entry
+      :name: ref-ref9
+
+      n.d.i.
+
+   .. container:: csl-entry
+      :name: ref-ref10
+
+      n.d.j.
+
+   .. container:: csl-entry
+      :name: ref-ref11
+
+      n.d.k.
+
+   .. container:: csl-entry
+      :name: ref-ref12
+
+      n.d.l.

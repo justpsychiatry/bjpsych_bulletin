@@ -1,0 +1,638 @@
+=============================================================================================================
+Evaluation of the 13-item Hypomania Checklist and a brief 3-item manic features questionnaire in primary care
+=============================================================================================================
+
+Sukhmeet Singh
+Paul Scouller
+Daniel J. SmithCorrespondence to Daniel J. Smith
+(daniel.smith@glasgow.ac.uk)  [1]_
+:Date: 2017-8
+
+:Abstract:
+   **Aims and method** The mean delay for bipolar disorder diagnosis is
+   10 years. Identification of patients with previous hypomania is
+   challenging, sometimes resulting in misdiagnosis. The aims of this
+   study were: (a) to estimate the proportion of primary care patients
+   with depression currently taking antidepressants who have undiagnosed
+   bipolar disorder and (b) to compare a brief 3-item manic features
+   questionnaire with the Hypomania Checklist (HCL-13). The sample
+   comprised patients with a recorded diagnosis of depression, either on
+   long-term antidepressant therapy or with previous multiple courses of
+   antidepressants.
+
+   **Results** Of 149 participants assessed, 24 (16.1%) satisfied
+   criteria for bipolar disorder. Areas under the curve (AUC) for the
+   3-item questionnaire and the HCL-13 were similar (0.79 and 0.72,
+   respectively) but positive predictive values (PPV) were low.
+
+   **Clinical implications** Bipolar disorder may be underdiagnosed in
+   primary care. A 3-item questionnaire could be used by general
+   practitioners to screen for bipolar disorder in their patients with
+   depression.
+
+
+.. contents::
+   :depth: 3
+..
+
+Bipolar disorder affects at least 1–2% of the population and is
+associated with considerable psychosocial
+impairment.\ :sup:`(n.d.a)–(n.d.b)` Accurate diagnosis can be difficult
+because patients tend initially to present in primary care for help with
+depression rather than with manic features, and many primary care
+practitioners do not systematically assess for a history of bipolar
+disorder.\ :sup:`(n.d.c)–(n.d.d)` Recently the National Institute for
+Health and Care Excellence (NICE) recommended that all patients in the
+UK presenting to primary care with depression should be assessed for a
+history of manic features, specifically ‘previous periods of
+overactivity or disinhibited behaviour’.\ :sup:`(n.d.e)`
+
+Recent screening studies of bipolar disorder in UK primary care have
+identified that between 7 and 10% of individuals with depression may
+have undiagnosed bipolar disorder, usually bipolar disorder type
+II.\ :sup:`(n.d.f),(n.d.g)` It is also the case that individuals with
+difficult to treat depression and those with poor response to
+antidepressants are more likely to have unrecognised bipolar
+disorder.\ :sup:`(n.d.h)`
+
+In this context, we aimed to estimate unrecognised bipolar disorder
+within a sample of primary care patients with depression who were taking
+antidepressant medications, as well as to evaluate the potential
+clinical utility of two short screening questionnaires for bipolar
+disorder: the 13-item Hypomania Checklist (HCL-13)\ :sup:`(n.d.i)` and a
+brief 3-item manic features questionnaire. Our focus on these brief
+assessment instruments was stimulated by the need for questionnaires
+that could be used easily in primary care consultations, which are
+usually no longer than 10–15 min.
+
+.. _S1:
+
+Method
+======
+
+.. _S2:
+
+Sample
+------
+
+Practice managers of 9 primary care practices in the west of Scotland
+identified from their databases 2633 patients who (a) had a recorded
+diagnosis of depression and (b) were either currently taking long-term
+antidepressants (more than 12 months) or had had 3 or more courses of
+antidepressants in the past 5 years. Then, 1860 potentially eligible
+patients were reviewed by their general practitioner (GP) for
+eligibility and 1833 written invitations were sent by post, with
+participant information sheets, on behalf of the research team. There
+were 204 people who responded to this invitation and 151 were
+interviewed, giving a response rate of 8.23%. The study was approved by
+the West of Scotland Research Ethics Committee (reference: 13/WS/0071
+18th, approval letter dated April 2013).
+
+.. _S3:
+
+Assessment measures
+-------------------
+
+A research nurse completed the Structured Clinical Interview for DMS-IV
+(SCID-1)\ :sup:`(n.d.j)` in person in order to obtain a gold-standard
+diagnosis. An assessment of practice notes was also conducted to
+corroborate findings from the SCID-1 assessment and to clarify
+medication regimens. Participants completed the HCL-13 and a brief
+3-item bipolar screening questionnaire. This 3-item questionnaire (with
+a maximum score of 6) was based on the three core diagnostic features
+for bipolar disorder taken from DSM-5: elevated mood, severe
+irritability and overactivity.\ :sup:`(n.d.k)` The questions and scoring
+were as follows: Have you ever had a period of time when you were
+feeling so good, ‘high’, excited or ‘hyper’ that other people thought
+you were not your normal self or you were so ‘hyper’ that you got into
+trouble? (Definitely no (score 0), perhaps yes (score 1), definitely yes
+(score 2).)What about a period of time when you were so irritable that
+you found yourself shouting at people or starting fights or arguments?
+(Definitely no (score 0), perhaps yes (score 1), definitely yes (score
+2).)What about a period of time when you were physically much more
+active than usual, for example, when you had lots of different projects
+on the go at the same time? (Definitely no (score 0), perhaps yes (score
+1), definitely yes (score 2).)
+
+.. _S4:
+
+Analyses
+--------
+
+Analyses included the Student's *t*-test, chi-squared test and
+chi-squared test for association, and were conducted using SPSS version
+21 for Windows. To assess the likely clinical usefulness of the HCL-13
+and 3-item questionnaires, in terms of differentiating between bipolar
+disorder and major depressive disorder (MDD), we calculated sensitivity,
+specificity, positive predictive value (PPV) and negative predictive
+value (NPV) using MedCalc and verified these manually. Positive and
+negative clinical utility measures were calculated using an online
+calculator constructed by the developer of the MedCalc test
+(`www.psycho-oncology.info/cui.html <www.psycho-oncology.info/cui.html>`__).\ :sup:`(n.d.l)`
+
+.. _S5:
+
+Results
+=======
+
+Of those who had a full diagnostic assessment, two participants were
+excluded because their SCID results suggested a primary diagnosis of
+alcohol-related mood problems. In total, 24 participants from our final
+sample of *n* = 149 had a DMS-IV diagnosis of bipolar disorder (16.1%;
+95% CI 10.8–23.2%) and the remainder had a diagnosis of MDD (*n* = 125,
+83.9%).
+
+There were no significant differences between the bipolar disorder group
+and the MDD group in terms of age, gender distribution and socioeconomic
+status (assessed using the Scottish Index of Multiple Deprivation, SIMD)
+(`Table 1 <#T1>`__). However, as expected, the bipolar disorder group
+had higher mean scores on the HCL-13 (9.21 *v*. 6.61, *P*\ = 0.001) and
+on the 3-item questionnaire (4.79 *v*. 2.88, *P<* 0.001).
+
+.. container:: table-wrap
+   :name: T1
+
+   .. container:: caption
+
+      .. rubric:: 
+
+      Characteristics of participants with major depressive disorder
+      (MDD) and bipolar disorder
+
+   +----------------+----------------+----------------+----------------+
+   |                | MDD (*n* =     | Bipolar        | *P*            |
+   |                | 125)           | disorder (*n*  |                |
+   |                |                | = 24)          |                |
+   +================+================+================+================+
+   | Age, years:    | 47.50 (10.50)  | 47.58 (8.79)   | 0.972\         |
+   | mean (s.d.)    |                |                |  `a <#TFN2>`__ |
+   +----------------+----------------+----------------+----------------+
+   |                |                |                |                |
+   +----------------+----------------+----------------+----------------+
+   | Females: *n*   | 77 (62.6)      | 15 (62.5)      | 0.992\         |
+   | (%)            |                |                |  `b <#TFN3>`__ |
+   +----------------+----------------+----------------+----------------+
+   |                |                |                |                |
+   +----------------+----------------+----------------+----------------+
+   | SIMD 1: *n*    | 56 (45.5)      | 14 (58.3)      | 0.705\         |
+   | (%)\           |                |                |  `c <#TFN4>`__ |
+   |  `d <#TFN5>`__ |                |                |                |
+   | (most deprived |                |                |                |
+   | quintile)      |                |                |                |
+   +----------------+----------------+----------------+----------------+
+   |                |                |                |                |
+   +----------------+----------------+----------------+----------------+
+   | SIMD 2: *n*    | 20 (16.3)      | 2 (8.3)        |                |
+   | (%)            |                |                |                |
+   +----------------+----------------+----------------+----------------+
+   |                |                |                |                |
+   +----------------+----------------+----------------+----------------+
+   | SIMD 3: *n*    | 15(12.2)       | 4(16.7)        |                |
+   | (%)            |                |                |                |
+   +----------------+----------------+----------------+----------------+
+   |                |                |                |                |
+   +----------------+----------------+----------------+----------------+
+   | SIMD 4: *n*    | 13 (10.6)      | 1 (4.2)        |                |
+   | (%)            |                |                |                |
+   +----------------+----------------+----------------+----------------+
+   |                |                |                |                |
+   +----------------+----------------+----------------+----------------+
+   | SIMD 5: *n*    | 18 (14.6)      | 3 (12.5)       |                |
+   | (%) (most      |                |                |                |
+   | affluent       |                |                |                |
+   | quintile)      |                |                |                |
+   +----------------+----------------+----------------+----------------+
+   |                |                |                |                |
+   +----------------+----------------+----------------+----------------+
+   | HCL-13: mean   | 6.61 (3.36)    | 9.21 (2.77)    | 0.001\         |
+   | (s.d.)         |                |                |  `a <#TFN2>`__ |
+   +----------------+----------------+----------------+----------------+
+   |                |                |                |                |
+   +----------------+----------------+----------------+----------------+
+   | 3-item         | 2.88 (1.84)    | 4.79 (1.56)    | <0.001\        |
+   | questionnaire: |                |                |  `a <#TFN2>`__ |
+   | mean (s.d.)    |                |                |                |
+   +----------------+----------------+----------------+----------------+
+
+   HCL-13, Hypomania Checklist 13; SIMD, Scottish Index of Multiple
+   Deprivation.
+
+   Student *t*-test.
+
+   Chi-squared test.
+
+   Chi-squared test for association.
+
+   No SIMD data for 1 participant with MDD.
+
+.. _S6:
+
+ROC analyses
+------------
+
+The receiver operating characteristics (ROC) curves in `Fig. 1 <#F1>`__
+demonstrate that both the HCL-13 and the 3-item questionnaire performed
+well in terms of differentiating between MDD (*n* = 125) and bipolar
+disorder (*n* = 24). For the HCL-13, an area under the curve (AUC) of
+0.72 (95% CI 0.61–0.84) demonstrates a ‘fair’ overall ability of the
+questionnaire to discriminate effectively between the two groups.
+Similarly, an AUC of 0.79 (95% CI 0.69–0.89) for the 3-item
+questionnaire also demonstrates a ‘fair’ overall ability. An AUC of over
+0.80 is considered to demonstrate a ‘good’ overall ability to
+discriminate.\ :sup:`(n.d.m)`
+
+.. figure:: 189f1
+   :alt: Receiver operating characteristics (ROC) for 13-item Hypomania
+   Checklist (HCL-13) and 3-item questionnaire: discrimination between
+   bipolar disorder (*n* = 24) and major depressive disorder (*n* =
+   125). AUC (area under curve): 0.72 (95% CI 0.61–0.84) for HCL-13 and
+   0.79 (95% CI 0.69–0.89) for the 3-item questionnaire.
+   :name: F1
+
+   Receiver operating characteristics (ROC) for 13-item Hypomania
+   Checklist (HCL-13) and 3-item questionnaire: discrimination between
+   bipolar disorder (*n* = 24) and major depressive disorder (*n* =
+   125). AUC (area under curve): 0.72 (95% CI 0.61–0.84) for HCL-13 and
+   0.79 (95% CI 0.69–0.89) for the 3-item questionnaire.
+
+`Table 2 <#T2>`__ presents the sensitivity, specificity, PPV, NPV and
+likelihood ratio analyses. For the HCL-13, a threshold score of 8 points
+had a sensitivity of 75.0% and specificity of 55.28% but PPV was low at
+24.66%. At a higher threshold of 9 points, the sensitivity was 70.83%,
+specificity was 63.41%, PPV was 27.42% and NPV was 91.76%. At the lower
+threshold of 7 points, the sensitivity was 79.17%, specificity was
+52.03%, PPV was 24.36% and NPV was 92.75%. Therefore, a threshold of 4
+points was chosen to give the best balance between different statistical
+parameters.
+
+.. container:: table-wrap
+   :name: T2
+
+   .. container:: caption
+
+      .. rubric:: 
+
+      HCL-13 and 3-item questionnaire screening for bipolar disorder
+
+   +-------+-------+-------+-------+-------+-------+-------+-------+
+   | Que   | Thre  | S     | S     | PPV   | NPV   | Pos   | Neg   |
+   | stion | shold | ensit | pecif | (95%  | (95%  | itive | ative |
+   | naire |       | ivity | icity | CI)   | CI)   | cli   | cli   |
+   |       |       | (%)   | (%)   |       |       | nical | nical |
+   |       |       | (95%  | (95%  |       |       | ut    | ut    |
+   |       |       | CI)   | CI)   |       |       | ility | ility |
+   |       |       |       |       |       |       | (95%  | (95%  |
+   |       |       |       |       |       |       | CI)   | CI)   |
+   +=======+=======+=======+=======+=======+=======+=======+=======+
+   | H     | 13    | 4.17  | 99.19 | 50.00 | 84.14 | 0.021 | 0.835 |
+   | CL-13 | p     | (0    | (95   | (1    | (77   | (0.   | (0.   |
+   |       | oints | .11–2 | .55–9 | .26–9 | .16–8 | 000–0 | 795–0 |
+   |       |       | 1.12) | 9.98) | 8.74) | 9.67) | .317) | .874) |
+   +-------+-------+-------+-------+-------+-------+-------+-------+
+   |       |       |       |       |       |       |       |       |
+   +-------+-------+-------+-------+-------+-------+-------+-------+
+   | ⩾12   | 12.50 | 95.12 | 33.33 | 84.78 | 0.042 | 0.806 |       |
+   | p     | (2    | (89   | (7    | (77   | (0.   | (0.   |       |
+   | oints | .66–3 | .68–9 | .49–7 | .68–9 | 000–0 | 762–0 |       |
+   |       | 2.36) | 8.19) | 0.07) | 0.33) | .290) | .851) |       |
+   +-------+-------+-------+-------+-------+-------+-------+-------+
+   |       |       |       |       |       |       |       |       |
+   +-------+-------+-------+-------+-------+-------+-------+-------+
+   | ⩾11   | 45.83 | 87.80 | 42.31 | 89.26 | 0.194 | 0.784 |       |
+   | p     | (25   | (80   | (23   | (82   | (0.   | (0.   |       |
+   | oints | .55–6 | .68–9 | .35–6 | .33–9 | 000–0 | 735–0 |       |
+   |       | 7.18) | 3.01) | 3.08) | 4.15) | .432) | .833) |       |
+   +-------+-------+-------+-------+-------+-------+-------+-------+
+   |       |       |       |       |       |       |       |       |
+   +-------+-------+-------+-------+-------+-------+-------+-------+
+   | ⩾10   | 60.50 | 78.05 | 35.71 | 91.43 | 0.223 | 0.714 |       |
+   | p     | (40   | (69   | (21   | (84   | (0.   | (0.   |       |
+   | oints | .59–8 | .69–8 | .55–5 | .35–9 | 014–0 | 655–0 |       |
+   |       | 1.20) | 5.01) | 1.97) | 6.01) | .432( | .772) |       |
+   +-------+-------+-------+-------+-------+-------+-------+-------+
+   |       |       |       |       |       |       |       |       |
+   +-------+-------+-------+-------+-------+-------+-------+-------+
+   | ⩾9    | 70.83 | 63.41 | 27.42 | 91.76 | 0.194 | 0.582 |       |
+   | p     | (48   | (54   | (16   | (83   | (0.   | (0.   |       |
+   | oints | .91–8 | .25–7 | .85–4 | .77–9 | 011–0 | 509–0 |       |
+   |       | 7.38) | 1.91) | 0.23) | 6.62) | .377) | .655) |       |
+   +-------+-------+-------+-------+-------+-------+-------+-------+
+   |       |       |       |       |       |       |       |       |
+   +-------+-------+-------+-------+-------+-------+-------+-------+
+   | ⩾8    | 75.00 | 55.28 | 24.66 | 91.89 | 0.185 | 0.508 |       |
+   | p     | (53   | (46   | (15   | (83   | (0.   | (0.   |       |
+   | oints | .39–9 | .06–6 | .32–3 | .18–9 | 013–0 | 427–0 |       |
+   |       | 0.23) | 4.25) | 6.14) | 6.97) | .357) | .589) |       |
+   +-------+-------+-------+-------+-------+-------+-------+-------+
+   |       |       |       |       |       |       |       |       |
+   +-------+-------+-------+-------+-------+-------+-------+-------+
+   | ⩾7    | 79.17 | 52.03 | 24.36 | 92.75 | 0.193 | 0.483 |       |
+   | p     | (57   | (42   | (15   | (83   | (0.   | (0.   |       |
+   | oints | .85–9 | .84–6 | .35–3 | .89–9 | 025–0 | 399–0 |       |
+   |       | 2.87) | 1.12) | 5.40) | 7.61) | .361) | .566) |       |
+   +-------+-------+-------+-------+-------+-------+-------+-------+
+   |       |       |       |       |       |       |       |       |
+   +-------+-------+-------+-------+-------+-------+-------+-------+
+   | ⩾6    | 83.33 | 36.59 | 20.41 | 91.84 | 0.170 | 0.336 |       |
+   | p     | (62   | (28   | (12   | (80   | (0.   | (0.   |       |
+   | oints | .62–9 | .09–4 | .93–2 | .40–9 | 016–0 | 237–0 |       |
+   |       | 5.26) | 5.75) | 9.74) | 7.73) | .324) | .435) |       |
+   +-------+-------+-------+-------+-------+-------+-------+-------+
+   |       |       |       |       |       |       |       |       |
+   +-------+-------+-------+-------+-------+-------+-------+-------+
+   | ⩾5    | 91.67 | 24.39 | 19.13 | 93.75 | 0.175 | 0.229 |       |
+   | p     | (73   | (17   | (12   | (79   | (0.   | (0.   |       |
+   | oints | .00–9 | .10–3 | .39–2 | .19–9 | 032–0 | 116–0 |       |
+   |       | 8.97) | 2.95) | 7.52) | 9.23) | .318) | .341) |       |
+   +-------+-------+-------+-------+-------+-------+-------+-------+
+   |       |       |       |       |       |       |       |       |
+   +-------+-------+-------+-------+-------+-------+-------+-------+
+   | ⩾4    | 95.83 | 16.26 | 18.25 | 95.75 | 0.175 | 0.155 |       |
+   | p     | (78   | (10   | (11   | (79   | (0.   | (0.   |       |
+   | oints | .88–9 | .22–2 | .94–2 | .19–9 | 038–0 | 031–0 |       |
+   |       | 9.89) | 3.99) | 6.12) | 9.23) | .312) | .278) |       |
+   +-------+-------+-------+-------+-------+-------+-------+-------+
+   |       |       |       |       |       |       |       |       |
+   +-------+-------+-------+-------+-------+-------+-------+-------+
+   | ⩾3    | 1     | 15.45 | 18.75 | 1     | 0.188 | 0.154 |       |
+   | p     | 00.00 | (9    | (12   | 00.00 | (0.   | (0.   |       |
+   | oints | (87.  | .56–2 | .40–2 | (82.  | 052–0 | 029–0 |       |
+   |       | 75–10 | 3.07) | 6.60) | 35–10 | .323) | .279) |       |
+   |       | 0.00) |       |       | 0.00) |       |       |       |
+   +-------+-------+-------+-------+-------+-------+-------+-------+
+   |       |       |       |       |       |       |       |       |
+   +-------+-------+-------+-------+-------+-------+-------+-------+
+   | ⩾2    | 1     | 15.45 | 18.75 | 1     | 0.188 | 0.154 |       |
+   | p     | 00.00 | (9    | (12   | 00.00 | (0.   | (0.   |       |
+   | oints | (85.  | .56–2 | .40–2 | (82.  | 052–0 | 029–0 |       |
+   |       | 75–10 | 3.07) | 6.60) | 35–10 | .323) | .279) |       |
+   |       | 0.00) |       |       | 0.00) |       |       |       |
+   +-------+-------+-------+-------+-------+-------+-------+-------+
+   |       |       |       |       |       |       |       |       |
+   +-------+-------+-------+-------+-------+-------+-------+-------+
+   | ⩾1    | 1     | 11.11 | 18.75 | 1     | 0.179 | 0.106 |       |
+   | point | 00.00 | (6    | (12   | 00.00 | (0.   | (0.   |       |
+   |       | (85.  | .05–1 | .40–2 | (75.  | 046–0 | 000–0 |       |
+   |       | 75–10 | 8.25) | 6.60) | 29–10 | .312) | .238) |       |
+   |       | 0.00) |       |       | 0.00) |       |       |       |
+   +-------+-------+-------+-------+-------+-------+-------+-------+
+   |       |       |       |       |       |       |       |       |
+   +-------+-------+-------+-------+-------+-------+-------+-------+
+   | 3     | ⩾6    | 45.83 | 88.62 | 44.00 | 89.34 | 0.202 | 0.792 |
+   | -item | p     | (25   | (81   | (24   | (82   | (0.   | (0.   |
+   | que   | oints | .55–6 | .64–9 | .40–6 | .47–9 | 000–0 | 744–0 |
+   | stion |       | 7.18) | 3.64) | 5.07) | 4.20) | .443) | .840) |
+   | naire |       |       |       |       |       |       |       |
+   +-------+-------+-------+-------+-------+-------+-------+-------+
+   |       |       |       |       |       |       |       |       |
+   +-------+-------+-------+-------+-------+-------+-------+-------+
+   | ⩾5    | 66.67 | 78.05 | 37.21 | 92.31 | 0.248 | 0.720 |       |
+   | p     | (44   | (69   | (22   | (85   | (0.   | (0.   |       |
+   | oints | .68–8 | .69–8 | .98–5 | .40–9 | 041–0 | 663–0 |       |
+   |       | 4.37) | 5.01) | 3.27) | 6.62) | .455) | .778) |       |
+   +-------+-------+-------+-------+-------+-------+-------+-------+
+   |       |       |       |       |       |       |       |       |
+   +-------+-------+-------+-------+-------+-------+-------+-------+
+   | ⩾4    | 83.33 | 64.23 | 31.25 | 95.18 | 0.260 | 0.611 |       |
+   | p     | (62   | (55   | (20   | (88   | (0.   | (0.   |       |
+   | oints | .62–9 | .09–7 | .24–4 | .12–9 | 081–0 | 541–0 |       |
+   |       | 5.26) | 2.67) | 4.06) | 8.67) | .439) | .682) |       |
+   +-------+-------+-------+-------+-------+-------+-------+-------+
+   |       |       |       |       |       |       |       |       |
+   +-------+-------+-------+-------+-------+-------+-------+-------+
+   | ⩾3    | 91.67 | 43.09 | 23.91 | 96.36 | 0.219 | 0.415 |       |
+   | p     | (73   | (34   | (     | (87   | (0.   | (0.   |       |
+   | oints | .00–9 | .20–5 | 15.63 | .47–9 | 064–0 | 323–0 |       |
+   |       | 8.97) | 2.32) | –     | 9.56) | .375) | .507) |       |
+   |       |       |       | 3     |       |       |       |       |
+   |       |       |       | 3.94) |       |       |       |       |
+   +-------+-------+-------+-------+-------+-------+-------+-------+
+   |       |       |       |       |       |       |       |       |
+   +-------+-------+-------+-------+-------+-------+-------+-------+
+   | ⩾2    | 95.83 | 28.45 | 20.72 | 97.22 | 0.199 | 0.277 |       |
+   | p     | (78   | (20   | (13   | (85   | (0.   | (0.   |       |
+   | oints | .88–9 | .69–3 | .61–2 | .47–9 | 054–0 | 169–0 |       |
+   |       | 9.89) | 7.29) | 9.45) | 9.93) | .343) | .385) |       |
+   +-------+-------+-------+-------+-------+-------+-------+-------+
+   |       |       |       |       |       |       |       |       |
+   +-------+-------+-------+-------+-------+-------+-------+-------+
+   | ⩾1    | 95.83 | 9.76  | 17.16 | 92.31 | 0.164 | 0.090 |       |
+   | point | (78   | (5    | (11   | (63   | (0.   | (0.   |       |
+   |       | .88–9 | .14–1 | .20–2 | .97–9 | 031–0 | 000–0 |       |
+   |       | 9.89) | 6.42) | 4.63) | 9.81) | .298) | .223) |       |
+   +-------+-------+-------+-------+-------+-------+-------+-------+
+
+   HCL-13, 13-item Hypomania Checklist; NPV, negative predictive value;
+   PPV, positive predictive value.
+
+Similarly, a threshold score of 4 on the 3-item questionnaire had a
+sensitivity of 83.33%, specificity of 64.23% and PPV of only 31.25%. At
+a higher threshold of 5 points, the sensitivity was 66.67%, specificity
+was 78.05%, PPV was 37.21% and NPV was 92.31%. At a lower threshold of 3
+points, sensitivity was 91.67%, specificity was 43.09%, PPV was 23.91%
+and NPV was 93.36%. Therefore, a threshold of 4 points was chosen to
+give the best balance between these different parameters.
+
+The positive clinical utility – the ability of the test to confirm cases
+of bipolar disorder – was poor for both tests. The negative clinical
+utility a measure of screening and excluding bipolar disorder, was
+slightly better for the 3-item questionnaire than the HCL-13 at our
+threshold values: 0.611 (95% CI 0.541–0.682) compared with 0.582
+(0.509–0.655). These thresholds were chosen to give the best balance
+between sensitivity, specificity, PPV, NPV and positive and negative
+clinical utility
+
+.. _S7:
+
+Discussion
+==========
+
+One of the goals of this study was to estimate how common DMS-IV bipolar
+disorders might be in a sample of primary care patients taking
+antidepressant medication, specifically those patients who were either
+taking antidepressant therapy for more than 12 months or who had had
+multiple courses of antidepressants over the preceding 5 years. We found
+that 16.1% of our sample had bipolar disorder. This rate is higher than
+in previous literature from the UK. In samples of primary care patients,
+Hughes *et al*\ :sup:`(n.d.g)` found a prevalence of 7.3% whereas Smith
+*et al* found a prevalence of 9.6%. Both studies assessed patients with
+depressive disorder who had been prescribed antidepressant medication.
+It is possible that the addition in our study of participants who had
+previously been prescribed multiple courses of antidepressants led to a
+higher prevalence estimate for bipolar disorder, because unrecognised
+bipolar disorder is more common in patients with more severe and
+enduring depression.\ :sup:`(n.d.n)`
+
+We also aimed to compare the HCL-13 and a brief 3-item questionnaire in
+terms of their ability to differentiate between patients with MDD and
+bipolar disorder. We found that the AUC for HCL-13 was 0.72, while for
+the 3-item questionnaire it was slightly higher, at 0.79. For both tests
+the ability to discriminate between MDD and bipolar disorder in terms of
+sensitivity and specificity was reasonable, but PPVs were low. This is a
+function of the low prevalence of bipolar disorder in primary care
+setting, but represents a potential limitation in terms of the
+usefulness of these instruments to GPs in everyday clinical
+practice.\ :sup:`(n.d.o)` In a review of brief screening instruments for
+depressive disorder in a low-income country, Hanlon *et
+al*\ :sup:`(n.d.p)` concluded that the low PPV at acceptable sensitivity
+levels may preclude their use in clinical settings.
+
+Nevertheless, we would argue that there may be some use in primary care
+for these brief screening instruments alongside additional assessments,
+for example whether patients have a strong family history of mood
+disorder. The 3-item questionnaire in particular may be useful to GPs in
+terms of fulfilling the NICE requirement to assess all patients with
+depression for a history of manic features. The high NPV of 95% means
+that clinicians may find this useful for excluding a diagnosis of
+bipolar disorder in their patients with depression. The NICE guidance
+states that the ideal instrument should be brief, easy to administer and
+to score, and should be able to be interpreted without extensive and
+specialist training :sup:`(n.d.e)`
+
+.. _S8:
+
+Strengths and limitations
+-------------------------
+
+This was a reasonably large study that took a systematic approach to
+screening patients in primary care settings. We used definitions of
+bipolar disorder and MDD based on formal diagnostic classifications by
+using SCID assessment. The study included a range of people from
+different social backgrounds, with the majority living in some of the
+most deprived areas of Scotland. However, it may have been helpful to
+have more baseline demographic information on patients, such as
+ethnicity, family history of bipolar disorder and age at onset of
+depression, and the study may be subject to recall bias because it
+relied on the patient's recall of prior episodes of manic symptoms
+rather than a corroborative history. There may also be an issue of
+selection bias, because GPs were able to exclude certain participants if
+they felt that they were not suitable for this study As a result of
+this, and the fact that only one method of recruitment was used in this
+study, there was a relatively small final sample given the number of
+invitations sent, which may have led to ascertainment bias. Moreover,
+the SCID interviewer was not masked to HCL-13 and 3-item scores, which
+may also have been a source of bias.
+
+Another potential limitation is that the 3-item questionnaire had no
+requirement for a minimum duration of symptoms. It is possible that
+individuals with brief periods of affective instability, such as those
+with borderline personality disorder, would be inclined to respond
+positively to these questions. Similarly, we did not take a history of
+alcohol or drug use, and while we did exclude alcohol or
+substance-induced mood disorders, the use of psychoactive substances
+could have led to false positives with the 3-item questionnaire.
+
+.. _S9:
+
+Clinical implications
+---------------------
+
+A brief 3-item questionnaire may be clinically useful for GPs who wish
+to screen for manic features in patients with MDD. This could prompt
+more detailed assessment, such as an appointment with a relative or
+friend to obtain a collateral history before assessing the need for a
+referral to secondary care. Further studies are required in larger
+samples to assess the clinical usefulness of this test in screening,
+ideally without the issues of recruitment faced in this study It may
+also be helpful to develop the 3-item questionnaire further, perhaps
+with the addition of other items such as the duration of symptoms. While
+the addition of items would lead to a more statistically sound test, it
+would also take longer to administer such a test, which may make it less
+clinically useful.
+
+A proportion of primary care patients with MDD, perhaps as many as 1 in
+5, may have undiagnosed bipolar disorder. For busy clinicians working in
+a time-restricted environment, we suggest that a brief 3-item
+questionnaire may be a useful screening tool for bipolar disorder and a
+first step towards a more comprehensive assessment.
+
+.. container:: references csl-bib-body hanging-indent
+   :name: refs
+
+   .. container:: csl-entry
+      :name: ref-R1
+
+      n.d.a.
+
+   .. container:: csl-entry
+      :name: ref-R4
+
+      n.d.b.
+
+   .. container:: csl-entry
+      :name: ref-R5
+
+      n.d.c.
+
+   .. container:: csl-entry
+      :name: ref-R7
+
+      n.d.d.
+
+   .. container:: csl-entry
+      :name: ref-R8
+
+      n.d.e.
+
+   .. container:: csl-entry
+      :name: ref-R9
+
+      n.d.f.
+
+   .. container:: csl-entry
+      :name: ref-R10
+
+      n.d.g.
+
+   .. container:: csl-entry
+      :name: ref-R11
+
+      n.d.h.
+
+   .. container:: csl-entry
+      :name: ref-R12
+
+      n.d.i.
+
+   .. container:: csl-entry
+      :name: ref-R13
+
+      n.d.j.
+
+   .. container:: csl-entry
+      :name: ref-R14
+
+      n.d.k.
+
+   .. container:: csl-entry
+      :name: ref-R15
+
+      n.d.l.
+
+   .. container:: csl-entry
+      :name: ref-R16
+
+      n.d.m.
+
+   .. container:: csl-entry
+      :name: ref-R17
+
+      n.d.n.
+
+   .. container:: csl-entry
+      :name: ref-R18
+
+      n.d.o.
+
+   .. container:: csl-entry
+      :name: ref-R19
+
+      n.d.p.
+
+.. [1]
+   **Sukhmeet Singh** is a foundation year doctor at NHS Greater Glasgow
+   and Clyde, and at the Institute of Health and Wellbeing, University
+   of Glasgow, **Paul Scouller** is a senior research nurse at NHS
+   Greater Glasgow and Clyde, and **Daniel J. Smith** is Professor of
+   Psychiatry at the Institute of Health and Wellbeing, University of
+   Glasgow, Glasgow, UK.
