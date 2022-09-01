@@ -5,7 +5,7 @@
 .. toctree::
    :caption: Articles
    :glob:
-   :titles-only:
+   :maxdepth: 1
    
    PMC*
    *

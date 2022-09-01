@@ -63,7 +63,6 @@ myst_enable_extensions = [
 ]
 # -- Options for HTML output
 
-html_theme = 'sphinx_rtd_theme'
 
 source_suffix = {
     '.rst': 'restructuredtext',
