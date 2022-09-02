@@ -1,126 +1,983 @@
-<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1d3 20150301//EN" "JATS-archivearticle1.dtd"> 
-<article xmlns:ali="http://www.niso.org/schemas/ali/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="review-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Publishing DTD v2.3 20070202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName journalpublishing.dtd?><?SourceDTD.Version 2.3?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 2?><front><journal-meta><journal-id journal-id-type="nlm-ta">BJPsych Bull</journal-id><journal-id journal-id-type="iso-abbrev">BJPsych Bull</journal-id><journal-id journal-id-type="hwp">pbrcpsych</journal-id><journal-title-group><journal-title>BJPsych Bulletin</journal-title></journal-title-group><issn pub-type="ppub">2056-4694</issn><issn pub-type="epub">2056-4708</issn><publisher><publisher-name>Royal College of Psychiatrists</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">4478901</article-id><article-id pub-id-type="doi">10.1192/pb.bp.114.046896</article-id><article-categories><subj-group subj-group-type="heading"><subject>Review Article</subject></subj-group></article-categories><title-group><article-title>Advance care planning and palliative medicine in advanced dementia: a literature review</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Jethwa</surname><given-names>Ketan Dipak</given-names></name><xref ref-type="aff" rid="A1">1</xref></contrib><contrib contrib-type="author"><name><surname>Onalaja</surname><given-names>Oluwademilade</given-names></name><xref ref-type="aff" rid="A2">2</xref></contrib><aff id="A1"><label>1</label>University of Warwick and Coventry and Warwickshire Partnership NHS Trust</aff><aff id="A2"><label>2</label>Coventry and Warwickshire Partnership NHS Trust</aff></contrib-group><author-notes><corresp>Correspondence to K. D. Jethwa (<email>kdjethwa@doctors.org.uk</email>)
-</corresp><fn><p><bold>Ketan Dipak Jethwa</bold> is a CT1 senior house officer in general psychiatry at Coventry and Warwickshire Partnership NHS Trust and an academic clinical fellow at the University of Warwick and <bold>Oluwademilade Onalaja</bold> is consultant old age psychiatrist at Coventry and Warwickshire Partnership NHS Trust.</p></fn></author-notes><pub-date pub-type="ppub"><month>4</month><year>2015</year></pub-date><volume>39</volume><issue>2</issue><fpage>74</fpage><lpage>78</lpage><history><date date-type="received"><day>25</day><month>1</month><year>2014</year></date><date date-type="rev-recd"><day>11</day><month>4</month><year>2014</year></date><date date-type="accepted"><day>19</day><month>5</month><year>2014</year></date></history><permissions><copyright-statement>&#x000a9; 2014 The Authors</copyright-statement><copyright-year>2014</copyright-year><license license-type="creative-commons" xlink:href="http://creativecommons.org/licenses/by/3.0/"><license-p>This is an open-access article published by the Royal College of Psychiatrists and distributed under the terms of the Creative Commons Attribution License (<uri xlink:type="simple" xlink:href="http://creativecommons.org/licenses/by/3.0">http://creativecommons.org/licenses/by/3.0</uri>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xlink:title="pdf" xlink:type="simple" xlink:href="74.pdf"/><abstract><p id="P1"><bold>Aims and method</bold> To assess the factors that affect the clinical use of advanced care planning and palliative care interventions in patients with dementia. A literature search of Medline, Embase and PsycINFO was performed to identify themes in advanced care planning and palliative care in dementia.</p><p id="P2"><bold>Results</bold> In total, 64 articles were found, including 12 reviews, and three key areas emerged: barriers to advanced care planning, raising awareness and fostering communication between professionals and patients, and disease-specific interventions.</p><p id="P3"><bold>Clinical implications</bold> Most of the studies analysed were carried out in the USA or Continental Europe. This narrative review aims to help guide future primary research, systematic reviews and service development in the UK.</p></abstract></article-meta></front><body><p id="P4">Advance care planning is a targeted intervention that promotes autonomy for end-of-life decisions. It is particularly important in dementia where the illness impairs individuals&#x02019; decision-making abilities. Patients with advancing dementia experience significant comorbidities such as malnutrition and dehydration. They may have no advance care plan (ACP) in place and this can pose difficult management questions for their families and attending physicians concerning palliation and end-of-life care.</p><sec sec-type="methods" id="S1"><title>Method</title><p id="P5">A search of Medline, Embase and PsycINFO was performed to investigate the current literature on ACP and palliative care in dementia. The following search protocol was used: ([&#x02018;advance care plan*&#x02019;] AND [&#x02018;palliat*&#x02019; OR &#x02018;palliative care&#x02019; OR &#x02018;end of life&#x02019;] AND [&#x02018;dementia&#x02019; OR &#x02018;Alzheimer&#x02019;s&#x02019;]).</p></sec><sec sec-type="results" id="S2"><title>Results</title><p id="P6">The search produced 64 journal articles, including 12 reviews. The titles and abstracts of these articles were reviewed. Those published in English and pertaining explicitly to palliative interventions or advance care planning in dementia were looked at more thoroughly.</p><p id="P7">The majority of the studies found were conducted in the USA or Continental Europe. This limits the generalisability of study findings to practice in the UK. For example, in the USA artificial nutrition is commonly used, whereas in the UK the National Institute for Health and Care Excellence (NICE) guidelines for dementia<sup><xref rid="R1" ref-type="bibr">1</xref></sup> state that artificial nutrition should not commence if there is resistance to eating or difficulties in swallowing, related to progression of the disease. Differences in service configuration between countries also limit the generalisability of these studies, especially when considering the role of different agencies in delivering care. Assertive outreach in general psychiatry clearly demonstrates this. In the USA it is associated with improved outcomes and cost-effectiveness; however, these findings have not been replicated in Europe because of differences in the way services are organised.<sup><xref rid="R2" ref-type="bibr">2</xref></sup></p><p id="P8">The purpose of this literature review was to identify key themes for future research and development and how they may relate to practice in the UK.</p></sec><sec sec-type="discussion" id="S3"><title>Discussion</title><p id="P9">Our review of the relevant papers identified the following themes:</p><p id="P10"><list list-type="bullet"><list-item><p id="P11">barriers to advanced care planning</p></list-item><list-item><p id="P12">raising awareness and fostering communication between families and health professionals</p></list-item><list-item><p id="P13">management issues specific to patients with dementia.</p></list-item></list>
-</p><sec id="S4"><title>Barriers to advanced care planning</title><p id="P14">Patient-centred care involves the assessment of physical illness and its functional impact with consideration of the patient&#x02019;s preferences, needs and values, whereas ACP is a tool that aims to enhance individual autonomy in addressing end-of-life care. This approach becomes challenging when patients lack capacity to make their own decisions. At present, relatively few patients have such care plans in place. The reasons for this are multifactorial and are likely to represent both patient- and health professional-specific barriers.</p><p id="P15">In a Spanish study, a cohort of patients with mild Alzheimer&#x02019;s disease and &#x02018;proven decision-making capacity&#x02019; were supported by a multidisciplinary team (MDT) to draw up an ACP.<sup><xref rid="R3" ref-type="bibr">3</xref></sup> Of the 15 patients recruited only 1 drafted a plan. Psychiatric comorbidities (depression and anosognosia), complex family dynamics and a reluctance to engage with the process were cited as patient factors contributing to poor uptake. This initial study highlights the importance of identifying and managing psychiatric disorders in patients with cognitive impairment. This is especially important as improvement in affective symptoms may also result in some improvement in cognitive function, especially in the early stages of dementia.</p><p id="P16">Delivering advanced care planning and palliative care in acute general hospitals has also been investigated. An intervention, supporting carers, was delivered when a patient with severe dementia was admitted to hospital.<sup><xref rid="R4" ref-type="bibr">4</xref></sup> A designated team discussed the various advanced care planning and palliative care options available and supported the formulation of an ACP. Thirty-three patients were recruited and even though discussions were well received only 7 eventually wrote an ACP. The poor uptake in this study may be related to the reluctance of carers to engage with the process because of the distress associated with the hospital admission of a relative. In addition, there is the possibility that once a patient has been admitted to hospital a carer may feel compelled to continue with management of the acute medical problem. In a cross-sectional survey of patients and their spouses it was found that there was moderate agreement between patients and their spouses when considering end-of-life care.<sup><xref rid="R5" ref-type="bibr">5</xref></sup> However, if there was discord, spouses were more likely to ask for treatment. Despite this ambivalence, advanced care planning is important. Nursing models that emphasise advanced care planning, communication and comfort are associated with higher levels of satisfaction among family members when they are asked to reflect on their experience of the end-of-life care given to their relative.<sup><xref rid="R6" ref-type="bibr">6</xref></sup></p><p id="P17">In this category, the following areas for service development and medical education were noted:</p><p id="P18"><list list-type="bullet"><list-item><p id="P19">identification and management of psychiatric comorbidity</p></list-item><list-item><p id="P20">identification of appropriate settings for the delivery of ACP interventions</p></list-item><list-item><p id="P21">exploration of the patients&#x02019; and families&#x02019; ideas, concerns and expectations.</p></list-item></list>
-</p></sec><sec id="S5"><title>Raising awareness and fostering communication between families and health professionals</title><p id="P22">In a Dutch post-mortem chart review of 198 patients, advanced care planning and palliative care were discussed with 11% of patients.<sup><xref rid="R7" ref-type="bibr">7</xref></sup> In this study, 62% of patients had palliative care records, 49% of cases were discussed at an MDT meeting and 76% of patients had a physician order limiting life-sustaining treatment. The current paucity of ACP and targeted palliative care interventions in dementia may relate to a poor understanding of the condition and its natural history. Dementia is a progressive and terminal disease. In a multi-site observational study, 94% of physicians thought of dementia as &#x02018;a disease you can die from&#x02019; compared with 43% of families.<sup><xref rid="R8" ref-type="bibr">8</xref></sup> However, in another study,<sup><xref rid="R9" ref-type="bibr">9</xref></sup> 19% of the physicians questioned stated that they did not discuss ACP options with patients with mild to moderate Alzheimer&#x02019;s disease. Of the 81% who did discuss advanced care planning, 47% addressed end-of-life care specifically. In families where dementia was understood as a terminal condition, patient comfort was rated more highly than in those where dementia was not viewed as terminal. This may reflect acceptance of the diagnosis and an understanding of the natural course of the condition, thus giving families the opportunity to prepare both materially and psychologically.</p><p id="P23">The physician plays a key role in ensuring patients receive appropriate palliation and end-of-life care. In a multicentre cross-sectional survey of 594 nursing homes in Belgium, it was found that patients were more likely to receive palliative care if they had input from a general practitioner (a doctor who may initiate palliative care).<sup><xref rid="R10" ref-type="bibr">10</xref></sup></p><p id="P24">However, more often than not, these decisions are taken when patients are very dependent and have lost capacity.<sup><xref rid="R11" ref-type="bibr">11</xref></sup> This may be following admission to an acute hospital. In a small survey of health professionals (<italic>n</italic> = 16), including physicians and specialist nurses, respondents reported feeling most confident in managing pain.<sup><xref rid="R12" ref-type="bibr">12</xref></sup> There was, however, significant variation in the knowledge of opioid dosing, management of constipation and artificial nutrition in patients with advanced dementia. Given that these patients may not be able to articulate their discomfort, which may only manifest as increasing agitation, it is important that clinicians recognise and manage reversible causes of distress. The complexity of the illness and non-specific presentations mean the medical team may feel ill prepared to deal with specific end-of-life issues. This uneasiness is also present among nursing staff and can result in poor communication between staff and patients/carers.<sup><xref rid="R13" ref-type="bibr">13</xref></sup> To tackle this, a role-play-based teaching package was delivered to palliative medicine fellows<sup><xref rid="R14" ref-type="bibr">14</xref></sup> who afterwards felt more able to discuss ACP and identify caregiver burden. This type of teaching is effective but labour intensive. A 2-day residential course, the &#x02018;Dementia Difference Workshop&#x02019;, has been developed in Canada. At a focus group 1 year after the initial training session respondents reported feeling more confident in communicating with patients about ACP and that the course had led to a change in their practice.<sup><xref rid="R15" ref-type="bibr">15</xref></sup> Internet-based e-learning is another alternative.<sup><xref rid="R16" ref-type="bibr">16</xref></sup> However, although online courses are effective at delivering information, they may not directly help improve learners&#x02019; communication skills. Both role-play and internet-based teaching methods are used in UK medical education and provide a key opportunity for raising awareness.</p><p id="P25">Advanced care planning discussions are associated with an increased rate of plan formulation.<sup><xref rid="R17" ref-type="bibr">17</xref></sup> It is important that such discussions are undertaken in a supportive manner/setting to ensure understanding and involvement. Patients&#x02019; educational level also seems to be an important factor, affecting understanding and uptake.<sup><xref rid="R18" ref-type="bibr">18</xref></sup> The use of audiovisual media can help overcome this and make the material more readily accessible. Lack of communication and support are frequently cited as sources of stress for caregivers, especially when patients are admitted to nursing homes.<sup><xref rid="R19" ref-type="bibr">19</xref></sup></p><p id="P26">It is important to clearly and accessibly document the capacity assessment, patients&#x02019; preferences and their proxy (if appropriate). This is important for medico-legal reasons, as patients&#x02019; wishes may also change. A retrospective chart review of 93 US patients<sup><xref rid="R20" ref-type="bibr">20</xref></sup> enrolled in a &#x02018;program of all-inclusive care for the elderly&#x02019; found that patients had on average two (range 0&#x02013;4) documented discussions per year considering end-of-life issues. It was found that, after adjusting for the number of medical comorbidities, including dementia, the longer the patient was enrolled the less aggressive they wanted their medical care to be. At enrolment 34.4% of patients requested full medical treatment while shortly before death this figure was much lower at 6.5%. The enrolment period ranged from 1.0 to 6.4 years with 46% enrolled for more than 3 years. It is, however, unclear whether this change was related to perceived or actual deterioration in health, reduced quality of life or awareness of the natural history of dementia. The recommendations of the Nuffield Dementia Report 2009, which propose a form of proxy decision-making in collaboration with the family, have been suggested as an alternative to legally binding advance decisions which may not be flexible enough to allow for changes in patients&#x02019; preferences.<sup><xref rid="R21" ref-type="bibr">21</xref></sup></p><p id="P27">Key areas for service development and medical education in this category were:</p><p id="P28"><list list-type="bullet"><list-item><p id="P29">educational interventions for doctors and other health professionals to raise awareness of ACP and palliative care in dementia</p></list-item><list-item><p id="P30">improving access to advance care planning and palliative care information for patients</p></list-item><list-item><p id="P31">standardising documentation and ensuring services are dynamic to follow changes in patients&#x02019; wishes.</p></list-item></list>
-</p></sec><sec id="S6"><title>Management issues specific to patients with dementia</title><p id="P32">The timing and triggers for palliative intervention remain unclear. It may be instigated in a number of settings including nursing homes, hospices or acute hospitals. In a sample of 198 patients, identified in a post-mortem study, 54% had dementia and 95% experienced one or more &#x02018;sentinel events&#x02019; before the initiation of palliative care.<sup><xref rid="R7" ref-type="bibr">7</xref></sup> These included febrile illness, pain or behavioural disturbance.</p><p id="P33">In the UK, the majority of patients with dementia are admitted to hospital. Lack of clinical improvement or worsening clinical biochemistry are common indications for palliation. This may include discussions with families about &#x02018;do not resuscitate&#x02019; (DNR) orders, the cessation of active treatment and initiation of symptom control. End-of-life care is initiated by senior physicians. In addition, junior doctors need to be supported in managing acute behavioural disturbance and general deterioration. There is scope to develop a targeted management framework that takes into account the benefits and side-effects of treatment.<sup><xref rid="R22" ref-type="bibr">22</xref></sup></p><p id="P34">The acute hospital plays a key role in the palliative care delivered to patients. Hospital admissions are related to an excess of sentinel events in the community. The capacity of hospices and nursing homes to instigate supportive or palliative measures is currently limited. In the USA, a retrospective cohort study<sup><xref rid="R23" ref-type="bibr">23</xref></sup> of 240 patients investigating &#x02018;do not hospitalise orders&#x02019; (DNHOs) discovered that 83.8% of patients had a DNHO in place and 24.6% of patients had a hospital transfer in the 6 months preceding death. Factors found to be independently associated with DNHO were: aged older than 92 years, nursing home stay of more than 2 years, eating problems and the surrogate decision maker not being the patient&#x02019;s child. A qualitative study in the north-east of England, using semi-structured interviews and including representatives from community, hospital and ambulance services,<sup><xref rid="R24" ref-type="bibr">24</xref></sup> found uncertainty among staff about whether current services could meet patients&#x02019; wishes. The main concerns highlighted included: responsibilities of different groups, aspects of ACP that are legally binding and inconsistencies between the forms used by different agencies. Clarification of roles, standardisation of documentation and shared care between primary and secondary care are organisational and legal issues that need to be addressed to facilitate continuity of care.</p><p id="P35">Intervention offered by special care units is a relatively under-researched area. A post-mortem review of the care of 422 nursing home residents (263 had dementia) by semi-structured interviews with care staff and 293 family caregivers found that patients with dementia had less shortness of breath, but required more physical restraint or sedative medication for behavioural disturbance.<sup><xref rid="R25" ref-type="bibr">25</xref></sup> Patients in residential care had more skin ulcers, poorer hygiene, less use of restraint and higher use of emergency medical services. This study was performed in the USA and no difference was found between patients with or without dementia in terms of pain, ACP, life-prolonging interventions or hospice use.</p><p id="P36">A further longitudinal study of 323 patients in 22 nursing homes in Boston, USA was performed.<sup><xref rid="R26" ref-type="bibr">26</xref></sup> It revealed that 43.7% of patients were cared for in a special care unit where they were more likely to receive treatment for dyspnoea, had fewer hospitalisations and were less likely to be fed via a nasogastric tube. Special care units are nursing homes where the structural design, training and activity programmes provide a supportive social environment for patients with dementia. Patients in standard nursing homes were more likely to receive analgesia, had fewer pressure ulcers, and antipsychotics were less frequently used. Staff in special care units reported higher levels of satisfaction.<sup><xref rid="R27" ref-type="bibr">27</xref></sup> Staff in special care units may have more experience in managing patients&#x02019; personal care needs and behaviours, whereas those in nursing homes may have more experience in assessing and managing pain and pressure sores. A probable confounder in this study is the possibility that patients with more behavioural disturbance and higher care needs are more likely to be cared for in special units. The primary care physician may be in the best position to recognise when referral to a hospice or specialist unit is required.<sup><xref rid="R28" ref-type="bibr">28</xref></sup></p><p id="P37">Key areas for service development and medical education in this category are:</p><p id="P38"><list list-type="bullet"><list-item><p id="P39">integration of dementia and pre-existing palliative care services</p></list-item><list-item><p id="P40">integration of dementia and general medical services</p></list-item><list-item><p id="P41">identification and management of causes of behavioural disturbance in dementia</p></list-item><list-item><p id="P42">facilitating transfer of information and patient records between primary and secondary care</p></list-item><list-item><p id="P43">legal issues surrounding the use of ACPs.</p></list-item></list>
-</p></sec><sec id="S7"><title>Advanced care planning and palliative care in UK dementia services</title><p id="P44">The 2008 <italic>End of Life Care Strategy</italic> published by the UK Department of Health was the first comprehensive strategy for dying people.<sup><xref rid="R29" ref-type="bibr">29</xref></sup> There have subsequently been a number of initiatives to improve advanced care planning and end-of-life care for patients with dementia, cancer and other chronic conditions.</p><p id="P45">The National Council for Palliative Care (<uri xlink:type="simple" xlink:href="www.ncpc.org.uk">www.ncpc.org.uk</uri>) has a section charged specifically with improving the provision of end-of-life care in dementia. In particular they are working on strengthening ties with pre-existing dementia services and palliative care services to ensure access and coordination between services. In some areas they are working closely with Admiral Nurses (<uri xlink:type="simple" xlink:href="www.dementiauk.org/what-we-do/admiral-nurses">www.dementiauk.org/what-we-do/admiral-nurses</uri>), specialist mental health nurses with additional training in dementia care. Given the unpredictability of the illness and questions over the timing and triggers for palliative intervention, integration of these two services will be invaluable in ensuring ACPs are drawn up and that appropriate end-of-life care is available when patients require it.</p><p id="P46">In 2012, the prime minister announced that dementia is now a national priority.<sup><xref rid="R30" ref-type="bibr">30</xref></sup> A Challenge on Dementia scheme was set up to raise awareness and improve services. One of its key aims is advanced care planning. The scheme highlights the following as examples of good practice that should be replicated across the country: a community-based approach using dementia-friendly environmental design and non-invasive assistive technology to help people remain in the community, and a psychiatry and general practice intervention to facilitate end-of-life care in the community. At a time of financial constraint and increasing demand for already stretched accident and emergency services, these interventions have been welcomed as means of reducing costs.</p><p id="P47">The experience of dementia special care units can offer insights that may be transferable to general hospital or nursing home settings. Patients in special care units experience greater comfort, treatment for dyspnoea and are less likely to be fed by a nasogastric tube. Having &#x02018;dementia wards&#x02019; in general hospitals staffed by physicians, psychiatrists and specially trained nursing staff will help ensure patients receive appropriate medical care and pastoral support. In the community, ensuring nurses have generic medical skills, such as setting up subcutaneous fluids, will reduce the requirement for hospital admissions and will increase the nurses&#x02019; experience and confidence in delivering complex palliative interventions.</p></sec><sec id="S8"><title>Limitations</title><p id="P48">The heterogeneity of study methodology, setting, reported outcome measures and small sample sizes reduce the generalisability of our findings. For example, end-of-life care discussions in out-patient and in-patient settings have different confounders, which will affect responses and outcomes. The majority of the studies are also retrospective or use post-mortem data that are open to recall bias and/or have incomplete/inconsistent data collection. More studies need to be undertaken in the UK, with larger sample sizes and standardised methods of reporting outcomes, to ensure applicability in the UK and comparison between studies.</p><p id="P49">This review has focused on the organisational factors associated with advanced care planning and palliative care in dementia. However, the disconnect between the willingness of carers and health professionals to discuss these issues,<sup><xref rid="R31" ref-type="bibr">31</xref></sup> and the low levels of uptake and engagement reported in the studies reviewed, call for more exploration. This would require a wider review incorporating psychosocial literature exploring personal, cultural and other influences that shape people&#x02019;s expectations towards death and end-of-life care. The role played by a lack of information, misperceptions about the course of the illness and the setting in which advanced care planning interventions are delivered have been cited in the studies reviewed as possible contributing factors.</p></sec></sec></body><back><fn-group><fn fn-type="conflict"><p><bold>Declaration of interest</bold> None.</p></fn></fn-group><ref-list><title>References</title><ref id="R1"><label>1</label><mixed-citation publication-type="book">
-<collab>National Institute for Health and Clinical Excellence</collab>. <source>Dementia: Supporting People with Dementia and Their Carers in Health and Social Care (CG42)</source>. <publisher-name>NICE</publisher-name>, <year>2006</year>.
-</mixed-citation></ref><ref id="R2"><label>2</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name><surname>Rosen</surname><given-names>A</given-names></name><name><surname>Killaspy</surname><given-names>H</given-names></name><name><surname>Harvey</surname><given-names>C</given-names></name></person-group>
-<article-title>Specialisation and marginalisation: how the assertive community treatment debate affects individuals with complex mental health needs</article-title>. <source>Psychiatrist</source>
-<year>2013</year>; <volume>37</volume>: <fpage>345</fpage>&#x02013;<lpage>8</lpage>.
-</mixed-citation></ref><ref id="R3"><label>3</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name><surname>Gama</surname><given-names>A</given-names></name><name><surname>Flores</surname><given-names>F</given-names></name><name><surname>Vilchez</surname><given-names>S</given-names></name><name><surname>Pozon</surname><given-names>A</given-names></name><name><surname>Sola</surname><given-names>J</given-names></name></person-group>
-<article-title>Advance care planing in Alzheimer disease. A multidisciplinary strategy</article-title>. <source>Eur Geriatr Med</source>
-<year>2013</year>; <volume>4</volume> (<issue>Suppl</issue>): <fpage>S37</fpage>.
-</mixed-citation></ref><ref id="R4"><label>4</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name><surname>Sampson</surname><given-names>EL</given-names></name><name><surname>Jones</surname><given-names>L</given-names></name><name><surname>Thun-Boyle</surname><given-names>IC</given-names></name><name><surname>Kukkastenvehmas</surname><given-names>R</given-names></name><name><surname>King</surname><given-names>M</given-names></name><name><surname>Leurent</surname><given-names>B</given-names></name><etal/></person-group>
-<article-title>Palliative assessment and advance care planning in severe dementia: an exploratory randomized controlled trial of a complex intervention</article-title>. <source>Palliat Med</source>
-<year>2011</year>; <volume>25</volume>: <fpage>197</fpage>&#x02013;<lpage>209</lpage>.
-<pub-id pub-id-type="pmid">21228087</pub-id></mixed-citation></ref><ref id="R5"><label>5</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name><surname>Ayalon</surname><given-names>L</given-names></name><name><surname>Bachner</surname><given-names>YG</given-names></name><name><surname>Dwolatzky</surname><given-names>T</given-names></name><name><surname>Heinik</surname><given-names>J</given-names></name></person-group>
-<article-title>Preferences for end-of-life treatment: concordance between older adults with dementia or mild cognitive impairment and their spouses</article-title>. <source>Int Psychogeriatrics</source>
-<year>2012</year>; <volume>24</volume>: <fpage>1798</fpage>&#x02013;<lpage>804</lpage>.
-</mixed-citation></ref><ref id="R6"><label>6</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name><surname>Liu</surname><given-names>LM</given-names></name><name><surname>Guarino</surname><given-names>AJ</given-names></name><name><surname>Lopez</surname><given-names>RP</given-names></name></person-group>
-<article-title>Family satisfaction with care provided by nurse practitioners to nursing home residents with dementia at the end of life</article-title>. <source>Clin Nurs Res</source>
-<year>2012</year>; <volume>21</volume>: <fpage>350</fpage>&#x02013;<lpage>67</lpage>.
-<pub-id pub-id-type="pmid">22203088</pub-id></mixed-citation></ref><ref id="R7"><label>7</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name><surname>Van den Block</surname><given-names>LB</given-names></name><name><surname>Vandervoort</surname><given-names>A</given-names></name><name><surname>Deliens</surname><given-names>L</given-names></name></person-group>
-<article-title>Nursing home residents dying with dementia in Flanders, Belgium: A nationwide post-mortem study on quality of end-of-life care and quality of dying</article-title>. <source>J Am Med Dir Assoc</source>
-<year>2013</year>; <volume>14</volume>: <fpage>485</fpage>&#x02013;<lpage>92</lpage>.
-<pub-id pub-id-type="pmid">23523319</pub-id></mixed-citation></ref><ref id="R8"><label>8</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name><surname>Van der Steen</surname><given-names>JTS</given-names></name></person-group>
-<article-title>Dying with dementia: what we know after more than a decade of research</article-title>. <source>J Alzh Dis</source>
-<year>2010</year>; <volume>22</volume>: <fpage>37</fpage>&#x02013;<lpage>55</lpage>.
-</mixed-citation></ref><ref id="R9"><label>9</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name><surname>Cavalieri</surname><given-names>TA</given-names></name><name><surname>Latif</surname><given-names>W</given-names></name><name><surname>Ciesielski</surname><given-names>J</given-names></name><name><surname>Ciervo</surname><given-names>CA</given-names><suffix>Jr</suffix></name><name><surname>Forman</surname><given-names>LJ</given-names></name></person-group>
-<article-title>How physician approach advance care planning in patients with mild to moderate Alzheimer&#x02019;s disease</article-title>. <source>J Am Osteopath Assoc</source>
-<year>2002</year>; <volume>102</volume>: <fpage>541</fpage>&#x02013;<lpage>4</lpage>.
-<pub-id pub-id-type="pmid">12401040</pub-id></mixed-citation></ref><ref id="R10"><label>10</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name><surname>Vandervoort</surname><given-names>A</given-names></name><name><surname>Van</surname><given-names>LB</given-names></name><name><surname>Van</surname><given-names>JTS</given-names></name><name><surname>Vander</surname><given-names>R</given-names></name><name><surname>Bilsen</surname><given-names>J</given-names></name><name><surname>Deliens</surname><given-names>L</given-names></name></person-group>
-<article-title>Advance directives and physicians&#x02019; orders in nursing home residents with dementia in Flanders, Belgium: prevalence and associated outcomes</article-title>. <source>Int Psychogeriatr</source>
-<year>2012</year>; <volume>24</volume>: <fpage>1133</fpage>&#x02013;<lpage>43</lpage>.
-<pub-id pub-id-type="pmid">22364648</pub-id></mixed-citation></ref><ref id="R11"><label>11</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name><surname>De Gendt</surname><given-names>C</given-names></name><name><surname>Bilsen</surname><given-names>J</given-names></name><name><surname>Stichele</surname><given-names>RV</given-names></name><name><surname>Deliens</surname><given-names>L</given-names></name></person-group>
-<article-title>Advance care planning and dying in nursing homes in Flanders, Belgium: a nationwide survey</article-title>. <source>J Pain Symptom Manag</source>
-<year>2013</year>; <volume>45</volume>: <fpage>223</fpage>&#x02013;<lpage>34</lpage>.
-</mixed-citation></ref><ref id="R12"><label>12</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name><surname>Caprio</surname><given-names>TV</given-names></name><name><surname>Olden</surname><given-names>AM</given-names></name><name><surname>McKee</surname><given-names>MM</given-names></name></person-group>
-<article-title>Nursing home provider survey on end-of-life care: An educational needs assessment</article-title>. <source>J Am Geriatr Soc</source>
-<year>2011</year>; <volume>59</volume>: <fpage>S181</fpage>&#x02013;<lpage>2</lpage>.
-</mixed-citation></ref><ref id="R13"><label>13</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name><surname>Livingston</surname><given-names>G</given-names></name><name><surname>Pitfield</surname><given-names>C</given-names></name><name><surname>Morris</surname><given-names>J</given-names></name><name><surname>Manela</surname><given-names>M</given-names></name><name><surname>Lewis-Holmes</surname><given-names>E</given-names></name><name><surname>Jacobs</surname><given-names>H</given-names></name></person-group>
-<article-title>Care at the end of life for people with dementia living in a care home: a qualitative study of staff experience and attitudes</article-title>. <source>Int J Geriatr Psychiatry</source>
-<year>2012</year>; <volume>27</volume>: <fpage>643</fpage>&#x02013;<lpage>50</lpage>.
-<pub-id pub-id-type="pmid">21858871</pub-id></mixed-citation></ref><ref id="R14"><label>14</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name><surname>Herrington</surname><given-names>H</given-names></name></person-group>
-<article-title>Teaching palliative care for dementia patients to palliative care fellows using role play, news media and the literature</article-title>. <source>J Am Geriatr Soc</source>
-<year>2011</year>; <volume>59</volume> (<issue>Suppl 1</issue>): <fpage>22</fpage>.
-</mixed-citation></ref><ref id="R15"><label>15</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name><surname>Robinson</surname><given-names>JG</given-names></name><name><surname>Sudbury</surname><given-names>F</given-names></name></person-group>
-<article-title>The dementia difference: Practice changes after a workshop for staff on caring for people dying with Alzheimer&#x02019;s disease</article-title>. <source>Alzh Dement</source>
-<year>2009</year>; <volume>5</volume> (<issue>Suppl 1</issue>): <fpage>141</fpage>.
-</mixed-citation></ref><ref id="R16"><label>16</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><name><surname>Baranowski</surname><given-names>RA</given-names></name></person-group>
-<source>A New ABIM PIM Focusing on Palliative Care</source>. <publisher-name>Center to Advance Palliative Care</publisher-name>
-<comment>(<uri xlink:type="simple" xlink:href="http://www.capc.org/capc-resources/capc-poster-sessions/capc-miami-2012/abstracts/02">http://www.capc.org/capc-resources/capc-poster-sessions/capc-miami-2012/abstracts/02</uri>)</comment>.
-</mixed-citation></ref><ref id="R17"><label>17</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name><surname>Awan</surname><given-names>K</given-names></name><name><surname>Clark</surname><given-names>E</given-names></name><name><surname>Leon</surname><given-names>L</given-names></name><name><surname>Kwak</surname><given-names>J</given-names></name><name><surname>Livote</surname><given-names>E</given-names></name><name><surname>Lindenberger</surname><given-names>E</given-names></name></person-group>
-<article-title>An advance care planning initiative to improve documentation of health care preferences among patients with and without dementia</article-title>. <source>J Am Geriatr Soc</source>
-<year>2010</year>; <volume>58</volume>: <fpage>S150</fpage>.
-</mixed-citation></ref><ref id="R18"><label>18</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name><surname>Volandes</surname><given-names>AE</given-names></name><name><surname>Ariza</surname><given-names>M</given-names></name><name><surname>Abbo</surname><given-names>ED</given-names></name><name><surname>Paasche-Orlow</surname><given-names>M</given-names></name></person-group>
-<article-title>Overcoming educational barriers for advance care planning in Latinos with video images</article-title>. <source>J Palliat Med</source>
-<year>2008</year>; <volume>11</volume>: <fpage>700</fpage>&#x02013;<lpage>6</lpage>.
-<pub-id pub-id-type="pmid">18588401</pub-id></mixed-citation></ref><ref id="R19"><label>19</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name><surname>Givens</surname><given-names>JL</given-names></name><name><surname>Lopez</surname><given-names>RP</given-names></name><name><surname>Mazor</surname><given-names>KM</given-names></name><name><surname>Mitchell</surname><given-names>SL</given-names></name></person-group>
-<article-title>Sources of stress for family members of nursing home residents with advanced dementia</article-title>. <source>Alzh Dis Assoc Disord</source>
-<year>2012</year>; <volume>26</volume>: <fpage>254</fpage>&#x02013;<lpage>9</lpage>.
-</mixed-citation></ref><ref id="R20"><label>20</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name><surname>Pak</surname><given-names>ES</given-names></name><name><surname>Yu</surname><given-names>Q</given-names></name><name><surname>McNabney</surname><given-names>M</given-names></name></person-group>
-<article-title>Longer enrollment at one PACE site is associated with the decision for less aggressive code status</article-title>. <source>J Am Geriatr Soc</source>
-<year>2010</year>; <volume>58</volume>: <fpage>S117</fpage>.
-</mixed-citation></ref><ref id="R21"><label>21</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name><surname>McGee</surname><given-names>A</given-names></name></person-group>
-<article-title>Advance care planning for dementia patients</article-title>. <source>BMJ Support Palliat Care</source>
-<year>2013</year>; <volume>3</volume>: <fpage>237</fpage>&#x02013;<lpage>8</lpage>.
-</mixed-citation></ref><ref id="R22"><label>22</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name><surname>Passmore</surname><given-names>MJ</given-names></name></person-group>
-<article-title>Neuropsychiatric symptoms of dementia: consent, quality of life, and dignity</article-title>. <source>BioMed Res Int</source>
-<year>2013</year>; <comment>doi: 10.1155/2013/230134</comment>.
-</mixed-citation></ref><ref id="R23"><label>23</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name><surname>Lamberg</surname><given-names>JL</given-names></name><name><surname>Person</surname><given-names>CJ</given-names></name><name><surname>Kiely</surname><given-names>DK</given-names></name><name><surname>Mitchell</surname><given-names>SL</given-names></name></person-group>
-<article-title>Decisions to hospitalize nursing home residents dying with advanced dementia</article-title>. <source>J Am Geriatr Soc</source>
-<year>2005</year>, <volume>53</volume>: <fpage>1396</fpage>&#x02013;<lpage>401</lpage>.
-<pub-id pub-id-type="pmid">16078968</pub-id></mixed-citation></ref><ref id="R24"><label>24</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name><surname>Robinson</surname><given-names>L</given-names></name><name><surname>Dickinson</surname><given-names>C</given-names></name><name><surname>Bamford</surname><given-names>C</given-names></name><name><surname>Clark</surname><given-names>A</given-names></name><name><surname>Hughes</surname><given-names>J</given-names></name><name><surname>Exley</surname><given-names>C</given-names></name></person-group>
-<article-title>A qualitative study: Professionals&#x02019; experiences of advance care planning in dementia and palliative care, &#x02018;a good idea in theory but&#x02019;</article-title>. <source>Palliat Med</source>
-<year>2013</year>; <volume>27</volume>: <fpage>401</fpage>&#x02013;<lpage>8</lpage>.
-<pub-id pub-id-type="pmid">23175508</pub-id></mixed-citation></ref><ref id="R25"><label>25</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name><surname>Sloane</surname><given-names>PD</given-names></name><name><surname>Zimmerman</surname><given-names>S</given-names></name><name><surname>Williams</surname><given-names>CS</given-names></name><name><surname>Hanson</surname><given-names>LC</given-names></name></person-group>
-<article-title>Dying with dementia in long term care</article-title>. <source>Gerontologist</source>
-<year>2008</year>; <volume>48</volume>: <fpage>741</fpage>&#x02013;<lpage>51</lpage>.
-<pub-id pub-id-type="pmid">19139248</pub-id></mixed-citation></ref><ref id="R26"><label>26</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name><surname>Cadigan</surname><given-names>RO</given-names></name><name><surname>Grabowski</surname><given-names>DC</given-names></name><name><surname>Givens</surname><given-names>JL</given-names></name><name><surname>Mitchell</surname><given-names>SL</given-names></name></person-group>
-<article-title>The quality of advanced dementia care in the nursing home: the role of special care units</article-title>. <source>Med Care</source>
-<year>2012</year>; <volume>50</volume>: <fpage>856</fpage>&#x02013;<lpage>62</lpage>.
-<pub-id pub-id-type="pmid">22982735</pub-id></mixed-citation></ref><ref id="R27"><label>27</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name><surname>Engel</surname><given-names>SE</given-names></name><name><surname>Kiely</surname><given-names>DK</given-names></name><name><surname>Mitchell</surname><given-names>SL</given-names></name></person-group>
-<article-title>Satisfaction with end-of-life care for nursing home residents with advanced dementia</article-title>. <source>J Am Geriatr Soc</source>
-<year>2006</year>; <volume>54</volume>: <fpage>1567</fpage>&#x02013;<lpage>72</lpage>.
-<pub-id pub-id-type="pmid">17038076</pub-id></mixed-citation></ref><ref id="R28"><label>28</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name><surname>Smucker</surname><given-names>DR</given-names></name></person-group>
-<article-title>Hospice and the continuum of primary care</article-title>. <source>Clin Fam Pract</source>
-<year>2004</year>; <volume>6</volume>: <fpage>299</fpage>&#x02013;<lpage>323</lpage>.
-</mixed-citation></ref><ref id="R29"><label>29</label><mixed-citation publication-type="book">
-<collab>Department of Health</collab>. <source>End of Life Care Strategy: Promoting High Quality Care for Adults at the End of Their Life</source>. <publisher-name>Department of Health</publisher-name>, <year>2008</year>.
-</mixed-citation></ref><ref id="R30"><label>30</label><mixed-citation publication-type="book">
-<collab>National Council for Palliative Care</collab>. <source>The Prime Minister&#x02019;s Challenge on Dementia &#x02013; A report on progress</source>. <publisher-name>NCPC</publisher-name>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1d3 20150301//EN" "JATS-archivearticle1.dtd">
+<article xmlns:ali="http://www.niso.org/schemas/ali/1.0"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="review-article">    <?properties open_access?>    <?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Publishing DTD v2.3 20070202//EN?>    <?DTDIdentifier.IdentifierType public?>    <?SourceDTD.DTDName journalpublishing.dtd?>    <?SourceDTD.Version 2.3?>    <?ConverterInfo.XSLTName jp2nlmx2.xsl?>    <?ConverterInfo.Version 2?>
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="nlm-ta">BJPsych Bull</journal-id>
+            <journal-id journal-id-type="iso-abbrev">BJPsych Bull</journal-id>
+            <journal-id journal-id-type="hwp">pbrcpsych</journal-id>
+            <journal-title-group>
+                <journal-title>BJPsych Bulletin</journal-title>
+            </journal-title-group>
+            <issn pub-type="ppub">2056-4694</issn>
+            <issn pub-type="epub">2056-4708</issn>
+            <publisher>
+                <publisher-name>Royal College of Psychiatrists</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="pmcid">4478901</article-id>
+            <article-id pub-id-type="doi">10.1192/pb.bp.114.046896</article-id>
+            <article-categories>
+                <subj-group subj-group-type="heading">
+                    <subject>Review Article</subject>
+                </subj-group>
+            </article-categories>
+            <title-group>
+                <article-title>Advance care planning and palliative medicine in advanced dementia: a literature review</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Jethwa</surname>
+                        <given-names>Ketan Dipak</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Onalaja</surname>
+                        <given-names>Oluwademilade</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A2">2</xref>
+                </contrib>
+                <aff id="A1">
+                    <label>1</label>University of Warwick and Coventry and Warwickshire Partnership NHS Trust</aff>
+                <aff id="A2">
+                    <label>2</label>Coventry and Warwickshire Partnership NHS Trust</aff>
+            </contrib-group>
+            <author-notes>
+                <corresp>Correspondence to K. D. Jethwa (<email>kdjethwa@doctors.org.uk</email>)
+                </corresp>
+                <fn>
+                    <p>
+                        <bold>Ketan Dipak Jethwa</bold> is a CT1 senior house officer in general psychiatry at Coventry and Warwickshire Partnership NHS Trust and an academic clinical fellow at the University of Warwick and <bold>Oluwademilade Onalaja</bold> is consultant old age psychiatrist at Coventry and Warwickshire Partnership NHS Trust.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="ppub">
+                <month>4</month>
+                <year>2015</year>
+            </pub-date>
+            <volume>39</volume>
+            <issue>2</issue>
+            <fpage>74</fpage>
+            <lpage>78</lpage>
+            <history>
+                <date date-type="received">
+                    <day>25</day>
+                    <month>1</month>
+                    <year>2014</year>
+                </date>
+                <date date-type="rev-recd">
+                    <day>11</day>
+                    <month>4</month>
+                    <year>2014</year>
+                </date>
+                <date date-type="accepted">
+                    <day>19</day>
+                    <month>5</month>
+                    <year>2014</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>&#x000a9; 2014 The Authors</copyright-statement>
+                <copyright-year>2014</copyright-year>
+                <license license-type="creative-commons" xlink:href="http://creativecommons.org/licenses/by/3.0/">
+                    <license-p>This is an open-access article published by the Royal College of Psychiatrists and distributed under the terms of the Creative Commons Attribution License (<uri xlink:type="simple" xlink:href="http://creativecommons.org/licenses/by/3.0">http://creativecommons.org/licenses/by/3.0</uri>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <self-uri xlink:title="pdf" xlink:type="simple" xlink:href="74.pdf" />
+            <abstract>
+                <p id="P1">
+                    <bold>Aims and method</bold> To assess the factors that affect the clinical use of advanced care planning and palliative care interventions in patients with dementia. A literature search of Medline, Embase and PsycINFO was performed to identify themes in advanced care planning and palliative care in dementia.</p>
+                <p id="P2">
+                    <bold>Results</bold> In total, 64 articles were found, including 12 reviews, and three key areas emerged: barriers to advanced care planning, raising awareness and fostering communication between professionals and patients, and disease-specific interventions.</p>
+                <p id="P3">
+                    <bold>Clinical implications</bold> Most of the studies analysed were carried out in the USA or Continental Europe. This narrative review aims to help guide future primary research, systematic reviews and service development in the UK.</p>
+            </abstract>
+        </article-meta>
+    </front>
+    <body>
+        <p id="P4">Advance care planning is a targeted intervention that promotes autonomy for end-of-life decisions. It is particularly important in dementia where the illness impairs individuals&#x02019; decision-making abilities. Patients with advancing dementia experience significant comorbidities such as malnutrition and dehydration. They may have no advance care plan (ACP) in place and this can pose difficult management questions for their families and attending physicians concerning palliation and end-of-life care.</p>
+        <sec sec-type="methods" id="S1">
+            <title>Method</title>
+            <p id="P5">A search of Medline, Embase and PsycINFO was performed to investigate the current literature on ACP and palliative care in dementia. The following search protocol was used: ([&#x02018;advance care plan*&#x02019;] AND [&#x02018;palliat*&#x02019; OR &#x02018;palliative care&#x02019; OR &#x02018;end of life&#x02019;] AND [&#x02018;dementia&#x02019; OR &#x02018;Alzheimer&#x02019;s&#x02019;]).</p>
+        </sec>
+        <sec sec-type="results" id="S2">
+            <title>Results</title>
+            <p id="P6">The search produced 64 journal articles, including 12 reviews. The titles and abstracts of these articles were reviewed. Those published in English and pertaining explicitly to palliative interventions or advance care planning in dementia were looked at more thoroughly.</p>
+            <p id="P7">The majority of the studies found were conducted in the USA or Continental Europe. This limits the generalisability of study findings to practice in the UK. For example, in the USA artificial nutrition is commonly used, whereas in the UK the National Institute for Health and Care Excellence (NICE) guidelines for dementia<sup>
+                <xref rid="R1" ref-type="bibr">1</xref>
+            </sup> state that artificial nutrition should not commence if there is resistance to eating or difficulties in swallowing, related to progression of the disease. Differences in service configuration between countries also limit the generalisability of these studies, especially when considering the role of different agencies in delivering care. Assertive outreach in general psychiatry clearly demonstrates this. In the USA it is associated with improved outcomes and cost-effectiveness; however, these findings have not been replicated in Europe because of differences in the way services are organised.<sup>
+            <xref rid="R2" ref-type="bibr">2</xref>
+        </sup>
+    </p>
+    <p id="P8">The purpose of this literature review was to identify key themes for future research and development and how they may relate to practice in the UK.</p>
+</sec>
+<sec sec-type="discussion" id="S3">
+    <title>Discussion</title>
+    <p id="P9">Our review of the relevant papers identified the following themes:</p>
+    <p id="P10">
+        <list list-type="bullet">
+            <list-item>
+                <p id="P11">barriers to advanced care planning</p>
+            </list-item>
+            <list-item>
+                <p id="P12">raising awareness and fostering communication between families and health professionals</p>
+            </list-item>
+            <list-item>
+                <p id="P13">management issues specific to patients with dementia.</p>
+            </list-item>
+        </list>
+    </p>
+    <sec id="S4">
+        <title>Barriers to advanced care planning</title>
+        <p id="P14">Patient-centred care involves the assessment of physical illness and its functional impact with consideration of the patient&#x02019;s preferences, needs and values, whereas ACP is a tool that aims to enhance individual autonomy in addressing end-of-life care. This approach becomes challenging when patients lack capacity to make their own decisions. At present, relatively few patients have such care plans in place. The reasons for this are multifactorial and are likely to represent both patient- and health professional-specific barriers.</p>
+        <p id="P15">In a Spanish study, a cohort of patients with mild Alzheimer&#x02019;s disease and &#x02018;proven decision-making capacity&#x02019; were supported by a multidisciplinary team (MDT) to draw up an ACP.<sup>
+            <xref rid="R3" ref-type="bibr">3</xref>
+        </sup> Of the 15 patients recruited only 1 drafted a plan. Psychiatric comorbidities (depression and anosognosia), complex family dynamics and a reluctance to engage with the process were cited as patient factors contributing to poor uptake. This initial study highlights the importance of identifying and managing psychiatric disorders in patients with cognitive impairment. This is especially important as improvement in affective symptoms may also result in some improvement in cognitive function, especially in the early stages of dementia.</p>
+    <p id="P16">Delivering advanced care planning and palliative care in acute general hospitals has also been investigated. An intervention, supporting carers, was delivered when a patient with severe dementia was admitted to hospital.<sup>
+        <xref rid="R4" ref-type="bibr">4</xref>
+    </sup> A designated team discussed the various advanced care planning and palliative care options available and supported the formulation of an ACP. Thirty-three patients were recruited and even though discussions were well received only 7 eventually wrote an ACP. The poor uptake in this study may be related to the reluctance of carers to engage with the process because of the distress associated with the hospital admission of a relative. In addition, there is the possibility that once a patient has been admitted to hospital a carer may feel compelled to continue with management of the acute medical problem. In a cross-sectional survey of patients and their spouses it was found that there was moderate agreement between patients and their spouses when considering end-of-life care.<sup>
+    <xref rid="R5" ref-type="bibr">5</xref>
+</sup> However, if there was discord, spouses were more likely to ask for treatment. Despite this ambivalence, advanced care planning is important. Nursing models that emphasise advanced care planning, communication and comfort are associated with higher levels of satisfaction among family members when they are asked to reflect on their experience of the end-of-life care given to their relative.<sup>
+<xref rid="R6" ref-type="bibr">6</xref>
+</sup>
+</p>
+<p id="P17">In this category, the following areas for service development and medical education were noted:</p>
+<p id="P18">
+<list list-type="bullet">
+<list-item>
+    <p id="P19">identification and management of psychiatric comorbidity</p>
+</list-item>
+<list-item>
+    <p id="P20">identification of appropriate settings for the delivery of ACP interventions</p>
+</list-item>
+<list-item>
+    <p id="P21">exploration of the patients&#x02019; and families&#x02019; ideas, concerns and expectations.</p>
+</list-item>
+</list>
+</p>
+</sec>
+<sec id="S5">
+<title>Raising awareness and fostering communication between families and health professionals</title>
+<p id="P22">In a Dutch post-mortem chart review of 198 patients, advanced care planning and palliative care were discussed with 11% of patients.<sup>
+<xref rid="R7" ref-type="bibr">7</xref>
+</sup> In this study, 62% of patients had palliative care records, 49% of cases were discussed at an MDT meeting and 76% of patients had a physician order limiting life-sustaining treatment. The current paucity of ACP and targeted palliative care interventions in dementia may relate to a poor understanding of the condition and its natural history. Dementia is a progressive and terminal disease. In a multi-site observational study, 94% of physicians thought of dementia as &#x02018;a disease you can die from&#x02019; compared with 43% of families.<sup>
+<xref rid="R8" ref-type="bibr">8</xref>
+</sup> However, in another study,<sup>
+<xref rid="R9" ref-type="bibr">9</xref>
+</sup> 19% of the physicians questioned stated that they did not discuss ACP options with patients with mild to moderate Alzheimer&#x02019;s disease. Of the 81% who did discuss advanced care planning, 47% addressed end-of-life care specifically. In families where dementia was understood as a terminal condition, patient comfort was rated more highly than in those where dementia was not viewed as terminal. This may reflect acceptance of the diagnosis and an understanding of the natural course of the condition, thus giving families the opportunity to prepare both materially and psychologically.</p>
+<p id="P23">The physician plays a key role in ensuring patients receive appropriate palliation and end-of-life care. In a multicentre cross-sectional survey of 594 nursing homes in Belgium, it was found that patients were more likely to receive palliative care if they had input from a general practitioner (a doctor who may initiate palliative care).<sup>
+<xref rid="R10" ref-type="bibr">10</xref>
+</sup>
+</p>
+<p id="P24">However, more often than not, these decisions are taken when patients are very dependent and have lost capacity.<sup>
+<xref rid="R11" ref-type="bibr">11</xref>
+</sup> This may be following admission to an acute hospital. In a small survey of health professionals (<italic>n</italic> = 16), including physicians and specialist nurses, respondents reported feeling most confident in managing pain.<sup>
+<xref rid="R12" ref-type="bibr">12</xref>
+</sup> There was, however, significant variation in the knowledge of opioid dosing, management of constipation and artificial nutrition in patients with advanced dementia. Given that these patients may not be able to articulate their discomfort, which may only manifest as increasing agitation, it is important that clinicians recognise and manage reversible causes of distress. The complexity of the illness and non-specific presentations mean the medical team may feel ill prepared to deal with specific end-of-life issues. This uneasiness is also present among nursing staff and can result in poor communication between staff and patients/carers.<sup>
+<xref rid="R13" ref-type="bibr">13</xref>
+</sup> To tackle this, a role-play-based teaching package was delivered to palliative medicine fellows<sup>
+<xref rid="R14" ref-type="bibr">14</xref>
+</sup> who afterwards felt more able to discuss ACP and identify caregiver burden. This type of teaching is effective but labour intensive. A 2-day residential course, the &#x02018;Dementia Difference Workshop&#x02019;, has been developed in Canada. At a focus group 1 year after the initial training session respondents reported feeling more confident in communicating with patients about ACP and that the course had led to a change in their practice.<sup>
+<xref rid="R15" ref-type="bibr">15</xref>
+</sup> Internet-based e-learning is another alternative.<sup>
+<xref rid="R16" ref-type="bibr">16</xref>
+</sup> However, although online courses are effective at delivering information, they may not directly help improve learners&#x02019; communication skills. Both role-play and internet-based teaching methods are used in UK medical education and provide a key opportunity for raising awareness.</p>
+<p id="P25">Advanced care planning discussions are associated with an increased rate of plan formulation.<sup>
+<xref rid="R17" ref-type="bibr">17</xref>
+</sup> It is important that such discussions are undertaken in a supportive manner/setting to ensure understanding and involvement. Patients&#x02019; educational level also seems to be an important factor, affecting understanding and uptake.<sup>
+<xref rid="R18" ref-type="bibr">18</xref>
+</sup> The use of audiovisual media can help overcome this and make the material more readily accessible. Lack of communication and support are frequently cited as sources of stress for caregivers, especially when patients are admitted to nursing homes.<sup>
+<xref rid="R19" ref-type="bibr">19</xref>
+</sup>
+</p>
+<p id="P26">It is important to clearly and accessibly document the capacity assessment, patients&#x02019; preferences and their proxy (if appropriate). This is important for medico-legal reasons, as patients&#x02019; wishes may also change. A retrospective chart review of 93 US patients<sup>
+<xref rid="R20" ref-type="bibr">20</xref>
+</sup> enrolled in a &#x02018;program of all-inclusive care for the elderly&#x02019; found that patients had on average two (range 0&#x02013;4) documented discussions per year considering end-of-life issues. It was found that, after adjusting for the number of medical comorbidities, including dementia, the longer the patient was enrolled the less aggressive they wanted their medical care to be. At enrolment 34.4% of patients requested full medical treatment while shortly before death this figure was much lower at 6.5%. The enrolment period ranged from 1.0 to 6.4 years with 46% enrolled for more than 3 years. It is, however, unclear whether this change was related to perceived or actual deterioration in health, reduced quality of life or awareness of the natural history of dementia. The recommendations of the Nuffield Dementia Report 2009, which propose a form of proxy decision-making in collaboration with the family, have been suggested as an alternative to legally binding advance decisions which may not be flexible enough to allow for changes in patients&#x02019; preferences.<sup>
+<xref rid="R21" ref-type="bibr">21</xref>
+</sup>
+</p>
+<p id="P27">Key areas for service development and medical education in this category were:</p>
+<p id="P28">
+<list list-type="bullet">
+<list-item>
+<p id="P29">educational interventions for doctors and other health professionals to raise awareness of ACP and palliative care in dementia</p>
+</list-item>
+<list-item>
+<p id="P30">improving access to advance care planning and palliative care information for patients</p>
+</list-item>
+<list-item>
+<p id="P31">standardising documentation and ensuring services are dynamic to follow changes in patients&#x02019; wishes.</p>
+</list-item>
+</list>
+</p>
+</sec>
+<sec id="S6">
+<title>Management issues specific to patients with dementia</title>
+<p id="P32">The timing and triggers for palliative intervention remain unclear. It may be instigated in a number of settings including nursing homes, hospices or acute hospitals. In a sample of 198 patients, identified in a post-mortem study, 54% had dementia and 95% experienced one or more &#x02018;sentinel events&#x02019; before the initiation of palliative care.<sup>
+<xref rid="R7" ref-type="bibr">7</xref>
+</sup> These included febrile illness, pain or behavioural disturbance.</p>
+<p id="P33">In the UK, the majority of patients with dementia are admitted to hospital. Lack of clinical improvement or worsening clinical biochemistry are common indications for palliation. This may include discussions with families about &#x02018;do not resuscitate&#x02019; (DNR) orders, the cessation of active treatment and initiation of symptom control. End-of-life care is initiated by senior physicians. In addition, junior doctors need to be supported in managing acute behavioural disturbance and general deterioration. There is scope to develop a targeted management framework that takes into account the benefits and side-effects of treatment.<sup>
+<xref rid="R22" ref-type="bibr">22</xref>
+</sup>
+</p>
+<p id="P34">The acute hospital plays a key role in the palliative care delivered to patients. Hospital admissions are related to an excess of sentinel events in the community. The capacity of hospices and nursing homes to instigate supportive or palliative measures is currently limited. In the USA, a retrospective cohort study<sup>
+<xref rid="R23" ref-type="bibr">23</xref>
+</sup> of 240 patients investigating &#x02018;do not hospitalise orders&#x02019; (DNHOs) discovered that 83.8% of patients had a DNHO in place and 24.6% of patients had a hospital transfer in the 6 months preceding death. Factors found to be independently associated with DNHO were: aged older than 92 years, nursing home stay of more than 2 years, eating problems and the surrogate decision maker not being the patient&#x02019;s child. A qualitative study in the north-east of England, using semi-structured interviews and including representatives from community, hospital and ambulance services,<sup>
+<xref rid="R24" ref-type="bibr">24</xref>
+</sup> found uncertainty among staff about whether current services could meet patients&#x02019; wishes. The main concerns highlighted included: responsibilities of different groups, aspects of ACP that are legally binding and inconsistencies between the forms used by different agencies. Clarification of roles, standardisation of documentation and shared care between primary and secondary care are organisational and legal issues that need to be addressed to facilitate continuity of care.</p>
+<p id="P35">Intervention offered by special care units is a relatively under-researched area. A post-mortem review of the care of 422 nursing home residents (263 had dementia) by semi-structured interviews with care staff and 293 family caregivers found that patients with dementia had less shortness of breath, but required more physical restraint or sedative medication for behavioural disturbance.<sup>
+<xref rid="R25" ref-type="bibr">25</xref>
+</sup> Patients in residential care had more skin ulcers, poorer hygiene, less use of restraint and higher use of emergency medical services. This study was performed in the USA and no difference was found between patients with or without dementia in terms of pain, ACP, life-prolonging interventions or hospice use.</p>
+<p id="P36">A further longitudinal study of 323 patients in 22 nursing homes in Boston, USA was performed.<sup>
+<xref rid="R26" ref-type="bibr">26</xref>
+</sup> It revealed that 43.7% of patients were cared for in a special care unit where they were more likely to receive treatment for dyspnoea, had fewer hospitalisations and were less likely to be fed via a nasogastric tube. Special care units are nursing homes where the structural design, training and activity programmes provide a supportive social environment for patients with dementia. Patients in standard nursing homes were more likely to receive analgesia, had fewer pressure ulcers, and antipsychotics were less frequently used. Staff in special care units reported higher levels of satisfaction.<sup>
+<xref rid="R27" ref-type="bibr">27</xref>
+</sup> Staff in special care units may have more experience in managing patients&#x02019; personal care needs and behaviours, whereas those in nursing homes may have more experience in assessing and managing pain and pressure sores. A probable confounder in this study is the possibility that patients with more behavioural disturbance and higher care needs are more likely to be cared for in special units. The primary care physician may be in the best position to recognise when referral to a hospice or specialist unit is required.<sup>
+<xref rid="R28" ref-type="bibr">28</xref>
+</sup>
+</p>
+<p id="P37">Key areas for service development and medical education in this category are:</p>
+<p id="P38">
+<list list-type="bullet">
+<list-item>
+<p id="P39">integration of dementia and pre-existing palliative care services</p>
+</list-item>
+<list-item>
+<p id="P40">integration of dementia and general medical services</p>
+</list-item>
+<list-item>
+<p id="P41">identification and management of causes of behavioural disturbance in dementia</p>
+</list-item>
+<list-item>
+<p id="P42">facilitating transfer of information and patient records between primary and secondary care</p>
+</list-item>
+<list-item>
+<p id="P43">legal issues surrounding the use of ACPs.</p>
+</list-item>
+</list>
+</p>
+</sec>
+<sec id="S7">
+<title>Advanced care planning and palliative care in UK dementia services</title>
+<p id="P44">The 2008 <italic>End of Life Care Strategy</italic> published by the UK Department of Health was the first comprehensive strategy for dying people.<sup>
+<xref rid="R29" ref-type="bibr">29</xref>
+</sup> There have subsequently been a number of initiatives to improve advanced care planning and end-of-life care for patients with dementia, cancer and other chronic conditions.</p>
+<p id="P45">The National Council for Palliative Care (<uri xlink:type="simple" xlink:href="www.ncpc.org.uk">www.ncpc.org.uk</uri>) has a section charged specifically with improving the provision of end-of-life care in dementia. In particular they are working on strengthening ties with pre-existing dementia services and palliative care services to ensure access and coordination between services. In some areas they are working closely with Admiral Nurses (<uri xlink:type="simple" xlink:href="www.dementiauk.org/what-we-do/admiral-nurses">www.dementiauk.org/what-we-do/admiral-nurses</uri>), specialist mental health nurses with additional training in dementia care. Given the unpredictability of the illness and questions over the timing and triggers for palliative intervention, integration of these two services will be invaluable in ensuring ACPs are drawn up and that appropriate end-of-life care is available when patients require it.</p>
+<p id="P46">In 2012, the prime minister announced that dementia is now a national priority.<sup>
+<xref rid="R30" ref-type="bibr">30</xref>
+</sup> A Challenge on Dementia scheme was set up to raise awareness and improve services. One of its key aims is advanced care planning. The scheme highlights the following as examples of good practice that should be replicated across the country: a community-based approach using dementia-friendly environmental design and non-invasive assistive technology to help people remain in the community, and a psychiatry and general practice intervention to facilitate end-of-life care in the community. At a time of financial constraint and increasing demand for already stretched accident and emergency services, these interventions have been welcomed as means of reducing costs.</p>
+<p id="P47">The experience of dementia special care units can offer insights that may be transferable to general hospital or nursing home settings. Patients in special care units experience greater comfort, treatment for dyspnoea and are less likely to be fed by a nasogastric tube. Having &#x02018;dementia wards&#x02019; in general hospitals staffed by physicians, psychiatrists and specially trained nursing staff will help ensure patients receive appropriate medical care and pastoral support. In the community, ensuring nurses have generic medical skills, such as setting up subcutaneous fluids, will reduce the requirement for hospital admissions and will increase the nurses&#x02019; experience and confidence in delivering complex palliative interventions.</p>
+</sec>
+<sec id="S8">
+<title>Limitations</title>
+<p id="P48">The heterogeneity of study methodology, setting, reported outcome measures and small sample sizes reduce the generalisability of our findings. For example, end-of-life care discussions in out-patient and in-patient settings have different confounders, which will affect responses and outcomes. The majority of the studies are also retrospective or use post-mortem data that are open to recall bias and/or have incomplete/inconsistent data collection. More studies need to be undertaken in the UK, with larger sample sizes and standardised methods of reporting outcomes, to ensure applicability in the UK and comparison between studies.</p>
+<p id="P49">This review has focused on the organisational factors associated with advanced care planning and palliative care in dementia. However, the disconnect between the willingness of carers and health professionals to discuss these issues,<sup>
+<xref rid="R31" ref-type="bibr">31</xref>
+</sup> and the low levels of uptake and engagement reported in the studies reviewed, call for more exploration. This would require a wider review incorporating psychosocial literature exploring personal, cultural and other influences that shape people&#x02019;s expectations towards death and end-of-life care. The role played by a lack of information, misperceptions about the course of the illness and the setting in which advanced care planning interventions are delivered have been cited in the studies reviewed as possible contributing factors.</p>
+</sec>
+</sec>
+</body>
+<back>
+<fn-group>
+<fn fn-type="conflict">
+<p>
+<bold>Declaration of interest</bold> None.</p>
+</fn>
+</fn-group>
+<ref-list>
+<title>References</title>
+<ref id="R1">
+<label>1</label>
+<mixed-citation publication-type="book">
+<collab>National Institute for Health and Clinical Excellence</collab>.<source>Dementia: Supporting People with Dementia and Their Carers in Health and Social Care (CG42)</source>.<publisher-name>NICE</publisher-name>,<year>2006</year>.
+</mixed-citation>
+</ref>
+<ref id="R2">
+<label>2</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Rosen</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Killaspy</surname>
+<given-names>H</given-names>
+</name>
+<name>
+<surname>Harvey</surname>
+<given-names>C</given-names>
+</name>
+</person-group>
+<article-title>Specialisation and marginalisation: how the assertive community treatment debate affects individuals with complex mental health needs</article-title>.<source>Psychiatrist</source>
+<year>2013</year>;<volume>37</volume>:<fpage>345</fpage>&#x02013;<lpage>8</lpage>.
+</mixed-citation>
+</ref>
+<ref id="R3">
+<label>3</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Gama</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Flores</surname>
+<given-names>F</given-names>
+</name>
+<name>
+<surname>Vilchez</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Pozon</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Sola</surname>
+<given-names>J</given-names>
+</name>
+</person-group>
+<article-title>Advance care planing in Alzheimer disease. A multidisciplinary strategy</article-title>.<source>Eur Geriatr Med</source>
+<year>2013</year>;<volume>4</volume> (<issue>Suppl</issue>):<fpage>S37</fpage>.
+</mixed-citation>
+</ref>
+<ref id="R4">
+<label>4</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Sampson</surname>
+<given-names>EL</given-names>
+</name>
+<name>
+<surname>Jones</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Thun-Boyle</surname>
+<given-names>IC</given-names>
+</name>
+<name>
+<surname>Kukkastenvehmas</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>King</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Leurent</surname>
+<given-names>B</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>Palliative assessment and advance care planning in severe dementia: an exploratory randomized controlled trial of a complex intervention</article-title>.<source>Palliat Med</source>
+<year>2011</year>;<volume>25</volume>:<fpage>197</fpage>&#x02013;<lpage>209</lpage>.
+<pub-id pub-id-type="pmid">21228087</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R5">
+<label>5</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Ayalon</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Bachner</surname>
+<given-names>YG</given-names>
+</name>
+<name>
+<surname>Dwolatzky</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Heinik</surname>
+<given-names>J</given-names>
+</name>
+</person-group>
+<article-title>Preferences for end-of-life treatment: concordance between older adults with dementia or mild cognitive impairment and their spouses</article-title>.<source>Int Psychogeriatrics</source>
+<year>2012</year>;<volume>24</volume>:<fpage>1798</fpage>&#x02013;<lpage>804</lpage>.
+</mixed-citation>
+</ref>
+<ref id="R6">
+<label>6</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Liu</surname>
+<given-names>LM</given-names>
+</name>
+<name>
+<surname>Guarino</surname>
+<given-names>AJ</given-names>
+</name>
+<name>
+<surname>Lopez</surname>
+<given-names>RP</given-names>
+</name>
+</person-group>
+<article-title>Family satisfaction with care provided by nurse practitioners to nursing home residents with dementia at the end of life</article-title>.<source>Clin Nurs Res</source>
+<year>2012</year>;<volume>21</volume>:<fpage>350</fpage>&#x02013;<lpage>67</lpage>.
+<pub-id pub-id-type="pmid">22203088</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R7">
+<label>7</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Van den Block</surname>
+<given-names>LB</given-names>
+</name>
+<name>
+<surname>Vandervoort</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Deliens</surname>
+<given-names>L</given-names>
+</name>
+</person-group>
+<article-title>Nursing home residents dying with dementia in Flanders, Belgium: A nationwide post-mortem study on quality of end-of-life care and quality of dying</article-title>.<source>J Am Med Dir Assoc</source>
+<year>2013</year>;<volume>14</volume>:<fpage>485</fpage>&#x02013;<lpage>92</lpage>.
+<pub-id pub-id-type="pmid">23523319</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R8">
+<label>8</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Van der Steen</surname>
+<given-names>JTS</given-names>
+</name>
+</person-group>
+<article-title>Dying with dementia: what we know after more than a decade of research</article-title>.<source>J Alzh Dis</source>
+<year>2010</year>;<volume>22</volume>:<fpage>37</fpage>&#x02013;<lpage>55</lpage>.
+</mixed-citation>
+</ref>
+<ref id="R9">
+<label>9</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Cavalieri</surname>
+<given-names>TA</given-names>
+</name>
+<name>
+<surname>Latif</surname>
+<given-names>W</given-names>
+</name>
+<name>
+<surname>Ciesielski</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Ciervo</surname>
+<given-names>CA</given-names>
+<suffix>Jr</suffix>
+</name>
+<name>
+<surname>Forman</surname>
+<given-names>LJ</given-names>
+</name>
+</person-group>
+<article-title>How physician approach advance care planning in patients with mild to moderate Alzheimer&#x02019;s disease</article-title>.<source>J Am Osteopath Assoc</source>
+<year>2002</year>;<volume>102</volume>:<fpage>541</fpage>&#x02013;<lpage>4</lpage>.
+<pub-id pub-id-type="pmid">12401040</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R10">
+<label>10</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Vandervoort</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Van</surname>
+<given-names>LB</given-names>
+</name>
+<name>
+<surname>Van</surname>
+<given-names>JTS</given-names>
+</name>
+<name>
+<surname>Vander</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Bilsen</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Deliens</surname>
+<given-names>L</given-names>
+</name>
+</person-group>
+<article-title>Advance directives and physicians&#x02019; orders in nursing home residents with dementia in Flanders, Belgium: prevalence and associated outcomes</article-title>.<source>Int Psychogeriatr</source>
+<year>2012</year>;<volume>24</volume>:<fpage>1133</fpage>&#x02013;<lpage>43</lpage>.
+<pub-id pub-id-type="pmid">22364648</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R11">
+<label>11</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>De Gendt</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Bilsen</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Stichele</surname>
+<given-names>RV</given-names>
+</name>
+<name>
+<surname>Deliens</surname>
+<given-names>L</given-names>
+</name>
+</person-group>
+<article-title>Advance care planning and dying in nursing homes in Flanders, Belgium: a nationwide survey</article-title>.<source>J Pain Symptom Manag</source>
+<year>2013</year>;<volume>45</volume>:<fpage>223</fpage>&#x02013;<lpage>34</lpage>.
+</mixed-citation>
+</ref>
+<ref id="R12">
+<label>12</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Caprio</surname>
+<given-names>TV</given-names>
+</name>
+<name>
+<surname>Olden</surname>
+<given-names>AM</given-names>
+</name>
+<name>
+<surname>McKee</surname>
+<given-names>MM</given-names>
+</name>
+</person-group>
+<article-title>Nursing home provider survey on end-of-life care: An educational needs assessment</article-title>.<source>J Am Geriatr Soc</source>
+<year>2011</year>;<volume>59</volume>:<fpage>S181</fpage>&#x02013;<lpage>2</lpage>.
+</mixed-citation>
+</ref>
+<ref id="R13">
+<label>13</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Livingston</surname>
+<given-names>G</given-names>
+</name>
+<name>
+<surname>Pitfield</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Morris</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Manela</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Lewis-Holmes</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>Jacobs</surname>
+<given-names>H</given-names>
+</name>
+</person-group>
+<article-title>Care at the end of life for people with dementia living in a care home: a qualitative study of staff experience and attitudes</article-title>.<source>Int J Geriatr Psychiatry</source>
+<year>2012</year>;<volume>27</volume>:<fpage>643</fpage>&#x02013;<lpage>50</lpage>.
+<pub-id pub-id-type="pmid">21858871</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R14">
+<label>14</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Herrington</surname>
+<given-names>H</given-names>
+</name>
+</person-group>
+<article-title>Teaching palliative care for dementia patients to palliative care fellows using role play, news media and the literature</article-title>.<source>J Am Geriatr Soc</source>
+<year>2011</year>;<volume>59</volume> (<issue>Suppl 1</issue>):<fpage>22</fpage>.
+</mixed-citation>
+</ref>
+<ref id="R15">
+<label>15</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Robinson</surname>
+<given-names>JG</given-names>
+</name>
+<name>
+<surname>Sudbury</surname>
+<given-names>F</given-names>
+</name>
+</person-group>
+<article-title>The dementia difference: Practice changes after a workshop for staff on caring for people dying with Alzheimer&#x02019;s disease</article-title>.<source>Alzh Dement</source>
+<year>2009</year>;<volume>5</volume> (<issue>Suppl 1</issue>):<fpage>141</fpage>.
+</mixed-citation>
+</ref>
+<ref id="R16">
+<label>16</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Baranowski</surname>
+<given-names>RA</given-names>
+</name>
+</person-group>
+<source>A New ABIM PIM Focusing on Palliative Care</source>.<publisher-name>Center to Advance Palliative Care</publisher-name>
+<comment>(<uri xlink:type="simple" xlink:href="http://www.capc.org/capc-resources/capc-poster-sessions/capc-miami-2012/abstracts/02">http://www.capc.org/capc-resources/capc-poster-sessions/capc-miami-2012/abstracts/02</uri>)
+</comment>.
+</mixed-citation>
+</ref>
+<ref id="R17">
+<label>17</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Awan</surname>
+<given-names>K</given-names>
+</name>
+<name>
+<surname>Clark</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>Leon</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Kwak</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Livote</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>Lindenberger</surname>
+<given-names>E</given-names>
+</name>
+</person-group>
+<article-title>An advance care planning initiative to improve documentation of health care preferences among patients with and without dementia</article-title>.<source>J Am Geriatr Soc</source>
+<year>2010</year>;<volume>58</volume>:<fpage>S150</fpage>.
+</mixed-citation>
+</ref>
+<ref id="R18">
+<label>18</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Volandes</surname>
+<given-names>AE</given-names>
+</name>
+<name>
+<surname>Ariza</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Abbo</surname>
+<given-names>ED</given-names>
+</name>
+<name>
+<surname>Paasche-Orlow</surname>
+<given-names>M</given-names>
+</name>
+</person-group>
+<article-title>Overcoming educational barriers for advance care planning in Latinos with video images</article-title>.<source>J Palliat Med</source>
+<year>2008</year>;<volume>11</volume>:<fpage>700</fpage>&#x02013;<lpage>6</lpage>.
+<pub-id pub-id-type="pmid">18588401</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R19">
+<label>19</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Givens</surname>
+<given-names>JL</given-names>
+</name>
+<name>
+<surname>Lopez</surname>
+<given-names>RP</given-names>
+</name>
+<name>
+<surname>Mazor</surname>
+<given-names>KM</given-names>
+</name>
+<name>
+<surname>Mitchell</surname>
+<given-names>SL</given-names>
+</name>
+</person-group>
+<article-title>Sources of stress for family members of nursing home residents with advanced dementia</article-title>.<source>Alzh Dis Assoc Disord</source>
+<year>2012</year>;<volume>26</volume>:<fpage>254</fpage>&#x02013;<lpage>9</lpage>.
+</mixed-citation>
+</ref>
+<ref id="R20">
+<label>20</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Pak</surname>
+<given-names>ES</given-names>
+</name>
+<name>
+<surname>Yu</surname>
+<given-names>Q</given-names>
+</name>
+<name>
+<surname>McNabney</surname>
+<given-names>M</given-names>
+</name>
+</person-group>
+<article-title>Longer enrollment at one PACE site is associated with the decision for less aggressive code status</article-title>.<source>J Am Geriatr Soc</source>
+<year>2010</year>;<volume>58</volume>:<fpage>S117</fpage>.
+</mixed-citation>
+</ref>
+<ref id="R21">
+<label>21</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>McGee</surname>
+<given-names>A</given-names>
+</name>
+</person-group>
+<article-title>Advance care planning for dementia patients</article-title>.<source>BMJ Support Palliat Care</source>
+<year>2013</year>;<volume>3</volume>:<fpage>237</fpage>&#x02013;<lpage>8</lpage>.
+</mixed-citation>
+</ref>
+<ref id="R22">
+<label>22</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Passmore</surname>
+<given-names>MJ</given-names>
+</name>
+</person-group>
+<article-title>Neuropsychiatric symptoms of dementia: consent, quality of life, and dignity</article-title>.<source>BioMed Res Int</source>
+<year>2013</year>;<comment>doi: 10.1155/2013/230134</comment>.
+</mixed-citation>
+</ref>
+<ref id="R23">
+<label>23</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Lamberg</surname>
+<given-names>JL</given-names>
+</name>
+<name>
+<surname>Person</surname>
+<given-names>CJ</given-names>
+</name>
+<name>
+<surname>Kiely</surname>
+<given-names>DK</given-names>
+</name>
+<name>
+<surname>Mitchell</surname>
+<given-names>SL</given-names>
+</name>
+</person-group>
+<article-title>Decisions to hospitalize nursing home residents dying with advanced dementia</article-title>.<source>J Am Geriatr Soc</source>
+<year>2005</year>,<volume>53</volume>:<fpage>1396</fpage>&#x02013;<lpage>401</lpage>.
+<pub-id pub-id-type="pmid">16078968</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R24">
+<label>24</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Robinson</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Dickinson</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Bamford</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Clark</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Hughes</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Exley</surname>
+<given-names>C</given-names>
+</name>
+</person-group>
+<article-title>A qualitative study: Professionals&#x02019; experiences of advance care planning in dementia and palliative care, &#x02018;a good idea in theory but&#x02019;</article-title>.<source>Palliat Med</source>
+<year>2013</year>;<volume>27</volume>:<fpage>401</fpage>&#x02013;<lpage>8</lpage>.
+<pub-id pub-id-type="pmid">23175508</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R25">
+<label>25</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Sloane</surname>
+<given-names>PD</given-names>
+</name>
+<name>
+<surname>Zimmerman</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Williams</surname>
+<given-names>CS</given-names>
+</name>
+<name>
+<surname>Hanson</surname>
+<given-names>LC</given-names>
+</name>
+</person-group>
+<article-title>Dying with dementia in long term care</article-title>.<source>Gerontologist</source>
+<year>2008</year>;<volume>48</volume>:<fpage>741</fpage>&#x02013;<lpage>51</lpage>.
+<pub-id pub-id-type="pmid">19139248</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R26">
+<label>26</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Cadigan</surname>
+<given-names>RO</given-names>
+</name>
+<name>
+<surname>Grabowski</surname>
+<given-names>DC</given-names>
+</name>
+<name>
+<surname>Givens</surname>
+<given-names>JL</given-names>
+</name>
+<name>
+<surname>Mitchell</surname>
+<given-names>SL</given-names>
+</name>
+</person-group>
+<article-title>The quality of advanced dementia care in the nursing home: the role of special care units</article-title>.<source>Med Care</source>
+<year>2012</year>;<volume>50</volume>:<fpage>856</fpage>&#x02013;<lpage>62</lpage>.
+<pub-id pub-id-type="pmid">22982735</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R27">
+<label>27</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Engel</surname>
+<given-names>SE</given-names>
+</name>
+<name>
+<surname>Kiely</surname>
+<given-names>DK</given-names>
+</name>
+<name>
+<surname>Mitchell</surname>
+<given-names>SL</given-names>
+</name>
+</person-group>
+<article-title>Satisfaction with end-of-life care for nursing home residents with advanced dementia</article-title>.<source>J Am Geriatr Soc</source>
+<year>2006</year>;<volume>54</volume>:<fpage>1567</fpage>&#x02013;<lpage>72</lpage>.
+<pub-id pub-id-type="pmid">17038076</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R28">
+<label>28</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Smucker</surname>
+<given-names>DR</given-names>
+</name>
+</person-group>
+<article-title>Hospice and the continuum of primary care</article-title>.<source>Clin Fam Pract</source>
+<year>2004</year>;<volume>6</volume>:<fpage>299</fpage>&#x02013;<lpage>323</lpage>.
+</mixed-citation>
+</ref>
+<ref id="R29">
+<label>29</label>
+<mixed-citation publication-type="book">
+<collab>Department of Health</collab>.<source>End of Life Care Strategy: Promoting High Quality Care for Adults at the End of Their Life</source>.<publisher-name>Department of Health</publisher-name>,<year>2008</year>.
+</mixed-citation>
+</ref>
+<ref id="R30">
+<label>30</label>
+<mixed-citation publication-type="book">
+<collab>National Council for Palliative Care</collab>.<source>The Prime Minister&#x02019;s Challenge on Dementia &#x02013; A report on progress</source>.<publisher-name>NCPC</publisher-name>
 <comment>(<uri xlink:type="simple" xlink:href="http://www.ncpc.org.uk/news/prime-ministers-challenge-dementia-report-progress">http://www.ncpc.org.uk/news/prime-ministers-challenge-dementia-report-progress</uri>). Accessed December 2013</comment>.
-</mixed-citation></ref><ref id="R31"><label>31</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name><surname>Sampson</surname><given-names>EL</given-names></name><name><surname>Thune-Boyle</surname><given-names>I</given-names></name><name><surname>Kukkastenvehmas</surname><given-names>R</given-names></name><name><surname>Jones</surname><given-names>L</given-names></name><name><surname>Tookman</surname><given-names>A</given-names></name><name><surname>King</surname><given-names>M</given-names></name><etal/></person-group>
-<article-title>Palliative care in advanced dementia; A mixed methods approach for the development of a complex intervention</article-title>. <source>BMC Palliat Care</source>
-<year>2008</year>; <volume>7</volume>: <fpage>8</fpage>.
-<pub-id pub-id-type="pmid">18620567</pub-id></mixed-citation></ref></ref-list></back></article>
+</mixed-citation>
+</ref>
+<ref id="R31">
+<label>31</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Sampson</surname>
+<given-names>EL</given-names>
+</name>
+<name>
+<surname>Thune-Boyle</surname>
+<given-names>I</given-names>
+</name>
+<name>
+<surname>Kukkastenvehmas</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Jones</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Tookman</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>King</surname>
+<given-names>M</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>Palliative care in advanced dementia; A mixed methods approach for the development of a complex intervention</article-title>.<source>BMC Palliat Care</source>
+<year>2008</year>;<volume>7</volume>:<fpage>8</fpage>.
+<pub-id pub-id-type="pmid">18620567</pub-id>
+</mixed-citation>
+</ref>
+</ref-list>
+</back>
+</article>

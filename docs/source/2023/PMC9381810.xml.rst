@@ -1,0 +1,958 @@
+================================================================================================================
+Sexual dimorphism in the relationship between *Forkhead-Box P2* and BMI with cognitive deficits in schizophrenia
+================================================================================================================
+
+Mi Yang
+Ying Cui
+Mei Xue
+Mattew T. Forster
+Xiaoe Lang
+Meihong Xiu
+Zezhi Li
+Xiangyang Zhang [1]_ [2]_\*Correspondence: Zezhi Li
+biolpsychiatry@126.com Meihong Xiu xiumeihong97@163.com Xiangyang Zhang
+zhangxy@psych.ac.cn\  [3]_
+:Date: 2022-8-03
+
+:Abstract:
+   *FOXP2*, cognitive deficits, and schizophrenia are associated with
+   neurodegenerative pathophyisiology. Mounting evidence suggests that
+   body mass index (BMI) and *FOXP2* may contribute to cognitive
+   deficits in schizophrenia. However, the sex difference in the
+   contribution of *FOXP2* and BMI, as well as their potential
+   interaction with cognitive deficits in schizophrenia, have not been
+   investigated. A total of 867 schizophrenia patients and 402 controls
+   were recruited. Cognitive function was assessed using the Repeatable
+   Battery for the Assessment of Neuropsychological Status (RBANS). The
+   polymorphism rs10447760 of the *FOXP2* gene was genotyped. Male
+   schizophrenia patients had superior language performance compared to
+   female patients (*F* = 17.83; *p*\ :sub:`Bonferroni` < 0.0001). BMI
+   was positively associated with language scores in male patients with
+   schizophrenia (*ß* = 0.60, *t* = 3.30, *p* = 0.001), as well as in
+   patients with schizophrenia who carried the *FOXP2* rs10447760 CC
+   genotype (*ß* = 0.53, *t* = 3.16, *p* = 0.002). Interestingly, this
+   association was only found in male patients with schizophrenia who
+   also carried the *FOXP2* rs10447760 CC genotype (*ß* = 0.63, *t* =
+   3.44, *p* = 0.001). Our study reveals a sex difference in the
+   language deficits of schizophrenia patients and shows sexual
+   dimorphism in the contribution of *FOXP2*, BMI, and their interaction
+   to cognitive deficits in patients with schizophrenia.
+
+
+.. contents::
+   :depth: 3
+..
+
+pmc
+.. _s1:
+
+Introduction
+============
+
+Cognitive deficits, including in aspects of attention, memory, learning,
+language, and executive function, are an essential feature of
+schizophrenia—being displayed in 98% of patients (Keefe et al., (n.d.a);
+Tripathi et al., (n.d.b)). These cognitive deficits can impinge on
+patient prognosis and quality of life (Harvey et al., (n.d.c)). Previous
+evidence has shown that cognitive deficits in schizophrenia may be an
+innate trait, as they can occur in the initial episode as well as in
+patients with chronic schizophrenia (Gerretsen et al., (n.d.d)).
+Cognitive deficits can also occur in the prodromal stages and throughout
+the illness course, despite the alleviation of symptoms with
+pharmacological therapy (Hughes et al., (n.d.e); Kahn and Keefe,
+(n.d.f)).
+
+Although it is recognized that certain patients are predisposed to
+cognitive deficits, the underlying multi-faceted cause of cognitive
+deficits in schizophrenia remains largely obscure (Toulopoulou et al.,
+(n.d.g)). However, accumulating evidence suggests a genetic contribution
+to cognitive deficits in schizophrenia patients (Harvey et al.,
+(n.d.h)). For instance, cognitive deficits have even been observed in
+the unaffected relatives of schizophrenia patients (Snitz et al.,
+(n.d.i)). Currently, a primary hypothesis is that neurodevelopmental and
+neurodegenerative dysfunction underlies the etiology of both cognitive
+deficits and schizophrenia (Li et al., (n.d.j)). The forkhead-box P2
+(*FOXP2*) gene, located on chromosome 7q31, which contributes to brain
+development and neuronal processes, was first identified as being
+involved in language and speech (Lai et al., (n.d.k)). It is well
+established that disturbances of speech and language processes are
+central components of both schizophrenia and cognitive deficits (Li et
+al., (n.d.l)). Furthermore, *FOXP2* has been associated with
+schizophrenia in genome-wide association studies (Hagenaars et al.,
+(n.d.m)). Our previous studies have reported that one of the *FOXP2*
+polymorphisms, rs10447760 within the 5’ regulatory region, is associated
+with clinical outcomes and cognitive deficits in chronic schizophrenia
+(Rao et al., (n.d.n); Lang et al., (n.d.o)). Additionally, *FOXP2* has
+been associated with obesity in a genome-wide association study
+(Glessner et al., (n.d.p); Clifton et al., (n.d.q)). Collectively, this
+evidence suggests that *FOXP2* contributes to both cognitive deficits
+and obesity in patients with schizophrenia.
+
+In addition, it is now well established that critical, non-genetic
+aspects, such as metabolic syndrome and obesity, also contribute to
+cognitive deficits in schizophrenia patients (Rashid et al., (n.d.r);
+Bora et al., (n.d.s)). Prior studies have also suggested a relationship
+between body mass index (BMI) and cognitive deficits (Smith et al.,
+(n.d.t)). The frequency of higher BMI and obesity are greater in
+schizophrenic patients overall (Li et al., (n.d.u)), and the association
+of BMI with cognitive deficits in schizophrenia has also been
+established (Bora et al., (n.d.s)). However, other studies have reported
+inconsistent findings (Friedman et al., (n.d.v); Takayanagi et al.,
+(n.d.w)).
+
+The above-mentioned inconsistent results may be due to the possible
+confounding interactions of sex, BMI, and genetic background. Increasing
+evidence has indicated that there are sex differences in clinical
+characteristics and outcomes, especially cognitive deficits, among
+schizophrenia patients across (Leger and Neill, (n.d.x)). Sex
+differences in brain structure and function, as well as sexually
+dimorphic steroid hormones, may contribute to the sex-specific effects
+on cognitive deficits in schizophrenic patients (Mendrek and
+Mancini-Marie, (n.d.y)). Previous studies have demonstrated different
+cognitive deficits between male and female patients with schizophrenia
+during their first and/or chronic episodes that were not observed in
+healthy controls (Leger and Neill, (n.d.x); Mendrek and Mancini-Marie,
+(n.d.y)). However, the results are still equivocal. For example, several
+studies did not find an association between sex and cognitive deficits
+in patients with schizophrenia (Mendrek and Mancini-Marie, (n.d.y)).
+
+Although our previous study has shown that *FOXP2* polymorphisms
+(rs10447760) is associated with cognitive deficits in chronic
+schizophrenia (Lang et al., (n.d.o)), it remains unclear whether there
+are sex differences in the degree of contribution of genetic factors to
+cognitive deficits in schizophrenia; whether there are sex differences
+in the influences of BMI on cognitive deficits in schizophrenia; and/or
+whether there are sex differences in the effects of genetic
+contributions and BMI on cognitive deficits in schizophrenia. These
+interesting questions prompt a need for further investigation.
+
+Some previous evidence has demonstrated that sex differences in
+cognitive performance are associated with certain genetic backgrounds
+(Zhang et al., (n.d.z); Jancke, (n.d.aa)). Additionally, recent studies
+have shown that cognitive function and BMI may share a common genetic
+pathway (Davies et al., (n.d.ab); Marioni et al., (n.d.ac)). Prior
+research has also suggested the existence of a shared genetic mutation
+that is associated with both BMI and cognitive performance (Marioni et
+al., (n.d.ac)). Frazier-Wood et al. ((n.d.ad)) found that shared genetic
+factors contributed to cognitive function and BMI in a study of 1,312
+twins. Additionally, Laitala et al. ((n.d.ae)) performed a study with a
+large sample of 2,606 twins which also showed a significant shared
+genetic influence on the correlation between cognitive decline and
+midlife BMI. The above evidence suggests that interactions between sex,
+genetic contribution, and BMI are involved in the pathophysiology of
+cognitive deficits.
+
+Therefore, to the best of our knowledge, this study is the first to
+investigate: (1) whether the *FOXP2* polymorphism rs10447760 affects
+cognition differently as a function of sex; (2) whether BMI was
+associated with cognitive deficits in schizophrenia patients; (3) and
+whether any relationship between BMI and cognitive deficits in
+schizophrenia was further altered by sex.
+
+.. _s2:
+
+Materials and Methods
+=====================
+
+.. _s2-1:
+
+Subjects
+--------
+
+The protocol was approved by the ethics committee of the Beijing
+Huilongguan Hospital (No. BJ-7072035; Date: July 10th, 2016). Each
+subject or guardian signed a written informed consent prior to being
+enrolled in the study. The inclusion criteria have been described in
+previous studies (Lang et al., (n.d.o)), but, briefly, include: (1)
+patients must be between 18 and 75 years old; (2) patients must be of
+Han Chinese descent; (3) patients met diagnostic criteria for
+schizophrenia, as defined by the Diagnostic and Statistical Manual of
+Mental Disorders, Fourth Edition (DSM-IV); (4) patients experienced
+disease courses of at least 5 years; (5) patients had been treated
+mainly with monotherapy of an antipsychotic drug for at least 12 months.
+
+Healthy controls without a family history of psychotic disorders were
+recruited through local advertisements. Individuals were excluded if
+they had any other major Axis I disorders.
+
+Any patients who were pregnant or experiencing severe physical diseases,
+such as cardiovascular disease, cerebrovascular disease, cancer,
+infection, or unstable diabetes, were excluded. Any patient who had
+alcohol or drug abuse/dependence, as determined by laboratory urine
+tests, was excluded.
+
+A total of 867 patients and 402 healthy controls were recruited. The
+demographic information of patients has been described in our previous
+studies. Briefly, there were differences in sex, BMI, and education
+between patients and healthy controls (Lang et al., (n.d.o)).
+
+The antipsychotics that patients received have been described in our
+previous study but included clozapine, risperidone, quetiapine,
+chlorpromazine, sulpiride, aripiprazole, perphenazine, olanzapine,
+haloperidol, and other antipsychotics. The antipsychotic doses were
+calculated by being equivalent to chlorpromazine (Lang et al., (n.d.o)).
+
+.. _s2-2:
+
+Clinical interview assessments
+------------------------------
+
+All participants were interviewed independently by two psychiatrists
+using the Structured Clinical Interview for DSM-IV (SCID-I/P). We also
+used the Positive and Negative Symptoms Scale (PANSS) to assess clinical
+symptoms. Cognitive performance was evaluated using the Chinese version
+of the Assessment of Neuropsychological Status (RBANS, Form A).
+
+.. _s2-3:
+
+DNA isolation and SNP genotyping
+--------------------------------
+
+Peripheral venous blood was sampled, and DNA was extracted using a
+salting-out method followed by preservation at −80\ :sup:`°`\ C (Rao et
+al., (n.d.n)).
+
+The polymorphism rs10447760 of *FOXP2* was genotyped using the methods
+described before (Rao et al., (n.d.n)). 5% of the samples were randomly
+selected for repeated genotyping as a quality control measure.
+
+.. _s2-4:
+
+Statistical analyses
+--------------------
+
+The normality of variable distribution was assessed using the
+Kolmogorov-Smirnov test. Chi-square tests and student’s *t*-tests were
+used, for categorical variables and continuous variables, respectively.
+Hardy–Weinberg equilibrium was detected using a goodness of fit of
+χ\ :sup:`2` test.
+
+To investigate the effects of differing antipsychotics on cognitive
+scores in patients, we conducted a multiple analysis of covariance
+(MANCOVA). We chose this approach to address the overall *p*-value
+because we thought it would reduce type I error, while also adjusting
+for age, BMI, smoking, education, onset age, illness duration,
+hospitalization times, antipsychotic duration, and daily dose. Then, an
+analysis of covariance (ANCOVA) was performed to examine the effects of
+different antipsychotics on the cognitive score, while adjusting for the
+same parameters as in the primary MANCOVA.
+
+To identify the effects of sex on cognitive scores in patients and
+healthy controls, a 2 × 2 MANCOVA (sex × diagnosis) was conducted. All
+of the RBANS subscores were dependent variables, and diagnosis and sex
+were fixed factors. We also adjusted for age, BMI, smoking, and
+education level. Then, an ANCOVA was performed with individual RBANS
+scores as the dependent variable. In this model, sex and diagnosis were
+the fixed factors, and we adjusted for age, BMI, smoking, and education
+in the control group, and for onset age, hospitalization time,
+antipsychotic types (atypical or typical antipsychotics), duration of
+treatment with antipsychotics and antipsychotics dose in the patient
+group. Stepwise multivariate regression analyses were conducted with
+each RBANS score as a dependent variable, where sex was an independent
+variable, and the same confounding covariates were controlled for
+patients.
+
+To identify the effects of the *FOXP2* genotype on the relationship
+between sex and cognitive scores in patients and healthy controls, we
+used 2 × 2 MANCOVAs (genotype × sex) separately in patient and control
+groups. All RBANS scores were set as dependent variables, with the
+genotype and sex as the independent variables, and adjustment for
+confounding covariates. We then used an ANCOVA with each RBANS score as
+a dependent variable, genotype, and sex as independent variables, and
+with separate adjustments for confounding covariates in the patient and
+control groups.
+
+To explore the association between BMI and cognitive scores in the
+patients and controls separately, as well as in the different sex and
+genotypic groupings, we used partial correlations which adjusted for
+demographic and clinical covariates. We also carried out multivariate
+regression analyses, with each cognitive domain as a dependent variable,
+BMI as an independent variable, and controlling for confounding
+variables.
+
+Bonferroni corrections were performed for multiple tests. The power of
+the sample in the present study was calculated using Quanto Software
+under dominant, log additive, and recessive models, and setting the
+prevalence of schizophrenia as 1% in the population. The statistical
+analyses were applied using SPSS version 25.0, and statistical
+significance was identified as a 2-tailed p-value that was less than
+0.05.
+
+.. _s3:
+
+Results
+=======
+
+.. _s3-1:
+
+The effect of different antipsychotics on cognitive performance in patients
+---------------------------------------------------------------------------
+
+The MANCOVA demonstrated that there were no significant effects of
+differing antipsychotics on cognitive function (Wilks’ Lambda, *F* =
+0.94, *p* = 0.61). Furthermore, the ANCOVA demonstrated that differing
+antipsychotics did not have different effects on immediate memory (*F* =
+1.46, *p* = 0.16), visual space/structure (*F* = 0.85, *p* = 0.56),
+language (*F* = 0.51, *p* = 0.89), attention (*F* = 1.03, *p* = 0.42),
+delayed memory (*F* = 1.18, *p* = 0.31), or total RBANS scores (*F* =
+1.13, *p* = 0.34).
+
+.. _s3-2:
+
+Sex difference in cognitive scores of patients and controls
+-----------------------------------------------------------
+
+The 2 × 2 MANCOVA analysis (sex × diagnosis), which adjusted for age,
+BMI, and educational years, showed a main effect of sex on cognitive
+performance (Wilks’ lambda *F* = 8.01; *p* < 0.0001). Then, as shown in
+`Table 1 <#T1>`__, after adjustments for age, BMI, and educational
+years, ANCOVA showed a main effect of sex on language performance (*F* =
+25.13; corrected *p* < 0.0001). There was a significant effect of
+diagnosis × sex on language scores (*F* = 16.71, *p* < 0.001) which also
+survived Bonferroni correction. Further ANCOVA analysis of the patient
+group showed male patients with schizophrenia had better language
+performance than female patients (*F* = 17.83; *p* < 0.0001), after
+adjusting for confounding variables. This result also persisted after
+Bonferroni correction (*p* < 0.0001). Further multivariate regression
+analysis demonstrated that sex was correlated with language performance
+in patients (*ß* = −7.69, *t* = 4.22, *p* < 0.0001); that is, female
+patients performed worse than males did. In the control group, there
+were no significant differences in any of the RBANS subscale scores, or
+the total RBANS scores, between males and females (*p* > 0.05).
+
+.. container:: table-wrap
+   :name: T1
+
+   .. container:: caption
+
+      .. rubric:: 
+
+      Comparisons among the RBANS total and five subscale scores by
+      diagnostic and sex groupings (Mean ± SD).
+
+   +-------+-------+-------+-------+-------+-------+-------+-------+-------+-------+-------+
+   | Pat   | Con   | Diag  | Sex   | Diag  |       |       |       |       |       |       |
+   | ients | trols | nosis |       | nosis |       |       |       |       |       |       |
+   |       |       |       |       | × Sex |       |       |       |       |       |       |
+   +=======+=======+=======+=======+=======+=======+=======+=======+=======+=======+=======+
+   | Imme  | 56.88 | 60.02 | 75.56 | 75.77 | 2     | <     | 3.69  | 0.06  | 0.17  | 0.68  |
+   | diate | ±     | ±     | ±     | ±     | 56.95 | 0.001 |       |       |       |       |
+   | m     | 15.58 | 18.38 | 15.79 | 18.27 |       |       |       |       |       |       |
+   | emory |       |       |       |       |       |       |       |       |       |       |
+   +-------+-------+-------+-------+-------+-------+-------+-------+-------+-------+-------+
+   | Atte  | 64.19 | 64.21 | 89.28 | 86.24 | 4     | <     | 1.78  | 0.18  | 0.36  | 0.55  |
+   | ntion | ±     | ±     | ±     | ±     | 20.86 | 0.001 |       |       |       |       |
+   |       | 17.87 | 20.45 | 18.34 | 21.52 |       |       |       |       |       |       |
+   +-------+-------+-------+-------+-------+-------+-------+-------+-------+-------+-------+
+   | Lan   | 76.11 | 69.25 | 95.07 | 93.12 | 4     | <     | 25.13 | <     | 16.71 | <     |
+   | guage | ±     | ±     | ±     | ±     | 44.23 | 0.001 |       | 0.001 |       | 0.001 |
+   |       | 17.31 | 19.96 | 11.41 | 14.04 |       |       |       | \ :su |       | \ :su |
+   |       | \ :su | \ :su |       |       |       |       |       | p:`b` |       | p:`a` |
+   |       | p:`a` | p:`a` |       |       |       |       |       |       |       |       |
+   +-------+-------+-------+-------+-------+-------+-------+-------+-------+-------+-------+
+   | Visuo | 76.56 | 76.86 | 81.26 | 78.55 | 13.19 | <     | 1.93  | 0.17  | 0.04  | 0.85  |
+   | spati | ±     | ±     | ±     | ±     |       | 0.001 |       |       |       |       |
+   | al/co | 18.23 | 17.95 | 15.61 | 15.52 |       |       |       |       |       |       |
+   | nstru |       |       |       |       |       |       |       |       |       |       |
+   | ction |       |       |       |       |       |       |       |       |       |       |
+   +-------+-------+-------+-------+-------+-------+-------+-------+-------+-------+-------+
+   | De    | 63.48 | 66.72 | 86.72 | 85.94 | 3     | <     | 0.24  | 0.62  | 0.04  | 0.85  |
+   | layed | ±     | ±     | ±     | ±     | 23.84 | 0.001 |       |       |       |       |
+   | m     | 19.09 | 20.91 | 14.24 | 15.91 |       |       |       |       |       |       |
+   | emory |       |       |       |       |       |       |       |       |       |       |
+   +-------+-------+-------+-------+-------+-------+-------+-------+-------+-------+-------+
+   | Total | 60.88 | 61.58 | 80.64 | 79.31 | 43    | <     | 0.48  | 0.49  | 0.92  | 0.34  |
+   | score | ±     | ±     | ±     | ±     | 6.776 | 0.001 |       |       |       |       |
+   |       | 13.79 | 16.66 | 14.90 | 16.12 |       |       |       |       |       |       |
+   +-------+-------+-------+-------+-------+-------+-------+-------+-------+-------+-------+
+
+   *a\ There was a significant effect of diagnosis X Gender on language
+   score after a Bonferroni correction (F = 16.71, p < 0.001). Male
+   patients had higher language performance than female patients.
+   b\ Furthermore, there was a significant effect of gender on language
+   score after a Bonferroni correction (F = 25.13, p < 0.001). The
+   language score was higher in male than in female patients with
+   schizophrenia (F = 17.83; p < 0.0001), while no difference was found
+   in language score between males and females in controls (p > 0.05)*.
+
+.. _s3-3:
+
+Sex differences in the effects of *FOXP2* rs10447760 on cognitive scores in patients and controls
+-------------------------------------------------------------------------------------------------
+
+The 2 × 2 MANCOVA demonstrated no effects of genotype (Wilks’ lambda *F*
+= 1.41; *p* = 0.21), sex (Wilks’ lambda *F* = 1.71; *p* = 0.12), or
+genotype × sex (Wilks’ lambda *F* = 0.56; *p* = 0.77) on cognitive
+performance. ANCOVA analysis showed that there were genotype effects on
+immediate memory scores (*F* = 4.14, *p* = 0.04) and language scores
+(*F* = 4.89, *p* = 0.03; `Table 2 <#T2>`__) in the patient group.
+However, the results did not persist after Bonferroni correction (*p* =
+0.24, *p* = 0.18). No sex differences in the genotypic effects on BMI
+was found.
+
+.. container:: table-wrap
+   :name: T2
+
+   .. container:: caption
+
+      .. rubric:: 
+
+      Comparisons among the RBANS total and five subscale scores by
+      gender and genotypic groupings in patient group (Mean ± SD).
+
+   +-------+-------+-------+-------+-------+-------+-------+-------+-------+-------+------+
+   | Male  | F     | Sex   | Gen   | Sex × |       |       |       |       |       |      |
+   |       | emale |       | otype | Gen   |       |       |       |       |       |      |
+   |       |       |       |       | otype |       |       |       |       |       |      |
+   +=======+=======+=======+=======+=======+=======+=======+=======+=======+=======+======+
+   | Imme  | 57.05 | 52.54 | 60.45 | 44.80 | 0.003 | 0.96  | 4.14  | 0.04  | 0.17  | 0.69 |
+   | diate | ±     | ±     | ±     | ±     |       |       |       | \ :su |       |      |
+   | m     | 15.63 | 14.00 | 18.42 | 8.04  |       |       |       | p:`a` |       |      |
+   | emory |       |       |       |       |       |       |       |       |       |      |
+   +-------+-------+-------+-------+-------+-------+-------+-------+-------+-------+------+
+   | Atte  | 64.32 | 60.96 | 64.29 | 61.40 | 0.07  | 0.80  | 0.09  | 0.76  | 0.03  | 0.86 |
+   | ntion | ±     | ±     | ±     | ±     |       |       |       |       |       |      |
+   |       | 18.00 | 13.83 | 20.58 | 16.42 |       |       |       |       |       |      |
+   +-------+-------+-------+-------+-------+-------+-------+-------+-------+-------+------+
+   | Lan   | 76.19 | 74.19 | 69.50 | 60.20 | 4.89  | 0.03  | 0.86  | 0.36  | 0.19  | 0.67 |
+   | guage | ±     | ±     | ±     | ±     |       | \ :su |       |       |       |      |
+   |       | 17.31 | 17.53 | 19.99 | 18.21 |       | p:`a` |       |       |       |      |
+   +-------+-------+-------+-------+-------+-------+-------+-------+-------+-------+------+
+   | Visuo | 76.58 | 75.92 | 77.02 | 71.20 | 0.06  | 0.81  | 0.003 | 0.96  | 0.18  | 0.67 |
+   | spati | ±     | ±     | ±     | ±     |       |       |       |       |       |      |
+   | al/co | 18.27 | 17.35 | 17.93 | 19.73 |       |       |       |       |       |      |
+   | nstru |       |       |       |       |       |       |       |       |       |      |
+   | ction |       |       |       |       |       |       |       |       |       |      |
+   +-------+-------+-------+-------+-------+-------+-------+-------+-------+-------+------+
+   | De    | 63.50 | 62.88 | 66.95 | 58.60 | 0.02  | 0.88  | 0.09  | 0.77  | <0    | 0.99 |
+   | layed | ±     | ±     | ±     | ±     |       |       |       |       | .0001 |      |
+   | m     | 19.09 | 19.33 | 20.95 | 19.41 |       |       |       |       |       |      |
+   | emory |       |       |       |       |       |       |       |       |       |      |
+   +-------+-------+-------+-------+-------+-------+-------+-------+-------+-------+------+
+   | Total | 60.97 | 58.65 | 61.79 | 54.20 | 0.23  | 0.63  | 0.86  | 0.36  | 0.02  | 0.90 |
+   | score | ±     | ±     | ±     | ±     |       |       |       |       |       |      |
+   |       | 13.90 | 10.76 | 16.77 | 10.92 |       |       |       |       |       |      |
+   +-------+-------+-------+-------+-------+-------+-------+-------+-------+-------+------+
+
+   *a\ The p-value did not survive after a Bonferroni correction*.
+
+In the control group, there were no effects of sex, genotype, or sex ×
+genotype on any of the RBANS scores (all *p* > 0.05).
+
+.. _s3-4:
+
+Sex difference in BMI of patients and healthy controls
+------------------------------------------------------
+
+There were no significant effects of sex or diagnosis × sex effects on
+BMI (*F* = 0.96, *p* = 0.33; *F* = 0.16, *p* = 0.69). Furthermore, there
+were no significant sex differences in BMI in any of the subjects,
+whether they were patients or healthy controls (all *p*\ ’s > 0.05),
+which suggested that sex had no effects on BMI in patients or controls.
+
+.. _s3-5:
+
+Sex difference in the association between BMI and cognitive scores in patients and controls
+-------------------------------------------------------------------------------------------
+
+To further investigate whether BMI was associated with cognitive scores
+in different sexes, we further divided the patients into a male patient
+group and a female patient group. Additional multivariate regression
+analysis demonstrated a positive association of BMI with language
+performance in the male patient group (*ß* = 0.60, *t* = 3.30, *p* =
+0.001), while other cognitive subscale scores and total scores showed no
+significant differences after adjusting for confounding variables and
+performing Bonferroni corrections (all *p*\ ’s > 0.05).
+
+In the healthy control group, BMI was negatively correlated with
+attention performance in the male control group (*r* = −0.26, *p* =
+0.001), including after controlling confounding covariables (partial *r*
+= -0.21, partial *p* = 0.009). However, this did not persist after
+Bonferroni correction. Other cognitive subscale scores and total scores
+showed no significant associations with BMI after adjusting for
+confounding variables (all *p*\ ’s > 0.05).
+
+.. _s3-6:
+
+Sex differences in the association of BMI with cognitive performance: adjusted by *FOXP2* rs10447760
+----------------------------------------------------------------------------------------------------
+
+To further explore the association between BMI and cognitive performance
+in different *FOXP2* rs10447760 genotypes, we divided the patients into
+two genotypic groups: patients carrying CC and patients carrying CT.
+Multivariate regression analysis demonstrated a positive association
+between BMI and language scores in the patient group carrying the CC
+genotype (*ß* = 0.53, *t* = 3.16, *p* = 0.002). Interestingly, this
+positive association was found only in male patients (*ß* = 0.63, *t* =
+3.44, *p* = 0.001), not in female patients (*p* > 0.05).
+
+In the healthy control group, no association was found between BMI and
+any of the five RBANS subscale scores or total scores in either *FOXP2*
+genotypic subgroup, after adjusting for confounding variables and
+performing Bonferroni corrections (all *p*\ ’s > 0.05).
+
+.. _s4:
+
+Discussion
+==========
+
+The main findings of this study were: (1) male schizophrenia patients
+had better language performance than female patients; (2) the *FOXP2*
+rs10447760 genotype did not show an interaction with sex on cognitive
+performance in schizophrenia patients; (3) there was a positive
+correlation between BMI and language performance only in male
+schizophrenia patients; (4) after stratification by *FOXP2* rs10447760
+genotype, there was a positive correlation between BMI and language
+performance only in schizophrenia patients carrying the CC genotype.
+
+Considering differences in hormonal status, psychosocial stress, and
+brain structure and function between male and female patients with
+schizophrenia, previous evidence has documented sex-specific effects on
+cognitive deficits in schizophrenia (Han et al., (n.d.af)). However,
+these results are still controversial. Most prior studies have shown
+that male schizophrenia patients have relatively worse performances on
+various cognitive dimensions (Han et al., (n.d.af); Leger and Neill,
+(n.d.x)), but some studies have shown opposite results (Gogos et al.,
+(n.d.ag); Leger and Neill, (n.d.x)). Additionally, other studies have
+shown that sex has no effect on cognitive changes in schizophrenia
+(Karilampi et al., (n.d.ah); Kao et al., (n.d.ai)). Our results
+demonstrated better language cognitive performance in males compared to
+female patients with chronic schizophrenia. Previously, Lewine et al.
+((n.d.aj)) found greater deficits in verbal and spatial memory in female
+patients with schizophrenia. They also found the worse performance of
+the right hemisphere than that of the left hemisphere, consistent with
+previous evidence showing right-hemispheric brain activation contributes
+to language function (van Ettinger-Veenstra et al., (n.d.ak)).
+
+We have previously reported that *FOXP2* rs10447760 affects immediate
+memory in chronic schizophrenia (Lang et al., (n.d.o)). However, we did
+not find any effects of *FOXP2* rs10447760 on any cognitive scores
+across sexes, indicating that there were no interactive effects of
+*FOXP2* rs10447760 and sex on cognitive scores in schizophrenia. Few
+prior studies have explored the interplay of sex and gene polymorphism
+on cognitive deficits in schizophrenia. One previous study found
+significant sex interactions when assessing the relationship between
+BDNF AL66Met polymorphism, another neurotrophic factor, and cognitive
+performance (Kim et al., (n.d.al)). This evidence suggests that
+different genes, or even different polymorphisms in the same gene, can
+lead to different sex-specific interactions on cognitive functioning.
+
+Higher BMI and obesity are common in schizophrenia patients. However,
+any effects of BMI on cognitive performance within schizophrenia
+patients are unknown (Bora et al., (n.d.s)). Previous findings have
+suggested that the influence of BMI on cognitive deficits in
+schizophrenia is complex (Friedman et al., (n.d.v); Takayanagi et al.,
+(n.d.w); Rashid et al., (n.d.r); Hidese et al., (n.d.am)). Other
+aspects, including sex and genetic background, may be involved in the
+association between BMI and cognitive deficits in schizophrenia patients
+(Rashid et al., (n.d.r)). A previous study by our group also showed that
+NRG3 polymorphism altered the effect of BMI on cognitive deficits of
+patients with schizophrenia (Zhou et al., (n.d.an)). Here, we showed
+that there was a positive association between BMI and language
+performance in schizophrenia patients, even after adjusting for
+demographic and clinical covariables. Interestingly, this positive
+association was found in male patients, but not in female patients. It
+seems likely that BMI affects cognitive deficits as a function of sex in
+schizophrenia. Previously, one study demonstrated that increased BMI
+correlated with worse executive function and attention in male patients
+with heart failure, but not in female patients, which also indicated an
+interacting sex effect on the relationship between BMI and cognitive
+function (Hawkins et al., (n.d.ao)).
+
+FOXP\ *2* plays a critical role in the neuronal processes that
+contribute to language and speech performance (Liegeois et al.,
+(n.d.ap); Vernes et al., (n.d.aq)), and its polymorphisms have been
+reported to be involved in the pathophysiology of cognitive function and
+language phenotypes in schizophrenia (Tolosa et al., (n.d.ar); Mozzi et
+al., (n.d.as)). However, we did not find any associations between the
+*FOXP2* rs10447760 genotype and language scores in our previous study
+(Lang et al., (n.d.o)), and a recent meta-analysis also showed no
+association between *FOXP2* variations and language deficits in
+schizophrenia (McCarthy et al., (n.d.at)). These inconsistent findings
+might be the result of foregoing consideration of other crucial
+demographic or clinical characteristics, including BMI and sex. In this
+study, although we did not observe an interactive effect between sex and
+*FOXP2* rs10447760 on cognitive deficits, we did find that *FOXP2*
+rs10447760 interplayed with BMI to affect cognitive changes in
+schizophrenia patients: There was a positive correlation of BMI with
+language function only in schizophrenia patients with the *FOXP2*
+rs10447760 CC genotype. This suggests that BMI might affect cognitive
+deficits in schizophrenia as a condition of specific *FOXP2* genotypes.
+*FOXP2* has also been associated with obesity in previous studies
+(Glessner et al., (n.d.p); Xia and Grant, (n.d.au); Clifton et al.,
+(n.d.q)). Accumulating evidence indicates there is a shared genetic
+pathway or system for cognitive performance and BMI (Marioni et al.,
+(n.d.ac)). Marioni et al. ((n.d.ac)) demonstrated that individual
+genetic mutations correlating with BMI account for a critical component
+of the variance in cognitive performance, and *vice versa*. They also
+showed that genetic variants leading to higher cognitive performance
+correlated with lower BMI (Marioni et al., (n.d.ac)). In addition, some
+studies have also suggested that genetic factors contribute highly to
+cognitive function and BMI phenotypes. For example, Frazier-Wood et al.
+((n.d.ad)) reported between 20% and 30% shared genetic variance of
+cognitive function and BMI of 20%–30% (Laitala et al., (n.d.ae)).
+Additionally, these shared genetic pathways or systems appear to display
+overlapping gene expression profiles in specific areas of the brain
+(Locke et al., (n.d.av)). Our present results provide further evidence
+of the shared genetic influences underlying BMI and cognitive function.
+
+The present study has some limitations. First, we recruited patients
+with chronic schizophrenia and with different antipsychotic treatment
+regimens. However, several lines of evidence indicate that the style and
+severity of cognitive deficits are fundamentally stable. In addition,
+cognitive deficits were independent of illness duration and remained
+relatively stable without changes over time (Harvey et al., (n.d.aw);
+Bowie and Harvey, (n.d.ax)). Furthermore, the different antipsychotics
+used all converted to chlorpromazine. Second, although we recruited
+relatively larger samples, unequal sample sizes between the patient and
+control groups, as we had here, may cause type II error. Furthermore,
+there were unequal sample sizes between males and females within patient
+or healthy controls, and unequal sample sizes between *FOXP2* CC and
+*FOXP2* CT genotypes within the patient group. Further studies in first
+episode drug naïve schizophrenia patients, and studies with equal sample
+sizes between patients and controls, should be conducted to validate our
+results. With regard to the unequal sample sizes between *FOXP2* C and T
+alleles within subjects, *FOXP2* rs10447760 has the rare variant allele
+T in the Asian population. Thus, a small number of subjects with CT
+genotype may dramatically change the significance of p-value. Last but
+not least, the differences in sex, BMI, and education between patients
+and healthy controls might influence the results, although these factors
+have been adjusted for.
+
+In conclusion, the present study showed sex differences in language
+deficits in schizophrenia patients. Furthermore, sexual dimorphism and
+*FOXP2* rs10447760 may impact the influence of BMI on language-based
+cognitive deficits in schizophrenia patients.
+
+.. _s5:
+
+Data Availability Statement
+===========================
+
+The datasets presented in this study can be found in online
+repositories. The names of the repository/repositories and accession
+number(s) can be found below:
+https://ngdc.cncb.ac.cn/gsub/submit/bioproject/list,subSAM098688.
+
+.. _s6:
+
+Ethics Statement
+================
+
+The studies involving human participants were reviewed and approved and
+the protocol was approved by the ethics committee of the Beijing
+Huilongguan Hospital (No. BJ-7072035). The patients/participants
+provided their written informed consent to participate in this study.
+
+.. _s7:
+
+Authors Contributions
+=====================
+
+ZL, MXi, and XZ designed the study. ZL, MF, MXu, and YC wrote the
+article. MY and XL did the statistical analysis. All authors contributed
+to the article and approved the submitted version.
+
+.. _s8:
+
+Funding
+=======
+
+This research was funded by National Natural Science Foundation of China
+(81401127, 62073058), Chengdu Municipal Health Commission (2021057),
+Open Project Program of State Key Laboratory of Virtual Reality
+Technology and Systems, Beihang University (No. VRLAB2022 B02), and
+Shanghai Key Laboratory of Psychotic Disorders Open Grant (21-K03).
+Funding had no role in study design, data analysis, or the decision to
+submit the article for publication.
+
+We thank all of the patients and healthy volunteers who participated in
+this research. We also thank Dr. Dachun Chen, Song Chen, and Gui Gang
+Yang for all of their hard work and significant contributions to this
+study.
+
+.. _s9:
+
+Conflict of Interest
+====================
+
+The authors declare that the research was conducted in the absence of
+any commercial or financial relationships that could be construed as a
+potential conflict of interest.
+
+.. _s10:
+
+Publisher’s Note
+================
+
+All claims expressed in this article are solely those of the authors and
+do not necessarily represent those of their affiliated organizations, or
+those of the publisher, the editors and the reviewers. Any product that
+may be evaluated in this article, or claim that may be made by its
+manufacturer, is not guaranteed or endorsed by the publisher.
+
+.. container:: references csl-bib-body hanging-indent
+   :name: refs
+
+   .. container:: csl-entry
+      :name: ref-B1
+
+      n.d.s.
+
+   .. container:: csl-entry
+      :name: ref-B2
+
+      n.d.ax.
+
+   .. container:: csl-entry
+      :name: ref-B3
+
+      n.d.q.
+
+   .. container:: csl-entry
+      :name: ref-B4
+
+      n.d.ab.
+
+   .. container:: csl-entry
+      :name: ref-B5
+
+      n.d.ad.
+
+   .. container:: csl-entry
+      :name: ref-B6
+
+      n.d.v.
+
+   .. container:: csl-entry
+      :name: ref-B7
+
+      n.d.d.
+
+   .. container:: csl-entry
+      :name: ref-B8
+
+      n.d.p.
+
+   .. container:: csl-entry
+      :name: ref-B9
+
+      n.d.ag.
+
+   .. container:: csl-entry
+      :name: ref-B11
+
+      n.d.m.
+
+   .. container:: csl-entry
+      :name: ref-B12
+
+      n.d.af.
+
+   .. container:: csl-entry
+      :name: ref-B13
+
+      n.d.h.
+
+   .. container:: csl-entry
+      :name: ref-B14
+
+      n.d.aw.
+
+   .. container:: csl-entry
+      :name: ref-B15
+
+      n.d.c.
+
+   .. container:: csl-entry
+      :name: ref-B16
+
+      n.d.ao.
+
+   .. container:: csl-entry
+      :name: ref-B17
+
+      n.d.am.
+
+   .. container:: csl-entry
+      :name: ref-B18
+
+      n.d.e.
+
+   .. container:: csl-entry
+      :name: ref-B19
+
+      n.d.aa.
+
+   .. container:: csl-entry
+      :name: ref-B20
+
+      n.d.f.
+
+   .. container:: csl-entry
+      :name: ref-B21
+
+      n.d.ai.
+
+   .. container:: csl-entry
+      :name: ref-B22
+
+      n.d.ah.
+
+   .. container:: csl-entry
+      :name: ref-B23
+
+      n.d.a.
+
+   .. container:: csl-entry
+      :name: ref-B24
+
+      n.d.al.
+
+   .. container:: csl-entry
+      :name: ref-B25
+
+      n.d.k.
+
+   .. container:: csl-entry
+      :name: ref-B26
+
+      n.d.ae.
+
+   .. container:: csl-entry
+      :name: ref-B27
+
+      n.d.o.
+
+   .. container:: csl-entry
+      :name: ref-B28
+
+      n.d.x.
+
+   .. container:: csl-entry
+      :name: ref-B29
+
+      n.d.aj.
+
+   .. container:: csl-entry
+      :name: ref-B30
+
+      n.d.u.
+
+   .. container:: csl-entry
+      :name: ref-B31
+
+      n.d.l.
+
+   .. container:: csl-entry
+      :name: ref-B32
+
+      n.d.j.
+
+   .. container:: csl-entry
+      :name: ref-B33
+
+      n.d.ap.
+
+   .. container:: csl-entry
+      :name: ref-B34
+
+      n.d.av.
+
+   .. container:: csl-entry
+      :name: ref-B35
+
+      n.d.ac.
+
+   .. container:: csl-entry
+      :name: ref-B36
+
+      n.d.at.
+
+   .. container:: csl-entry
+      :name: ref-B37
+
+      n.d.y.
+
+   .. container:: csl-entry
+      :name: ref-B38
+
+      n.d.as.
+
+   .. container:: csl-entry
+      :name: ref-B39
+
+      n.d.n.
+
+   .. container:: csl-entry
+      :name: ref-B40
+
+      n.d.r.
+
+   .. container:: csl-entry
+      :name: ref-B41
+
+      n.d.t.
+
+   .. container:: csl-entry
+      :name: ref-B42
+
+      n.d.i.
+
+   .. container:: csl-entry
+      :name: ref-B43
+
+      n.d.w.
+
+   .. container:: csl-entry
+      :name: ref-B44
+
+      n.d.ar.
+
+   .. container:: csl-entry
+      :name: ref-B45
+
+      n.d.g.
+
+   .. container:: csl-entry
+      :name: ref-B46
+
+      n.d.b.
+
+   .. container:: csl-entry
+      :name: ref-B10
+
+      n.d.ak.
+
+   .. container:: csl-entry
+      :name: ref-B47
+
+      n.d.aq.
+
+   .. container:: csl-entry
+      :name: ref-B48
+
+      n.d.au.
+
+   .. container:: csl-entry
+      :name: ref-B49
+
+      n.d.z.
+
+   .. container:: csl-entry
+      :name: ref-B50
+
+      n.d.an.
+
+.. [1]
+   Edited by: Yuzhen Xu, Shandong First Medical University, China
+
+.. [2]
+   Reviewed by: Qin Xu, National Institute of Allergy and Infectious
+   Diseases (NIH), United States; Yu Wang, Tianjin Medical University
+   General Hospital, China
+
+.. [3]
+   **Specialty section**: This article was submitted to Cellular and
+   Molecular Mechanisms of Brain-aging, a section of the journal
+   Frontiers in Aging Neuroscience

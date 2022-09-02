@@ -1,0 +1,671 @@
+==============================================================================================================================================
+One-Year Clinical Outcomes Following Electroconvulsive Therapy for Patients with Schizophrenia: A Nationwide Health Insurance Data-Based Study
+==============================================================================================================================================
+
+Sung Woo Joo
+Harin Kim
+Young Tak Jo
+Soojin Ahn
+Young Jae Choi
+Woohyeok Choi
+Soyeon Park
+Jungsun LeeCorrespondence: Jungsun Lee, Department of Psychiatry, Asan
+Medical Center, University of Ulsan College of Medicine, 88 Olympic-Ro
+43-Gil, Songpa-Gu, Seoul, 05505, Republic of Korea, Tel +82-2-3010-3422,
+Fax +82-2-485-8381, Email js_lee@amc.seoul.kr
+:Date: 2022-8-08
+
+:Abstract:
+   .. rubric:: Background
+      :name: s2001
+
+   Although the use of electroconvulsive therapy (ECT) in the treatment
+   of schizophrenia has decreased since the advent of antipsychotic
+   drugs, ECT is still implemented in several clinical indications.
+   However, a few population-based studies have examined its real-world
+   effectiveness in schizophrenia.
+
+   .. rubric:: Methods
+      :name: s2002
+
+   We used data from 2010 to 2019 from the Health Insurance Review and
+   Assessment Service database in the Republic of Korea. We selected 380
+   schizophrenia patients having more than six ECT sessions and 1140
+   patient controls matched for age, sex, calendar year at entry, and
+   the number of psychiatric hospitalizations before the time point of
+   start of psychiatric hospitalization for ECT. Antipsychotic treatment
+   discontinuation, psychiatric hospitalization, and direct medical
+   costs were used as measures of clinical outcomes. Multiple regression
+   analysis was used for any group-by-time interaction effect, and
+   1-year pre- and post-ECT periods were compared within and between the
+   groups.
+
+   .. rubric:: Results
+      :name: s2003
+
+   We found a significantly lower number of antipsychotic treatment
+   discontinuations in the ECT group during the 1-year post-ECT period
+   (t=2.195, p=0.028). A larger decrease was found in the number of
+   psychiatric hospitalizations in the ECT group, with a group-by-time
+   interaction effect (p=0.043). The direct medical costs in the 1-year
+   pre- (t=−8.782, p<0.001) and post-ECT periods (t=−9.107, p<0.001)
+   were higher in the ECT group than in the control group, with no
+   significant change across both periods.
+
+   .. rubric:: Conclusion
+      :name: s2004
+
+   We found that the ECT group had a larger decrease in the number of
+   psychiatric hospitalizations in the 1-year post-ECT period than the
+   control group.
+
+
+.. contents::
+   :depth: 3
+..
+
+pmc
+.. _s0001:
+
+Introduction
+============
+
+Despite the declining use of electroconvulsive therapy (ECT) after the
+development and acceptance of pharmacological treatment of
+schizophrenia, ECT is still an important treatment option in managing
+patients with schizophrenia along with antipsychotic medications.
+Several studies have reported the additive effectiveness of ECT
+augmentation to antipsychotic treatment in terms of the improvement of
+positive symptoms and amelioration of negative symptoms in
+treatment-resistant schizophrenia.(n.d.a),(n.d.b) The clinical
+indications for ECT in patients with schizophrenia include catatonia,
+suicidal risk, severe agitation/violence, and poor oral intake,(n.d.c)
+which suggests that ECT still plays an indispensable role in the
+treatment of schizophrenia in real-world clinical practice.(n.d.d)
+Despite enormous efforts to reduce the stigma surrounding ECT, its
+utilization rate is still low worldwide,(n.d.e),(n.d.f) including the
+Republic of Korea. According to a previous study, the utilization rate
+of ECT for the treatment of schizophrenia during psychiatric
+hospitalization was estimated to be approximately 0.3% in the Republic
+of Korea, which is notably lower than that in other Asian
+countries.(n.d.g)
+
+Although ECT is not associated with the risk of incidental dementia and
+a detrimental effect on cognitive functions,(n.d.h),(n.d.i) it is
+usually considered the last treatment option.(n.d.j) Clinicians opt to
+initiate ECT when several trials of pharmacotherapy and
+non-pharmacotherapy fail. Therefore, patients indicated for ECT are
+likely to be treatment-refractory or have a severe suicidal or violence
+risk, which could limit the enrollment of patients in randomized
+controlled trials (RCTs), probably owing to a lack of their ability to
+provide informed consent.(n.d.k) Most previous studies regarding the
+effectiveness and safety of ECT in schizophrenia are retrospective
+observational studies with a relatively small number of participants,
+which cannot provide good-quality evidence.(n.d.c) With regard to the
+generalization of results from RCTs, it should be considered that
+participants in RCTs are more likely to be selective and compliant than
+patients in real-world clinical practice. Therefore, it is important to
+evaluate the real-world effectiveness of ECT in schizophrenia with a
+large amount of real-world data.
+
+All South Koreans are obligated to register in a nationwide health
+insurance service, except for those in special circumstances, resulting
+in an insurance coverage rate of 98%. The Health Insurance Review and
+Assessment Service (HIRA) is responsible for reviewing claims generated
+from medical institutions and maintaining a claim database. Information
+on the use of medical services by all South Koreans, such as diagnoses,
+prescriptions of medications, and direct medical costs, is encoded in
+the claim database.(n.d.l) Our research team has conducted several
+studies using this nationwide claim database;(n.d.m),(n.d.n) these
+studies have a notable strength of utilizing a large sample size and
+being able to observe patients without follow-up loss because of
+nationwide coverage and the compulsory nature of the national health
+insurance service. Given the low utilization rate of ECT for the
+treatment of schizophrenia in the Republic of Korea,(n.d.g) the
+availability of data for a large number of patients with schizophrenia
+who had received ECT may be a remarkable strength of the HIRA database.
+
+In this study, we aimed to investigate the real-world effectiveness of
+ECT in patients with schizophrenia using the HIRA database. The number
+of antipsychotic treatment discontinuations and psychiatric
+hospitalizations, as well as direct medical costs, were used as measures
+of the clinical outcomes. Abundant evidence has emphasized the
+importance of the continuation of antipsychotic treatments for the
+prevention of relapses and improvement in social and occupational
+functions of patients.(n.d.o),(n.d.p) Psychiatric hospitalization has
+been considered a marker for relapse in previous studies using claim
+databases.(n.d.q),(n.d.r) Direct medical costs are reflective of the
+economic burden to patients, families, and society and may be associated
+with the severity and clinical course of the disease.(n.d.s),(n.d.t) We
+compared the 1-year pre- and post-ECT periods within and between two
+groups of patients who had received ECT and of matched controls who had
+not received ECT. We examined whether schizophrenia patients who had
+received ECT had better clinical outcomes than the matched controls in
+terms of the number of antipsychotic treatment discontinuations and
+psychiatric hospitalizations, as well as the direct medical costs.
+
+.. _s0002:
+
+Materials and Methods
+=====================
+
+.. _s0002-s2001:
+
+Study Population
+----------------
+
+We utilized data from January 2010 to December 2019 from the HIRA
+database to include patients with schizophrenia who had received ECT.
+Initially, we identified patients with schizophrenia using the following
+criteria: 1) The main diagnostic code for schizophrenia (F20) was
+recorded at least twice for outpatients or once for inpatients during
+the total observation period; 2) the observation period started from the
+first antipsychotic prescription, and the patient’s age at the start of
+the observation period was between 18 and 65 years; and 3) medications
+for dementia, including acetylcholine esterase inhibitors (eg,
+donepezil, rivastigmine, and galantamine) and memantine, were not
+prescribed before and within 1 year after the start of the observation
+period. Among them, we initially included patients who had received at
+least one ECT session during the total observation period. An ECT course
+was defined as at least more than two ECT sessions per week during
+psychiatric hospitalization. We only included the patients who had
+received only one ECT course during the total observation period,
+resulting in the exclusion of patients who had received ECT courses
+several times or received maintenance/continuation ECT during the total
+observation period. The main diagnostic code for psychiatric
+hospitalization during which ECT had been performed was to be F20–29
+(schizophrenia, schizotypal, and delusional disorders), and the number
+of ECT sessions during the psychiatric hospitalization was to be more
+than six. With the abovementioned criteria, we included 380 patients
+with schizophrenia in the ECT group. We selected patient controls
+matched for age at entry, sex, calendar year at entry, and the number of
+psychiatric hospitalizations before the time point of start of
+psychiatric hospitalization for ECT at a ratio of 1:3.
+
+This study was approved by the Institutional Review Board (IRB) of Asan
+Medical Center (IRB No. 2021–0556). The need for informed consent was
+waived owing to the use of anonymous and de-identified data.
+
+.. _s0002-s2002:
+
+Definitions of the Clinical Outcomes
+------------------------------------
+
+Antipsychotic treatment discontinuation was defined as a lapse of more
+than 30 days from the expected date of the next antipsychotic
+prescription. `Supplementary Table
+1 <https://www.dovepress.com/get_supplementary_file.php?f=373222.docx>`__
+shows a list of antipsychotic drugs included in the analyses. When more
+than two antipsychotic drugs were prescribed in the same treatment
+period, we used the highest prescription duration among the drugs. The
+hospitalization episodes were reconstructed by adopting the methods
+described in a previous study.(n.d.u) When the type of hospitalization
+was general medical or psychiatric, and the main diagnostic code for
+hospitalization was F00–99 (mental and behavioral disorders), we labeled
+it as a psychiatric hospitalization. When rehospitalization occurred
+within 30 days after the end of the prior hospitalization, we
+disregarded it when calculating the number of psychiatric
+hospitalizations. Direct medical costs were calculated using information
+indicating the total medical costs for visits (RVD_RPE_TAMT_AMT) in the
+claim database. The total medical costs include inpatient and outpatient
+care costs, as well as pharmacy costs, but not non-covered costs by the
+insurance provider. To extract the costs associated with psychiatric
+illness, we applied the condition that the main diagnostic code for
+visits should be F00-99.
+
+.. _s0002-s2003:
+
+Statistical Analysis
+--------------------
+
+All statistical analyses were performed using the R software, version
+3.5.1 (R Development Core Team, Vienna, Austria). A two-tailed p-value
+of <0.05 was used to determine statistical significance.
+
+Continuous and categorical variables (demographic and clinical
+characteristics of the study population) were presented as means and
+standard deviations (SD) or numbers (%). Group comparisons were
+performed using an unpaired *t*-test or the chi-square test. We examined
+the number of antipsychotic treatment discontinuations and psychiatric
+hospitalizations and the direct medical costs in the 1-year pre- and
+post-ECT periods. Group-by-time interaction effects were evaluated using
+multiple regression analysis. An unpaired *t*-test was used to compare
+the outcome variables between the two groups in the 1-year pre- and
+post-ECT periods. Within each group, a paired *t*-test was used to
+compare the outcome variables in the 1-year pre- and post-ECT periods.
+
+.. _s0003:
+
+Results
+=======
+
+.. _s0003-s2001:
+
+Demographic and Clinical Characteristics of the Study Population
+----------------------------------------------------------------
+
+A total of 380 patients with schizophrenia who had received ECT and 1140
+matched controls were included in the analysis. In the ECT group, the
+mean (SD) age at entry was 33.2 (11.2) years, and 44.5% were men. The
+mean (SD) number of psychiatric hospitalizations from entry to the start
+of psychiatric hospitalization for ECT was 1.9 (1.9). There were no
+significant group differences in age at entry, sex, and the number of
+psychiatric hospitalizations between the ECT and the control groups. The
+patients in the ECT group had received a mean (SD) number of 12.2 (4.2)
+ECT sessions during psychiatric hospitalization. During the 3 months
+before psychiatric hospitalization for ECT, the patients in the ECT
+group had been prescribed a mean (SD) number of 2.6 (1.5)
+antipsychotics, and the proportions of patients with monotherapy and
+polypharmacy were 22.6% and 77.4%, respectively. Further details on the
+demographic and clinical characteristics of the study population are
+presented in `Table 1 <#t0001>`__.Table 1Demographic and Clinical
+Characteristics of the Study PopulationVariableECT Group (n=380)Control
+Group (n=1140)P-valueAge at entry, mean (SD), years33.2 (11.2)33.4
+(11.2)0.76Age group at entry, n (%), years1.00 18–1932 (8.4)96
+(8.4) 20–29136 (35.8)411 (35.8) 30–3995 (25.0)288 (25.0) 40–4980
+(21.1)243 (21.1) 50–5930 (7.9)90 (7.9) 60–657 (1.8)21 (1.8)Male, n
+(%)169 (44.5)507 (44.5)1.00Duration from entry to the time point of
+start of psychiatric hospitalization for ECT, mean (SD), years4.4
+(2.3)4.4 (2.3)1.00Number of psychiatric hospitalizations from entry to
+the time point of start of psychiatric hospitalization for ECT, mean
+(SD)1.9 (1.9)1.8 (1.8)0.36Length of psychiatric hospitalization for ECT,
+mean (SD), days56.2 (26.6)Number of ECT sessions, mean (SD)12.2
+(4.2)Antipsychotic treatment during the 3 months before psychiatric
+hospitalization for ECT Number of prescribed antipsychotics, mean
+(SD)2.6 (1.5) Monotherapy, n (%)86 (22.6) Polypharmacy, n (%)294
+(77.4)  With clozapine125 (32.9) [1]_
+
+.. _s0003-s2002:
+
+Within- and Between-Group Comparisons of the Clinical Outcomes in the 1-Year Pre- and Post-ECT Periods (`Table 2 <#t0002>`__ and `Figure 1 <#f0001>`__)
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+.. _s0003-s2002-s3001:
+
+Within-Group Comparisons
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+The number of antipsychotic treatment discontinuations significantly
+decreased in the 1-year post-ECT period in both groups (ECT group:
+t=−3.628, p<0.001; control group: t=−2.271, p=0.023). The number of
+psychiatric hospitalizations in the 1-year post-ECT period also
+decreased in the ECT (t=−5.302, p<0.001) and control groups (t=−6.952,
+p<0.001). There was no significant change in the direct medical costs in
+the 1-year post-ECT period in both groups.Table 2Group Comparisons of
+the Clinical Outcomes in the 1-Year Pre- and Post-ECT
+PeriodsGroupBetween-Group, t-value (P-value)Within-Group, t-value
+(P-value)Group × Time P-valueECTControlECTControlNumber of antipsychotic
+treatment discontinuations, mean (SD) Before0.31 (0.61)0.29 (0.61)−0.317
+(0.752)−3.628 (<0.001)***−2.271 (0.023)*0.083 After0.17 (0.48)0.25
+(0.60)2.195 (0.028)*Number of psychiatric hospitalizations, mean
+(SD) Before0.84 (0.79)0.45 (0.64)−9.766 (<0.001)***−5.302
+(<0.001)***−6.952 (<0.001)***0.043* After0.58 (0.79)0.30 (0.57)−7.493
+(<0.001)***Direct medical costs, KRW, mean (SD) Before8,850,888
+(7,799,587)5,340,390 (6,360,241)−8.782 (<0.001)***0.475 (0.635)−1.854
+(0.064)0.433 After9,052,569 (8,888,967)5,078,276 (6,785,412)−9.107
+(<0.001)**\* [2]_ [3]_ Figure 1Comparisons of (**A**) the number of
+antipsychotic treatment discontinuations, (**B**) psychiatric
+hospitalizations, and (**C**) the direct medical costs between the ECT
+and control groups in the 1-year pre- and post-ECT periods. The Orange
+and blue bars indicate mean and standard deviations of the values in the
+ECT and control groups, respectively. \* p<0.05, \**\* p<0.001. KRW,
+Korean won.
+
+.. _s0003-s2002-s3002:
+
+Between-Group Comparisons
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+While there was no significant difference in the number of antipsychotic
+treatment discontinuations in the 1-year pre-ECT period, the ECT group
+had a significantly lower number of antipsychotic treatment
+discontinuations than the control group in the 1-year post-ECT period
+(t=2.195, p=0.028). The group-by-time interaction effect for the number
+of antipsychotic treatment discontinuations was not significant
+(p=0.083). The ECT group had a significantly increased number of
+psychiatric hospitalizations in the 1-year pre- (t=−9.766, p<0.001) and
+post-ECT periods (t=−7.493, p<0.001) compared with the control group. A
+significantly larger decrease in the number of psychiatric
+hospitalizations was found in the ECT group than in the control group,
+with a significant group-by-time interaction effect (p=0.043). There was
+a consistent pattern of significantly increased direct medical costs in
+the ECT group compared with that in the control group in the 1-year pre-
+(t=−8.782, p<0.001) and post-ECT periods (t=−9.107, p<0.001).
+
+.. _s0004:
+
+Discussion
+==========
+
+In this study, we used the HIRA database to investigate the real-world
+effectiveness of ECT in patients with schizophrenia. We compared the
+number of antipsychotic treatment discontinuations and psychiatric
+hospitalizations and the direct medical costs in the 1-year pre- and
+post-ECT periods within and between the groups. We found that there was
+a significantly lower number of antipsychotic treatment discontinuations
+in the 1-year post-ECT period in the ECT group than in the control
+group. Although the number of psychiatric hospitalizations in both
+periods was higher in the ECT group than in the control group, there was
+a significantly larger decrease in the number of psychiatric
+hospitalizations across both periods in the ECT group than in the
+control group. No significant difference in the direct medical costs
+between the 1-year pre- and post-ECT periods was found in either group;
+the direct medical costs in the ECT group were consistently higher in
+both periods than those in the control group.
+
+Most practice guidelines for the treatment of schizophrenia recommend
+1–2 years of antipsychotic treatment for first-episode schizophrenia and
+long-term antipsychotic treatment for multiple-episode
+schizophrenia.(n.d.v) The continuation of antipsychotic treatment has
+been considered an essential part of the treatment of schizophrenia to
+prevent relapses and improve the long-term outcomes and functioning of
+patients. Several previous studies have reported the low continuation
+rate of antipsychotic treatment in patients with schizophrenia.(n.d.w) A
+systematic review showed that familial support and the level of insight
+are highly predictive of treatment adherence.(n.d.x) It was reported
+that poor insight exists even at the onset of psychosis among patients
+with schizophrenia.(n.d.y) Several treatment strategies, such as
+long-acting injectable antipsychotic drugs and cognitive behavioral
+therapy for psychosis, have been developed to enhance treatment
+adherence; however, their effectiveness is limited.(n.d.y) In this
+study, the ECT group showed a lower number of antipsychotic treatment
+discontinuations in the 1-year post-ECT period than the control group.
+To the best of our knowledge, there is no existing evidence related to
+this observation. The promising effects of ECT on antipsychotic
+treatment continuation in this study should be validated in future
+studies with a larger sample and longer observation period.
+
+Although we used matched controls in the group comparisons, an increased
+number of psychiatric hospitalizations in the l-year pre-ECT period was
+found in the ECT group compared with the control group. This might be
+related to the severe psychiatric symptoms or treatment resistance among
+the patients in the ECT group, considering that 32.9% of these patients
+had received polypharmacy with clozapine during the 3 months before
+psychiatric hospitalization for ECT. We observed a larger decrease in
+the number of psychiatric hospitalizations in the 1-year post-ECT period
+in the ECT group than in the control group. Given that the severity of
+psychiatric symptoms dictates whether schizophrenia patients should be
+managed in inpatient or outpatient settings, the initiation of
+psychiatric hospitalization suggests that the psychiatric symptoms of
+the patients are severe enough to require intensive care or management.
+Based on that psychiatric hospitalization has been used as a surrogate
+for relapse in previous studies,(n.d.q),(n.d.r) our results may also
+indicate the usefulness of ECT in reducing relapses. In line with the
+current findings, a previous study by Lin et al demonstrated that their
+ECT group had a decreased rate of rehospitalization in the 1-year
+post-ECT period compared with their control group.(n.d.z)
+
+Despite the low incidence of schizophrenia, it is a tremendous economic
+burden for patients, their families, and society across the
+world.(n.d.t) Previous studies have reported that a substantial
+proportion of the total costs is associated with indirect costs, which
+include caregiving, premature mortality, and
+unemployment.(n.d.t),(n.d.aa) Direct medical costs usually include
+expenditure for inpatient care, outpatient care, diagnostic tests, and
+prescription drugs. In our study, there was no significant change in the
+direct medical costs between the 1-year pre- and post-ECT periods in
+both groups. However, the direct medical costs were consistently higher
+in the ECT group than in the control group across both periods. Given
+that a substantial proportion of direct medical costs related to
+schizophrenia is related to inpatient care,(n.d.ab),(n.d.ac) the
+increased direct medical costs in the ECT group might be related to the
+higher number of psychiatric hospitalizations in the 1-year pre- and
+post-ECT periods. In the within-group comparison, the direct medical
+costs in the ECT group did not decrease in the 1-year post-ECT period,
+while the number of psychiatric hospitalizations decreased in the 1-year
+post-ECT period. A possible explanation for the lack of any significant
+change in the direct medical costs is a more regular follow-up in the
+1-year post-ECT period supported by the lower number of antipsychotic
+treatment discontinuations. Contrary to our study, Lin et al reported
+that the total medical expenses increased significantly in their control
+group in the 1-year post-ECT period but not in their ECT group.(n.d.z)
+This could be attributed to a few methodological differences. While we
+aimed to focus on the effects of ECT on psychiatric symptoms specific to
+schizophrenia by restricting the main diagnostic code to F20-29, the
+previous study did not consider schizophrenia specific symptoms to be
+the main indication for ECT. In the previous study, the authors had
+selected control patients who had at least one psychiatric
+hospitalization during the observation period and used the duration of
+hospitalization in the matching procedure. In contrast, we utilized the
+number of psychiatric hospitalizations during the period from entry to
+the start of psychiatric hospitalization for ECT in selecting matched
+controls.
+
+One notable strength of our study is the utilization of information from
+a relatively large number of patients with schizophrenia who had
+received ECT, despite the low utilization rate of ECT in the Republic of
+Korea. However, some limitations should be considered. First, because
+this study was based on a claim database, we could not assess the
+severity of the psychiatric symptoms of the patients. Although
+antipsychotic treatment discontinuation and psychiatric hospitalization
+are important indicators of clinical course, they only have an indirect
+association with the clinical symptoms. Second, our results suggest that
+ECT may have a beneficial effect in reducing psychiatric
+hospitalization. However, it is still uncertain how ECT exerts its
+positive effects and which clinical and therapeutic factors are
+associated with them. Third, we included patients who received more than
+six ECT sessions during psychiatric hospitalization for ECT to ascertain
+an adequate administration of ECT. However, the minimum criterion of at
+least six ECT sessions was still arbitrary, given that more than six ECT
+sessions are recommended in general, and a higher number of ECT sessions
+may be needed for patients with schizophrenia than for those with mood
+disorders.(n.d.ad) Fourth, the current study has a retrospective
+observational study design, which is an inherent limitation in
+evaluating the effectiveness of ECT on clinical outcomes in
+schizophrenia. Our results indicate the associations of ECT with
+clinical outcomes but not the causal relationship between them. A
+prospective RCT with a large sample size is needed to validate the
+current results.
+
+.. _s0005:
+
+Conclusions
+===========
+
+We investigated the real-world effectiveness of ECT in patients with
+schizophrenia in terms of the number of antipsychotic treatment
+discontinuations and psychiatric hospitalizations, as well as direct
+medical costs. A lower number of antipsychotic treatment
+discontinuations was observed in the ECT group than in the control group
+in the 1-year post-ECT period. Further, there was a larger decrease in
+the number of psychiatric hospitalizations in the ECT group than in the
+control group. The direct medical costs in the 1-year pre- and post-ECT
+periods were significantly higher in the ECT group than in the control
+group, but there was no significant change in the direct medical costs
+across both periods in both groups. Based on these nationwide health
+insurance data, we suggest that ECT may be beneficial in reducing
+psychiatric hospitalizations in patients with schizophrenia. However,
+further investigations are needed to collect more evidence.
+
+.. _s0006:
+
+Data Sharing Statement
+======================
+
+The datasets used in this study are available from the Health Insurance
+Review and Assessment service on reasonable request.
+
+.. _s0007:
+
+Author Contributions
+====================
+
+All authors made a significant contribution to the work reported,
+whether that is in the conception, study design, execution, acquisition
+of data, analysis and interpretation, or in all these areas; took part
+in drafting, revising or critically reviewing the article; gave final
+approval of the version to be published; have agreed on the journal to
+which the article has been submitted; and agree to be accountable for
+all aspects of the work.
+
+.. _s0008:
+
+Disclosure
+==========
+
+The authors have declared that there are no conflicts of interest in
+relation to the subject of this study.
+
+.. container:: references csl-bib-body hanging-indent
+   :name: refs
+
+   .. container:: csl-entry
+      :name: ref-cit0001
+
+      n.d.a.
+
+   .. container:: csl-entry
+      :name: ref-cit0002
+
+      n.d.b.
+
+   .. container:: csl-entry
+      :name: ref-cit0003
+
+      n.d.c.
+
+   .. container:: csl-entry
+      :name: ref-cit0004
+
+      n.d.d.
+
+   .. container:: csl-entry
+      :name: ref-cit0005
+
+      n.d.e.
+
+   .. container:: csl-entry
+      :name: ref-cit0006
+
+      n.d.f.
+
+   .. container:: csl-entry
+      :name: ref-cit0007
+
+      n.d.g.
+
+   .. container:: csl-entry
+      :name: ref-cit0008
+
+      n.d.h.
+
+   .. container:: csl-entry
+      :name: ref-cit0009
+
+      n.d.i.
+
+   .. container:: csl-entry
+      :name: ref-cit0010
+
+      n.d.j.
+
+   .. container:: csl-entry
+      :name: ref-cit0011
+
+      n.d.k.
+
+   .. container:: csl-entry
+      :name: ref-cit0012
+
+      n.d.l.
+
+   .. container:: csl-entry
+      :name: ref-cit0013
+
+      n.d.m.
+
+   .. container:: csl-entry
+      :name: ref-cit0014
+
+      n.d.n.
+
+   .. container:: csl-entry
+      :name: ref-cit0015
+
+      n.d.o.
+
+   .. container:: csl-entry
+      :name: ref-cit0016
+
+      n.d.p.
+
+   .. container:: csl-entry
+      :name: ref-cit0017
+
+      n.d.q.
+
+   .. container:: csl-entry
+      :name: ref-cit0018
+
+      n.d.r.
+
+   .. container:: csl-entry
+      :name: ref-cit0019
+
+      n.d.s.
+
+   .. container:: csl-entry
+      :name: ref-cit0020
+
+      n.d.t.
+
+   .. container:: csl-entry
+      :name: ref-cit0021
+
+      n.d.u.
+
+   .. container:: csl-entry
+      :name: ref-cit0022
+
+      n.d.v.
+
+   .. container:: csl-entry
+      :name: ref-cit0023
+
+      n.d.w.
+
+   .. container:: csl-entry
+      :name: ref-cit0024
+
+      n.d.x.
+
+   .. container:: csl-entry
+      :name: ref-cit0025
+
+      n.d.y.
+
+   .. container:: csl-entry
+      :name: ref-cit0026
+
+      n.d.z.
+
+   .. container:: csl-entry
+      :name: ref-cit0027
+
+      n.d.aa.
+
+   .. container:: csl-entry
+      :name: ref-cit0028
+
+      n.d.ab.
+
+   .. container:: csl-entry
+      :name: ref-cit0029
+
+      n.d.ac.
+
+   .. container:: csl-entry
+      :name: ref-cit0030
+
+      n.d.ad.
+
+.. [1]
+   **Abbreviations**: ECT, electroconvulsive therapy; SD, standard
+   deviation.
+
+.. [2]
+   **Note**: \*p<0.05, \***p<0.001.
+
+.. [3]
+   **Abbreviations**: ECT, electroconvulsive therapy; KRW, Korean won;
+   SD, standard deviation.

@@ -1,39 +1,340 @@
-<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1d3 20150301//EN" "JATS-archivearticle1.dtd"> 
-<article xmlns:ali="http://www.niso.org/schemas/ali/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Publishing DTD v2.3 20070202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName journalpublishing.dtd?><?SourceDTD.Version 2.3?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 2?><front><journal-meta><journal-id journal-id-type="nlm-ta">BJPsych Bull</journal-id><journal-id journal-id-type="iso-abbrev">BJPsych Bull</journal-id><journal-id journal-id-type="hwp">pbrcpsych</journal-id><journal-title-group><journal-title>BJPsych Bulletin</journal-title></journal-title-group><issn pub-type="ppub">2056-4694</issn><issn pub-type="epub">2056-4708</issn><publisher><publisher-name>Royal College of Psychiatrists</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">4478926</article-id><article-id pub-id-type="doi">10.1192/pb.bp.113.045740</article-id><article-categories><subj-group subj-group-type="heading"><subject>Special Article</subject></subj-group></article-categories><title-group><article-title>The neurology&#x02013;psychiatry divide: a thought experiment<xref ref-type="author-notes" rid="fn1"><sup>&#x02020;</sup></xref></article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Reilly</surname><given-names>Thomas J.</given-names></name><xref ref-type="aff" rid="A1">1</xref></contrib><aff id="A1"><label>1</label>University of Glasgow</aff></contrib-group><author-notes><corresp>Correspondence to Thomas J. Reilly (<email>t.reilly@nhs.net</email>)
-</corresp><fn><p><bold>Thomas J Reilly</bold> BSc MBChB is an academic foundation doctor at the University of Glasgow and NHS Greater Glasgow and Clyde, UK.</p></fn><fn id="fn1"><label>&#x02020;</label><p>See pp. <related-article related-article-type="article-reference" id="d35e61" vol="39" page="105" issue="3" ext-link-type="pmc">105&#x02013;7</related-article>, this issue.</p></fn></author-notes><pub-date pub-type="ppub"><month>6</month><year>2015</year></pub-date><volume>39</volume><issue>3</issue><fpage>134</fpage><lpage>135</lpage><history><date date-type="received"><day>15</day><month>10</month><year>2013</year></date><date date-type="rev-recd"><day>21</day><month>1</month><year>2014</year></date><date date-type="accepted"><day>11</day><month>2</month><year>2014</year></date></history><permissions><copyright-statement>&#x000a9; 2015 The Author</copyright-statement><copyright-year>2015</copyright-year><license license-type="creative-commons" xlink:href="http://creativecommons.org/licenses/by/4.0/"><license-p>This is an open-access article published by the Royal College of Psychiatrists and distributed under the terms of the Creative Commons Attribution License (<uri xlink:type="simple" xlink:href="http://creativecommons.org/licenses/by/4.0">http://creativecommons.org/licenses/by/4.0</uri>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xlink:title="pdf" xlink:type="simple" xlink:href="134.pdf"/><abstract><p id="P1">Diseases of the brain are generally classified as either neurological or psychiatric. However, these two groups of illnesses cannot be readily separated on the basis of pathophysiology or symptomatology. It is difficult to rationally explain to someone with no prior frame of reference why we have the split between neurological and psychiatric illness. This demonstrates that the division is untenable, which has implications for training in both psychiatry and neurology.</p></abstract></article-meta></front><body><p id="P2">Can the distinction between psychiatric and neurological illness be explained to a Martian? This hypothetical Martian has come down to Earth and wants to know about our classification of diseases pertaining to the brain. Let us suppose our Martian has similar anatomy and biology to humans, except he has no concept of illnesses relating to the central nervous system; he does not experience psychiatric or neurological disease. The Martian is curious as to why most organs (such as lungs, kidneys, hearts and eyes) are treated by a single medical specialty, whereas the brain is divided between neurologists and psychiatrists.</p><sec id="S1"><title>Convention</title><p id="P3">Perhaps a reasonable place to start would be to define neurological illnesses as those treated by neurologists and psychiatric illnesses as those treated by psychiatrists. You might take the Martian to a neurology ward and declare that all patients here have neurological illnesses. Or explain that the people seen by community psychiatric nurses are those with psychiatric illness. Of course, this is circular reasoning and does not stand up to much scrutiny. The Martian would surely not be satisfied by this explanation; he has no prior knowledge of the history, development or social implications of psychiatry <italic>v</italic>. neurological disease. Therefore, to him, the division is not self-evident.</p></sec><sec id="S2"><title>Neuropathology</title><p id="P4">You might, therefore, go a little deeper and start to think about what characterises each type of illness. The Martian recognises the notion of pathology and can relate this to other aspects of disease &#x02013; for example, pulmonary fibrosis causing restrictive lung disease, which we categorise as a respiratory disease. By comparison, you might argue that neuropathological lesions cause neurological disease, whereas psychiatric illness is more to do with abnormal function of the brain. This seems sensible and certainly holds for well-characterised neurological disease such as multiple sclerosis. Demyelination of neuronal axons is the neuropathology, which results in a patient&#x02019;s symptoms. However, it becomes less tenable as the underlying disease processes are less well characterised. Epilepsy was once regarded as a psychiatric disease. As its neuropathology was better understood, we now regard it as a neurological illness.<sup><xref rid="R1" ref-type="bibr">1</xref></sup> Similarly, we now know of pathological processes in diseases such as schizophrenia. These processes, while not localised lesions, are evident when comparing brain imaging of people with schizophrenia to healthy controls and are present before the illness manifests clinically.<sup><xref rid="R2" ref-type="bibr">2</xref></sup></p><p id="P5">The final nail in the coffin of classifying brain diseases by their pathology is the case of conversion disorder, or neurologically unexplained symptoms. By definition, this disorder cannot be explained by underlying neuropathology.<sup><xref rid="R3" ref-type="bibr">3</xref></sup> It is, presumably, a result of psychological and social factors and is more a &#x02018;functional&#x02019; disorder of the central nervous system. And yet it is not treated by psychiatrists but by neurologists. Attempting to categorise brain disease by pathology is clearly troublesome so perhaps we should focus on dividing illnesses based on their symptoms.</p></sec><sec id="S3"><title>Symptomatology</title><p id="P6">You could try explaining to the Martian that there are &#x02018;neurological symptoms&#x02019;, weakness, tingling and seizures, for example. By contrast, &#x02018;psychiatric symptoms&#x02019; would generally be regarded as dysfunction of higher functions of the nervous system, disturbance in mood, delusions, hallucinations and so forth. Of course, there is some overlap but neurological symptoms would generally signify neurological disease which would interest a neurologist more than a psychiatrist. This holds true for conversion disorder which, although not involving lesions of the nervous system, certainly presents with symptoms more familiar to neurologists.</p><p id="P7">Unfortunately, it would take little time for our Martian friend to pick holes in this argument. He could point to anti-<italic>N</italic>-methyl-<sc>d</sc>-aspartate receptor encephalitis, which can be clinically indistinguishable from the first episode of schizophrenia, though it has a well-defined &#x02018;neurological&#x02019; pathophysiology.<sup><xref rid="R4" ref-type="bibr">4</xref></sup> This disease was only recently discovered, making it difficult to estimate how many patients presenting with psychiatric symptoms actually have neurological diseases. Similarly, psychiatric symptoms are common in traditionally neurological disorders: hallucinations in Parkinson&#x02019;s disease<sup><xref rid="R5" ref-type="bibr">5</xref></sup> and depression in multiple sclerosis<sup><xref rid="R6" ref-type="bibr">6</xref></sup> are just two examples.</p><sec id="S4"><title>The biopsychosocial approach</title><p id="P8">It could be argued that psychiatrists are specifically trained to have a biopsychosocial approach to disease, paying more attention to psychological and social aspects.<sup><xref rid="R7" ref-type="bibr">7</xref></sup> This is important, as these factors influence the presentation and course of psychiatric illness. However, as previously stated, psychological and social factors also underpin traditionally neurological conditions such as unexplained neurological symptoms and non-epileptic attacks. Indeed, there is a spectrum of psychosocial components to all diseases. Having a biopsychosocial approach to illness is required not just for psychiatrists and neurologists but for all doctors. In an ideal world, our approach to all illness would include consideration of psychological and social factors, and would be indistinguishable between neurologists and psychiatrists.</p></sec></sec><sec sec-type="conclusions" id="S5"><title>Conclusion</title><p id="P9">There is no defining line between neurology and psychiatry. Furthermore, I contest that it is impossible to justify the separation of neurological and psychiatric illness on a rational basis. To a Martian, or anyone looking at the situation with a fresh pair of eyes, it is impossible to explain how we put brain disorders into either neurological or psychiatric boxes. This is because current classification is based on convention, tradition and quirks of history.</p><p id="P10">To our Martian, it would probably seem rational to have a degree of overlap in training between neurologists and psychiatrists. It would seem desirable that neurologists be competent in the management of psychiatric disorders, and <italic>vice versa</italic>. Unfortunately, this is not the case. In the UK, it is perfectly normal to train in one of these specialties with no exposure to the other, unlike in other European countries.<sup><xref rid="R8" ref-type="bibr">8</xref></sup> Nature does not respect our arbitrary categorisations and neither do our patients. It would surely benefit both specialties to integrate training pathways, as has been suggested by others.<sup><xref rid="R9" ref-type="bibr">9</xref></sup></p></sec></body><back><fn-group><fn fn-type="conflict"><p><bold>Declaration of interest</bold> None.</p></fn></fn-group><ref-list><title>References</title><ref id="R1"><label>1</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name><surname>Reynolds</surname><given-names>EH</given-names></name><name><surname>Trimble</surname><given-names>MR</given-names></name></person-group>
-<article-title>Epilepsy, psychiatry, and neurology</article-title>. <source>Epilepsia</source>
-<year>2009</year>; <volume>50</volume> (<issue>suppl 3</issue>): <fpage>50</fpage>&#x02013;<lpage>5</lpage>.
-<pub-id pub-id-type="pmid">19298432</pub-id></mixed-citation></ref><ref id="R2"><label>2</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name><surname>Fusar-Poli</surname><given-names>P</given-names></name><name><surname>Radua</surname><given-names>J</given-names></name><name><surname>McGuire</surname><given-names>P</given-names></name><name><surname>Borgwardt</surname><given-names>S</given-names></name></person-group>
-<article-title>Neuroanatomical maps of psychosis onset: voxel-wise meta-analysis of antipsychotic-naive VBM studies</article-title>. <source>Schizophr Bull</source>
-<year>2012</year>; <volume>38</volume>: <fpage>1297</fpage>&#x02013;<lpage>307</lpage>.
-<pub-id pub-id-type="pmid">22080494</pub-id></mixed-citation></ref><ref id="R3"><label>3</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name><surname>Kanaan</surname><given-names>R</given-names></name><name><surname>Armstrong</surname><given-names>D</given-names></name><name><surname>Barnes</surname><given-names>P</given-names></name><name><surname>Wessely</surname><given-names>S</given-names></name></person-group>
-<article-title>In the psychiatrist&#x02019;s chair: how neurologists understand conversion disorder</article-title>. <source>Brain</source>
-<year>2009</year>; <volume>132</volume>: <fpage>2889</fpage>&#x02013;<lpage>96</lpage>.
-<pub-id pub-id-type="pmid">19321463</pub-id></mixed-citation></ref><ref id="R4"><label>4</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name><surname>Barry</surname><given-names>H</given-names></name><name><surname>Hardiman</surname><given-names>O</given-names></name><name><surname>Healy</surname><given-names>DG</given-names></name><name><surname>Keogan</surname><given-names>M</given-names></name><name><surname>Moroney</surname><given-names>J</given-names></name><name><surname>Molnar</surname><given-names>PP</given-names></name><etal/></person-group>
-<article-title>Anti-NMDA receptor encephalitis: an important differential diagnosis in psychosis</article-title>. <source>Br J Psychiatry</source>
-<year>2011</year>; <volume>199</volume>: <fpage>508</fpage>&#x02013;<lpage>9</lpage>.
-<pub-id pub-id-type="pmid">21984802</pub-id></mixed-citation></ref><ref id="R5"><label>5</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name><surname>Williams</surname><given-names>DR</given-names></name><name><surname>Lees</surname><given-names>AJ</given-names></name></person-group>
-<article-title>Visual hallucinations in the diagnosis of idiopathic Parkinson&#x02019;s disease: a retrospective autopsy study</article-title>. <source>Lancet Neurol</source>
-<year>2005</year>; <volume>4</volume>: <fpage>605</fpage>&#x02013;<lpage>10</lpage>.
-<pub-id pub-id-type="pmid">16168928</pub-id></mixed-citation></ref><ref id="R6"><label>6</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name><surname>Feinstein</surname><given-names>A</given-names></name></person-group>
-<article-title>Multiple sclerosis and depression</article-title>. <source>Mult Scler</source>
-<year>2011</year>; <volume>17</volume>: <fpage>1276</fpage>&#x02013;<lpage>81</lpage>.
-<pub-id pub-id-type="pmid">22058085</pub-id></mixed-citation></ref><ref id="R7"><label>7</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name><surname>Engel</surname><given-names>GL</given-names></name></person-group>
-<article-title>The clinical application of the biopsychosocial model</article-title>. <source>Am J Psychiatry</source>
-<year>1980</year>; <volume>34</volume>: <fpage>535</fpage>&#x02013;<lpage>44</lpage>.
-<pub-id pub-id-type="pmid">7369396</pub-id></mixed-citation></ref><ref id="R8"><label>8</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name><surname>Oakley</surname><given-names>C</given-names></name><name><surname>Malik</surname><given-names>A</given-names></name></person-group>
-<article-title>Psychiatric training in Europe</article-title>. <source>Psychiatrist</source>
-<year>2010</year>; <volume>34</volume>: <fpage>447</fpage>&#x02013;<lpage>50</lpage>.
-</mixed-citation></ref><ref id="R9"><label>9</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name><surname>Oakley</surname><given-names>C</given-names></name><name><surname>Jenkinson</surname><given-names>J</given-names></name><name><surname>Oyebode</surname><given-names>F</given-names></name></person-group>
-<article-title>Psychiatric training for the next generation</article-title>. <source>Psychiatrist</source>
-<year>2013</year>; <volume>37</volume>: <fpage>25</fpage>&#x02013;<lpage>9</lpage>.
-</mixed-citation></ref></ref-list></back></article>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1d3 20150301//EN" "JATS-archivearticle1.dtd">
+<article xmlns:ali="http://www.niso.org/schemas/ali/1.0"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article">    <?properties open_access?>    <?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Publishing DTD v2.3 20070202//EN?>    <?DTDIdentifier.IdentifierType public?>    <?SourceDTD.DTDName journalpublishing.dtd?>    <?SourceDTD.Version 2.3?>    <?ConverterInfo.XSLTName jp2nlmx2.xsl?>    <?ConverterInfo.Version 2?>
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="nlm-ta">BJPsych Bull</journal-id>
+            <journal-id journal-id-type="iso-abbrev">BJPsych Bull</journal-id>
+            <journal-id journal-id-type="hwp">pbrcpsych</journal-id>
+            <journal-title-group>
+                <journal-title>BJPsych Bulletin</journal-title>
+            </journal-title-group>
+            <issn pub-type="ppub">2056-4694</issn>
+            <issn pub-type="epub">2056-4708</issn>
+            <publisher>
+                <publisher-name>Royal College of Psychiatrists</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="pmcid">4478926</article-id>
+            <article-id pub-id-type="doi">10.1192/pb.bp.113.045740</article-id>
+            <article-categories>
+                <subj-group subj-group-type="heading">
+                    <subject>Special Article</subject>
+                </subj-group>
+            </article-categories>
+            <title-group>
+                <article-title>The neurology&#x02013;psychiatry divide: a thought experiment<xref ref-type="author-notes" rid="fn1">
+                    <sup>&#x02020;</sup>
+                </xref>
+            </article-title>
+        </title-group>
+        <contrib-group>
+            <contrib contrib-type="author">
+                <name>
+                    <surname>Reilly</surname>
+                    <given-names>Thomas J.</given-names>
+                </name>
+                <xref ref-type="aff" rid="A1">1</xref>
+            </contrib>
+            <aff id="A1">
+                <label>1</label>University of Glasgow</aff>
+        </contrib-group>
+        <author-notes>
+            <corresp>Correspondence to Thomas J. Reilly (<email>t.reilly@nhs.net</email>)
+            </corresp>
+            <fn>
+                <p>
+                    <bold>Thomas J Reilly</bold> BSc MBChB is an academic foundation doctor at the University of Glasgow and NHS Greater Glasgow and Clyde, UK.</p>
+            </fn>
+            <fn id="fn1">
+                <label>&#x02020;</label>
+                <p>See pp. <related-article related-article-type="article-reference" id="d35e61" vol="39" page="105" issue="3" ext-link-type="pmc">105&#x02013;7</related-article>, this issue.</p>
+            </fn>
+        </author-notes>
+        <pub-date pub-type="ppub">
+            <month>6</month>
+            <year>2015</year>
+        </pub-date>
+        <volume>39</volume>
+        <issue>3</issue>
+        <fpage>134</fpage>
+        <lpage>135</lpage>
+        <history>
+            <date date-type="received">
+                <day>15</day>
+                <month>10</month>
+                <year>2013</year>
+            </date>
+            <date date-type="rev-recd">
+                <day>21</day>
+                <month>1</month>
+                <year>2014</year>
+            </date>
+            <date date-type="accepted">
+                <day>11</day>
+                <month>2</month>
+                <year>2014</year>
+            </date>
+        </history>
+        <permissions>
+            <copyright-statement>&#x000a9; 2015 The Author</copyright-statement>
+            <copyright-year>2015</copyright-year>
+            <license license-type="creative-commons" xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                <license-p>This is an open-access article published by the Royal College of Psychiatrists and distributed under the terms of the Creative Commons Attribution License (<uri xlink:type="simple" xlink:href="http://creativecommons.org/licenses/by/4.0">http://creativecommons.org/licenses/by/4.0</uri>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+            </license>
+        </permissions>
+        <self-uri xlink:title="pdf" xlink:type="simple" xlink:href="134.pdf" />
+        <abstract>
+            <p id="P1">Diseases of the brain are generally classified as either neurological or psychiatric. However, these two groups of illnesses cannot be readily separated on the basis of pathophysiology or symptomatology. It is difficult to rationally explain to someone with no prior frame of reference why we have the split between neurological and psychiatric illness. This demonstrates that the division is untenable, which has implications for training in both psychiatry and neurology.</p>
+        </abstract>
+    </article-meta>
+</front>
+<body>
+    <p id="P2">Can the distinction between psychiatric and neurological illness be explained to a Martian? This hypothetical Martian has come down to Earth and wants to know about our classification of diseases pertaining to the brain. Let us suppose our Martian has similar anatomy and biology to humans, except he has no concept of illnesses relating to the central nervous system; he does not experience psychiatric or neurological disease. The Martian is curious as to why most organs (such as lungs, kidneys, hearts and eyes) are treated by a single medical specialty, whereas the brain is divided between neurologists and psychiatrists.</p>
+    <sec id="S1">
+        <title>Convention</title>
+        <p id="P3">Perhaps a reasonable place to start would be to define neurological illnesses as those treated by neurologists and psychiatric illnesses as those treated by psychiatrists. You might take the Martian to a neurology ward and declare that all patients here have neurological illnesses. Or explain that the people seen by community psychiatric nurses are those with psychiatric illness. Of course, this is circular reasoning and does not stand up to much scrutiny. The Martian would surely not be satisfied by this explanation; he has no prior knowledge of the history, development or social implications of psychiatry <italic>v</italic>. neurological disease. Therefore, to him, the division is not self-evident.</p>
+    </sec>
+    <sec id="S2">
+        <title>Neuropathology</title>
+        <p id="P4">You might, therefore, go a little deeper and start to think about what characterises each type of illness. The Martian recognises the notion of pathology and can relate this to other aspects of disease &#x02013; for example, pulmonary fibrosis causing restrictive lung disease, which we categorise as a respiratory disease. By comparison, you might argue that neuropathological lesions cause neurological disease, whereas psychiatric illness is more to do with abnormal function of the brain. This seems sensible and certainly holds for well-characterised neurological disease such as multiple sclerosis. Demyelination of neuronal axons is the neuropathology, which results in a patient&#x02019;s symptoms. However, it becomes less tenable as the underlying disease processes are less well characterised. Epilepsy was once regarded as a psychiatric disease. As its neuropathology was better understood, we now regard it as a neurological illness.<sup>
+            <xref rid="R1" ref-type="bibr">1</xref>
+        </sup> Similarly, we now know of pathological processes in diseases such as schizophrenia. These processes, while not localised lesions, are evident when comparing brain imaging of people with schizophrenia to healthy controls and are present before the illness manifests clinically.<sup>
+        <xref rid="R2" ref-type="bibr">2</xref>
+    </sup>
+</p>
+<p id="P5">The final nail in the coffin of classifying brain diseases by their pathology is the case of conversion disorder, or neurologically unexplained symptoms. By definition, this disorder cannot be explained by underlying neuropathology.<sup>
+    <xref rid="R3" ref-type="bibr">3</xref>
+</sup> It is, presumably, a result of psychological and social factors and is more a &#x02018;functional&#x02019; disorder of the central nervous system. And yet it is not treated by psychiatrists but by neurologists. Attempting to categorise brain disease by pathology is clearly troublesome so perhaps we should focus on dividing illnesses based on their symptoms.</p>
+</sec>
+<sec id="S3">
+<title>Symptomatology</title>
+<p id="P6">You could try explaining to the Martian that there are &#x02018;neurological symptoms&#x02019;, weakness, tingling and seizures, for example. By contrast, &#x02018;psychiatric symptoms&#x02019; would generally be regarded as dysfunction of higher functions of the nervous system, disturbance in mood, delusions, hallucinations and so forth. Of course, there is some overlap but neurological symptoms would generally signify neurological disease which would interest a neurologist more than a psychiatrist. This holds true for conversion disorder which, although not involving lesions of the nervous system, certainly presents with symptoms more familiar to neurologists.</p>
+<p id="P7">Unfortunately, it would take little time for our Martian friend to pick holes in this argument. He could point to anti-<italic>N</italic>-methyl-<sc>d</sc>-aspartate receptor encephalitis, which can be clinically indistinguishable from the first episode of schizophrenia, though it has a well-defined &#x02018;neurological&#x02019; pathophysiology.<sup>
+<xref rid="R4" ref-type="bibr">4</xref>
+</sup> This disease was only recently discovered, making it difficult to estimate how many patients presenting with psychiatric symptoms actually have neurological diseases. Similarly, psychiatric symptoms are common in traditionally neurological disorders: hallucinations in Parkinson&#x02019;s disease<sup>
+<xref rid="R5" ref-type="bibr">5</xref>
+</sup> and depression in multiple sclerosis<sup>
+<xref rid="R6" ref-type="bibr">6</xref>
+</sup> are just two examples.</p>
+<sec id="S4">
+<title>The biopsychosocial approach</title>
+<p id="P8">It could be argued that psychiatrists are specifically trained to have a biopsychosocial approach to disease, paying more attention to psychological and social aspects.<sup>
+<xref rid="R7" ref-type="bibr">7</xref>
+</sup> This is important, as these factors influence the presentation and course of psychiatric illness. However, as previously stated, psychological and social factors also underpin traditionally neurological conditions such as unexplained neurological symptoms and non-epileptic attacks. Indeed, there is a spectrum of psychosocial components to all diseases. Having a biopsychosocial approach to illness is required not just for psychiatrists and neurologists but for all doctors. In an ideal world, our approach to all illness would include consideration of psychological and social factors, and would be indistinguishable between neurologists and psychiatrists.</p>
+</sec>
+</sec>
+<sec sec-type="conclusions" id="S5">
+<title>Conclusion</title>
+<p id="P9">There is no defining line between neurology and psychiatry. Furthermore, I contest that it is impossible to justify the separation of neurological and psychiatric illness on a rational basis. To a Martian, or anyone looking at the situation with a fresh pair of eyes, it is impossible to explain how we put brain disorders into either neurological or psychiatric boxes. This is because current classification is based on convention, tradition and quirks of history.</p>
+<p id="P10">To our Martian, it would probably seem rational to have a degree of overlap in training between neurologists and psychiatrists. It would seem desirable that neurologists be competent in the management of psychiatric disorders, and <italic>vice versa</italic>. Unfortunately, this is not the case. In the UK, it is perfectly normal to train in one of these specialties with no exposure to the other, unlike in other European countries.<sup>
+<xref rid="R8" ref-type="bibr">8</xref>
+</sup> Nature does not respect our arbitrary categorisations and neither do our patients. It would surely benefit both specialties to integrate training pathways, as has been suggested by others.<sup>
+<xref rid="R9" ref-type="bibr">9</xref>
+</sup>
+</p>
+</sec>
+</body>
+<back>
+<fn-group>
+<fn fn-type="conflict">
+<p>
+<bold>Declaration of interest</bold> None.</p>
+</fn>
+</fn-group>
+<ref-list>
+<title>References</title>
+<ref id="R1">
+<label>1</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Reynolds</surname>
+<given-names>EH</given-names>
+</name>
+<name>
+<surname>Trimble</surname>
+<given-names>MR</given-names>
+</name>
+</person-group>
+<article-title>Epilepsy, psychiatry, and neurology</article-title>.<source>Epilepsia</source>
+<year>2009</year>;<volume>50</volume> (<issue>suppl 3</issue>):<fpage>50</fpage>&#x02013;<lpage>5</lpage>.
+<pub-id pub-id-type="pmid">19298432</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R2">
+<label>2</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Fusar-Poli</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Radua</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>McGuire</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Borgwardt</surname>
+<given-names>S</given-names>
+</name>
+</person-group>
+<article-title>Neuroanatomical maps of psychosis onset: voxel-wise meta-analysis of antipsychotic-naive VBM studies</article-title>.<source>Schizophr Bull</source>
+<year>2012</year>;<volume>38</volume>:<fpage>1297</fpage>&#x02013;<lpage>307</lpage>.
+<pub-id pub-id-type="pmid">22080494</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R3">
+<label>3</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Kanaan</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Armstrong</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Barnes</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Wessely</surname>
+<given-names>S</given-names>
+</name>
+</person-group>
+<article-title>In the psychiatrist&#x02019;s chair: how neurologists understand conversion disorder</article-title>.<source>Brain</source>
+<year>2009</year>;<volume>132</volume>:<fpage>2889</fpage>&#x02013;<lpage>96</lpage>.
+<pub-id pub-id-type="pmid">19321463</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R4">
+<label>4</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Barry</surname>
+<given-names>H</given-names>
+</name>
+<name>
+<surname>Hardiman</surname>
+<given-names>O</given-names>
+</name>
+<name>
+<surname>Healy</surname>
+<given-names>DG</given-names>
+</name>
+<name>
+<surname>Keogan</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Moroney</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Molnar</surname>
+<given-names>PP</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>Anti-NMDA receptor encephalitis: an important differential diagnosis in psychosis</article-title>.<source>Br J Psychiatry</source>
+<year>2011</year>;<volume>199</volume>:<fpage>508</fpage>&#x02013;<lpage>9</lpage>.
+<pub-id pub-id-type="pmid">21984802</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R5">
+<label>5</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Williams</surname>
+<given-names>DR</given-names>
+</name>
+<name>
+<surname>Lees</surname>
+<given-names>AJ</given-names>
+</name>
+</person-group>
+<article-title>Visual hallucinations in the diagnosis of idiopathic Parkinson&#x02019;s disease: a retrospective autopsy study</article-title>.<source>Lancet Neurol</source>
+<year>2005</year>;<volume>4</volume>:<fpage>605</fpage>&#x02013;<lpage>10</lpage>.
+<pub-id pub-id-type="pmid">16168928</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R6">
+<label>6</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Feinstein</surname>
+<given-names>A</given-names>
+</name>
+</person-group>
+<article-title>Multiple sclerosis and depression</article-title>.<source>Mult Scler</source>
+<year>2011</year>;<volume>17</volume>:<fpage>1276</fpage>&#x02013;<lpage>81</lpage>.
+<pub-id pub-id-type="pmid">22058085</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R7">
+<label>7</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Engel</surname>
+<given-names>GL</given-names>
+</name>
+</person-group>
+<article-title>The clinical application of the biopsychosocial model</article-title>.<source>Am J Psychiatry</source>
+<year>1980</year>;<volume>34</volume>:<fpage>535</fpage>&#x02013;<lpage>44</lpage>.
+<pub-id pub-id-type="pmid">7369396</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R8">
+<label>8</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Oakley</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Malik</surname>
+<given-names>A</given-names>
+</name>
+</person-group>
+<article-title>Psychiatric training in Europe</article-title>.<source>Psychiatrist</source>
+<year>2010</year>;<volume>34</volume>:<fpage>447</fpage>&#x02013;<lpage>50</lpage>.
+</mixed-citation>
+</ref>
+<ref id="R9">
+<label>9</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Oakley</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Jenkinson</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Oyebode</surname>
+<given-names>F</given-names>
+</name>
+</person-group>
+<article-title>Psychiatric training for the next generation</article-title>.<source>Psychiatrist</source>
+<year>2013</year>;<volume>37</volume>:<fpage>25</fpage>&#x02013;<lpage>9</lpage>.
+</mixed-citation>
+</ref>
+</ref-list>
+</back>
+</article>

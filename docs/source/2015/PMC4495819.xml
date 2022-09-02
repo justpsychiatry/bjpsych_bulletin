@@ -1,77 +1,817 @@
-<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1d3 20150301//EN" "JATS-archivearticle1.dtd"> 
-<article xmlns:ali="http://www.niso.org/schemas/ali/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="review-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Publishing DTD v2.3 20070202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName journalpublishing.dtd?><?SourceDTD.Version 2.3?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 2?><front><journal-meta><journal-id journal-id-type="nlm-ta">BJPsych Bull</journal-id><journal-id journal-id-type="iso-abbrev">BJPsych Bull</journal-id><journal-id journal-id-type="hwp">pbrcpsych</journal-id><journal-title-group><journal-title>BJPsych Bulletin</journal-title></journal-title-group><issn pub-type="ppub">2056-4694</issn><issn pub-type="epub">2056-4708</issn><publisher><publisher-name>Royal College of Psychiatrists</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">4495819</article-id><article-id pub-id-type="doi">10.1192/pb.bp.113.045963</article-id><article-categories><subj-group subj-group-type="heading"><subject>Current Practice</subject></subj-group></article-categories><title-group><article-title>Alcohol dependence and driving: knowledge of DVLA regulations</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Collier</surname><given-names>Andrew</given-names></name><xref ref-type="aff" rid="A1">1</xref></contrib><contrib contrib-type="author"><name><surname>Watts</surname><given-names>Maggie</given-names></name><xref ref-type="aff" rid="A2">2</xref></contrib><contrib contrib-type="author"><name><surname>Ghosh</surname><given-names>Sujoy</given-names></name><xref ref-type="aff" rid="A1">1</xref></contrib><contrib contrib-type="author"><name><surname>Rice</surname><given-names>Peter</given-names></name><xref ref-type="aff" rid="A3">3</xref></contrib><contrib contrib-type="author"><name><surname>Dewhurst</surname><given-names>Neil</given-names></name><xref ref-type="aff" rid="A4">4</xref></contrib><aff id="A1"><label>1</label>Ayr Hospital, Ayr</aff><aff id="A2"><label>2</label>Department of Public Health, NHS Ayrshire and Arran</aff><aff id="A3"><label>3</label>Stracathro Hospital, Brechin</aff><aff id="A4"><label>4</label>Royal College of Physicians, Edinburgh</aff></contrib-group><author-notes><corresp>Correspondence to Andrew Collier (<email>andrew.collier@aaaht.scot.nhs.uk</email>)
-</corresp><fn><p><bold>Professor Andrew Collier</bold> MD, FRCPE is Consultant Physician, Department of Medicine, Ayr Hospital, NHS Ayrshire and Arran, Ayr; <bold>Dr Maggie Watts</bold> MB BS, FFPH is Director of Public Health, NHS Western Isles; <bold>Dr Sujoy Ghosh</bold> MD, FRCPE is Clinical Research Fellow, NHS Ayrshire and Arran; <bold>Dr Peter Rice</bold> MB ChB, FRCPsych, FRCPE is Honorary Consultant Psychiatrist, Tayside Substance Misuse Services, Stracathro Hospital, NHS Tayside, Brechin; <bold>Dr Neil Dewhurst</bold> PRCPE is President, Royal College of Physicians (Edinburgh), Edinburgh.</p></fn></author-notes><pub-date pub-type="ppub"><month>2</month><year>2015</year></pub-date><volume>39</volume><issue>1</issue><fpage>35</fpage><lpage>38</lpage><history><date date-type="received"><day>30</day><month>10</month><year>2013</year></date><date date-type="rev-recd"><day>7</day><month>3</month><year>2014</year></date><date date-type="accepted"><day>31</day><month>3</month><year>2014</year></date></history><permissions><copyright-statement>&#x000a9; 2014 The Authors</copyright-statement><copyright-year>2014</copyright-year><license license-type="creative-commons" xlink:href="http://creativecommons.org/licenses/by/4.0/"><license-p>This is an open-access article published by the Royal College of Psychiatrists and distributed under the terms of the Creative Commons Attribution License (<uri xlink:type="simple" xlink:href="http://creativecommons.org/licenses/by/4.0">http://creativecommons.org/licenses/by/4.0</uri>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xlink:title="pdf" xlink:type="simple" xlink:href="35.pdf"/><abstract><p id="P1"><bold>Aims and Methods</bold> The UK&#x02019;s Driver Vehicle Licensing Authority (DVLA) requires individuals to report if they have a medical condition such as alcohol dependence. General Medical Council guidance indicates that medical practitioners should ensure patients are aware of their impairment and requirement to notify the DVLA.</p><p id="P2"><bold>Results</bold> In a survey of 246 people with known alcohol dependence, none were aware of advice on driving given by medical practitioners and none had self-reported. In addition, 362 doctors, either attending a college symposium or visiting a college website, were asked about their knowledge of DVLA regulations regarding alcohol dependence: 73% of those attending the symposium and 63% of those visiting the website answered incorrectly. In Scotland, over 20 000 people have alcohol dependence (over 1 million people with alcohol abuse), yet only 2548 people with alcohol problems self-reported to the DVLA in 2011.</p><p id="P3"><bold>Clinical implications</bold> If the DVLA regulations were implemented, it could make an enormous difference to the behaviours of the driving public.</p></abstract></article-meta></front><body><p id="P4">The dangers of driving while under the influence of alcohol are well known. Alcohol remains a significant public health risk and has been identified as the most important factor contributing to the occurrence of severe to fatal automobile crashes.<sup><xref rid="R1" ref-type="bibr">1</xref></sup> Acute alcohol intoxication affects the behavioural and coordinating functions necessary for driving.<sup><xref rid="R2" ref-type="bibr">2</xref></sup> Alcohol consumption at lower levels also interferes with performance on neurological and psychological tasks,<sup><xref rid="R3" ref-type="bibr">3</xref></sup> which include a wide variety of cognitive processes,<sup><xref rid="R4" ref-type="bibr">4</xref></sup> affects immediate memory span and short-term memory<sup><xref rid="R5" ref-type="bibr">5</xref></sup> as well as motor speed and coordination.<sup><xref rid="R6" ref-type="bibr">6</xref></sup></p><p id="P5">Driver licensing in Great Britain is governed by the third European Commission Directive on the Driving Licence.<sup><xref rid="R7" ref-type="bibr">7</xref></sup> Annex III of the directive provides the minimum medical standards for driving expected across all member states. It states: &#x02018;Driving licences shall not be issued to, or renewed for, applicants or drivers who are dependent on alcohol or unable to refrain from drinking and driving. After a proven period of abstinence and subject to authorised medical opinion and regular medical check-ups, driving licences may be issued to, or renewed for, applicant or drivers who have in the past been dependent on alcohol&#x02019;.<sup><xref rid="R7" ref-type="bibr">7</xref></sup> The persistent misuse of drugs or alcohol, whether or not misuse amounts to dependency, is a relevant disability in the Motor Vehicles (Driving Licences) Regulations 1999.</p><p id="P6">Guidance from the Driver and Vehicle Licensing Agency (DVLA) states that persistent alcohol misuse requires licence revocation or refusal until a minimum 6-month period of controlled drinking or abstinence has been obtained, with normalisation of blood parameters. Alcohol dependency requires licence revocation or refusal until a 1-year period free from alcohol problems.<sup><xref rid="R8" ref-type="bibr">8</xref></sup> Abstinence will normally be required and medical reports from the driver&#x02019;s general practitioner (GP) are necessary, usually in conjunction with an independent medical report.</p><p id="P7">The aim of this study was to ascertain the knowledge of &#x02018;recovering alcoholics&#x02019; of the DVLA regulations related to driving a car while still &#x02018;actively drinking&#x02019; and whether they could recollect whether their health professional had given them appropriate advice. In addition, a total of 362 senior doctors, either attending a Royal College of Physicians (Edinburgh) symposium or visiting a Royal College of Physicians (Edinburgh)/Royal College of Psychiatrists (Scotland) website, were asked about their knowledge of DVLA regulations and alcohol dependence. The terms &#x02018;recovering alcoholics&#x02019; and &#x02018;actively drinking&#x02019; are recognised and regularly used by Alcoholics Anonymous.<sup><xref rid="R9" ref-type="bibr">9</xref></sup></p><sec sec-type="methods" id="S1"><title>Method</title><sec id="S2"><title>Patients</title><p id="P8">In total, 246 &#x02018;recovering alcoholics&#x02019; attending five different Alcoholics Anonymous (AA) meetings in Ayrshire, Scotland were surveyed during 2011. The individuals surveyed had all previously been heavy consumers of alcohol (&#x0003e; 100 units/week). They had attended AA meetings regularly for over 6 months and by self-report had been free of any alcoholic intake for at least this period. Membership of the Fellowship of AA is described in Tradition 3: &#x02018;The only requirement for A.A. membership is a desire to stop drinking&#x02019;.<sup><xref rid="R9" ref-type="bibr">9</xref></sup> (Traditions and &#x02018;Steps&#x02019; are the foundation of AA.) Of the sample, 194 (79%) were male and the ages ranged from 21 to 80 years, median 57 years. As anonymity is a very important aspect of AA, further demographic detail was not collected. All individuals questioned were in possession of a current driving licence and had the willingness and apparent capacity to provide consent for participation in the survey. They were asked to complete a brief, anonymous questionnaire (unsupervised) about their knowledge of DVLA regulations and about the information that they had been given by health professionals. Those involved in any drink driving offences were excluded. The survey was undertaken with the full knowledge of Fellowship of AA. However, as according to the AA Tradition 6: &#x02018;Our groups ought never endorse, finance or lend our name to any related facility or outside enterprise, lest problems of money, property and prestige divert us from our primary purpose&#x02019;,<sup><xref rid="R9" ref-type="bibr">9</xref></sup> the work was conducted independently of the Fellowship. The questionnaires were distributed to members for completion before or immediately after AA meetings (<xref ref-type="table" rid="T1">Table 1</xref>).</p><table-wrap id="T1" position="float"><label>Table 1</label><caption><p>Participant survey results</p></caption><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" valign="top" span="1"/><col align="center" valign="top" span="1"/></colgroup><thead><tr><th rowspan="1" colspan="1">Question</th><th rowspan="1" colspan="1">Yes, <italic>n</italic> (%)</th></tr></thead><tbody><tr><td rowspan="1" colspan="1">1 Are you a recovering alcoholic?</td><td rowspan="1" colspan="1">246 (100)</td></tr><tr><td rowspan="1" colspan="1"><hr/></td><td rowspan="1" colspan="1"><hr/></td></tr><tr><td rowspan="1" colspan="1">2 Do you hava a driving licence?</td><td rowspan="1" colspan="1">246 (100)</td></tr><tr><td rowspan="1" colspan="1"><hr/></td><td rowspan="1" colspan="1"><hr/></td></tr><tr><td rowspan="1" colspan="1">3 Do you drive a car?</td><td rowspan="1" colspan="1">246 (100)</td></tr><tr><td rowspan="1" colspan="1"><hr/></td><td rowspan="1" colspan="1"><hr/></td></tr><tr><td rowspan="1" colspan="1">4 Did you problems with alcohol lead you to see your GP?</td><td rowspan="1" colspan="1">185 (71)</td></tr><tr><td rowspan="1" colspan="1"><hr/></td><td rowspan="1" colspan="1"><hr/></td></tr><tr><td rowspan="1" colspan="1">5 Do you recollect your GP giving you any advice about driving?</td><td rowspan="1" colspan="1">0</td></tr><tr><td rowspan="1" colspan="1"><hr/></td><td rowspan="1" colspan="1"><hr/></td></tr><tr><td rowspan="1" colspan="1">6 Have you ever been admitted to hospital due to your alcohol problems?</td><td rowspan="1" colspan="1">137 (56)</td></tr><tr><td rowspan="1" colspan="1"><hr/></td><td rowspan="1" colspan="1"><hr/></td></tr><tr><td rowspan="1" colspan="1">7 When you were in hospital do you recollect getting any advice about driving?</td><td rowspan="1" colspan="1">0</td></tr><tr><td rowspan="1" colspan="1"><hr/></td><td rowspan="1" colspan="1"><hr/></td></tr><tr><td rowspan="1" colspan="1">8 Do you recollect if your GP or a hospital doctor have ever asked you/told you to stop driving?</td><td rowspan="1" colspan="1">0</td></tr><tr><td rowspan="1" colspan="1"><hr/></td><td rowspan="1" colspan="1"><hr/></td></tr><tr><td rowspan="1" colspan="1">9 Have you ever informed the DVLA that you have/had a problem with alcohol?</td><td rowspan="1" colspan="1">0</td></tr><tr><td rowspan="1" colspan="1"><hr/></td><td rowspan="1" colspan="1"><hr/></td></tr><tr><td rowspan="1" colspan="1">10 Do you think that it would be sensible/reasonable to be told not to drive if you still had an active problem <break/>with drinking?</td><td rowspan="1" colspan="1">223 (91)</td></tr><tr><td rowspan="1" colspan="1"><hr/></td><td rowspan="1" colspan="1"><hr/></td></tr><tr><td rowspan="1" colspan="1">11 Have you ever driven a car knowing that you were under the influence of alcohol/were over the limit <break/> (including the morning after)?</td><td rowspan="1" colspan="1">246 (100)</td></tr><tr><td rowspan="1" colspan="1"><hr/></td><td rowspan="1" colspan="1"><hr/></td></tr><tr><td rowspan="1" colspan="1">12 Have you ever driven a car when you were withdrawing from alcohol?</td><td rowspan="1" colspan="1">194 (79)</td></tr><tr><td rowspan="1" colspan="1"><hr/></td><td rowspan="1" colspan="1"><hr/></td></tr><tr><td rowspan="1" colspan="1">13 Did you ever stop driving or think of not driving while still actively drinking?</td><td rowspan="1" colspan="1">103 (42)</td></tr></tbody></table><table-wrap-foot><fn id="TFN1"><p>GP, general practitioner.</p></fn></table-wrap-foot></table-wrap></sec><sec id="S3"><title>Doctors</title><p id="P9">There were nine questions posed to doctors at the symposium and online: three were based on alcohol-related problems, three on cardiology, two on psychiatric issues and one on diabetes. Of the physicians who attended the Royal College of Physicians (Edinburgh) symposium, 292 took part in the survey and 70 doctors did so online.</p><p id="P10">The alcohol and driving question stated: &#x02018;If a patient is admitted to hospital with an alcohol dependence problem (requiring benzodiazepine treatment for withdrawal symptoms) the patient must be advised to inform the DVLA, who will revoke their licence for a year&#x02019;. Respondents could answer that this was true, false or that they did not know the answer.</p></sec></sec><sec sec-type="results" id="S4"><title>Results</title><p id="P11">The 246 &#x02018;recovering alcoholics&#x02019; answered all 13 questions (<xref ref-type="table" rid="T1">Table 1</xref>). All 246 had a driving licence and drove a car; 185 (71%) went to see their GP with an alcohol problem and 137 (56%) were admitted to hospital with alcohol problems. None recollected their GP or a hospital doctor asking them to stop driving. In addition, none had informed the DVLA that they had a problem with alcohol.</p><p id="P12">At the symposium, 73% physicians answered the question incorrectly and on the website 62% of physicians and psychiatrists gave an incorrect answer; 9% of those at the symposium indicated that they did not know the answer. With regard to questions on alcohol-related seizures and alcohol misuse, 64% and 62% respectively answered incorrectly. The other non-alcohol related questions demonstrated a higher level of knowledge among the symposium audience (13&#x02013;42% incorrect).</p></sec><sec sec-type="discussion" id="S5"><title>Discussion</title><p id="P13">This study has shown that awareness of individual responsibility among recovering alcohol-dependent individuals is low and recollection of discussion with health professionals about driving is non-existent. The people we surveyed were regular attendees of AA meetings. This is likely to be a group who have developed a high level of understanding and insight into their alcohol problem and would be willing to engage in open discussion with doctors. A few specialist alcohol services in Scotland provide written information to newly referred patients alerting them to their responsibilities regarding the DVLA, but it is not known whether patients recall this (in the short or long term) and clearly very few act on the advice. It is also probable that a significant proportion of health professionals are not aware of the advice that they should be giving in relation to driving and alcohol dependency and alcohol misuse. These small but significant doctor surveys reflect that knowledge of alcohol-related DVLA issues is poor among hospital doctors. The Royal College of General Practitioners (Scotland) was invited to participate but declined this opportunity. General practitioners form a key professional group regarding health issues and driving. This lack of knowledge in &#x02018;recovering alcoholics&#x02019; may reflect a number of elements, including lack of knowledge in health professionals, lack of willingness of health professionals to discuss the issue or lack of recollection from the individuals themselves. In addition, it is possible that health professionals who are aware of the appropriate advice are unwilling to discuss the topic in case it would adversely affect their relationship with the patient.<sup><xref rid="R10" ref-type="bibr">10</xref>,<xref rid="R11" ref-type="bibr">11</xref></sup> In particular, there may be a reluctance to raise the issue of driving in case this becomes a disincentive for patients to be open about their drinking.</p><p id="P14">The DVLA guidelines<sup><xref rid="R8" ref-type="bibr">8</xref></sup> give advice on a number of medical conditions that may affect driving, including diabetes mellitus, epilepsy, sleep apnoea, dementia, psychiatric disorders, as well as alcohol misuse and alcohol dependency. If a patient is admitted with a &#x02018;first&#x02019; seizure, most doctors and health professionals would know to advise the patient that they may not drive for a year.<sup><xref rid="R12" ref-type="bibr">12</xref></sup> In addition, if a patient is started on insulin therapy, then most doctors and health professionals, particularly those associated with the management of diabetes,<sup><xref rid="R13" ref-type="bibr">13</xref></sup> would know that they should advise their patient to inform the DVLA.</p><p id="P15">The definition of alcohol misuse used by the DVLA &#x02013; &#x02018;A state which, because of consumption of alcohol, causes disturbance of behaviour, related disease or other consequences, likely to cause the patient, his/her family or society harm now, or in the future, and which may or may not be associated with dependency&#x02019;<sup><xref rid="R8" ref-type="bibr">8</xref></sup> &#x02013; is helpful but can be difficult to interpret in the context of dealing with patients in an acute medical setting. The definition of alcohol dependence used by the DVLA &#x02013; &#x02018;A cluster of behavioural, cognitive and physiological phenomena that develop after
-<table-wrap id="T2" position="float"><label>Table 2</label><caption><p>Notifications to DVLA on UK licence holders with alcohol misuse or alcohol dependence from all sources, 2006&#x02013;2011<xref rid="R19" ref-type="bibr">19</xref></p></caption><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" valign="bottom" span="1"/><col align="right" valign="bottom" span="1"/><col align="right" valign="bottom" span="1"/><col align="right" valign="bottom" span="1"/><col align="right" valign="bottom" span="1"/><col align="right" valign="bottom" span="1"/><col align="right" valign="bottom" span="1"/></colgroup><thead><tr><th rowspan="1" colspan="1"/><th rowspan="1" colspan="1">2006</th><th rowspan="1" colspan="1">2007</th><th rowspan="1" colspan="1">2008</th><th rowspan="1" colspan="1">2009</th><th rowspan="1" colspan="1">2010</th><th rowspan="1" colspan="1">2011</th></tr></thead><tbody><tr><td rowspan="1" colspan="1">Self-reported</td><td rowspan="1" colspan="1">378</td><td rowspan="1" colspan="1">1268</td><td rowspan="1" colspan="1">1265</td><td rowspan="1" colspan="1">1176</td><td rowspan="1" colspan="1">1974</td><td rowspan="1" colspan="1">2548</td></tr><tr><td rowspan="1" colspan="1"><hr/></td><td rowspan="1" colspan="1"><hr/></td><td rowspan="1" colspan="1"><hr/></td><td rowspan="1" colspan="1"><hr/></td><td rowspan="1" colspan="1"><hr/></td><td rowspan="1" colspan="1"><hr/></td><td rowspan="1" colspan="1"><hr/></td></tr><tr><td rowspan="1" colspan="1">Other (e.g. reported by <break/> doctor, family member)</td><td rowspan="1" colspan="1">41</td><td rowspan="1" colspan="1">26</td><td rowspan="1" colspan="1">52</td><td rowspan="1" colspan="1">24</td><td rowspan="1" colspan="1">83</td><td rowspan="1" colspan="1">168</td></tr></tbody></table><table-wrap-foot><fn id="TFN2"><p>DVLA, Driver &#x00026; Vehicle Licensing Agency.</p></fn></table-wrap-foot></table-wrap>
-repeated alcohol use and which include a strong desire to take alcohol, difficulties in controlling its use, persistence in its use despite harmful consequences, with evidence of increased tolerance and sometimes a physical withdrawal state&#x02019;<sup><xref rid="R8" ref-type="bibr">8</xref></sup> &#x02013; is much clearer and, particularly in relation to alcohol withdrawal, much easier to implement clinically. If more hospital doctors were aware of the DVLA repercussions of making the diagnosis of alcohol dependence or misuse, it may make the use of alcohol withdrawal regimens more problematic. For example, the Clinical Institute Withdrawal Assessment &#x02013; Alcohol (CIWA&#x02013;A) scale<sup><xref rid="R14" ref-type="bibr">14</xref></sup> is commonly used in alcohol withdrawal situations in medical wards. Perfunctory attention to the history and frequent overreliance on unsubstantiated alcohol use can lead doctors to the inappropriate use of CIWA-A, which could have significant consequences on lifestyle and driving advice they give their patients.<sup><xref rid="R15" ref-type="bibr">15</xref></sup></p><p id="P16">The responsibility for ensuring that the patient informs the DVLA lies with the licence holder. The guidelines for fitness to drive are available on the DVLA website (<uri xlink:type="simple" xlink:href="www.dvla.gov.uk">www.dvla.gov.uk</uri>) and are revised every few months. The website states that the General Medical Council (GMC) has issued clear guidelines to doctors with regard to their responsibility to the DVLA:<sup><xref rid="R16" ref-type="bibr">16</xref></sup> &#x02018;the DVLA is legally responsible for deciding if a person is medically unfit to drive. They need to know when the driving licence holders have a condition, which may, now or in the future, affect their safety as a driver&#x02019;. It also states that if a patient has such a condition, the doctor should &#x02018;make sure that the patients understand that the condition may impair their ability to drive&#x02019; and &#x02018;explain to patients that they have a legal duty to inform the DVLA about their condition&#x02019;. In addition, it states that doctors can &#x02018;suggest that the patient seek a second medical opinion, and make the appropriate arrangements for the patient to do so&#x02019; if the patient is unwilling to accept the diagnosis (personal communication, DVLA freedom of information request responses 2010/2011). Patients who fail to notify the DVLA of a medical condition without reasonable excuse are guilty of an offence. Failure to notify the DVLA also invalidates their motor insurance cover. Current notification levels of alcohol misuse and alcohol dependency received by the DVLA are very low (<xref ref-type="table" rid="T2">Table 2</xref>). A small number are also reported through a third party (which may be family, friend, health professional, etc.).</p><sec id="S6"><title>Situation in Scotland</title><p id="P17">In the Scottish population, the estimated prevalence of alcohol dependence at 4.9% and of harmful and hazardous use at 27.9% indicates around 20 000 people with dependence and over a million with harmful or hazardous use.<sup><xref rid="R17" ref-type="bibr">17</xref></sup> A high proportion of these are likely to be driving licence holders since approximately 86% of the UK adult population has a driving licence of some sort, with 73% being full UK licences.<sup><xref rid="R18" ref-type="bibr">18</xref></sup> Most licence holders obtain their licence in young adulthood, before alcohol dependence develops. Therefore it is not unreasonable to estimate that there may be in excess of 150 000 licence holders with alcohol dependence in Scotland alone and a further 700 000 licence holders with harmful or hazardous use of alcohol. This represents an enormous cohort of people who should be reporting their alcohol problems to the DVLA. The Department for Transport report on the attitudes of health professionals giving advice on fitness to drive (including for people with alcohol and drug misuse and dependency) contains a series of recommendations for improving such advice.<sup><xref rid="R19" ref-type="bibr">19</xref></sup> Key among these are recommendations on the inclusion of a question on fitness to drive in the exit examination for all relevant medical specialties, the creation of clear, well-signposted guidelines for use in general practice and the production of a clear flowchart for common medical conditions to which healthcare practitioners can refer.</p></sec><sec id="S7"><title>Limitations</title><p id="P18">There were some limitations to the study. The questionnaires had not been externally validated but the questions were simple, straightforward and easy to understand. We accept that the group of &#x02018;recovering alcoholics&#x02019; questioned involved only a limited number of adults in Ayrshire. AA meetings provided a venue where motivated individuals who had recognised their problem with alcohol were present; it might be considered that their recall of advice would be greater than that of those who chose not to attend AA. Alternative methods for assessing recall of medical advice, such as surveying patients at addiction clinics, could have suffered from bias as the clinic staff became aware of the study. A presumption was made that none of the attendees experienced alcohol-related brain damage or other memory loss syndrome and could recall accurately the discussions that they had had with their medical advisers about their drinking. The study demonstrated non-existent knowledge of the DVLA regulations relating to alcohol dependence and misuse among a group of &#x02018;recovering alcoholics&#x02019; plus a poor level of knowledge in a group of senior doctors. Very importantly, the figures obtained from the DVLA indicate very low levels of self-reporting. During the 2011/2012 period there were 38 737 alcohol-related hospital discharges in Scotland<sup><xref rid="R20" ref-type="bibr">20</xref></sup> and almost 97 830 alcohol brief interventions completed,<sup><xref rid="R21" ref-type="bibr">21</xref></sup> which give numerous opportunities for alcohol advice. If the DVLA regulations were implemented, it could make an enormous difference to the understanding and behaviours of the driving public.</p></sec></sec></body><back><fn-group><fn fn-type="conflict"><p><bold>Declaration of interest</bold> None.</p></fn></fn-group><ref-list><title>References</title><ref id="R1"><label>1</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name><surname>Calhoun</surname><given-names>VD</given-names></name><name><surname>Pekar</surname><given-names>JJ</given-names></name><name><surname>Pearlson</surname><given-names>GD</given-names></name></person-group>
-<article-title>Alcohol intoxication effects on simulated driving: exploring alcohol-dose effects on brain activation using functional MRI</article-title>. <source>Neuropsychopharmacology</source>
-<year>2004</year>; <volume>29</volume>: <fpage>2097</fpage>&#x02013;<lpage>17</lpage>.
-<pub-id pub-id-type="pmid">15316570</pub-id></mixed-citation></ref><ref id="R2"><label>2</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name><surname>Mitchell</surname><given-names>MC</given-names></name></person-group>
-<article-title>Alcohol-induced impairment of central nervous system function: behavioral skills involved in driving</article-title>. <source>J Stud Alcohol Suppl</source>
-<year>1985</year>; <volume>10</volume>: <fpage>109</fpage>&#x02013;<lpage>16</lpage>.
-<pub-id pub-id-type="pmid">3862850</pub-id></mixed-citation></ref><ref id="R3"><label>3</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name><surname>Parker</surname><given-names>ES</given-names></name><name><surname>Alkana</surname><given-names>RL</given-names></name><name><surname>Birnbaum</surname><given-names>IM</given-names></name><name><surname>Hartley</surname><given-names>JT</given-names></name><name><surname>Noble</surname><given-names>EP</given-names></name></person-group>
-<article-title>Alcohol and the disruption of cognitive processes</article-title>. <source>Arch Gen Psychiatry</source>
-<year>1974</year>; <volume>31</volume>: <fpage>8248</fpage>.
-</mixed-citation></ref><ref id="R4"><label>4</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name><surname>Mongrain</surname><given-names>S</given-names></name><name><surname>Standing</surname><given-names>L</given-names></name></person-group>
-<article-title>Impairment of cognition, risk-taking, and self-perception by alcohol</article-title>. <source>Percept Mot Skills</source>
-<year>1989</year>; <volume>69</volume>: <fpage>199</fpage>&#x02013;<lpage>210</lpage>.
-<pub-id pub-id-type="pmid">2780180</pub-id></mixed-citation></ref><ref id="R5"><label>5</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name><surname>Jones</surname><given-names>BM</given-names></name></person-group>
-<article-title>Memory impairment on the ascending and descending limbs of the blood alcohol curve</article-title>. <source>J Abnorm Psychol</source>
-<year>1973</year>; <volume>82</volume>: <fpage>24</fpage>&#x02013;<lpage>32</lpage>.
-<pub-id pub-id-type="pmid">4730653</pub-id></mixed-citation></ref><ref id="R6"><label>6</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name><surname>Tarter</surname><given-names>RE</given-names></name><name><surname>Jones</surname><given-names>BM</given-names></name></person-group>
-<article-title>Motor impairment in chronic alcoholics</article-title>. <source>Nerv Syst Dis</source>
-<year>1971</year>; <volume>32</volume>: <fpage>632</fpage>&#x02013;<lpage>6</lpage>.
-</mixed-citation></ref><ref id="R7"><label>7</label><mixed-citation publication-type="journal">
-<article-title>Directive 2006/126/EC of the European Parliament and of the Council</article-title>. <source>Official J Eur Union</source>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1d3 20150301//EN" "JATS-archivearticle1.dtd">
+<article xmlns:ali="http://www.niso.org/schemas/ali/1.0"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="review-article">    <?properties open_access?>    <?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Publishing DTD v2.3 20070202//EN?>    <?DTDIdentifier.IdentifierType public?>    <?SourceDTD.DTDName journalpublishing.dtd?>    <?SourceDTD.Version 2.3?>    <?ConverterInfo.XSLTName jp2nlmx2.xsl?>    <?ConverterInfo.Version 2?>
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="nlm-ta">BJPsych Bull</journal-id>
+            <journal-id journal-id-type="iso-abbrev">BJPsych Bull</journal-id>
+            <journal-id journal-id-type="hwp">pbrcpsych</journal-id>
+            <journal-title-group>
+                <journal-title>BJPsych Bulletin</journal-title>
+            </journal-title-group>
+            <issn pub-type="ppub">2056-4694</issn>
+            <issn pub-type="epub">2056-4708</issn>
+            <publisher>
+                <publisher-name>Royal College of Psychiatrists</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="pmcid">4495819</article-id>
+            <article-id pub-id-type="doi">10.1192/pb.bp.113.045963</article-id>
+            <article-categories>
+                <subj-group subj-group-type="heading">
+                    <subject>Current Practice</subject>
+                </subj-group>
+            </article-categories>
+            <title-group>
+                <article-title>Alcohol dependence and driving: knowledge of DVLA regulations</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Collier</surname>
+                        <given-names>Andrew</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Watts</surname>
+                        <given-names>Maggie</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A2">2</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Ghosh</surname>
+                        <given-names>Sujoy</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Rice</surname>
+                        <given-names>Peter</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A3">3</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Dewhurst</surname>
+                        <given-names>Neil</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A4">4</xref>
+                </contrib>
+                <aff id="A1">
+                    <label>1</label>Ayr Hospital, Ayr</aff>
+                <aff id="A2">
+                    <label>2</label>Department of Public Health, NHS Ayrshire and Arran</aff>
+                <aff id="A3">
+                    <label>3</label>Stracathro Hospital, Brechin</aff>
+                <aff id="A4">
+                    <label>4</label>Royal College of Physicians, Edinburgh</aff>
+            </contrib-group>
+            <author-notes>
+                <corresp>Correspondence to Andrew Collier (<email>andrew.collier@aaaht.scot.nhs.uk</email>)
+                </corresp>
+                <fn>
+                    <p>
+                        <bold>Professor Andrew Collier</bold> MD, FRCPE is Consultant Physician, Department of Medicine, Ayr Hospital, NHS Ayrshire and Arran, Ayr; <bold>Dr Maggie Watts</bold> MB BS, FFPH is Director of Public Health, NHS Western Isles; <bold>Dr Sujoy Ghosh</bold> MD, FRCPE is Clinical Research Fellow, NHS Ayrshire and Arran; <bold>Dr Peter Rice</bold> MB ChB, FRCPsych, FRCPE is Honorary Consultant Psychiatrist, Tayside Substance Misuse Services, Stracathro Hospital, NHS Tayside, Brechin; <bold>Dr Neil Dewhurst</bold> PRCPE is President, Royal College of Physicians (Edinburgh), Edinburgh.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="ppub">
+                <month>2</month>
+                <year>2015</year>
+            </pub-date>
+            <volume>39</volume>
+            <issue>1</issue>
+            <fpage>35</fpage>
+            <lpage>38</lpage>
+            <history>
+                <date date-type="received">
+                    <day>30</day>
+                    <month>10</month>
+                    <year>2013</year>
+                </date>
+                <date date-type="rev-recd">
+                    <day>7</day>
+                    <month>3</month>
+                    <year>2014</year>
+                </date>
+                <date date-type="accepted">
+                    <day>31</day>
+                    <month>3</month>
+                    <year>2014</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>&#x000a9; 2014 The Authors</copyright-statement>
+                <copyright-year>2014</copyright-year>
+                <license license-type="creative-commons" xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open-access article published by the Royal College of Psychiatrists and distributed under the terms of the Creative Commons Attribution License (<uri xlink:type="simple" xlink:href="http://creativecommons.org/licenses/by/4.0">http://creativecommons.org/licenses/by/4.0</uri>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <self-uri xlink:title="pdf" xlink:type="simple" xlink:href="35.pdf" />
+            <abstract>
+                <p id="P1">
+                    <bold>Aims and Methods</bold> The UK&#x02019;s Driver Vehicle Licensing Authority (DVLA) requires individuals to report if they have a medical condition such as alcohol dependence. General Medical Council guidance indicates that medical practitioners should ensure patients are aware of their impairment and requirement to notify the DVLA.</p>
+                <p id="P2">
+                    <bold>Results</bold> In a survey of 246 people with known alcohol dependence, none were aware of advice on driving given by medical practitioners and none had self-reported. In addition, 362 doctors, either attending a college symposium or visiting a college website, were asked about their knowledge of DVLA regulations regarding alcohol dependence: 73% of those attending the symposium and 63% of those visiting the website answered incorrectly. In Scotland, over 20 000 people have alcohol dependence (over 1 million people with alcohol abuse), yet only 2548 people with alcohol problems self-reported to the DVLA in 2011.</p>
+                <p id="P3">
+                    <bold>Clinical implications</bold> If the DVLA regulations were implemented, it could make an enormous difference to the behaviours of the driving public.</p>
+            </abstract>
+        </article-meta>
+    </front>
+    <body>
+        <p id="P4">The dangers of driving while under the influence of alcohol are well known. Alcohol remains a significant public health risk and has been identified as the most important factor contributing to the occurrence of severe to fatal automobile crashes.<sup>
+            <xref rid="R1" ref-type="bibr">1</xref>
+        </sup> Acute alcohol intoxication affects the behavioural and coordinating functions necessary for driving.<sup>
+        <xref rid="R2" ref-type="bibr">2</xref>
+    </sup> Alcohol consumption at lower levels also interferes with performance on neurological and psychological tasks,<sup>
+    <xref rid="R3" ref-type="bibr">3</xref>
+</sup> which include a wide variety of cognitive processes,<sup>
+<xref rid="R4" ref-type="bibr">4</xref>
+</sup> affects immediate memory span and short-term memory<sup>
+<xref rid="R5" ref-type="bibr">5</xref>
+</sup> as well as motor speed and coordination.<sup>
+<xref rid="R6" ref-type="bibr">6</xref>
+</sup>
+</p>
+<p id="P5">Driver licensing in Great Britain is governed by the third European Commission Directive on the Driving Licence.<sup>
+<xref rid="R7" ref-type="bibr">7</xref>
+</sup> Annex III of the directive provides the minimum medical standards for driving expected across all member states. It states: &#x02018;Driving licences shall not be issued to, or renewed for, applicants or drivers who are dependent on alcohol or unable to refrain from drinking and driving. After a proven period of abstinence and subject to authorised medical opinion and regular medical check-ups, driving licences may be issued to, or renewed for, applicant or drivers who have in the past been dependent on alcohol&#x02019;.<sup>
+<xref rid="R7" ref-type="bibr">7</xref>
+</sup> The persistent misuse of drugs or alcohol, whether or not misuse amounts to dependency, is a relevant disability in the Motor Vehicles (Driving Licences) Regulations 1999.</p>
+<p id="P6">Guidance from the Driver and Vehicle Licensing Agency (DVLA) states that persistent alcohol misuse requires licence revocation or refusal until a minimum 6-month period of controlled drinking or abstinence has been obtained, with normalisation of blood parameters. Alcohol dependency requires licence revocation or refusal until a 1-year period free from alcohol problems.<sup>
+<xref rid="R8" ref-type="bibr">8</xref>
+</sup> Abstinence will normally be required and medical reports from the driver&#x02019;s general practitioner (GP) are necessary, usually in conjunction with an independent medical report.</p>
+<p id="P7">The aim of this study was to ascertain the knowledge of &#x02018;recovering alcoholics&#x02019; of the DVLA regulations related to driving a car while still &#x02018;actively drinking&#x02019; and whether they could recollect whether their health professional had given them appropriate advice. In addition, a total of 362 senior doctors, either attending a Royal College of Physicians (Edinburgh) symposium or visiting a Royal College of Physicians (Edinburgh)/Royal College of Psychiatrists (Scotland) website, were asked about their knowledge of DVLA regulations and alcohol dependence. The terms &#x02018;recovering alcoholics&#x02019; and &#x02018;actively drinking&#x02019; are recognised and regularly used by Alcoholics Anonymous.<sup>
+<xref rid="R9" ref-type="bibr">9</xref>
+</sup>
+</p>
+<sec sec-type="methods" id="S1">
+<title>Method</title>
+<sec id="S2">
+<title>Patients</title>
+<p id="P8">In total, 246 &#x02018;recovering alcoholics&#x02019; attending five different Alcoholics Anonymous (AA) meetings in Ayrshire, Scotland were surveyed during 2011. The individuals surveyed had all previously been heavy consumers of alcohol (&#x0003e; 100 units/week). They had attended AA meetings regularly for over 6 months and by self-report had been free of any alcoholic intake for at least this period. Membership of the Fellowship of AA is described in Tradition 3: &#x02018;The only requirement for A.A. membership is a desire to stop drinking&#x02019;.<sup>
+<xref rid="R9" ref-type="bibr">9</xref>
+</sup> (Traditions and &#x02018;Steps&#x02019; are the foundation of AA.) Of the sample, 194 (79%) were male and the ages ranged from 21 to 80 years, median 57 years. As anonymity is a very important aspect of AA, further demographic detail was not collected. All individuals questioned were in possession of a current driving licence and had the willingness and apparent capacity to provide consent for participation in the survey. They were asked to complete a brief, anonymous questionnaire (unsupervised) about their knowledge of DVLA regulations and about the information that they had been given by health professionals. Those involved in any drink driving offences were excluded. The survey was undertaken with the full knowledge of Fellowship of AA. However, as according to the AA Tradition 6: &#x02018;Our groups ought never endorse, finance or lend our name to any related facility or outside enterprise, lest problems of money, property and prestige divert us from our primary purpose&#x02019;,<sup>
+<xref rid="R9" ref-type="bibr">9</xref>
+</sup> the work was conducted independently of the Fellowship. The questionnaires were distributed to members for completion before or immediately after AA meetings (<xref ref-type="table" rid="T1">Table 1</xref>).
+</p>
+<table-wrap id="T1" position="float">
+<label>Table 1</label>
+<caption>
+<p>Participant survey results</p>
+</caption>
+<table frame="hsides" rules="groups">
+<colgroup span="1">
+<col align="left" valign="top" span="1" />
+<col align="center" valign="top" span="1" />
+</colgroup>
+<thead>
+<tr>
+<th rowspan="1" colspan="1">Question</th>
+<th rowspan="1" colspan="1">Yes, <italic>n</italic> (%)
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">1 Are you a recovering alcoholic?</td>
+<td rowspan="1" colspan="1">246 (100)</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<hr />
+</td>
+<td rowspan="1" colspan="1">
+<hr />
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">2 Do you hava a driving licence?</td>
+<td rowspan="1" colspan="1">246 (100)</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<hr />
+</td>
+<td rowspan="1" colspan="1">
+<hr />
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">3 Do you drive a car?</td>
+<td rowspan="1" colspan="1">246 (100)</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<hr />
+</td>
+<td rowspan="1" colspan="1">
+<hr />
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">4 Did you problems with alcohol lead you to see your GP?</td>
+<td rowspan="1" colspan="1">185 (71)</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<hr />
+</td>
+<td rowspan="1" colspan="1">
+<hr />
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">5 Do you recollect your GP giving you any advice about driving?</td>
+<td rowspan="1" colspan="1">0</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<hr />
+</td>
+<td rowspan="1" colspan="1">
+<hr />
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">6 Have you ever been admitted to hospital due to your alcohol problems?</td>
+<td rowspan="1" colspan="1">137 (56)</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<hr />
+</td>
+<td rowspan="1" colspan="1">
+<hr />
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">7 When you were in hospital do you recollect getting any advice about driving?</td>
+<td rowspan="1" colspan="1">0</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<hr />
+</td>
+<td rowspan="1" colspan="1">
+<hr />
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">8 Do you recollect if your GP or a hospital doctor have ever asked you/told you to stop driving?</td>
+<td rowspan="1" colspan="1">0</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<hr />
+</td>
+<td rowspan="1" colspan="1">
+<hr />
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">9 Have you ever informed the DVLA that you have/had a problem with alcohol?</td>
+<td rowspan="1" colspan="1">0</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<hr />
+</td>
+<td rowspan="1" colspan="1">
+<hr />
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">10 Do you think that it would be sensible/reasonable to be told not to drive if you still had an active problem <break />
+with drinking?</td>
+<td rowspan="1" colspan="1">223 (91)</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<hr />
+</td>
+<td rowspan="1" colspan="1">
+<hr />
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">11 Have you ever driven a car knowing that you were under the influence of alcohol/were over the limit <break />
+ (including the morning after)?</td>
+<td rowspan="1" colspan="1">246 (100)</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<hr />
+</td>
+<td rowspan="1" colspan="1">
+<hr />
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">12 Have you ever driven a car when you were withdrawing from alcohol?</td>
+<td rowspan="1" colspan="1">194 (79)</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<hr />
+</td>
+<td rowspan="1" colspan="1">
+<hr />
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">13 Did you ever stop driving or think of not driving while still actively drinking?</td>
+<td rowspan="1" colspan="1">103 (42)</td>
+</tr>
+</tbody>
+</table>
+<table-wrap-foot>
+<fn id="TFN1">
+<p>GP, general practitioner.</p>
+</fn>
+</table-wrap-foot>
+</table-wrap>
+</sec>
+<sec id="S3">
+<title>Doctors</title>
+<p id="P9">There were nine questions posed to doctors at the symposium and online: three were based on alcohol-related problems, three on cardiology, two on psychiatric issues and one on diabetes. Of the physicians who attended the Royal College of Physicians (Edinburgh) symposium, 292 took part in the survey and 70 doctors did so online.</p>
+<p id="P10">The alcohol and driving question stated: &#x02018;If a patient is admitted to hospital with an alcohol dependence problem (requiring benzodiazepine treatment for withdrawal symptoms) the patient must be advised to inform the DVLA, who will revoke their licence for a year&#x02019;. Respondents could answer that this was true, false or that they did not know the answer.</p>
+</sec>
+</sec>
+<sec sec-type="results" id="S4">
+<title>Results</title>
+<p id="P11">The 246 &#x02018;recovering alcoholics&#x02019; answered all 13 questions (<xref ref-type="table" rid="T1">Table 1</xref>). All 246 had a driving licence and drove a car; 185 (71%) went to see their GP with an alcohol problem and 137 (56%) were admitted to hospital with alcohol problems. None recollected their GP or a hospital doctor asking them to stop driving. In addition, none had informed the DVLA that they had a problem with alcohol.</p>
+<p id="P12">At the symposium, 73% physicians answered the question incorrectly and on the website 62% of physicians and psychiatrists gave an incorrect answer; 9% of those at the symposium indicated that they did not know the answer. With regard to questions on alcohol-related seizures and alcohol misuse, 64% and 62% respectively answered incorrectly. The other non-alcohol related questions demonstrated a higher level of knowledge among the symposium audience (13&#x02013;42% incorrect).</p>
+</sec>
+<sec sec-type="discussion" id="S5">
+<title>Discussion</title>
+<p id="P13">This study has shown that awareness of individual responsibility among recovering alcohol-dependent individuals is low and recollection of discussion with health professionals about driving is non-existent. The people we surveyed were regular attendees of AA meetings. This is likely to be a group who have developed a high level of understanding and insight into their alcohol problem and would be willing to engage in open discussion with doctors. A few specialist alcohol services in Scotland provide written information to newly referred patients alerting them to their responsibilities regarding the DVLA, but it is not known whether patients recall this (in the short or long term) and clearly very few act on the advice. It is also probable that a significant proportion of health professionals are not aware of the advice that they should be giving in relation to driving and alcohol dependency and alcohol misuse. These small but significant doctor surveys reflect that knowledge of alcohol-related DVLA issues is poor among hospital doctors. The Royal College of General Practitioners (Scotland) was invited to participate but declined this opportunity. General practitioners form a key professional group regarding health issues and driving. This lack of knowledge in &#x02018;recovering alcoholics&#x02019; may reflect a number of elements, including lack of knowledge in health professionals, lack of willingness of health professionals to discuss the issue or lack of recollection from the individuals themselves. In addition, it is possible that health professionals who are aware of the appropriate advice are unwilling to discuss the topic in case it would adversely affect their relationship with the patient.<sup>
+<xref rid="R10" ref-type="bibr">10</xref>,<xref rid="R11" ref-type="bibr">11</xref>
+</sup> In particular, there may be a reluctance to raise the issue of driving in case this becomes a disincentive for patients to be open about their drinking.</p>
+<p id="P14">The DVLA guidelines<sup>
+<xref rid="R8" ref-type="bibr">8</xref>
+</sup> give advice on a number of medical conditions that may affect driving, including diabetes mellitus, epilepsy, sleep apnoea, dementia, psychiatric disorders, as well as alcohol misuse and alcohol dependency. If a patient is admitted with a &#x02018;first&#x02019; seizure, most doctors and health professionals would know to advise the patient that they may not drive for a year.<sup>
+<xref rid="R12" ref-type="bibr">12</xref>
+</sup> In addition, if a patient is started on insulin therapy, then most doctors and health professionals, particularly those associated with the management of diabetes,<sup>
+<xref rid="R13" ref-type="bibr">13</xref>
+</sup> would know that they should advise their patient to inform the DVLA.</p>
+<p id="P15">The definition of alcohol misuse used by the DVLA &#x02013; &#x02018;A state which, because of consumption of alcohol, causes disturbance of behaviour, related disease or other consequences, likely to cause the patient, his/her family or society harm now, or in the future, and which may or may not be associated with dependency&#x02019;<sup>
+<xref rid="R8" ref-type="bibr">8</xref>
+</sup> &#x02013; is helpful but can be difficult to interpret in the context of dealing with patients in an acute medical setting. The definition of alcohol dependence used by the DVLA &#x02013; &#x02018;A cluster of behavioural, cognitive and physiological phenomena that develop after
+<table-wrap id="T2" position="float">
+<label>Table 2</label>
+<caption>
+<p>Notifications to DVLA on UK licence holders with alcohol misuse or alcohol dependence from all sources, 2006&#x02013;2011<xref rid="R19" ref-type="bibr">19</xref>
+</p>
+</caption>
+<table frame="hsides" rules="groups">
+<colgroup span="1">
+<col align="left" valign="bottom" span="1" />
+<col align="right" valign="bottom" span="1" />
+<col align="right" valign="bottom" span="1" />
+<col align="right" valign="bottom" span="1" />
+<col align="right" valign="bottom" span="1" />
+<col align="right" valign="bottom" span="1" />
+<col align="right" valign="bottom" span="1" />
+</colgroup>
+<thead>
+<tr>
+<th rowspan="1" colspan="1" />
+<th rowspan="1" colspan="1">2006</th>
+<th rowspan="1" colspan="1">2007</th>
+<th rowspan="1" colspan="1">2008</th>
+<th rowspan="1" colspan="1">2009</th>
+<th rowspan="1" colspan="1">2010</th>
+<th rowspan="1" colspan="1">2011</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">Self-reported</td>
+<td rowspan="1" colspan="1">378</td>
+<td rowspan="1" colspan="1">1268</td>
+<td rowspan="1" colspan="1">1265</td>
+<td rowspan="1" colspan="1">1176</td>
+<td rowspan="1" colspan="1">1974</td>
+<td rowspan="1" colspan="1">2548</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<hr />
+</td>
+<td rowspan="1" colspan="1">
+<hr />
+</td>
+<td rowspan="1" colspan="1">
+<hr />
+</td>
+<td rowspan="1" colspan="1">
+<hr />
+</td>
+<td rowspan="1" colspan="1">
+<hr />
+</td>
+<td rowspan="1" colspan="1">
+<hr />
+</td>
+<td rowspan="1" colspan="1">
+<hr />
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">Other (e.g. reported by <break />
+ doctor, family member)</td>
+<td rowspan="1" colspan="1">41</td>
+<td rowspan="1" colspan="1">26</td>
+<td rowspan="1" colspan="1">52</td>
+<td rowspan="1" colspan="1">24</td>
+<td rowspan="1" colspan="1">83</td>
+<td rowspan="1" colspan="1">168</td>
+</tr>
+</tbody>
+</table>
+<table-wrap-foot>
+<fn id="TFN2">
+<p>DVLA, Driver &#x00026; Vehicle Licensing Agency.</p>
+</fn>
+</table-wrap-foot>
+</table-wrap>
+repeated alcohol use and which include a strong desire to take alcohol, difficulties in controlling its use, persistence in its use despite harmful consequences, with evidence of increased tolerance and sometimes a physical withdrawal state&#x02019;<sup>
+<xref rid="R8" ref-type="bibr">8</xref>
+</sup> &#x02013; is much clearer and, particularly in relation to alcohol withdrawal, much easier to implement clinically. If more hospital doctors were aware of the DVLA repercussions of making the diagnosis of alcohol dependence or misuse, it may make the use of alcohol withdrawal regimens more problematic. For example, the Clinical Institute Withdrawal Assessment &#x02013; Alcohol (CIWA&#x02013;A) scale<sup>
+<xref rid="R14" ref-type="bibr">14</xref>
+</sup> is commonly used in alcohol withdrawal situations in medical wards. Perfunctory attention to the history and frequent overreliance on unsubstantiated alcohol use can lead doctors to the inappropriate use of CIWA-A, which could have significant consequences on lifestyle and driving advice they give their patients.<sup>
+<xref rid="R15" ref-type="bibr">15</xref>
+</sup>
+</p>
+<p id="P16">The responsibility for ensuring that the patient informs the DVLA lies with the licence holder. The guidelines for fitness to drive are available on the DVLA website (<uri xlink:type="simple" xlink:href="www.dvla.gov.uk">www.dvla.gov.uk</uri>) and are revised every few months. The website states that the General Medical Council (GMC) has issued clear guidelines to doctors with regard to their responsibility to the DVLA:<sup>
+<xref rid="R16" ref-type="bibr">16</xref>
+</sup> &#x02018;the DVLA is legally responsible for deciding if a person is medically unfit to drive. They need to know when the driving licence holders have a condition, which may, now or in the future, affect their safety as a driver&#x02019;. It also states that if a patient has such a condition, the doctor should &#x02018;make sure that the patients understand that the condition may impair their ability to drive&#x02019; and &#x02018;explain to patients that they have a legal duty to inform the DVLA about their condition&#x02019;. In addition, it states that doctors can &#x02018;suggest that the patient seek a second medical opinion, and make the appropriate arrangements for the patient to do so&#x02019; if the patient is unwilling to accept the diagnosis (personal communication, DVLA freedom of information request responses 2010/2011). Patients who fail to notify the DVLA of a medical condition without reasonable excuse are guilty of an offence. Failure to notify the DVLA also invalidates their motor insurance cover. Current notification levels of alcohol misuse and alcohol dependency received by the DVLA are very low (<xref ref-type="table" rid="T2">Table 2</xref>). A small number are also reported through a third party (which may be family, friend, health professional, etc.).</p>
+<sec id="S6">
+<title>Situation in Scotland</title>
+<p id="P17">In the Scottish population, the estimated prevalence of alcohol dependence at 4.9% and of harmful and hazardous use at 27.9% indicates around 20 000 people with dependence and over a million with harmful or hazardous use.<sup>
+<xref rid="R17" ref-type="bibr">17</xref>
+</sup> A high proportion of these are likely to be driving licence holders since approximately 86% of the UK adult population has a driving licence of some sort, with 73% being full UK licences.<sup>
+<xref rid="R18" ref-type="bibr">18</xref>
+</sup> Most licence holders obtain their licence in young adulthood, before alcohol dependence develops. Therefore it is not unreasonable to estimate that there may be in excess of 150 000 licence holders with alcohol dependence in Scotland alone and a further 700 000 licence holders with harmful or hazardous use of alcohol. This represents an enormous cohort of people who should be reporting their alcohol problems to the DVLA. The Department for Transport report on the attitudes of health professionals giving advice on fitness to drive (including for people with alcohol and drug misuse and dependency) contains a series of recommendations for improving such advice.<sup>
+<xref rid="R19" ref-type="bibr">19</xref>
+</sup> Key among these are recommendations on the inclusion of a question on fitness to drive in the exit examination for all relevant medical specialties, the creation of clear, well-signposted guidelines for use in general practice and the production of a clear flowchart for common medical conditions to which healthcare practitioners can refer.</p>
+</sec>
+<sec id="S7">
+<title>Limitations</title>
+<p id="P18">There were some limitations to the study. The questionnaires had not been externally validated but the questions were simple, straightforward and easy to understand. We accept that the group of &#x02018;recovering alcoholics&#x02019; questioned involved only a limited number of adults in Ayrshire. AA meetings provided a venue where motivated individuals who had recognised their problem with alcohol were present; it might be considered that their recall of advice would be greater than that of those who chose not to attend AA. Alternative methods for assessing recall of medical advice, such as surveying patients at addiction clinics, could have suffered from bias as the clinic staff became aware of the study. A presumption was made that none of the attendees experienced alcohol-related brain damage or other memory loss syndrome and could recall accurately the discussions that they had had with their medical advisers about their drinking. The study demonstrated non-existent knowledge of the DVLA regulations relating to alcohol dependence and misuse among a group of &#x02018;recovering alcoholics&#x02019; plus a poor level of knowledge in a group of senior doctors. Very importantly, the figures obtained from the DVLA indicate very low levels of self-reporting. During the 2011/2012 period there were 38 737 alcohol-related hospital discharges in Scotland<sup>
+<xref rid="R20" ref-type="bibr">20</xref>
+</sup> and almost 97 830 alcohol brief interventions completed,<sup>
+<xref rid="R21" ref-type="bibr">21</xref>
+</sup> which give numerous opportunities for alcohol advice. If the DVLA regulations were implemented, it could make an enormous difference to the understanding and behaviours of the driving public.</p>
+</sec>
+</sec>
+</body>
+<back>
+<fn-group>
+<fn fn-type="conflict">
+<p>
+<bold>Declaration of interest</bold> None.</p>
+</fn>
+</fn-group>
+<ref-list>
+<title>References</title>
+<ref id="R1">
+<label>1</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Calhoun</surname>
+<given-names>VD</given-names>
+</name>
+<name>
+<surname>Pekar</surname>
+<given-names>JJ</given-names>
+</name>
+<name>
+<surname>Pearlson</surname>
+<given-names>GD</given-names>
+</name>
+</person-group>
+<article-title>Alcohol intoxication effects on simulated driving: exploring alcohol-dose effects on brain activation using functional MRI</article-title>.<source>Neuropsychopharmacology</source>
+<year>2004</year>;<volume>29</volume>:<fpage>2097</fpage>&#x02013;<lpage>17</lpage>.
+<pub-id pub-id-type="pmid">15316570</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R2">
+<label>2</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Mitchell</surname>
+<given-names>MC</given-names>
+</name>
+</person-group>
+<article-title>Alcohol-induced impairment of central nervous system function: behavioral skills involved in driving</article-title>.<source>J Stud Alcohol Suppl</source>
+<year>1985</year>;<volume>10</volume>:<fpage>109</fpage>&#x02013;<lpage>16</lpage>.
+<pub-id pub-id-type="pmid">3862850</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R3">
+<label>3</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Parker</surname>
+<given-names>ES</given-names>
+</name>
+<name>
+<surname>Alkana</surname>
+<given-names>RL</given-names>
+</name>
+<name>
+<surname>Birnbaum</surname>
+<given-names>IM</given-names>
+</name>
+<name>
+<surname>Hartley</surname>
+<given-names>JT</given-names>
+</name>
+<name>
+<surname>Noble</surname>
+<given-names>EP</given-names>
+</name>
+</person-group>
+<article-title>Alcohol and the disruption of cognitive processes</article-title>.<source>Arch Gen Psychiatry</source>
+<year>1974</year>;<volume>31</volume>:<fpage>8248</fpage>.
+</mixed-citation>
+</ref>
+<ref id="R4">
+<label>4</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Mongrain</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Standing</surname>
+<given-names>L</given-names>
+</name>
+</person-group>
+<article-title>Impairment of cognition, risk-taking, and self-perception by alcohol</article-title>.<source>Percept Mot Skills</source>
+<year>1989</year>;<volume>69</volume>:<fpage>199</fpage>&#x02013;<lpage>210</lpage>.
+<pub-id pub-id-type="pmid">2780180</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R5">
+<label>5</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Jones</surname>
+<given-names>BM</given-names>
+</name>
+</person-group>
+<article-title>Memory impairment on the ascending and descending limbs of the blood alcohol curve</article-title>.<source>J Abnorm Psychol</source>
+<year>1973</year>;<volume>82</volume>:<fpage>24</fpage>&#x02013;<lpage>32</lpage>.
+<pub-id pub-id-type="pmid">4730653</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R6">
+<label>6</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Tarter</surname>
+<given-names>RE</given-names>
+</name>
+<name>
+<surname>Jones</surname>
+<given-names>BM</given-names>
+</name>
+</person-group>
+<article-title>Motor impairment in chronic alcoholics</article-title>.<source>Nerv Syst Dis</source>
+<year>1971</year>;<volume>32</volume>:<fpage>632</fpage>&#x02013;<lpage>6</lpage>.
+</mixed-citation>
+</ref>
+<ref id="R7">
+<label>7</label>
+<mixed-citation publication-type="journal">
+<article-title>Directive 2006/126/EC of the European Parliament and of the Council</article-title>.<source>Official J Eur Union</source>
 <comment>30.12.2006</comment>.
-</mixed-citation></ref><ref id="R8"><label>8</label><mixed-citation publication-type="book">
-<source>Driver and Vehicle Licensing Agency. At a glance guide to the current medical standards of fitness to drive</source>. <publisher-name>DVLA</publisher-name>, <year>2009</year>
-<comment>(<uri xlink:type="simple" xlink:href="http://www.gov.uk/government/publications/at-a-glance">http://www.gov.uk/government/publications/at-a-glance</uri>)</comment>.
-</mixed-citation></ref><ref id="R9"><label>9</label><mixed-citation publication-type="book">
-<collab>Alcoholics Anonymous</collab>. <source>The Story of How Many Thousands of Men and Women Have Recovered from Alcoholism: &#x02018;The Big Book&#x02019;</source> (<edition>4th edn</edition>). <publisher-name>Alcoholics Anonymous</publisher-name>, <year>2003</year>.
-</mixed-citation></ref><ref id="R10"><label>10</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name><surname>Thompson</surname><given-names>P</given-names></name><name><surname>Nelson</surname><given-names>D</given-names></name></person-group>
-<article-title>DVLA regulations concerning driving and psychiatric disorders: knowledge and attitudes of psychiatrists</article-title>. <source>Psychiatr Bull</source>
-<year>1996</year>; <volume>20</volume>: <fpage>323</fpage>&#x02013;<lpage>5</lpage>.
-</mixed-citation></ref><ref id="R11"><label>11</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name><surname>Wise</surname><given-names>MEJ</given-names></name><name><surname>Watson</surname><given-names>JP</given-names></name></person-group>
-<article-title>Postal survey of psychiatrists&#x02019; knowledge and attitudes towards driving and mental illness</article-title>. <source>Psychiatr Bull</source>
-<year>2001</year>; <volume>25</volume>: <fpage>345</fpage>&#x02013;<lpage>9</lpage>.
-</mixed-citation></ref><ref id="R12"><label>12</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name><surname>Frampton</surname><given-names>A</given-names></name></person-group>
-<article-title>Who can drive home from the emergency department? A questionnaire based study of emergency physicians&#x02019; knowledge of DVLA guidelines</article-title>. <source>Emerg Med J</source>
-<year>2003</year>; <volume>20</volume>: <fpage>526</fpage>&#x02013;<lpage>30</lpage>.
-<pub-id pub-id-type="pmid">14623839</pub-id></mixed-citation></ref><ref id="R13"><label>13</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name><surname>Frier</surname><given-names>BM</given-names></name><name><surname>Steel</surname><given-names>JM</given-names></name><name><surname>Matthews</surname><given-names>DM</given-names></name><name><surname>Duncan</surname><given-names>LJP</given-names></name></person-group>
-<article-title>Driving and insulin-dependent diabetes</article-title>. <source>Lancet</source>
-<year>1980</year>; <volume>i</volume>: <fpage>1232</fpage>&#x02013;<lpage>4</lpage>.
-<pub-id pub-id-type="pmid">6104046</pub-id></mixed-citation></ref><ref id="R14"><label>14</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name><surname>Shaw</surname><given-names>JM</given-names></name><name><surname>Kolesar</surname><given-names>GS</given-names></name><name><surname>Sellers</surname><given-names>EM</given-names></name><name><surname>Kaplan</surname><given-names>HL</given-names></name><name><surname>Sandor</surname><given-names>P</given-names></name></person-group>
-<article-title>Development of optimal treatment tactics for alcohol withdrawal.1. Assessment and effectiveness of supportive care</article-title>. <source>J Clin Psychopharmacol</source>
-<year>1981</year>; <volume>1</volume>: <fpage>382</fpage>&#x02013;<lpage>9</lpage>.
-<pub-id pub-id-type="pmid">7334148</pub-id></mixed-citation></ref><ref id="R15"><label>15</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name><surname>Hecksel</surname><given-names>K</given-names></name><name><surname>Bostwick</surname><given-names>JM</given-names></name><name><surname>Jaeger</surname><given-names>TM</given-names></name><name><surname>Cha</surname><given-names>SS</given-names></name></person-group>
-<article-title>Inappropriate use of symptom-triggered therapy for alcohol withdrawal in the general hospital</article-title>. <source>Mayo Clin Proc</source>
-<year>2008</year>; <volume>83</volume>: <fpage>274</fpage>&#x02013;<lpage>9</lpage>.
-<pub-id pub-id-type="pmid">18315992</pub-id></mixed-citation></ref><ref id="R16"><label>16</label><mixed-citation publication-type="book">
-<collab>General Medical Council</collab>. <source>Confidentiality: Reporting Concerns About Patients to the DVLA</source>. <publisher-name>GMC</publisher-name>, <year>2009</year>.
-</mixed-citation></ref><ref id="R17"><label>17</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><name><surname>Drummond</surname><given-names>C</given-names></name><name><surname>Deluca</surname><given-names>P</given-names></name><name><surname>Oyefeso</surname><given-names>A</given-names></name><name><surname>Rome</surname><given-names>A</given-names></name><name><surname>Scrafton</surname><given-names>S</given-names></name><name><surname>Rice</surname><given-names>P</given-names></name></person-group>
-<source>Scottish Alcohol Needs Assessment</source>. <publisher-name>Institute of Psychiatry, King&#x02019;s College London</publisher-name>, <year>2009</year>.
-</mixed-citation></ref><ref id="R18"><label>18</label><mixed-citation publication-type="webpage">
+</mixed-citation>
+</ref>
+<ref id="R8">
+<label>8</label>
+<mixed-citation publication-type="book">
+<source>Driver and Vehicle Licensing Agency. At a glance guide to the current medical standards of fitness to drive</source>.<publisher-name>DVLA</publisher-name>,<year>2009</year>
+<comment>(<uri xlink:type="simple" xlink:href="http://www.gov.uk/government/publications/at-a-glance">http://www.gov.uk/government/publications/at-a-glance</uri>)
+</comment>.
+</mixed-citation>
+</ref>
+<ref id="R9">
+<label>9</label>
+<mixed-citation publication-type="book">
+<collab>Alcoholics Anonymous</collab>.<source>The Story of How Many Thousands of Men and Women Have Recovered from Alcoholism: &#x02018;The Big Book&#x02019;</source> (<edition>4th edn</edition>).<publisher-name>Alcoholics Anonymous</publisher-name>,<year>2003</year>.
+</mixed-citation>
+</ref>
+<ref id="R10">
+<label>10</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Thompson</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Nelson</surname>
+<given-names>D</given-names>
+</name>
+</person-group>
+<article-title>DVLA regulations concerning driving and psychiatric disorders: knowledge and attitudes of psychiatrists</article-title>.<source>Psychiatr Bull</source>
+<year>1996</year>;<volume>20</volume>:<fpage>323</fpage>&#x02013;<lpage>5</lpage>.
+</mixed-citation>
+</ref>
+<ref id="R11">
+<label>11</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Wise</surname>
+<given-names>MEJ</given-names>
+</name>
+<name>
+<surname>Watson</surname>
+<given-names>JP</given-names>
+</name>
+</person-group>
+<article-title>Postal survey of psychiatrists&#x02019; knowledge and attitudes towards driving and mental illness</article-title>.<source>Psychiatr Bull</source>
+<year>2001</year>;<volume>25</volume>:<fpage>345</fpage>&#x02013;<lpage>9</lpage>.
+</mixed-citation>
+</ref>
+<ref id="R12">
+<label>12</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Frampton</surname>
+<given-names>A</given-names>
+</name>
+</person-group>
+<article-title>Who can drive home from the emergency department? A questionnaire based study of emergency physicians&#x02019; knowledge of DVLA guidelines</article-title>.<source>Emerg Med J</source>
+<year>2003</year>;<volume>20</volume>:<fpage>526</fpage>&#x02013;<lpage>30</lpage>.
+<pub-id pub-id-type="pmid">14623839</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R13">
+<label>13</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Frier</surname>
+<given-names>BM</given-names>
+</name>
+<name>
+<surname>Steel</surname>
+<given-names>JM</given-names>
+</name>
+<name>
+<surname>Matthews</surname>
+<given-names>DM</given-names>
+</name>
+<name>
+<surname>Duncan</surname>
+<given-names>LJP</given-names>
+</name>
+</person-group>
+<article-title>Driving and insulin-dependent diabetes</article-title>.<source>Lancet</source>
+<year>1980</year>;<volume>i</volume>:<fpage>1232</fpage>&#x02013;<lpage>4</lpage>.
+<pub-id pub-id-type="pmid">6104046</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R14">
+<label>14</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Shaw</surname>
+<given-names>JM</given-names>
+</name>
+<name>
+<surname>Kolesar</surname>
+<given-names>GS</given-names>
+</name>
+<name>
+<surname>Sellers</surname>
+<given-names>EM</given-names>
+</name>
+<name>
+<surname>Kaplan</surname>
+<given-names>HL</given-names>
+</name>
+<name>
+<surname>Sandor</surname>
+<given-names>P</given-names>
+</name>
+</person-group>
+<article-title>Development of optimal treatment tactics for alcohol withdrawal.1. Assessment and effectiveness of supportive care</article-title>.<source>J Clin Psychopharmacol</source>
+<year>1981</year>;<volume>1</volume>:<fpage>382</fpage>&#x02013;<lpage>9</lpage>.
+<pub-id pub-id-type="pmid">7334148</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R15">
+<label>15</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Hecksel</surname>
+<given-names>K</given-names>
+</name>
+<name>
+<surname>Bostwick</surname>
+<given-names>JM</given-names>
+</name>
+<name>
+<surname>Jaeger</surname>
+<given-names>TM</given-names>
+</name>
+<name>
+<surname>Cha</surname>
+<given-names>SS</given-names>
+</name>
+</person-group>
+<article-title>Inappropriate use of symptom-triggered therapy for alcohol withdrawal in the general hospital</article-title>.<source>Mayo Clin Proc</source>
+<year>2008</year>;<volume>83</volume>:<fpage>274</fpage>&#x02013;<lpage>9</lpage>.
+<pub-id pub-id-type="pmid">18315992</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R16">
+<label>16</label>
+<mixed-citation publication-type="book">
+<collab>General Medical Council</collab>.<source>Confidentiality: Reporting Concerns About Patients to the DVLA</source>.<publisher-name>GMC</publisher-name>,<year>2009</year>.
+</mixed-citation>
+</ref>
+<ref id="R17">
+<label>17</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Drummond</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Deluca</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Oyefeso</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Rome</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Scrafton</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Rice</surname>
+<given-names>P</given-names>
+</name>
+</person-group>
+<source>Scottish Alcohol Needs Assessment</source>.<publisher-name>Institute of Psychiatry, King&#x02019;s College London</publisher-name>,<year>2009</year>.
+</mixed-citation>
+</ref>
+<ref id="R18">
+<label>18</label>
+<mixed-citation publication-type="webpage">
 <collab>Driver and Vehicle Licensing Agency</collab>
 <comment>(<uri xlink:type="simple" xlink:href="http://www.dft.gov.uk/dvla/pressoffice/stats.asp">http://www.dft.gov.uk/dvla/pressoffice/stats.asp</uri>). Accessed October 2012</comment>.
-</mixed-citation></ref><ref id="R19"><label>19</label><mixed-citation publication-type="book">
-<collab>Department for Transport</collab>. <source><italic>The Attitudes of Health Professionals to Giving Advice on Fitness to Drive</italic> (Road Safety Research Report No. 91)</source>. <publisher-name>Department for Transport</publisher-name>, <year>2010</year>.
-</mixed-citation></ref><ref id="R20"><label>20</label><mixed-citation publication-type="webpage">
-<collab>ISD Scotland</collab>. <source>Alcohol-Related Hospital Statistics Scotland 2011/12</source>
+</mixed-citation>
+</ref>
+<ref id="R19">
+<label>19</label>
+<mixed-citation publication-type="book">
+<collab>Department for Transport</collab>.<source>
+<italic>The Attitudes of Health Professionals to Giving Advice on Fitness to Drive</italic> (Road Safety Research Report No. 91)</source>.<publisher-name>Department for Transport</publisher-name>,<year>2010</year>.
+</mixed-citation>
+</ref>
+<ref id="R20">
+<label>20</label>
+<mixed-citation publication-type="webpage">
+<collab>ISD Scotland</collab>.<source>Alcohol-Related Hospital Statistics Scotland 2011/12</source>
 <comment>(<uri xlink:type="simple" xlink:href="http://www.isdscotland.org/Publications">http://www.isdscotland.org/Publications</uri>). Accessed 11th June 2013</comment>.
-</mixed-citation></ref><ref id="R21"><label>21</label><mixed-citation publication-type="book">
-<collab>The Scottish Government</collab>. <source>Scotland Performs: NHS Scotland (H4: Alcohol Brief Interventions)</source>. <publisher-name>The Scottish Government</publisher-name>
+</mixed-citation>
+</ref>
+<ref id="R21">
+<label>21</label>
+<mixed-citation publication-type="book">
+<collab>The Scottish Government</collab>.<source>Scotland Performs: NHS Scotland (H4: Alcohol Brief Interventions)</source>.<publisher-name>The Scottish Government</publisher-name>
 <comment>(<uri xlink:type="simple" xlink:href="http://www.scotland.gov.uk/About/Performance/scotPerforms/partnerstories/NHSScotlandperformance/alcoholbriefinterventions">http://www. scotland.gov.uk/About/Performance/scotPerforms/partnerstories/NHSScotlandperformance/alcoholbriefinterventions</uri>). Accessed 13th June 2013</comment>.
-</mixed-citation></ref></ref-list></back></article>
+</mixed-citation>
+</ref>
+</ref-list>
+</back>
+</article>

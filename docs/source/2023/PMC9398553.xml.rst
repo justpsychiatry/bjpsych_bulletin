@@ -1,0 +1,316 @@
+===================================================
+Severe COVID-19 increases the risk of schizophrenia
+===================================================
+
+Ancha Baranova
+Hongbao Cao
+Fuquan Zhang⁎Corresponding author at: Department of Psychiatry, The
+Affiliated Brain Hospital of Nanjing Medical University, 264 Guangzhou
+Road, Nanjing 210029, China. [1]_
+:Date: 2022-8-24
+
+:Abstract:
+   The coronavirus SARS-CoV-2 invades the central nervous system,
+   impacting the mental health of COVID-19 patients. We performed a
+   two-sample Mendelian randomization analysis to assess the potential
+   causal effects of COVID-19 on schizophrenia. Our analysis indicated
+   that genetic liability to hospitalized COVID-19 was associated with
+   an increased risk for schizophrenia (OR: 1.11, 95% CI: 1.02−1.20,
+   *P* = 0.013). However, genetic liability to SARS-CoV-2 infection was
+   not associated with the risk of schizophrenia (1.06, 0.83−1.37,
+   *P* = 0.643). Severe COVID-19 was associated with an 11% increased
+   risk for schizophrenia, suggesting that schizophrenia should be
+   assessed as one of the post-COVID-19 sequelae.
+
+
+.. contents::
+   :depth: 3
+..
+
+pmc
+.. _sec0001:
+
+1. Introduction
+===============
+
+Since the inception of the SARS-CoV-2 infection pandemic, a significant
+subpopulation of individuals infected with SARS-CoV-2 suffers from a
+range of post-COVID symptoms or consequences, including various forms of
+“long-COVID”. In the course of COVID-19, neuropsychiatric manifestations
+are common. The coronavirus SARS-CoV-2 can invade the central nervous
+system, impacting the structure, metabolism, function, and activity of
+the brain ((Dehghani et al. 2022)). Therefore, the neurotropic
+properties of COVID-19 pose a remarkable threat to the mental health of
+affected individuals. On the other hand, preexisting brain pathology may
+make individuals more vulnerable to the invasion of the coronavirus,
+which may predispose infected individuals to severe outcomes.
+
+The prevalence of newly established psychiatric diagnoses is rising
+along with pandemics ((Cenat et al. 2021)). Schizophrenia is a severe
+mental illness characterized by hallucinations, delusions, disorganized
+thinking, and cognitive deficits. In both schizophrenia and SARS-CoV-2
+infection, a profound breakdown in neuron-glia homeostasis is notable
+((Savelieff, Feldman, and Stino 2022)). It has been reported that
+schizophrenia patients are at higher risk for COVID-19 mortality
+((Toubasi et al. 2021)).
+
+To date, evidence for associations between COVID-19 and schizophrenia
+has largely been derived from correlational studies or clinical
+observations. Exploring the causality between COVID-19 and schizophrenia
+is hindered by confounding intermediating factors and possible reverse
+causation. We sought to test the potential causal effects of two
+COVID-19 outcomes, SARS-CoV-2 infection and COVID-19 hospitalization, on
+schizophrenia by using the Mendelian randomization (MR) framework.
+
+.. _sec0002:
+
+2. Methods
+==========
+
+.. _sec0003:
+
+2.1. GWAS summary datasets
+--------------------------
+
+In this study, we used publicly available summary results of previously
+completed GWAS. Two COVID-19 datasets were obtained from the COVID-19
+HGI GWAS round 7 ((Initiative 2020)), including one for SARS-CoV-2
+infection (122,616 cases and 2,475,240 controls) and one for
+hospitalized COVID-19 (32,519 cases and 2,062,805 controls). The summary
+result of schizophrenia-related GWAS contained 53,386 schizophrenia
+cases and 77,258 controls, all of which were of European origin
+((Trubetskoy et al. 2022)). In SARS-CoV-2 datasets, the data on
+infection reflect the overall susceptibility to the virus, whereas the
+hospitalized cases of COVID-19 represent the severity of the disease. In
+this study, all hospitalized COVID-19 cases were recognized as “severe
+COVID-19”.
+
+.. _sec0004:
+
+2.2. MR analysis
+----------------
+
+The analyses were performed using three complementary methods
+implemented in TwoSampleMR ((Hemani et al. 2018)), including inverse
+variance weighted (IVW), weighted median, and MR-Egger. These methods
+differ in their assumptions about horizontal pleiotropy ((Bowden, Davey
+Smith, and Burgess 2015)). Here, the IVW model was used as the primary
+MR technique. The intercept from the MR-Egger regression was utilized to
+evaluate the average horizontal pleiotropy ((Bowden, Davey Smith, and
+Burgess 2015)). The IVs are not all valid when the MR Egger intercept
+significantly differs from zero. The significant associations between
+the COVID-19 outcomes and schizophrenia were determined by IVW-based *P*
+< 0.025 (0.05/2).
+
+For each exposure phenotype, single-nucleotide polymorphisms (SNPs) with
+genome-wide significance (*P* < 5 × 10\ :sup:`–8`) were selected as IVs.
+These IVs were further pruned using a clumping r\ :sup:`2` cutoff of
+0.01 within each 10 Mb window, using the 1000 Genomes Project Phase 3
+(EUR) as the reference panel. For each MR analysis, we removed SNPs
+missing from the outcome dataset as well as palindromic SNPs with
+intermediate allele frequencies.
+
+.. _sec0005:
+
+3. Results
+==========
+
+.. _sec0006:
+
+3.1. MR analysis
+----------------
+
+In the MR analysis aiming to uncover the causal effects of the two
+COVID-19 outcomes, SARS-CoV-2 infection and hospitalized COVID-19, on
+schizophrenia, a total of 20 and 36 IVs were derived, respectively. We
+found that hospitalized COVID-19 (OR: 1.11, 95% CI: 1.02−1.20,
+*P* = 0.013) exerts a causal effect on schizophrenia
+(`Table 1 <#tbl0001>`__ and Fig. 1). However, SARS-CoV-2 infection does
+not have a causal effect on this psychiatric condition (1.06, 0.83−1.37,
+*P* = 0.643).Table 1Causal effects of COVID-19 outcomes on
+schizophrenia.Table 1Exposure\ **OutcomeMethodb (se)OR
+[95%CI]N_IVEgger_interceptP_pleiotropyP**\ SARS-CoV-2
+infectionSchizophreniaIVW0.060 (0.128)1.06
+[0.83-1.37]20NANA0.643SARS-CoV-2 infectionSchizophreniaWM0.209
+(0.111)1.23 [0.99-1.53]20NANA0.060SARS-CoV-2 infectionSchizophreniaMR
+Egger-0.357 (0.512)0.70 [0.26-1.91]200.0140.4120.495Hospitalized
+COVID-19SchizophreniaIVW0.103 (0.041)1.11
+[1.02-1.20]36NANA\ **0.013**\ Hospitalized COVID-19SchizophreniaWM0.089
+(0.039)1.09 [1.01-1.18]36NANA0.022Hospitalized COVID-19SchizophreniaMR
+Egger0.036 (0.120)1.04 [0.82-1.31]360.0050.5600.765 [2]_
+
+The sensitivity analyses revealed that the directions of causal effect
+estimates across the methods were largely the same
+(`Table 1 <#tbl0001>`__). Notably, in this MR analysis, tests of
+MR-Egger regression did not find evidence of directional pleiotropy
+(MR-Egger intercept < 0.02, *P* > 0.05).
+
+.. _sec0007:
+
+4. Discussion
+=============
+
+Schizophrenia patients usually have considerable disability and poor
+quality of life. Previous studies have documented higher
+COVID-19-attributed mortality in schizophrenia patients ((Toubasi et al.
+2021)). However, it is largely unknown whether the various COVID-19
+outcomes play a causal role in the development of schizophrenia. Here,
+we show the causal effect of severe COVID-19 on schizophrenia. We
+utilized the MR framework to demonstrate that the association of
+COVID-19 with schizophrenia was severity dependent. While the viral
+infection may not increase the risk for schizophrenia, COVID-19
+hospitalization was associated with an 11% increase in the risk of
+schizophrenia.
+
+Our results are consistent with previously observed findings of an
+elevated rate of mental disorders during the pandemic ((Cenat et al.
+2021)) and suggest that schizophrenia should be assessed as one of the
+possible post-COVID-19 sequelae. Our study points out that the protocols
+for post-acute COVID-19 care should include the diagnosis and management
+of this psychiatric condition.
+
+The main strength of the study is that MR analysis is less affected by
+the causality pitfalls of confounding factors and reverse causation than
+traditionally designed observational studies. To trace the causative
+association between COVID-19 and schizophrenia, we utilized the largest
+available GWAS summary datasets. Moreover, all the participants in the
+GWAS datasets were of European ancestry, reducing the potential
+population heterogeneity.
+
+Our study has several limitations. In particular, we assessed only
+genetic liability for both diseases with no regard to the effects of the
+environment, which are critical for both schizophrenia and COVID-19.
+Some confounding factors may influence the causal associations between
+schizophrenia and COVID-19, including smoking ((Rao et al. 2021); (Zhang
+and Baranova 2021)). We acknowledge that MR analyses may be biased due
+to pleiotropy, especially in nonhomogenous datasets. Therefore, we have
+tested the MR assumptions using various models.
+
+.. _sec0008:
+
+5. Conclusions
+==============
+
+In summary, our study supports that severe COVID-19 may increase the
+risk for schizophrenia. However, our results did not support a causal
+effect of SARS-CoV-2 infection on this psychiatric disease.
+
+.. _sec0009:
+
+Funding and disclosure
+======================
+
+No funding.
+
+.. _sec0010:
+
+Authors' contributions
+======================
+
+FZ conceived the project and supervised the study. FZ analyzed the data.
+FZ, HC, and AB wrote the manuscript. All authors read and approved the
+final manuscript.
+
+Declaration of Competing interest
+=================================
+
+The authors declare that they have no competing interests.
+
+The authors thank all investigators and participants from the COVID-19
+Host Genetics Initiative and other groups for sharing these data.
+
+.. container:: references csl-bib-body hanging-indent
+   :name: refs
+
+   .. container:: csl-entry
+      :name: ref-bib0001
+
+      Bowden, J., G. Davey Smith, and S. Burgess. 2015. “\ `Mendelian
+      Randomization with Invalid Instruments: Effect Estimation and Bias
+      Detection Through Egger
+      Regression <https://www.ncbi.nlm.nih.gov/pubmed/26050253>`__.”
+      *Int. J. Epidemiol.* 44 (2): 512–25.
+
+   .. container:: csl-entry
+      :name: ref-bib0002
+
+      Cenat, J.M., C. Blais-Rochette, C.K. Kokou-Kpolou, P.G. Noorishad,
+      J.N. Mukunzi, S.E. McIntee, R.D. Dalexis, M.A. Goulet, and P.R.
+      Labelle. 2021. “Prevalence of Symptoms of Depression, Anxiety,
+      Insomnia, Posttraumatic Stress Disorder, and Psychological
+      Distress Among Populations Affected by the COVID-19 Pandemic: A
+      Systematic Review and Meta-Analysis.” *Psychiatry Res.* 295.
+
+   .. container:: csl-entry
+      :name: ref-bib0003
+
+      Dehghani, A., E. Zokaei, S.M. Kahani, E. Alavinejad, M. Dehghani,
+      G.H. Meftahi, and M.R. Afarinesh. 2022. “The Potential Impact of
+      Covid-19 on CNS and Psychiatric Sequels.” *Asian J. Psychiatry*
+      72.
+
+   .. container:: csl-entry
+      :name: ref-bib0004
+
+      Hemani, G., J. Zheng, B. Elsworth, K.H. Wade, V. Haberland, D.
+      Baird, C. Laurin, et al. 2018. “\ `The MR-Base Platform Supports
+      Systematic Causal Inference Across the Human
+      Phenome <https://www.ncbi.nlm.nih.gov/pubmed/29846171>`__.”
+      *Elife* 7.
+
+   .. container:: csl-entry
+      :name: ref-bib0005
+
+      Initiative, C.-H.G. 2020. “\ `The COVID-19 Host Genetics
+      Initiative, a Global Initiative to Elucidate the Role of Host
+      Genetic Factors in Susceptibility and Severity of the SARS-CoV-2
+      Virus Pandemic <https://www.ncbi.nlm.nih.gov/pubmed/32404885>`__.”
+      *Eur. J. Hum. Genet.* 28 (6): 715–18.
+
+   .. container:: csl-entry
+      :name: ref-bib0006
+
+      Rao, S., A. Baranova, H. Cao, J. Chen, X. Zhang, and F. Zhang.
+      2021. “\ `Genetic Mechanisms of COVID-19 and Its Association with
+      Smoking and Alcohol
+      Consumption <https://www.ncbi.nlm.nih.gov/pubmed/34308962>`__.”
+      *Brief Bioinform.* 22 (6).
+
+   .. container:: csl-entry
+      :name: ref-bib0007
+
+      Savelieff, M.G., E.L. Feldman, and A.M. Stino. 2022. “Neurological
+      Sequela and Disruption of Neuron-Glia Homeostasis in SARS-CoV-2
+      Infection.” *Neurobiol. Dis.* 168.
+
+   .. container:: csl-entry
+      :name: ref-bib0008
+
+      Toubasi, A.A., R.B. AbuAnzeh, H.B.A. Tawileh, R.H. Aldebei, and
+      S.A.S. Alryalat. 2021. “A Meta-Analysis: The Mortality and
+      Severity of COVID-19 Among Patients with Mental Disorders.”
+      *Psychiatry Res.* 299.
+
+   .. container:: csl-entry
+      :name: ref-bib0009
+
+      Trubetskoy, V., A.F. Pardinas, T. Qi, G. Panagiotaropoulou, S.
+      Awasthi, T.B. Bigdeli, J. Bryois, et al. 2022. “\ `Mapping Genomic
+      Loci Implicates Genes and Synaptic Biology in
+      Schizophrenia <https://www.ncbi.nlm.nih.gov/pubmed/35396580>`__.”
+      *Nature* 604 (7906): 502–8.
+
+   .. container:: csl-entry
+      :name: ref-bib0010
+
+      Zhang, F., and A. Baranova. 2021. “Smoking Quantitatively
+      Increases Risk for COVID-19.” *Eur. Respir. J.*
+
+.. [1]
+   These are co-first authors.
+
+.. [2]
+   IVW: inverse variance weighted; WM: Weighted median; OR: odds ratio;
+   CI: confidence interval; b: effect size; se: standard error; N_IV:
+   number of instrumental variables; Q_P: *P*-value of heterogeneity
+   analysis.

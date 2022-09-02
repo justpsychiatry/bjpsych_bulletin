@@ -1,76 +1,653 @@
-<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
-<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="review-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-journalpublishing1.dtd?><?SourceDTD.Version 1.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">BJPsych Bull</journal-id><journal-id journal-id-type="iso-abbrev">BJPsych Bull</journal-id><journal-id journal-id-type="hwp">pbrcpsych</journal-id><journal-title-group><journal-title>BJPsych Bulletin</journal-title></journal-title-group><issn pub-type="ppub">2056-4694</issn><issn pub-type="epub">2056-4708</issn><publisher><publisher-name>Royal College of Psychiatrists</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">5288093</article-id><article-id pub-id-type="doi">10.1192/pb.bp.115.053520</article-id><article-categories><subj-group subj-group-type="heading"><subject>Current Practice</subject></subj-group></article-categories><title-group><article-title>Adherence to medication in the community: audit cycle of interventions to improve the assessment of adherence</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Farooq</surname><given-names>Saeed</given-names></name><xref ref-type="aff" rid="A1">1</xref></contrib><contrib contrib-type="author"><name><surname>Choudry</surname><given-names>Abid</given-names></name><xref ref-type="aff" rid="A2">2</xref><xref ref-type="corresp" rid="cor1"/></contrib></contrib-group><aff id="A1"><label>1</label>Keele University</aff><aff id="A2"><label>2</label>Leicestershire Partnership NHS Trust</aff><author-notes><corresp id="cor1">
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="review-article">    <?properties open_access?>    <?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN?>    <?DTDIdentifier.IdentifierType public?>    <?SourceDTD.DTDName JATS-journalpublishing1.dtd?>    <?SourceDTD.Version 1.0?>    <?ConverterInfo.XSLTName jp2nlmx2.xsl?>    <?ConverterInfo.Version 1?>
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="nlm-ta">BJPsych Bull</journal-id>
+            <journal-id journal-id-type="iso-abbrev">BJPsych Bull</journal-id>
+            <journal-id journal-id-type="hwp">pbrcpsych</journal-id>
+            <journal-title-group>
+                <journal-title>BJPsych Bulletin</journal-title>
+            </journal-title-group>
+            <issn pub-type="ppub">2056-4694</issn>
+            <issn pub-type="epub">2056-4708</issn>
+            <publisher>
+                <publisher-name>Royal College of Psychiatrists</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="pmcid">5288093</article-id>
+            <article-id pub-id-type="doi">10.1192/pb.bp.115.053520</article-id>
+            <article-categories>
+                <subj-group subj-group-type="heading">
+                    <subject>Current Practice</subject>
+                </subj-group>
+            </article-categories>
+            <title-group>
+                <article-title>Adherence to medication in the community: audit cycle of interventions to improve the assessment of adherence</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Farooq</surname>
+                        <given-names>Saeed</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Choudry</surname>
+                        <given-names>Abid</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A2">2</xref>
+                    <xref ref-type="corresp" rid="cor1" />
+                </contrib>
+            </contrib-group>
+            <aff id="A1">
+                <label>1</label>Keele University</aff>
+            <aff id="A2">
+                <label>2</label>Leicestershire Partnership NHS Trust</aff>
+            <author-notes>
+                <corresp id="cor1">
 Correspondence to Abid Choudry (<email>abidchoudry@doctors.org.uk</email>)
-</corresp><fn><p><bold>Dr Saeed Farooq</bold> is a Clinical Senior Lecturer, Institute for Primary Care and Health Sciences, Keele University; Visiting Professor, Staffordshire University; and Honorary Consultant Psychiatrist, South Staffordshire and Shropshire Healthcare NHS Foundation Trust. <bold>Dr Abid Choudry</bold> is a Specialty Registrar in General Adult Psychiatry, Leicestershire Partnership NHS Trust.</p></fn></author-notes><pub-date pub-type="ppub"><month>2</month><year>2017</year></pub-date><volume>41</volume><issue>1</issue><fpage>41</fpage><lpage>44</lpage><history><date date-type="received"><day>30</day><month>12</month><year>2015</year></date><date date-type="rev-recd"><day>24</day><month>3</month><year>2016</year></date><date date-type="accepted"><day>21</day><month>4</month><year>2016</year></date></history><permissions><copyright-statement>&#x000a9; 2017 The Royal College of Psychiatrists</copyright-statement><copyright-year>2017</copyright-year><license license-type="creative-commons" xlink:href="http://creativecommons.org/licenses/by/4.0"><license-p>This is an open-access article published by the Royal College of Psychiatrists and distributed under the terms of the Creative Commons Attribution License (<uri xlink:href="http://creativecommons.org/licenses/by/4.0">http://creativecommons.org/licenses/by/4.0</uri>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xlink:title="pdf" xlink:href="41.pdf"/><abstract><p id="P1"><bold>Aims and method</bold> To investigate whether medication adherence is monitored during follow-up in out-patient reviews. A retrospective audit was carried out with a sample of 50 follow-up patients with a diagnosis of schizophrenia or schizoaffective disorder. Following this, interventions were made prior to the re-audit (including text messaging clinicians and prompt sheets in the out-patient department to encourage adherence discussions).</p><p id="P2"><bold>Results</bold> There was an improvement on all the standards set for this audit following the interventions. More doctors had discussed medication adherence (62% second cycle <italic>v.</italic> 50% first cycle) with their patient and there was increased discussion and documentation regarding medication side-effects (60% second cycle <italic>v.</italic> 30% first cycle). More clinicians discussed the response to medication (60% second cycle <italic>v.</italic> 46% first cycle).</p><p id="P3"><bold>Clinical implications</bold> Treatment adherence is not regularly monitored or recorded in clinical notes in routine psychiatric out-patient appointments. This highlights the need for regular training to improve practice.</p></abstract></article-meta></front><body><p id="P4">The World Health Organization defines adherence as the extent to which a person's behaviour &#x02013; taking medication, following a diet, and/or executing lifestyle changes &#x02013; corresponds with agreed recommendations from a healthcare provider.<sup><xref rid="R1" ref-type="bibr">1</xref></sup> Although often used interchangeably with the term &#x02018;compliance&#x02019;, adherence is preferred by many as it acknowledges the patient's role in the decision-making process.<sup><xref rid="R2" ref-type="bibr">2</xref></sup> It has been claimed that increasing the effectiveness of adherence interventions may have a far greater impact on the health of the population than any improvement in specific medical treatments.<sup><xref rid="R3" ref-type="bibr">3</xref></sup></p><p id="P5">Non-adherence to treatment is a major barrier to effective treatment in psychiatry, particularly in individuals with psychotic disorders. Rates of non-adherence vary between 24 and 40% based on medication refill rates available from pharmacy records.<sup><xref rid="R4" ref-type="bibr">4</xref>,<xref rid="R5" ref-type="bibr">5</xref></sup> This is understandable in view of the different populations, variety of diagnoses, variable follow-up periods and, most importantly, the different definitions and measurement methods used in research.<sup><xref rid="R6" ref-type="bibr">6</xref></sup> It has been reported in the literature that non-adherence rates to medication for bipolar disorder typically range between 20 and 60%, with an average of 40%.<sup><xref rid="R7" ref-type="bibr">7</xref>&#x02013;<xref rid="R9" ref-type="bibr">9</xref></sup> In schizophrenia, a systematic review of 39 studies reported a mean rate of medication non-adherence at 41%.<sup><xref rid="R10" ref-type="bibr">10</xref></sup> When the analysis was restricted to the five methodologically most rigorous studies, which included defining adherence as taking medication at least 75% of the time, the non-adherence rate increased to 50%.<sup><xref rid="R10" ref-type="bibr">10</xref></sup> Non-adherence to treatment in schizophrenia is often associated with potentially severe clinical consequences.<sup><xref rid="R11" ref-type="bibr">11</xref>,<xref rid="R12" ref-type="bibr">12</xref></sup> It is also estimated that up to 40% of the total annual cost of schizophrenia, which amounts to &#x000a3;400 million in the UK, could be due to non-adherence to treatment.<sup><xref rid="R13" ref-type="bibr">13</xref></sup></p><p id="P6">The National Institute for Health and Care Excellence (NICE) guidelines<sup><xref rid="R14" ref-type="bibr">14</xref>,<xref rid="R15" ref-type="bibr">15</xref></sup> recommend that treatment adherence be regularly monitored in patients with schizophrenia but there is relatively little information about how this is done in clinical practice. In general, doctors uniformly underestimate the degree of non-adherence in their patients.<sup><xref rid="R16" ref-type="bibr">16</xref></sup></p><sec disp-level="2" id="S1"><title>Aims</title><p id="P7">This audit was aimed at investigating whether medication adherence is monitored during the follow-up of patients diagnosed with schizophrenia or schizoaffective disorder. We also evaluated the ways in which medication adherence is discussed during out-patient reviews and recommend practice improvement.</p></sec><sec sec-type="methods" id="S2"><title>Method</title><p id="P8">We conducted a retrospective audit in 50 patients presenting to the out-patient follow-up clinic in two UK community mental health teams providing treatment for patients within the complex care team. The clinics were based in the Black Country Partnership NHS Foundation Trust. Only patients with a diagnosis of schizophrenia or schizoaffective disorder who were currently under out-patient follow-up were included. A random sample of patients was generated by taking every fifth patient from the list provided by the clinic administrator. The last clinic letter was reviewed to collect data via the medical notes and electronic healthcare records.</p><p id="P9">The standards were identified using the NICE guidelines on medicines adherence and treatment of psychosis and schizophrenia.<sup><xref rid="R14" ref-type="bibr">14</xref>,<xref rid="R15" ref-type="bibr">15</xref></sup> The guidelines have emphasised what should be reviewed and discussed in out-patient clinics. Specifically, they recognise that the treatment should be regularly and systematically reviewed to monitor treatment adherence. During the titration of treatment the following should be regularly monitored:
-<list list-type="bullet"><list-item><p id="P10">response to treatment, including changes in symptoms and behaviour</p></list-item><list-item><p id="P11">side-effects of treatment</p></list-item><list-item><p id="P12">emergence of movement disorders</p></list-item><list-item><p id="P13">weight</p></list-item><list-item><p id="P14">waist circumference</p></list-item><list-item><p id="P15">pulse and blood pressure</p></list-item><list-item><p id="P16">adherence</p></list-item><list-item><p id="P17">overall physical health.</p></list-item></list>
-</p><p id="P18">The NICE guideline on treatment adherence explicitly states that when reviewing medication the clinician should enquire about adherence:
-<disp-quote><p id="P19">&#x02018;If non adherence is identified, clarify possible causes and agree any action with the patient. Any plan should include a date for a follow up review.&#x02019;<sup><xref rid="R15" ref-type="bibr">15</xref></sup></p></disp-quote>
+                </corresp>
+                <fn>
+                    <p>
+                        <bold>Dr Saeed Farooq</bold> is a Clinical Senior Lecturer, Institute for Primary Care and Health Sciences, Keele University; Visiting Professor, Staffordshire University; and Honorary Consultant Psychiatrist, South Staffordshire and Shropshire Healthcare NHS Foundation Trust. <bold>Dr Abid Choudry</bold> is a Specialty Registrar in General Adult Psychiatry, Leicestershire Partnership NHS Trust.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="ppub">
+                <month>2</month>
+                <year>2017</year>
+            </pub-date>
+            <volume>41</volume>
+            <issue>1</issue>
+            <fpage>41</fpage>
+            <lpage>44</lpage>
+            <history>
+                <date date-type="received">
+                    <day>30</day>
+                    <month>12</month>
+                    <year>2015</year>
+                </date>
+                <date date-type="rev-recd">
+                    <day>24</day>
+                    <month>3</month>
+                    <year>2016</year>
+                </date>
+                <date date-type="accepted">
+                    <day>21</day>
+                    <month>4</month>
+                    <year>2016</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>&#x000a9; 2017 The Royal College of Psychiatrists</copyright-statement>
+                <copyright-year>2017</copyright-year>
+                <license license-type="creative-commons" xlink:href="http://creativecommons.org/licenses/by/4.0">
+                    <license-p>This is an open-access article published by the Royal College of Psychiatrists and distributed under the terms of the Creative Commons Attribution License (<uri xlink:href="http://creativecommons.org/licenses/by/4.0">http://creativecommons.org/licenses/by/4.0</uri>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <self-uri xlink:title="pdf" xlink:href="41.pdf" />
+            <abstract>
+                <p id="P1">
+                    <bold>Aims and method</bold> To investigate whether medication adherence is monitored during follow-up in out-patient reviews. A retrospective audit was carried out with a sample of 50 follow-up patients with a diagnosis of schizophrenia or schizoaffective disorder. Following this, interventions were made prior to the re-audit (including text messaging clinicians and prompt sheets in the out-patient department to encourage adherence discussions).</p>
+                <p id="P2">
+                    <bold>Results</bold> There was an improvement on all the standards set for this audit following the interventions. More doctors had discussed medication adherence (62% second cycle <italic>v.</italic> 50% first cycle) with their patient and there was increased discussion and documentation regarding medication side-effects (60% second cycle <italic>v.</italic> 30% first cycle). More clinicians discussed the response to medication (60% second cycle <italic>v.</italic> 46% first cycle).</p>
+                <p id="P3">
+                    <bold>Clinical implications</bold> Treatment adherence is not regularly monitored or recorded in clinical notes in routine psychiatric out-patient appointments. This highlights the need for regular training to improve practice.</p>
+            </abstract>
+        </article-meta>
+    </front>
+    <body>
+        <p id="P4">The World Health Organization defines adherence as the extent to which a person's behaviour &#x02013; taking medication, following a diet, and/or executing lifestyle changes &#x02013; corresponds with agreed recommendations from a healthcare provider.<sup>
+            <xref rid="R1" ref-type="bibr">1</xref>
+        </sup> Although often used interchangeably with the term &#x02018;compliance&#x02019;, adherence is preferred by many as it acknowledges the patient's role in the decision-making process.<sup>
+        <xref rid="R2" ref-type="bibr">2</xref>
+    </sup> It has been claimed that increasing the effectiveness of adherence interventions may have a far greater impact on the health of the population than any improvement in specific medical treatments.<sup>
+    <xref rid="R3" ref-type="bibr">3</xref>
+</sup>
+</p>
+<p id="P5">Non-adherence to treatment is a major barrier to effective treatment in psychiatry, particularly in individuals with psychotic disorders. Rates of non-adherence vary between 24 and 40% based on medication refill rates available from pharmacy records.<sup>
+<xref rid="R4" ref-type="bibr">4</xref>,<xref rid="R5" ref-type="bibr">5</xref>
+</sup> This is understandable in view of the different populations, variety of diagnoses, variable follow-up periods and, most importantly, the different definitions and measurement methods used in research.<sup>
+<xref rid="R6" ref-type="bibr">6</xref>
+</sup> It has been reported in the literature that non-adherence rates to medication for bipolar disorder typically range between 20 and 60%, with an average of 40%.<sup>
+<xref rid="R7" ref-type="bibr">7</xref>&#x02013;<xref rid="R9" ref-type="bibr">9</xref>
+</sup> In schizophrenia, a systematic review of 39 studies reported a mean rate of medication non-adherence at 41%.<sup>
+<xref rid="R10" ref-type="bibr">10</xref>
+</sup> When the analysis was restricted to the five methodologically most rigorous studies, which included defining adherence as taking medication at least 75% of the time, the non-adherence rate increased to 50%.<sup>
+<xref rid="R10" ref-type="bibr">10</xref>
+</sup> Non-adherence to treatment in schizophrenia is often associated with potentially severe clinical consequences.<sup>
+<xref rid="R11" ref-type="bibr">11</xref>,<xref rid="R12" ref-type="bibr">12</xref>
+</sup> It is also estimated that up to 40% of the total annual cost of schizophrenia, which amounts to &#x000a3;400 million in the UK, could be due to non-adherence to treatment.<sup>
+<xref rid="R13" ref-type="bibr">13</xref>
+</sup>
+</p>
+<p id="P6">The National Institute for Health and Care Excellence (NICE) guidelines<sup>
+<xref rid="R14" ref-type="bibr">14</xref>,<xref rid="R15" ref-type="bibr">15</xref>
+</sup> recommend that treatment adherence be regularly monitored in patients with schizophrenia but there is relatively little information about how this is done in clinical practice. In general, doctors uniformly underestimate the degree of non-adherence in their patients.<sup>
+<xref rid="R16" ref-type="bibr">16</xref>
+</sup>
+</p>
+<sec disp-level="2" id="S1">
+<title>Aims</title>
+<p id="P7">This audit was aimed at investigating whether medication adherence is monitored during the follow-up of patients diagnosed with schizophrenia or schizoaffective disorder. We also evaluated the ways in which medication adherence is discussed during out-patient reviews and recommend practice improvement.</p>
+</sec>
+<sec sec-type="methods" id="S2">
+<title>Method</title>
+<p id="P8">We conducted a retrospective audit in 50 patients presenting to the out-patient follow-up clinic in two UK community mental health teams providing treatment for patients within the complex care team. The clinics were based in the Black Country Partnership NHS Foundation Trust. Only patients with a diagnosis of schizophrenia or schizoaffective disorder who were currently under out-patient follow-up were included. A random sample of patients was generated by taking every fifth patient from the list provided by the clinic administrator. The last clinic letter was reviewed to collect data via the medical notes and electronic healthcare records.</p>
+<p id="P9">The standards were identified using the NICE guidelines on medicines adherence and treatment of psychosis and schizophrenia.<sup>
+<xref rid="R14" ref-type="bibr">14</xref>,<xref rid="R15" ref-type="bibr">15</xref>
+</sup> The guidelines have emphasised what should be reviewed and discussed in out-patient clinics. Specifically, they recognise that the treatment should be regularly and systematically reviewed to monitor treatment adherence. During the titration of treatment the following should be regularly monitored:
+<list list-type="bullet">
+<list-item>
+<p id="P10">response to treatment, including changes in symptoms and behaviour</p>
+</list-item>
+<list-item>
+<p id="P11">side-effects of treatment</p>
+</list-item>
+<list-item>
+<p id="P12">emergence of movement disorders</p>
+</list-item>
+<list-item>
+<p id="P13">weight</p>
+</list-item>
+<list-item>
+<p id="P14">waist circumference</p>
+</list-item>
+<list-item>
+<p id="P15">pulse and blood pressure</p>
+</list-item>
+<list-item>
+<p id="P16">adherence</p>
+</list-item>
+<list-item>
+<p id="P17">overall physical health.</p>
+</list-item>
+</list>
+</p>
+<p id="P18">The NICE guideline on treatment adherence explicitly states that when reviewing medication the clinician should enquire about adherence:
+<disp-quote>
+<p id="P19">&#x02018;If non adherence is identified, clarify possible causes and agree any action with the patient. Any plan should include a date for a follow up review.&#x02019;<sup>
+<xref rid="R15" ref-type="bibr">15</xref>
+</sup>
+</p>
+</disp-quote>
 As a consequence, the standards set out for this audit were that:
-<list list-type="alpha-lower"><list-item><p id="P20">100% of patients should have a discussion with the doctor regarding the medication, including response and side-effects</p></list-item><list-item><p id="P21">100% of patients should have a discussion with the doctor regarding adherence to medication</p></list-item><list-item><p id="P22">if medication is stopped, reasons for this should be explored.</p></list-item></list>
-In light of this we constructed a data collection tool for the audit (<xref ref-type="boxed-text" rid="box1">Box 1</xref>).</p><boxed-text id="box1" position="float" orientation="portrait"><p id="P23"><bold>Box 1</bold> Information gathering tool for the audit</p><list list-type="bullet"><list-item><p id="P24">Was adherence to medication discussed?</p></list-item><list-item><p id="P25">Did the clinician ask the patient about any periods when they had missed taking medication?</p></list-item><list-item><p id="P26">Did the patient mention missing any medication and was this discussed with the patient?</p></list-item><list-item><p id="P27">Had the patient missed any medication over the past month?</p></list-item><list-item><p id="P28">Were side-effects of the medication discussed?</p></list-item><list-item><p id="P29">Did the clinician ask the patient whether these side-effects had impact on their adherence?</p></list-item><list-item><p id="P30">If non-adherence was noted to be a significant problem, were any strategies to improve adherence discussed?</p></list-item><list-item><p id="P31">Was the response to medication discussed?</p></list-item><list-item><p id="P32">If medication was stopped, were reasons for this explored?</p></list-item></list></boxed-text></sec><sec sec-type="results" id="S3"><title>Results</title><sec id="S4"><title>Audit cycle 1</title><p id="P33">Data were collected over a period of 4 weeks. The results showed that adherence was discussed and documented only in 50% of consultations, side-effects were discussed only in 30% of consultations and response to medication was discussed in 46% of cases. Further questioning in terms of assessing adherence appeared to be poorly done, with less than 10% of consultations assessing adherence in greater detail.</p><p id="P34">The results of this initial audit highlighted either a gap in clinical practice or poor documentation. The results were discussed with colleagues in the weekly audit meeting in the hospital and recommendations were made to improve the practice (<xref ref-type="boxed-text" rid="box2">Box 2</xref>)</p><boxed-text id="box2" position="float" orientation="portrait"><p id="P35"><bold>Box 2</bold> Recommendations following the first audit cycle</p><list list-type="order"><list-item><p id="P36">Provide formal training to doctors regarding assessing adherence during the induction for junior trainees and through a session delivered in the local teaching programme for the rest of the clinicians.</p></list-item><list-item><p id="P37">Provide a list of questions to be asked regarding adherence in clinics.</p></list-item><list-item><p id="P38">Provide a text reminder to doctors on clinic days to remind them to assess adherence.</p></list-item><list-item><p id="P39">Re-audit following implementation of changes.</p></list-item></list></boxed-text><p id="P40">As a consequence of the initial audit, a change in practice was brought about by introducing information sheets in each clinic room with possible questions concerning adherence to ask when assessing patients in clinic. A brief session on adherence was also added to the junior doctor induction. Then, a text message reminder was sent to colleagues. This included consultants, specialty doctors and trainees (core and foundation year 2) at the start of each clinic for a period of 3 months. The text message was very brief, reminding colleagues to discuss adherence with their patients in clinic. The colleagues' consent was sought prior to this 3-month trial. We initially planned to send the text reminders using <uri>NHS.net</uri>, which provided such a service, but that stopped in early 2015. As a result, we sent out a group message using the work mobile phone.</p><p id="P41">Following this period a re-audit was carried out. It again focused on patients with schizophrenia and schizoaffective disorder but only spanned the intervention period of the prior 3 months.</p></sec><sec id="S5"><title>Re-audit</title><p id="P42">As before, a random sample of 50 patients was selected. A similar procedure was carried out, but only patients reviewed after the initial audit were included. The same data collection tool was used (<xref ref-type="boxed-text" rid="box1">Box 1</xref>). The results are illustrated in <xref ref-type="fig" rid="F1">Fig. 1</xref>.</p><fig id="F1" orientation="portrait" position="float"><label>Fig. 1</label><caption><p>Comparison of key audit results.</p></caption><graphic xlink:href="43f1"/></fig><p id="P43">The results indicated an improvement in all three key comparisons. More doctors had discussed medication adherence with their patient over the past 3 months (62% <italic>v.</italic> 50%, <italic>P</italic> = 0.22), and there was increased discussion with patients and documentation of side-effects (60% <italic>v.</italic> 30%, <italic>P</italic> = 0.0025). More clinicians discussed the response to medication with their patients in the second audit (60% (<italic>n</italic> = 30) <italic>v.</italic> 46% (<italic>n</italic> = 23), <italic>P</italic> = 0.16). The results regarding further questions about adherence continued to be poor, with only 4% (<italic>n</italic> = 2) asking about whether the patient had missed any doses of medication. However, it was felt this may be secondary to a lack of documentation rather than being a true reflection of practice.</p><p id="P44"><italic>P</italic>-values revealed a significant difference in the two audits for the discussion about side-effects, with an improvement noted following the interventions. However, there was no significant difference on discussions about adherence and response to medication between the two audits.</p></sec></sec><sec sec-type="discussion" id="S6"><title>Discussion</title><p id="P45">Improving treatment adherence is at the heart of clinical psychiatry. It requires building a therapeutic relationship with patients, understanding their needs and tailoring treatment accordingly. Monitoring treatment adherence is a continuous process during which the need to continue medication in the long term is regularly stressed. We need to identify the barriers and help patients and carers to overcome these. This can only be achieved if the treatment is regularly monitored for its efficacy, side-effect burden and acceptability to patients.</p><p id="P46">This audit presents a rather disappointing picture of the conversation about treatment adherence, which is not common in clinical encounters. Such discussions took place in just half of the consultations, whereas questions about possible side-effects and response to medication were raised even less frequently. The first variable improved to about 60% after regular reminders and inclusion of this topic in the junior doctor induction, but this result was not statistically significant. However, the results were statistically significant concerning discussions about side-effects, with a significant improvement noted following the interventions. This perhaps highlights the need for regular training to improve the monitoring of treatment adherence.</p><p id="P47">It has been shown that simple questions about different aspects of medication-taking behaviours can be effective in improving treatment adherence.<sup><xref rid="R17" ref-type="bibr">17</xref></sup> Most of the information regarding assessment of adherence is based on clinical experience or limited research. Clinicians can start by asking patients &#x02018;Have you missed any pills in the past week?&#x02019; A positive response indicates there may be a problem with adherence. Clinicians should bear in mind that patients tend to overestimate their actual adherence to therapy and that the accuracy of the self-report depends on the patient's cognitive abilities, attitudes and openness towards the therapist.<sup><xref rid="R6" ref-type="bibr">6</xref></sup> Some simple questions that can be asked in routine clinical care include: &#x02018;How are you taking your medications?&#x02019;, &#x02018;Have you ever forgotten to take your medications?&#x02019;, &#x02018;Are you experiencing any adverse drug reactions?&#x02019;, &#x02018;How are you feeling since you started the medication?&#x02019;<sup><xref rid="R6" ref-type="bibr">6</xref></sup></p><p id="P48">The results of the audit should be interpreted in the light of some limitations. It is possible that these questions are asked but not regularly documented. Patient medication adherence was not directly measured in the audit. The study had a small sample size that represents a snapshot of clinical encounters, which may not be generalisable. The discussion about treatment adherence may have taken place in different settings such as the in-patient setting or with other members of the multidisciplinary team such as the community psychiatric nurse. We used text message reminders, which has helped the clinicians ask about adherence. Text messages have often been used to remind patients abut medication, but they have not been commonly used to alter the clinicians' behaviour, and can prove a simple and effective method for improving adherence with good practice.</p></sec></body><back><fn-group><fn fn-type="COI-statement"><p><bold>Declaration of interest</bold> None.</p></fn></fn-group><ref-list><title>References</title><ref id="R1"><label>1</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><collab>World Health Organization</collab></person-group>
-<source>Adherence to Long-Term Therapies: Evidence for Action</source>. <publisher-name>WHO</publisher-name>, <year>2003</year> (<uri xlink:href="http://www.who.int/chp/knowledge/publications/adherence_full_report.pdf">http://www.who.int/chp/knowledge/publications/adherence_full_report.pdf</uri>).
-</mixed-citation></ref><ref id="R2"><label>2</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Tilson</surname><given-names>HH</given-names></name></person-group>
-<article-title>Adherence or compliance: changes in terminology</article-title>. <source>Ann Pharmacother</source>
-<year>2004</year>; <volume>38</volume>: <fpage>161</fpage>&#x02013;<lpage>2</lpage>.
-<pub-id pub-id-type="pmid">14742813</pub-id></mixed-citation></ref><ref id="R3"><label>3</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Haynes</surname><given-names>R</given-names></name><name name-style="western"><surname>Yao</surname><given-names>X</given-names></name><name name-style="western"><surname>Degani</surname><given-names>A</given-names></name><name name-style="western"><surname>Kripalani</surname><given-names>S</given-names></name><name name-style="western"><surname>Garg</surname><given-names>A</given-names></name><name name-style="western"><surname>McDonald</surname><given-names>H</given-names></name></person-group>
-<article-title>Interventions to enhance medication adherence</article-title>. <source>Cochrane Database Syst Rev</source>
-<year>2005</year>; <volume>4</volume>: <comment>CD000011</comment>.
-</mixed-citation></ref><ref id="R4"><label>4</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Hess</surname><given-names>LM</given-names></name><name name-style="western"><surname>Raebel</surname><given-names>MA</given-names></name><name name-style="western"><surname>Conner</surname><given-names>DA</given-names></name><name name-style="western"><surname>Malone</surname><given-names>DC</given-names></name></person-group>
-<article-title>Measurement of adherence in pharmacy administrative databases: a proposal for standard definitions and preferred measures</article-title>. <source>Ann Pharmacother</source>
-<year>2006</year>; <volume>40</volume>: <fpage>1280</fpage>&#x02013;<lpage>8</lpage>.
-<pub-id pub-id-type="pmid">16868217</pub-id></mixed-citation></ref><ref id="R5"><label>5</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Gilmer</surname><given-names>TP</given-names></name><name name-style="western"><surname>Dolder</surname><given-names>CR</given-names></name><name name-style="western"><surname>Lacro</surname><given-names>JP</given-names></name><name name-style="western"><surname>Folsom</surname><given-names>DP</given-names></name><name name-style="western"><surname>Lindamer</surname><given-names>L</given-names></name><name name-style="western"><surname>Garcia</surname><given-names>P</given-names></name><etal/></person-group>
-<article-title>Adherence to treatment with antipsychotic medication and health care costs among Medicaid beneficiaries with schizophrenia</article-title>. <source>Am J Psychiatry</source>
-<year>2004</year>; <volume>161</volume>: <fpage>692</fpage>&#x02013;<lpage>9</lpage>.
-<pub-id pub-id-type="pmid">15056516</pub-id></mixed-citation></ref><ref id="R6"><label>6</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Farooq</surname><given-names>S</given-names></name><name name-style="western"><surname>Naeem</surname><given-names>F</given-names></name></person-group>
-<article-title>Tackling non adherence in psychiatric disorder</article-title>. <source>Neuropsychiatr Dis Treat</source>
-<year>2014</year>; <volume>10</volume>: <fpage>1069</fpage>&#x02013;<lpage>77</lpage>.
-<pub-id pub-id-type="pmid">24966677</pub-id></mixed-citation></ref><ref id="R7"><label>7</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Berk</surname><given-names>M</given-names></name><name name-style="western"><surname>Berk</surname><given-names>L</given-names></name><name name-style="western"><surname>Castle</surname><given-names>D</given-names></name></person-group>
-<article-title>A collaborative approach to the treatment alliance in bipolar disorder</article-title>. <source>Bipolar Disord</source>
-<year>2004</year>; <volume>6</volume>: <fpage>504</fpage>&#x02013;<lpage>18</lpage>.
-<pub-id pub-id-type="pmid">15541066</pub-id></mixed-citation></ref><ref id="R8"><label>8</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Colom</surname><given-names>F</given-names></name><name name-style="western"><surname>Vieta</surname><given-names>E</given-names></name><name name-style="western"><surname>Tacchi</surname><given-names>MJ</given-names></name><name name-style="western"><surname>Sanchez-Moreno</surname><given-names>J</given-names></name><name name-style="western"><surname>Scott</surname><given-names>J</given-names></name></person-group>
-<article-title>Identifying and improving non-adherence in bipolar disorders</article-title>. <source>Bipolar Disord</source>
-<year>2005</year>; <volume>7</volume> (<issue>suppl. 5</issue>): <fpage>24</fpage>&#x02013;<lpage>31</lpage>.
-<pub-id pub-id-type="pmid">16225557</pub-id></mixed-citation></ref><ref id="R9"><label>9</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Lingam</surname><given-names>R</given-names></name><name name-style="western"><surname>Scott</surname><given-names>J</given-names></name></person-group>
-<article-title>Treatment non-adherence in affective disorders</article-title>. <source>Act Psychiatr Scand</source>
-<year>2002</year>; <volume>105</volume>: <fpage>164</fpage>&#x02013;<lpage>72</lpage>.
-</mixed-citation></ref><ref id="R10"><label>10</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Lacro</surname><given-names>JP</given-names></name><name name-style="western"><surname>Dunn</surname><given-names>LB</given-names></name><name name-style="western"><surname>Dolder</surname><given-names>CR</given-names></name><name name-style="western"><surname>Leckband</surname><given-names>SG</given-names></name><name name-style="western"><surname>Jeste</surname><given-names>DV</given-names></name></person-group>
-<article-title>Prevalence of and risk factors for medication nonadherence in patients with schizophrenia: a comprehensive review of recent literature</article-title>. <source>J Clin Psychiatry</source>
-<year>2002</year>; <volume>63</volume>: <fpage>892</fpage>&#x02013;<lpage>909</lpage>.
-<pub-id pub-id-type="pmid">12416599</pub-id></mixed-citation></ref><ref id="R11"><label>11</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Kane</surname><given-names>JM</given-names></name></person-group>
-<article-title>Compliance issues in outpatient treatment</article-title>. <source>J Clin Psychopharmacol</source>
-<year>1985</year>; <volume>5</volume> (<issue>suppl. 3</issue>): <fpage>S22</fpage>&#x02013;<lpage>27</lpage>.
-</mixed-citation></ref><ref id="R12"><label>12</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Kane</surname><given-names>JM</given-names></name></person-group>
-<article-title>Treatment adherence and long-term outcomes</article-title>. <source>CNS Spectrums</source>
-<year>2007</year>; <volume>12</volume>: <fpage>21</fpage>&#x02013;<lpage>6</lpage>.
-<pub-id pub-id-type="pmid">17934386</pub-id></mixed-citation></ref><ref id="R13"><label>13</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Kemp</surname><given-names>R</given-names></name><name name-style="western"><surname>Kirov</surname><given-names>G</given-names></name><name name-style="western"><surname>Everitt</surname><given-names>B</given-names></name><name name-style="western"><surname>Hayward</surname><given-names>P</given-names></name><name name-style="western"><surname>David</surname><given-names>A</given-names></name></person-group>
-<article-title>Randomised controlled trial of compliance therapy: 18-month follow-up</article-title>. <source>Br J Psychiatry</source>
-<year>1998</year>; <volume>172</volume>: <fpage>413</fpage>&#x02013;<lpage>19</lpage>.
-<pub-id pub-id-type="pmid">9747403</pub-id></mixed-citation></ref><ref id="R14"><label>14</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><collab>National Institute for Health and Care Excellence</collab></person-group>
-<source>Psychosis and Schizophrenia in Adults: Prevention and Management (CG178)</source>. <publisher-name>NICE</publisher-name>, <year>2014</year>.
-</mixed-citation></ref><ref id="R15"><label>15</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><collab>National Institute for Health and Care Excellence</collab></person-group>
+<list list-type="alpha-lower">
+<list-item>
+<p id="P20">100% of patients should have a discussion with the doctor regarding the medication, including response and side-effects</p>
+</list-item>
+<list-item>
+<p id="P21">100% of patients should have a discussion with the doctor regarding adherence to medication</p>
+</list-item>
+<list-item>
+<p id="P22">if medication is stopped, reasons for this should be explored.</p>
+</list-item>
+</list>
+In light of this we constructed a data collection tool for the audit (<xref ref-type="boxed-text" rid="box1">Box 1</xref>).
+</p>
+<boxed-text id="box1" position="float" orientation="portrait">
+<p id="P23">
+<bold>Box 1</bold> Information gathering tool for the audit</p>
+<list list-type="bullet">
+<list-item>
+<p id="P24">Was adherence to medication discussed?</p>
+</list-item>
+<list-item>
+<p id="P25">Did the clinician ask the patient about any periods when they had missed taking medication?</p>
+</list-item>
+<list-item>
+<p id="P26">Did the patient mention missing any medication and was this discussed with the patient?</p>
+</list-item>
+<list-item>
+<p id="P27">Had the patient missed any medication over the past month?</p>
+</list-item>
+<list-item>
+<p id="P28">Were side-effects of the medication discussed?</p>
+</list-item>
+<list-item>
+<p id="P29">Did the clinician ask the patient whether these side-effects had impact on their adherence?</p>
+</list-item>
+<list-item>
+<p id="P30">If non-adherence was noted to be a significant problem, were any strategies to improve adherence discussed?</p>
+</list-item>
+<list-item>
+<p id="P31">Was the response to medication discussed?</p>
+</list-item>
+<list-item>
+<p id="P32">If medication was stopped, were reasons for this explored?</p>
+</list-item>
+</list>
+</boxed-text>
+</sec>
+<sec sec-type="results" id="S3">
+<title>Results</title>
+<sec id="S4">
+<title>Audit cycle 1</title>
+<p id="P33">Data were collected over a period of 4 weeks. The results showed that adherence was discussed and documented only in 50% of consultations, side-effects were discussed only in 30% of consultations and response to medication was discussed in 46% of cases. Further questioning in terms of assessing adherence appeared to be poorly done, with less than 10% of consultations assessing adherence in greater detail.</p>
+<p id="P34">The results of this initial audit highlighted either a gap in clinical practice or poor documentation. The results were discussed with colleagues in the weekly audit meeting in the hospital and recommendations were made to improve the practice (<xref ref-type="boxed-text" rid="box2">Box 2</xref>)
+</p>
+<boxed-text id="box2" position="float" orientation="portrait">
+<p id="P35">
+<bold>Box 2</bold> Recommendations following the first audit cycle</p>
+<list list-type="order">
+<list-item>
+<p id="P36">Provide formal training to doctors regarding assessing adherence during the induction for junior trainees and through a session delivered in the local teaching programme for the rest of the clinicians.</p>
+</list-item>
+<list-item>
+<p id="P37">Provide a list of questions to be asked regarding adherence in clinics.</p>
+</list-item>
+<list-item>
+<p id="P38">Provide a text reminder to doctors on clinic days to remind them to assess adherence.</p>
+</list-item>
+<list-item>
+<p id="P39">Re-audit following implementation of changes.</p>
+</list-item>
+</list>
+</boxed-text>
+<p id="P40">As a consequence of the initial audit, a change in practice was brought about by introducing information sheets in each clinic room with possible questions concerning adherence to ask when assessing patients in clinic. A brief session on adherence was also added to the junior doctor induction. Then, a text message reminder was sent to colleagues. This included consultants, specialty doctors and trainees (core and foundation year 2) at the start of each clinic for a period of 3 months. The text message was very brief, reminding colleagues to discuss adherence with their patients in clinic. The colleagues' consent was sought prior to this 3-month trial. We initially planned to send the text reminders using <uri>NHS.net</uri>, which provided such a service, but that stopped in early 2015. As a result, we sent out a group message using the work mobile phone.</p>
+<p id="P41">Following this period a re-audit was carried out. It again focused on patients with schizophrenia and schizoaffective disorder but only spanned the intervention period of the prior 3 months.</p>
+</sec>
+<sec id="S5">
+<title>Re-audit</title>
+<p id="P42">As before, a random sample of 50 patients was selected. A similar procedure was carried out, but only patients reviewed after the initial audit were included. The same data collection tool was used (<xref ref-type="boxed-text" rid="box1">Box 1</xref>). The results are illustrated in <xref ref-type="fig" rid="F1">Fig. 1</xref>.
+</p>
+<fig id="F1" orientation="portrait" position="float">
+<label>Fig. 1</label>
+<caption>
+<p>Comparison of key audit results.</p>
+</caption>
+<graphic xlink:href="43f1" />
+</fig>
+<p id="P43">The results indicated an improvement in all three key comparisons. More doctors had discussed medication adherence with their patient over the past 3 months (62% <italic>v.</italic> 50%, <italic>P</italic> = 0.22), and there was increased discussion with patients and documentation of side-effects (60% <italic>v.</italic> 30%, <italic>P</italic> = 0.0025). More clinicians discussed the response to medication with their patients in the second audit (60% (<italic>n</italic> = 30) <italic>v.</italic> 46% (<italic>n</italic> = 23), <italic>P</italic> = 0.16). The results regarding further questions about adherence continued to be poor, with only 4% (<italic>n</italic> = 2) asking about whether the patient had missed any doses of medication. However, it was felt this may be secondary to a lack of documentation rather than being a true reflection of practice.</p>
+<p id="P44">
+<italic>P</italic>-values revealed a significant difference in the two audits for the discussion about side-effects, with an improvement noted following the interventions. However, there was no significant difference on discussions about adherence and response to medication between the two audits.</p>
+</sec>
+</sec>
+<sec sec-type="discussion" id="S6">
+<title>Discussion</title>
+<p id="P45">Improving treatment adherence is at the heart of clinical psychiatry. It requires building a therapeutic relationship with patients, understanding their needs and tailoring treatment accordingly. Monitoring treatment adherence is a continuous process during which the need to continue medication in the long term is regularly stressed. We need to identify the barriers and help patients and carers to overcome these. This can only be achieved if the treatment is regularly monitored for its efficacy, side-effect burden and acceptability to patients.</p>
+<p id="P46">This audit presents a rather disappointing picture of the conversation about treatment adherence, which is not common in clinical encounters. Such discussions took place in just half of the consultations, whereas questions about possible side-effects and response to medication were raised even less frequently. The first variable improved to about 60% after regular reminders and inclusion of this topic in the junior doctor induction, but this result was not statistically significant. However, the results were statistically significant concerning discussions about side-effects, with a significant improvement noted following the interventions. This perhaps highlights the need for regular training to improve the monitoring of treatment adherence.</p>
+<p id="P47">It has been shown that simple questions about different aspects of medication-taking behaviours can be effective in improving treatment adherence.<sup>
+<xref rid="R17" ref-type="bibr">17</xref>
+</sup> Most of the information regarding assessment of adherence is based on clinical experience or limited research. Clinicians can start by asking patients &#x02018;Have you missed any pills in the past week?&#x02019; A positive response indicates there may be a problem with adherence. Clinicians should bear in mind that patients tend to overestimate their actual adherence to therapy and that the accuracy of the self-report depends on the patient's cognitive abilities, attitudes and openness towards the therapist.<sup>
+<xref rid="R6" ref-type="bibr">6</xref>
+</sup> Some simple questions that can be asked in routine clinical care include: &#x02018;How are you taking your medications?&#x02019;, &#x02018;Have you ever forgotten to take your medications?&#x02019;, &#x02018;Are you experiencing any adverse drug reactions?&#x02019;, &#x02018;How are you feeling since you started the medication?&#x02019;<sup>
+<xref rid="R6" ref-type="bibr">6</xref>
+</sup>
+</p>
+<p id="P48">The results of the audit should be interpreted in the light of some limitations. It is possible that these questions are asked but not regularly documented. Patient medication adherence was not directly measured in the audit. The study had a small sample size that represents a snapshot of clinical encounters, which may not be generalisable. The discussion about treatment adherence may have taken place in different settings such as the in-patient setting or with other members of the multidisciplinary team such as the community psychiatric nurse. We used text message reminders, which has helped the clinicians ask about adherence. Text messages have often been used to remind patients abut medication, but they have not been commonly used to alter the clinicians' behaviour, and can prove a simple and effective method for improving adherence with good practice.</p>
+</sec>
+</body>
+<back>
+<fn-group>
+<fn fn-type="COI-statement">
+<p>
+<bold>Declaration of interest</bold> None.</p>
+</fn>
+</fn-group>
+<ref-list>
+<title>References</title>
+<ref id="R1">
+<label>1</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<collab>World Health Organization</collab>
+</person-group>
+<source>Adherence to Long-Term Therapies: Evidence for Action</source>.<publisher-name>WHO</publisher-name>,<year>2003</year> (<uri xlink:href="http://www.who.int/chp/knowledge/publications/adherence_full_report.pdf">http://www.who.int/chp/knowledge/publications/adherence_full_report.pdf</uri>).
+</mixed-citation>
+</ref>
+<ref id="R2">
+<label>2</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Tilson</surname>
+<given-names>HH</given-names>
+</name>
+</person-group>
+<article-title>Adherence or compliance: changes in terminology</article-title>.<source>Ann Pharmacother</source>
+<year>2004</year>;<volume>38</volume>:<fpage>161</fpage>&#x02013;<lpage>2</lpage>.
+<pub-id pub-id-type="pmid">14742813</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R3">
+<label>3</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Haynes</surname>
+<given-names>R</given-names>
+</name>
+<name name-style="western">
+<surname>Yao</surname>
+<given-names>X</given-names>
+</name>
+<name name-style="western">
+<surname>Degani</surname>
+<given-names>A</given-names>
+</name>
+<name name-style="western">
+<surname>Kripalani</surname>
+<given-names>S</given-names>
+</name>
+<name name-style="western">
+<surname>Garg</surname>
+<given-names>A</given-names>
+</name>
+<name name-style="western">
+<surname>McDonald</surname>
+<given-names>H</given-names>
+</name>
+</person-group>
+<article-title>Interventions to enhance medication adherence</article-title>.<source>Cochrane Database Syst Rev</source>
+<year>2005</year>;<volume>4</volume>:<comment>CD000011</comment>.
+</mixed-citation>
+</ref>
+<ref id="R4">
+<label>4</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Hess</surname>
+<given-names>LM</given-names>
+</name>
+<name name-style="western">
+<surname>Raebel</surname>
+<given-names>MA</given-names>
+</name>
+<name name-style="western">
+<surname>Conner</surname>
+<given-names>DA</given-names>
+</name>
+<name name-style="western">
+<surname>Malone</surname>
+<given-names>DC</given-names>
+</name>
+</person-group>
+<article-title>Measurement of adherence in pharmacy administrative databases: a proposal for standard definitions and preferred measures</article-title>.<source>Ann Pharmacother</source>
+<year>2006</year>;<volume>40</volume>:<fpage>1280</fpage>&#x02013;<lpage>8</lpage>.
+<pub-id pub-id-type="pmid">16868217</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R5">
+<label>5</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Gilmer</surname>
+<given-names>TP</given-names>
+</name>
+<name name-style="western">
+<surname>Dolder</surname>
+<given-names>CR</given-names>
+</name>
+<name name-style="western">
+<surname>Lacro</surname>
+<given-names>JP</given-names>
+</name>
+<name name-style="western">
+<surname>Folsom</surname>
+<given-names>DP</given-names>
+</name>
+<name name-style="western">
+<surname>Lindamer</surname>
+<given-names>L</given-names>
+</name>
+<name name-style="western">
+<surname>Garcia</surname>
+<given-names>P</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>Adherence to treatment with antipsychotic medication and health care costs among Medicaid beneficiaries with schizophrenia</article-title>.<source>Am J Psychiatry</source>
+<year>2004</year>;<volume>161</volume>:<fpage>692</fpage>&#x02013;<lpage>9</lpage>.
+<pub-id pub-id-type="pmid">15056516</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R6">
+<label>6</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Farooq</surname>
+<given-names>S</given-names>
+</name>
+<name name-style="western">
+<surname>Naeem</surname>
+<given-names>F</given-names>
+</name>
+</person-group>
+<article-title>Tackling non adherence in psychiatric disorder</article-title>.<source>Neuropsychiatr Dis Treat</source>
+<year>2014</year>;<volume>10</volume>:<fpage>1069</fpage>&#x02013;<lpage>77</lpage>.
+<pub-id pub-id-type="pmid">24966677</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R7">
+<label>7</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Berk</surname>
+<given-names>M</given-names>
+</name>
+<name name-style="western">
+<surname>Berk</surname>
+<given-names>L</given-names>
+</name>
+<name name-style="western">
+<surname>Castle</surname>
+<given-names>D</given-names>
+</name>
+</person-group>
+<article-title>A collaborative approach to the treatment alliance in bipolar disorder</article-title>.<source>Bipolar Disord</source>
+<year>2004</year>;<volume>6</volume>:<fpage>504</fpage>&#x02013;<lpage>18</lpage>.
+<pub-id pub-id-type="pmid">15541066</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R8">
+<label>8</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Colom</surname>
+<given-names>F</given-names>
+</name>
+<name name-style="western">
+<surname>Vieta</surname>
+<given-names>E</given-names>
+</name>
+<name name-style="western">
+<surname>Tacchi</surname>
+<given-names>MJ</given-names>
+</name>
+<name name-style="western">
+<surname>Sanchez-Moreno</surname>
+<given-names>J</given-names>
+</name>
+<name name-style="western">
+<surname>Scott</surname>
+<given-names>J</given-names>
+</name>
+</person-group>
+<article-title>Identifying and improving non-adherence in bipolar disorders</article-title>.<source>Bipolar Disord</source>
+<year>2005</year>;<volume>7</volume> (<issue>suppl. 5</issue>):<fpage>24</fpage>&#x02013;<lpage>31</lpage>.
+<pub-id pub-id-type="pmid">16225557</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R9">
+<label>9</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Lingam</surname>
+<given-names>R</given-names>
+</name>
+<name name-style="western">
+<surname>Scott</surname>
+<given-names>J</given-names>
+</name>
+</person-group>
+<article-title>Treatment non-adherence in affective disorders</article-title>.<source>Act Psychiatr Scand</source>
+<year>2002</year>;<volume>105</volume>:<fpage>164</fpage>&#x02013;<lpage>72</lpage>.
+</mixed-citation>
+</ref>
+<ref id="R10">
+<label>10</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Lacro</surname>
+<given-names>JP</given-names>
+</name>
+<name name-style="western">
+<surname>Dunn</surname>
+<given-names>LB</given-names>
+</name>
+<name name-style="western">
+<surname>Dolder</surname>
+<given-names>CR</given-names>
+</name>
+<name name-style="western">
+<surname>Leckband</surname>
+<given-names>SG</given-names>
+</name>
+<name name-style="western">
+<surname>Jeste</surname>
+<given-names>DV</given-names>
+</name>
+</person-group>
+<article-title>Prevalence of and risk factors for medication nonadherence in patients with schizophrenia: a comprehensive review of recent literature</article-title>.<source>J Clin Psychiatry</source>
+<year>2002</year>;<volume>63</volume>:<fpage>892</fpage>&#x02013;<lpage>909</lpage>.
+<pub-id pub-id-type="pmid">12416599</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R11">
+<label>11</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Kane</surname>
+<given-names>JM</given-names>
+</name>
+</person-group>
+<article-title>Compliance issues in outpatient treatment</article-title>.<source>J Clin Psychopharmacol</source>
+<year>1985</year>;<volume>5</volume> (<issue>suppl. 3</issue>):<fpage>S22</fpage>&#x02013;<lpage>27</lpage>.
+</mixed-citation>
+</ref>
+<ref id="R12">
+<label>12</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Kane</surname>
+<given-names>JM</given-names>
+</name>
+</person-group>
+<article-title>Treatment adherence and long-term outcomes</article-title>.<source>CNS Spectrums</source>
+<year>2007</year>;<volume>12</volume>:<fpage>21</fpage>&#x02013;<lpage>6</lpage>.
+<pub-id pub-id-type="pmid">17934386</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R13">
+<label>13</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Kemp</surname>
+<given-names>R</given-names>
+</name>
+<name name-style="western">
+<surname>Kirov</surname>
+<given-names>G</given-names>
+</name>
+<name name-style="western">
+<surname>Everitt</surname>
+<given-names>B</given-names>
+</name>
+<name name-style="western">
+<surname>Hayward</surname>
+<given-names>P</given-names>
+</name>
+<name name-style="western">
+<surname>David</surname>
+<given-names>A</given-names>
+</name>
+</person-group>
+<article-title>Randomised controlled trial of compliance therapy: 18-month follow-up</article-title>.<source>Br J Psychiatry</source>
+<year>1998</year>;<volume>172</volume>:<fpage>413</fpage>&#x02013;<lpage>19</lpage>.
+<pub-id pub-id-type="pmid">9747403</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R14">
+<label>14</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<collab>National Institute for Health and Care Excellence</collab>
+</person-group>
+<source>Psychosis and Schizophrenia in Adults: Prevention and Management (CG178)</source>.<publisher-name>NICE</publisher-name>,<year>2014</year>.
+</mixed-citation>
+</ref>
+<ref id="R15">
+<label>15</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<collab>National Institute for Health and Care Excellence</collab>
+</person-group>
 <source>Medicines Adherence: Involving Patients in Decisions about Prescribed Medicines and Supporting Adherence (CG76)</source>, p. <fpage>14</fpage>
-<publisher-name>NICE</publisher-name>, <year>2009</year>.
-</mixed-citation></ref><ref id="R16"><label>16</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Roth</surname><given-names>HP</given-names></name><name name-style="western"><surname>Caron</surname><given-names>HS</given-names></name></person-group>
-<article-title>Accuracy of doctors' estimates and patients' statements on adherence to a drug regimen</article-title>. <source>Clin Pharmacol Ther</source>
-<year>1978</year>; <volume>23</volume>: <fpage>361</fpage>&#x02013;<lpage>70</lpage>.
-<pub-id pub-id-type="pmid">627144</pub-id></mixed-citation></ref><ref id="R17"><label>17</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Acosta</surname><given-names>FJ</given-names></name><name name-style="western"><surname>Hern&#x000e1;ndez</surname><given-names>JL</given-names></name><name name-style="western"><surname>Pereira</surname><given-names>J</given-names></name><name name-style="western"><surname>Herrera</surname><given-names>J</given-names></name><name name-style="western"><surname>Rodr&#x000ed;guez</surname><given-names>CJ</given-names></name></person-group>
-<article-title>Medication adherence in schizophrenia</article-title>. <source>World J Psychiatry</source>
-<year>2012</year>; <volume>2</volume>: <fpage>74</fpage>&#x02013;<lpage>82</lpage>.
-<pub-id pub-id-type="pmid">24175171</pub-id></mixed-citation></ref></ref-list></back></article>
+<publisher-name>NICE</publisher-name>,<year>2009</year>.
+</mixed-citation>
+</ref>
+<ref id="R16">
+<label>16</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Roth</surname>
+<given-names>HP</given-names>
+</name>
+<name name-style="western">
+<surname>Caron</surname>
+<given-names>HS</given-names>
+</name>
+</person-group>
+<article-title>Accuracy of doctors' estimates and patients' statements on adherence to a drug regimen</article-title>.<source>Clin Pharmacol Ther</source>
+<year>1978</year>;<volume>23</volume>:<fpage>361</fpage>&#x02013;<lpage>70</lpage>.
+<pub-id pub-id-type="pmid">627144</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R17">
+<label>17</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Acosta</surname>
+<given-names>FJ</given-names>
+</name>
+<name name-style="western">
+<surname>Hern&#x000e1;ndez</surname>
+<given-names>JL</given-names>
+</name>
+<name name-style="western">
+<surname>Pereira</surname>
+<given-names>J</given-names>
+</name>
+<name name-style="western">
+<surname>Herrera</surname>
+<given-names>J</given-names>
+</name>
+<name name-style="western">
+<surname>Rodr&#x000ed;guez</surname>
+<given-names>CJ</given-names>
+</name>
+</person-group>
+<article-title>Medication adherence in schizophrenia</article-title>.<source>World J Psychiatry</source>
+<year>2012</year>;<volume>2</volume>:<fpage>74</fpage>&#x02013;<lpage>82</lpage>.
+<pub-id pub-id-type="pmid">24175171</pub-id>
+</mixed-citation>
+</ref>
+</ref-list>
+</back>
+</article>

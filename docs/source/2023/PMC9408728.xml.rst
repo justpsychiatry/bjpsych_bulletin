@@ -1,0 +1,948 @@
+==============================================================================================================================
+Metabolomic Profiling Reveals Common Metabolic Alterations in Plasma of Patients with *Toxoplasma* Infection and Schizophrenia
+==============================================================================================================================
+
+Emelia Osman
+Anis Safirah Mohammad Zahariluddin
+Shalisah Sharip
+Zulkarnain Md Idris
+Jen Kit Tan*Correspondence: jenkittan@ukm.edu.my
+:Date: 2022-8-19
+
+:Abstract:
+   *Toxoplasma gondii* is an opportunistic protozoan parasite known to
+   affect the human brain. The infection has been associated with an
+   increased incidence of schizophrenia; however, the link between the
+   two conditions remains unclear. This study aimed to compare the
+   plasma metabolome of schizophrenia and non-schizophrenia subjects
+   with or without *Toxoplasma* infection. Untargeted metabolomic
+   profiling was carried out by liquid chromatography-mass spectrometry.
+   Elevation of the α-hydroxyglutaric acid level and reduced adenosine
+   monophosphate, inosine, hypoxanthine and xanthine were found in the
+   subjects with either toxoplasmosis or schizophrenia alone. These
+   results suggest that purine catabolism is a common metabolic
+   alteration in *Toxoplasma* infection and schizophrenia. The roles of
+   these metabolites on the pathogenesis of schizophrenia in relation to
+   *Toxoplasma* infection warrant further studies.
+
+
+.. contents::
+   :depth: 3
+..
+
+pmc
+.. _sec1-genes-13-01482:
+
+1. Introduction
+===============
+
+Infection of *Toxoplasma gondii* affects approximately 33% of the world
+population [(Fuglewicz, Piotrowski, and Stodolak 2017)]. The routes of
+infection include contact with cat faeces, the ingestion of contaminated
+meat containing *T. gondii* cysts and vertical transmission from mother
+to foetus [(McAuley 2014)]. Infection in pregnant women is a major
+concern because it can cause spontaneous abortion and stillbirth.
+Immunocompromised individuals may develop severe toxoplasmosis, leading
+to encephalitis [(Nimir et al. 2013)]. Nevertheless, *Toxoplasma*
+infection is usually asymptomatic in healthy people; however, it
+persists as a latent infection for life. The parasite prefers to infest
+brain tissue and might affect brain functions responsible for emotion
+and thought processes [(Fuglewicz, Piotrowski, and Stodolak 2017)].
+Numerous studies have shown a positive association between *Toxoplasma*
+infection and schizophrenia. A higher rate of *Toxoplasma* infection was
+found in schizophrenia patients than in healthy individuals [(Torrey and
+Yolken 2003),(Torrey, Bartko, and Yolken 2012),(Emelia et al.
+2012),(Flegr and Horáček 2020),(Omar et al. 2015)]. *Toxoplasma*
+infection has been shown to change animals’ behaviours and brain
+functions; while acute infection has been associated with psychotic
+symptoms in humans [(Yolken, Dickerson, and Fuller Torrey 2009)]. In
+addition, *Toxoplasma* infection could alter neurotransmitter
+metabolisms in the human brain [(Elsheikha, Büsselberg, and Zhu 2016)].
+
+Schizophrenia is a psychiatric disorder with an uncertain cause that
+affects nearly 1% of the world population [(Marder and Cannon 2019)].
+Genetic factors appear as a major risk for the disorder; moreover,
+environmental factors such as infection have been proposed to interact
+with the predisposing genes, leading to the development of schizophrenia
+[(Fuglewicz, Piotrowski, and Stodolak 2017)]. Given the possible link
+between *Toxoplasma* infection and schizophrenia, controlling the risk
+factors such as *Toxoplasma* infection might prevent the development of
+schizophrenia in later life. However, establishing the link between
+*Toxoplasma* infection and schizophrenia remains a difficult task
+because both conditions persist over a long period of time and progress
+slowly.
+
+Metabolites are the downstream products and mediators of biochemical
+pathways in the body. They are often regarded as the closest readout of
+physiological status. Identification of the metabolic changes in
+*Toxoplasma* infection and schizophrenia might provide novel insights
+into the underlying mechanisms of schizophrenia concerning
+toxoplasmosis. Therefore, this study aimed to compare the plasma
+metabolome of schizophrenia and non-schizophrenia subjects with or
+without *Toxoplasma* infection.
+
+.. _sec2-genes-13-01482:
+
+2. Materials and Methods
+========================
+
+.. _sec2dot1-genes-13-01482:
+
+2.1. Participant Recruitment and Sample Collection
+--------------------------------------------------
+
+Patients diagnosed with schizophrenia were recruited using convenient
+sampling when admitted to the psychiatry ward or came for a follow-up at
+the psychiatric clinic in Hospital Canselor Tuanku Muhriz, Kuala Lumpur
+from June 2018 to December 2018. The patients were diagnosed clinically
+by experienced psychiatrists according to the Diagnostic and Statistical
+Manual of Mental Disorders, fifth edition (DSM-V). Immunocompromised
+patients were excluded from this study. Non-schizophrenia volunteers
+were recruited from the community. A screening using Mini-International
+Neuropsychiatric Interview (M.I.N.I) version 7.0.2 for DSM-V was carried
+out to assess the mental status of the volunteers. All the participants
+were screened for *Toxoplasma* infection using serological tests and
+divided into four groups of 15 subjects each: (1) *Toxoplasma* positive
+and schizophrenia (TP+Sz); (2) *Toxoplasma* positive and
+non-schizophrenia (T+NSz); (3) *Toxoplasma* negative and schizophrenia
+(TN+Sz); and (4) *Toxoplasma* negative and non-schizophrenia (TN+NSz).
+Informed consent was obtained from all the subjects involved in the
+study.
+
+A total of 3 mL of blood was taken by venipuncture into an EDTA tube.
+Blood samples were then centrifuged at 3000× *g* for 15 min to obtain
+plasma and stored at −20 °C until further use. The study was conducted
+according to the Declaration of Helsinki and was approved by the
+Research Ethics Committee of the National University of Malaysia (UKM
+PPI/111/8/JEP-2018-281). All the participants were provided with written
+informed consent.
+
+.. _sec2dot2-genes-13-01482:
+
+2.2. Serological Assay
+----------------------
+
+The enzyme-linked immunosorbent assay (ELISA) kits (PLATELIA TOXO IgG;
+Bio-Rad, Marnes-la-Coquette, France) were used to measure the level of
+specific IgG antibodies against *T. gondii*. All the plasma samples were
+tested in duplicates following the protocol provided by the
+manufacturer. A Multiskan FC Microplate Photometer (Thermo Scientific,
+Waltham, MA, USA) was used to measure the IgG antibody titres at 420 nm
+with 650 nm as a reference wavelength. SkanIt software (v5.0) was used
+to analyse the data. A sample was considered as *Toxoplasma* negative if
+the titres for anti-*T. gondii* IgG antibodies were lower than 6 IU/mL,
+while values above 9 IU/mL were considered as positive.
+
+.. _sec2dot3-genes-13-01482:
+
+2.3. Metabolomic Analysis
+-------------------------
+
+The chemicals used were of mass spectrometry-grade purchased from
+Fischer Scientific (Hampton, NH, USA). The extraction of metabolites
+from plasma was performed as described previously, with a slight
+modification [(Dunn et al. 2011)]. Briefly, cold methanol was added to
+200 µL of plasma at 3:1 ratio, vortexed for 15 s, and centrifuged at
+15,800× *g* for 15 min at 4 °C. The supernatant was dried with a vacuum
+centrifuge (Eppendorf, Hamburg, Germany) at room temperature. The
+quality control (QC) sample was prepared by pooling an aliquot from each
+plasma sample, followed by the metabolite extraction procedure identical
+to the plasma samples. The dried supernatant was reconstituted with
+water and filtered with a 0.2 µm cellulose regenerated membrane (Fischer
+Scientific). Water was used as a blank sample. Liquid
+chromatography-tandem mass spectrometry (LCMS/MS) was performed using a
+UHPLC system (Dionex Ultimate 3000; Thermo Scientific) and Orbitrap MS
+(Q Exactive HF; Thermo Scientific). A C18 column (Synchronis; 1.7 µm;
+2.1 × 100 mm; Thermo Scientific) was heated at 55 °C with a flow rate of
+0.45 mL/min. Water and acetonitrile with 0.1% formic acid each were used
+as solvent A and B, respectively. The elution gradient for solvent B was
+0.5% for 1 min, 0.5 to 99.5% for 15 min, 99.5% for 4 min and 99.5 to
+0.5% for 2 min. MS1 was acquired at a resolution of 60,000, while MS2 at
+15,000. Fragmentation was performed with a stepped normalized collision
+energy (NCE) of 20, 40 and 60. The injection volume was set as 2 µL.
+Negative ionisation mode was acquired after the completion of positive
+ion mode. The QC sample was injected 5 times in the beginning and once
+at an interval of every 4 plasma samples. The plasma samples were
+arranged randomly in between the QC injections.
+
+Raw data files were pre-processed with the Compound Discoverer 2.0
+(Thermo Scientific) for peak detection and alignment and background
+subtraction. Molecular features (MFs) with molecular weight, retention
+time and signal intensity were exported as a csv file. Statistical
+analysis was carried out by MetaboAnalyst 4.0 [(Chong et al. 2018)].
+Briefly, the MFs were grouped based on mass and a retention time
+tolerance of 0.025 *m*/*z* and 30 s, respectively. The peaks were
+normalised by cube root and log transformation for positive and negative
+mode, respectively. All the data were auto-scaled. Differentially
+expressed molecular features (DeMFs) were identified by a *t*-test with
+a false discovery rate (FDR) < 0.05. Batch effect was corrected by the
+Combat method [(Johnson, Li, and Rabinovic 2007)] using MetaboAnalyst.
+
+DeMFs were annotated by cross-checking with the mzCloud database
+(HighChem LLC, Bratislava, Slovakia), Human Metabolome Database (HMDB)
+[(Wishart et al. 2018)] and METLIN [(Guijas et al. 2018)]. Metabolites
+that matched with the databases at an accurate mass ≤ 5 ppm and MS2
+spectrum ≥ 70% similarity were assigned as level 2 confidence annotation
+[(Sumner et al. 2007)] and reported in this study.
+
+.. _sec3-genes-13-01482:
+
+3. Results
+==========
+
+.. _sec3dot1-genes-13-01482:
+
+3.1. Demographic and Clinical Data of the Participants
+------------------------------------------------------
+
+The mean age of the four groups ranged from 32 to 44 years old, with the
+youngest being 19 and the oldest at 65 years old (`Table
+1 <#genes-13-01482-t001>`__). The age group of TP+Sz (44.1 years) was
+significantly higher than TN+Sz (36.3) and TN+NSz (32.4). All the groups
+consisted of almost equal gender proportion, with the male participants
+ranging from 40 to 53.3%. Schizophrenia patients were presented with
+various clinical features. All of them were on medications for their
+disorder, with some of them having drugs with anti-toxoplasmic
+activities (40% of TP+Sz and 86.7% of TN+Sz). Almost half of the
+participants (46.7 to 66.7%) in each group had cat(s) as a pet.
+
+.. _sec3dot2-genes-13-01482:
+
+3.2. Integrity of Metabolomic Data
+----------------------------------
+
+One sample of TP+NSz in positive mode was identified as an outlier and
+removed from the analysis (`Supplementary Figure
+S1A <#app1-genes-13-01482>`__). After removing the outlier, the QC
+samples in the positive mode were grouped into two clusters in the PCA
+score plot; this indicated the existence of batch effect (`Supplementary
+Figure S1C <#app1-genes-13-01482>`__). After batch effect adjustment,
+the QC samples were clustered together in the score plot (`Supplementary
+Figure S1D <#app1-genes-13-01482>`__). The QC samples of the negative
+mode were clustered together with the score plot, except the first QC
+sample; this indicated an insufficient equilibrium on the first
+injection (`Supplementary Figure S1B <#app1-genes-13-01482>`__). No
+plasma samples appeared as an outlier in the negative ion mode.
+
+By comparing the plasma samples without QC, there was no distinct
+separation between the compared groups in both the positive (`Figure
+1 <#genes-13-01482-f001>`__) and negative (`Figure
+2 <#genes-13-01482-f002>`__) modes. These results indicate the
+difference in metabolic profiles between the groups was subtle. A total
+of 1031 and 611 MFs were detected in the positive and negative modes,
+respectively (`Table 2 <#genes-13-01482-t002>`__). Fifty-seven DeMFs
+were found between TP+NSz and TN+NSz; however, only six of these were
+identified confidently. No DeMF was found between TP+Sz and TN+Sz; while
+7 out of 76 DeMFs were identified between TN+Sz and TN+NSz. One out of
+the five DeMFs was identified between TP+Sz and TP+NSz.
+
+.. _sec3dot3-genes-13-01482:
+
+3.3. Metabolite Changes in Toxoplasma Infection and Schizophrenia
+-----------------------------------------------------------------
+
+Compared with TN+NSz, the hydroxyglutaric acid level was higher; while
+adenosine monophosphate, inosine and hypoxanthine were lower in TP+NSz
+and TN+Sz (`Table 3 <#genes-13-01482-t003>`__; `Supplementary Figure
+S2 <#app1-genes-13-01482>`__). These findings suggest that the metabolic
+pathways related to these metabolites were altered by *Toxoplasma*
+infection or schizophrenia alone. Compared with TN+NSz, xanthine was
+lower in TN+Sz, implying that xanthine was reduced in schizophrenia.
+
+.. _sec4-genes-13-01482:
+
+4. Discussion
+=============
+
+Exposure to *Toxoplasma* could be a risk factor for schizophrenia. The
+mechanism and multifaceted effects by which toxoplasmosis could be
+involved in the onset of the disease are just starting to be understood.
+Recently, a study by El Mouhawass et al., (2020) revealed the presence
+of a gene polymorphism encoding matrix metallopeptidase-9 (MMP-9)
+proteins in patients who presented with both schizophrenia and
+toxoplasmosis [(El Mouhawess et al. 2020)]. The study postulated that
+the expression of this polymorphism could promote the invasion of immune
+cells infected by *T. gondii* and stimulate nerve cells to produce the
+neurotransmitters involved; this would result in the occurrence of
+schizophrenia. In addition, a metabolomic analysis could be another
+approach to ascertain the underlying mechanism of schizophrenia
+following *T. gondii* infection. In the current study, we detected
+common metabolites present in plasma samples of schizophrenia and
+non-schizophrenia subjects with or without *Toxoplasma* infection that
+may fill the gap in understanding the pathogenesis of schizophrenia
+related to *T. gondii* infection.
+
+The biosynthesis of purine nucleotides in humans can be divided into *de
+novo* and salvage pathways [(Yao et al. 2010)]. *T. gondii* is a purine
+auxotroph that relies entirely on the latter pathway for the
+biosynthesis of purine nucleotides [(Ghérardi and Sarciron 2007)]. The
+parasite captures free forms of purine bases from the host and
+transports them into its cytosol for the energy-saving salvage pathway.
+Although the enzymes in this pathway of the parasite and the transport
+of purine bases from the host to the parasite are well-studied
+[(De-Koning et al. 2003),(Chaudhary et al. 2004),(Chaudhary et al.
+2006)], the alteration of purine metabolism in humans with *Toxoplasma*
+infection has not been reported. Intermediates of the host’s purine
+catabolism, such as adenosine, hypoxanthine, inosine and xanthine, can
+be used by *T. gondii* to synthesise its purine nucleotides [(Krug,
+Marr, and Berens 1989)]. Our results show that adenosine monophosphate,
+inosine and hypoxanthine levels were decreased in the plasma of
+non-schizophrenia subjects with *Toxoplasma* infection compared to
+subjects without both conditions; implying that intermediates of purine
+catabolism are reduced with *Toxoplasma* infection. The reduction of
+these metabolites could be attributed to the consumption of the host’s
+purine catabolism intermediates by the parasite for its nutrient
+retrieval and energy requirement fulfilment.
+
+The present study also managed to highlight a decrease in the
+intermediates of the purine catabolism (inosine, hypoxanthine and
+xanthine) in *Toxoplasma*-negative schizophrenia patients when compared
+to subjects that did not have both conditions. Xanthine and hypoxanthine
+levels are unaffected in first-episode neuroleptic-naïve patients with
+schizophrenia [(Steen et al. 2020)]; while the increased level of
+xanthine was reported in medication-free patients with schizophrenia
+spectrum disorder [(Yao et al. 2010)]. The contradictory findings could
+be attributed to the course of the disease on the levels of these
+metabolites. The schizophrenia patients in this study were on various
+antipsychotic medications, with their effects on purine catabolism
+largely unknown. However, it is unlikely that the use of antipsychotic
+drugs might account for the altered purine catabolism in these patients
+as varying types of drugs were prescribed; this makes it less plausible
+that all these medications had the same effect. Therefore, we postulate
+that the reduction of these intermediates in purine catabolism was
+associated with schizophrenia. Taken together, the down-regulation of
+purine catabolism appears to be a common metabolic alteration in
+*Toxoplasma* infection or schizophrenia alone. However, the possibility
+of the pathway linking *Toxoplasma* infection to the underlying
+pathogenesis of schizophrenia requires further investigation. The
+alterations of purine catabolism in *Toxoplasma* infection and
+schizophrenia patients are shown in `Figure 3 <#genes-13-01482-f003>`__.
+
+An increased level of α-hydroxyglutaric acid is found in 22q11.2
+deletion syndrome [(Napoli et al. 2015)]. This syndrome is one of the
+risk factors for schizophrenia; it is characterised by neurobehavioral
+and cognitive development changes. Moreover, elevated levels of the
+compound are also present in patients with bipolar disorder [(Yoshimi et
+al. 2016)]. Interestingly, our data showed that the α-hydroxyglutaric
+acid level was increased in schizophrenia patients without *Toxoplasma*
+infection compared with subjects without both conditions. These
+observations indicate that the accumulation of α-hydroxyglutaric acid
+might be associated with psychotic disorders due to its effect on brain
+functions. The potential of α-hydroxyglutaric acid as a biomarker for
+schizophrenia and its mechanistic action requires further investigation.
+
+The association between α-hydroxyglutaric acid levels and *Toxoplasma*
+infection has not been reported to date. Our results show that the
+α-hydroxyglutaric acid level was elevated in non-schizophrenia subjects
+with *Toxoplasma* infection compared to subjects without both
+conditions. Due to the possible link of α-hydroxyglutaric acid to
+schizophrenia, the relationship between *Toxoplasma* infection and
+schizophrenia might be explained by the elevated level of
+α-hydroxyglutaric acid. Accumulation of α-hydroxyglutaric acid due to
+*Toxoplasma* infection might be implicated in the pathogenesis of
+schizophrenia.
+
+In this study, adenosine monophosphate, inosine, hypoxanthine, xanthine
+and α-hydroxyglutaric acid levels remained unchanged in subjects with
+both conditions compared with subjects with either condition. These
+findings suggest a lack of synergistic effect of *Toxoplasma* infection
+and schizophrenia on purine catabolism and α-hydroxyglutaric acid
+levels. Another possible explanation is that either condition is
+sufficient to elicit the maximal alteration to the levels of these
+metabolites.
+
+This study contains several limitations. Firstly, the influence of
+antipsychotic medications and lifestyle factors, such as having cat(s)
+as pet, smoking, consuming alcohol and body mass index, on the metabolic
+pathways could not be excluded. Secondly, the sample size for each group
+was small. Thirdly, most of the DeMFs were not identified. Hence,
+further studies with a larger sample size that consider the
+first-episode neuroleptic-naïve patients or medication-free chronic
+patients and their lifestyle factors are required to verify our
+findings. In addition, targeted metabolomic approaches could be carried
+out to complement the results of this study.
+
+Despite these limitations, the current findings support schizophrenia
+research in the future to identify the direct connection of
+toxoplasmosis with schizophrenia and the mechanisms involved. These
+could provide crucial scientific evidence that shifts the paradigms of
+diagnosing and treating schizophrenia patients by considering the
+infection.
+
+.. _sec5-genes-13-01482:
+
+5. Conclusions
+==============
+
+In conclusion, this study reveals that *Toxoplasma* infection and
+schizophrenia share some common metabolic alterations. These changes
+include the accumulation of α-hydroxyglutaric acid and a decrease of
+adenosine monophosphate, inosine, hypoxanthine and xanthine; this
+indicates a reduction of purine catabolism. These metabolites might
+serve as the link between *Toxoplasma* infection and schizophrenia,
+explaining the underlying pathogenesis of schizophrenia concerning
+*Toxoplasma* infection as a risk factor.
+
+We would like to extend our gratitude to Wathiqah Wahid and Zuri
+Shahidii Kadir for their support and technical assistance in this study.
+
+The following supporting information can be downloaded at:
+https://www.mdpi.com/article/10.3390/genes13081482/s1, Figure S1:
+Distribution of QC and plasma samples in PCA score plot; Figure S2:
+Boxplots of (A) adenosine monophosphate, (B) inosine, (C) hypoxanthine,
+(D) xanthine, (E) uric acid and (F) α-hydroxyglutaric acid.
+
+.. container:: caption
+
+   .. rubric:: 
+
+   Click here for additional data file.
+
+Conceptualization, E.O. and J.K.T.; formal analysis, A.S.M.Z. and
+J.K.T.; funding acquisition, E.O.; methodology, A.S.M.Z. and J.K.T.;
+supervision, E.O., S.S. and Z.M.I.; writing—original draft, E.O. and
+J.K.T.; writing—review and editing, A.S.M.Z., S.S., Z.M.I. and J.K.T.
+All authors have read and agreed to the published version of the
+manuscript.
+
+The study was conducted in accordance with the Declaration of Helsinki,
+and approved by the Research Ethics Committee of the National University
+of Malaysia (protocol code UKM PPI/111/8/JEP-2018-281, on 11 June 2018).
+
+Informed consent was obtained from all the subjects involved in the
+study.
+
+Data will be available for others to request.
+
+The authors declare no conflict of interest.
+
+.. figure:: genes-13-01482-g001
+   :alt: Distribution of the plasma samples from positive mode in PCA
+   score plots for different group comparisons. Comparisons were made
+   for (**A**) TP+NSz vs. TN+NSz, (**B**) TP+Sz vs. TN+Sz, (**C**) TN+Sz
+   vs. TN+NSz and (**D**) TP+Sz vs. TP+NSz. TP+NSz: non-schizophrenia
+   subjects with *Toxoplasma* infection; TN+NSz: non-schizophrenia
+   subjects without *Toxoplasma* infection; TP+Sz: schizophrenia
+   subjects with *Toxoplasma* infection; TN+Sz: schizophrenia subjects
+   with *Toxoplasma* infection.
+   :name: genes-13-01482-f001
+
+   Distribution of the plasma samples from positive mode in PCA score
+   plots for different group comparisons. Comparisons were made for
+   (**A**) TP+NSz vs. TN+NSz, (**B**) TP+Sz vs. TN+Sz, (**C**) TN+Sz vs.
+   TN+NSz and (**D**) TP+Sz vs. TP+NSz. TP+NSz: non-schizophrenia
+   subjects with *Toxoplasma* infection; TN+NSz: non-schizophrenia
+   subjects without *Toxoplasma* infection; TP+Sz: schizophrenia
+   subjects with *Toxoplasma* infection; TN+Sz: schizophrenia subjects
+   with *Toxoplasma* infection.
+
+.. figure:: genes-13-01482-g002
+   :alt: Distribution of the plasma samples from negative mode in PCA
+   score plots for different group comparisons. Comparisons were made
+   for (**A**) TP+NSz vs. TN+NSz, (**B**) TP+Sz vs. TN+Sz, (**C**) TN+Sz
+   vs. TN+NSz and (**D**) TP+Sz vs. TP+NSz. TP+NSz: non-schizophrenia
+   subjects with *Toxoplasma* infection; TN+NSz: non-schizophrenia
+   subjects without *Toxoplasma* infection; TP+Sz: schizophrenia
+   subjects with *Toxoplasma* infection; TN+Sz: schizophrenia subjects
+   with *Toxoplasma* infection.
+   :name: genes-13-01482-f002
+
+   Distribution of the plasma samples from negative mode in PCA score
+   plots for different group comparisons. Comparisons were made for
+   (**A**) TP+NSz vs. TN+NSz, (**B**) TP+Sz vs. TN+Sz, (**C**) TN+Sz vs.
+   TN+NSz and (**D**) TP+Sz vs. TP+NSz. TP+NSz: non-schizophrenia
+   subjects with *Toxoplasma* infection; TN+NSz: non-schizophrenia
+   subjects without *Toxoplasma* infection; TP+Sz: schizophrenia
+   subjects with *Toxoplasma* infection; TN+Sz: schizophrenia subjects
+   with *Toxoplasma* infection.
+
+.. figure:: genes-13-01482-g003
+   :alt: Alteration of the purine catabolic pathway in *Toxoplasma*
+   infection and schizophrenia. The down arrow indicates a
+   down-regulated level. AMP: adenosine monophosphate; GMP: guanosine
+   monophosphate; IMP: inosine monophosphate.
+   :name: genes-13-01482-f003
+
+   Alteration of the purine catabolic pathway in *Toxoplasma* infection
+   and schizophrenia. The down arrow indicates a down-regulated level.
+   AMP: adenosine monophosphate; GMP: guanosine monophosphate; IMP:
+   inosine monophosphate.
+
+.. container:: table-wrap
+   :name: genes-13-01482-t001
+
+   genes-13-01482-t001_Table 1
+
+   .. container:: caption
+
+      .. rubric:: 
+
+      Socio-demographic and clinical data of the participants.
+
+   +-------------+-------------+-------------+-------------+-------------+
+   |             | TP+Sz       | TN+Sz       | TP+NSz      | TN+NSz      |
+   +=============+=============+=============+=============+=============+
+   | Number (N)  | 15          | 15          | 15          | 15          |
+   +-------------+-------------+-------------+-------------+-------------+
+   | **General** |             |             |             |             |
+   +-------------+-------------+-------------+-------------+-------------+
+   | Age in      | 44.1 ± 11.5 | 34 ± 7.8    | 36.3 ± 12.5 | 32.4 ± 8.6  |
+   | years, mean |             | :sup:`a`    |             | :sup:`a`    |
+   | ± SD        |             |             |             |             |
+   +-------------+-------------+-------------+-------------+-------------+
+   | Max age,    | 60          | 45          | 65          | 50          |
+   | years       |             |             |             |             |
+   +-------------+-------------+-------------+-------------+-------------+
+   | Min age,    | 19          | 23          | 19          | 23          |
+   | years       |             |             |             |             |
+   +-------------+-------------+-------------+-------------+-------------+
+   | Gender, N   |             |             |             |             |
+   +-------------+-------------+-------------+-------------+-------------+
+   | Male        | 8           | 8           | 7           | 6           |
+   +-------------+-------------+-------------+-------------+-------------+
+   | Female      | 7           | 7           | 8           | 9           |
+   +-------------+-------------+-------------+-------------+-------------+
+   | **Clinical  |             |             |             |             |
+   | features (N |             |             |             |             |
+   | of          |             |             |             |             |
+   | part        |             |             |             |             |
+   | icipants)** |             |             |             |             |
+   +-------------+-------------+-------------+-------------+-------------+
+   | Age of      | 0           | 3           | NA          | NA          |
+   | onset       | 15          | 12          |             |             |
+   | Teenagers   |             |             |             |             |
+   | (13–17      |             |             |             |             |
+   | years old)  |             |             |             |             |
+   | Young       |             |             |             |             |
+   | adults      |             |             |             |             |
+   | (18–35      |             |             |             |             |
+   | years old)  |             |             |             |             |
+   +-------------+-------------+-------------+-------------+-------------+
+   | Disease     | 1           | 0           | NA          | NA          |
+   | onset       | 14          | 13          |             |             |
+   | Recent      | 0           | 2           |             |             |
+   | onset       |             |             |             |             |
+   | psychosis   |             |             |             |             |
+   | (≤24        |             |             |             |             |
+   | months)     |             |             |             |             |
+   | Established |             |             |             |             |
+   | (>24        |             |             |             |             |
+   | months)     |             |             |             |             |
+   | DIP         |             |             |             |             |
+   +-------------+-------------+-------------+-------------+-------------+
+   | No. of      | 12          | 12          | NA          | NA          |
+   | hospi       | 3           | 3           |             |             |
+   | talizations |             |             |             |             |
+   | (severity)  |             |             |             |             |
+   | 0–6 times   |             |             |             |             |
+   | ≥7 times    |             |             |             |             |
+   +-------------+-------------+-------------+-------------+-------------+
+   | Treatmen    | 1           | 3           | NA          | NA          |
+   | t-resistant | 14          | 12          |             |             |
+   | sc          |             |             |             |             |
+   | hizophrenia |             |             |             |             |
+   | Yes         |             |             |             |             |
+   | No          |             |             |             |             |
+   +-------------+-------------+-------------+-------------+-------------+
+   | Family      | 8           | 9           | 0           | 1           |
+   | history of  | 7           | 6           | 15          | 14          |
+   | psychiatric |             |             |             |             |
+   | illness, N  |             |             |             |             |
+   | Yes         |             |             |             |             |
+   | No          |             |             |             |             |
+   +-------------+-------------+-------------+-------------+-------------+
+   | Duration of | 3           | 6           | NA          | NA          |
+   | illness     | 6           | 4           |             |             |
+   | 1–8 years   | 6           | 5           |             |             |
+   | 9–16 years  |             |             |             |             |
+   | ≥17 years   |             |             |             |             |
+   +-------------+-------------+-------------+-------------+-------------+
+   | On          | 15          | 15          | NA          | NA          |
+   | medication  | 0           | 0           |             |             |
+   | for         |             |             |             |             |
+   | sc          |             |             |             |             |
+   | hizophrenia |             |             |             |             |
+   | Yes         |             |             |             |             |
+   | No          |             |             |             |             |
+   +-------------+-------------+-------------+-------------+-------------+
+   | Drugs with  | 6           | 13          | NA          | NA          |
+   | anti-       | 9           | 2           |             |             |
+   | toxoplasmic |             |             |             |             |
+   | activity    |             |             |             |             |
+   | Yes         |             |             |             |             |
+   | No          |             |             |             |             |
+   +-------------+-------------+-------------+-------------+-------------+
+   | Illicit     | 2           | 4           | 0           | 0           |
+   | drugs       | 13          | 11          | 15          | 15          |
+   | Yes         |             |             |             |             |
+   | No          |             |             |             |             |
+   +-------------+-------------+-------------+-------------+-------------+
+   | **Lifestyle |             |             |             |             |
+   | (N of       |             |             |             |             |
+   | part        |             |             |             |             |
+   | icipants)** |             |             |             |             |
+   +-------------+-------------+-------------+-------------+-------------+
+   | Having      | 7           | 8           | 8           | 10          |
+   | cat(s) as   | 8           | 7           | 7           | 5           |
+   | pet         |             |             |             |             |
+   | Yes         |             |             |             |             |
+   | No          |             |             |             |             |
+   +-------------+-------------+-------------+-------------+-------------+
+   | Smoking     | 5           | 6           | 1           | 0           |
+   | Yes         | 10          | 9           | 14          | 15          |
+   | No          |             |             |             |             |
+   +-------------+-------------+-------------+-------------+-------------+
+   | Alcohol     | 4           | 2           | 0           | 1           |
+   | intake      | 11          | 13          | 15          | 14          |
+   | Yes         |             |             |             |             |
+   | No          |             |             |             |             |
+   +-------------+-------------+-------------+-------------+-------------+
+
+   NA: data not available; DIP: drug-induced psychosis; TP+NSz:
+   non-schizophrenia subjects with *Toxoplasma* infection; TN+NSz:
+   non-schizophrenia subjects without *Toxoplasma* infection; TP+Sz:
+   schizophrenia subjects with *Toxoplasma* infection; TN+Sz:
+   schizophrenia subjects with *Toxoplasma* infection. Data were
+   analysed using ANOVA and Tukey post hoc test with *p* < 0.05
+   considered as statistically significant; :sup:`a` compared with
+   TP+Sz.
+
+.. container:: table-wrap
+   :name: genes-13-01482-t002
+
+   genes-13-01482-t002_Table 2
+
+   .. container:: caption
+
+      .. rubric:: 
+
+      Number of total, differentially expressed and identified MFs in
+      different group comparisons.
+
+   ============================= ====== ===== ====== ======
+   Numbers                       TP+NSz TP+Sz TN+Sz  TP+Sz
+                                 vs.    vs.   vs.    vs.
+                                 TN+NSz TN+Sz TN+NSz TP+NSz
+   ============================= ====== ===== ====== ======
+   **Total MFs**                                     
+   Positive ion mode             1031   1031  1031   1031
+   Negative ion mode             611    611   611    611
+   **DeMFs**                                         
+   Positive ion mode             36     0     46     4
+   Negative ion mode             21     0     30     1
+   **Total identified DeMFs \*** 6      0     7      1
+   ============================= ====== ===== ====== ======
+
+   \* only molecular features (MFs) identified at level 2 confidence
+   annotation were reported; TP+NSz: non-schizophrenia subjects with
+   *Toxoplasma* infection; TN+NSz: non-schizophrenia subjects without
+   *Toxoplasma* infection; TP+Sz: schizophrenia subjects with
+   *Toxoplasma* infection; TN+Sz: schizophrenia subjects with
+   *Toxoplasma* infection.
+
+.. container:: table-wrap
+   :name: genes-13-01482-t003
+
+   genes-13-01482-t003_Table 3
+
+   .. container:: caption
+
+      .. rubric:: 
+
+      List of DeMFs in different group comparisons.
+
+   +-------+-------+-------+-------+-------+---+-------+-------+
+   | M     | Mole  | Rete  | Dat   | Fold  |   |       |       |
+   | etabo | cular | ntion | abase | C     |   |       |       |
+   | lites | W     | Time  | ID    | hange |   |       |       |
+   |       | eight | (min) |       | \*    |   |       |       |
+   |       |       |       |       | (FDR) |   |       |       |
+   +=======+=======+=======+=======+=======+===+=======+=======+
+   | 3,3   | 178.  | 1.77  | mz    | −6.9  | - | −5.2  | -     |
+   | ′-Thi | 02893 |       | c3298 | (7.8  |   | (2.1  |       |
+   | oprop |       |       |       | ×     |   | ×     |       |
+   | ionic |       |       |       | 10\   |   | 10\   |       |
+   | acid  |       |       |       | :sup: |   | :sup: |       |
+   |       |       |       |       | `−5`) |   | `−4`) |       |
+   +-------+-------+-------+-------+-------+---+-------+-------+
+   | α-    | 148.  | 0.72  | m     | +2.1  | - | +2.8  | -     |
+   | Hydro | 03596 |       | zc372 | (0    |   | (1.8  |       |
+   | xyglu |       |       |       | .016) |   | ×     |       |
+   | taric |       |       |       |       |   | 10\   |       |
+   | acid  |       |       |       |       |   | :sup: |       |
+   |       |       |       |       |       |   | `−7`) |       |
+   +-------+-------+-------+-------+-------+---+-------+-------+
+   | Aden  | 347.  | 0.72  | m     | −2.2  | - | −2.8  | -     |
+   | osine | 06249 |       | zc252 | (0    |   | (3.6  |       |
+   | mon   |       |       |       | .017) |   | ×     |       |
+   | ophos |       |       |       |       |   | 10\   |       |
+   | phate |       |       |       |       |   | :sup: |       |
+   |       |       |       |       |       |   | `−4`) |       |
+   +-------+-------+-------+-------+-------+---+-------+-------+
+   | C     | 113.  | 2.86  | mz    | -     | - | +1.9  | +2.0  |
+   | aprol | 08415 |       | c2867 |       |   | (5.7  | (2.4  |
+   | actam |       |       |       |       |   | ×     | ×     |
+   |       |       |       |       |       |   | 10\   | 10\   |
+   |       |       |       |       |       |   | :sup: | :sup: |
+   |       |       |       |       |       |   | `−8`) | `−8`) |
+   +-------+-------+-------+-------+-------+---+-------+-------+
+   | Hy    | 136.  | 0.82  | m     | −4.2  | - | −12.3 | -     |
+   | poxan | 03832 |       | zc441 | (0    |   | (3.4  |       |
+   | thine |       |       |       | .017) |   | ×     |       |
+   |       |       |       |       |       |   | 10\   |       |
+   |       |       |       |       |       |   | :sup: |       |
+   |       |       |       |       |       |   | `−8`) |       |
+   +-------+-------+-------+-------+-------+---+-------+-------+
+   | In    | 268.  | 1.00  | mz    | −5.1  | - | −     | -     |
+   | osine | 08026 |       | c1234 | (0    |   | 148.8 |       |
+   |       |       |       |       | .013) |   | (4.7  |       |
+   |       |       |       |       |       |   | ×     |       |
+   |       |       |       |       |       |   | 10\ : |       |
+   |       |       |       |       |       |   | sup:` |       |
+   |       |       |       |       |       |   | −10`) |       |
+   +-------+-------+-------+-------+-------+---+-------+-------+
+   | Trii  | 191.  | 0.95  | mz    | −2.6  | - | -     | -     |
+   | sopro | 15198 |       | c2688 | (0    |   |       |       |
+   | panol |       |       |       | .002) |   |       |       |
+   | amine |       |       |       |       |   |       |       |
+   +-------+-------+-------+-------+-------+---+-------+-------+
+   | Xan   | 152.  | 0.87  | m     | -     | - | −1.7  | -     |
+   | thine | 03229 |       | zc781 |       |   | (0    |       |
+   |       |       |       |       |       |   | .049) |       |
+   +-------+-------+-------+-------+-------+---+-------+-------+
+
+   \*: relative change compared to the denominator; FDR: false discovery
+   rate of *t*-test; +: up-regulated; −: down-regulated; mzc: mzCloud
+   database ID; TP+NSz: non-schizophrenia subjects with *Toxoplasma*
+   infection; TN+NSz: non-schizophrenia subjects without *Toxoplasma*
+   infection; TP+Sz: schizophrenia subjects with *Toxoplasma* infection;
+   TN+Sz: schizophrenia subjects with *Toxoplasma* infection.
+
+.. container:: references csl-bib-body hanging-indent
+   :name: refs
+
+   .. container:: csl-entry
+      :name: ref-B22-genes-13-01482
+
+      Chaudhary, K., J.A. Darling, L.M. Fohl, W.J. Sullivan, R.G.K.
+      Donald, E.R. Pfefferkorn, B. Ullman, and D.S. Roost. 2004. “Purine
+      Salvage Pathways in the Apicomplexan Parasite *Toxoplasma
+      Gondii*.” *J. Biol. Chem.* 279: 31224–27.
+      https://doi.org/10.1074/jbc.M404232200.
+
+   .. container:: csl-entry
+      :name: ref-B23-genes-13-01482
+
+      Chaudhary, K., M.T. Li, K. Kim, and D.S. Roos. 2006.
+      “\ *Toxoplasma Gondii* Purine Nucleoside Phosphorylase Biochemical
+      Characterization, Inhibitor Profiles, and Comparison with the
+      *Plasmodium Falciparum* Ortholog.” *J. Biol. Chem.* 281: 25652–58.
+      https://doi.org/10.1074/jbc.M602624200.
+
+   .. container:: csl-entry
+      :name: ref-B13-genes-13-01482
+
+      Chong, J., O. Soufan, C. Li, I. Caraus, S. Li, G. Bourque, D.S.
+      Wishart, and J. Xia. 2018. “MetaboAnalyst 4.0: Towards More
+      Transparent and Integrative Metabolomics Analysis.” *Nucleic Acids
+      Res.* 46: W486–94. https://doi.org/10.1093/nar/gky310.
+
+   .. container:: csl-entry
+      :name: ref-B21-genes-13-01482
+
+      De-Koning, H.P., M.I. Al-Salabi, A.M. Cohen, G.H. Coombs, and J.M.
+      Wastling. 2003. “Identification and Characterisation of High
+      Affinity Nucleoside and Nucleobase Transporters in *Toxoplasma
+      Gondii*.” *Int. J. Parasitol.* 33: 821–31.
+      https://doi.org/10.1016/S0020-7519(03)00091-2.
+
+   .. container:: csl-entry
+      :name: ref-B12-genes-13-01482
+
+      Dunn, W.B., D. Broadhurst, P. Begley, E. Zelena, S.
+      Francis-Mcintyre, N. Anderson, M. Brown, J.D. Knowles, A. Halsall,
+      and J.N. Haselden. 2011. “Procedures for Large-Scale Metabolic
+      Profiling of Serum and Plasma Using Gas Chromatography and Liquid
+      Chromatography Coupled to Mass Spectrometry.” *Nat. Protoc.* 6:
+      1060–83. https://doi.org/10.1038/nprot.2011.335.
+
+   .. container:: csl-entry
+      :name: ref-B18-genes-13-01482
+
+      El Mouhawess, A., A. Hammoud, M. Zoghbi, S. Hallit, C. Haddad, K.
+      El Haddad, S. El Khoury, J. Tannous, S. Obeid, and M.A. Halabi.
+      2020. “Relationship Between *Toxoplasma Gondii* Seropositivity and
+      Schizophrenia in the Lebanese Population: Potential Implication of
+      Genetic Polymorphism of MMP-9.” *BMC Psychiatry* 20.
+      https://doi.org/10.1186/s12888-020-02683-0.
+
+   .. container:: csl-entry
+      :name: ref-B10-genes-13-01482
+
+      Elsheikha, H.M., D. Büsselberg, and X.Q. Zhu. 2016. “The Known and
+      Missing Links Between *Toxoplasma Gondii* and Schizophrenia.”
+      *Metab. Brain Dis.* 31: 749–59.
+      https://doi.org/10.1007/s11011-016-9822-1.
+
+   .. container:: csl-entry
+      :name: ref-B6-genes-13-01482
+
+      Emelia, O., R.N. Amal, Z.Z. Ruzanna, H. Shahida, Z. Azzubair, K.S.
+      Tan, S. Noor Aadila, N.A.M. Siti, and M.Y. Aisah. 2012.
+      “\ `Seroprevalence of Anti-Toxoplasma Gondii IgG Antibody in
+      Patients with
+      Schizophrenia <https://www.ncbi.nlm.nih.gov/pubmed/22543615>`__.”
+      *Trop. Biomed.* 29: 151–59.
+
+   .. container:: csl-entry
+      :name: ref-B7-genes-13-01482
+
+      Flegr, J., and J. Horáček. 2020. “Negative Effects of Latent
+      Toxoplasmosis on Mental Health.” *Front. Psychiatry* 31: 749–59.
+      https://doi.org/10.3389/fpsyt.2019.01012.
+
+   .. container:: csl-entry
+      :name: ref-B1-genes-13-01482
+
+      Fuglewicz, A.J., P. Piotrowski, and A. Stodolak. 2017.
+      “Relationship Between Toxoplasmosis and Schizophrenia: A Review.”
+      *Adv. Clin. Exp. Med.* 26: 1031–36.
+      https://doi.org/10.17219/acem/61435.
+
+   .. container:: csl-entry
+      :name: ref-B20-genes-13-01482
+
+      Ghérardi, A., and M.E. Sarciron. 2007. “Molecules Targeting the
+      Purine Salvage Pathway in Apicomplexan Parasites.” *Trends
+      Parasitol.* 23: 384–89. https://doi.org/10.1016/j.pt.2007.06.003.
+
+   .. container:: csl-entry
+      :name: ref-B16-genes-13-01482
+
+      Guijas, C., J.R. Montenegro-Burke, X. Domingo-Almenara, A.
+      Palermo, B. Warth, G. Hermann, G. Koellensperger, T. Huan, W.
+      Uritboonthai, and A.E. Aisporna. 2018. “METLIN: A Technology
+      Platform for Identifying Knowns and Unknowns.” *Anal. Chem.* 90:
+      3156–64. https://doi.org/10.1021/acs.analchem.7b04424.
+
+   .. container:: csl-entry
+      :name: ref-B14-genes-13-01482
+
+      Johnson, W.E., C. Li, and A. Rabinovic. 2007. “Adjusting Batch
+      Effects in Microarray Expression Data Using Empirical Bayes
+      Methods.” *Biostatistics* 8: 118–27.
+      https://doi.org/10.1093/biostatistics/kxj037.
+
+   .. container:: csl-entry
+      :name: ref-B24-genes-13-01482
+
+      Krug, E.C., J.J. Marr, and R.L. Berens. 1989. “Purine Metabolism
+      in *Toxoplasma Gondii*.” *J. Biol. Chem.* 264: 10601–7.
+      https://doi.org/10.1016/S0021-9258(18)81663-5.
+
+   .. container:: csl-entry
+      :name: ref-B11-genes-13-01482
+
+      Marder, S.R., and T.D. Cannon. 2019. “Schizophrenia.” *N. Engl. J.
+      Med.* 381: 1753–61. https://doi.org/10.1056/NEJMra1808803.
+
+   .. container:: csl-entry
+      :name: ref-B2-genes-13-01482
+
+      McAuley, J.B. 2014. “Congenital Toxoplasmosis.” *J. Pediatr.
+      Infect. Dis. Soc.* 3: S30–35.
+      https://doi.org/10.1093/jpids/piu077.
+
+   .. container:: csl-entry
+      :name: ref-B26-genes-13-01482
+
+      Napoli, E., F. Tassone, S. Wong, K. Angkustsiri, T.J. Simon, G.
+      Song, and C. Giulivi. 2015. “Mitochondrial Citrate
+      Transporter-Dependent Metabolic Signature in the 22q11.2 Deletion
+      Syndrome.” *J. Biol. Chem.* 290: 23240–53.
+      https://doi.org/10.1074/jbc.M115.672360.
+
+   .. container:: csl-entry
+      :name: ref-B3-genes-13-01482
+
+      Nimir, A.R., E. Osman, I.A.A. Ibrahim, and A.M. Saliem. 2013. “Is
+      It Toxoplasma Encephalitis, HIV Encephalopathy or Brain
+      Tuberculoma?” *BMJ Case Rep.* 2013.
+      https://doi.org/10.1136/bcr-2013-008803.
+
+   .. container:: csl-entry
+      :name: ref-B8-genes-13-01482
+
+      Omar, A., O.C. Bakar, N.F. Adam, H. Osman, A. Osman, A.H.
+      Suleiman, M.R.A. Manaf, and M.I. Selamat. 2015. “Seropositivity
+      and Serointensity of *Toxoplasma Gondii* Antibodies and DNA Among
+      Patients with Schizophrenia.” *Korean J. Parasitol.* 53: 29–34.
+      https://doi.org/10.3347/kjp.2015.53.1.29.
+
+   .. container:: csl-entry
+      :name: ref-B25-genes-13-01482
+
+      Steen, N.E., I. Dieset, S. Hope, T.S.J. Vedal, O.B. Smeland, W.
+      Matson, R. Kaddurah-Daouk, I. Agartz, I. Melle, and S. Djurovic.
+      2020. “Metabolic Dysfunctions in the Kynurenine Pathway,
+      Noradrenergic and Purine Metabolism in Schizophrenia and Bipolar
+      Disorders.” *Psychol. Med.* 50: 595–606.
+      https://doi.org/10.1017/S0033291719000400.
+
+   .. container:: csl-entry
+      :name: ref-B17-genes-13-01482
+
+      Sumner, L.W., A. Amberg, D. Barrett, M.H. Beale, R. Beger, C.A.
+      Daykin, T.W.-M. Fan, O. Fiehn, R. Goodacre, and J.L. Griffin.
+      2007. “Proposed Minimum Reporting Standards for Chemical
+      Analysis.” *Metabolomics* 3: 211–21.
+      https://doi.org/10.1007/s11306-007-0082-2.
+
+   .. container:: csl-entry
+      :name: ref-B5-genes-13-01482
+
+      Torrey, E.F., J.J. Bartko, and R.H. Yolken. 2012. “\ *Toxoplasma
+      Gondii* and Other Risk Factors for Schizophrenia: An Update.”
+      *Schizophr. Bull.* 38: 642–47.
+      https://doi.org/10.1093/schbul/sbs043.
+
+   .. container:: csl-entry
+      :name: ref-B4-genes-13-01482
+
+      Torrey, E.F., and R.H. Yolken. 2003. “\ *Toxoplasma Gondii* and
+      Schizophrenia.” *Emerg. Infect. Dis.* 9: 1375–80.
+      https://doi.org/10.3201/eid0911.030143.
+
+   .. container:: csl-entry
+      :name: ref-B15-genes-13-01482
+
+      Wishart, D.S., Y.D. Feunang, A. Marcu, A.C. Guo, K. Liang, R.
+      Vázquez-Fresno, T. Sajed, D. Johnson, C. Li, and N. Karu. 2018.
+      “HMDB 4.0: The Human Metabolome Database for 2018.” *Nucleic Acids
+      Res.* 46: D608–17. https://doi.org/10.1093/nar/gkx1089.
+
+   .. container:: csl-entry
+      :name: ref-B19-genes-13-01482
+
+      Yao, J.K., G.G. Dougherty, R.D. Reddy, M.S. Keshavan, D.M.
+      Montrose, W.R. Matson, J. McEvoy, and R. Kaddurah-Daouk. 2010.
+      “Homeostatic Imbalance of Purine Catabolism in First-Episode
+      Neuroleptic-Naïve Patients with Schizophrenia.” *PLoS ONE* 5.
+      https://doi.org/10.1371/journal.pone.0009508.
+
+   .. container:: csl-entry
+      :name: ref-B9-genes-13-01482
+
+      Yolken, R.H., F.B. Dickerson, and E. Fuller Torrey. 2009.
+      “Toxoplasma and Schizophrenia.” *Parasite Immunol.* 31: 706–15.
+      https://doi.org/10.1111/j.1365-3024.2009.01131.x.
+
+   .. container:: csl-entry
+      :name: ref-B27-genes-13-01482
+
+      Yoshimi, N., T. Futamura, K. Kakumoto, A.M. Salehi, C.M. Sellgren,
+      J. Holmén-Larsson, J. Jakobsson, E. Pålsson, M. Landén, and K.
+      Hashimoto. 2016. “Blood Metabolomics Analysis Identifies
+      Abnormalities in the Citric Acid Cycle, Urea Cycle, and Amino Acid
+      Metabolism in Bipolar Disorder.” *BBA Clin.* 5: 151–58.
+      https://doi.org/10.1016/j.bbacli.2016.03.008.

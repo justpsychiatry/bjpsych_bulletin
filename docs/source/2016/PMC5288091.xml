@@ -1,112 +1,802 @@
-<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
-<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-journalpublishing1.dtd?><?SourceDTD.Version 1.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">BJPsych Bull</journal-id><journal-id journal-id-type="iso-abbrev">BJPsych Bull</journal-id><journal-id journal-id-type="hwp">pbrcpsych</journal-id><journal-title-group><journal-title>BJPsych Bulletin</journal-title></journal-title-group><issn pub-type="ppub">2056-4694</issn><issn pub-type="epub">2056-4708</issn><publisher><publisher-name>Royal College of Psychiatrists</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">5288091</article-id><article-id pub-id-type="doi">10.1192/pb.bp.115.052753</article-id><article-categories><subj-group subj-group-type="heading"><subject>Special Articles</subject></subj-group></article-categories><title-group><article-title>Mental capacity and borderline personality disorder</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Ayre</surname><given-names>Karyn</given-names></name><xref ref-type="aff" rid="A1">1</xref><xref ref-type="corresp" rid="cor1"/></contrib><contrib contrib-type="author"><name><surname>Owen</surname><given-names>Gareth S.</given-names></name><xref ref-type="aff" rid="A2">2</xref></contrib><contrib contrib-type="author"><name><surname>Moran</surname><given-names>Paul</given-names></name><xref ref-type="aff" rid="A3">3</xref></contrib></contrib-group><aff id="A1"><label>1</label>South London and Maudsley NHS Foundation Trust, London</aff><aff id="A2"><label>2</label>Institute of Psychiatry, Psychology and Neuroscience, King's College London</aff><aff id="A3"><label>3</label>University of Bristol</aff><author-notes><corresp id="cor1">
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article">    <?properties open_access?>    <?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN?>    <?DTDIdentifier.IdentifierType public?>    <?SourceDTD.DTDName JATS-journalpublishing1.dtd?>    <?SourceDTD.Version 1.0?>    <?ConverterInfo.XSLTName jp2nlmx2.xsl?>    <?ConverterInfo.Version 1?>
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="nlm-ta">BJPsych Bull</journal-id>
+            <journal-id journal-id-type="iso-abbrev">BJPsych Bull</journal-id>
+            <journal-id journal-id-type="hwp">pbrcpsych</journal-id>
+            <journal-title-group>
+                <journal-title>BJPsych Bulletin</journal-title>
+            </journal-title-group>
+            <issn pub-type="ppub">2056-4694</issn>
+            <issn pub-type="epub">2056-4708</issn>
+            <publisher>
+                <publisher-name>Royal College of Psychiatrists</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="pmcid">5288091</article-id>
+            <article-id pub-id-type="doi">10.1192/pb.bp.115.052753</article-id>
+            <article-categories>
+                <subj-group subj-group-type="heading">
+                    <subject>Special Articles</subject>
+                </subj-group>
+            </article-categories>
+            <title-group>
+                <article-title>Mental capacity and borderline personality disorder</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Ayre</surname>
+                        <given-names>Karyn</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                    <xref ref-type="corresp" rid="cor1" />
+                </contrib>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Owen</surname>
+                        <given-names>Gareth S.</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A2">2</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Moran</surname>
+                        <given-names>Paul</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A3">3</xref>
+                </contrib>
+            </contrib-group>
+            <aff id="A1">
+                <label>1</label>South London and Maudsley NHS Foundation Trust, London</aff>
+            <aff id="A2">
+                <label>2</label>Institute of Psychiatry, Psychology and Neuroscience, King's College London</aff>
+            <aff id="A3">
+                <label>3</label>University of Bristol</aff>
+            <author-notes>
+                <corresp id="cor1">
 Correspondence to Karyn Ayre (<email>karyn.ayre@slam.nhs.uk</email>)
-</corresp><fn><p><bold>Karyn Ayre</bold> is an Academic Clinical Fellow, South London and Maudsley NHS Foundation Trust, London; <bold>Gareth S. Owen</bold> is a Clinical Senior Lecturer and Honorary Consultant Psychiatrist, Institute of Psychiatry, Psychology and Neuroscience, King's College London; <bold>Paul Moran</bold> is a Reader and Honorary Consultant Psychiatrist, Centre for Academic Mental Health, School of Social and Community Medicine, University of Bristol.</p></fn></author-notes><pub-date pub-type="ppub"><month>2</month><year>2017</year></pub-date><volume>41</volume><issue>1</issue><fpage>33</fpage><lpage>36</lpage><history><date date-type="received"><day>30</day><month>9</month><year>2015</year></date><date date-type="rev-recd"><day>2</day><month>2</month><year>2016</year></date><date date-type="accepted"><day>24</day><month>2</month><year>2016</year></date></history><permissions><copyright-statement>&#x000a9; 2017 The Authors</copyright-statement><copyright-year>2017</copyright-year><license license-type="creative-commons" xlink:href="http://creativecommons.org/licenses/by/4.0"><license-p>This is an open-access article published by the Royal College of Psychiatrists and distributed under the terms of the Creative Commons Attribution License (<uri xlink:href="http://creativecommons.org/licenses/by/4.0">http://creativecommons.org/licenses/by/4.0</uri>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xlink:title="pdf" xlink:href="33.pdf"/><abstract><p id="P1">The use of the Mental Capacity Act 2005 in assessing decision-making capacity in patients with borderline personality disorder (BPD) is inconsistent. We believe this may stem from persisting confusion regarding the nosological status of personality disorder and also a failure to recognise the fact that emotional dysregulation and characteristic psychodynamic abnormalities may cause substantial difficulties in using and weighing information. Clearer consensus on these issues is required in order to provide consistent patient care and reduce uncertainty for clinicians in what are often emergency and high-stakes clinical scenarios.</p></abstract></article-meta></front><body><p id="P2">Borderline personality disorder (BPD) is a severe mental disorder affecting around 1% of the population.<sup><xref rid="R1" ref-type="bibr">1</xref></sup> It is associated with significant psychiatric comorbidity,<sup><xref rid="R2" ref-type="bibr">2</xref></sup> impairment in social function<sup><xref rid="R3" ref-type="bibr">3</xref></sup> and a high rate of service utilisation.<sup><xref rid="R4" ref-type="bibr">4</xref></sup> Personality disorder as a whole is associated with reduced life expectancy.<sup><xref rid="R5" ref-type="bibr">5</xref></sup> People with BPD may engage in self-harming behaviour as a way of regulating negative affect, particularly at times of crises.<sup><xref rid="R6" ref-type="bibr">6</xref></sup> Assessing decision-making capacity in a patient with BPD who requires medical treatment following an act of self-harm is particularly challenging.<sup><xref rid="R7" ref-type="bibr">7</xref></sup> In the overlap between the Mental Health Act 1983 and Mental Capacity Act 2005 (the Act), it is the decisions around physical healthcare treatment without consent, i.e. those that the Mental Health Act cannot be used to enforce unless treatment is recognised as treatment for mental disorder, that in our experience generate considerable anxiety. This is particularly true in a general hospital setting as exemplified in the tragic case of Kerrie Wooltorton.<sup><xref rid="R8" ref-type="bibr">8</xref></sup></p><p id="P3">The Mental Capacity Act is the legal framework used in England and Wales for assessing capacity. It also provides protection to a clinician who makes decisions on behalf of an incapacitous patient, providing its terms are satisfied and the clinician is acting in the patient's best interests. Assessment of capacity is time- and decision-specific, however, in our clinical experience there is inconsistency surrounding the use of the Act with BPD patients. This is partly the result of disputes relating to the nosological status of personality disorder as a whole.<sup><xref rid="R7" ref-type="bibr">7</xref>,<xref rid="R9" ref-type="bibr">9</xref></sup> Such disputes are discordant with increasing knowledge about the natural history of BPD and its neurobiological abnormalities and treatability. In this article we explore the key reasons for inconsistency on whether BPD has the potential to give rise to the &#x02018;impairment of, or disturbance in the functioning of, the mind or brain&#x02019; criterion of the Act, as well as highlighting the need for clearer guidance on the use of the Act with such individuals.</p><sec id="S1"><title>Applicability of the Act in borderline personality disorder</title><p id="P4">As indicated by Section 2(1) of the Act, patients must demonstrate an &#x02018;impairment of, or disturbance in the functioning of, the mind or brain&#x02019; for the Act to apply &#x02013; sometimes known as the &#x02018;diagnostic threshold&#x02019;. Applicability to patients with a psychotic illness or a severe affective disorder is rarely questioned, presumably because these conditions are clearly described and widely accepted as constituting mental disorders that have the potential to impair or disturb function.<sup><xref rid="R7" ref-type="bibr">7</xref></sup> However, in one of the few discussions of the impact of personality disorder on competence to refuse treatment, Winburn &#x00026; Mullen<sup><xref rid="R10" ref-type="bibr">10</xref></sup> point out that personality disorder, although classed as such under the Mental Health Act 1983, &#x02018;has always been considered to be at the margins of what constitutes mental disorder&#x02019;. Although it is by no means an exhaustive list, paragraph 4.12 of the Mental Capacity Act Code of Practice<sup><xref rid="R11" ref-type="bibr">11</xref></sup> does not include personality disorder among the other conditions it recommends as having the potential to cause impairment or disturbance in the functioning of the mind or brain. Indeed, as recently as the past decade, lingering doubts about the nosological status of personality disorders in general were still being voiced by senior figures in academic psychiatry.<sup><xref rid="R9" ref-type="bibr">9</xref></sup></p><p id="P5">Over the past 10&#x02013;15 years, the empirical evidence base for personality disorders in general and particularly for BPD has expanded substantially. Robust longitudinal studies have charted the natural history of BPD<sup><xref rid="R12" ref-type="bibr">12</xref></sup> and shown that while symptomatic improvement is common, enduring impairment in social functioning<sup><xref rid="R3" ref-type="bibr">3</xref></sup> is a defining feature of the condition. Cost of illness studies have shown that the costs of managing people with BPD exceed the costs associated with managing people with depression.<sup><xref rid="R4" ref-type="bibr">4</xref></sup> Other studies have shown that the life expectancy of people with personality disorder is markedly reduced and that the loss of lived years is at least equivalent to that seen in schizophrenia.<sup><xref rid="R5" ref-type="bibr">5</xref></sup> There is also growing evidence of underlying neurobiological abnormalities associated with BPD.<sup><xref rid="R13" ref-type="bibr">13</xref>,<xref rid="R14" ref-type="bibr">14</xref></sup> Finally, the increasing number of well-conducted clinical trials which show that effective treatment is possible provides further evidence supporting the validation of the construct of BPD.<sup><xref rid="R15" ref-type="bibr">15</xref></sup></p><p id="P6">In summary, as a result of considerable research endeavour, we now know that BPD is, without doubt, a valid category of mental disorder. As such, it must be considered &#x02018;an impairment of, or a disturbance in, the functioning of the mind or brain&#x02019;. Therefore, not only is the Mental Capacity Act framework applicable to people with BPD, but it is clinically inappropriate not to consider its relevance when assessing people with BPD. There is a need for greater consensus regarding this, to eradicate the assumption that capacity assessments, <italic>tout court</italic>, cannot apply to such patients.<sup><xref rid="R7" ref-type="bibr">7</xref>,<xref rid="R11" ref-type="bibr">11</xref></sup></p><p id="P7">Perhaps another reason why this assumption has been so pervasive relates to Parsons's notion of the &#x02018;sick role&#x02019;.<sup><xref rid="R16" ref-type="bibr">16</xref></sup> This illustrates the link between illness and its social benefits: among these, the absolution of responsibility.<sup><xref rid="R17" ref-type="bibr">17</xref></sup> The doctor's role is key, as it is the doctor who confers this role on the patient and provides social sanction for receipt of those benefits.<sup><xref rid="R16" ref-type="bibr">16</xref></sup> Doctors are often divided as to whether patients with BPD can be thought of as being ill and thus entitled to a sick role.<sup><xref rid="R9" ref-type="bibr">9</xref>,<xref rid="R18" ref-type="bibr">18</xref></sup> As the Act requires the presence of an &#x02018;impairment&#x02019; or &#x02018;disturbance in function&#x02019; to be applicable, one might view its application to BPD patients as being synonymous with sanctioning an adoption of the sick role. Such a view may not sit comfortably with a clinician who may view a volitional act of self-harm as being &#x02018;manipulative&#x02019;.<sup><xref rid="R9" ref-type="bibr">9</xref>,<xref rid="R18" ref-type="bibr">18</xref></sup></p><p id="P8">The issue of volitional control and, by inference, manipulation, therefore seems the crux of the matter. Pickard<sup><xref rid="R19" ref-type="bibr">19</xref></sup> points out that it is hard to accept that patients with a personality disorder completely lack control over their actions. She qualifies this by pointing out they &#x02018;may not always have full conscious knowledge of why they are behaving as they do&#x02019;.<sup><xref rid="R19" ref-type="bibr">19</xref></sup> Similarly, Szmukler has speculated that suicidal impulses may sometimes stem from &#x02018;an inner disturbance the [person] finds difficult to describe&#x02019;.<sup><xref rid="R7" ref-type="bibr">7</xref></sup> The question for clinicians is that, in situations where high-stakes decisions must be made, how does the phenomenology of BPD impair an individual's ability to understand and reflect on both the risks and benefits of treatment, and also the motivation underlying their behaviour?</p></sec><sec id="S2"><title>How does BPD affect capacity?</title><p id="P9">Fuchs<sup><xref rid="R20" ref-type="bibr">20</xref></sup> identified that, at the extremes of emotional dysregulation, BPD patients become enveloped in that mental state to the extent that they are unable to view things objectively. Over time, repetition of this cycle leads to the chronic feelings of emptiness that characterise the disorder, meaning that patients &#x02018;miss the experience of agency or authorship of their life&#x02019;.<sup><xref rid="R20" ref-type="bibr">20</xref></sup> Broadly speaking, this key concept can be illustrated in two general clinical scenarios.</p><p id="P10">The first is a patient presenting as an emergency at the extreme of an episode of emotional dysregulation. Self-harming behaviours may serve an affect regulation function<sup><xref rid="R6" ref-type="bibr">6</xref></sup> and assessment of capacity to accept or refuse treatment following a severe episode of self-harm is a common clinical scenario. The framework for decision-making, per the Act, requires the patient to understand the pros and cons of treatment for their condition. If the self-harm is life threatening, accepting treatment would therefore be life saving, and to refuse, by inference, a decision likely to result in death.</p><p id="P11">To &#x02018;use or weigh&#x02019; relevant information about options in the process of deciding is the element of the capacity test that causes most interpretative difficulty in BPD. As Principle 4 of the Act states: &#x02018;a person is not to be treated as unable to make a decision merely because he makes an unwise decision&#x02019;. Deciding to refuse life-saving treatment may be unwise, but it is not the decision <italic>per se</italic> that we are assessing, rather how &#x02018;accountable&#x02019; the patient is for the decision.<sup><xref rid="R21" ref-type="bibr">21</xref>,<xref rid="R22" ref-type="bibr">22</xref></sup> Elliot has argued that in depression, even though patients may understand the risks, ultimately the disorder may affect whether they &#x02018;care&#x02019; about that risk, thus reducing the &#x02018;authenticity&#x02019; of the decision.<sup><xref rid="R22" ref-type="bibr">22</xref></sup> If depression can lead to a pathological lack of &#x02018;care&#x02019; about one's own interests, could the drive to emotionally regulate via self-harm lead to a pathological &#x02018;resistance&#x02019; to acting in one's own best interests that robs BPD patients of decision authenticity?</p><p id="P12">Research has suggested that key interpersonal schemas in BPD include sadomasochistic behaviour, where patients hurt themselves in an internalised &#x02018;punitive parent&#x02019; mode.<sup><xref rid="R23" ref-type="bibr">23</xref></sup> The relevance to treatment refusal here seems clear. In addition, as Szmukler points out, any capacity assessment is essentially a dynamic between the patient and the doctor.<sup><xref rid="R7" ref-type="bibr">7</xref></sup> Refusal of the doctor's recommendation could also be viewed within this sadomasochistic paradigm. This is surely the source of the sense of &#x02018;manipulation&#x02019;<sup><xref rid="R18" ref-type="bibr">18</xref></sup> frequently felt by doctors treating these patients.</p><p id="P13">The great trap in these scenarios is assuming that refusal of life-saving treatment is equivalent to a wish to die and an acceptable &#x02018;unwise&#x02019; decision. While this may indeed be the case in some instances, this <italic>de facto</italic> assumption endangers the lives of some BPD patients, as in some cases the decision to refuse <italic>per se</italic> may simply be a manifestation of the disorder, rather than a carefully considered wish to die. The risk to these patients is compounded by an intolerance of &#x02018;manipulation&#x02019; felt by the doctor, who in turn may take this as evidence that the patient has full insight into the situation and accept their refusal as an unwise but capacitous decision. In summary, as a direct consequence of the mental disorder itself, BPD patients may unwittingly become caught up in a destructive iatrogenic cycle of harm.</p><p id="P14">A second clinical example which aptly illustrates the lack of &#x02018;authorship&#x02019; of life<sup><xref rid="R19" ref-type="bibr">19</xref></sup> that may occur for people with BPD while dealing with doctors has been provided by Winburn &#x00026; Mullen.<sup><xref rid="R10" ref-type="bibr">10</xref></sup> They describe the case of a BPD patient who was judged incapacitous to refuse a potentially life-saving blood transfusion. Her decision to refuse treatment was viewed as a consistent, chronic behavioural pattern and overall constituted a &#x02018;disturbed form of engagement &#x02026; rather than an effort to disengage&#x02019;. Case law reflects these views, as seen in the case of <italic>B v Croydon Health Authority</italic>,<sup><xref rid="R24" ref-type="bibr">24</xref></sup> where a young woman with BPD was starving herself to the point where enforced nasogastric feeding was considered. Lord Justice Hoffman wrote in his judgment that he found it difficult to conclude that the patient had capacity, despite her seeming to have a good understanding of the risks and options. It was this that made him question whether her choice was truly autonomous, because, while being able to make cogent and articulate statements about her wishes, it was hard for him to deem someone capacitous when she is &#x02018;crying inside for help but unable to break out of the routine of punishing herself&#x02019;.</p></sec><sec id="S3"><title>How this affects clinical practice</title><p id="P15">The assessment of mental capacity in BPD patients is complex and may therefore cause clinicians significant anxiety where high-stakes decisions are to be made. It is conceivable that such anxiety may lead to risk-averse practices. In her review of suicide risk management in BPD patients, Goodman<sup><xref rid="R25" ref-type="bibr">25</xref></sup> highlighted the influence of medico-legal concerns on clinicians, by referring to a survey<sup><xref rid="R26" ref-type="bibr">26</xref></sup> that had shown that 85% of clinicians working with BPD patients had, within the past year, practised in a way &#x02018;that would relieve their anxiety over medicolegal risks&#x02019;. In our example of the BPD patient refusing life-saving treatment following self-harm and where capacity is marginal, risk-averse practice would presumably involve erring on the side least likely to result in death, i.e. a judgement of incapacity, detention and enforced treatment.</p><p id="P16">However, Pickard<sup><xref rid="R19" ref-type="bibr">19</xref></sup> points out that it is particularly in the interests of patients with BPD that we attribute decision-making responsibility to them where possible, as this is the basis of some of the most effective psychological treatments for BPD, where self-control and mentalisation development are key. Szmukler suggests that when capacity could be argued from both sides, &#x02018;one might conclude that &#x02026; the patient's account, although not the one preferred by the clinician, is an adequate one, and sufficient to demonstrate that the patient has capacity&#x02019;.<sup><xref rid="R7" ref-type="bibr">7</xref></sup> Law states that &#x02018;with regard to the degree of incapacity the nearer to the borderline the more weight must in principle be attached to [the patient's] wishes and feelings&#x02019;.<sup><xref rid="R27" ref-type="bibr">27</xref></sup> In application to BPD this would appear to imply that if the incapacity is only marginal the patient should, in effect, be approached as if with capacity.</p><p id="P17">So how do we balance over- and under-attributing capacity to BPD patients in clinical practice? Buchanan's work<sup><xref rid="R28" ref-type="bibr">28</xref></sup> is relevant to this problem. He describes that when capacity is in doubt, we may vary our threshold for deciding what constitutes true incapacity, based on the stakes of the decision. Thus, when the negative consequences of a decision are likely to be severe, the clinician would require a more robust demonstration of capacity.<sup><xref rid="R28" ref-type="bibr">28</xref></sup> In essence, the clinician is balancing possible infringement of autonomy with negative consequences of the outcome of the decision. Ultimately, capacity is judged legally to be either present or absent, but as Lord Donaldson pointed out in the case of <italic>Re T (Adult: Refusal of Treatment)</italic>,<sup><xref rid="R29" ref-type="bibr">29</xref></sup> doctors should consider whether the capacity that is there is &#x02018;commensurate&#x02019; with the seriousness of the decision.</p><p id="P18">One might argue that proportionality merely reflects the clinicians' increasing anxiety about higher-stakes situations, thus not addressing the underlying problem: that there is little consensus and guidance on whether and how BPD may affect decision-making. Clearer guidance and consensus on how BPD may affect decision-making abilities in different clinical scenarios will reduce anxiety for clinicians and may help the Act become more predictable in its application.</p></sec><sec sec-type="conclusions" id="S4"><title>Conclusions</title><p id="P19">Borderline personality disorder is a mental disorder. The use of the law in treating patients with BPD should be predictable and its application to clinical scenarios reproducible. The current use of the Mental Capacity Act 2005 in assessing decision-making capacity in such patients is lacking in these respects.</p><p id="P20">While BPD should be viewed as a mental disorder, this only means the Act is applicable; it is not synonymous with the view that people with BPD necessarily lack capacity for decision-making or responsibility for their actions. The psychopathology of BPD and specifically the way this affects the &#x02018;using and weighing&#x02019; element of decision-making capacity is extremely complex and not acknowledged widely enough either in clinical practice or within the Mental Capacity Act itself. This leads to inconsistency in patient care. Further research into this field, along with clearer clinical consensus and legal guidance, is urgently required.</p></sec></body><back><fn-group><fn fn-type="COI-statement"><p><bold>Declaration of interest</bold> None.</p></fn></fn-group><ref-list><title>References</title><ref id="R1"><label>1</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><collab>National Institute for Health and Care Excellence</collab></person-group>
-<source>Borderline Personality Disorder: Treatment and Management (CG78)</source>. <publisher-name>NICE</publisher-name>, <year>2009</year>.
-</mixed-citation></ref><ref id="R2"><label>2</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Zimmerman</surname><given-names>M</given-names></name><name name-style="western"><surname>Mattia</surname><given-names>JI</given-names></name></person-group>
-<article-title>Axis I diagnostic comorbidity and borderline personality disorder</article-title>. <source>Compr Psychiatry</source>
-<year>1999</year>; <volume>40</volume>: <fpage>245</fpage>&#x02013;<lpage>52</lpage>.
-<pub-id pub-id-type="pmid">10428182</pub-id></mixed-citation></ref><ref id="R3"><label>3</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Skodol</surname><given-names>AE</given-names></name><name name-style="western"><surname>Gunderson</surname><given-names>JG</given-names></name><name name-style="western"><surname>McGlashan</surname><given-names>TH</given-names></name><name name-style="western"><surname>Dyck</surname><given-names>IR</given-names></name><name name-style="western"><surname>Stout</surname><given-names>RL</given-names></name><name name-style="western"><surname>Bender</surname><given-names>DS</given-names></name><etal/></person-group>
-<article-title>Functional impairment in patients with schizotypal, borderline, avoidant, or obsessive-compulsive personality disorder</article-title>. <source>Am J Psychiatry</source>
-<year>2002</year>; <volume>159</volume>: <fpage>276</fpage>&#x02013;<lpage>83</lpage>.
-<pub-id pub-id-type="pmid">11823271</pub-id></mixed-citation></ref><ref id="R4"><label>4</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Bender</surname><given-names>DS</given-names></name><name name-style="western"><surname>Dolan</surname><given-names>RT</given-names></name><name name-style="western"><surname>Skodol</surname><given-names>AE</given-names></name><name name-style="western"><surname>Sanislow</surname><given-names>CA</given-names></name><name name-style="western"><surname>Dyck</surname><given-names>IR</given-names></name><name name-style="western"><surname>McGlashan</surname><given-names>TH</given-names></name><etal/></person-group>
-<article-title>Treatment utilization by patients with personality disorders</article-title>. <source>Am J Psychiatry</source>
-<year>2001</year>; <volume>158</volume>: <fpage>295</fpage>&#x02013;<lpage>302</lpage>.
-<pub-id pub-id-type="pmid">11156814</pub-id></mixed-citation></ref><ref id="R5"><label>5</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Fok</surname><given-names>ML</given-names></name><name name-style="western"><surname>Hayes</surname><given-names>RD</given-names></name><name name-style="western"><surname>Chang</surname><given-names>CK</given-names></name><name name-style="western"><surname>Stewart</surname><given-names>R</given-names></name><name name-style="western"><surname>Callard</surname><given-names>FJ</given-names></name><name name-style="western"><surname>Moran</surname><given-names>P</given-names></name></person-group>
-<article-title>Life expectancy at birth and all-cause mortality among people with personality disorder</article-title>. <source>J Psychosom Res</source>
-<year>2012</year>; <volume>73</volume>: <fpage>104</fpage>&#x02013;<lpage>7</lpage>.
-<pub-id pub-id-type="pmid">22789412</pub-id></mixed-citation></ref><ref id="R6"><label>6</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Klonsky</surname><given-names>ED</given-names></name></person-group>
-<article-title>The functions of deliberate self-injury: a review of the evidence</article-title>. <source>Clin Psychol Rev</source>
-<year>2007</year>; <volume>27</volume>: <fpage>226</fpage>&#x02013;<lpage>39</lpage>.
-<pub-id pub-id-type="pmid">17014942</pub-id></mixed-citation></ref><ref id="R7"><label>7</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Szmukler</surname><given-names>G</given-names></name></person-group>
-<article-title>&#x02018;Personality disorder&#x02019; and capacity to make treatment decisions</article-title>. <source>J Med Ethics</source>
-<year>2009</year>; <volume>35</volume>: <fpage>647</fpage>&#x02013;<lpage>50</lpage>.
-<pub-id pub-id-type="pmid">19793948</pub-id></mixed-citation></ref><ref id="R8"><label>8</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>David</surname><given-names>AS</given-names></name><name name-style="western"><surname>Hotopf</surname><given-names>H</given-names></name><name name-style="western"><surname>Moran</surname><given-names>P</given-names></name><name name-style="western"><surname>Owen</surname><given-names>G</given-names></name><name name-style="western"><surname>Szmukler</surname><given-names>G</given-names></name><name name-style="western"><surname>Richardson</surname><given-names>G</given-names></name></person-group>
-<article-title>Mentally disordered or lacking capacity? Lessons for management of serious deliberate self harm</article-title>. <source>BMJ</source>
-<year>2010</year>; <volume>341</volume>: <fpage>c4489</fpage>.
-<pub-id pub-id-type="pmid">20823014</pub-id></mixed-citation></ref><ref id="R9"><label>9</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Kendell</surname><given-names>RE</given-names></name></person-group>
-<article-title>The distinction between personality disorder and mental illness</article-title>. <source>Br J Psychiatry</source>
-<year>2002</year>; <volume>180</volume>: <fpage>110</fpage>&#x02013;<lpage>5</lpage>.
-<pub-id pub-id-type="pmid">11823318</pub-id></mixed-citation></ref><ref id="R10"><label>10</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Winburn</surname><given-names>E</given-names></name><name name-style="western"><surname>Mullen</surname><given-names>R</given-names></name></person-group>
-<article-title>Personality disorder and competence to refuse treatment</article-title>. <source>J Med Ethics</source>
-<year>2008</year>; <volume>34</volume>: <fpage>715</fpage>&#x02013;<lpage>6</lpage>.
-<pub-id pub-id-type="pmid">18827100</pub-id></mixed-citation></ref><ref id="R11"><label>11</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><collab>Department for Constitutional Affairs</collab></person-group>
-<source>Mental Capacity Act 2005 Code of Practice</source>. <publisher-name>TSO (The Stationery Office)</publisher-name>, <year>2007</year>.
-</mixed-citation></ref><ref id="R12"><label>12</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Gunderson</surname><given-names>JG</given-names></name><name name-style="western"><surname>Stout</surname><given-names>RL</given-names></name><name name-style="western"><surname>McGlashan</surname><given-names>TH</given-names></name><name name-style="western"><surname>Shea</surname><given-names>MT</given-names></name><name name-style="western"><surname>Morey</surname><given-names>LC</given-names></name><name name-style="western"><surname>Grilo</surname><given-names>CM</given-names></name><etal/></person-group>
-<article-title>Ten-year course of borderline personality disorder: psychopathology and function from the Collaborative Longitudinal Personality Disorders study</article-title>. <source>Arch Gen Psychiatry</source>
-<year>2011</year>; <volume>68</volume>: <fpage>827</fpage>&#x02013;<lpage>37</lpage>.
-<pub-id pub-id-type="pmid">21464343</pub-id></mixed-citation></ref><ref id="R13"><label>13</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Mak</surname><given-names>ADP</given-names></name><name name-style="western"><surname>Lam</surname><given-names>LCW</given-names></name></person-group>
-<article-title>Neurocognitive profiles of people with borderline personality disorder</article-title>. <source>Curr Opin Psychiatry</source>
-<year>2013</year>; <volume>26</volume>: <fpage>90</fpage>&#x02013;<lpage>6</lpage>.
-<pub-id pub-id-type="pmid">23196999</pub-id></mixed-citation></ref><ref id="R14"><label>14</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Ruocco</surname><given-names>AC</given-names></name><name name-style="western"><surname>Amirthavasagam</surname><given-names>S</given-names></name><name name-style="western"><surname>Choi-Kain</surname><given-names>LW</given-names></name><name name-style="western"><surname>McMain</surname><given-names>SF</given-names></name></person-group>
-<article-title>Neural correlates of negative emotionality in borderline personality disorder: an activation-likelihood-estimation meta-analysis</article-title>. <source>Biol Psychiatry</source>
-<year>2013</year>; <volume>73</volume>: <fpage>153</fpage>&#x02013;<lpage>60</lpage>.
-<pub-id pub-id-type="pmid">22906520</pub-id></mixed-citation></ref><ref id="R15"><label>15</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Stoffers</surname><given-names>JM</given-names></name><name name-style="western"><surname>Vollm</surname><given-names>BA</given-names></name><name name-style="western"><surname>Rucker</surname><given-names>G</given-names></name><name name-style="western"><surname>Timmer</surname><given-names>A</given-names></name><name name-style="western"><surname>Huband</surname><given-names>N</given-names></name><name name-style="western"><surname>Lieb</surname><given-names>K</given-names></name></person-group>
-<article-title>Psychological therapies for people with borderline personality disorder</article-title>. <source>Cochrane Database Syst Rev</source>
-<year>2012</year>; <volume>8</volume>: <comment>CD005652</comment>.
-</mixed-citation></ref><ref id="R16"><label>16</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><name name-style="western"><surname>Parsons</surname><given-names>T</given-names></name></person-group>
-<source>The Social System</source>. <publisher-name>The Free Press of Glencoe</publisher-name>, <year>1951</year>.
-</mixed-citation></ref><ref id="R17"><label>17</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Frank</surname><given-names>AW</given-names></name></person-group>
-<article-title>From sick role to practices of health and illness</article-title>. <source>Med Educ</source>
-<year>2013</year>; <volume>47</volume>: <fpage>18</fpage>&#x02013;<lpage>25</lpage>.
-<pub-id pub-id-type="pmid">23278821</pub-id></mixed-citation></ref><ref id="R18"><label>18</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Lewis</surname><given-names>G</given-names></name><name name-style="western"><surname>Appleby</surname><given-names>L</given-names></name></person-group>
-<article-title>Personality disorder: the patients psychiatrists dislike</article-title>. <source>Br J Psychiatry</source>
-<year>1988</year>; <volume>153</volume>: <fpage>44</fpage>&#x02013;<lpage>9</lpage>.
-<pub-id pub-id-type="pmid">3224249</pub-id></mixed-citation></ref><ref id="R19"><label>19</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Pickard</surname><given-names>H</given-names></name></person-group>
-<article-title>Responsibility without blame: empathy and the effective treatment of personality disorder</article-title>. <source>Philos Psychiatr Psychol</source>
-<year>2011</year>; <volume>18</volume>: <fpage>209</fpage>&#x02013;<lpage>23</lpage>.
-<pub-id pub-id-type="pmid">22318087</pub-id></mixed-citation></ref><ref id="R20"><label>20</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Fuchs</surname><given-names>T</given-names></name></person-group>
-<article-title>Fragmented selves: temporality and identity in borderline personality disorder</article-title>. <source>Psychopathology</source>
-<year>2007</year>; <volume>40</volume>: <fpage>379</fpage>&#x02013;<lpage>87</lpage>.
-<pub-id pub-id-type="pmid">17652950</pub-id></mixed-citation></ref><ref id="R21"><label>21</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Hindmarch</surname><given-names>T</given-names></name><name name-style="western"><surname>Hotopf</surname><given-names>M</given-names></name><name name-style="western"><surname>Owen</surname><given-names>GS</given-names></name></person-group>
-<article-title>Depression and decision-making capacity for treatment or research: a systematic review</article-title>. <source>BMC Medical Ethics</source>
-<year>2013</year>; <volume>14</volume>: <fpage>54</fpage>.
-<pub-id pub-id-type="pmid">24330745</pub-id></mixed-citation></ref><ref id="R22"><label>22</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Elliot</surname><given-names>C</given-names></name></person-group>
+                </corresp>
+                <fn>
+                    <p>
+                        <bold>Karyn Ayre</bold> is an Academic Clinical Fellow, South London and Maudsley NHS Foundation Trust, London; <bold>Gareth S. Owen</bold> is a Clinical Senior Lecturer and Honorary Consultant Psychiatrist, Institute of Psychiatry, Psychology and Neuroscience, King's College London; <bold>Paul Moran</bold> is a Reader and Honorary Consultant Psychiatrist, Centre for Academic Mental Health, School of Social and Community Medicine, University of Bristol.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="ppub">
+                <month>2</month>
+                <year>2017</year>
+            </pub-date>
+            <volume>41</volume>
+            <issue>1</issue>
+            <fpage>33</fpage>
+            <lpage>36</lpage>
+            <history>
+                <date date-type="received">
+                    <day>30</day>
+                    <month>9</month>
+                    <year>2015</year>
+                </date>
+                <date date-type="rev-recd">
+                    <day>2</day>
+                    <month>2</month>
+                    <year>2016</year>
+                </date>
+                <date date-type="accepted">
+                    <day>24</day>
+                    <month>2</month>
+                    <year>2016</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>&#x000a9; 2017 The Authors</copyright-statement>
+                <copyright-year>2017</copyright-year>
+                <license license-type="creative-commons" xlink:href="http://creativecommons.org/licenses/by/4.0">
+                    <license-p>This is an open-access article published by the Royal College of Psychiatrists and distributed under the terms of the Creative Commons Attribution License (<uri xlink:href="http://creativecommons.org/licenses/by/4.0">http://creativecommons.org/licenses/by/4.0</uri>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <self-uri xlink:title="pdf" xlink:href="33.pdf" />
+            <abstract>
+                <p id="P1">The use of the Mental Capacity Act 2005 in assessing decision-making capacity in patients with borderline personality disorder (BPD) is inconsistent. We believe this may stem from persisting confusion regarding the nosological status of personality disorder and also a failure to recognise the fact that emotional dysregulation and characteristic psychodynamic abnormalities may cause substantial difficulties in using and weighing information. Clearer consensus on these issues is required in order to provide consistent patient care and reduce uncertainty for clinicians in what are often emergency and high-stakes clinical scenarios.</p>
+            </abstract>
+        </article-meta>
+    </front>
+    <body>
+        <p id="P2">Borderline personality disorder (BPD) is a severe mental disorder affecting around 1% of the population.<sup>
+            <xref rid="R1" ref-type="bibr">1</xref>
+        </sup> It is associated with significant psychiatric comorbidity,<sup>
+        <xref rid="R2" ref-type="bibr">2</xref>
+    </sup> impairment in social function<sup>
+    <xref rid="R3" ref-type="bibr">3</xref>
+</sup> and a high rate of service utilisation.<sup>
+<xref rid="R4" ref-type="bibr">4</xref>
+</sup> Personality disorder as a whole is associated with reduced life expectancy.<sup>
+<xref rid="R5" ref-type="bibr">5</xref>
+</sup> People with BPD may engage in self-harming behaviour as a way of regulating negative affect, particularly at times of crises.<sup>
+<xref rid="R6" ref-type="bibr">6</xref>
+</sup> Assessing decision-making capacity in a patient with BPD who requires medical treatment following an act of self-harm is particularly challenging.<sup>
+<xref rid="R7" ref-type="bibr">7</xref>
+</sup> In the overlap between the Mental Health Act 1983 and Mental Capacity Act 2005 (the Act), it is the decisions around physical healthcare treatment without consent, i.e. those that the Mental Health Act cannot be used to enforce unless treatment is recognised as treatment for mental disorder, that in our experience generate considerable anxiety. This is particularly true in a general hospital setting as exemplified in the tragic case of Kerrie Wooltorton.<sup>
+<xref rid="R8" ref-type="bibr">8</xref>
+</sup>
+</p>
+<p id="P3">The Mental Capacity Act is the legal framework used in England and Wales for assessing capacity. It also provides protection to a clinician who makes decisions on behalf of an incapacitous patient, providing its terms are satisfied and the clinician is acting in the patient's best interests. Assessment of capacity is time- and decision-specific, however, in our clinical experience there is inconsistency surrounding the use of the Act with BPD patients. This is partly the result of disputes relating to the nosological status of personality disorder as a whole.<sup>
+<xref rid="R7" ref-type="bibr">7</xref>,<xref rid="R9" ref-type="bibr">9</xref>
+</sup> Such disputes are discordant with increasing knowledge about the natural history of BPD and its neurobiological abnormalities and treatability. In this article we explore the key reasons for inconsistency on whether BPD has the potential to give rise to the &#x02018;impairment of, or disturbance in the functioning of, the mind or brain&#x02019; criterion of the Act, as well as highlighting the need for clearer guidance on the use of the Act with such individuals.</p>
+<sec id="S1">
+<title>Applicability of the Act in borderline personality disorder</title>
+<p id="P4">As indicated by Section 2(1) of the Act, patients must demonstrate an &#x02018;impairment of, or disturbance in the functioning of, the mind or brain&#x02019; for the Act to apply &#x02013; sometimes known as the &#x02018;diagnostic threshold&#x02019;. Applicability to patients with a psychotic illness or a severe affective disorder is rarely questioned, presumably because these conditions are clearly described and widely accepted as constituting mental disorders that have the potential to impair or disturb function.<sup>
+<xref rid="R7" ref-type="bibr">7</xref>
+</sup> However, in one of the few discussions of the impact of personality disorder on competence to refuse treatment, Winburn &#x00026; Mullen<sup>
+<xref rid="R10" ref-type="bibr">10</xref>
+</sup> point out that personality disorder, although classed as such under the Mental Health Act 1983, &#x02018;has always been considered to be at the margins of what constitutes mental disorder&#x02019;. Although it is by no means an exhaustive list, paragraph 4.12 of the Mental Capacity Act Code of Practice<sup>
+<xref rid="R11" ref-type="bibr">11</xref>
+</sup> does not include personality disorder among the other conditions it recommends as having the potential to cause impairment or disturbance in the functioning of the mind or brain. Indeed, as recently as the past decade, lingering doubts about the nosological status of personality disorders in general were still being voiced by senior figures in academic psychiatry.<sup>
+<xref rid="R9" ref-type="bibr">9</xref>
+</sup>
+</p>
+<p id="P5">Over the past 10&#x02013;15 years, the empirical evidence base for personality disorders in general and particularly for BPD has expanded substantially. Robust longitudinal studies have charted the natural history of BPD<sup>
+<xref rid="R12" ref-type="bibr">12</xref>
+</sup> and shown that while symptomatic improvement is common, enduring impairment in social functioning<sup>
+<xref rid="R3" ref-type="bibr">3</xref>
+</sup> is a defining feature of the condition. Cost of illness studies have shown that the costs of managing people with BPD exceed the costs associated with managing people with depression.<sup>
+<xref rid="R4" ref-type="bibr">4</xref>
+</sup> Other studies have shown that the life expectancy of people with personality disorder is markedly reduced and that the loss of lived years is at least equivalent to that seen in schizophrenia.<sup>
+<xref rid="R5" ref-type="bibr">5</xref>
+</sup> There is also growing evidence of underlying neurobiological abnormalities associated with BPD.<sup>
+<xref rid="R13" ref-type="bibr">13</xref>,<xref rid="R14" ref-type="bibr">14</xref>
+</sup> Finally, the increasing number of well-conducted clinical trials which show that effective treatment is possible provides further evidence supporting the validation of the construct of BPD.<sup>
+<xref rid="R15" ref-type="bibr">15</xref>
+</sup>
+</p>
+<p id="P6">In summary, as a result of considerable research endeavour, we now know that BPD is, without doubt, a valid category of mental disorder. As such, it must be considered &#x02018;an impairment of, or a disturbance in, the functioning of the mind or brain&#x02019;. Therefore, not only is the Mental Capacity Act framework applicable to people with BPD, but it is clinically inappropriate not to consider its relevance when assessing people with BPD. There is a need for greater consensus regarding this, to eradicate the assumption that capacity assessments, <italic>tout court</italic>, cannot apply to such patients.<sup>
+<xref rid="R7" ref-type="bibr">7</xref>,<xref rid="R11" ref-type="bibr">11</xref>
+</sup>
+</p>
+<p id="P7">Perhaps another reason why this assumption has been so pervasive relates to Parsons's notion of the &#x02018;sick role&#x02019;.<sup>
+<xref rid="R16" ref-type="bibr">16</xref>
+</sup> This illustrates the link between illness and its social benefits: among these, the absolution of responsibility.<sup>
+<xref rid="R17" ref-type="bibr">17</xref>
+</sup> The doctor's role is key, as it is the doctor who confers this role on the patient and provides social sanction for receipt of those benefits.<sup>
+<xref rid="R16" ref-type="bibr">16</xref>
+</sup> Doctors are often divided as to whether patients with BPD can be thought of as being ill and thus entitled to a sick role.<sup>
+<xref rid="R9" ref-type="bibr">9</xref>,<xref rid="R18" ref-type="bibr">18</xref>
+</sup> As the Act requires the presence of an &#x02018;impairment&#x02019; or &#x02018;disturbance in function&#x02019; to be applicable, one might view its application to BPD patients as being synonymous with sanctioning an adoption of the sick role. Such a view may not sit comfortably with a clinician who may view a volitional act of self-harm as being &#x02018;manipulative&#x02019;.<sup>
+<xref rid="R9" ref-type="bibr">9</xref>,<xref rid="R18" ref-type="bibr">18</xref>
+</sup>
+</p>
+<p id="P8">The issue of volitional control and, by inference, manipulation, therefore seems the crux of the matter. Pickard<sup>
+<xref rid="R19" ref-type="bibr">19</xref>
+</sup> points out that it is hard to accept that patients with a personality disorder completely lack control over their actions. She qualifies this by pointing out they &#x02018;may not always have full conscious knowledge of why they are behaving as they do&#x02019;.<sup>
+<xref rid="R19" ref-type="bibr">19</xref>
+</sup> Similarly, Szmukler has speculated that suicidal impulses may sometimes stem from &#x02018;an inner disturbance the [person] finds difficult to describe&#x02019;.<sup>
+<xref rid="R7" ref-type="bibr">7</xref>
+</sup> The question for clinicians is that, in situations where high-stakes decisions must be made, how does the phenomenology of BPD impair an individual's ability to understand and reflect on both the risks and benefits of treatment, and also the motivation underlying their behaviour?</p>
+</sec>
+<sec id="S2">
+<title>How does BPD affect capacity?</title>
+<p id="P9">Fuchs<sup>
+<xref rid="R20" ref-type="bibr">20</xref>
+</sup> identified that, at the extremes of emotional dysregulation, BPD patients become enveloped in that mental state to the extent that they are unable to view things objectively. Over time, repetition of this cycle leads to the chronic feelings of emptiness that characterise the disorder, meaning that patients &#x02018;miss the experience of agency or authorship of their life&#x02019;.<sup>
+<xref rid="R20" ref-type="bibr">20</xref>
+</sup> Broadly speaking, this key concept can be illustrated in two general clinical scenarios.</p>
+<p id="P10">The first is a patient presenting as an emergency at the extreme of an episode of emotional dysregulation. Self-harming behaviours may serve an affect regulation function<sup>
+<xref rid="R6" ref-type="bibr">6</xref>
+</sup> and assessment of capacity to accept or refuse treatment following a severe episode of self-harm is a common clinical scenario. The framework for decision-making, per the Act, requires the patient to understand the pros and cons of treatment for their condition. If the self-harm is life threatening, accepting treatment would therefore be life saving, and to refuse, by inference, a decision likely to result in death.</p>
+<p id="P11">To &#x02018;use or weigh&#x02019; relevant information about options in the process of deciding is the element of the capacity test that causes most interpretative difficulty in BPD. As Principle 4 of the Act states: &#x02018;a person is not to be treated as unable to make a decision merely because he makes an unwise decision&#x02019;. Deciding to refuse life-saving treatment may be unwise, but it is not the decision <italic>per se</italic> that we are assessing, rather how &#x02018;accountable&#x02019; the patient is for the decision.<sup>
+<xref rid="R21" ref-type="bibr">21</xref>,<xref rid="R22" ref-type="bibr">22</xref>
+</sup> Elliot has argued that in depression, even though patients may understand the risks, ultimately the disorder may affect whether they &#x02018;care&#x02019; about that risk, thus reducing the &#x02018;authenticity&#x02019; of the decision.<sup>
+<xref rid="R22" ref-type="bibr">22</xref>
+</sup> If depression can lead to a pathological lack of &#x02018;care&#x02019; about one's own interests, could the drive to emotionally regulate via self-harm lead to a pathological &#x02018;resistance&#x02019; to acting in one's own best interests that robs BPD patients of decision authenticity?</p>
+<p id="P12">Research has suggested that key interpersonal schemas in BPD include sadomasochistic behaviour, where patients hurt themselves in an internalised &#x02018;punitive parent&#x02019; mode.<sup>
+<xref rid="R23" ref-type="bibr">23</xref>
+</sup> The relevance to treatment refusal here seems clear. In addition, as Szmukler points out, any capacity assessment is essentially a dynamic between the patient and the doctor.<sup>
+<xref rid="R7" ref-type="bibr">7</xref>
+</sup> Refusal of the doctor's recommendation could also be viewed within this sadomasochistic paradigm. This is surely the source of the sense of &#x02018;manipulation&#x02019;<sup>
+<xref rid="R18" ref-type="bibr">18</xref>
+</sup> frequently felt by doctors treating these patients.</p>
+<p id="P13">The great trap in these scenarios is assuming that refusal of life-saving treatment is equivalent to a wish to die and an acceptable &#x02018;unwise&#x02019; decision. While this may indeed be the case in some instances, this <italic>de facto</italic> assumption endangers the lives of some BPD patients, as in some cases the decision to refuse <italic>per se</italic> may simply be a manifestation of the disorder, rather than a carefully considered wish to die. The risk to these patients is compounded by an intolerance of &#x02018;manipulation&#x02019; felt by the doctor, who in turn may take this as evidence that the patient has full insight into the situation and accept their refusal as an unwise but capacitous decision. In summary, as a direct consequence of the mental disorder itself, BPD patients may unwittingly become caught up in a destructive iatrogenic cycle of harm.</p>
+<p id="P14">A second clinical example which aptly illustrates the lack of &#x02018;authorship&#x02019; of life<sup>
+<xref rid="R19" ref-type="bibr">19</xref>
+</sup> that may occur for people with BPD while dealing with doctors has been provided by Winburn &#x00026; Mullen.<sup>
+<xref rid="R10" ref-type="bibr">10</xref>
+</sup> They describe the case of a BPD patient who was judged incapacitous to refuse a potentially life-saving blood transfusion. Her decision to refuse treatment was viewed as a consistent, chronic behavioural pattern and overall constituted a &#x02018;disturbed form of engagement &#x02026; rather than an effort to disengage&#x02019;. Case law reflects these views, as seen in the case of <italic>B v Croydon Health Authority</italic>,<sup>
+<xref rid="R24" ref-type="bibr">24</xref>
+</sup> where a young woman with BPD was starving herself to the point where enforced nasogastric feeding was considered. Lord Justice Hoffman wrote in his judgment that he found it difficult to conclude that the patient had capacity, despite her seeming to have a good understanding of the risks and options. It was this that made him question whether her choice was truly autonomous, because, while being able to make cogent and articulate statements about her wishes, it was hard for him to deem someone capacitous when she is &#x02018;crying inside for help but unable to break out of the routine of punishing herself&#x02019;.</p>
+</sec>
+<sec id="S3">
+<title>How this affects clinical practice</title>
+<p id="P15">The assessment of mental capacity in BPD patients is complex and may therefore cause clinicians significant anxiety where high-stakes decisions are to be made. It is conceivable that such anxiety may lead to risk-averse practices. In her review of suicide risk management in BPD patients, Goodman<sup>
+<xref rid="R25" ref-type="bibr">25</xref>
+</sup> highlighted the influence of medico-legal concerns on clinicians, by referring to a survey<sup>
+<xref rid="R26" ref-type="bibr">26</xref>
+</sup> that had shown that 85% of clinicians working with BPD patients had, within the past year, practised in a way &#x02018;that would relieve their anxiety over medicolegal risks&#x02019;. In our example of the BPD patient refusing life-saving treatment following self-harm and where capacity is marginal, risk-averse practice would presumably involve erring on the side least likely to result in death, i.e. a judgement of incapacity, detention and enforced treatment.</p>
+<p id="P16">However, Pickard<sup>
+<xref rid="R19" ref-type="bibr">19</xref>
+</sup> points out that it is particularly in the interests of patients with BPD that we attribute decision-making responsibility to them where possible, as this is the basis of some of the most effective psychological treatments for BPD, where self-control and mentalisation development are key. Szmukler suggests that when capacity could be argued from both sides, &#x02018;one might conclude that &#x02026; the patient's account, although not the one preferred by the clinician, is an adequate one, and sufficient to demonstrate that the patient has capacity&#x02019;.<sup>
+<xref rid="R7" ref-type="bibr">7</xref>
+</sup> Law states that &#x02018;with regard to the degree of incapacity the nearer to the borderline the more weight must in principle be attached to [the patient's] wishes and feelings&#x02019;.<sup>
+<xref rid="R27" ref-type="bibr">27</xref>
+</sup> In application to BPD this would appear to imply that if the incapacity is only marginal the patient should, in effect, be approached as if with capacity.</p>
+<p id="P17">So how do we balance over- and under-attributing capacity to BPD patients in clinical practice? Buchanan's work<sup>
+<xref rid="R28" ref-type="bibr">28</xref>
+</sup> is relevant to this problem. He describes that when capacity is in doubt, we may vary our threshold for deciding what constitutes true incapacity, based on the stakes of the decision. Thus, when the negative consequences of a decision are likely to be severe, the clinician would require a more robust demonstration of capacity.<sup>
+<xref rid="R28" ref-type="bibr">28</xref>
+</sup> In essence, the clinician is balancing possible infringement of autonomy with negative consequences of the outcome of the decision. Ultimately, capacity is judged legally to be either present or absent, but as Lord Donaldson pointed out in the case of <italic>Re T (Adult: Refusal of Treatment)</italic>,<sup>
+<xref rid="R29" ref-type="bibr">29</xref>
+</sup> doctors should consider whether the capacity that is there is &#x02018;commensurate&#x02019; with the seriousness of the decision.</p>
+<p id="P18">One might argue that proportionality merely reflects the clinicians' increasing anxiety about higher-stakes situations, thus not addressing the underlying problem: that there is little consensus and guidance on whether and how BPD may affect decision-making. Clearer guidance and consensus on how BPD may affect decision-making abilities in different clinical scenarios will reduce anxiety for clinicians and may help the Act become more predictable in its application.</p>
+</sec>
+<sec sec-type="conclusions" id="S4">
+<title>Conclusions</title>
+<p id="P19">Borderline personality disorder is a mental disorder. The use of the law in treating patients with BPD should be predictable and its application to clinical scenarios reproducible. The current use of the Mental Capacity Act 2005 in assessing decision-making capacity in such patients is lacking in these respects.</p>
+<p id="P20">While BPD should be viewed as a mental disorder, this only means the Act is applicable; it is not synonymous with the view that people with BPD necessarily lack capacity for decision-making or responsibility for their actions. The psychopathology of BPD and specifically the way this affects the &#x02018;using and weighing&#x02019; element of decision-making capacity is extremely complex and not acknowledged widely enough either in clinical practice or within the Mental Capacity Act itself. This leads to inconsistency in patient care. Further research into this field, along with clearer clinical consensus and legal guidance, is urgently required.</p>
+</sec>
+</body>
+<back>
+<fn-group>
+<fn fn-type="COI-statement">
+<p>
+<bold>Declaration of interest</bold> None.</p>
+</fn>
+</fn-group>
+<ref-list>
+<title>References</title>
+<ref id="R1">
+<label>1</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<collab>National Institute for Health and Care Excellence</collab>
+</person-group>
+<source>Borderline Personality Disorder: Treatment and Management (CG78)</source>.<publisher-name>NICE</publisher-name>,<year>2009</year>.
+</mixed-citation>
+</ref>
+<ref id="R2">
+<label>2</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Zimmerman</surname>
+<given-names>M</given-names>
+</name>
+<name name-style="western">
+<surname>Mattia</surname>
+<given-names>JI</given-names>
+</name>
+</person-group>
+<article-title>Axis I diagnostic comorbidity and borderline personality disorder</article-title>.<source>Compr Psychiatry</source>
+<year>1999</year>;<volume>40</volume>:<fpage>245</fpage>&#x02013;<lpage>52</lpage>.
+<pub-id pub-id-type="pmid">10428182</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R3">
+<label>3</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Skodol</surname>
+<given-names>AE</given-names>
+</name>
+<name name-style="western">
+<surname>Gunderson</surname>
+<given-names>JG</given-names>
+</name>
+<name name-style="western">
+<surname>McGlashan</surname>
+<given-names>TH</given-names>
+</name>
+<name name-style="western">
+<surname>Dyck</surname>
+<given-names>IR</given-names>
+</name>
+<name name-style="western">
+<surname>Stout</surname>
+<given-names>RL</given-names>
+</name>
+<name name-style="western">
+<surname>Bender</surname>
+<given-names>DS</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>Functional impairment in patients with schizotypal, borderline, avoidant, or obsessive-compulsive personality disorder</article-title>.<source>Am J Psychiatry</source>
+<year>2002</year>;<volume>159</volume>:<fpage>276</fpage>&#x02013;<lpage>83</lpage>.
+<pub-id pub-id-type="pmid">11823271</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R4">
+<label>4</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Bender</surname>
+<given-names>DS</given-names>
+</name>
+<name name-style="western">
+<surname>Dolan</surname>
+<given-names>RT</given-names>
+</name>
+<name name-style="western">
+<surname>Skodol</surname>
+<given-names>AE</given-names>
+</name>
+<name name-style="western">
+<surname>Sanislow</surname>
+<given-names>CA</given-names>
+</name>
+<name name-style="western">
+<surname>Dyck</surname>
+<given-names>IR</given-names>
+</name>
+<name name-style="western">
+<surname>McGlashan</surname>
+<given-names>TH</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>Treatment utilization by patients with personality disorders</article-title>.<source>Am J Psychiatry</source>
+<year>2001</year>;<volume>158</volume>:<fpage>295</fpage>&#x02013;<lpage>302</lpage>.
+<pub-id pub-id-type="pmid">11156814</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R5">
+<label>5</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Fok</surname>
+<given-names>ML</given-names>
+</name>
+<name name-style="western">
+<surname>Hayes</surname>
+<given-names>RD</given-names>
+</name>
+<name name-style="western">
+<surname>Chang</surname>
+<given-names>CK</given-names>
+</name>
+<name name-style="western">
+<surname>Stewart</surname>
+<given-names>R</given-names>
+</name>
+<name name-style="western">
+<surname>Callard</surname>
+<given-names>FJ</given-names>
+</name>
+<name name-style="western">
+<surname>Moran</surname>
+<given-names>P</given-names>
+</name>
+</person-group>
+<article-title>Life expectancy at birth and all-cause mortality among people with personality disorder</article-title>.<source>J Psychosom Res</source>
+<year>2012</year>;<volume>73</volume>:<fpage>104</fpage>&#x02013;<lpage>7</lpage>.
+<pub-id pub-id-type="pmid">22789412</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R6">
+<label>6</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Klonsky</surname>
+<given-names>ED</given-names>
+</name>
+</person-group>
+<article-title>The functions of deliberate self-injury: a review of the evidence</article-title>.<source>Clin Psychol Rev</source>
+<year>2007</year>;<volume>27</volume>:<fpage>226</fpage>&#x02013;<lpage>39</lpage>.
+<pub-id pub-id-type="pmid">17014942</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R7">
+<label>7</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Szmukler</surname>
+<given-names>G</given-names>
+</name>
+</person-group>
+<article-title>&#x02018;Personality disorder&#x02019; and capacity to make treatment decisions</article-title>.<source>J Med Ethics</source>
+<year>2009</year>;<volume>35</volume>:<fpage>647</fpage>&#x02013;<lpage>50</lpage>.
+<pub-id pub-id-type="pmid">19793948</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R8">
+<label>8</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>David</surname>
+<given-names>AS</given-names>
+</name>
+<name name-style="western">
+<surname>Hotopf</surname>
+<given-names>H</given-names>
+</name>
+<name name-style="western">
+<surname>Moran</surname>
+<given-names>P</given-names>
+</name>
+<name name-style="western">
+<surname>Owen</surname>
+<given-names>G</given-names>
+</name>
+<name name-style="western">
+<surname>Szmukler</surname>
+<given-names>G</given-names>
+</name>
+<name name-style="western">
+<surname>Richardson</surname>
+<given-names>G</given-names>
+</name>
+</person-group>
+<article-title>Mentally disordered or lacking capacity? Lessons for management of serious deliberate self harm</article-title>.<source>BMJ</source>
+<year>2010</year>;<volume>341</volume>:<fpage>c4489</fpage>.
+<pub-id pub-id-type="pmid">20823014</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R9">
+<label>9</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Kendell</surname>
+<given-names>RE</given-names>
+</name>
+</person-group>
+<article-title>The distinction between personality disorder and mental illness</article-title>.<source>Br J Psychiatry</source>
+<year>2002</year>;<volume>180</volume>:<fpage>110</fpage>&#x02013;<lpage>5</lpage>.
+<pub-id pub-id-type="pmid">11823318</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R10">
+<label>10</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Winburn</surname>
+<given-names>E</given-names>
+</name>
+<name name-style="western">
+<surname>Mullen</surname>
+<given-names>R</given-names>
+</name>
+</person-group>
+<article-title>Personality disorder and competence to refuse treatment</article-title>.<source>J Med Ethics</source>
+<year>2008</year>;<volume>34</volume>:<fpage>715</fpage>&#x02013;<lpage>6</lpage>.
+<pub-id pub-id-type="pmid">18827100</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R11">
+<label>11</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<collab>Department for Constitutional Affairs</collab>
+</person-group>
+<source>Mental Capacity Act 2005 Code of Practice</source>.<publisher-name>TSO (The Stationery Office)</publisher-name>,<year>2007</year>.
+</mixed-citation>
+</ref>
+<ref id="R12">
+<label>12</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Gunderson</surname>
+<given-names>JG</given-names>
+</name>
+<name name-style="western">
+<surname>Stout</surname>
+<given-names>RL</given-names>
+</name>
+<name name-style="western">
+<surname>McGlashan</surname>
+<given-names>TH</given-names>
+</name>
+<name name-style="western">
+<surname>Shea</surname>
+<given-names>MT</given-names>
+</name>
+<name name-style="western">
+<surname>Morey</surname>
+<given-names>LC</given-names>
+</name>
+<name name-style="western">
+<surname>Grilo</surname>
+<given-names>CM</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>Ten-year course of borderline personality disorder: psychopathology and function from the Collaborative Longitudinal Personality Disorders study</article-title>.<source>Arch Gen Psychiatry</source>
+<year>2011</year>;<volume>68</volume>:<fpage>827</fpage>&#x02013;<lpage>37</lpage>.
+<pub-id pub-id-type="pmid">21464343</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R13">
+<label>13</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Mak</surname>
+<given-names>ADP</given-names>
+</name>
+<name name-style="western">
+<surname>Lam</surname>
+<given-names>LCW</given-names>
+</name>
+</person-group>
+<article-title>Neurocognitive profiles of people with borderline personality disorder</article-title>.<source>Curr Opin Psychiatry</source>
+<year>2013</year>;<volume>26</volume>:<fpage>90</fpage>&#x02013;<lpage>6</lpage>.
+<pub-id pub-id-type="pmid">23196999</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R14">
+<label>14</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Ruocco</surname>
+<given-names>AC</given-names>
+</name>
+<name name-style="western">
+<surname>Amirthavasagam</surname>
+<given-names>S</given-names>
+</name>
+<name name-style="western">
+<surname>Choi-Kain</surname>
+<given-names>LW</given-names>
+</name>
+<name name-style="western">
+<surname>McMain</surname>
+<given-names>SF</given-names>
+</name>
+</person-group>
+<article-title>Neural correlates of negative emotionality in borderline personality disorder: an activation-likelihood-estimation meta-analysis</article-title>.<source>Biol Psychiatry</source>
+<year>2013</year>;<volume>73</volume>:<fpage>153</fpage>&#x02013;<lpage>60</lpage>.
+<pub-id pub-id-type="pmid">22906520</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R15">
+<label>15</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Stoffers</surname>
+<given-names>JM</given-names>
+</name>
+<name name-style="western">
+<surname>Vollm</surname>
+<given-names>BA</given-names>
+</name>
+<name name-style="western">
+<surname>Rucker</surname>
+<given-names>G</given-names>
+</name>
+<name name-style="western">
+<surname>Timmer</surname>
+<given-names>A</given-names>
+</name>
+<name name-style="western">
+<surname>Huband</surname>
+<given-names>N</given-names>
+</name>
+<name name-style="western">
+<surname>Lieb</surname>
+<given-names>K</given-names>
+</name>
+</person-group>
+<article-title>Psychological therapies for people with borderline personality disorder</article-title>.<source>Cochrane Database Syst Rev</source>
+<year>2012</year>;<volume>8</volume>:<comment>CD005652</comment>.
+</mixed-citation>
+</ref>
+<ref id="R16">
+<label>16</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Parsons</surname>
+<given-names>T</given-names>
+</name>
+</person-group>
+<source>The Social System</source>.<publisher-name>The Free Press of Glencoe</publisher-name>,<year>1951</year>.
+</mixed-citation>
+</ref>
+<ref id="R17">
+<label>17</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Frank</surname>
+<given-names>AW</given-names>
+</name>
+</person-group>
+<article-title>From sick role to practices of health and illness</article-title>.<source>Med Educ</source>
+<year>2013</year>;<volume>47</volume>:<fpage>18</fpage>&#x02013;<lpage>25</lpage>.
+<pub-id pub-id-type="pmid">23278821</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R18">
+<label>18</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Lewis</surname>
+<given-names>G</given-names>
+</name>
+<name name-style="western">
+<surname>Appleby</surname>
+<given-names>L</given-names>
+</name>
+</person-group>
+<article-title>Personality disorder: the patients psychiatrists dislike</article-title>.<source>Br J Psychiatry</source>
+<year>1988</year>;<volume>153</volume>:<fpage>44</fpage>&#x02013;<lpage>9</lpage>.
+<pub-id pub-id-type="pmid">3224249</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R19">
+<label>19</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Pickard</surname>
+<given-names>H</given-names>
+</name>
+</person-group>
+<article-title>Responsibility without blame: empathy and the effective treatment of personality disorder</article-title>.<source>Philos Psychiatr Psychol</source>
+<year>2011</year>;<volume>18</volume>:<fpage>209</fpage>&#x02013;<lpage>23</lpage>.
+<pub-id pub-id-type="pmid">22318087</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R20">
+<label>20</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Fuchs</surname>
+<given-names>T</given-names>
+</name>
+</person-group>
+<article-title>Fragmented selves: temporality and identity in borderline personality disorder</article-title>.<source>Psychopathology</source>
+<year>2007</year>;<volume>40</volume>:<fpage>379</fpage>&#x02013;<lpage>87</lpage>.
+<pub-id pub-id-type="pmid">17652950</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R21">
+<label>21</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Hindmarch</surname>
+<given-names>T</given-names>
+</name>
+<name name-style="western">
+<surname>Hotopf</surname>
+<given-names>M</given-names>
+</name>
+<name name-style="western">
+<surname>Owen</surname>
+<given-names>GS</given-names>
+</name>
+</person-group>
+<article-title>Depression and decision-making capacity for treatment or research: a systematic review</article-title>.<source>BMC Medical Ethics</source>
+<year>2013</year>;<volume>14</volume>:<fpage>54</fpage>.
+<pub-id pub-id-type="pmid">24330745</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R22">
+<label>22</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Elliot</surname>
+<given-names>C</given-names>
+</name>
+</person-group>
 <article-title>Caring about risks. Are severely depressed patients competent to consent to research?</article-title>
 <source>Arch Gen Psychiatry</source>
-<year>1997</year>; <volume>54</volume>: <fpage>113</fpage>&#x02013;<lpage>6</lpage>.
-<pub-id pub-id-type="pmid">9040277</pub-id></mixed-citation></ref><ref id="R23"><label>23</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Drapeau</surname><given-names>M</given-names></name><name name-style="western"><surname>Perry</surname><given-names>CJ</given-names></name><name name-style="western"><surname>K&#x000f6;rner</surname><given-names>A</given-names></name></person-group>
-<article-title>Interpersonal patterns in borderline personality disorder</article-title>. <source>J Pers Disord</source>
-<year>2012</year>; <volume>26</volume>: <fpage>583</fpage>&#x02013;<lpage>92</lpage>.
-<pub-id pub-id-type="pmid">22867508</pub-id></mixed-citation></ref><ref id="R24"><label>24</label><mixed-citation publication-type="other">
-<source>B vs Croydon Health Authority</source> (<year>1995</year>) <comment>Fam 133</comment>.
-</mixed-citation></ref><ref id="R25"><label>25</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Goodman</surname><given-names>M</given-names></name><name name-style="western"><surname>Roiff</surname><given-names>T</given-names></name><name name-style="western"><surname>Oakes</surname><given-names>Ah</given-names></name><name name-style="western"><surname>Paris</surname><given-names>J</given-names></name></person-group>
-<article-title>Suicidal risk and management in borderline personality disorder</article-title>. <source>Curr Psychiatry Rep</source>
-<year>2012</year>; <volume>14</volume>: <fpage>79</fpage>&#x02013;<lpage>85</lpage>.
-<pub-id pub-id-type="pmid">22113831</pub-id></mixed-citation></ref><ref id="R26"><label>26</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Krawitz</surname><given-names>R</given-names></name><name name-style="western"><surname>Batcheler</surname><given-names>M</given-names></name></person-group>
-<article-title>Borderline personality disorder: a pilot survey about clinician views on defensive practice</article-title>. <source>Australas Psychiatry</source>
-<year>2006</year>; <volume>14</volume>: <fpage>320</fpage>&#x02013;<lpage>2</lpage>.
-<pub-id pub-id-type="pmid">16923047</pub-id></mixed-citation></ref><ref id="R27"><label>27</label><mixed-citation publication-type="other">
-<source>Re M; ITW v Z and M</source> [<year>2009</year>] <comment>EWHC 2525 (Fam)</comment>.
-</mixed-citation></ref><ref id="R28"><label>28</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Buchanan</surname><given-names>A</given-names></name></person-group>
-<article-title>Mental capacity, legal competence and consent to treatment</article-title>. <source>J R Soc Med</source>
-<year>2004</year>; <volume>97</volume>: <fpage>415</fpage>&#x02013;<lpage>20</lpage>.
-<pub-id pub-id-type="pmid">15340019</pub-id></mixed-citation></ref><ref id="R29"><label>29</label><mixed-citation publication-type="other">
-<source>Re T (Adult: Refusal of Treatment)</source> [<year>1992</year>] <comment>4 All ER 649 at 669</comment>.
-</mixed-citation></ref></ref-list></back></article>
+<year>1997</year>;<volume>54</volume>:<fpage>113</fpage>&#x02013;<lpage>6</lpage>.
+<pub-id pub-id-type="pmid">9040277</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R23">
+<label>23</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Drapeau</surname>
+<given-names>M</given-names>
+</name>
+<name name-style="western">
+<surname>Perry</surname>
+<given-names>CJ</given-names>
+</name>
+<name name-style="western">
+<surname>K&#x000f6;rner</surname>
+<given-names>A</given-names>
+</name>
+</person-group>
+<article-title>Interpersonal patterns in borderline personality disorder</article-title>.<source>J Pers Disord</source>
+<year>2012</year>;<volume>26</volume>:<fpage>583</fpage>&#x02013;<lpage>92</lpage>.
+<pub-id pub-id-type="pmid">22867508</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R24">
+<label>24</label>
+<mixed-citation publication-type="other">
+<source>B vs Croydon Health Authority</source> (<year>1995</year>)<comment>Fam 133</comment>.
+</mixed-citation>
+</ref>
+<ref id="R25">
+<label>25</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Goodman</surname>
+<given-names>M</given-names>
+</name>
+<name name-style="western">
+<surname>Roiff</surname>
+<given-names>T</given-names>
+</name>
+<name name-style="western">
+<surname>Oakes</surname>
+<given-names>Ah</given-names>
+</name>
+<name name-style="western">
+<surname>Paris</surname>
+<given-names>J</given-names>
+</name>
+</person-group>
+<article-title>Suicidal risk and management in borderline personality disorder</article-title>.<source>Curr Psychiatry Rep</source>
+<year>2012</year>;<volume>14</volume>:<fpage>79</fpage>&#x02013;<lpage>85</lpage>.
+<pub-id pub-id-type="pmid">22113831</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R26">
+<label>26</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Krawitz</surname>
+<given-names>R</given-names>
+</name>
+<name name-style="western">
+<surname>Batcheler</surname>
+<given-names>M</given-names>
+</name>
+</person-group>
+<article-title>Borderline personality disorder: a pilot survey about clinician views on defensive practice</article-title>.<source>Australas Psychiatry</source>
+<year>2006</year>;<volume>14</volume>:<fpage>320</fpage>&#x02013;<lpage>2</lpage>.
+<pub-id pub-id-type="pmid">16923047</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R27">
+<label>27</label>
+<mixed-citation publication-type="other">
+<source>Re M; ITW v Z and M</source> [<year>2009</year>]<comment>EWHC 2525 (Fam)</comment>.
+</mixed-citation>
+</ref>
+<ref id="R28">
+<label>28</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Buchanan</surname>
+<given-names>A</given-names>
+</name>
+</person-group>
+<article-title>Mental capacity, legal competence and consent to treatment</article-title>.<source>J R Soc Med</source>
+<year>2004</year>;<volume>97</volume>:<fpage>415</fpage>&#x02013;<lpage>20</lpage>.
+<pub-id pub-id-type="pmid">15340019</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R29">
+<label>29</label>
+<mixed-citation publication-type="other">
+<source>Re T (Adult: Refusal of Treatment)</source> [<year>1992</year>]<comment>4 All ER 649 at 669</comment>.
+</mixed-citation>
+</ref>
+</ref-list>
+</back>
+</article>

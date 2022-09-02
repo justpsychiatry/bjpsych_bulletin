@@ -1,96 +1,816 @@
-<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1d3 20150301//EN" "JATS-archivearticle1.dtd"> 
-<article xmlns:ali="http://www.niso.org/schemas/ali/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Publishing DTD v2.3 20070202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName journalpublishing.dtd?><?SourceDTD.Version 2.3?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 2?><front><journal-meta><journal-id journal-id-type="nlm-ta">BJPsych Bull</journal-id><journal-id journal-id-type="iso-abbrev">BJPsych Bull</journal-id><journal-id journal-id-type="hwp">pbrcpsych</journal-id><journal-title-group><journal-title>BJPsych Bulletin</journal-title></journal-title-group><issn pub-type="ppub">2056-4694</issn><issn pub-type="epub">2056-4708</issn><publisher><publisher-name>Royal College of Psychiatrists</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">4478904</article-id><article-id pub-id-type="doi">10.1192/pb.bp.114.046995</article-id><article-categories><subj-group subj-group-type="heading"><subject>Special Articles</subject></subj-group></article-categories><title-group><article-title>Neglect of the complex: why psychotherapy for post-traumatic clinical presentations is often ineffective<xref ref-type="author-notes" rid="fn1"><sup>&#x02020;</sup></xref></article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Corrigan</surname><given-names>Frank M.</given-names></name><xref ref-type="aff" rid="A1">1</xref></contrib><contrib contrib-type="author"><name><surname>Hull</surname><given-names>Alastair M.</given-names></name><xref ref-type="aff" rid="A2">2</xref></contrib><aff id="A1"><label>1</label>Argyll &#x00026; Bute Hospital, Lochgilphead</aff><aff id="A2"><label>2</label>Perth Royal Infirmary, Perth</aff></contrib-group><author-notes><corresp>Correspondence to Frank M. Corrigan (<email>frank.corigan@nhs.net</email>)
-</corresp><fn><p><bold>Frank M. Corrigan</bold> is a consultant psychiatrist at Argyll &#x00026; Bute Hospital, Lochgilphead, Argyll, NHS Highland, and <bold>Alastair M. Hull</bold> is a consultant psychiatrist in psychotherapy at Perth Royal Infirmary, Perth, NHS Tayside.</p></fn><fn id="fn1"><label><sup>&#x02020;</sup></label><p>See <italic>Bulletin</italic> comment, p. <related-article related-article-type="article-reference" id="d35e80" vol="39" page="100" issue="2" ext-link-type="pmc">100</related-article>, this issue.</p></fn></author-notes><pub-date pub-type="ppub"><month>4</month><year>2015</year></pub-date><volume>39</volume><issue>2</issue><fpage>86</fpage><lpage>89</lpage><history><date date-type="received"><day>25</day><month>1</month><year>2014</year></date><date date-type="rev-recd"><day>22</day><month>2</month><year>2014</year></date><date date-type="accepted"><day>11</day><month>3</month><year>2014</year></date></history><permissions><copyright-statement>&#x000a9; 2014 The Authors</copyright-statement><copyright-year>2014</copyright-year><license license-type="creative-commons" xlink:href="http://creativecommons.org/licenses/by/3.0/"><license-p>This is an open-access article published by the Royal College of Psychiatrists and distributed under the terms of the Creative Commons Attribution License (<uri xlink:type="simple" xlink:href="http://creativecommons.org/licenses/by/3.0">http://creativecommons.org/licenses/by/3.0</uri>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xlink:title="pdf" xlink:type="simple" xlink:href="86.pdf"/><abstract><p id="P1">Evidence of efficacy in studies of post-traumatic conditions is largely derived from studies in which variables are kept to a minimum. Extrapolation of treatments from uncomplicated disorders to complex conditions may therefore be called evidence-based without being evidenced. Complex conditions with polysymptomatic presentations and extensive comorbidity are being denied proper evaluation, and patients most severely traumatised from the early stages of their development are not provided with rigorously evaluated psychotherapies because they are more difficult to study in the manner approved by research protocols. Such evidence as there is suggests that the simple extension of treatments for uncomplicated disorders is seriously inadequate. This has significant implications for health services responsible for the provision of the most efficacious treatments to those whose disorders arise from severe trauma, often very early in their life.</p></abstract></article-meta></front><body><sec id="S1"><title>Evidence-based and evidenced are not necessarily the same</title><p id="P2">Psychotherapy for post-traumatic clinical presentations is often restricted by the lack of evidence in support of approaches other than those validated for non-complex post-traumatic stress disorder (PTSD), such as cognitive&#x02013;behavioural therapy (CBT)<sup><xref rid="R1" ref-type="bibr">1</xref></sup> and eye movement desensitisation and reprocessing (EMDR).<sup><xref rid="R2" ref-type="bibr">2</xref>,<xref rid="R3" ref-type="bibr">3</xref></sup> Complex PTSD has different definitions but is essentially a multifaceted presentation arising from extreme stress, usually at an early developmental level. This leads to difficulty in regulating affective arousal; alterations in attention and consciousness such as amnesia and dissociation; somatisation; chronic characterological changes; and alterations in systems of meaning.<sup><xref rid="R4" ref-type="bibr">4</xref></sup> The variability in the syndromes that result means that inexact use of terminology bedevils this clinical and research area. While PTSD is a theoretical umbrella term,<sup><xref rid="R5" ref-type="bibr">5</xref></sup> we use &#x02018;complex PTSD&#x02019; in this paper to refer to complex reactions to multiple traumatic stressor exposures and experiences, usually against a background of severe disturbances in primary caregiving relationships.</p><p id="P3">Complex presentations are often excluded from studies because they do not fit neatly into the simple nosological categorisations required for research power. This means that the most severe disorders are not studied adequately and patients most affected by early trauma are often not recognised by services. Both historically and currently, at the individual as well as the societal level, dissociation from the acknowledgement of the severe impact of childhood abuse on the developing brain leads to inadequate provision of services. Assimilation into treatment models of the emerging affective neuroscience of adverse experience could help to redress the balance by shifting the focus from top-down regulation to bottom-up, body-based processing.</p><p id="P4">At present there is little regard for the subcortical generators of distress and an overemphasis on the cognitive strategies needed to manage the resulting emotions. At the institutional level this translates to a preoccupation with therapist supervision; attainment of symptom-reduction goals; invalidation of the importance of affective experience; and intolerance of clinical complexity. There are then imposed limitations on psychotherapy sessions and inadequate time and emphasis on therapeutic engagement. The concept of evidence needs to be expanded to include neuroscientific plausibility. The collection of outcome data needs to include biological data such as changes in functional imaging responses to trauma-related and apparently innocuous interpersonal stimuli. Neuroscientific plausibility can be a source of indirect evidence and affective neuroscience can be included in the rationale for novel treatments in complex PTSD. We explore this elsewhere (details available from the authors on request). However, acknowledgement of the magnitude of the problem would have severe financial implications for mental health services.</p></sec><sec id="S2"><title>Limitations of the evidence base for the treatment of complex PTSD</title><p id="P5">Evidence-based therapy for mental disorders is often considered to be CBT as it has been shown to be of value in reducing symptoms in many disorders. CBT has been able to accumulate evidence in part through the readiness of funding bodies to provide for research when there is likely to be some observable and measurable benefit, however clinically relevant &#x02013; in terms of symptoms or functioning. If research funding is not readily accessible for complex and prolonged interventions that are clinically applied in the phase-based treatment of complex PTSD, it is easy to arrive at the false conclusion that a lack of evidence for a particular therapy indicates that it is not effective. There is not, to our knowledge, any register of projects which have been refused financial support or discouraged from making a full application on the basis of cost. One example is sensorimotor psychotherapy,<sup><xref rid="R6" ref-type="bibr">6</xref></sup> which has as yet little supporting evidence but is endorsed by leading international experts and is neuroscientifically credible. The costs of carrying out an outcome study of sensorimotor psychotherapy with current methodological constraints would be prohibitive. Somatic experiencing<sup><xref rid="R7" ref-type="bibr">7</xref></sup> preceded sensorimotor psychotherapy as a body-based therapy for the resolution of traumatic experience and is widely used throughout the world. It also lacks the evidence base deemed necessary in those services for which rapid symptom reduction is the economically derived priority.</p><p id="P6">Both the National Institute for Health and Care Excellence (NICE) guidelines<sup><xref rid="R8" ref-type="bibr">8</xref></sup> and a Cochrane review of psychological therapies for chronic PTSD in adults<sup><xref rid="R9" ref-type="bibr">9</xref></sup> concluded that EMDR and trauma-focused CBT are effective in clinician-rated symptom reduction, although there was evidence of greater dropout in active treatment groups. The authors of both also considered the evidence available to them to be of low quality. A Cochrane review of psychological therapies for people with borderline personality disorder<sup><xref rid="R10" ref-type="bibr">10</xref></sup> concluded that dialectical behaviour therapy (DBT) was effective in reducing anger and parasuicidality and in improving general mental health, but it did not appear to be more likely than treatment as usual to keep people in therapy. The authors considered that none of the treatments they studied for borderline personality disorder had &#x02018;a very robust evidence base&#x02019;.</p></sec><sec id="S3"><title>Consequences of accepting &#x02018;evidence-based&#x02019; as &#x02018;evidenced&#x02019;</title><p id="P7">If CBT and/or DBT were effective for 100% of patients with complex trauma sequelae there would be no need for additional therapeutic approaches. To illustrate our contention that this may not be the case, a relevant paper<sup><xref rid="R11" ref-type="bibr">11</xref></sup> recommended to us as methodologically sound has been selected. This helps to clarify the answer to the 100% resolution question in regard to CBT. In this paper by McDonagh and colleagues,<sup><xref rid="R11" ref-type="bibr">11</xref></sup> exclusion criteria were: use of medication with significant autonomic nervous system effects; dissociative identity disorder; current alcohol or drug misuse; presence of active suicidality or a history of two or more suicide gestures or attempts in the preceding year. Women were also excluded from the study if they were in a relationship with an abusive partner, a situation unfortunately all too common in this clinical population. Although the eventual study group had experienced multiple traumas, those who completed treatment were middle-aged, well educated and in employment. Many of the patients encountered in general psychiatric practice do not fit this profile. Many of those who present clinically with a history of complex PTSD have been attempting to manage their distress through one &#x02013; or more likely a combination &#x02013; coping strategies, for instance self-harm, alcohol/drug misuse, eating disorders, or other behaviours designed to limit their sudden shifts out of the &#x02018;window of tolerance&#x02019;.<sup><xref rid="R12" ref-type="bibr">12</xref></sup> The efforts to achieve physiological regulation themselves then lead to further difficulties. Because treatment studies in general dislike comorbidity, the evidence on treatment approaches to multiple, coexisting and complex problems is limited.</p><p id="P8">As well as the exclusion of people who need therapy &#x02013; such as those who are chronically suicidal as a result of early trauma &#x02013; there was evidence of a problem with dropouts from the study. This was most evident with CBT (41%) and required the discharge of the random assignment process to get sufficient numbers into the CBT group. The post-treatment analysis applying intention-to-treat showed no significant difference in the numbers no longer meeting PTSD criteria: 28% for CBT (<italic>n</italic> = 8); 32% for present-centred therapy (<italic>n</italic> = 7); 17% for the waiting list (<italic>n</italic> = 4). So of the 200+ patients who met the criteria for complex PTSD following childhood sexual abuse, 74 were included in the study and 8 got better with CBT compared with 4 on the waiting list. This falls well short of a 100% recovery criterion which would support the restriction of training to CBT, and raises serious questions about CBT being the core treatment modality provided for complex post-traumatic presentations.</p><p id="P9">For the completers only (i.e. ignoring those who dropped out) both treatment groups improved significantly compared with the waiting list and both showed sustained improvements at 6 months. CBT therefore had clear and demonstrable benefits for some female childhood sexual abuse survivors. However, patients were more likely to stay in present-centred therapy, in which the therapists were required to be genuine, empathic and non-judgemental.</p><p id="P10">This is only one methodologically sound study of a selected population but it is of interest that the problem with the dropout rate has been previously observed for clinical practice in the &#x02018;real world&#x02019;,<sup><xref rid="R13" ref-type="bibr">13</xref></sup> in which many psychologists trained in CBT were found to be reluctant to use imaginal exposure.<sup><xref rid="R14" ref-type="bibr">14</xref></sup> There is a striking discrepancy between recommended best evidence-based practice for PTSD and actual clinical practice.<sup><xref rid="R15" ref-type="bibr">15</xref></sup> The underlying reasons for this discrepancy are likely to be complex but may reflect the clinician&#x02019;s view of the tolerability of the therapy for both patient and practitioner. Prolonged exposure may be necessary for some who prefer to spend the hours on slow adaptation rather than to go with the rapid information processing available in non-exposure treatment protocols such as EMDR.<sup><xref rid="R2" ref-type="bibr">2</xref></sup> However, EMDR cannot be applied in complex PTSD with strict adherence to the standard protocol used in non-complex PTSD without a high risk of increasing dysregulation. For the multiple traumatic events and experiences of the kind commonly encountered by victims of child sexual abuse, prolonged exposure is unlikely to work in the lifetime of the patient.</p><p id="P11">The context-dependent unhitching of stimulus and response can occur without any impact on the stored representation of the unconditioned stimulus.<sup><xref rid="R16" ref-type="bibr">16</xref></sup> If the unconditioned stimulus involves a body memory from being raped at 3 years old, it may be possible to reduce the distress related to adult sexual activity without having any impact on the stored and readily triggered pain, rage, terror, shame, abandonment, isolation, worthlessness, hopelessness, helplessness or survival terror. Also unaffected will be the dissociative defences which helped the child to survive and continue with life, apparently unscathed. The therapeutic gains are therefore helpful, but limited.</p><p id="P12">Therapists engaged in the provision of prolonged exposure may be troubled by &#x02018;feelings of helplessness&#x02019;.<sup><xref rid="R17" ref-type="bibr">17</xref></sup> So if the therapists feel helpless, they then need to spend more time in supervision, being exposed to their helplessness with a supervisor who presumably feels less helpless because he or she is supervising rather than treating. Subsequently, within systems there is then less time available to treat those patients who are willing and able to participate in the exposure therapy that even those supplying it dislike and prefer to avoid. It may also be the personal preference of clinical researchers to focus on the cognitive, as in restructuring, rather than be exposed to the realms of horror and terror, intense isolation and abandonment, excruciating pain and despair of the complex trauma survivor. If the therapist has unresolved residues of traumatic experience himself, the ability to convey the psychotherapy may be even more challenging; it is then much easier to focus on reappraisal and the reassurance that all present have survived and prospered.</p></sec><sec id="S4"><title>Dropouts from DBT</title><p id="P13">Dialectical behaviour therapy provides techniques for safety and stabilisation of borderline personality disorders<sup><xref rid="R18" ref-type="bibr">18</xref></sup> and some of its elements have been adapted for dissociative disorders.<sup><xref rid="R19" ref-type="bibr">19</xref></sup> In DBT emotions are recognised as an important part of human experience and there is considerable emphasis on their regulation to reduce distress. So it is interesting to see that dropout rates from DBT in the UK can increase, from an already high 52% to 88% in those with more complex presentations.<sup><xref rid="R20" ref-type="bibr">20</xref></sup> Of course, not all patients with borderline personality disorder have a history of trauma or unresolved attachment and genetic and other factors may be present in some.<sup><xref rid="R21" ref-type="bibr">21</xref></sup> However, between 40 and 70% of those with borderline personality disorder would also meet criteria for one of the major dissociative disorders in which trauma histories and disorganised attachment are major aetiological factors.<sup><xref rid="R21" ref-type="bibr">21</xref></sup> It is surprising, but perhaps a reflection of what is considered treatable, that attachment trauma is often ignored, despite research specifying feelings of emptiness and problems in coping with abandonment as key features of borderline personality disorder.<sup><xref rid="R10" ref-type="bibr">10</xref></sup> Treatment continuity may be interfered with by the behaviourist management of dissociation as a problem behaviour, which can be approached through desensitisation of present cues to past traumatic experiences.<sup><xref rid="R21" ref-type="bibr">21</xref></sup> The structural dissociation model of van der Hart <italic>et al</italic><sup><xref rid="R22" ref-type="bibr">22</xref></sup> sees self-states that interfere with therapy as nevertheless based in the defence from the overwhelming effects of trauma. Therapists working with an ego state model in which the cooperation of aggressive protector parts is a prerequisite for continuing treatment (e.g. Paulsen<sup><xref rid="R23" ref-type="bibr">23</xref></sup>) have identified and delineated strategies for achieving this. It would be interesting to know whether the disregard for the original survival functions of peritraumatic and structural dissociation contributes to the high dropout from DBT. A very testable hypothesis is that people who drop out from DBT are primarily those with significant but unrecognised dissociative disorders.</p></sec><sec id="S5"><title>Prevalence of dissociative disorders</title><p id="P14">There is evidence that some of the complex post-traumatic disorders &#x02013; including dissociative disorders &#x02013; can have an impact on functioning equivalent at least to major psychotic disorders, and should be considered to be &#x02018;serious mental illness&#x02019;.<sup><xref rid="R24" ref-type="bibr">24</xref></sup> Studies of the general population find a prevalence rate for dissociative identity disorder at 1&#x02013;3%, whereas in psychiatric patient populations the figure is 1&#x02013;5%.<sup><xref rid="R25" ref-type="bibr">25</xref></sup> Those individuals are often not diagnosed as having dissociative identity disorder but receive treatment according to the most prominent signs and symptoms, and their response to treatment for depression, anxiety, panic disorder, eating disorder, substance misuse or somatoform disorders will inevitably be incomplete. Moreover, unreported or unrecognised trauma is common in psychiatric patients (details available from the authors on request). Unfortunately, in controlled trials in groups of patients presenting with these symptoms and syndromes the diagnosis of those who drop out is not reassessed. Ethical constraints would prevent attempts to acquire this information after a patient has dropped out, so there is a need to assess for the sequelae of complex trauma at recruitment. It could be predicted that some will have unrecognised major dissociative disorders, or significant secondary or tertiary dissociative symptoms. Treatment of comorbid conditions &#x02013; or concomitant symptoms &#x02013; is an inadequate response to a range of complex presentations aetiologically related to early trauma.</p></sec><sec id="S6"><title>Therapy for severe complex PTSD and dissociative disorders</title><p id="P15">It could be argued that psychotherapy for the residual effects of trauma should start with the aim of helping those most severely affected. Chu <italic>et al</italic><sup><xref rid="R25" ref-type="bibr">25</xref></sup> reviewed the treatment of the major dissociative disorders which are recognised to result from early attachment trauma often compounded by later sexual and/or physical abuse. The review argued that the economic cost of dissociative disorders was considerable and highlighted the priority needed for the development of effective treatments. However, dissociative disorders were frequently unrecognised as such, perhaps because of their polysymptomatic presentations, and therefore appropriate services were not provided. When treatment was adapted to address the consequences of dissociative defences to complex trauma, even those with severe disorders could improve. The lack of controlled or randomised outcomes studies for the psychotherapy of dissociative disorders is an effect of the complexity of the presentations and of the level of funding that would be required to properly evaluate treatment. The lack of evidence is not an indicator that particular approaches do not work &#x02013; only that they have not been rigorously tested. Testing procedures understandably but unhelpfully prefer simple, measurable attributes for economy of scale.</p></sec><sec sec-type="conclusions" id="S7"><title>Conclusions</title><p id="P16">Patients with many trauma-based disorders are not well served by existing therapies: they will often drop out of treatment at an early stage. PTSD is an inclusive term<sup><xref rid="R5" ref-type="bibr">5</xref></sup> which has precipitated much research and clinical interest. However, this categorisation has dominated research and clinical services to the detriment of the range of disorders occurring after traumatic experience.<sup><xref rid="R26" ref-type="bibr">26</xref></sup> Disorders arising from extreme stress during the brain&#x02019;s development and maturation need a prolonged period for recovery. The first requirement is therefore to adopt an approach which will retain patients in therapy long enough for the therapist and patient to form a shared understanding of what is happening and to find a way of working together. This way must be found to be beneficial for the patient and sufficiently tolerable for the therapist so that the therapist does not avoid it.</p></sec></body><back><fn-group><fn fn-type="conflict"><p><bold>Declaration of interest</bold> None.</p></fn></fn-group><ack><p id="P17">We are grateful to Janina Fisher and Ron Schwenkler for comments on early drafts.</p></ack><ref-list><title>References</title><ref id="R1"><label>1</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name><surname>Ehlers</surname><given-names>A</given-names></name><name><surname>Grey</surname><given-names>N</given-names></name><name><surname>Wild</surname><given-names>J</given-names></name><name><surname>Stott</surname><given-names>R</given-names></name><name><surname>Liness</surname><given-names>S</given-names></name><name><surname>Deale</surname><given-names>A</given-names></name><etal/></person-group>
-<article-title>Implementation of cognitive therapy for PTSD in routine clinical care: effectiveness and moderators of outcome in a consecutive sample</article-title>. <source>Behav Res Ther</source>
-<year>2013</year>; <volume>51</volume>: <fpage>742</fpage>&#x02013;<lpage>52</lpage>.
-<pub-id pub-id-type="pmid">24076408</pub-id></mixed-citation></ref><ref id="R2"><label>2</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><name><surname>Shapiro</surname><given-names>F</given-names></name></person-group>
-<source>Eye Movement Desensitization and Reprocessing: Basic Principles, Protocols, and Procedures</source>. <publisher-name>Guilford Press</publisher-name>, <year>1995</year>.
-</mixed-citation></ref><ref id="R3"><label>3</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name><surname>Edmond</surname><given-names>T</given-names></name><name><surname>Rubin</surname><given-names>A</given-names></name></person-group>
-<article-title>Assessing the long-term effects of EMDR: Results from an 18-month follow-up study with adult female survivors of CSA</article-title>. <source>J Child Sex Abuse</source>
-<year>2004</year>; <volume>13</volume>: <fpage>69</fpage>&#x02013;<lpage>86</lpage>.
-</mixed-citation></ref><ref id="R4"><label>4</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><name><surname>Van der Kolk</surname><given-names>BA</given-names></name></person-group>
-<article-title>The complexity of adaptation to trauma: self-regulation, stimulus discrimination, and characterological development</article-title>. In <source>Traumatic Stress: The Effects of Overwhelming Experience on Mind, Body, and Society</source> (eds <person-group person-group-type="editor"><name><surname>Van der Kolk</surname><given-names>BA</given-names></name><name><surname>McFarlane</surname><given-names>AC</given-names></name><name><surname>Weisaeth</surname><given-names>L</given-names></name></person-group>): pp. <fpage>182</fpage>&#x02013;<lpage>213</lpage>. <publisher-name>Guilford Press</publisher-name>, <year>1996</year>.
-</mixed-citation></ref><ref id="R5"><label>5</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><name><surname>Joseph</surname><given-names>S</given-names></name><name><surname>Williams</surname><given-names>A</given-names></name><name><surname>Yule</surname><given-names>W</given-names></name></person-group>
-<source>Understanding Post-Traumatic Stress: A Psychological Perspective on PTSD and Treatment</source>. <publisher-name>John Wiley</publisher-name>, <year>1997</year>.
-</mixed-citation></ref><ref id="R6"><label>6</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><name><surname>Ogden</surname><given-names>P</given-names></name><name><surname>Minton</surname><given-names>K</given-names></name><name><surname>Pain</surname><given-names>C</given-names></name></person-group>
-<source>Trauma and The Body: A Sensorimotor Approach to Psychotherapy</source>. <publisher-name>Norton</publisher-name>, <year>2006</year>.
-</mixed-citation></ref><ref id="R7"><label>7</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><name><surname>Levine</surname><given-names>PA</given-names></name></person-group>
-<source>Waking The Tiger: Healing Trauma &#x02013; Innate Capacity to Transform Overwhelming Experiences</source>. <publisher-name>North Atlantic Books</publisher-name>, <year>1997</year>.
-</mixed-citation></ref><ref id="R8"><label>8</label><mixed-citation publication-type="book">
-<collab>National Institute for Health and Clinical Excellence</collab>. <source>Post-Traumatic Stress Disorder: The Management of PTSD in Adults and Children in Primary and Secondary Care (Clinical Guidelines CG26)</source>. <publisher-name>Gaskell &#x00026; British Psychological Society</publisher-name>, <year>2005</year>.
-</mixed-citation></ref><ref id="R9"><label>9</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name><surname>Bisson</surname><given-names>JI</given-names></name><name><surname>Roberts</surname><given-names>NP</given-names></name><name><surname>Andrew</surname><given-names>M</given-names></name><name><surname>Cooper</surname><given-names>R</given-names></name><name><surname>Lewis</surname><given-names>C</given-names></name></person-group>
-<article-title>Psychological therapies for chronic post-traumatic stress disorder (PTSD) in adults</article-title>. <source>Cochrane Database Syst Rev</source>
-<year>2013</year>; <volume>12</volume>: <fpage>CD003388</fpage>..
-<pub-id pub-id-type="pmid">24338345</pub-id></mixed-citation></ref><ref id="R10"><label>10</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name><surname>Stoffers</surname><given-names>JM</given-names></name><name><surname>V&#x000f6;llm</surname><given-names>BA</given-names></name><name><surname>R&#x000fc;cker</surname><given-names>G</given-names></name><name><surname>Timmer</surname><given-names>A</given-names></name><name><surname>Huband</surname><given-names>N</given-names></name><name><surname>Lieb</surname><given-names>K</given-names></name></person-group>
-<article-title>Psychological therapies for people with borderline personality disorder</article-title>. <source>Cochrane Database Syst Rev</source>
-<year>2013</year>; <volume>8</volume>: <fpage>CD005652</fpage>.
-<pub-id pub-id-type="pmid">22895952</pub-id></mixed-citation></ref><ref id="R11"><label>11</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name><surname>McDonagh</surname><given-names>A</given-names></name><name><surname>McHugo</surname><given-names>G</given-names></name><name><surname>Sengupta</surname><given-names>A</given-names></name><name><surname>Demment</surname><given-names>CC</given-names></name><name><surname>Schnurr</surname><given-names>PP</given-names></name><name><surname>Friedman</surname><given-names>M</given-names></name><etal/></person-group>
-<article-title>Randomized trial of cognitive-behavioral therapy for chronic posttraumatic stress disorder in adult female survivors of childhood sexual abuse</article-title>. <source>J Consult Clin Psychology</source>
-<year>2005</year>; <volume>73</volume>: <fpage>515</fpage>&#x02013;<lpage>24</lpage>.
-</mixed-citation></ref><ref id="R12"><label>12</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name><surname>Corrigan</surname><given-names>FM</given-names></name><name><surname>Fisher</surname><given-names>JJ</given-names></name><name><surname>Nutt</surname><given-names>DJ</given-names></name></person-group>
-<article-title>Autonomic dysregulation and the Window of Tolerance model of the effects of complex emotional trauma</article-title>. <source>J Psychopharmacology</source>
-<year>2011</year>; <volume>25</volume>: <fpage>17</fpage>&#x02013;<lpage>25</lpage>.
-</mixed-citation></ref><ref id="R13"><label>13</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name><surname>Zayfert</surname><given-names>C</given-names></name><name><surname>DeViva</surname><given-names>JC</given-names></name><name><surname>Becker</surname><given-names>CB</given-names></name><name><surname>Pike</surname><given-names>JL</given-names></name><name><surname>Gillock</surname><given-names>KL</given-names></name><name><surname>Hayes</surname><given-names>SA</given-names></name></person-group>
-<article-title>Exposure utilization and completion of cognitive behavioral therapy for PTSD in a &#x02018;real world&#x02019; clinical practice</article-title>. <source>J Trauma Stress</source>
-<year>2005</year>; <volume>18</volume>: <fpage>637</fpage>&#x02013;<lpage>45</lpage>.
-<pub-id pub-id-type="pmid">16382429</pub-id></mixed-citation></ref><ref id="R14"><label>14</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name><surname>Becker</surname><given-names>C</given-names></name><name><surname>Zayfert</surname><given-names>C</given-names></name><name><surname>Anderson</surname><given-names>E</given-names></name></person-group>
-<article-title>A survey of psychologists&#x02019; attitudes towards and utilization of exposure therapy for PTSD</article-title>. <source>Behav Res Ther</source>
-<year>2004</year>; <volume>42</volume>: <fpage>277</fpage>&#x02013;<lpage>92</lpage>.
-<pub-id pub-id-type="pmid">14975770</pub-id></mixed-citation></ref><ref id="R15"><label>15</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name><surname>Rosen</surname><given-names>CS</given-names></name><name><surname>Chow</surname><given-names>HS</given-names></name><name><surname>Finney</surname><given-names>JF</given-names></name><name><surname>Greenbaum</surname><given-names>MA</given-names></name><name><surname>Moos</surname><given-names>RH</given-names></name><name><surname>Sheikh</surname><given-names>JI</given-names></name><etal/></person-group>
-<article-title>VA practice patterns and practice guidelines for treating posttraumatic stress disorder</article-title>. <source>J Trauma Stress</source>
-<year>2004</year>; <volume>17</volume>: <fpage>213</fpage>&#x02013;<lpage>22</lpage>.
-<pub-id pub-id-type="pmid">15253093</pub-id></mixed-citation></ref><ref id="R16"><label>16</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name><surname>Arntz</surname><given-names>A</given-names></name></person-group>
-<article-title>Imagery rescripting for personality disorders</article-title>. <source>Cogn Behav Pract</source>
-<year>2011</year>; <volume>18</volume>: <fpage>466</fpage>&#x02013;<lpage>81</lpage>.
-</mixed-citation></ref><ref id="R17"><label>17</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name><surname>Arntz</surname><given-names>A</given-names></name><name><surname>Tiesema</surname><given-names>M</given-names></name><name><surname>Kindt</surname><given-names>M</given-names></name></person-group>
-<article-title>Treatment of PTSD: A comparison of imaginal exposure with and without imagery rescripting</article-title>. <source>J Behav Ther Experimental Psychiatry</source>
-<year>2007</year>; <volume>38</volume>: <fpage>345</fpage>&#x02013;<lpage>7</lpage>.
-</mixed-citation></ref><ref id="R18"><label>18</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><name><surname>Linehan</surname><given-names>MM</given-names></name></person-group>
-<source>Cognitive-Behavioral Treatment of Borderline Personality Disorder</source>. <publisher-name>Guilford Press</publisher-name>, <year>1993</year>.
-</mixed-citation></ref><ref id="R19"><label>19</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><name><surname>Boon</surname><given-names>S</given-names></name><name><surname>Steele</surname><given-names>K</given-names></name><name><surname>van der Hart</surname><given-names>O</given-names></name></person-group>
-<source>Coping with Trauma-Related Dissociation: Skills Training for Patients and Therapists</source>. <publisher-name>WW Norton</publisher-name>, <year>2011</year>.
-</mixed-citation></ref><ref id="R20"><label>20</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name><surname>Gaglia</surname><given-names>A</given-names></name><name><surname>Essletzbichler</surname><given-names>J</given-names></name><name><surname>Barnicot</surname><given-names>K</given-names></name><name><surname>Bhatti</surname><given-names>N</given-names></name><name><surname>Priebe</surname><given-names>S</given-names></name></person-group>
-<article-title>Dropping out of dialectical behaviour therapy in the NHS: the role of care coordination</article-title>. <source>Psychiatrist</source>
-<year>2013</year>; <volume>37</volume>: <fpage>267</fpage>&#x02013;<lpage>71</lpage>.
-</mixed-citation></ref><ref id="R21"><label>21</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name><surname>Korzekwa</surname><given-names>MI</given-names></name><name><surname>Dell</surname><given-names>PF</given-names></name><name><surname>Pain</surname><given-names>C</given-names></name></person-group>
-<article-title>Dissociation and borderline personality disorder: an update for clinicians</article-title>. <source>Curr Psychiatry Rep</source>
-<year>2009</year>; <volume>11</volume>: <fpage>82</fpage>&#x02013;<lpage>8</lpage>.
-<pub-id pub-id-type="pmid">19187714</pub-id></mixed-citation></ref><ref id="R22"><label>22</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><name><surname>Van der Hart</surname><given-names>O</given-names></name><name><surname>Nijenhuis</surname><given-names>ERS</given-names></name><name><surname>Steele</surname><given-names>K</given-names></name></person-group>
-<source>The Haunted Self</source>. <publisher-name>Norton</publisher-name>, <year>2006</year>.
-</mixed-citation></ref><ref id="R23"><label>23</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><name><surname>Paulsen</surname><given-names>S</given-names></name></person-group>
-<source>Looking Through the Eyes of Trauma and Dissociation</source>. <publisher-name>Booksurge Publishing</publisher-name>, <year>2009</year>.
-</mixed-citation></ref><ref id="R24"><label>24</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name><surname>Mueller-Pfeiffer</surname><given-names>C</given-names></name><name><surname>Rufibach</surname><given-names>K</given-names></name><name><surname>Perron</surname><given-names>N</given-names></name><name><surname>Wyss</surname><given-names>D</given-names></name><name><surname>Kuenzler</surname><given-names>C</given-names></name><name><surname>Prezewowsky</surname><given-names>C</given-names></name><etal/></person-group>
-<article-title>Global functioning and disability in dissociative disorders</article-title>. <source>Psychiatry Res</source>
-<year>2012</year>; <volume>200</volume>: <fpage>475</fpage>&#x02013;<lpage>81</lpage>.
-<pub-id pub-id-type="pmid">22578820</pub-id></mixed-citation></ref><ref id="R25"><label>25</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name><surname>Chu</surname><given-names>JA</given-names></name><name><surname>Dell</surname><given-names>PF</given-names></name><name><surname>Van der Hart</surname><given-names>O</given-names></name><name><surname>Carde&#x000f1;a</surname><given-names>E</given-names></name><name><surname>Barach</surname><given-names>PM</given-names></name><name><surname>Somer</surname><given-names>E</given-names></name><etal/></person-group>
-<article-title>Guidelines for treating dissociative identity disorder in adults, third revision</article-title>. <source>J Trauma Dissociation</source>
-<year>2011</year>; <volume>12</volume>: <fpage>115</fpage>&#x02013;<lpage>87</lpage>.
-<pub-id pub-id-type="pmid">21391103</pub-id></mixed-citation></ref><ref id="R26"><label>26</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name><surname>Alexander</surname><given-names>DA</given-names></name><name><surname>Klein</surname><given-names>S</given-names></name></person-group>
-<article-title>The epidemiology of PTSD and patient vulnerability factors</article-title>. <source>Psychiatry</source>
-<year>2003</year>; <volume>2</volume>: <fpage>22</fpage>&#x02013;<lpage>5</lpage>.
-</mixed-citation></ref></ref-list></back></article>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1d3 20150301//EN" "JATS-archivearticle1.dtd">
+<article xmlns:ali="http://www.niso.org/schemas/ali/1.0"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article">    <?properties open_access?>    <?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Publishing DTD v2.3 20070202//EN?>    <?DTDIdentifier.IdentifierType public?>    <?SourceDTD.DTDName journalpublishing.dtd?>    <?SourceDTD.Version 2.3?>    <?ConverterInfo.XSLTName jp2nlmx2.xsl?>    <?ConverterInfo.Version 2?>
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="nlm-ta">BJPsych Bull</journal-id>
+            <journal-id journal-id-type="iso-abbrev">BJPsych Bull</journal-id>
+            <journal-id journal-id-type="hwp">pbrcpsych</journal-id>
+            <journal-title-group>
+                <journal-title>BJPsych Bulletin</journal-title>
+            </journal-title-group>
+            <issn pub-type="ppub">2056-4694</issn>
+            <issn pub-type="epub">2056-4708</issn>
+            <publisher>
+                <publisher-name>Royal College of Psychiatrists</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="pmcid">4478904</article-id>
+            <article-id pub-id-type="doi">10.1192/pb.bp.114.046995</article-id>
+            <article-categories>
+                <subj-group subj-group-type="heading">
+                    <subject>Special Articles</subject>
+                </subj-group>
+            </article-categories>
+            <title-group>
+                <article-title>Neglect of the complex: why psychotherapy for post-traumatic clinical presentations is often ineffective<xref ref-type="author-notes" rid="fn1">
+                    <sup>&#x02020;</sup>
+                </xref>
+            </article-title>
+        </title-group>
+        <contrib-group>
+            <contrib contrib-type="author">
+                <name>
+                    <surname>Corrigan</surname>
+                    <given-names>Frank M.</given-names>
+                </name>
+                <xref ref-type="aff" rid="A1">1</xref>
+            </contrib>
+            <contrib contrib-type="author">
+                <name>
+                    <surname>Hull</surname>
+                    <given-names>Alastair M.</given-names>
+                </name>
+                <xref ref-type="aff" rid="A2">2</xref>
+            </contrib>
+            <aff id="A1">
+                <label>1</label>Argyll &#x00026; Bute Hospital, Lochgilphead</aff>
+            <aff id="A2">
+                <label>2</label>Perth Royal Infirmary, Perth</aff>
+        </contrib-group>
+        <author-notes>
+            <corresp>Correspondence to Frank M. Corrigan (<email>frank.corigan@nhs.net</email>)
+            </corresp>
+            <fn>
+                <p>
+                    <bold>Frank M. Corrigan</bold> is a consultant psychiatrist at Argyll &#x00026; Bute Hospital, Lochgilphead, Argyll, NHS Highland, and <bold>Alastair M. Hull</bold> is a consultant psychiatrist in psychotherapy at Perth Royal Infirmary, Perth, NHS Tayside.</p>
+            </fn>
+            <fn id="fn1">
+                <label>
+                    <sup>&#x02020;</sup>
+                </label>
+                <p>See <italic>Bulletin</italic> comment, p. <related-article related-article-type="article-reference" id="d35e80" vol="39" page="100" issue="2" ext-link-type="pmc">100</related-article>, this issue.</p>
+            </fn>
+        </author-notes>
+        <pub-date pub-type="ppub">
+            <month>4</month>
+            <year>2015</year>
+        </pub-date>
+        <volume>39</volume>
+        <issue>2</issue>
+        <fpage>86</fpage>
+        <lpage>89</lpage>
+        <history>
+            <date date-type="received">
+                <day>25</day>
+                <month>1</month>
+                <year>2014</year>
+            </date>
+            <date date-type="rev-recd">
+                <day>22</day>
+                <month>2</month>
+                <year>2014</year>
+            </date>
+            <date date-type="accepted">
+                <day>11</day>
+                <month>3</month>
+                <year>2014</year>
+            </date>
+        </history>
+        <permissions>
+            <copyright-statement>&#x000a9; 2014 The Authors</copyright-statement>
+            <copyright-year>2014</copyright-year>
+            <license license-type="creative-commons" xlink:href="http://creativecommons.org/licenses/by/3.0/">
+                <license-p>This is an open-access article published by the Royal College of Psychiatrists and distributed under the terms of the Creative Commons Attribution License (<uri xlink:type="simple" xlink:href="http://creativecommons.org/licenses/by/3.0">http://creativecommons.org/licenses/by/3.0</uri>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+            </license>
+        </permissions>
+        <self-uri xlink:title="pdf" xlink:type="simple" xlink:href="86.pdf" />
+        <abstract>
+            <p id="P1">Evidence of efficacy in studies of post-traumatic conditions is largely derived from studies in which variables are kept to a minimum. Extrapolation of treatments from uncomplicated disorders to complex conditions may therefore be called evidence-based without being evidenced. Complex conditions with polysymptomatic presentations and extensive comorbidity are being denied proper evaluation, and patients most severely traumatised from the early stages of their development are not provided with rigorously evaluated psychotherapies because they are more difficult to study in the manner approved by research protocols. Such evidence as there is suggests that the simple extension of treatments for uncomplicated disorders is seriously inadequate. This has significant implications for health services responsible for the provision of the most efficacious treatments to those whose disorders arise from severe trauma, often very early in their life.</p>
+        </abstract>
+    </article-meta>
+</front>
+<body>
+    <sec id="S1">
+        <title>Evidence-based and evidenced are not necessarily the same</title>
+        <p id="P2">Psychotherapy for post-traumatic clinical presentations is often restricted by the lack of evidence in support of approaches other than those validated for non-complex post-traumatic stress disorder (PTSD), such as cognitive&#x02013;behavioural therapy (CBT)<sup>
+            <xref rid="R1" ref-type="bibr">1</xref>
+        </sup> and eye movement desensitisation and reprocessing (EMDR).<sup>
+        <xref rid="R2" ref-type="bibr">2</xref>,        <xref rid="R3" ref-type="bibr">3</xref>
+    </sup> Complex PTSD has different definitions but is essentially a multifaceted presentation arising from extreme stress, usually at an early developmental level. This leads to difficulty in regulating affective arousal; alterations in attention and consciousness such as amnesia and dissociation; somatisation; chronic characterological changes; and alterations in systems of meaning.<sup>
+    <xref rid="R4" ref-type="bibr">4</xref>
+</sup> The variability in the syndromes that result means that inexact use of terminology bedevils this clinical and research area. While PTSD is a theoretical umbrella term,<sup>
+<xref rid="R5" ref-type="bibr">5</xref>
+</sup> we use &#x02018;complex PTSD&#x02019; in this paper to refer to complex reactions to multiple traumatic stressor exposures and experiences, usually against a background of severe disturbances in primary caregiving relationships.</p>
+<p id="P3">Complex presentations are often excluded from studies because they do not fit neatly into the simple nosological categorisations required for research power. This means that the most severe disorders are not studied adequately and patients most affected by early trauma are often not recognised by services. Both historically and currently, at the individual as well as the societal level, dissociation from the acknowledgement of the severe impact of childhood abuse on the developing brain leads to inadequate provision of services. Assimilation into treatment models of the emerging affective neuroscience of adverse experience could help to redress the balance by shifting the focus from top-down regulation to bottom-up, body-based processing.</p>
+<p id="P4">At present there is little regard for the subcortical generators of distress and an overemphasis on the cognitive strategies needed to manage the resulting emotions. At the institutional level this translates to a preoccupation with therapist supervision; attainment of symptom-reduction goals; invalidation of the importance of affective experience; and intolerance of clinical complexity. There are then imposed limitations on psychotherapy sessions and inadequate time and emphasis on therapeutic engagement. The concept of evidence needs to be expanded to include neuroscientific plausibility. The collection of outcome data needs to include biological data such as changes in functional imaging responses to trauma-related and apparently innocuous interpersonal stimuli. Neuroscientific plausibility can be a source of indirect evidence and affective neuroscience can be included in the rationale for novel treatments in complex PTSD. We explore this elsewhere (details available from the authors on request). However, acknowledgement of the magnitude of the problem would have severe financial implications for mental health services.</p>
+</sec>
+<sec id="S2">
+<title>Limitations of the evidence base for the treatment of complex PTSD</title>
+<p id="P5">Evidence-based therapy for mental disorders is often considered to be CBT as it has been shown to be of value in reducing symptoms in many disorders. CBT has been able to accumulate evidence in part through the readiness of funding bodies to provide for research when there is likely to be some observable and measurable benefit, however clinically relevant &#x02013; in terms of symptoms or functioning. If research funding is not readily accessible for complex and prolonged interventions that are clinically applied in the phase-based treatment of complex PTSD, it is easy to arrive at the false conclusion that a lack of evidence for a particular therapy indicates that it is not effective. There is not, to our knowledge, any register of projects which have been refused financial support or discouraged from making a full application on the basis of cost. One example is sensorimotor psychotherapy,<sup>
+<xref rid="R6" ref-type="bibr">6</xref>
+</sup> which has as yet little supporting evidence but is endorsed by leading international experts and is neuroscientifically credible. The costs of carrying out an outcome study of sensorimotor psychotherapy with current methodological constraints would be prohibitive. Somatic experiencing<sup>
+<xref rid="R7" ref-type="bibr">7</xref>
+</sup> preceded sensorimotor psychotherapy as a body-based therapy for the resolution of traumatic experience and is widely used throughout the world. It also lacks the evidence base deemed necessary in those services for which rapid symptom reduction is the economically derived priority.</p>
+<p id="P6">Both the National Institute for Health and Care Excellence (NICE) guidelines<sup>
+<xref rid="R8" ref-type="bibr">8</xref>
+</sup> and a Cochrane review of psychological therapies for chronic PTSD in adults<sup>
+<xref rid="R9" ref-type="bibr">9</xref>
+</sup> concluded that EMDR and trauma-focused CBT are effective in clinician-rated symptom reduction, although there was evidence of greater dropout in active treatment groups. The authors of both also considered the evidence available to them to be of low quality. A Cochrane review of psychological therapies for people with borderline personality disorder<sup>
+<xref rid="R10" ref-type="bibr">10</xref>
+</sup> concluded that dialectical behaviour therapy (DBT) was effective in reducing anger and parasuicidality and in improving general mental health, but it did not appear to be more likely than treatment as usual to keep people in therapy. The authors considered that none of the treatments they studied for borderline personality disorder had &#x02018;a very robust evidence base&#x02019;.</p>
+</sec>
+<sec id="S3">
+<title>Consequences of accepting &#x02018;evidence-based&#x02019; as &#x02018;evidenced&#x02019;</title>
+<p id="P7">If CBT and/or DBT were effective for 100% of patients with complex trauma sequelae there would be no need for additional therapeutic approaches. To illustrate our contention that this may not be the case, a relevant paper<sup>
+<xref rid="R11" ref-type="bibr">11</xref>
+</sup> recommended to us as methodologically sound has been selected. This helps to clarify the answer to the 100% resolution question in regard to CBT. In this paper by McDonagh and colleagues,<sup>
+<xref rid="R11" ref-type="bibr">11</xref>
+</sup> exclusion criteria were: use of medication with significant autonomic nervous system effects; dissociative identity disorder; current alcohol or drug misuse; presence of active suicidality or a history of two or more suicide gestures or attempts in the preceding year. Women were also excluded from the study if they were in a relationship with an abusive partner, a situation unfortunately all too common in this clinical population. Although the eventual study group had experienced multiple traumas, those who completed treatment were middle-aged, well educated and in employment. Many of the patients encountered in general psychiatric practice do not fit this profile. Many of those who present clinically with a history of complex PTSD have been attempting to manage their distress through one &#x02013; or more likely a combination &#x02013; coping strategies, for instance self-harm, alcohol/drug misuse, eating disorders, or other behaviours designed to limit their sudden shifts out of the &#x02018;window of tolerance&#x02019;.<sup>
+<xref rid="R12" ref-type="bibr">12</xref>
+</sup> The efforts to achieve physiological regulation themselves then lead to further difficulties. Because treatment studies in general dislike comorbidity, the evidence on treatment approaches to multiple, coexisting and complex problems is limited.</p>
+<p id="P8">As well as the exclusion of people who need therapy &#x02013; such as those who are chronically suicidal as a result of early trauma &#x02013; there was evidence of a problem with dropouts from the study. This was most evident with CBT (41%) and required the discharge of the random assignment process to get sufficient numbers into the CBT group. The post-treatment analysis applying intention-to-treat showed no significant difference in the numbers no longer meeting PTSD criteria: 28% for CBT (<italic>n</italic> = 8); 32% for present-centred therapy (<italic>n</italic> = 7); 17% for the waiting list (<italic>n</italic> = 4). So of the 200+ patients who met the criteria for complex PTSD following childhood sexual abuse, 74 were included in the study and 8 got better with CBT compared with 4 on the waiting list. This falls well short of a 100% recovery criterion which would support the restriction of training to CBT, and raises serious questions about CBT being the core treatment modality provided for complex post-traumatic presentations.</p>
+<p id="P9">For the completers only (i.e. ignoring those who dropped out) both treatment groups improved significantly compared with the waiting list and both showed sustained improvements at 6 months. CBT therefore had clear and demonstrable benefits for some female childhood sexual abuse survivors. However, patients were more likely to stay in present-centred therapy, in which the therapists were required to be genuine, empathic and non-judgemental.</p>
+<p id="P10">This is only one methodologically sound study of a selected population but it is of interest that the problem with the dropout rate has been previously observed for clinical practice in the &#x02018;real world&#x02019;,<sup>
+<xref rid="R13" ref-type="bibr">13</xref>
+</sup> in which many psychologists trained in CBT were found to be reluctant to use imaginal exposure.<sup>
+<xref rid="R14" ref-type="bibr">14</xref>
+</sup> There is a striking discrepancy between recommended best evidence-based practice for PTSD and actual clinical practice.<sup>
+<xref rid="R15" ref-type="bibr">15</xref>
+</sup> The underlying reasons for this discrepancy are likely to be complex but may reflect the clinician&#x02019;s view of the tolerability of the therapy for both patient and practitioner. Prolonged exposure may be necessary for some who prefer to spend the hours on slow adaptation rather than to go with the rapid information processing available in non-exposure treatment protocols such as EMDR.<sup>
+<xref rid="R2" ref-type="bibr">2</xref>
+</sup> However, EMDR cannot be applied in complex PTSD with strict adherence to the standard protocol used in non-complex PTSD without a high risk of increasing dysregulation. For the multiple traumatic events and experiences of the kind commonly encountered by victims of child sexual abuse, prolonged exposure is unlikely to work in the lifetime of the patient.</p>
+<p id="P11">The context-dependent unhitching of stimulus and response can occur without any impact on the stored representation of the unconditioned stimulus.<sup>
+<xref rid="R16" ref-type="bibr">16</xref>
+</sup> If the unconditioned stimulus involves a body memory from being raped at 3 years old, it may be possible to reduce the distress related to adult sexual activity without having any impact on the stored and readily triggered pain, rage, terror, shame, abandonment, isolation, worthlessness, hopelessness, helplessness or survival terror. Also unaffected will be the dissociative defences which helped the child to survive and continue with life, apparently unscathed. The therapeutic gains are therefore helpful, but limited.</p>
+<p id="P12">Therapists engaged in the provision of prolonged exposure may be troubled by &#x02018;feelings of helplessness&#x02019;.<sup>
+<xref rid="R17" ref-type="bibr">17</xref>
+</sup> So if the therapists feel helpless, they then need to spend more time in supervision, being exposed to their helplessness with a supervisor who presumably feels less helpless because he or she is supervising rather than treating. Subsequently, within systems there is then less time available to treat those patients who are willing and able to participate in the exposure therapy that even those supplying it dislike and prefer to avoid. It may also be the personal preference of clinical researchers to focus on the cognitive, as in restructuring, rather than be exposed to the realms of horror and terror, intense isolation and abandonment, excruciating pain and despair of the complex trauma survivor. If the therapist has unresolved residues of traumatic experience himself, the ability to convey the psychotherapy may be even more challenging; it is then much easier to focus on reappraisal and the reassurance that all present have survived and prospered.</p>
+</sec>
+<sec id="S4">
+<title>Dropouts from DBT</title>
+<p id="P13">Dialectical behaviour therapy provides techniques for safety and stabilisation of borderline personality disorders<sup>
+<xref rid="R18" ref-type="bibr">18</xref>
+</sup> and some of its elements have been adapted for dissociative disorders.<sup>
+<xref rid="R19" ref-type="bibr">19</xref>
+</sup> In DBT emotions are recognised as an important part of human experience and there is considerable emphasis on their regulation to reduce distress. So it is interesting to see that dropout rates from DBT in the UK can increase, from an already high 52% to 88% in those with more complex presentations.<sup>
+<xref rid="R20" ref-type="bibr">20</xref>
+</sup> Of course, not all patients with borderline personality disorder have a history of trauma or unresolved attachment and genetic and other factors may be present in some.<sup>
+<xref rid="R21" ref-type="bibr">21</xref>
+</sup> However, between 40 and 70% of those with borderline personality disorder would also meet criteria for one of the major dissociative disorders in which trauma histories and disorganised attachment are major aetiological factors.<sup>
+<xref rid="R21" ref-type="bibr">21</xref>
+</sup> It is surprising, but perhaps a reflection of what is considered treatable, that attachment trauma is often ignored, despite research specifying feelings of emptiness and problems in coping with abandonment as key features of borderline personality disorder.<sup>
+<xref rid="R10" ref-type="bibr">10</xref>
+</sup> Treatment continuity may be interfered with by the behaviourist management of dissociation as a problem behaviour, which can be approached through desensitisation of present cues to past traumatic experiences.<sup>
+<xref rid="R21" ref-type="bibr">21</xref>
+</sup> The structural dissociation model of van der Hart <italic>et al</italic>
+<sup>
+<xref rid="R22" ref-type="bibr">22</xref>
+</sup> sees self-states that interfere with therapy as nevertheless based in the defence from the overwhelming effects of trauma. Therapists working with an ego state model in which the cooperation of aggressive protector parts is a prerequisite for continuing treatment (e.g. Paulsen<sup>
+<xref rid="R23" ref-type="bibr">23</xref>
+</sup>) have identified and delineated strategies for achieving this. It would be interesting to know whether the disregard for the original survival functions of peritraumatic and structural dissociation contributes to the high dropout from DBT. A very testable hypothesis is that people who drop out from DBT are primarily those with significant but unrecognised dissociative disorders.</p>
+</sec>
+<sec id="S5">
+<title>Prevalence of dissociative disorders</title>
+<p id="P14">There is evidence that some of the complex post-traumatic disorders &#x02013; including dissociative disorders &#x02013; can have an impact on functioning equivalent at least to major psychotic disorders, and should be considered to be &#x02018;serious mental illness&#x02019;.<sup>
+<xref rid="R24" ref-type="bibr">24</xref>
+</sup> Studies of the general population find a prevalence rate for dissociative identity disorder at 1&#x02013;3%, whereas in psychiatric patient populations the figure is 1&#x02013;5%.<sup>
+<xref rid="R25" ref-type="bibr">25</xref>
+</sup> Those individuals are often not diagnosed as having dissociative identity disorder but receive treatment according to the most prominent signs and symptoms, and their response to treatment for depression, anxiety, panic disorder, eating disorder, substance misuse or somatoform disorders will inevitably be incomplete. Moreover, unreported or unrecognised trauma is common in psychiatric patients (details available from the authors on request). Unfortunately, in controlled trials in groups of patients presenting with these symptoms and syndromes the diagnosis of those who drop out is not reassessed. Ethical constraints would prevent attempts to acquire this information after a patient has dropped out, so there is a need to assess for the sequelae of complex trauma at recruitment. It could be predicted that some will have unrecognised major dissociative disorders, or significant secondary or tertiary dissociative symptoms. Treatment of comorbid conditions &#x02013; or concomitant symptoms &#x02013; is an inadequate response to a range of complex presentations aetiologically related to early trauma.</p>
+</sec>
+<sec id="S6">
+<title>Therapy for severe complex PTSD and dissociative disorders</title>
+<p id="P15">It could be argued that psychotherapy for the residual effects of trauma should start with the aim of helping those most severely affected. Chu <italic>et al</italic>
+<sup>
+<xref rid="R25" ref-type="bibr">25</xref>
+</sup> reviewed the treatment of the major dissociative disorders which are recognised to result from early attachment trauma often compounded by later sexual and/or physical abuse. The review argued that the economic cost of dissociative disorders was considerable and highlighted the priority needed for the development of effective treatments. However, dissociative disorders were frequently unrecognised as such, perhaps because of their polysymptomatic presentations, and therefore appropriate services were not provided. When treatment was adapted to address the consequences of dissociative defences to complex trauma, even those with severe disorders could improve. The lack of controlled or randomised outcomes studies for the psychotherapy of dissociative disorders is an effect of the complexity of the presentations and of the level of funding that would be required to properly evaluate treatment. The lack of evidence is not an indicator that particular approaches do not work &#x02013; only that they have not been rigorously tested. Testing procedures understandably but unhelpfully prefer simple, measurable attributes for economy of scale.</p>
+</sec>
+<sec sec-type="conclusions" id="S7">
+<title>Conclusions</title>
+<p id="P16">Patients with many trauma-based disorders are not well served by existing therapies: they will often drop out of treatment at an early stage. PTSD is an inclusive term<sup>
+<xref rid="R5" ref-type="bibr">5</xref>
+</sup> which has precipitated much research and clinical interest. However, this categorisation has dominated research and clinical services to the detriment of the range of disorders occurring after traumatic experience.<sup>
+<xref rid="R26" ref-type="bibr">26</xref>
+</sup> Disorders arising from extreme stress during the brain&#x02019;s development and maturation need a prolonged period for recovery. The first requirement is therefore to adopt an approach which will retain patients in therapy long enough for the therapist and patient to form a shared understanding of what is happening and to find a way of working together. This way must be found to be beneficial for the patient and sufficiently tolerable for the therapist so that the therapist does not avoid it.</p>
+</sec>
+</body>
+<back>
+<fn-group>
+<fn fn-type="conflict">
+<p>
+<bold>Declaration of interest</bold> None.</p>
+</fn>
+</fn-group>
+<ack>
+<p id="P17">We are grateful to Janina Fisher and Ron Schwenkler for comments on early drafts.</p>
+</ack>
+<ref-list>
+<title>References</title>
+<ref id="R1">
+<label>1</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Ehlers</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Grey</surname>
+<given-names>N</given-names>
+</name>
+<name>
+<surname>Wild</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Stott</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Liness</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Deale</surname>
+<given-names>A</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>Implementation of cognitive therapy for PTSD in routine clinical care: effectiveness and moderators of outcome in a consecutive sample</article-title>.<source>Behav Res Ther</source>
+<year>2013</year>;<volume>51</volume>:<fpage>742</fpage>&#x02013;<lpage>52</lpage>.
+<pub-id pub-id-type="pmid">24076408</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R2">
+<label>2</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Shapiro</surname>
+<given-names>F</given-names>
+</name>
+</person-group>
+<source>Eye Movement Desensitization and Reprocessing: Basic Principles, Protocols, and Procedures</source>.<publisher-name>Guilford Press</publisher-name>,<year>1995</year>.
+</mixed-citation>
+</ref>
+<ref id="R3">
+<label>3</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Edmond</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Rubin</surname>
+<given-names>A</given-names>
+</name>
+</person-group>
+<article-title>Assessing the long-term effects of EMDR: Results from an 18-month follow-up study with adult female survivors of CSA</article-title>.<source>J Child Sex Abuse</source>
+<year>2004</year>;<volume>13</volume>:<fpage>69</fpage>&#x02013;<lpage>86</lpage>.
+</mixed-citation>
+</ref>
+<ref id="R4">
+<label>4</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Van der Kolk</surname>
+<given-names>BA</given-names>
+</name>
+</person-group>
+<article-title>The complexity of adaptation to trauma: self-regulation, stimulus discrimination, and characterological development</article-title>. In <source>Traumatic Stress: The Effects of Overwhelming Experience on Mind, Body, and Society</source> (eds <person-group person-group-type="editor">
+<name>
+<surname>Van der Kolk</surname>
+<given-names>BA</given-names>
+</name>
+<name>
+<surname>McFarlane</surname>
+<given-names>AC</given-names>
+</name>
+<name>
+<surname>Weisaeth</surname>
+<given-names>L</given-names>
+</name>
+</person-group>): pp. <fpage>182</fpage>&#x02013;<lpage>213</lpage>.<publisher-name>Guilford Press</publisher-name>,<year>1996</year>.
+</mixed-citation>
+</ref>
+<ref id="R5">
+<label>5</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Joseph</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Williams</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Yule</surname>
+<given-names>W</given-names>
+</name>
+</person-group>
+<source>Understanding Post-Traumatic Stress: A Psychological Perspective on PTSD and Treatment</source>.<publisher-name>John Wiley</publisher-name>,<year>1997</year>.
+</mixed-citation>
+</ref>
+<ref id="R6">
+<label>6</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Ogden</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Minton</surname>
+<given-names>K</given-names>
+</name>
+<name>
+<surname>Pain</surname>
+<given-names>C</given-names>
+</name>
+</person-group>
+<source>Trauma and The Body: A Sensorimotor Approach to Psychotherapy</source>.<publisher-name>Norton</publisher-name>,<year>2006</year>.
+</mixed-citation>
+</ref>
+<ref id="R7">
+<label>7</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Levine</surname>
+<given-names>PA</given-names>
+</name>
+</person-group>
+<source>Waking The Tiger: Healing Trauma &#x02013; Innate Capacity to Transform Overwhelming Experiences</source>.<publisher-name>North Atlantic Books</publisher-name>,<year>1997</year>.
+</mixed-citation>
+</ref>
+<ref id="R8">
+<label>8</label>
+<mixed-citation publication-type="book">
+<collab>National Institute for Health and Clinical Excellence</collab>.<source>Post-Traumatic Stress Disorder: The Management of PTSD in Adults and Children in Primary and Secondary Care (Clinical Guidelines CG26)</source>.<publisher-name>Gaskell &#x00026; British Psychological Society</publisher-name>,<year>2005</year>.
+</mixed-citation>
+</ref>
+<ref id="R9">
+<label>9</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Bisson</surname>
+<given-names>JI</given-names>
+</name>
+<name>
+<surname>Roberts</surname>
+<given-names>NP</given-names>
+</name>
+<name>
+<surname>Andrew</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Cooper</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Lewis</surname>
+<given-names>C</given-names>
+</name>
+</person-group>
+<article-title>Psychological therapies for chronic post-traumatic stress disorder (PTSD) in adults</article-title>.<source>Cochrane Database Syst Rev</source>
+<year>2013</year>;<volume>12</volume>:<fpage>CD003388</fpage>..
+<pub-id pub-id-type="pmid">24338345</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R10">
+<label>10</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Stoffers</surname>
+<given-names>JM</given-names>
+</name>
+<name>
+<surname>V&#x000f6;llm</surname>
+<given-names>BA</given-names>
+</name>
+<name>
+<surname>R&#x000fc;cker</surname>
+<given-names>G</given-names>
+</name>
+<name>
+<surname>Timmer</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Huband</surname>
+<given-names>N</given-names>
+</name>
+<name>
+<surname>Lieb</surname>
+<given-names>K</given-names>
+</name>
+</person-group>
+<article-title>Psychological therapies for people with borderline personality disorder</article-title>.<source>Cochrane Database Syst Rev</source>
+<year>2013</year>;<volume>8</volume>:<fpage>CD005652</fpage>.
+<pub-id pub-id-type="pmid">22895952</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R11">
+<label>11</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>McDonagh</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>McHugo</surname>
+<given-names>G</given-names>
+</name>
+<name>
+<surname>Sengupta</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Demment</surname>
+<given-names>CC</given-names>
+</name>
+<name>
+<surname>Schnurr</surname>
+<given-names>PP</given-names>
+</name>
+<name>
+<surname>Friedman</surname>
+<given-names>M</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>Randomized trial of cognitive-behavioral therapy for chronic posttraumatic stress disorder in adult female survivors of childhood sexual abuse</article-title>.<source>J Consult Clin Psychology</source>
+<year>2005</year>;<volume>73</volume>:<fpage>515</fpage>&#x02013;<lpage>24</lpage>.
+</mixed-citation>
+</ref>
+<ref id="R12">
+<label>12</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Corrigan</surname>
+<given-names>FM</given-names>
+</name>
+<name>
+<surname>Fisher</surname>
+<given-names>JJ</given-names>
+</name>
+<name>
+<surname>Nutt</surname>
+<given-names>DJ</given-names>
+</name>
+</person-group>
+<article-title>Autonomic dysregulation and the Window of Tolerance model of the effects of complex emotional trauma</article-title>.<source>J Psychopharmacology</source>
+<year>2011</year>;<volume>25</volume>:<fpage>17</fpage>&#x02013;<lpage>25</lpage>.
+</mixed-citation>
+</ref>
+<ref id="R13">
+<label>13</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Zayfert</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>DeViva</surname>
+<given-names>JC</given-names>
+</name>
+<name>
+<surname>Becker</surname>
+<given-names>CB</given-names>
+</name>
+<name>
+<surname>Pike</surname>
+<given-names>JL</given-names>
+</name>
+<name>
+<surname>Gillock</surname>
+<given-names>KL</given-names>
+</name>
+<name>
+<surname>Hayes</surname>
+<given-names>SA</given-names>
+</name>
+</person-group>
+<article-title>Exposure utilization and completion of cognitive behavioral therapy for PTSD in a &#x02018;real world&#x02019; clinical practice</article-title>.<source>J Trauma Stress</source>
+<year>2005</year>;<volume>18</volume>:<fpage>637</fpage>&#x02013;<lpage>45</lpage>.
+<pub-id pub-id-type="pmid">16382429</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R14">
+<label>14</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Becker</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Zayfert</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Anderson</surname>
+<given-names>E</given-names>
+</name>
+</person-group>
+<article-title>A survey of psychologists&#x02019; attitudes towards and utilization of exposure therapy for PTSD</article-title>.<source>Behav Res Ther</source>
+<year>2004</year>;<volume>42</volume>:<fpage>277</fpage>&#x02013;<lpage>92</lpage>.
+<pub-id pub-id-type="pmid">14975770</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R15">
+<label>15</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Rosen</surname>
+<given-names>CS</given-names>
+</name>
+<name>
+<surname>Chow</surname>
+<given-names>HS</given-names>
+</name>
+<name>
+<surname>Finney</surname>
+<given-names>JF</given-names>
+</name>
+<name>
+<surname>Greenbaum</surname>
+<given-names>MA</given-names>
+</name>
+<name>
+<surname>Moos</surname>
+<given-names>RH</given-names>
+</name>
+<name>
+<surname>Sheikh</surname>
+<given-names>JI</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>VA practice patterns and practice guidelines for treating posttraumatic stress disorder</article-title>.<source>J Trauma Stress</source>
+<year>2004</year>;<volume>17</volume>:<fpage>213</fpage>&#x02013;<lpage>22</lpage>.
+<pub-id pub-id-type="pmid">15253093</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R16">
+<label>16</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Arntz</surname>
+<given-names>A</given-names>
+</name>
+</person-group>
+<article-title>Imagery rescripting for personality disorders</article-title>.<source>Cogn Behav Pract</source>
+<year>2011</year>;<volume>18</volume>:<fpage>466</fpage>&#x02013;<lpage>81</lpage>.
+</mixed-citation>
+</ref>
+<ref id="R17">
+<label>17</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Arntz</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Tiesema</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Kindt</surname>
+<given-names>M</given-names>
+</name>
+</person-group>
+<article-title>Treatment of PTSD: A comparison of imaginal exposure with and without imagery rescripting</article-title>.<source>J Behav Ther Experimental Psychiatry</source>
+<year>2007</year>;<volume>38</volume>:<fpage>345</fpage>&#x02013;<lpage>7</lpage>.
+</mixed-citation>
+</ref>
+<ref id="R18">
+<label>18</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Linehan</surname>
+<given-names>MM</given-names>
+</name>
+</person-group>
+<source>Cognitive-Behavioral Treatment of Borderline Personality Disorder</source>.<publisher-name>Guilford Press</publisher-name>,<year>1993</year>.
+</mixed-citation>
+</ref>
+<ref id="R19">
+<label>19</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Boon</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Steele</surname>
+<given-names>K</given-names>
+</name>
+<name>
+<surname>van der Hart</surname>
+<given-names>O</given-names>
+</name>
+</person-group>
+<source>Coping with Trauma-Related Dissociation: Skills Training for Patients and Therapists</source>.<publisher-name>WW Norton</publisher-name>,<year>2011</year>.
+</mixed-citation>
+</ref>
+<ref id="R20">
+<label>20</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Gaglia</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Essletzbichler</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Barnicot</surname>
+<given-names>K</given-names>
+</name>
+<name>
+<surname>Bhatti</surname>
+<given-names>N</given-names>
+</name>
+<name>
+<surname>Priebe</surname>
+<given-names>S</given-names>
+</name>
+</person-group>
+<article-title>Dropping out of dialectical behaviour therapy in the NHS: the role of care coordination</article-title>.<source>Psychiatrist</source>
+<year>2013</year>;<volume>37</volume>:<fpage>267</fpage>&#x02013;<lpage>71</lpage>.
+</mixed-citation>
+</ref>
+<ref id="R21">
+<label>21</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Korzekwa</surname>
+<given-names>MI</given-names>
+</name>
+<name>
+<surname>Dell</surname>
+<given-names>PF</given-names>
+</name>
+<name>
+<surname>Pain</surname>
+<given-names>C</given-names>
+</name>
+</person-group>
+<article-title>Dissociation and borderline personality disorder: an update for clinicians</article-title>.<source>Curr Psychiatry Rep</source>
+<year>2009</year>;<volume>11</volume>:<fpage>82</fpage>&#x02013;<lpage>8</lpage>.
+<pub-id pub-id-type="pmid">19187714</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R22">
+<label>22</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Van der Hart</surname>
+<given-names>O</given-names>
+</name>
+<name>
+<surname>Nijenhuis</surname>
+<given-names>ERS</given-names>
+</name>
+<name>
+<surname>Steele</surname>
+<given-names>K</given-names>
+</name>
+</person-group>
+<source>The Haunted Self</source>.<publisher-name>Norton</publisher-name>,<year>2006</year>.
+</mixed-citation>
+</ref>
+<ref id="R23">
+<label>23</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Paulsen</surname>
+<given-names>S</given-names>
+</name>
+</person-group>
+<source>Looking Through the Eyes of Trauma and Dissociation</source>.<publisher-name>Booksurge Publishing</publisher-name>,<year>2009</year>.
+</mixed-citation>
+</ref>
+<ref id="R24">
+<label>24</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Mueller-Pfeiffer</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Rufibach</surname>
+<given-names>K</given-names>
+</name>
+<name>
+<surname>Perron</surname>
+<given-names>N</given-names>
+</name>
+<name>
+<surname>Wyss</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Kuenzler</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Prezewowsky</surname>
+<given-names>C</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>Global functioning and disability in dissociative disorders</article-title>.<source>Psychiatry Res</source>
+<year>2012</year>;<volume>200</volume>:<fpage>475</fpage>&#x02013;<lpage>81</lpage>.
+<pub-id pub-id-type="pmid">22578820</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R25">
+<label>25</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Chu</surname>
+<given-names>JA</given-names>
+</name>
+<name>
+<surname>Dell</surname>
+<given-names>PF</given-names>
+</name>
+<name>
+<surname>Van der Hart</surname>
+<given-names>O</given-names>
+</name>
+<name>
+<surname>Carde&#x000f1;a</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>Barach</surname>
+<given-names>PM</given-names>
+</name>
+<name>
+<surname>Somer</surname>
+<given-names>E</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>Guidelines for treating dissociative identity disorder in adults, third revision</article-title>.<source>J Trauma Dissociation</source>
+<year>2011</year>;<volume>12</volume>:<fpage>115</fpage>&#x02013;<lpage>87</lpage>.
+<pub-id pub-id-type="pmid">21391103</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R26">
+<label>26</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Alexander</surname>
+<given-names>DA</given-names>
+</name>
+<name>
+<surname>Klein</surname>
+<given-names>S</given-names>
+</name>
+</person-group>
+<article-title>The epidemiology of PTSD and patient vulnerability factors</article-title>.<source>Psychiatry</source>
+<year>2003</year>;<volume>2</volume>:<fpage>22</fpage>&#x02013;<lpage>5</lpage>.
+</mixed-citation>
+</ref>
+</ref-list>
+</back>
+</article>

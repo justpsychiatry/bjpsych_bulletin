@@ -1,3 +1,62 @@
-<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1d3 20150301//EN" "JATS-archivearticle1.dtd"> 
-<article xmlns:ali="http://www.niso.org/schemas/ali/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Publishing DTD v2.3 20070202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName journalpublishing.dtd?><?SourceDTD.Version 2.3?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 2?><front><journal-meta><journal-id journal-id-type="nlm-ta">BJPsych Bull</journal-id><journal-id journal-id-type="iso-abbrev">BJPsych Bull</journal-id><journal-id journal-id-type="hwp">pbrcpsych</journal-id><journal-title-group><journal-title>BJPsych Bulletin</journal-title></journal-title-group><issn pub-type="ppub">2056-4694</issn><issn pub-type="epub">2056-4708</issn><publisher><publisher-name>Royal College of Psychiatrists</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">4478927</article-id><article-id pub-id-type="doi">10.1192/pb.bp.114.049718</article-id><article-categories><subj-group subj-group-type="heading"><subject>Perspectives</subject></subj-group></article-categories><title-group><article-title><italic>Bulletin</italic> comment: What is wrong with the likes of Rolf Harris?</article-title></title-group><author-notes><corresp><bold>Correspondence:</bold> c/o BJPsych Bulletin, email: <email>pb@rcpsych.ac.uk</email>.
-</corresp></author-notes><pub-date pub-type="ppub"><month>6</month><year>2015</year></pub-date><volume>39</volume><issue>3</issue><fpage>144</fpage><lpage>144</lpage><permissions><copyright-statement>&#x000a9; 2015 The Author</copyright-statement><copyright-year>2015</copyright-year><license license-type="creative-commons" xlink:href="http://creativecommons.org/licenses/by/4.0/"><license-p>This is an open-access article published by the Royal College of Psychiatrists and distributed under the terms of the Creative Commons Attribution License (<uri xlink:type="simple" xlink:href="http://creativecommons.org/licenses/by/4.0">http://creativecommons.org/licenses/by/4.0</uri>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xlink:title="pdf" xlink:type="simple" xlink:href="144.pdf"/></article-meta></front><body><p id="P1">The revelations about the perverse activities of high-profile celebrities such as Rolf Harris, Jimmy Savile and Max Clifford continue to cause shock, bewilderment and voyeuristic intrigue. It seems the scourge of abuse is so prevalent that it extends into all institutions previously held in high regard; from the county councils, to the Catholic Church, and further to the Houses of Parliament.</p><p id="P2">For mental health professionals (as well as any other keen observer of human behaviours), such disturbing disclosures often lead to discussions about why any individual might act this way: considerations of personality disorders may be had. The extreme arrogance, the lack of regret and absence of profound feelings of guilt, in the context of lifelong careers in the media or entertainment industries or positions of importance in society, point towards cluster B difficulties, with elements of both antisocial and histrionic disorders.</p><p id="P3">News reports inevitably pay most attention to the wrongdoer and the calls for enquiries into the institutions, organisations or official bodies that have essentially been supportive or at least responsible for passively allowing the abuse to continue.</p><p id="P4">Ultimately, the revelations lead to thoughts about the trail of destruction left in the wake of such behaviours. Extensive research has repeatedly linked child sexual abuse with mental health difficulties of later life. Severe depression, anxiety problems, post-traumatic stress disorder and long-term inability to adjust to adult life: some studies have found life prevalence rates of up to 80% in victims of sexual abuse.</p><p id="P5">Although the media focus is on the activities of celebrities or society leaders, they are clearly responsible for only a tiny fraction of all childhood and adult sexual abuse cases. This high prevalence in the community setting places the problem fairly and squarely in the realm of public health. And as such, it should be the focus of effective education programmes and community-based treatments for sex offenders. The instruction of children and adolescents on human sexuality and the importance of interpersonal skills needed to build satisfying and healthy intimate relationships needs to be emphasised and funded.</p><p id="P6">Incarcerating the likes of Rolf Harris might satisfy the public&#x02019;s desire for justice or their need for prurient stimulation, but in reality it does little for primary prevention of a continuing societal scourge.</p></body></article>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1d3 20150301//EN" "JATS-archivearticle1.dtd">
+<article xmlns:ali="http://www.niso.org/schemas/ali/1.0"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article">    <?properties open_access?>    <?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Publishing DTD v2.3 20070202//EN?>    <?DTDIdentifier.IdentifierType public?>    <?SourceDTD.DTDName journalpublishing.dtd?>    <?SourceDTD.Version 2.3?>    <?ConverterInfo.XSLTName jp2nlmx2.xsl?>    <?ConverterInfo.Version 2?>
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="nlm-ta">BJPsych Bull</journal-id>
+            <journal-id journal-id-type="iso-abbrev">BJPsych Bull</journal-id>
+            <journal-id journal-id-type="hwp">pbrcpsych</journal-id>
+            <journal-title-group>
+                <journal-title>BJPsych Bulletin</journal-title>
+            </journal-title-group>
+            <issn pub-type="ppub">2056-4694</issn>
+            <issn pub-type="epub">2056-4708</issn>
+            <publisher>
+                <publisher-name>Royal College of Psychiatrists</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="pmcid">4478927</article-id>
+            <article-id pub-id-type="doi">10.1192/pb.bp.114.049718</article-id>
+            <article-categories>
+                <subj-group subj-group-type="heading">
+                    <subject>Perspectives</subject>
+                </subj-group>
+            </article-categories>
+            <title-group>
+                <article-title>
+                    <italic>Bulletin</italic> comment: What is wrong with the likes of Rolf Harris?</article-title>
+            </title-group>
+            <author-notes>
+                <corresp>
+                    <bold>Correspondence:</bold> c/o BJPsych Bulletin, email: <email>pb@rcpsych.ac.uk</email>.
+                </corresp>
+            </author-notes>
+            <pub-date pub-type="ppub">
+                <month>6</month>
+                <year>2015</year>
+            </pub-date>
+            <volume>39</volume>
+            <issue>3</issue>
+            <fpage>144</fpage>
+            <lpage>144</lpage>
+            <permissions>
+                <copyright-statement>&#x000a9; 2015 The Author</copyright-statement>
+                <copyright-year>2015</copyright-year>
+                <license license-type="creative-commons" xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open-access article published by the Royal College of Psychiatrists and distributed under the terms of the Creative Commons Attribution License (<uri xlink:type="simple" xlink:href="http://creativecommons.org/licenses/by/4.0">http://creativecommons.org/licenses/by/4.0</uri>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <self-uri xlink:title="pdf" xlink:type="simple" xlink:href="144.pdf" />
+        </article-meta>
+    </front>
+    <body>
+        <p id="P1">The revelations about the perverse activities of high-profile celebrities such as Rolf Harris, Jimmy Savile and Max Clifford continue to cause shock, bewilderment and voyeuristic intrigue. It seems the scourge of abuse is so prevalent that it extends into all institutions previously held in high regard; from the county councils, to the Catholic Church, and further to the Houses of Parliament.</p>
+        <p id="P2">For mental health professionals (as well as any other keen observer of human behaviours), such disturbing disclosures often lead to discussions about why any individual might act this way: considerations of personality disorders may be had. The extreme arrogance, the lack of regret and absence of profound feelings of guilt, in the context of lifelong careers in the media or entertainment industries or positions of importance in society, point towards cluster B difficulties, with elements of both antisocial and histrionic disorders.</p>
+        <p id="P3">News reports inevitably pay most attention to the wrongdoer and the calls for enquiries into the institutions, organisations or official bodies that have essentially been supportive or at least responsible for passively allowing the abuse to continue.</p>
+        <p id="P4">Ultimately, the revelations lead to thoughts about the trail of destruction left in the wake of such behaviours. Extensive research has repeatedly linked child sexual abuse with mental health difficulties of later life. Severe depression, anxiety problems, post-traumatic stress disorder and long-term inability to adjust to adult life: some studies have found life prevalence rates of up to 80% in victims of sexual abuse.</p>
+        <p id="P5">Although the media focus is on the activities of celebrities or society leaders, they are clearly responsible for only a tiny fraction of all childhood and adult sexual abuse cases. This high prevalence in the community setting places the problem fairly and squarely in the realm of public health. And as such, it should be the focus of effective education programmes and community-based treatments for sex offenders. The instruction of children and adolescents on human sexuality and the importance of interpersonal skills needed to build satisfying and healthy intimate relationships needs to be emphasised and funded.</p>
+        <p id="P6">Incarcerating the likes of Rolf Harris might satisfy the public&#x02019;s desire for justice or their need for prurient stimulation, but in reality it does little for primary prevention of a continuing societal scourge.</p>
+    </body>
+</article>

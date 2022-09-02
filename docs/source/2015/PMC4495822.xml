@@ -1,42 +1,1023 @@
-<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1d3 20150301//EN" "JATS-archivearticle1.dtd"> 
-<article xmlns:ali="http://www.niso.org/schemas/ali/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Publishing DTD v2.3 20070202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName journalpublishing.dtd?><?SourceDTD.Version 2.3?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 2?><front><journal-meta><journal-id journal-id-type="nlm-ta">BJPsych Bull</journal-id><journal-id journal-id-type="iso-abbrev">BJPsych Bull</journal-id><journal-id journal-id-type="hwp">pbrcpsych</journal-id><journal-title-group><journal-title>BJPsych Bulletin</journal-title></journal-title-group><issn pub-type="ppub">2056-4694</issn><issn pub-type="epub">2056-4708</issn><publisher><publisher-name>Royal College of Psychiatrists</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">4495822</article-id><article-id pub-id-type="doi">10.1192/pb.bp.112.038695</article-id><article-categories><subj-group subj-group-type="heading"><subject>Original Papers</subject></subj-group></article-categories><title-group><article-title>The cardiovascular safety of the empirical measurement of the seizure threshold in electroconvulsive therapy</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Mizen</surname><given-names>Lindsay</given-names></name><xref ref-type="aff" rid="A1">1</xref></contrib><contrib contrib-type="author"><name><surname>Morton</surname><given-names>Charles</given-names></name><xref ref-type="aff" rid="A2">2</xref></contrib><contrib contrib-type="author"><name><surname>Scott</surname><given-names>Allan</given-names></name><xref ref-type="aff" rid="A1">1</xref></contrib><aff id="A1"><label>1</label>Royal Edinburgh Hospital</aff><aff id="A2"><label>2</label>Royal Infirmary of Edinburgh</aff></contrib-group><author-notes><corresp>Correspondence to Lindsay Mizen (<email>lmizen@nhs.net</email>)
-</corresp><fn><p><bold>Dr Lindsay Mizen</bold> is a Clinical Research Fellow at the University of Edinburgh and an honorary ST5 trainee in the psychiatry of intellectual disability in the South East Scotland Deanery who was based at the Royal Edinburgh Hospital while conducting this study. <bold>Dr Charles Morton</bold> is a consultant anaesthetist, Royal Infirmary of Edinburgh. <bold>Dr Allan Scott</bold> is now retired, but was a consultant general adult psychiatrist at the Royal Edinburgh Hospital while conducting the study.</p></fn></author-notes><pub-date pub-type="ppub"><month>2</month><year>2015</year></pub-date><volume>39</volume><issue>1</issue><fpage>14</fpage><lpage>18</lpage><history><date date-type="received"><day>22</day><month>1</month><year>2012</year></date><date date-type="rev-recd"><day>9</day><month>2</month><year>2014</year></date><date date-type="accepted"><day>24</day><month>3</month><year>2014</year></date></history><permissions><copyright-statement>&#x000a9; 2014 The Authors</copyright-statement><copyright-year>2014</copyright-year><license license-type="creative-commons" xlink:href="http://creativecommons.org/licenses/by/4.0/"><license-p>This is an open-access article published by the Royal College of Psychiatrists and distributed under the terms of the Creative Commons Attribution License (<uri xlink:type="simple" xlink:href="http://creativecommons.org/licenses/by/4.0">http://creativecommons.org/licenses/by/4.0</uri>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xlink:title="pdf" xlink:type="simple" xlink:href="14.pdf"/><abstract><p id="P1"><bold>Aims and method</bold> The Royal College of Psychiatrists&#x02019; Committee on Electroconvulsive Therapy (ECT) and Related Treatments advises the measurement of initial seizure threshold in all patients undergoing ECT if possible. The subconvulsive electrical stimulation inherent in this process is thought to increase the risk of bradycardia and therefore asystole. Our aim was to establish the prevalence of asystole (no heart beat for 5 or more seconds) during empirical measurement of seizure threshold in patients who had not received anticholinergic drugs, as we were unable to find any published reports of bradycardia or asystole prevalence under these conditions. The electrocardiogram traces of 50 such consecutive patients were analysed later.</p><p id="P2"><bold>Results</bold> Asystole occurred in 5% of stimulations. Each episode of asystole resolved spontaneously with no adverse outcomes. Contrary to expectations, asystole was no more prevalent in subconvulsive stimulations than in convulsive stimulations.</p><p id="P3"><bold>Clinical implications</bold> There was no evidence that the empirical measurement of the seizure threshold added to the cardiovascular risk of ECT.</p></abstract></article-meta></front><body><p id="P4">The electrical stimulus of electroconvulsive therapy (ECT) may have effects other than the induction of cerebral seizure activity. It was recognised soon after the introduction of ECT that the stimulus could affect the heart, usually causing a bradycardia resulting from the electrical stimulation of the motor nucleus of the vagus nerve and nucleus ambiguus, within the medulla oblongata.<sup><xref rid="R1" ref-type="bibr">1</xref></sup> This bradycardia can be severe and as long ago as 1978 the American Psychiatric Association (APA) stated that the bradycardia might even be prolonged enough to cause cardiac arrest.<sup><xref rid="R2" ref-type="bibr">2</xref></sup> Although no references were given to support this concern, asystole and cardiac arrest have been reported since.<sup><xref rid="R3" ref-type="bibr">3</xref></sup> The APA recommended the routine intravenous administration of an anticholinergic drug to reduce the risk of severe bradycardia, but this never became routine anaesthetic practice in the UK. The Royal College of Psychiatrists recognises that &#x02018;severe bradycardia can usually but not invariably be prevented by pre-treatment with anticholinergic agents&#x02019; and that such vagolytic drugs are sometimes used to attenuate bradycardia, but it does not specifically recommend the routine administration of an anticholinergic drug.<sup><xref rid="R4" ref-type="bibr">4</xref></sup></p><p id="P5">Evidence from case reports has been taken to mean that severe bradycardia is more likely after subconvulsive electrical stimulation; that is, stimulation that does not lead to generalised cerebral seizure activity.<sup><xref rid="R1" ref-type="bibr">1</xref>,<xref rid="R2" ref-type="bibr">2</xref>,<xref rid="R4" ref-type="bibr">4</xref></sup> This is because seizure activity has an opposite effect on the heart, leading to tachycardia, whereas in subconvulsive stimulation the vagal effect is unopposed.<sup><xref rid="R1" ref-type="bibr">1</xref></sup> Subconvulsive stimulation was uncommon in traditional ECT practice because fixed, high doses of electrical charge were delivered. Contemporary ECT machines can deliver adjustable doses and it is now recommended that the dose is titrated for the individual patient, particularly for bilateral ECT.<sup><xref rid="R4" ref-type="bibr">4</xref></sup> The convulsive dose depends on the seizure threshold for the individual patient. This is measured empirically by stimulation with repeated, increasing doses of electrical charge at the start of the course of ECT. In contemporary practice, the vast majority of patients receive at least one subconvulsive stimulation at their first treatment in a course of ECT. The APA now notes that not all anaesthetists routinely use anticholinergic drugs, but also states that the bradycardia after subconvulsive stimulation is of &#x02018;graver&#x02019; concern, and that many anaesthetists routinely administer such agents at treatments in which the measurement of seizure threshold is planned.<sup><xref rid="R5" ref-type="bibr">5</xref></sup> Some ECT practitioners simply do not undertake empirical measurement of the seizure threshold in patients with a known history of cardiac disease.<sup><xref rid="R6" ref-type="bibr">6</xref></sup></p><p id="P6">We aimed to investigate the prevalence of asystole during empirical measurement of seizure threshold in the absence of anticholinergic drugs.</p><sec sec-type="methods" id="S1"><title>Method</title><p id="P7">We analysed the printed paper record of the electrocardiogram (ECG) taken during the first treatment of 53 consecutive patients referred for a new course of ECT at the Royal Edinburgh Hospital between 12 February 2008 and 5 March 2010. An individual patient was included only once. Three of these patients are not included in the present report because the anaesthetist administered an intravenous anticholinergic drug before ECT; in all cases this was because of previous excessive salivation during ECT. The present sample therefore consists of 50 from 53 consecutive referrals for ECT. The intravenous induction agent was etomidate in 38 patients and propofol in 12 patients. Muscle relaxation was always achieved by intravenous suxamethonium, after precurarisation with 5 mg atracurium. The vast majority of patients (<italic>n</italic> = 47) were treated with bilateral ECT; the remaining 3 received right unilateral ECT.</p><p id="P8">All treatments were administered using a Spectrum 5000M ECT machine, which has an inbuilt two-channel electroencephalogram (EEG) facility to measure cerebral seizure activity. The protocol for the empirical measurement of the seizure threshold at the first treatment was as follows: the first stimulation was with 4% (46 mC), and if cerebral seizure activity did not ensue, then a second stimulation was given with 7% (81 mC). In patients prescribed an anti-epileptic drug, the first stimulation was with 9% (104 mC) and if no cerebral seizure activity ensued, then a second stimulation was given with 18% (207 mC). For both groups of patients the protocol included doses for third and subsequent stimulations, when necessary. The flow chart presented in <xref ref-type="fig" rid="F1">Fig. 1</xref> shows the number of patients receiving one or more stimulations.</p><p id="P9">Our clinic participates in the Scottish national audit of ECT practice, coordinated and reported by NHS National Services Scotland. This paper includes demographic, episodic and treatment data routinely recorded and reported. The only change made to our routine data collection was to print a paper record of the ECG. These paper records were given a coded number by the ECT consultant (A.S.) and then stored outside the ECT clinic until they were read by an independent rater (L.M.); clinical and treatment information was masked to the rater. We used ECG lead II and the paper record ran at 25 mm/s.</p><p id="P10">The point when bradycardia becomes asystole is arbitrary. The criterion that 5 s (125 mm on the paper record) without a QRS complex constitutes asystole is taken from a previous report.<sup><xref rid="R7" ref-type="bibr">7</xref></sup> Its authors also conducted a secondary analysis of patients in whom the asystole lasted as long as 7 s and so we also considered a secondary analysis with this definition of asystole. The analysis of the paper records was standardised by discussion among the present authors before analysis. The electrical stimulation led to a characteristic type of artefact on the paper record (<xref ref-type="fig" rid="F2">Fig. 2</xref>) and the time from the end of this artefact (that is, the end of electrical stimulation) to the time of the first QRS complex was measured. The morphology of this complex had to be the same morphology as complexes before electrical stimulation, which meant ectopic beats were disregarded. If the independent rater was uncertain about the measurement of this time, she consulted C.M. and the time was agreed between these raters; patient details remained masked to L.M., and C.M. was shown only the paper record and any other clinical or treatment information was masked. The results were analysed using Microsoft Office Excel 2007 and StatsDirect Version 2.7.9 for Windows. As the inter-subject variance (between different patients) was
-<fig id="F1" position="float"><label>Fig. 1</label><caption><p>Numbers of patients in the sample receiving one or more ECT stimulations.</p></caption><graphic xlink:href="15f1"/></fig>
-<fig id="F2" position="float"><label>Fig. 2</label><caption><p>ECG with electrical stimulus artefact followed by a period of asystole.</p></caption><graphic xlink:href="16f2"/></fig>
-likely to be higher than the intra-subject variance (multiple stimulations in one patient), each electrical stimulation was considered as an independent measure. Convulsive and subconvulsive stimulations were compared using Fisher&#x02019;s exact test and the &#x02018;exact&#x02019; or &#x02018;Clobber-Pearson&#x02019; method was used to calculate 95% confidence intervals of proportions.<sup><xref rid="R8" ref-type="bibr">8</xref></sup> The episodes of asystole in different stimulations were compared using paired <italic>t</italic>-tests.</p><p id="P11">It is the policy of NHS Scotland to withhold from publication data that may identify individual patients.<sup><xref rid="R9" ref-type="bibr">9</xref></sup> This report respects this principle.</p></sec><sec sec-type="results" id="S2"><title>Results</title><p id="P12">As shown in <xref ref-type="table" rid="T1">Table 1</xref>, the sample consisted of 37 women and 13 men (mean age 57.4, range 22&#x02013;87 years). The most prevalent primary psychiatric diagnosis was severe depression with (<italic>n</italic> = 18), or without (<italic>n</italic> = 16), psychosis; 6 patients had moderate depression and 7 were diagnosed with other types of depressive disorder. Six of the total group of patients with depression had bipolar affective disorder. Schizophrenia was the primary diagnosis in 2 patients.</p><p id="P13">The majority of patients (<italic>n</italic> = 38) were prescribed a combination of psychotropic drugs, including tricyclic antidepressants (<italic>n</italic> = 6) and lithium carbonate (<italic>n</italic> = 7); 8 patients were prescribed monotherapy, 6 with an antidepressant drug, 1 with lithium carbonate and 1 with diazepam; 4 patients were not prescribed any psychotropic drug treatment. Five patients were prescribed a beta-blocking drug for hypertension. Of the 8 patients who experienced asystole, 3 were anaesthetised with propofol and 5 with etomidate. None of these 8 patients were on anti-epileptic medication and so they received the standard electrical stimulation protocol (rather than the higher doses administered to patients on anti-epileptics).</p><p id="P14"><xref ref-type="table" rid="T2">Table 2</xref> shows that the time to first R-wave ranged from 0.04 to 9.12 seconds. Because of the nature of the titration procedure, most patients (<italic>n</italic> = 47) did not have a convulsion after the first stimulation and so experienced more than one electrical stimulation.</p><p id="P15">The data were analysed with each stimulus measured as an independent variable and the total number of stimulations given in the study was 172. Most patients (<italic>n</italic> = 49, 98%) experienced cerebral seizure activity (CSA) in this study and the one patient who did not underwent 5 electrical stimulations with no seizure. This patient did not experience asystole. The mean number of stimulations before experiencing CSA was 2.5. Our primary analysis was with asystole defined as 5 s without a QRS complex. With this definition, asystole occurred in 4/124 (3%) subconvulsive stimulations (95% CI 0.89 to 8.05%) and 5/48 (10%) convulsive stimulations (95% CI 3.47 to 22.66%). The number of subconvulsive stimulations is considerably higher than that of convulsive stimulations because, from the second stimulation onwards, the patient has experienced previous subconvulsive stimulations, but for convulsive stimulations the patient has not experienced any previous convulsive stimulations. Of the asystolic events, 6 occurred after a second electrical stimulation and the other 3 occurred after a third stimulation. Only one patient, a 70-year-old female with severe depression, experienced multiple episodes (2) of asystole, which were after her second (non-convulsive) and third (convulsive) electrical stimulation. The average age of the 8 patients who experienced asystole was 69.9 years and only 1 of them was male. Six of these patients were prescribed a combination of psychotropic medications and one was not prescribed any psychotropic drugs. Six of these patients had no documented history of cardiovascular disease.</p><p id="P16">Secondary analysis carried out using a definition of asystole of 7 s without a QRS complex reduced the number of episodes of asystole to 2. One of these followed a convulsive stimulation in a 72-year-old female with severe depression and a history of hypertension and ischaemic heart disease with previous stent insertion. She was the only patient (of three) taking a beta-blocker (atenolol) to exhibit asystole. The other episode of asystole lasting longer than 7 s was in a 70-year-old female with severe depression without a history of cardiovascular disease. It followed a second non-convulsive stimulation, lasted 9.12 s and was therefore the longest period of asystole noted.</p><p id="P17">A two-tailed Fisher&#x02019;s exact test, comparing convulsive and subconvulsive stimulations, did not reach statistical significance (<italic>P</italic> = 0.12), but the odds ratio was 3.46 (95% CI 0.71 to 18.27) suggesting that a patient was more likely to have an episode of asystole after convulsive rather than subconvulsive stimulation. We compared the first and second stimulations in patients who had two or more subconvulsive stimulations, using a paired <italic>t</italic>-test, and found that the mean time to the first QRS complex was statistically longer after a second subconvulsive stimulus (<italic>P</italic> = 0.04, 95% CI &#x02013;1.72 to &#x02013;0.04). We then compared the first and second stimulations in all patients who had two or more stimulations, regardless of whether they experienced
-<table-wrap id="T1" position="float"><label>Table 1</label><caption><p>Demographic of the study sample</p></caption><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" valign="bottom" span="1"/><col align="center" valign="bottom" span="1"/><col align="center" valign="bottom" span="1"/><col align="center" valign="bottom" span="1"/></colgroup><thead><tr><th rowspan="1" colspan="1"/><th rowspan="1" colspan="1">Asystole</th><th rowspan="1" colspan="1">No asystole</th><th rowspan="1" colspan="1">Whole sample</th></tr></thead><tbody><tr><td rowspan="1" colspan="1">Total <italic>n</italic></td><td rowspan="1" colspan="1">8</td><td rowspan="1" colspan="1">42</td><td rowspan="1" colspan="1">50</td></tr><tr><td rowspan="1" colspan="1"><hr/></td><td rowspan="1" colspan="1"><hr/></td><td rowspan="1" colspan="1"><hr/></td><td rowspan="1" colspan="1"><hr/></td></tr><tr><td rowspan="1" colspan="1">Demographics</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#x000a0;,&#x000a0;,&#x000a0;,&#x000a0;Male, <italic>n</italic> (%)</td><td rowspan="1" colspan="1">1 (12.5)</td><td rowspan="1" colspan="1">12 (28.6)</td><td rowspan="1" colspan="1">13 (26.0)</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;,&#x000a0;,&#x000a0;,&#x000a0;Female, <italic>n</italic> (%)</td><td rowspan="1" colspan="1">7 (87.5)</td><td rowspan="1" colspan="1">30 (71.4)</td><td rowspan="1" colspan="1">37 (74.0)</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;,&#x000a0;,&#x000a0;,&#x000a0;Age, mean (s.d. range): years</td><td rowspan="1" colspan="1">69.9 (54.0&#x02013;85.7)</td><td rowspan="1" colspan="1">55.1 (38.8&#x02013;71.3)</td><td rowspan="1" colspan="1">57.4 (40.5&#x02013;74.3)</td></tr><tr><td rowspan="1" colspan="1"><hr/></td><td rowspan="1" colspan="1"><hr/></td><td rowspan="1" colspan="1"><hr/></td><td rowspan="1" colspan="1"><hr/></td></tr><tr><td rowspan="1" colspan="1"><italic>Diagnosis</italic></td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">Depression, <italic>n</italic> (%)</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#x000a0;,&#x000a0;,&#x000a0;,&#x000a0;Unspecified</td><td rowspan="1" colspan="1">2 (25.0)</td><td rowspan="1" colspan="1">4 (9.5)</td><td rowspan="1" colspan="1">6 (12.0)</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;,&#x000a0;,&#x000a0;,&#x000a0;Mild</td><td rowspan="1" colspan="1">1 (12.5)</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">1 (2.0)</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;,&#x000a0;,&#x000a0;,&#x000a0;Moderate</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">6 (14.3)</td><td rowspan="1" colspan="1">6 (12.0)</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;,&#x000a0;,&#x000a0;,&#x000a0;Severe without psychosis</td><td rowspan="1" colspan="1">1 (12.5)</td><td rowspan="1" colspan="1">11 (26.2)</td><td rowspan="1" colspan="1">12 (24.0)</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;,&#x000a0;,&#x000a0;,&#x000a0;Severe with psychosis</td><td rowspan="1" colspan="1">4 (50.0)</td><td rowspan="1" colspan="1">10 (23.8)</td><td rowspan="1" colspan="1">14 (28.0)</td></tr><tr><td rowspan="1" colspan="1">Bipolar affective disorder, <italic>n</italic> (%)</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#x000a0;,&#x000a0;,&#x000a0;,&#x000a0;Moderate</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">1 (2.4)</td><td rowspan="1" colspan="1">1 (2.0)</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;,&#x000a0;,&#x000a0;,&#x000a0;Severe without psychosis</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">4 (9.5)</td><td rowspan="1" colspan="1">4 (8.0)</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;,&#x000a0;,&#x000a0;,&#x000a0;Severe with psychosis</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">2 (4.8)</td><td rowspan="1" colspan="1">2 (4.0)</td></tr><tr><td rowspan="1" colspan="1">Schizophrenia</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">2 (4.8)</td><td rowspan="1" colspan="1">2 (4.0)</td></tr><tr><td rowspan="1" colspan="1">Schizophrenia</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">2 (4.8)</td><td rowspan="1" colspan="1">2 (4.0)</td></tr><tr><td rowspan="1" colspan="1">Schizophrenia + severe depression</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">1 (2.4)</td><td rowspan="1" colspan="1">1 (2.0)</td></tr><tr><td rowspan="1" colspan="1">Severe depression with psychosis + Alzheimer&#x02019;s disease</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">1 (2.4)</td><td rowspan="1" colspan="1">1 (2.0)</td></tr><tr><td rowspan="1" colspan="1"><hr/></td><td rowspan="1" colspan="1"><hr/></td><td rowspan="1" colspan="1"><hr/></td><td rowspan="1" colspan="1"><hr/></td></tr><tr><td rowspan="1" colspan="1">Psychotropic drugs, <italic>n</italic> (%)</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#x000a0;,&#x000a0;,&#x000a0;,&#x000a0;No</td><td rowspan="1" colspan="1">1 (12.5)</td><td rowspan="1" colspan="1">3 (7.1)</td><td rowspan="1" colspan="1">4 (8.0)</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;,&#x000a0;,&#x000a0;,&#x000a0;Single</td><td rowspan="1" colspan="1">1 (12.5)</td><td rowspan="1" colspan="1">7 (16.7)</td><td rowspan="1" colspan="1">8 (16.0)</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;,&#x000a0;,&#x000a0;,&#x000a0;Multiple</td><td rowspan="1" colspan="1">6 (75.0)</td><td rowspan="1" colspan="1">32 (76.2)</td><td rowspan="1" colspan="1">38 (76.0)</td></tr><tr><td rowspan="1" colspan="1"><hr/></td><td rowspan="1" colspan="1"><hr/></td><td rowspan="1" colspan="1"><hr/></td><td rowspan="1" colspan="1"><hr/></td></tr><tr><td rowspan="1" colspan="1">History of cardiovascular diseaes, <italic>n</italic> (%)</td><td rowspan="1" colspan="1">2 (25.0)</td><td rowspan="1" colspan="1">10 (23.8)<xref ref-type="fn" rid="TFN2"><sup>a</sup></xref></td><td rowspan="1" colspan="1">12 (24.0)</td></tr><tr><td rowspan="1" colspan="1"><hr/></td><td rowspan="1" colspan="1"><hr/></td><td rowspan="1" colspan="1"><hr/></td><td rowspan="1" colspan="1"><hr/></td></tr><tr><td rowspan="1" colspan="1">Beta-blocker prescribed, <italic>n</italic> (%)</td><td rowspan="1" colspan="1">1 (12.5)</td><td rowspan="1" colspan="1">4 (9.5)</td><td rowspan="1" colspan="1">5 (10.0)</td></tr><tr><td rowspan="1" colspan="1"><hr/></td><td rowspan="1" colspan="1"><hr/></td><td rowspan="1" colspan="1"><hr/></td><td rowspan="1" colspan="1"><hr/></td></tr><tr><td rowspan="1" colspan="1">Anaesthetic agent, <italic>n</italic> (%)</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#x000a0;,&#x000a0;,&#x000a0;,&#x000a0;Propofol</td><td rowspan="1" colspan="1">3 (37.5)</td><td rowspan="1" colspan="1">9 (21.4)</td><td rowspan="1" colspan="1">12 (24.0)</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;,&#x000a0;,&#x000a0;,&#x000a0;Etomidate</td><td rowspan="1" colspan="1">5 (62.5)</td><td rowspan="1" colspan="1">33 (78.6)</td><td rowspan="1" colspan="1">38 (76.0)</td></tr><tr><td rowspan="1" colspan="1"><hr/></td><td rowspan="1" colspan="1"><hr/></td><td rowspan="1" colspan="1"><hr/></td><td rowspan="1" colspan="1"><hr/></td></tr><tr><td rowspan="1" colspan="1">Type of ECT, <italic>n</italic> (%)</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#x000a0;,&#x000a0;,&#x000a0;,&#x000a0;Bilateral</td><td rowspan="1" colspan="1">8 (100.0)</td><td rowspan="1" colspan="1">39 (92.9)</td><td rowspan="1" colspan="1">47 (94.0)</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;,&#x000a0;,&#x000a0;,&#x000a0;Right unilateral</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">3 (7.1)</td><td rowspan="1" colspan="1">3 (6.0)</td></tr></tbody></table><table-wrap-foot><fn id="TFN1"><p>ECT, electroconvulsive therapy.</p></fn><fn id="TFN2"><label>a.</label><p>Including pulmonary embolism + one decision based on medications suggestive of cardiovascular disease.</p></fn></table-wrap-foot></table-wrap>
-<table-wrap id="T2" position="float"><label>Table 2</label><caption><p>Asystole in convulsive and subconvulsive stimuli</p></caption><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" valign="top" span="1"/><col align="center" valign="top" span="1"/><col align="center" valign="top" span="1"/><col align="center" valign="top" span="1"/><col align="center" valign="top" span="1"/><col align="center" valign="top" span="1"/><col align="center" valign="top" span="1"/><col align="center" valign="top" span="1"/><col align="center" valign="top" span="1"/></colgroup><thead><tr><th rowspan="1" colspan="1"/><th colspan="4" valign="bottom" rowspan="1">Cerebral seizure activity induced<hr/></th><th colspan="4" valign="bottom" rowspan="1">No cerebral seizure activity induced<hr/></th></tr><tr><th valign="bottom" rowspan="1" colspan="1">Stimulation</th><th valign="bottom" rowspan="1" colspan="1">Convulsive <break/>stimulations <break/><italic>n</italic></th><th valign="bottom" rowspan="1" colspan="1">Time to first <break/>QRS, median <break/>(range)<xref ref-type="fn" rid="TFN3"><sup>a</sup></xref></th><th valign="bottom" rowspan="1" colspan="1">Asystole <break/><italic>n</italic></th><th valign="bottom" rowspan="1" colspan="1">Proportion <break/>(95% CI)</th><th valign="bottom" rowspan="1" colspan="1">Subconvulsive <break/>stimulations <break/><italic>n</italic></th><th valign="bottom" rowspan="1" colspan="1">Time to first <break/>QRS, median <break/>(range)<xref ref-type="fn" rid="TFN3"><sup>a</sup></xref></th><th valign="bottom" rowspan="1" colspan="1">Asystole <break/><italic>n</italic></th><th valign="bottom" rowspan="1" colspan="1">Proportion <break/>(95% CI)</th></tr></thead><tbody><tr><td rowspan="1" colspan="1">1st</td><td rowspan="1" colspan="1">3</td><td rowspan="1" colspan="1">2.36 <break/>(0.88&#x02013;3.00)</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">0.00 <break/>(0&#x02013;0.71)</td><td rowspan="1" colspan="1">46 <break/>(+1 off-page)<xref ref-type="fn" rid="TFN4"><sup>b</sup></xref></td><td rowspan="1" colspan="1">1.32 <break/>(0.04&#x02013;4.84)</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">0.00 <break/>(0&#x02013;0.08)</td></tr><tr><td rowspan="1" colspan="1"><hr/></td><td rowspan="1" colspan="1"><hr/></td><td rowspan="1" colspan="1"><hr/></td><td rowspan="1" colspan="1"><hr/></td><td rowspan="1" colspan="1"><hr/></td><td rowspan="1" colspan="1"><hr/></td><td rowspan="1" colspan="1"><hr/></td><td rowspan="1" colspan="1"><hr/></td><td rowspan="1" colspan="1"><hr/></td></tr><tr><td rowspan="1" colspan="1">2nd</td><td rowspan="1" colspan="1">20</td><td rowspan="1" colspan="1">1.18 <break/>(0.04&#x02013;7.08)</td><td rowspan="1" colspan="1">2</td><td rowspan="1" colspan="1">0.10 <break/>(0.01&#x02013;0.32)</td><td rowspan="1" colspan="1">27</td><td rowspan="1" colspan="1">1.48 <break/>(0.04&#x02013;9.12)</td><td rowspan="1" colspan="1">4</td><td rowspan="1" colspan="1">0.15 <break/>(0.04&#x02013;0.34)</td></tr><tr><td rowspan="1" colspan="1"><hr/></td><td rowspan="1" colspan="1"><hr/></td><td rowspan="1" colspan="1"><hr/></td><td rowspan="1" colspan="1"><hr/></td><td rowspan="1" colspan="1"><hr/></td><td rowspan="1" colspan="1"><hr/></td><td rowspan="1" colspan="1"><hr/></td><td rowspan="1" colspan="1"><hr/></td><td rowspan="1" colspan="1"><hr/></td></tr><tr><td rowspan="1" colspan="1">3rd</td><td rowspan="1" colspan="1">21 <break/>(+1 unreadable)<xref ref-type="fn" rid="TFN5"><sup>c</sup></xref></td><td rowspan="1" colspan="1">1.88 <break/>(0.04&#x02013;6.96)</td><td rowspan="1" colspan="1">3</td><td rowspan="1" colspan="1">0.14 <break/>(0.03&#x02013;0.36)</td><td rowspan="1" colspan="1">5</td><td rowspan="1" colspan="1">1.36 <break/> (0.56&#x02013;3.84)</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">0.00 <break/>(0&#x02013;0.52)</td></tr><tr><td rowspan="1" colspan="1"><hr/></td><td rowspan="1" colspan="1"><hr/></td><td rowspan="1" colspan="1"><hr/></td><td rowspan="1" colspan="1"><hr/></td><td rowspan="1" colspan="1"><hr/></td><td rowspan="1" colspan="1"><hr/></td><td rowspan="1" colspan="1"><hr/></td><td rowspan="1" colspan="1"><hr/></td><td rowspan="1" colspan="1"><hr/></td></tr><tr><td rowspan="1" colspan="1">4th</td><td rowspan="1" colspan="1">4</td><td rowspan="1" colspan="1">1.52 <break/>(0.04&#x02013;4.44)</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">0.00 <break/>(0&#x02013;0.6)</td><td rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1">0.56</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">0.01 <break/>(0&#x02013;0.98)</td></tr><tr><td rowspan="1" colspan="1"><hr/></td><td rowspan="1" colspan="1"><hr/></td><td rowspan="1" colspan="1"><hr/></td><td rowspan="1" colspan="1"><hr/></td><td rowspan="1" colspan="1"><hr/></td><td rowspan="1" colspan="1"><hr/></td><td rowspan="1" colspan="1"><hr/></td><td rowspan="1" colspan="1"><hr/></td><td rowspan="1" colspan="1"><hr/></td></tr><tr><td rowspan="1" colspan="1">5th</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">0.00</td><td rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1">0.96</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">0.01 <break/>(0&#x02013;0.98)</td></tr><tr><td rowspan="1" colspan="1"><hr/></td><td rowspan="1" colspan="1"><hr/></td><td rowspan="1" colspan="1"><hr/></td><td rowspan="1" colspan="1"><hr/></td><td rowspan="1" colspan="1"><hr/></td><td rowspan="1" colspan="1"><hr/></td><td rowspan="1" colspan="1"><hr/></td><td rowspan="1" colspan="1"><hr/></td><td rowspan="1" colspan="1"><hr/></td></tr><tr><td rowspan="1" colspan="1"><bold>Total</bold></td><td rowspan="1" colspan="1"><bold>48</bold></td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"><bold>0.10</bold>
-<break/><bold>(0.03-0.23)</bold></td><td rowspan="1" colspan="1"><bold>124</bold></td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"><bold>0.03</bold>
-<break/><bold>(0.01-0.08)</bold></td></tr></tbody></table><table-wrap-foot><fn id="TFN3"><label>a.</label><p>Time given in seconds.</p></fn><fn id="TFN4"><label>b.</label><p>Off-page: an ECG trace that went off the side of the page and could not be analysed.</p></fn><fn id="TFN5"><label>c.</label><p>Unreadable: an ECG trace so distorted it could not be analysed.</p></fn></table-wrap-foot></table-wrap>
-seizure activity (again using a paired <italic>t</italic>-test), and again found that the mean time to first QRS post-stimulation was significantly longer after a second stimulation (<italic>P</italic> = 0.03, 95% CI &#x02013;1.09 to &#x02013;0.05). We also compared the time to the first QRS complex after second and third stimulations in all patients who underwent three or more stimulations, using a paired <italic>t</italic>-test, but did not find a statistically significant difference (<italic>P</italic> = 0.36, 95% CI &#x02013;0.66 to 0.96).</p><p id="P18">All episodes of asystole in this study resolved spontaneously without medical intervention.</p></sec><sec sec-type="discussion" id="S3"><title>Discussion</title><p id="P19">Asystole (5 s without a QRS complex) occurred in 9 of 172 stimulations in this study (5%; 95% CI 0.02 to 0.10). As each episode of asystole resolved without medical intervention, our findings suggest that the empirical measurement of seizure threshold does not add to the cardiovascular risk of ECT, nor is there a need to routinely administer an anticholinergic drug. Contrary to expectation, asystole was more prevalent after convulsive than non-convulsive stimulation. We have also shown that time to the first QRS complex post-stimulation was longer in patients who received two subconvulsive stimulations rather than one. As increasing doses of electricity are given on subsequent stimulations when titrating up to seizure threshold, this could suggest that time to the first QRS complex simply increases together with the dose of electricity. This is supported by the fact that none of the episodes of asystole occurred after a patient&#x02019;s first electrical stimulation and that the comparison of first and second stimulations, regardless of whether or not seizure activity ensued, showed a statistically significant difference between the times to first QRS complex (<italic>P</italic> = 0.03, 95% CI &#x02013;1.09 to &#x02013;0.05). On the other hand, there was no statistically significant difference between second and third stimulations (<italic>P</italic> = 0.36, 95% CI &#x02013;0.66 to 0.96). This may be because the effect of increasing doses of electricity and/or absence of seizure activity is lost after a certain threshold, or because neither the electrical dose nor presence or absence of seizure activity are factors influencing the risk of asystole and the effect seen at previous stimulations may be due to small sample size. Further studies with a larger sample size would help to delineate this.</p><p id="P20">Our results support those of Burd &#x00026; Kettl,<sup><xref rid="R7" ref-type="bibr">7</xref></sup> who found that although asystole was common in elderly patients undergoing ECT (364/1146, 40.1%), routine use of atropine was unnecessary because brief asystole was not associated with adverse outcome. Burd &#x00026; Kettl studied patients throughout ECT treatment courses, not just during stimulus titration, which may explain the difference in incidence of asystole observed in our study. They also refer to reports of asystole lasting up to 7 s and so we attempted to conduct a secondary analysis using a definition of 7 s without a QRS complex. However, in our sample there were only 2 episodes of asystole which exceeded 7 s (1 in a convulsive stimulation and 1 in which no convulsion was stimulated) and so no statistical analysis of these episodes could be performed. In 1996, McCall <italic>et al</italic><sup><xref rid="R10" ref-type="bibr">10</xref></sup> used an even more conservative definition of asystole (10 s of ECG electrical silence) in an attempt to capture only pathological asystolic events. Using this cut-off there were no patients in our study who experienced asystole, again supporting the idea that the periods of electrical silence in our study were not pathological. Furthermore, only one of the patients in our study suffered more than one episode of asystole, which suggests that, for a given individual, one episode of asystole does not generally predict further similar events. A limitation of our study was that it was not possible to statistically analyse the other factors that could prolong the time to the first QRS complex, because of the small number of patients. Larger prevalence studies will be needed to further investigate these factors.</p></sec></body><back><fn-group><fn fn-type="conflict"><p><bold>Declaration of interest</bold> None.</p></fn></fn-group><ack><p id="P21">We thank Fiona Morrison, medical secretary supervisor, for her help with the production of the manuscript.</p></ack><ref-list><title>References</title><ref id="R1"><label>1</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><name><surname>Abrams</surname><given-names>R</given-names></name></person-group>
-<source>Electroconvulsive Therapy</source> (<edition>4th edn</edition>). <publisher-name>Oxford University Press</publisher-name>, <year>2004</year>.
-</mixed-citation></ref><ref id="R2"><label>2</label><mixed-citation publication-type="book">
-<collab>American Psychiatric Association Task Force 14</collab>. <source>Electroconvulsive Therapy</source>. <publisher-name>American Psychiatric Press</publisher-name>, <year>1978</year>.
-</mixed-citation></ref><ref id="R3"><label>3</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name><surname>Decina</surname><given-names>P</given-names></name><name><surname>Malitz</surname><given-names>S</given-names></name><name><surname>Sackeim</surname><given-names>HA</given-names></name><name><surname>Holzer</surname><given-names>J</given-names></name><name><surname>Yudofsky</surname><given-names>S</given-names></name></person-group>
-<article-title>Cardiac arrest during ECT modified by beta-adrenergic blockade</article-title>. <source>Am J Psychiatry</source>
-<year>1984</year>; <volume>141</volume>: <fpage>298</fpage>&#x02013;<lpage>300</lpage>.
-<pub-id pub-id-type="pmid">6691502</pub-id></mixed-citation></ref><ref id="R4"><label>4</label><mixed-citation publication-type="book">
-<person-group person-group-type="editor"><name><surname>Waite</surname><given-names>J</given-names></name><name><surname>Easton</surname><given-names>A</given-names></name></person-group> (eds) <source>The ECT Handbook</source> (<edition>3rd edn</edition>). <publisher-name>RCPsych Publications</publisher-name>, <year>2013</year>.
-</mixed-citation></ref><ref id="R5"><label>5</label><mixed-citation publication-type="book">
-<collab>American Psychiatric Association Committee on Electroconvulsive Therapy</collab>. <source>The Practice of Electroconvulsive Therapy: Recommendations for Treatment, Training and Privileging (A Task Force Report of the American Psychiatric Association)</source>. <publisher-name>APA</publisher-name>, <year>2001</year>.
-</mixed-citation></ref><ref id="R6"><label>6</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name><surname>Bueno</surname><given-names>CR</given-names></name><name><surname>Rosa</surname><given-names>MO</given-names></name><name><surname>Rumi</surname><given-names>DO</given-names></name><name><surname>Ribeiro</surname><given-names>RB</given-names></name><name><surname>Rosa</surname><given-names>MA</given-names></name></person-group>
-<article-title>Cardiovascular safety of the methods of limit titration procedure for electroconvulsive therapy dozing: a retrospective study</article-title>. <source>Brain Stim</source>
-<year>2011</year>; <volume>4</volume>: <fpage>43</fpage>&#x02013;<lpage>5</lpage>.
-</mixed-citation></ref><ref id="R7"><label>7</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name><surname>Burd</surname><given-names>J</given-names></name><name><surname>Kettl</surname><given-names>P</given-names></name></person-group>
-<article-title>Incidence of asystole in electroconvulsive therapy in elderly patients</article-title>. <source>Am J Geriatr Psychiatry</source>
-<year>1998</year>; <volume>6</volume>: <fpage>203</fpage>&#x02013;<lpage>11</lpage>.
-<pub-id pub-id-type="pmid">9659953</pub-id></mixed-citation></ref><ref id="R8"><label>8</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name><surname>Clopper</surname><given-names>C</given-names></name><name><surname>Pearson</surname><given-names>E</given-names></name></person-group>
-<article-title>The use of confidence or fiducial limits illustrated in the case of the binomial</article-title>. <source>Biometrika</source>
-<year>1934</year>; <volume>26</volume>: <fpage>404</fpage>&#x02013;<lpage>13</lpage>.
-</mixed-citation></ref><ref id="R9"><label>9</label><mixed-citation publication-type="book">
-<collab>Scottish ECT Accreditation Network</collab>. <source>Annual Report 2009</source>. <publisher-name>NHS National Services Scotland</publisher-name>, <year>2009</year>.
-</mixed-citation></ref><ref id="R10"><label>10</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name><surname>McCall</surname><given-names>WV</given-names></name><name><surname>Reid</surname><given-names>S</given-names></name><name><surname>Ford</surname><given-names>M</given-names></name></person-group>
-<article-title>Electrocardiographic and cardiovascular effects of subconvulsive stimulation during titrated right unilateral ECT</article-title>. <source>Convuls Ther</source>
-<year>1994</year>; <volume>10</volume>: <fpage>25</fpage>&#x02013;<lpage>33</lpage>.
-<pub-id pub-id-type="pmid">8055289</pub-id></mixed-citation></ref></ref-list></back></article>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1d3 20150301//EN" "JATS-archivearticle1.dtd">
+<article xmlns:ali="http://www.niso.org/schemas/ali/1.0"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article">    <?properties open_access?>    <?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Publishing DTD v2.3 20070202//EN?>    <?DTDIdentifier.IdentifierType public?>    <?SourceDTD.DTDName journalpublishing.dtd?>    <?SourceDTD.Version 2.3?>    <?ConverterInfo.XSLTName jp2nlmx2.xsl?>    <?ConverterInfo.Version 2?>
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="nlm-ta">BJPsych Bull</journal-id>
+            <journal-id journal-id-type="iso-abbrev">BJPsych Bull</journal-id>
+            <journal-id journal-id-type="hwp">pbrcpsych</journal-id>
+            <journal-title-group>
+                <journal-title>BJPsych Bulletin</journal-title>
+            </journal-title-group>
+            <issn pub-type="ppub">2056-4694</issn>
+            <issn pub-type="epub">2056-4708</issn>
+            <publisher>
+                <publisher-name>Royal College of Psychiatrists</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="pmcid">4495822</article-id>
+            <article-id pub-id-type="doi">10.1192/pb.bp.112.038695</article-id>
+            <article-categories>
+                <subj-group subj-group-type="heading">
+                    <subject>Original Papers</subject>
+                </subj-group>
+            </article-categories>
+            <title-group>
+                <article-title>The cardiovascular safety of the empirical measurement of the seizure threshold in electroconvulsive therapy</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Mizen</surname>
+                        <given-names>Lindsay</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Morton</surname>
+                        <given-names>Charles</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A2">2</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Scott</surname>
+                        <given-names>Allan</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                </contrib>
+                <aff id="A1">
+                    <label>1</label>Royal Edinburgh Hospital</aff>
+                <aff id="A2">
+                    <label>2</label>Royal Infirmary of Edinburgh</aff>
+            </contrib-group>
+            <author-notes>
+                <corresp>Correspondence to Lindsay Mizen (<email>lmizen@nhs.net</email>)
+                </corresp>
+                <fn>
+                    <p>
+                        <bold>Dr Lindsay Mizen</bold> is a Clinical Research Fellow at the University of Edinburgh and an honorary ST5 trainee in the psychiatry of intellectual disability in the South East Scotland Deanery who was based at the Royal Edinburgh Hospital while conducting this study. <bold>Dr Charles Morton</bold> is a consultant anaesthetist, Royal Infirmary of Edinburgh. <bold>Dr Allan Scott</bold> is now retired, but was a consultant general adult psychiatrist at the Royal Edinburgh Hospital while conducting the study.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="ppub">
+                <month>2</month>
+                <year>2015</year>
+            </pub-date>
+            <volume>39</volume>
+            <issue>1</issue>
+            <fpage>14</fpage>
+            <lpage>18</lpage>
+            <history>
+                <date date-type="received">
+                    <day>22</day>
+                    <month>1</month>
+                    <year>2012</year>
+                </date>
+                <date date-type="rev-recd">
+                    <day>9</day>
+                    <month>2</month>
+                    <year>2014</year>
+                </date>
+                <date date-type="accepted">
+                    <day>24</day>
+                    <month>3</month>
+                    <year>2014</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>&#x000a9; 2014 The Authors</copyright-statement>
+                <copyright-year>2014</copyright-year>
+                <license license-type="creative-commons" xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open-access article published by the Royal College of Psychiatrists and distributed under the terms of the Creative Commons Attribution License (<uri xlink:type="simple" xlink:href="http://creativecommons.org/licenses/by/4.0">http://creativecommons.org/licenses/by/4.0</uri>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <self-uri xlink:title="pdf" xlink:type="simple" xlink:href="14.pdf" />
+            <abstract>
+                <p id="P1">
+                    <bold>Aims and method</bold> The Royal College of Psychiatrists&#x02019; Committee on Electroconvulsive Therapy (ECT) and Related Treatments advises the measurement of initial seizure threshold in all patients undergoing ECT if possible. The subconvulsive electrical stimulation inherent in this process is thought to increase the risk of bradycardia and therefore asystole. Our aim was to establish the prevalence of asystole (no heart beat for 5 or more seconds) during empirical measurement of seizure threshold in patients who had not received anticholinergic drugs, as we were unable to find any published reports of bradycardia or asystole prevalence under these conditions. The electrocardiogram traces of 50 such consecutive patients were analysed later.</p>
+                <p id="P2">
+                    <bold>Results</bold> Asystole occurred in 5% of stimulations. Each episode of asystole resolved spontaneously with no adverse outcomes. Contrary to expectations, asystole was no more prevalent in subconvulsive stimulations than in convulsive stimulations.</p>
+                <p id="P3">
+                    <bold>Clinical implications</bold> There was no evidence that the empirical measurement of the seizure threshold added to the cardiovascular risk of ECT.</p>
+            </abstract>
+        </article-meta>
+    </front>
+    <body>
+        <p id="P4">The electrical stimulus of electroconvulsive therapy (ECT) may have effects other than the induction of cerebral seizure activity. It was recognised soon after the introduction of ECT that the stimulus could affect the heart, usually causing a bradycardia resulting from the electrical stimulation of the motor nucleus of the vagus nerve and nucleus ambiguus, within the medulla oblongata.<sup>
+            <xref rid="R1" ref-type="bibr">1</xref>
+        </sup> This bradycardia can be severe and as long ago as 1978 the American Psychiatric Association (APA) stated that the bradycardia might even be prolonged enough to cause cardiac arrest.<sup>
+        <xref rid="R2" ref-type="bibr">2</xref>
+    </sup> Although no references were given to support this concern, asystole and cardiac arrest have been reported since.<sup>
+    <xref rid="R3" ref-type="bibr">3</xref>
+</sup> The APA recommended the routine intravenous administration of an anticholinergic drug to reduce the risk of severe bradycardia, but this never became routine anaesthetic practice in the UK. The Royal College of Psychiatrists recognises that &#x02018;severe bradycardia can usually but not invariably be prevented by pre-treatment with anticholinergic agents&#x02019; and that such vagolytic drugs are sometimes used to attenuate bradycardia, but it does not specifically recommend the routine administration of an anticholinergic drug.<sup>
+<xref rid="R4" ref-type="bibr">4</xref>
+</sup>
+</p>
+<p id="P5">Evidence from case reports has been taken to mean that severe bradycardia is more likely after subconvulsive electrical stimulation; that is, stimulation that does not lead to generalised cerebral seizure activity.<sup>
+<xref rid="R1" ref-type="bibr">1</xref>,<xref rid="R2" ref-type="bibr">2</xref>,<xref rid="R4" ref-type="bibr">4</xref>
+</sup> This is because seizure activity has an opposite effect on the heart, leading to tachycardia, whereas in subconvulsive stimulation the vagal effect is unopposed.<sup>
+<xref rid="R1" ref-type="bibr">1</xref>
+</sup> Subconvulsive stimulation was uncommon in traditional ECT practice because fixed, high doses of electrical charge were delivered. Contemporary ECT machines can deliver adjustable doses and it is now recommended that the dose is titrated for the individual patient, particularly for bilateral ECT.<sup>
+<xref rid="R4" ref-type="bibr">4</xref>
+</sup> The convulsive dose depends on the seizure threshold for the individual patient. This is measured empirically by stimulation with repeated, increasing doses of electrical charge at the start of the course of ECT. In contemporary practice, the vast majority of patients receive at least one subconvulsive stimulation at their first treatment in a course of ECT. The APA now notes that not all anaesthetists routinely use anticholinergic drugs, but also states that the bradycardia after subconvulsive stimulation is of &#x02018;graver&#x02019; concern, and that many anaesthetists routinely administer such agents at treatments in which the measurement of seizure threshold is planned.<sup>
+<xref rid="R5" ref-type="bibr">5</xref>
+</sup> Some ECT practitioners simply do not undertake empirical measurement of the seizure threshold in patients with a known history of cardiac disease.<sup>
+<xref rid="R6" ref-type="bibr">6</xref>
+</sup>
+</p>
+<p id="P6">We aimed to investigate the prevalence of asystole during empirical measurement of seizure threshold in the absence of anticholinergic drugs.</p>
+<sec sec-type="methods" id="S1">
+<title>Method</title>
+<p id="P7">We analysed the printed paper record of the electrocardiogram (ECG) taken during the first treatment of 53 consecutive patients referred for a new course of ECT at the Royal Edinburgh Hospital between 12 February 2008 and 5 March 2010. An individual patient was included only once. Three of these patients are not included in the present report because the anaesthetist administered an intravenous anticholinergic drug before ECT; in all cases this was because of previous excessive salivation during ECT. The present sample therefore consists of 50 from 53 consecutive referrals for ECT. The intravenous induction agent was etomidate in 38 patients and propofol in 12 patients. Muscle relaxation was always achieved by intravenous suxamethonium, after precurarisation with 5 mg atracurium. The vast majority of patients (<italic>n</italic> = 47) were treated with bilateral ECT; the remaining 3 received right unilateral ECT.</p>
+<p id="P8">All treatments were administered using a Spectrum 5000M ECT machine, which has an inbuilt two-channel electroencephalogram (EEG) facility to measure cerebral seizure activity. The protocol for the empirical measurement of the seizure threshold at the first treatment was as follows: the first stimulation was with 4% (46 mC), and if cerebral seizure activity did not ensue, then a second stimulation was given with 7% (81 mC). In patients prescribed an anti-epileptic drug, the first stimulation was with 9% (104 mC) and if no cerebral seizure activity ensued, then a second stimulation was given with 18% (207 mC). For both groups of patients the protocol included doses for third and subsequent stimulations, when necessary. The flow chart presented in <xref ref-type="fig" rid="F1">Fig. 1</xref> shows the number of patients receiving one or more stimulations.</p>
+<p id="P9">Our clinic participates in the Scottish national audit of ECT practice, coordinated and reported by NHS National Services Scotland. This paper includes demographic, episodic and treatment data routinely recorded and reported. The only change made to our routine data collection was to print a paper record of the ECG. These paper records were given a coded number by the ECT consultant (A.S.) and then stored outside the ECT clinic until they were read by an independent rater (L.M.); clinical and treatment information was masked to the rater. We used ECG lead II and the paper record ran at 25 mm/s.</p>
+<p id="P10">The point when bradycardia becomes asystole is arbitrary. The criterion that 5 s (125 mm on the paper record) without a QRS complex constitutes asystole is taken from a previous report.<sup>
+<xref rid="R7" ref-type="bibr">7</xref>
+</sup> Its authors also conducted a secondary analysis of patients in whom the asystole lasted as long as 7 s and so we also considered a secondary analysis with this definition of asystole. The analysis of the paper records was standardised by discussion among the present authors before analysis. The electrical stimulation led to a characteristic type of artefact on the paper record (<xref ref-type="fig" rid="F2">Fig. 2</xref>) and the time from the end of this artefact (that is, the end of electrical stimulation) to the time of the first QRS complex was measured. The morphology of this complex had to be the same morphology as complexes before electrical stimulation, which meant ectopic beats were disregarded. If the independent rater was uncertain about the measurement of this time, she consulted C.M. and the time was agreed between these raters; patient details remained masked to L.M., and C.M. was shown only the paper record and any other clinical or treatment information was masked. The results were analysed using Microsoft Office Excel 2007 and StatsDirect Version 2.7.9 for Windows. As the inter-subject variance (between different patients) was
+<fig id="F1" position="float">
+<label>Fig. 1</label>
+<caption>
+<p>Numbers of patients in the sample receiving one or more ECT stimulations.</p>
+</caption>
+<graphic xlink:href="15f1" />
+</fig>
+<fig id="F2" position="float">
+<label>Fig. 2</label>
+<caption>
+<p>ECG with electrical stimulus artefact followed by a period of asystole.</p>
+</caption>
+<graphic xlink:href="16f2" />
+</fig>
+likely to be higher than the intra-subject variance (multiple stimulations in one patient), each electrical stimulation was considered as an independent measure. Convulsive and subconvulsive stimulations were compared using Fisher&#x02019;s exact test and the &#x02018;exact&#x02019; or &#x02018;Clobber-Pearson&#x02019; method was used to calculate 95% confidence intervals of proportions.<sup>
+<xref rid="R8" ref-type="bibr">8</xref>
+</sup> The episodes of asystole in different stimulations were compared using paired <italic>t</italic>-tests.</p>
+<p id="P11">It is the policy of NHS Scotland to withhold from publication data that may identify individual patients.<sup>
+<xref rid="R9" ref-type="bibr">9</xref>
+</sup> This report respects this principle.</p>
+</sec>
+<sec sec-type="results" id="S2">
+<title>Results</title>
+<p id="P12">As shown in <xref ref-type="table" rid="T1">Table 1</xref>, the sample consisted of 37 women and 13 men (mean age 57.4, range 22&#x02013;87 years). The most prevalent primary psychiatric diagnosis was severe depression with (<italic>n</italic> = 18), or without (<italic>n</italic> = 16), psychosis; 6 patients had moderate depression and 7 were diagnosed with other types of depressive disorder. Six of the total group of patients with depression had bipolar affective disorder. Schizophrenia was the primary diagnosis in 2 patients.</p>
+<p id="P13">The majority of patients (<italic>n</italic> = 38) were prescribed a combination of psychotropic drugs, including tricyclic antidepressants (<italic>n</italic> = 6) and lithium carbonate (<italic>n</italic> = 7); 8 patients were prescribed monotherapy, 6 with an antidepressant drug, 1 with lithium carbonate and 1 with diazepam; 4 patients were not prescribed any psychotropic drug treatment. Five patients were prescribed a beta-blocking drug for hypertension. Of the 8 patients who experienced asystole, 3 were anaesthetised with propofol and 5 with etomidate. None of these 8 patients were on anti-epileptic medication and so they received the standard electrical stimulation protocol (rather than the higher doses administered to patients on anti-epileptics).</p>
+<p id="P14">
+<xref ref-type="table" rid="T2">Table 2</xref> shows that the time to first R-wave ranged from 0.04 to 9.12 seconds. Because of the nature of the titration procedure, most patients (<italic>n</italic> = 47) did not have a convulsion after the first stimulation and so experienced more than one electrical stimulation.</p>
+<p id="P15">The data were analysed with each stimulus measured as an independent variable and the total number of stimulations given in the study was 172. Most patients (<italic>n</italic> = 49, 98%) experienced cerebral seizure activity (CSA) in this study and the one patient who did not underwent 5 electrical stimulations with no seizure. This patient did not experience asystole. The mean number of stimulations before experiencing CSA was 2.5. Our primary analysis was with asystole defined as 5 s without a QRS complex. With this definition, asystole occurred in 4/124 (3%) subconvulsive stimulations (95% CI 0.89 to 8.05%) and 5/48 (10%) convulsive stimulations (95% CI 3.47 to 22.66%). The number of subconvulsive stimulations is considerably higher than that of convulsive stimulations because, from the second stimulation onwards, the patient has experienced previous subconvulsive stimulations, but for convulsive stimulations the patient has not experienced any previous convulsive stimulations. Of the asystolic events, 6 occurred after a second electrical stimulation and the other 3 occurred after a third stimulation. Only one patient, a 70-year-old female with severe depression, experienced multiple episodes (2) of asystole, which were after her second (non-convulsive) and third (convulsive) electrical stimulation. The average age of the 8 patients who experienced asystole was 69.9 years and only 1 of them was male. Six of these patients were prescribed a combination of psychotropic medications and one was not prescribed any psychotropic drugs. Six of these patients had no documented history of cardiovascular disease.</p>
+<p id="P16">Secondary analysis carried out using a definition of asystole of 7 s without a QRS complex reduced the number of episodes of asystole to 2. One of these followed a convulsive stimulation in a 72-year-old female with severe depression and a history of hypertension and ischaemic heart disease with previous stent insertion. She was the only patient (of three) taking a beta-blocker (atenolol) to exhibit asystole. The other episode of asystole lasting longer than 7 s was in a 70-year-old female with severe depression without a history of cardiovascular disease. It followed a second non-convulsive stimulation, lasted 9.12 s and was therefore the longest period of asystole noted.</p>
+<p id="P17">A two-tailed Fisher&#x02019;s exact test, comparing convulsive and subconvulsive stimulations, did not reach statistical significance (<italic>P</italic> = 0.12), but the odds ratio was 3.46 (95% CI 0.71 to 18.27) suggesting that a patient was more likely to have an episode of asystole after convulsive rather than subconvulsive stimulation. We compared the first and second stimulations in patients who had two or more subconvulsive stimulations, using a paired <italic>t</italic>-test, and found that the mean time to the first QRS complex was statistically longer after a second subconvulsive stimulus (<italic>P</italic> = 0.04, 95% CI &#x02013;1.72 to &#x02013;0.04). We then compared the first and second stimulations in all patients who had two or more stimulations, regardless of whether they experienced
+<table-wrap id="T1" position="float">
+<label>Table 1</label>
+<caption>
+<p>Demographic of the study sample</p>
+</caption>
+<table frame="hsides" rules="groups">
+<colgroup span="1">
+<col align="left" valign="bottom" span="1" />
+<col align="center" valign="bottom" span="1" />
+<col align="center" valign="bottom" span="1" />
+<col align="center" valign="bottom" span="1" />
+</colgroup>
+<thead>
+<tr>
+<th rowspan="1" colspan="1" />
+<th rowspan="1" colspan="1">Asystole</th>
+<th rowspan="1" colspan="1">No asystole</th>
+<th rowspan="1" colspan="1">Whole sample</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">Total <italic>n</italic>
+</td>
+<td rowspan="1" colspan="1">8</td>
+<td rowspan="1" colspan="1">42</td>
+<td rowspan="1" colspan="1">50</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<hr />
+</td>
+<td rowspan="1" colspan="1">
+<hr />
+</td>
+<td rowspan="1" colspan="1">
+<hr />
+</td>
+<td rowspan="1" colspan="1">
+<hr />
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">Demographics</td>
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td rowspan="1" colspan="1">&#x000a0;,&#x000a0;,&#x000a0;,&#x000a0;Male, <italic>n</italic> (%)
+</td>
+<td rowspan="1" colspan="1">1 (12.5)</td>
+<td rowspan="1" colspan="1">12 (28.6)</td>
+<td rowspan="1" colspan="1">13 (26.0)</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">&#x000a0;,&#x000a0;,&#x000a0;,&#x000a0;Female, <italic>n</italic> (%)
+</td>
+<td rowspan="1" colspan="1">7 (87.5)</td>
+<td rowspan="1" colspan="1">30 (71.4)</td>
+<td rowspan="1" colspan="1">37 (74.0)</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">&#x000a0;,&#x000a0;,&#x000a0;,&#x000a0;Age, mean (s.d. range): years</td>
+<td rowspan="1" colspan="1">69.9 (54.0&#x02013;85.7)</td>
+<td rowspan="1" colspan="1">55.1 (38.8&#x02013;71.3)</td>
+<td rowspan="1" colspan="1">57.4 (40.5&#x02013;74.3)</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<hr />
+</td>
+<td rowspan="1" colspan="1">
+<hr />
+</td>
+<td rowspan="1" colspan="1">
+<hr />
+</td>
+<td rowspan="1" colspan="1">
+<hr />
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<italic>Diagnosis</italic>
+</td>
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td rowspan="1" colspan="1">Depression, <italic>n</italic> (%)
+</td>
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td rowspan="1" colspan="1">&#x000a0;,&#x000a0;,&#x000a0;,&#x000a0;Unspecified</td>
+<td rowspan="1" colspan="1">2 (25.0)</td>
+<td rowspan="1" colspan="1">4 (9.5)</td>
+<td rowspan="1" colspan="1">6 (12.0)</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">&#x000a0;,&#x000a0;,&#x000a0;,&#x000a0;Mild</td>
+<td rowspan="1" colspan="1">1 (12.5)</td>
+<td rowspan="1" colspan="1">0</td>
+<td rowspan="1" colspan="1">1 (2.0)</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">&#x000a0;,&#x000a0;,&#x000a0;,&#x000a0;Moderate</td>
+<td rowspan="1" colspan="1">0</td>
+<td rowspan="1" colspan="1">6 (14.3)</td>
+<td rowspan="1" colspan="1">6 (12.0)</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">&#x000a0;,&#x000a0;,&#x000a0;,&#x000a0;Severe without psychosis</td>
+<td rowspan="1" colspan="1">1 (12.5)</td>
+<td rowspan="1" colspan="1">11 (26.2)</td>
+<td rowspan="1" colspan="1">12 (24.0)</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">&#x000a0;,&#x000a0;,&#x000a0;,&#x000a0;Severe with psychosis</td>
+<td rowspan="1" colspan="1">4 (50.0)</td>
+<td rowspan="1" colspan="1">10 (23.8)</td>
+<td rowspan="1" colspan="1">14 (28.0)</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">Bipolar affective disorder, <italic>n</italic> (%)
+</td>
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td rowspan="1" colspan="1">&#x000a0;,&#x000a0;,&#x000a0;,&#x000a0;Moderate</td>
+<td rowspan="1" colspan="1">0</td>
+<td rowspan="1" colspan="1">1 (2.4)</td>
+<td rowspan="1" colspan="1">1 (2.0)</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">&#x000a0;,&#x000a0;,&#x000a0;,&#x000a0;Severe without psychosis</td>
+<td rowspan="1" colspan="1">0</td>
+<td rowspan="1" colspan="1">4 (9.5)</td>
+<td rowspan="1" colspan="1">4 (8.0)</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">&#x000a0;,&#x000a0;,&#x000a0;,&#x000a0;Severe with psychosis</td>
+<td rowspan="1" colspan="1">0</td>
+<td rowspan="1" colspan="1">2 (4.8)</td>
+<td rowspan="1" colspan="1">2 (4.0)</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">Schizophrenia</td>
+<td rowspan="1" colspan="1">0</td>
+<td rowspan="1" colspan="1">2 (4.8)</td>
+<td rowspan="1" colspan="1">2 (4.0)</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">Schizophrenia</td>
+<td rowspan="1" colspan="1">0</td>
+<td rowspan="1" colspan="1">2 (4.8)</td>
+<td rowspan="1" colspan="1">2 (4.0)</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">Schizophrenia + severe depression</td>
+<td rowspan="1" colspan="1">0</td>
+<td rowspan="1" colspan="1">1 (2.4)</td>
+<td rowspan="1" colspan="1">1 (2.0)</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">Severe depression with psychosis + Alzheimer&#x02019;s disease</td>
+<td rowspan="1" colspan="1">0</td>
+<td rowspan="1" colspan="1">1 (2.4)</td>
+<td rowspan="1" colspan="1">1 (2.0)</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<hr />
+</td>
+<td rowspan="1" colspan="1">
+<hr />
+</td>
+<td rowspan="1" colspan="1">
+<hr />
+</td>
+<td rowspan="1" colspan="1">
+<hr />
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">Psychotropic drugs, <italic>n</italic> (%)
+</td>
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td rowspan="1" colspan="1">&#x000a0;,&#x000a0;,&#x000a0;,&#x000a0;No</td>
+<td rowspan="1" colspan="1">1 (12.5)</td>
+<td rowspan="1" colspan="1">3 (7.1)</td>
+<td rowspan="1" colspan="1">4 (8.0)</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">&#x000a0;,&#x000a0;,&#x000a0;,&#x000a0;Single</td>
+<td rowspan="1" colspan="1">1 (12.5)</td>
+<td rowspan="1" colspan="1">7 (16.7)</td>
+<td rowspan="1" colspan="1">8 (16.0)</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">&#x000a0;,&#x000a0;,&#x000a0;,&#x000a0;Multiple</td>
+<td rowspan="1" colspan="1">6 (75.0)</td>
+<td rowspan="1" colspan="1">32 (76.2)</td>
+<td rowspan="1" colspan="1">38 (76.0)</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<hr />
+</td>
+<td rowspan="1" colspan="1">
+<hr />
+</td>
+<td rowspan="1" colspan="1">
+<hr />
+</td>
+<td rowspan="1" colspan="1">
+<hr />
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">History of cardiovascular diseaes, <italic>n</italic> (%)
+</td>
+<td rowspan="1" colspan="1">2 (25.0)</td>
+<td rowspan="1" colspan="1">10 (23.8)<xref ref-type="fn" rid="TFN2">
+<sup>a</sup>
+</xref>
+</td>
+<td rowspan="1" colspan="1">12 (24.0)</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<hr />
+</td>
+<td rowspan="1" colspan="1">
+<hr />
+</td>
+<td rowspan="1" colspan="1">
+<hr />
+</td>
+<td rowspan="1" colspan="1">
+<hr />
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">Beta-blocker prescribed, <italic>n</italic> (%)
+</td>
+<td rowspan="1" colspan="1">1 (12.5)</td>
+<td rowspan="1" colspan="1">4 (9.5)</td>
+<td rowspan="1" colspan="1">5 (10.0)</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<hr />
+</td>
+<td rowspan="1" colspan="1">
+<hr />
+</td>
+<td rowspan="1" colspan="1">
+<hr />
+</td>
+<td rowspan="1" colspan="1">
+<hr />
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">Anaesthetic agent, <italic>n</italic> (%)
+</td>
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td rowspan="1" colspan="1">&#x000a0;,&#x000a0;,&#x000a0;,&#x000a0;Propofol</td>
+<td rowspan="1" colspan="1">3 (37.5)</td>
+<td rowspan="1" colspan="1">9 (21.4)</td>
+<td rowspan="1" colspan="1">12 (24.0)</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">&#x000a0;,&#x000a0;,&#x000a0;,&#x000a0;Etomidate</td>
+<td rowspan="1" colspan="1">5 (62.5)</td>
+<td rowspan="1" colspan="1">33 (78.6)</td>
+<td rowspan="1" colspan="1">38 (76.0)</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<hr />
+</td>
+<td rowspan="1" colspan="1">
+<hr />
+</td>
+<td rowspan="1" colspan="1">
+<hr />
+</td>
+<td rowspan="1" colspan="1">
+<hr />
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">Type of ECT, <italic>n</italic> (%)
+</td>
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td rowspan="1" colspan="1">&#x000a0;,&#x000a0;,&#x000a0;,&#x000a0;Bilateral</td>
+<td rowspan="1" colspan="1">8 (100.0)</td>
+<td rowspan="1" colspan="1">39 (92.9)</td>
+<td rowspan="1" colspan="1">47 (94.0)</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">&#x000a0;,&#x000a0;,&#x000a0;,&#x000a0;Right unilateral</td>
+<td rowspan="1" colspan="1">0</td>
+<td rowspan="1" colspan="1">3 (7.1)</td>
+<td rowspan="1" colspan="1">3 (6.0)</td>
+</tr>
+</tbody>
+</table>
+<table-wrap-foot>
+<fn id="TFN1">
+<p>ECT, electroconvulsive therapy.</p>
+</fn>
+<fn id="TFN2">
+<label>a.</label>
+<p>Including pulmonary embolism + one decision based on medications suggestive of cardiovascular disease.</p>
+</fn>
+</table-wrap-foot>
+</table-wrap>
+<table-wrap id="T2" position="float">
+<label>Table 2</label>
+<caption>
+<p>Asystole in convulsive and subconvulsive stimuli</p>
+</caption>
+<table frame="hsides" rules="groups">
+<colgroup span="1">
+<col align="left" valign="top" span="1" />
+<col align="center" valign="top" span="1" />
+<col align="center" valign="top" span="1" />
+<col align="center" valign="top" span="1" />
+<col align="center" valign="top" span="1" />
+<col align="center" valign="top" span="1" />
+<col align="center" valign="top" span="1" />
+<col align="center" valign="top" span="1" />
+<col align="center" valign="top" span="1" />
+</colgroup>
+<thead>
+<tr>
+<th rowspan="1" colspan="1" />
+<th colspan="4" valign="bottom" rowspan="1">Cerebral seizure activity induced<hr />
+</th>
+<th colspan="4" valign="bottom" rowspan="1">No cerebral seizure activity induced<hr />
+</th>
+</tr>
+<tr>
+<th valign="bottom" rowspan="1" colspan="1">Stimulation</th>
+<th valign="bottom" rowspan="1" colspan="1">Convulsive <break />
+stimulations <break />
+<italic>n</italic>
+</th>
+<th valign="bottom" rowspan="1" colspan="1">Time to first <break />
+QRS, median <break />
+(range)<xref ref-type="fn" rid="TFN3">
+<sup>a</sup>
+</xref>
+</th>
+<th valign="bottom" rowspan="1" colspan="1">Asystole <break />
+<italic>n</italic>
+</th>
+<th valign="bottom" rowspan="1" colspan="1">Proportion <break />
+(95% CI)</th>
+<th valign="bottom" rowspan="1" colspan="1">Subconvulsive <break />
+stimulations <break />
+<italic>n</italic>
+</th>
+<th valign="bottom" rowspan="1" colspan="1">Time to first <break />
+QRS, median <break />
+(range)<xref ref-type="fn" rid="TFN3">
+<sup>a</sup>
+</xref>
+</th>
+<th valign="bottom" rowspan="1" colspan="1">Asystole <break />
+<italic>n</italic>
+</th>
+<th valign="bottom" rowspan="1" colspan="1">Proportion <break />
+(95% CI)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">1st</td>
+<td rowspan="1" colspan="1">3</td>
+<td rowspan="1" colspan="1">2.36 <break />
+(0.88&#x02013;3.00)</td>
+<td rowspan="1" colspan="1">0</td>
+<td rowspan="1" colspan="1">0.00 <break />
+(0&#x02013;0.71)</td>
+<td rowspan="1" colspan="1">46 <break />
+(+1 off-page)<xref ref-type="fn" rid="TFN4">
+<sup>b</sup>
+</xref>
+</td>
+<td rowspan="1" colspan="1">1.32 <break />
+(0.04&#x02013;4.84)</td>
+<td rowspan="1" colspan="1">0</td>
+<td rowspan="1" colspan="1">0.00 <break />
+(0&#x02013;0.08)</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<hr />
+</td>
+<td rowspan="1" colspan="1">
+<hr />
+</td>
+<td rowspan="1" colspan="1">
+<hr />
+</td>
+<td rowspan="1" colspan="1">
+<hr />
+</td>
+<td rowspan="1" colspan="1">
+<hr />
+</td>
+<td rowspan="1" colspan="1">
+<hr />
+</td>
+<td rowspan="1" colspan="1">
+<hr />
+</td>
+<td rowspan="1" colspan="1">
+<hr />
+</td>
+<td rowspan="1" colspan="1">
+<hr />
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">2nd</td>
+<td rowspan="1" colspan="1">20</td>
+<td rowspan="1" colspan="1">1.18 <break />
+(0.04&#x02013;7.08)</td>
+<td rowspan="1" colspan="1">2</td>
+<td rowspan="1" colspan="1">0.10 <break />
+(0.01&#x02013;0.32)</td>
+<td rowspan="1" colspan="1">27</td>
+<td rowspan="1" colspan="1">1.48 <break />
+(0.04&#x02013;9.12)</td>
+<td rowspan="1" colspan="1">4</td>
+<td rowspan="1" colspan="1">0.15 <break />
+(0.04&#x02013;0.34)</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<hr />
+</td>
+<td rowspan="1" colspan="1">
+<hr />
+</td>
+<td rowspan="1" colspan="1">
+<hr />
+</td>
+<td rowspan="1" colspan="1">
+<hr />
+</td>
+<td rowspan="1" colspan="1">
+<hr />
+</td>
+<td rowspan="1" colspan="1">
+<hr />
+</td>
+<td rowspan="1" colspan="1">
+<hr />
+</td>
+<td rowspan="1" colspan="1">
+<hr />
+</td>
+<td rowspan="1" colspan="1">
+<hr />
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">3rd</td>
+<td rowspan="1" colspan="1">21 <break />
+(+1 unreadable)<xref ref-type="fn" rid="TFN5">
+<sup>c</sup>
+</xref>
+</td>
+<td rowspan="1" colspan="1">1.88 <break />
+(0.04&#x02013;6.96)</td>
+<td rowspan="1" colspan="1">3</td>
+<td rowspan="1" colspan="1">0.14 <break />
+(0.03&#x02013;0.36)</td>
+<td rowspan="1" colspan="1">5</td>
+<td rowspan="1" colspan="1">1.36 <break />
+ (0.56&#x02013;3.84)</td>
+<td rowspan="1" colspan="1">0</td>
+<td rowspan="1" colspan="1">0.00 <break />
+(0&#x02013;0.52)</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<hr />
+</td>
+<td rowspan="1" colspan="1">
+<hr />
+</td>
+<td rowspan="1" colspan="1">
+<hr />
+</td>
+<td rowspan="1" colspan="1">
+<hr />
+</td>
+<td rowspan="1" colspan="1">
+<hr />
+</td>
+<td rowspan="1" colspan="1">
+<hr />
+</td>
+<td rowspan="1" colspan="1">
+<hr />
+</td>
+<td rowspan="1" colspan="1">
+<hr />
+</td>
+<td rowspan="1" colspan="1">
+<hr />
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">4th</td>
+<td rowspan="1" colspan="1">4</td>
+<td rowspan="1" colspan="1">1.52 <break />
+(0.04&#x02013;4.44)</td>
+<td rowspan="1" colspan="1">0</td>
+<td rowspan="1" colspan="1">0.00 <break />
+(0&#x02013;0.6)</td>
+<td rowspan="1" colspan="1">1</td>
+<td rowspan="1" colspan="1">0.56</td>
+<td rowspan="1" colspan="1">0</td>
+<td rowspan="1" colspan="1">0.01 <break />
+(0&#x02013;0.98)</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<hr />
+</td>
+<td rowspan="1" colspan="1">
+<hr />
+</td>
+<td rowspan="1" colspan="1">
+<hr />
+</td>
+<td rowspan="1" colspan="1">
+<hr />
+</td>
+<td rowspan="1" colspan="1">
+<hr />
+</td>
+<td rowspan="1" colspan="1">
+<hr />
+</td>
+<td rowspan="1" colspan="1">
+<hr />
+</td>
+<td rowspan="1" colspan="1">
+<hr />
+</td>
+<td rowspan="1" colspan="1">
+<hr />
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">5th</td>
+<td rowspan="1" colspan="1">0</td>
+<td rowspan="1" colspan="1">0</td>
+<td rowspan="1" colspan="1">0</td>
+<td rowspan="1" colspan="1">0.00</td>
+<td rowspan="1" colspan="1">1</td>
+<td rowspan="1" colspan="1">0.96</td>
+<td rowspan="1" colspan="1">0</td>
+<td rowspan="1" colspan="1">0.01 <break />
+(0&#x02013;0.98)</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<hr />
+</td>
+<td rowspan="1" colspan="1">
+<hr />
+</td>
+<td rowspan="1" colspan="1">
+<hr />
+</td>
+<td rowspan="1" colspan="1">
+<hr />
+</td>
+<td rowspan="1" colspan="1">
+<hr />
+</td>
+<td rowspan="1" colspan="1">
+<hr />
+</td>
+<td rowspan="1" colspan="1">
+<hr />
+</td>
+<td rowspan="1" colspan="1">
+<hr />
+</td>
+<td rowspan="1" colspan="1">
+<hr />
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<bold>Total</bold>
+</td>
+<td rowspan="1" colspan="1">
+<bold>48</bold>
+</td>
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1">
+<bold>0.10</bold>
+<break />
+<bold>(0.03-0.23)</bold>
+</td>
+<td rowspan="1" colspan="1">
+<bold>124</bold>
+</td>
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1">
+<bold>0.03</bold>
+<break />
+<bold>(0.01-0.08)</bold>
+</td>
+</tr>
+</tbody>
+</table>
+<table-wrap-foot>
+<fn id="TFN3">
+<label>a.</label>
+<p>Time given in seconds.</p>
+</fn>
+<fn id="TFN4">
+<label>b.</label>
+<p>Off-page: an ECG trace that went off the side of the page and could not be analysed.</p>
+</fn>
+<fn id="TFN5">
+<label>c.</label>
+<p>Unreadable: an ECG trace so distorted it could not be analysed.</p>
+</fn>
+</table-wrap-foot>
+</table-wrap>
+seizure activity (again using a paired <italic>t</italic>-test), and again found that the mean time to first QRS post-stimulation was significantly longer after a second stimulation (<italic>P</italic> = 0.03, 95% CI &#x02013;1.09 to &#x02013;0.05). We also compared the time to the first QRS complex after second and third stimulations in all patients who underwent three or more stimulations, using a paired <italic>t</italic>-test, but did not find a statistically significant difference (<italic>P</italic> = 0.36, 95% CI &#x02013;0.66 to 0.96).</p>
+<p id="P18">All episodes of asystole in this study resolved spontaneously without medical intervention.</p>
+</sec>
+<sec sec-type="discussion" id="S3">
+<title>Discussion</title>
+<p id="P19">Asystole (5 s without a QRS complex) occurred in 9 of 172 stimulations in this study (5%; 95% CI 0.02 to 0.10). As each episode of asystole resolved without medical intervention, our findings suggest that the empirical measurement of seizure threshold does not add to the cardiovascular risk of ECT, nor is there a need to routinely administer an anticholinergic drug. Contrary to expectation, asystole was more prevalent after convulsive than non-convulsive stimulation. We have also shown that time to the first QRS complex post-stimulation was longer in patients who received two subconvulsive stimulations rather than one. As increasing doses of electricity are given on subsequent stimulations when titrating up to seizure threshold, this could suggest that time to the first QRS complex simply increases together with the dose of electricity. This is supported by the fact that none of the episodes of asystole occurred after a patient&#x02019;s first electrical stimulation and that the comparison of first and second stimulations, regardless of whether or not seizure activity ensued, showed a statistically significant difference between the times to first QRS complex (<italic>P</italic> = 0.03, 95% CI &#x02013;1.09 to &#x02013;0.05). On the other hand, there was no statistically significant difference between second and third stimulations (<italic>P</italic> = 0.36, 95% CI &#x02013;0.66 to 0.96). This may be because the effect of increasing doses of electricity and/or absence of seizure activity is lost after a certain threshold, or because neither the electrical dose nor presence or absence of seizure activity are factors influencing the risk of asystole and the effect seen at previous stimulations may be due to small sample size. Further studies with a larger sample size would help to delineate this.</p>
+<p id="P20">Our results support those of Burd &#x00026; Kettl,<sup>
+<xref rid="R7" ref-type="bibr">7</xref>
+</sup> who found that although asystole was common in elderly patients undergoing ECT (364/1146, 40.1%), routine use of atropine was unnecessary because brief asystole was not associated with adverse outcome. Burd &#x00026; Kettl studied patients throughout ECT treatment courses, not just during stimulus titration, which may explain the difference in incidence of asystole observed in our study. They also refer to reports of asystole lasting up to 7 s and so we attempted to conduct a secondary analysis using a definition of 7 s without a QRS complex. However, in our sample there were only 2 episodes of asystole which exceeded 7 s (1 in a convulsive stimulation and 1 in which no convulsion was stimulated) and so no statistical analysis of these episodes could be performed. In 1996, McCall <italic>et al</italic>
+<sup>
+<xref rid="R10" ref-type="bibr">10</xref>
+</sup> used an even more conservative definition of asystole (10 s of ECG electrical silence) in an attempt to capture only pathological asystolic events. Using this cut-off there were no patients in our study who experienced asystole, again supporting the idea that the periods of electrical silence in our study were not pathological. Furthermore, only one of the patients in our study suffered more than one episode of asystole, which suggests that, for a given individual, one episode of asystole does not generally predict further similar events. A limitation of our study was that it was not possible to statistically analyse the other factors that could prolong the time to the first QRS complex, because of the small number of patients. Larger prevalence studies will be needed to further investigate these factors.</p>
+</sec>
+</body>
+<back>
+<fn-group>
+<fn fn-type="conflict">
+<p>
+<bold>Declaration of interest</bold> None.</p>
+</fn>
+</fn-group>
+<ack>
+<p id="P21">We thank Fiona Morrison, medical secretary supervisor, for her help with the production of the manuscript.</p>
+</ack>
+<ref-list>
+<title>References</title>
+<ref id="R1">
+<label>1</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Abrams</surname>
+<given-names>R</given-names>
+</name>
+</person-group>
+<source>Electroconvulsive Therapy</source> (<edition>4th edn</edition>).<publisher-name>Oxford University Press</publisher-name>,<year>2004</year>.
+</mixed-citation>
+</ref>
+<ref id="R2">
+<label>2</label>
+<mixed-citation publication-type="book">
+<collab>American Psychiatric Association Task Force 14</collab>.<source>Electroconvulsive Therapy</source>.<publisher-name>American Psychiatric Press</publisher-name>,<year>1978</year>.
+</mixed-citation>
+</ref>
+<ref id="R3">
+<label>3</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Decina</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Malitz</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Sackeim</surname>
+<given-names>HA</given-names>
+</name>
+<name>
+<surname>Holzer</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Yudofsky</surname>
+<given-names>S</given-names>
+</name>
+</person-group>
+<article-title>Cardiac arrest during ECT modified by beta-adrenergic blockade</article-title>.<source>Am J Psychiatry</source>
+<year>1984</year>;<volume>141</volume>:<fpage>298</fpage>&#x02013;<lpage>300</lpage>.
+<pub-id pub-id-type="pmid">6691502</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R4">
+<label>4</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="editor">
+<name>
+<surname>Waite</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Easton</surname>
+<given-names>A</given-names>
+</name>
+</person-group> (eds) <source>The ECT Handbook</source> (<edition>3rd edn</edition>).<publisher-name>RCPsych Publications</publisher-name>,<year>2013</year>.
+</mixed-citation>
+</ref>
+<ref id="R5">
+<label>5</label>
+<mixed-citation publication-type="book">
+<collab>American Psychiatric Association Committee on Electroconvulsive Therapy</collab>.<source>The Practice of Electroconvulsive Therapy: Recommendations for Treatment, Training and Privileging (A Task Force Report of the American Psychiatric Association)</source>.<publisher-name>APA</publisher-name>,<year>2001</year>.
+</mixed-citation>
+</ref>
+<ref id="R6">
+<label>6</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Bueno</surname>
+<given-names>CR</given-names>
+</name>
+<name>
+<surname>Rosa</surname>
+<given-names>MO</given-names>
+</name>
+<name>
+<surname>Rumi</surname>
+<given-names>DO</given-names>
+</name>
+<name>
+<surname>Ribeiro</surname>
+<given-names>RB</given-names>
+</name>
+<name>
+<surname>Rosa</surname>
+<given-names>MA</given-names>
+</name>
+</person-group>
+<article-title>Cardiovascular safety of the methods of limit titration procedure for electroconvulsive therapy dozing: a retrospective study</article-title>.<source>Brain Stim</source>
+<year>2011</year>;<volume>4</volume>:<fpage>43</fpage>&#x02013;<lpage>5</lpage>.
+</mixed-citation>
+</ref>
+<ref id="R7">
+<label>7</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Burd</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Kettl</surname>
+<given-names>P</given-names>
+</name>
+</person-group>
+<article-title>Incidence of asystole in electroconvulsive therapy in elderly patients</article-title>.<source>Am J Geriatr Psychiatry</source>
+<year>1998</year>;<volume>6</volume>:<fpage>203</fpage>&#x02013;<lpage>11</lpage>.
+<pub-id pub-id-type="pmid">9659953</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R8">
+<label>8</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Clopper</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Pearson</surname>
+<given-names>E</given-names>
+</name>
+</person-group>
+<article-title>The use of confidence or fiducial limits illustrated in the case of the binomial</article-title>.<source>Biometrika</source>
+<year>1934</year>;<volume>26</volume>:<fpage>404</fpage>&#x02013;<lpage>13</lpage>.
+</mixed-citation>
+</ref>
+<ref id="R9">
+<label>9</label>
+<mixed-citation publication-type="book">
+<collab>Scottish ECT Accreditation Network</collab>.<source>Annual Report 2009</source>.<publisher-name>NHS National Services Scotland</publisher-name>,<year>2009</year>.
+</mixed-citation>
+</ref>
+<ref id="R10">
+<label>10</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>McCall</surname>
+<given-names>WV</given-names>
+</name>
+<name>
+<surname>Reid</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Ford</surname>
+<given-names>M</given-names>
+</name>
+</person-group>
+<article-title>Electrocardiographic and cardiovascular effects of subconvulsive stimulation during titrated right unilateral ECT</article-title>.<source>Convuls Ther</source>
+<year>1994</year>;<volume>10</volume>:<fpage>25</fpage>&#x02013;<lpage>33</lpage>.
+<pub-id pub-id-type="pmid">8055289</pub-id>
+</mixed-citation>
+</ref>
+</ref-list>
+</back>
+</article>

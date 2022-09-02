@@ -1,0 +1,996 @@
+=======================================================================================================================================================================
+Glutamine and GABA alterations in cingulate cortex may underlie alcohol drinking in a rat model of co-occurring alcohol use disorder and schizophrenia: an 1H-MRS study
+=======================================================================================================================================================================
+
+Patrick McCunn
+Xi Chen
+Barjor Gimi
+Alan I. Green
+Jibran Y. Khokhar
+:Date: 2022-8-23
+
+:Abstract:
+   Alcohol use disorder commonly occurs in patients with schizophrenia
+   and significantly worsens the clinical course of the disorder. The
+   neurobiological underpinnings of alcohol drinking are not well
+   understood. Magnetic resonance spectroscopy (MRS) has been used to
+   assess the neurochemical substrates that may be associated with
+   alcohol drinking in patients; however, the causal impact of these
+   findings remains elusive, highlighting the need for studies in animal
+   models. This study performed MRS in the neonatal ventral hippocampal
+   lesioned (NVHL) rat model, a model of co-occurring schizophrenia and
+   substance use disorders. NVHL lesions (or sham surgeries) were
+   performed on post-natal day 7 and animals were given brief exposure
+   to alcohol during adolescence (10% v/v in a 2-bottle choice design).
+   Animals were re-exposed to alcohol during adulthood (20% v/v) until a
+   stable drinking baseline was established, and then forced into
+   abstinence to control for the effects of differential alcohol
+   drinking. Animals were scanned for MRS after one month of abstinence.
+   NVHL rats consumed significantly more alcohol than sham rats and in
+   the cingulate cortex showed significantly higher levels of GABA and
+   glutamine. Significantly lower GABA levels were observed in the
+   nucleus accumbens. No differences between the NVHL and sham animals
+   were observed in the hippocampus. Correlation analysis revealed that
+   GABA and glutamine concentrations in the cingulate cortex
+   significantly correlated with the rats’ alcohol drinking prior to 30
+   days of forced abstinence. These findings suggest that a potential
+   dysfunction in the glutamate/GABA–glutamine cycle may contribute to
+   alcohol drinking in a rat model of schizophrenia, and this
+   dysfunction could be targeted in future treatment-focused studies.
+
+
+.. contents::
+   :depth: 3
+..
+
+pmc
+.. _Sec1:
+
+Introduction
+============
+
+Alcohol use disorders (AUD) commonly occur in patients with
+schizophrenia (43–65%)\ :sup:`(Volkow 2009)`; this use significantly
+worsens the course of the disorder contributing to poor treatment
+response, treatment non-compliance\ :sup:`(Owen et al. 1996)`,
+relapse\ :sup:`(Drake and Mueser 1996),(Gupta et al. 1996)`,
+violence\ :sup:`(Bartels et al. 1991),(Swanson et al. 1990)`, and
+suicide\ :sup:`(Allebeck et al. 1987),(Harkavy-Friedman and Nelson
+1997)`. Unfortunately, both the current understanding of, and treatment
+options for, co-occurring alcohol use in patients with schizophrenia are
+limited. The most effective current treatment, the atypical
+antipsychotic clozapine, is rarely used due to its side-effect
+profile\ :sup:`(Khokhar, Henricks, et al. 2018)`, underscoring the need
+to new treatment development and investigation of potential therapeutic
+targets.
+
+While the self-medication hypothesis is often used to explain alcohol
+and other substance use in patients with schizophrenia, we, and others,
+have advanced an alternative unifying hypothesis that suggests that
+co-occurring substance use may be related to shared genetic
+susceptibility or brain reward circuit dysfunction, that makes these
+patients especially vulnerable to the effects of
+substances\ :sup:`(Chambers, Krystal, and Self 2001)–(Khokhar, Dwiel, et
+al. 2018)`. Altered glutamatergic neurotransmission in particular has
+been heavily implicated in both schizophrenia and alcohol use disorder
+and may provide a potential mechanistic link to the neurobiological
+underpinnings of the increased predisposition to alcohol
+drinking\ :sup:`(Hartwell, Tolliver, and Brady 2009)`. Previous work has
+suggested that alterations in glutamine-glutamate metabolism may in fact
+predate alcohol abuse\ :sup:`(Thoma 2011)`, leading to the question of
+whether schizophrenia-induced glutamatergic dysfunction may be a
+contributor to AUD. However, glutamatergic neurotransmission remains
+difficult to measure in-vivo, thereby making it difficult to quantify
+dysfunction in the glutamate/GABA–glutamine cycle\ :sup:`(Li, Yang, and
+Lin 2019)`.
+
+Proton magnetic resonance spectroscopy (MRS) is a useful methodology
+that is often used to study the neurochemical correlates of psychiatric
+illness. Particularly relevant to this study, MRS allows for the
+assessment of glutamatergic function and dysfunction via the measurement
+of in-vivo concentrations of amino acid-based neurotransmitters and
+their metabolites (i.e., GABA, glutamine, and glutamate) within specific
+regions of the brain specified by three-dimensional spectroscopy voxels.
+Employing this technique in rodent models can allow for replication into
+animal models of metabolite concentration changes reported in MRS
+studies of human patients for further validation of the models, to
+establish causality, to identify therapeutic targets, and to use MRS
+measurements as outcome measures in treatment development.
+
+Compounding the difficulty of detecting subtle neurobiological
+alterations, is the difficulty in developing accurate heuristic models
+in animals that adequately capture the features of clinical presentation
+in humans; this process becomes particularly difficult when modeling
+co-occurring disorders such as schizophrenia and AUD\ :sup:`(Menne and
+Chesworth 2020)`. To model “dual-diagnosis” in patients, we employed an
+established animal model of schizophrenia and co-occurring alcohol use
+disorder built upon the neonatal ventral hippocampal lesioned (NVHL)
+rat\ :sup:`(Khokhar and Todd 2018)–(Jenkins et al. 2022)`, which is one
+of the best-described animal models of SCZ\ :sup:`(Lipska and Weinberger
+2002)`. This animal (experimentally created by producing an excitotoxic
+lesion in the ventral hippocampus in a 7-day old rat) has strong
+construct, face, and predictive validity for
+schizophrenia\ :sup:`(Tseng, Chambers, and Lipska 2009)`, and displays
+behavioral and neurobiological dysfunctions analogous to those seen in
+patients with schizophrenia. Moreover, like patients with
+schizophrenia\ :sup:`(Volkow 2009)`, NVHL rats display enhanced
+sensitivity to, and increased use of, alcohol\ :sup:`(Jeanblanc
+2015),(Conroy, Rodd, and Chambers 2007)`, cocaine\ :sup:`(Chambers and
+Self 2002)–(Karlsson et al. 2013)`, nicotine\ :sup:`(Berg et al. 2014)`,
+ketamine\ :sup:`(Vohs et al. 2012)`, and methamphetamine\ :sup:`(Brady
+et al. 2008)` as well as altered rewarding effects of
+cannabinoids\ :sup:`(Gallo, Bouchard, and Rompré 2014),(Gallo et al.
+2014)`. It has been shown that this model shows consistent circuit
+dysfunctions with those observed in patients with schizophrenia, and
+that cannabis vapor exposure can worsen these
+dysfunctions\ :sup:`(Jenkins et al. 2022),(Jenkins and Khokhar 2021)`.
+We have recently shown that the NVHL rat model of schizophrenia and
+alcohol use disorder, initially described by ref. :sup:`(Jeanblanc
+2015)`, can be used to understand the behavioral and neurobiological
+underpinnings of this disorder, specifically showing that impairments in
+switching behaviors (as measured by a latent inhibition of autoshaping
+task) contribute to the risk for alcohol drinking in this
+model\ :sup:`(Khokhar and Todd 2018)`.
+
+In this study, we utilized MRS in the cingulate cortex, nucleus
+accumbens, and hippocampus to assess the relationship between
+glutamatergic dysfunction and alcohol drinking in a rat model of
+co-occurring AUD and schizophrenia. Glutamine and glutamate levels are
+known to normalize to baseline levels by 3-weeks after last alcohol
+exposure\ :sup:`(Hermann 2012)`, therefore NVHL rats with established
+alcohol drinking were forced into abstinence for a month. We aimed to
+replicate and extend previous findings from abstinent patients with a
+history of alcohol use disorder\ :sup:`(Thoma 2011)` while ensuring that
+the differential levels of drinking between the NVHL and sham rats did
+not confound our findings. Further, based on these previous
+findings\ :sup:`(Thoma 2011)`, we hypothesized that glutamatergic
+dysfunction would correlate with alcohol consumption prior to 30-day
+abstinence, supporting a potential contributing effect of this
+dysfunction to alcohol drinking in our model, and by extension to AUD in
+patients with schizophrenia.
+
+.. _Sec2:
+
+Methods and materials
+=====================
+
+.. _Sec3:
+
+Subjects
+--------
+
+Timed pregnant Sprague-Dawley dams were ordered from Charles River
+(Wilmington, MA) to arrive at gestational day 13 and were singly housed
+with ad libitum access to food and water. Male rat pups used in the
+study were individually housed in a colony room maintained on a 14:10 h
+light-dark cycle. Experimentation took place during the light period of
+the cycle. Rats were monitored and cared for in compliance with the
+Association for Assessment and Accreditation of Laboratory Care
+guidelines and the IACUC of Dartmouth College.
+
+.. _Sec4:
+
+NVHL preparation and surgery
+----------------------------
+
+Male Sprague-Dawley rat pups (*n* = 11) on post-natal day 7 (PND 7,
+15–20 g) were anesthetized using hypothermia and placed on a Styrofoam
+platform attached to a stereotactic apparatus (Kopf Instruments,
+Tujunga). For the NVHL group, pups (*n* = 6) were bilaterally injected
+with excitotoxic ibotenic acid (3.0 μg ibotenic acid [Tocris,
+Minneapolis] dissolved in 0.3 μl of artificial cerebrospinal fluid
+(aCSF; 150 μM Na, 3.0 μM K, 1.4 μM, Ca, 0.8 μM Mg, 1.0 μM P, and 155 μM
+Cl; pH 7.4)\ :sup:`(Chambers and Lipska 2011)` into their ventral
+hippocampi (AP −3.0 mm, ML ± 3.5 mm, VD ± 5.0 mm relative to bregma).
+The remaining pups (*n* = 5) were injected with aCSF at the same
+coordinates (Sham, unlesioned). After the surgery, wounds were closed
+using tissue glue, and rats were returned to their dams when activity
+level had returned to normal. On PND21, rats were weaned and housed
+individually for the duration of the study to allow for individual
+measurement of alcohol drinking.
+
+.. _Sec5:
+
+Alcohol drinking in adolescence and adulthood
+---------------------------------------------
+
+To ensure that the NVHL rats would be susceptible to drinking alcohol
+preferentially in adulthood, we followed the protocol of Jeanblanc et
+al.\ :sup:`(Jeanblanc 2015)`, in which the rats were given access to
+alcohol in a free-access 2-bottle (water and 10% alcohol v/v in
+spill-proof bottles) design between PND 28 and 42. At the end of this
+period, the alcohol bottle was removed, and the rats only had access to
+water until they reached adulthood. Water, alcohol, and food intake as
+well as body weight were measured daily during PND 28–42 and then again
+in adulthood upon resumption of alcohol drinking. Alcohol was then
+reintroduced to the rats in adulthood (PND 90) in a continuous-access
+2-bottle choice (water and 20% alcohol v/v) design. The two bottles were
+rotated daily to prevent positional preference, consistent with our
+previous investigations\ :sup:`(Khokhar and Green 2016)`. Animals were
+allowed to drink until their drinking stabilized (4 days with less than
+10% variance in drinking) and were allowed to drink at these levels for
+30 days, followed by forced abstinence. Since glutamine and glutamate
+levels normalize to baseline levels by 3-weeks after last alcohol
+exposure\ :sup:`(Hermann 2012)`, we chose to scan the animals 30 days
+after the last alcohol drinking day.
+
+.. _Sec6:
+
+MRI methods
+-----------
+
+All MRI scans were performed on an Agilent 9.4T animal scanner using
+VnmrJ 4.0A software located at the Dartmouth-Hitchcock Medical Center,
+with a RAPID 2 channel volume coil as a transmitter and a 4-channel
+phase-array surface coil as receiver. Rats were anesthetized with an
+isoflurane-oxygen mixture (5% for induction and 2.0–2.5% for
+maintenance) and the respiration rate was maintained between 40 and 60
+respiration per minute. The rectal temperature was kept at 36.5 °C using
+a blown hot air system. The sagittal/axial anatomic images were acquired
+using a multiple spin-echo sequence (TR/TE = 2000/12 ms, echo
+number = 8, average = 4) with the anterior commissure used as a landmark
+for axial image positioning. Imaging voxel size was
+0.16 × 0.16 × 1 mm\ :sup:`3`.
+
+MRS data were acquired from the cingulate cortex
+(1.8 × 1.6 × 3.6 mm\ :sup:`3`), dorsal hippocampus
+(1.8 × 0.8 × 2.6 mm\ :sup:`3`) and nucleus accumbens
+(1.6 × 1.8 × 2.4 mm\ :sup:`3`) using the spectroscopic voxels listed.
+For all acquisitions, an optimized short TE PRESS sequence
+(TE/TR = 14/2000 ms) was used. The spectroscopic voxel sizes and precise
+locations of placement were chosen according to ref. :sup:`(n.d.)` and
+inclusion of CSF and white matter in the voxels was minimized. 3D
+shimming was performed before each MRS acquisition such that the
+linewidth of the water from each spectroscopic voxel was <14 Hz. The
+number of averages used, and acquisition time were 768 (28 min), 1024
+(38 min), and 1536 (56 min) for the cingulate cortex, hippocampus, and
+nucleus accumbens, respectively. To minimize chemical shift displacement
+error for neurotransmitters of interest (Glu, Gln, GABA), the center
+frequencies of the localization radiofrequency pulses of the PRESS
+sequence were set to 2.3 ppm. Water suppression was performed using the
+variable pulse power and optimized relaxation delays water suppression
+(VAPOR) scheme\ :sup:`(Tkáč et al. 1999)` using Gaussian-shaped
+suppression pulses with a bandwidth of 200 Hz, prior to acquisition of
+water-suppressed MRS data. For each region, unsuppressed water signal
+was also acquired using the same sequence, except with the RF pulses
+turned off during the VAPOR scheme. For acquisition of the water signal,
+the RF pulses were centered on the water signal at 4.7 ppm. Data were
+acquired in a metabolite-water interleaved fashion, with 16 averages of
+unsuppressed water signal acquired between 8-min blocks of
+water-suppressed acquisition (256 averages).
+
+Preprocessing of the MRS data was performed in the console software
+VnmrJ 4.0 with macros written in-house. Signals from different coil
+channels were combined, and phase and frequency corrections of
+water-suppressed metabolite spectra were done. Since acquisition was
+done in an interleaved fashion, metabolite spectra acquired during each
+8-minute block were phase and frequency corrected using the water
+spectrum acquired afterward as a reference, for the slow drifts caused
+by the magnet and potential animal movements during the long acquisition
+time. Processing of acquired metabolite spectra, spectral fitting, and
+metabolite quantification was performed with LCModel\ :sup:`(Provencher
+1993)` version 3.6-1H. A basis set consisting of simulated metabolite
+spectra produced in VeSPA\ :sup:`(Soher et al. 2011)` with the same
+acquisition parameters and an experimentally acquired macromolecule
+spectrum were provided to LCModel for spectral fitting. The
+macromolecule spectrum was acquired from a whole brain spectroscopic
+voxel and was included in the basis set to account for the macromolecule
+baseline present in the spectra due to the short TE used. The
+unsuppressed water signal was provided to LCModel for both the eddy
+current correction as well as the reference signal for metabolite
+concentration calculation.
+
+.. _Sec7:
+
+Lesion verification and analysis
+--------------------------------
+
+After euthanasia, the rat brains were removed and flash frozen. Lesions
+were verified via 40 mm sections of the dorsal and ventral hippocampus
+using a freezing microtome, that were mounted on glass slides and
+thionin stained. The hippocampus was examined for bilateral damage
+microscopically (typically includes cell loss, thinning, cellular
+disorganization, and ventricular enlargement).
+
+.. _Sec8:
+
+Data analysis
+-------------
+
+An unpaired Student’s *t*-test was applied to compare alcohol
+consumption between the Sham and NVHL groups and neurometabolite
+concentration between the Sham and NVHL groups. When statistically
+significant differences were detected in neurometabolite concentrations
+a Pearson correlation analysis was used to determine the correlation
+between alcohol drinking and neurometabolite concentration. For all
+statistical analysis, *p* < 0.05 was taken as statistically significant.
+The data that supports the findings of this study is available from OSF
+at https://osf.io/d8xrs/.
+
+.. _Sec9:
+
+Results
+=======
+
+.. _Sec10:
+
+Histology
+---------
+
+All NVHL rats displayed bilateral lesions of the hippocampus, whereas no
+lesions were observed in the sham animals. Representative
+photomicrographs depicting lesion location and extent are presented in
+Fig. `1 <#Fig1>`__.Fig. 1Schematic and representative photomicrographs
+depicting lesion extent and location in NVHL rats.Arrows point to a
+lesion in a representative NVHL rat’s ventral hippocampus
+photomicrographs (right) compared to a sham rat (left).
+
+.. _Sec11:
+
+MRS
+---
+
+Figure `2 <#Fig2>`__ shows a representative LCModel fitting of spectra
+in the cingulate cortex, hippocampus, and nucleus accumbens of NVHL and
+sham rats with the spectroscopic voxel marked on axial/sagittal images.
+Quality control data including the linewidth, SNR, and the Cramer-Rao
+lower bound are summarized in Table `1 <#Tab1>`__.Fig. 2LCModel fitting
+and voxel positions.LCModel fittings (red line) of the experimental
+spectra (black line) of the cingulate cortex (top), hippocampus
+(middle), and nucleus accumbens (bottom) of representative NVHL and sham
+rats, with inset showing the voxel position.Table 1Cramer-Rao lower
+bound (CRLB), Linewidth (Hz), and Signal to Noise Ratio (SNR) of the
+cingulate cortex, hippocampus, and nucleus accumbens of all
+spectra.CRLBLinewidth (Hz)SNRGABAGluGlnCingulate
+Cortex23 ± 7%4.0 ± 0.3%15 ± 5%9 ± 218 ± 4Hippocampus28 ± 8%7 ± 2%24 ± 9%8 ± 214 ± 2Nucleus
+Accumbens26 ± 6%7 ± 1%18 ± 8%10 ± 29 ± 4
+
+.. _Sec12:
+
+Alcohol consumption
+-------------------
+
+Alcohol consumption was measured as an average of the last three days
+before forced abstinence in both the sham and NVHL groups. Consistent
+with our previous findings, results of the t-test revealed NVHL rats
+drank significantly more alcohol than the sham group
+(NVHL = 4.65 ± 0.77 g/kg, Sham = 2.92 ± 0.78 g/kg, *p* < 0.001, Fig.
+`3 <#Fig3>`__). No differences in alcohol drinking were observed between
+NVHL and sham rats during adolescence.Fig. 3Higher levels of alcohol
+drinking in NVHL rats compared to sham rats.NVHL rats drank
+significantly more alcohol than the sham group measured as an average of
+the last 3 days before withdrawal (sham = 2.92 ± 0.78 g/kg,
+NVHL = 4.65 ± 0.77 g/kg). Statistically significant differences are
+denoted by \* (*p* < 0.001; *n* = 6 NVHL, 5 sham). Data are shown as
+mean ± SD. Individual data points are denoted with a (+) Sham or (x)
+NVHL.
+
+.. _Sec13:
+
+Neurometabolites
+----------------
+
+In the cingulate cortex of the NVHL group, a t-test revealed both GABA
+and Gln concentrations were statistically significantly higher than the
+sham group (GABA: *p* = 0.0061, Cohen’s *d*: 5.0365; Gln: *p* = 0.0412,
+Cohen’s *d*: 3.1967), while Glu showed no statistically significant
+difference. In the nucleus accumbens of the NVHL group only GABA
+concentrations were statistically significantly lower than the sham
+group (*p* = 0.0367, Cohen’s *d*: 3.2347), while Gln and Glu showed no
+statistically significant difference. There were no statistically
+significant differences in concentrations of the three metabolites in
+the hippocampus. Table `2 <#Tab2>`__ and Fig. `4 <#Fig4>`__ provide the
+complement of results of metabolites in all three brain regions in both
+groups.Table 2Average concentrations (mM ± Standard Deviation) of GABA,
+glutamine (Gln), and glutamate (Glu) in the cingulate cortex,
+hippocampus, and nucleus accumbens of NVHL and sham rats.Averaged
+Concentrations (mM ± Standard Deviation) for
+NeurometabolitesGABAGlutamineGlutamateCingulate Cortex Sham2.7262 ±
+0.20333.6062 ± 0.433714.3130 ± 0.7289 NVHL3.7113 ± 0.18754.7500 ±
+0.252015.4058 ± 0.4597 *p* value\ **0.0061\*0.0412\***\ 0.2212Nucleus
+Accumbens Sham2.9850 ± 0.43195.5076 ± 0.889211.7468 ± 0.8883 NVHL1.9210
+± 0.17285.0982 ± 0.507912.7987 ± 0.4506 *p*
+value\ **0.0367\***\ 0.68580.2940Hippocampus Sham3.6268 ± 1.19334.7470 ±
+0.645813.0428 ± 1.3991 NVHL3.4128 ± 0.49444.4908 ± 1.732213.5497 ±
+1.3989 *p* value0.63850.27220.1184Values showing statistically
+significant differences (*p* < 0.05) between groups are bolded and
+represented with \*. Data are shown as mean ± SD.Fig. 4Higher cingulate
+glutamine and GABA, but lower nucleus accumbens GABA, levels in NVHL
+rats.In the cingulate cortex (**A**), GABA and glutamine concentrations
+were significantly higher in the NVHL rat compared to the sham rats. In
+the nucleus accumbens (**B**) of the NVHL group, GABA concentrations
+were significantly lower than the sham group. No differences between
+groups were observed in the dorsal hippocampus (**C**). Statistically
+significant differences between groups are represented with \*
+(*p* < 0.05; *n* = 6 NVHL, 5 sham). Data are shown as mean ± SD.
+Individual data points are denoted with a (+) Sham or (x) NVHL.
+
+.. _Sec14:
+
+Correlation analysis
+--------------------
+
+Performing a Pearson correlation between alcohol drinking (taken as the
+average of the last 3 days of alcohol drinking prior to 30 days of
+abstinence) and the neurometabolites as measured by MRS, it was found
+that alcohol drinking showed a positive correlation to both GABA and Gln
+in the cingulate cortex (GABA: *r*\ (9) = 0.7662, *p* = 0.0060, Cohen’s
+*d*: 2.3847; Gln: *r*\ (9) = 0.7497, *p* = 0.0079, Cohen’s *d*: 2.2657).
+No other statistically significant correlations were found. Refer to
+Table `3 <#Tab3>`__ and Fig. `5 <#Fig5>`__ for full results.Table
+3Pearson Correlation analysis of alcohol consumption (g/kg) and
+neurometabolites (mM).Alcohol and GABAAlcohol and GlutamineAlcohol and
+GlutamateCingulate Cortex Pearson *r*\ 0.76620.74970.3919
+*t*\ 3.57693.39871.2779 *p* value\ **0.0060\*0.0079\***\ 0.2332Nucleus
+Accumbens Pearson *r*\ −0.3599−0.21210.3206 *t*\ 1.15760.65101.015 *p*
+value0.27680.53130.3364Hippocampus Pearson *r*\ −0.0495−0.0956−0.2204
+*t*\ 0.14860.28810.6780 *p* value0.88520.77980.5148Alcohol drinking
+showed a positive correlation to both GABA (*r*\ (9) = 0.7662,
+*p* = 0.0060) and Glutamine concentration (*r*\ (9) = 0.7497,
+*p* = 0.0079) as measured by Magnetic Resonance Spectroscopy (MRS)
+(*n* = 6 NVHL, 5 sham).Values showing statistically significant
+differences (*p* < 0.05) between groups are bolded and represented with
+\*.Fig. 5Glutamine and GABA levels in the cingulate cortex correlate
+with alcohol drinking prior to abstinence.Pearson correlation between
+(left) alcohol consumption (g/kg) and GABA (mM), and (right) alcohol
+consumption (g/kg) and glutamine concentration (mM) in the cingulate
+cortex. Alcohol drinking showed a positive correlation between both GABA
+(*r*\ (9) = 0.7662, *p* = 0.0060) and glutamine concentration
+(*r*\ (9) = 0.7497, *p* = 0.0079) as measured by magnetic resonance
+spectroscopy (MRS) (*n* = 6 NVHL, 5 sham). Individual data points are
+denoted with a (+) Sham or (x) NVHL.
+
+.. _Sec15:
+
+Discussion
+==========
+
+This study utilized MRS to assess the relationship between glutamatergic
+dysfunction and alcohol drinking in a neurodevelopmental rat model of
+co-occurring AUD and schizophrenia. Consistent with our previous
+findings, the NVHL rats showed significantly higher alcohol consumption
+(who then underwent 30 days of abstinence prior to being scanned for
+neurometabolite levels). Proton MRS in the cingulate cortex revealed
+significantly higher levels of GABA and glutamine while significantly
+lower GABA levels were also observed in the nucleus accumbens. No
+differences in neurometabolite levels in the hippocampus were observed
+between the NVHL and sham animals. In the cingulate cortex both GABA and
+glutamine showed a positive correlation with the amount of alcohol
+consumed prior to 30 days of forced abstinence. No statistically
+significant changes were observed in the hippocampus, despite being the
+site of the lesions; it should be noted though that MRS was collected in
+the dorsal hippocampus. These findings provide support that
+glutamatergic dysfunction may be related to alcohol drinking and may
+contribute to co-occurring alcohol use disorder in patients with
+schizophrenia.
+
+While the neurometabolic correlates of dual-diagnosis schizophrenia and
+alcohol have not been studied explicitly, glutamatergic dysfunction is
+known to occur in both schizophrenia alone and in AUD alone. The
+increased glutamine observed in the cingulate cortex in our study is
+consistent with previous reports in pharmacological animal models of
+schizophrenia\ :sup:`(Napolitano 2014)` and in patients with
+schizophrenia\ :sup:`(Théberge 2002),(Bustillo 2010)`. Our findings of
+the elevated GABA in the same region are in line with a recent report on
+chronic schizophrenia\ :sup:`(Öngür et al. 2010)`, while the reduced
+GABA levels in the nucleus accumbens of decreased GABA are also
+consistent with post-mortem findings from patients with
+schizophrenia\ :sup:`(Spokes et al. 1980)`, consistent with decreases in
+glutamic acid decarboxylase 67 (GAD67, the enzyme that converts
+glutamate to GABA) mRNA in the nucleus accumbens in patients with
+schizophrenia\ :sup:`(Thompson et al. 2009)`. Further, the increase in
+glutamine in the cingulate cortex has also been observed in human
+subjects with current AUD and those in remission\ :sup:`(Thoma 2011)`.
+Together, these findings indicate that the dysfunction of the
+glutamate/GABA–glutamine cycle observed in the NVHL model appears to be
+similar to the dysfunctions seen in patients with schizophrenia and/or
+AUD alone. Interestingly, no differences in neurometabolite levels in
+the dorsal hippocampus were observed. These findings contrast previous
+studies which suggest lower GAD67 expression in the dorsal
+hippocampus\ :sup:`(Feleder et al. 2009)`; however, these findings were
+specific to the CA1 region suggesting that the dorsal hippocampus voxel
+may not have captured the sub-region-related changes. Importantly, to
+our knowledge, none of the MRS studies of patients with schizophrenia
+have focused on the posterior hippocampus (dorsal hippocampus in
+primates)\ :sup:`(Duarte and Xin 2019)`. These findings lend some
+support for the NVHL model as a potentially useful heuristic studying
+schizophrenia and alcohol use disorder, which we can now begin to
+manipulate pharmacologically toward treatment development. However, it
+is possible that the neurometabolic correlates of the co-occurring
+disorder are distinct from those of the two disorders alone, thereby
+supporting the need for more studies in dual diagnosis patients to gain
+a better understanding of the mechanisms contributing to the development
+of AUD in patients with schizophrenia.
+
+Previous work has shown that glutamine and glutamate levels normalize to
+baseline levels by 3-weeks after last alcohol exposure in the rat
+brain\ :sup:`(Hermann 2012)`. In order to control for the potential
+effects of the higher levels of alcohol drinking in the NVHL rats, rats
+in this study were forced into abstinence for 30 days prior to MRS
+acquisition; therefore, the higher glutamine levels are unlikely to be
+due to the effects of higher alcohol consumption or withdrawal from
+alcohol drinking. The presence of the higher glutamine levels even after
+these 30 days, and the correlation between GABA and glutamine levels and
+past drinking, also supports previous hypotheses from studies in
+patients with AUD\ :sup:`(Thoma 2011)` that glutamatergic dysfunction
+may predate alcohol exposure and could contribute to the vulnerability
+for AUD in patients (with or without schizophrenia). Another recent
+study in patients with AUD undergoing monitored abstinence found
+prospective associations between anterior cingulate glutamine levels
+(but not GABA which was found to be significantly increased) and heavy
+drinking, craving and withdrawal symptoms\ :sup:`(Prisciandaro 2020)`.
+This is further supported by MRS studies in substance-naïve adolescents
+with a family history of AUD, where the glutamine to glutamate ratio
+correlated with impulsive behaviors, suggesting a role for glutamatergic
+dysfunction in the vulnerability toward alcohol
+use\ :sup:`(Cohen-Gilbert 2015)`. Moreover, craving during
+detoxification in alcohol-dependent individuals is also related to
+combined glutamine-glutamate levels in the cingulate
+cortex\ :sup:`(Bauer 2013)`. However, it is still possible that the
+higher levels of alcohol drinking and withdrawal in the NVHL rats
+contributed to increases in the packing density of glutamine synthetase
+expressing astrocytes\ :sup:`(Miguel-Hidalgo 2006)`, which might have
+contributed to the greater conversion of glutamate to glutamine.
+Alternatively, since astrocytic genes are often upregulated in brains
+from patients with schizophrenia\ :sup:`(Ramaker 2017)`, it is possible
+that the higher levels of glutamine are related to such upregulation in
+the NVHL rat, and not due to alcohol drinking. Future studies will
+assess neurometabolite levels prior to initiation of alcohol drinking to
+assess the potential predictive potential of cingulate cortex glutamine
+levels on alcohol drinking, while also uncovering what roles alcohol
+drinking and astrocyte expression might contribute to the glutamatergic
+dysfunction observed here.
+
+The current study does have some limitations, the most important of
+which is the lack of sham and NVHL groups with no alcohol exposure
+during adolescence. This limits our ability to assess the differential
+effect of adolescent alcohol exposure as it relates to the NVHL model
+(aside from its known impact on inducing alcohol drinking in adulthood).
+It could be the NVHL surgery, the alcohol drinking during adolescence,
+or the interaction between these factors, has led to the glutamatergic
+dysfunction observed in the current study. Furthermore, the limited
+sample sizes do not permit robust correlations using only the NVHL rats,
+which might have been useful in understanding whether the differences in
+neurometabolite levels relate just to the differences in alcohol
+drinking between NVHL or sham animals (both of which drink different
+amounts of alcohol) or are related to other factors that may contribute
+to this dysfunction (e.g., NVHL lesion). Therefore, these results must
+be interpreted with caution. Follow up studies will attempt to determine
+the nature of impact of adolescent alcohol drinking on the
+neurometabolic dysfunctions in NVHL rats utilizing a group without
+adolescent alcohol exposure.
+
+Abnormal glutamatergic neurotransmission or metabolism has been
+previously linked to both schizophrenia and AUD, but also to other
+psychiatric disorders such as bipolar disorder and major depressive
+disorder, making it a potentially valuable trans-diagnostic target for
+treatment development\ :sup:`(Li, Yang, and Lin 2019)`. With growing
+evidence of glutamat-/GABA-ergic dysfunction predating AUD in patients
+(with or without schizophrenia), more targeted treatment options
+tackling this dysfunction may be explored to limit the detrimental
+effect alcohol consumption may have on these patients.
+
+.. _Sec16:
+
+Conclusion
+==========
+
+Consistent with previous studies in patients with schizophrenia,
+glutamatergic dysfunction was observed in the cingulate cortex of NVHL
+rats. NVHL rats consumed significantly more alcohol than sham rats and
+had significantly higher levels of GABA and glutamine in the cingulate
+cortex as well as significantly lower levels of GABA in the nucleus
+accumbens. GABA and glutamine showed a positive correlation with alcohol
+consumption across all animals (measured as the last 3 days of alcohol
+drinking prior to 30 days abstinence). These findings provide additional
+support for the hypothesis that glutamat-/GABA-ergic dysfunctions may
+contribute to the vulnerability for alcohol drinking, while providing a
+potential avenue where schizophrenia-induced neurometabolic dysfunctions
+may give rise to a shared susceptibility for both schizophrenia and the
+development of AUD.
+
+This work was supported by a Canadian Institute of Health Research
+Project Grant PJT-173442 (J.Y.K.) and a pilot grant from the Hitchcock
+Foundation (J.Y.K.).
+
+P.M. reports no biomedical financial interests or potential conflicts of
+interest. X.C. reports no biomedical financial interests or potential
+conflicts of interest. B.G. reports no biomedical financial interests or
+potential conflicts of interest. A.I.G. reports no biomedical financial
+interests or potential conflicts of interest. J.Y.K. reports no
+biomedical financial interests or potential conflicts of interest.
+
+.. container:: references csl-bib-body hanging-indent
+   :name: refs
+
+   .. container:: csl-entry
+      :name: ref-CR36
+
+      n.d.
+
+   .. container:: csl-entry
+      :name: ref-CR7
+
+      Allebeck, P, A Varla, E Kristjansson, and B Wistedt. 1987. “Risk
+      Factors for Suicide Among Patients with Schizophrenia.” *Acta.
+      Psychiatr. Scand.* 76: 414–19.
+      https://doi.org/10.1111/j.1600-0447.1987.tb05626.x.
+
+   .. container:: csl-entry
+      :name: ref-CR5
+
+      Bartels, SJ, RE Drake, MA Wallach, and DH Freeman. 1991.
+      “Characteristic Hostility in Schizophrenic Outpatients.”
+      *Schizophr. Bull.* 17: 163–71.
+      https://doi.org/10.1093/schbul/17.1.163.
+
+   .. container:: csl-entry
+      :name: ref-CR50
+
+      Bauer, J. 2013. “Craving in Alcohol-Dependent Patients After
+      Detoxification Is Related to Glutamatergic Dysfunction in the
+      Nucleus Accumbens and the Anterior Cingulate Cortex.”
+      *Neuropsychopharmacol.* 38: 1401–8.
+      https://doi.org/10.1038/npp.2013.45.
+
+   .. container:: csl-entry
+      :name: ref-CR27
+
+      Berg, SA, AM Sentir, BS Cooley, EA Engleman, and RA Chambers.
+      2014. “Nicotine Is More Addictive, Not More Cognitively
+      Therapeutic in a Neurodevelopmental Model of Schizophrenia
+      Produced by Neonatal Ventral Hippocampal Lesions.” *Addic. Biol.*
+      19: 1020–31. https://doi.org/10.1111/adb.12082.
+
+   .. container:: csl-entry
+      :name: ref-CR29
+
+      Brady, AM, SE McCallum, SD Glick, and P O’Donnell. 2008. “Enhanced
+      Methamphetamine Self-Administration in a Neurodevelopmental Rat
+      Model of Schizophrenia.” *Psychopharmacology* 200: 205–15.
+      https://doi.org/10.1007/s00213-008-1195-7.
+
+   .. container:: csl-entry
+      :name: ref-CR42
+
+      Bustillo, JR. 2010. “1h-MRS at 4 Tesla in Minimally Treated Early
+      Schizophrenia.” *Mol. Psychiatr.* 15: 629–36.
+      https://doi.org/10.1038/mp.2009.121.
+
+   .. container:: csl-entry
+      :name: ref-CR10
+
+      Chambers, RA, JH Krystal, and DW Self. 2001. “A Neurobiological
+      Basis for Substance Abuse Comorbidity in Schizophrenia.” *Biol.
+      Psychiatr.* 50: 71–83.
+      https://doi.org/10.1016/S0006-3223(01)01134-9.
+
+   .. container:: csl-entry
+      :name: ref-CR34
+
+      Chambers, RA, and BK Lipska. 2011. “A Method to the Madness:
+      Producing the Neonatal Ventral Hippocampal Lesion Rat Model of
+      Schizophrenia.” *Neuromethods* 59: 1–24.
+      https://doi.org/10.1007/978-1-61779-157-4_1.
+
+   .. container:: csl-entry
+      :name: ref-CR24
+
+      Chambers, RA, and DW Self. 2002. “Motivational Responses to
+      Natural and Drug Rewards in Rats with Neonatal Ventral Hippocampal
+      Lesions: An Animal Model of Dual Diagnosis Schizophrenia.”
+      *Neuropsychopharmacology* 27: 889–905.
+      https://doi.org/10.1016/S0893-133X(02)00365-2.
+
+   .. container:: csl-entry
+      :name: ref-CR49
+
+      Cohen-Gilbert, J. 2015. “Impact of Family History of Alcoholism on
+      Glutamine/Glutamate Ratio in Anterior Cingulate Cortex in
+      Substance-Naïve Adolescents.” *Dev. Cogn. Neurosci.* 16: 147–54.
+      https://doi.org/10.1016/j.dcn.2015.04.005.
+
+   .. container:: csl-entry
+      :name: ref-CR23
+
+      Conroy, SK, Z Rodd, and RA Chambers. 2007. “Ethanol Sensitization
+      in a Neurodevelopmental Lesion Model of Schizophrenia in Rats.”
+      *Pharmacol. Biochem. Behav.* 86.
+      https://doi.org/10.1016/j.pbb.2006.07.017.
+
+   .. container:: csl-entry
+      :name: ref-CR3
+
+      Drake, RE, and KT Mueser. 1996. “Alcohol-Use Disorder and Severe
+      Mental Illness.” *Alcohol Res. Health* 20: 87–93.
+
+   .. container:: csl-entry
+      :name: ref-CR47
+
+      Duarte, JMN, and L Xin. 2019. “Magnetic Resonance Spectroscopy in
+      Schizophrenia: Evidence for Glutamatergic Dysfunction and Impaired
+      Energy Metabolism.” *Neurochem. Res.* 44: 102–16.
+      https://doi.org/10.1007/s11064-018-2521-z.
+
+   .. container:: csl-entry
+      :name: ref-CR46
+
+      Feleder, C, KY Tseng, GG Calhoon, and P O’Donnell. 2009. “Neonatal
+      Intrahippocampal Immune Challenge Alters Dopamine Modulation of
+      Prefrontal Cortical Interneurons in Adult Rats.” *Biol.
+      Psychiatr.* 67: 386–92.
+      https://doi.org/10.1016/j.biopsych.2009.09.028.
+
+   .. container:: csl-entry
+      :name: ref-CR31
+
+      Gallo, A, C Bouchard, E Fortier, C Ducrot, and PP Rompré. 2014.
+      “Cannabinoids Reward Sensitivity in a Neurodevelopmental Animal
+      Model of Schizophrenia: A Brain Stimulation Reward Study.” *Eur.
+      Neuropsychopharmacol.* 24: 1534–45.
+      https://doi.org/10.1016/j.euroneuro.2014.07.003.
+
+   .. container:: csl-entry
+      :name: ref-CR30
+
+      Gallo, A, C Bouchard, and PP Rompré. 2014. “Animals with a
+      Schizophrenia-Like Phenotype Are Differentially Sensitive to the
+      Motivational Effects of Cannabinoid Agonists in Conditioned Place
+      Preference.” *Behav. Brain Res.* 268: 202–12.
+      https://doi.org/10.1016/j.bbr.2014.04.020.
+
+   .. container:: csl-entry
+      :name: ref-CR4
+
+      Gupta, S, S Hendricks, AM Kenkel, SC Bhatia, and EA Haffke. 1996.
+      “Relapse in Schizophrenia: Is There a Relationship to Substance
+      Abuse?” *Schizophr. Res.* 20: 153–56.
+      https://doi.org/10.1016/0920-9964(95)00108-5.
+
+   .. container:: csl-entry
+      :name: ref-CR8
+
+      Harkavy-Friedman, JM, and E Nelson. 1997. “Management of the
+      Suicidal Patient with Schizophrenia.” *Psychiatr. Clin. N. Am.*
+      25: 129–43.
+
+   .. container:: csl-entry
+      :name: ref-CR13
+
+      Hartwell, KJ, BK Tolliver, and KT Brady. 2009. “Biologic
+      Commonalities Between Mental Illness and Addiction.” *Prim.
+      Psychiatr.* 16: 33–39.
+
+   .. container:: csl-entry
+      :name: ref-CR33
+
+      Hermann, D. 2012. “Translational Magnetic Resonance Spectroscopy
+      Reveals Excessive Central Glutamate Levels During Alcohol
+      Withdrawal in Humans and Rats.” *Biol. Psychiatr.* 71: 1015–21.
+      https://doi.org/10.1016/j.biopsych.2011.07.034.
+
+   .. container:: csl-entry
+      :name: ref-CR22
+
+      Jeanblanc, J. 2015. “Light Alcohol Intake During Adolescence
+      Induces Alcohol Addiction in a Neurodevelopmental Model of
+      Schizophrenia.” *Addic. Biol.* 20: 490–99.
+      https://doi.org/10.1111/adb.12146.
+
+   .. container:: csl-entry
+      :name: ref-CR19
+
+      Jenkins, BW, S Buckhalter, ML Perreault, and JY Khokhar. 2022.
+      “Cannabis Vapor Exposure Alters Neural Circuit Oscillatory
+      Activity in a Neurodevelopmental Model of Schizophrenia: Exploring
+      the Differential Impact of Cannabis Constituents.” *Schizophr.
+      Bull. Open* 3: 1–14.
+      https://doi.org/10.1093/schizbullopen/sgab052.
+
+   .. container:: csl-entry
+      :name: ref-CR32
+
+      Jenkins, BW, and JY Khokhar. 2021. “Cannabis Use and Mental
+      Illness: Understanding Circuit Dysfunction Through Preclinical
+      Models.” *Front. Psychiatr.* 12.
+      https://doi.org/10.3389/fpsyt.2021.597725.
+
+   .. container:: csl-entry
+      :name: ref-CR26
+
+      Karlsson, RM, DM Kircher, Y Shaham, and P O’Donnell. 2013.
+      “Exaggerated Cue-Induced Reinstatement of Cocaine Seeking but Not
+      Incubation of Cocaine Craving in a Developmental Rat Model of
+      Schizophrenia.” *Psychopharmacology* 226: 45–51.
+      https://doi.org/10.1007/s00213-012-2882-y.
+
+   .. container:: csl-entry
+      :name: ref-CR12
+
+      Khokhar, JY, LL Dwiel, AM Henricks, WT Doucette, and AI Green.
+      2018. “The Link Between Schizophrenia and Substance Use Disorder:
+      A Unifying Hypothesis.” *Schizophr. Res.* 194: 78–85.
+      https://doi.org/10.1016/j.schres.2017.04.016.
+
+   .. container:: csl-entry
+      :name: ref-CR35
+
+      Khokhar, JY, and AI Green. 2016. “Effects of Iloperidone, Combined
+      with Desipramine, on Alcohol Drinking in the Syrian Golden
+      Hamster.” *Neuropharmacology* 105: 25–34.
+      https://doi.org/10.1016/j.neuropharm.2016.01.017.
+
+   .. container:: csl-entry
+      :name: ref-CR9
+
+      Khokhar, JY, AM Henricks, EDK Sullivan, and AI Green. 2018.
+      “Unique Effects of Clozapine: A Pharmacological Perspective.”
+      *Adv. Pharmacol.* 82: 137–62.
+      https://doi.org/10.1016/bs.apha.2017.09.009.
+
+   .. container:: csl-entry
+      :name: ref-CR17
+
+      Khokhar, JY, and TP Todd. 2018. “Behavioral Predictors of Alcohol
+      Drinking in a Neurodevelopmental Rat Model of Schizophrenia and
+      Co-Occurring Alcohol Use Disorder.” *Schizophr. Res.* 194: 91–97.
+      https://doi.org/10.1016/j.schres.2017.02.029.
+
+   .. container:: csl-entry
+      :name: ref-CR15
+
+      Li, CT, KC Yang, and WC Lin. 2019. “Glutamatergic Dysfunction and
+      Glutamatergic Compounds for Major Psychiatric Disorders: Evidence
+      from Clinical Neuroimaging Studies.” *Front. Psychiatry* 9.
+      https://doi.org/10.3389/fpsyt.2018.00767.
+
+   .. container:: csl-entry
+      :name: ref-CR20
+
+      Lipska, BK, and DR Weinberger. 2002. “A Neurodevelopmental Model
+      of Schizophrenia: Neonatal Disconnection of the Hippocampus.”
+      *Neurotoxicity Res.* 4: 469–75.
+      https://doi.org/10.1080/1029842021000022089.
+
+   .. container:: csl-entry
+      :name: ref-CR16
+
+      Menne, V, and R Chesworth. 2020. “Schizophrenia and Drug Addiction
+      Comorbidity: Recent Advances in Our Understanding of Behavioural
+      Susceptibility and Neural Mechanisms.” *Neuroanatom. Behav.* 2.
+      https://doi.org/10.35430/nab.2020.e10.
+
+   .. container:: csl-entry
+      :name: ref-CR51
+
+      Miguel-Hidalgo, JJ. 2006. “Withdrawal from Free-Choice Ethanol
+      Consumption Results in Increased Packing Density of Glutamine
+      Synthetase-Immunoreactive Astrocytes in the Prelimbic Cortex of
+      Alcohol-Preferring Rats.” *Alcohol* 41: 379–85.
+      https://doi.org/10.1093/alcalc/agl006.
+
+   .. container:: csl-entry
+      :name: ref-CR40
+
+      Napolitano, A. 2014. “In Vivo Neurometabolic Profiling to
+      Characterize the Effects of Social Isolation and Ketamine-Induced
+      NMDA Antagonism: A Rodent Study at 7.0 T.” *Schizophr. Bull.* 40:
+      566–74. https://doi.org/10.1093/schbul/sbt067.
+
+   .. container:: csl-entry
+      :name: ref-CR43
+
+      Öngür, D, AP Prescot, J McCarthy, BM Cohen, and PF Renshaw. 2010.
+      “Elevated Gamma-Aminobutyric Acid Levels in Chronic
+      Schizophrenia.” *Biol. Psychiatr.* 68: 667–70.
+      https://doi.org/10.1016/j.biopsych.2010.05.016.
+
+   .. container:: csl-entry
+      :name: ref-CR2
+
+      Owen, RR, EP Fischer, BM Booth, and BJ Cuffel. 1996. “Medication
+      Noncompliance and Substance Abuse Among Patients with
+      Schizophrenia.” *Psychiatr. Serv.* 47: 853–58.
+      https://doi.org/10.1176/ps.47.8.853.
+
+   .. container:: csl-entry
+      :name: ref-CR48
+
+      Prisciandaro, JJ. 2020. “Intraindividual Changes in Brain GABA,
+      Glutamate, and Glutamine During Monitored Abstinence from Alcohol
+      in Treatment-Naive Individuals with Alcohol Use Disorder.” *Addic.
+      Biol.* 25. https://doi.org/10.1111/adb.12810.
+
+   .. container:: csl-entry
+      :name: ref-CR38
+
+      Provencher, SW. 1993. “Estimation of Metabolite Concentrations
+      from Localized in Vivo Proton NMR Spectra.” *Magnet. Reson. Med.*
+      30: 672–79. https://doi.org/10.1002/mrm.1910300604.
+
+   .. container:: csl-entry
+      :name: ref-CR52
+
+      Ramaker, RC. 2017. “Post-Mortem Molecular Profiling of Three
+      Psychiatric Disorders.” *Genome Med.* 9: 1–12.
+      https://doi.org/10.1186/s13073-017-0458-5.
+
+   .. container:: csl-entry
+      :name: ref-CR39
+
+      Soher, B, P Semanchuk, D Todd, J Steinberg, and K Young. 2011.
+      “VeSPA: Integrated Applications for RF Pulse Design, Spectral
+      Simulation and MRS Data Analysis.” *Proc. Int. Soc. Magn. Reson.
+      Med.* 19.
+
+   .. container:: csl-entry
+      :name: ref-CR44
+
+      Spokes, EG, NJ Garrett, MN Rossor, and LL Iversen. 1980.
+      “Distribution of GABA in Post-Mortem Brain Tissue from Control,
+      Psychotic and Huntington’s Chorea Subjects.” *J. Neurol. Sci.* 48:
+      303–13. https://doi.org/10.1016/0022-510X(80)90103-3.
+
+   .. container:: csl-entry
+      :name: ref-CR6
+
+      Swanson, JW, CE Holzer, VK Ganju, and RT Jono. 1990. “Violence and
+      Psychiatric Disorder in the Community: Evidence from the
+      Epidemiologic Catchment Area Surveys.” *Hosp. Community
+      Psychiatr.* 41: 761–70.
+
+   .. container:: csl-entry
+      :name: ref-CR41
+
+      Théberge, J. 2002. “Glutamate and Glutamine Measured with 4.0 T
+      Proton MRS in Never-Treated Patients with Schizophrenia and
+      Healthy Volunteers.” *Am. J. Psychiatr.* 159: 1944–46.
+      https://doi.org/10.1176/appi.ajp.159.11.1944.
+
+   .. container:: csl-entry
+      :name: ref-CR14
+
+      Thoma, R. 2011. “Perturbation of the Glutamate-Glutamine System in
+      Alcohol Dependence and Remission.” *Neuropsychopharmacology* 36:
+      1359–65. https://doi.org/10.1038/npp.2011.20.
+
+   .. container:: csl-entry
+      :name: ref-CR45
+
+      Thompson, M, CS Weickert, E Wyatt, and MJ Webster. 2009.
+      “Decreased Glutamic Acid Decarboxylase(67) mRNA Expression in
+      Multiple Brain Areas of Patients with Schizophrenia and Mood
+      Disorders.” *J Psychiatr. Res.* 43: 970–77.
+      https://doi.org/10.1016/j.jpsychires.2009.02.005.
+
+   .. container:: csl-entry
+      :name: ref-CR37
+
+      Tkáč, I, Z Starčuk, I-Y Choi, and R Gruetter. 1999. “In Vivo 1 H
+      NMR Spectroscopy of Rat Brain at 1 Ms Echo Time.” *Magn. Reson.
+      Med.* 41: 649–56.
+      `https://doi.org/10.1002/(SICI)1522-2594(199904)41:4<649::AID-MRM2>3.0.CO;2-G <https://doi.org/10.1002/(SICI)1522-2594(199904)41:4<649::AID-MRM2>3.0.CO;2-G>`__.
+
+   .. container:: csl-entry
+      :name: ref-CR21
+
+      Tseng, KY, RA Chambers, and BK Lipska. 2009. “The Neonatal Ventral
+      Hippocampal Lesion as a Heuristic Neurodevelopmental Model of
+      Schizophrenia.” *Behav. Brain Res.* 204: 295–305.
+      https://doi.org/10.1016/j.bbr.2008.11.039.
+
+   .. container:: csl-entry
+      :name: ref-CR28
+
+      Vohs, JL, RA Chambers, BF O’Donnell, GP Krishnan, and SL
+      Morzorati. 2012. “Auditory Steady State Responses in a
+      Schizophrenia Rat Model Probed by Excitatory/Inhibitory Receptor
+      Manipulation.” *Int. J. Psychophysiol.* 86: 136–42.
+      https://doi.org/10.1016/j.ijpsycho.2012.04.002.
+
+   .. container:: csl-entry
+      :name: ref-CR1
+
+      Volkow, ND. 2009. “Substance Use Disorders in
+      Schizophrenia—Clinical Implications of Comorbidity.” *Schizophr.
+      Bull.* 35: 469–72. https://doi.org/10.1093/schbul/sbp016.

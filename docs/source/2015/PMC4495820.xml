@@ -1,50 +1,409 @@
-<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1d3 20150301//EN" "JATS-archivearticle1.dtd"> 
-<article xmlns:ali="http://www.niso.org/schemas/ali/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Publishing DTD v2.3 20070202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName journalpublishing.dtd?><?SourceDTD.Version 2.3?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 2?><front><journal-meta><journal-id journal-id-type="nlm-ta">BJPsych Bull</journal-id><journal-id journal-id-type="iso-abbrev">BJPsych Bull</journal-id><journal-id journal-id-type="hwp">pbrcpsych</journal-id><journal-title-group><journal-title>BJPsych Bulletin</journal-title></journal-title-group><issn pub-type="ppub">2056-4694</issn><issn pub-type="epub">2056-4708</issn><publisher><publisher-name>Royal College of Psychiatrists</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">4495820</article-id><article-id pub-id-type="doi">10.1192/pb.bp.113.046466</article-id><article-categories><subj-group subj-group-type="heading"><subject>Perspectives</subject></subj-group></article-categories><title-group><article-title>Personal experience: Suicide and psychiatric care &#x02013; a lament</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Holmes</surname><given-names>Jeremy</given-names></name><xref ref-type="aff" rid="A1">1</xref></contrib><aff id="A1"><label>1</label>University of Exeter</aff></contrib-group><author-notes><corresp>Correspondence to Jeremy Holmes (<email>j.a.holmes@btinternet.com</email>)
-</corresp><fn><p><bold>Jeremy Holmes</bold> is a retired consultant psychiatrist and currently Visiting Professor of Psychotherapy at the University of Exeter, UK.</p></fn></author-notes><pub-date pub-type="ppub"><month>2</month><year>2015</year></pub-date><volume>39</volume><issue>1</issue><fpage>45</fpage><lpage>47</lpage><history><date date-type="received"><day>9</day><month>12</month><year>2013</year></date><date date-type="accepted"><day>26</day><month>3</month><year>2014</year></date></history><permissions><copyright-statement>&#x000a9; 2014 The Author</copyright-statement><copyright-year>2014</copyright-year><license license-type="creative-commons" xlink:href="http://creativecommons.org/licenses/by/4.0/"><license-p>This is an open-access article published by the Royal College of Psychiatrists and distributed under the terms of the Creative Commons Attribution License (<uri xlink:type="simple" xlink:href="http://creativecommons.org/licenses/by/4.0">http://creativecommons.org/licenses/by/4.0</uri>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xlink:title="pdf" xlink:type="simple" xlink:href="45.pdf"/><abstract><p id="P1">A personal bereavement from suicide prompts a critique of current mental healthcare. Fragmentation, lack of long-term attachment to a tenured professional, the dearth of family therapy, and professional ambivalence are identified as weaknesses in current provision. Implicit is the case for change in UK psychiatric services, both structural (need for long-term therapies) and cultural (need for a mentalising rather than protocol-driven, &#x02018;choice&#x02019;-led ethos).</p></abstract></article-meta></front><body><p id="P2">Recently, a close relation of mine died, through suicide. An intelligent, beautiful, creative young woman, for nearly 20 years she had suffered from bipolar disorder, for which she had received intermittent psychiatric care. Although the scale of my grief is minuscule compared with that of her immediate family, the poignancy was magnified, because I am, or was, a psychiatrist.</p><p id="P3">Inevitably, as one vainly tries to elude the irreversibility of time and loss, I have replayed in my mind the story of her illness and last days. Inescapably, too, I have felt on her behalf and that of her family a degree of guilt, anger and regret. Surely things could have been done differently, I think to myself. I look back on the patients with bipolar disorder I have treated over the years &#x02013; those who have survived, and those unforgettable few, who, like my relative, took their own lives. I think of lessons learned, and not learned.</p><p id="P4">Although many aspects of psychiatric services have undoubtedly changed for the better (e.g. patient empowerment, multidisciplinary teamwork), there are also ways in which current psychiatry lets down its patients, especially when suicidal. What follows is perhaps yet another ultimately futile, counterfactual &#x02018;if only...&#x02019; narrative that typically haunts the bereaved. But for all that, it may contain some validity.</p><sec id="S1"><title>Death and psychiatry</title><p id="P5">There can be few psychiatrists who have not at some point been faced with the death by suicide of a patient under their care.<sup><xref rid="R1" ref-type="bibr">1</xref></sup> Although psychological autopsy and critical incident review are unexceptionable, hospital authorities react very differently to death by suicide as compared with other deaths. Compared with the acceptance of the inevitable mortality associated with chronic physical illness, when a patient with a psychiatric illness takes their own life there is invariably an undercurrent of blame.<sup><xref rid="R2" ref-type="bibr">2</xref></sup> Bipolar disorder, major depressive disorder and schizophrenia have a 20% mortality rate,<sup><xref rid="R3" ref-type="bibr">3</xref></sup> comparable with multiple sclerosis<sup><xref rid="R4" ref-type="bibr">4</xref></sup> or many forms of cancer, but the reactions they evoke are very different. This is reflected in the way that death by suicide is classified and recorded. Bipolar disorder, schizophrenia or borderline personality disorder are not in themselves &#x02018;causes&#x02019; of death to be determined by a coroner. Suicide is grouped with the other stigmatised &#x02018;-cides&#x02019;, alongside homicide and infanticide.</p><p id="P6">Changing classification might well be desirable, but stigma-reducing biomedical attributions of &#x02018;illness&#x02019; will still fail to capture the essence of the psychological pain with which the survivors are inundated. It is hard to accept that we can be so helpless in the face of unconscious forces over which we appear to have little control. The challenge to our sense of omnipotence and sense of freedom is overwhelming. There must, it seems, be an explanation, a narrative &#x02013; someone or something to blame.</p></sec><sec id="S2"><title>Changes in psychiatric care &#x02013; and their consequences</title><p id="P7">Official enquiries into untoward deaths usually end up with bland banalities such as &#x02018;poor communication&#x02019; and &#x02018;failure of adequate risk assessment&#x02019;.<sup><xref rid="R5" ref-type="bibr">5</xref></sup> But these gloss over the negative consequences of the many changes that have overtaken psychiatry in the past few decades.</p><p id="P8">The first is fragmentation of care. In the UK an ill patient is likely to be &#x02018;looked after&#x02019; by at least three different groups in the course of her illness: the in-patient team, the assertive outreach team, and the continuing care team, each staffed by different people with differing philosophies, skills and limitations. Each team will be keen to get their job done and then pass the patient on, leading to eventual discharge. There is rarely one single individual who holds the patient in mind through all the phases of their illness, in sickness and in health. No &#x02018;risk assessment&#x02019; protocol can substitute for this intimate knowledge, built up over time, of patients&#x02019; unique vagaries, strengths, weaknesses, vulnerabilities and inner workings.</p><p id="P9">This role could be, but so often is not, occupied by a senior tenured clinician &#x02013; consultant psychiatrist, nurse-specialist, psychotherapist or clinical psychologist, supplemented by other members of the team. For this to happen there would need to be a move from short-termism and quick-fix problem-only therapies to long-term care for chronic illness. This would entail recognition that, as in Germany, long-term therapy, despite its cost, is economically efficient and can be available as part of comprehensive universal healthcare.<sup><xref rid="R6" ref-type="bibr">6</xref></sup></p><sec id="S3"><title>Attachment theory: Refuge</title><p id="P10">Attachment theory provides a possible scientific underpinning for this perspective. The distressed &#x02013; and what is suicide if not the ultimate manifestation of distress? &#x02013; are psychobiologically driven to seek out a secure base in the hope of alleviating their mental pain.<sup><xref rid="R7" ref-type="bibr">7</xref></sup> In the absence of a secure base an abyss of despair and terror gapes, to which the illusory comfort of death may appear to provide a modicum of comfort.</p><p id="P11">Secure attachment is based on sensitive and responsive knowledge of the care-seeker, backed by &#x02018;allo-parents&#x02019;<sup><xref rid="R8" ref-type="bibr">8</xref></sup> who augment and temporarily substitute, but can never fully replace, the primary attachment figure. The prevailing &#x02018;customer-provider&#x02019; ethos, postmodern suspicion of inequalities in power relationships, and an underlying cost reduction imperative, are used to justify the current model. There is scant acknowledgement that the idea of &#x02018;choice&#x02019; makes little sense in the context of severe mental illness. A commercial-type &#x02018;contract&#x02019; anticipates, and tries to shape, the consumer&#x02019;s needs, but is essentially non-&#x02018;mentalising&#x02019;.<sup><xref rid="R9" ref-type="bibr">9</xref></sup> It does not take account of the uniqueness of attachment relationships or attend to the inner world of experience that drives external behaviours.</p><p id="P12">Understanding a person&#x02019;s inner world is not a recipe for vague psychological theorising, but can be intensely practical. A mentalising parent is able to plan effectively, take account of her own states of mind, and make sensible guesses about what is going on in her child&#x02019;s mind. Similarly, a primary ongoing psychiatric attachment figure offers not just support and therapy to her patient with bipolar disorder, but, based on a shared journey through the vicissitudes of illness, gauges the need for medication, and helps the patient regulate the basic parameters of life &#x02013; sleeping, eating, working, relating.<sup><xref rid="R10" ref-type="bibr">10</xref></sup></p></sec><sec id="S4"><title>Long-term care has benefits</title><p id="P13">Soon after my relation died I dreamt I was in charge of her care; &#x02018;You are going to stay in the ward, sectioned if necessary, until you are really well, even if that means staying here for a year!&#x02019;, I said in my dream narrative. In reality this could, and probably should, be no more than a dream. In-patient beds are vanishingly scarce; ward culture inimical to long-term care; sectioning a highly articulate and plausible patient increasingly problematic. The idea of a hospital as an asylum, of therapeutic communities in which people with mental illness live and learn together, seems little more than a nostalgic memory. But in a psychiatric world without walls, the need for long-term care based on enduring relationships becomes all the more important, not least because the developmental experiences of those who suffer from mental illness are typically characterised by disorganised and disrupted attachments.<sup><xref rid="R11" ref-type="bibr">11</xref></sup> The current climate tends to reproduce and reinforce rather than mitigate these adverse developmental experiences.</p></sec><sec id="S5"><title>The importance of family therapy</title><p id="P14">Finally &#x02013; whatever happened to family therapy? From an attachment perspective family members &#x02013; parents, spouses, siblings &#x02013; however stressed, posses a unique sensitivity to the inner world of their loved ones. They have a lifelong baseline of normality against which to judge the subtle signs of relapse. They are an indispensible resource in which indefatigable altruism, based on the care-giving dynamic, can be taken for granted. Mental health professionals have often not yet fully thrown off their own adolescent rebellion, and too easily slip into excluding or even blaming the family, in part no doubt as a way of coping with the stresses of working in the beleaguered field of psychiatry. One consequence of &#x02018;community care&#x02019;, so called, is that families are relatively unsupported in their struggle to help their mentally ill relation, or cast as the &#x02018;cause&#x02019; of the problem, and kept in the dark about professional formulation and planning.</p><p id="P15">Faced with the huge trauma of mental illness, the world typically becomes split into good and bad. When patients were detained for longer periods in psychiatric units, its staff at times became the necessary &#x02018;bad object&#x02019;, Rey&#x02019;s &#x02018;stone Mother&#x02019;,<sup><xref rid="R12" ref-type="bibr">12</xref></sup> a paradoxically safe container for all that was painful and destructive about mental illness. Hope and recovery were associated with discharge and resuming the ongoing connections represented by friends and family. Today, without the secure base function of the hospital, the family itself is too easily scapegoated, while professionals take refuge behind &#x02018;confidentiality&#x02019; as a rationale for excluding family members. Skilled family therapists are a rarity, despite robust evidence that family intervention prevents relapse in serious mental illness.<sup><xref rid="R13" ref-type="bibr">13</xref></sup></p></sec></sec><sec id="S6"><title>Carrying on</title><p id="P16">Of course none of this call &#x02013; for an attachment perspective, for more long-term therapy, for reviving therapeutic communities, for training family therapists &#x02013; can reverse the horror of the loss one iota. When someone dies, from whatever cause, especially if young, a web of meanings, hopes and connections is severed. Restoration of meaning entails a painful recapturing and reworking of the past. The totality of the patient&#x02019;s being &#x02013; strengths, delights, loves, achievements, as well as suffering and pain &#x02013; has to be sought and re-found. A similar task faces today&#x02019;s psychiatric profession &#x02013; to value the past, mourn what is irrevocably lost, reclaim what can be salvaged. In suicide, echoing Tennyson, a lifelong mourner,<sup><xref rid="R14" ref-type="bibr">14</xref></sup> &#x02018;much is taken&#x02019;, but &#x02018;much still abides&#x02019;. This lament is a plea, when faced with suicide, for psychiatrists, alongside patients and their families, to &#x02018;strive, to seek, to find, and not to yield&#x02019; &#x02013; to fashion, finance or fatalism.</p></sec></body><back><fn-group><fn fn-type="conflict"><p><bold>Declaration of interest</bold> None.</p></fn></fn-group><ref-list><title>References</title><ref id="R1"><label>1</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><name><surname>Michel</surname><given-names>K</given-names></name><name><surname>Jobes</surname><given-names>D</given-names></name></person-group> (eds) <source>Building a Therapeutic Alliance with the Suicidal Patient</source>. <publisher-name>APA Books</publisher-name>, <year>2010</year>.
-</mixed-citation></ref><ref id="R2"><label>2</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name><surname>McClelland</surname><given-names>L</given-names></name><name><surname>Reicher</surname><given-names>S</given-names></name><name><surname>Booth</surname><given-names>N</given-names></name></person-group>
-<article-title>A last defence: the negotiation of blame within suicide notes</article-title>. <source>J Com Appl Soc Psychology</source>
-<year>2000</year>; <volume>10</volume>: <fpage>225</fpage>&#x02013;<lpage>40</lpage>.
-</mixed-citation></ref><ref id="R3"><label>3</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name><surname>&#x000d6;sby</surname><given-names>U</given-names></name><name><surname>Brandt</surname><given-names>L</given-names></name><name><surname>Correia</surname><given-names>N</given-names></name><name><surname>Ekbom</surname><given-names>A</given-names></name><name><surname>Spar&#x000e9;n</surname><given-names>P</given-names></name></person-group>
-<article-title>Excess mortality in bipolar and unipolar disorder in Sweden</article-title>. <source>Arch Gen Psychiatry</source>
-<year>2001</year>; <volume>58</volume>: <fpage>844</fpage>&#x02013;<lpage>50</lpage>.
-<pub-id pub-id-type="pmid">11545667</pub-id></mixed-citation></ref><ref id="R4"><label>4</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name><surname>Hirst</surname><given-names>C</given-names></name><name><surname>Swingler</surname><given-names>R</given-names></name><name><surname>Compston</surname><given-names>D</given-names></name><name><surname>Ben-Shlomo</surname><given-names>Y</given-names></name><name><surname>Robertson</surname><given-names>N</given-names></name></person-group>
-<article-title>Survival and cause of death in multiple sclerosis: a prospective population-based study</article-title>. <source>J Neurol Neruosurg Psychiatry</source>
-<year>2008</year>; <volume>79</volume>: <fpage>1016</fpage>&#x02013;<lpage>21</lpage>.
-</mixed-citation></ref><ref id="R5"><label>5</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><name><surname>Appleby</surname><given-names>L</given-names></name><name><surname>Kapur</surname><given-names>N</given-names></name><name><surname>Shaw</surname><given-names>J</given-names></name><name><surname>Hunt</surname><given-names>I</given-names></name><name><surname>While</surname><given-names>D</given-names></name><name><surname>Flynn</surname><given-names>S</given-names></name><etal/></person-group>
-<source>National Confidential Inquiry into Suicide and Homicide by People with Mental Illness. Annual Report</source>. <publisher-name>University of Manchester</publisher-name>, <year>2013</year>.
-</mixed-citation></ref><ref id="R6"><label>6</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name><surname>Leichsenring</surname><given-names>F</given-names></name><name><surname>Rabung</surname><given-names>S</given-names></name></person-group>
-<article-title>Effectiveness of long-term psychodynamic psychotherapy: a meta-analysis</article-title>. <source>JAMA</source>
-<year>2008</year>; <volume>300</volume>: <fpage>1551</fpage>&#x02013;<lpage>65</lpage>.
-<pub-id pub-id-type="pmid">18827212</pub-id></mixed-citation></ref><ref id="R7"><label>7</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><name><surname>Holmes</surname><given-names>J</given-names></name></person-group>
-<source>John Bowlby and Attachment Theory</source> (<edition>2nd edn</edition>). <publisher-name>Routledge</publisher-name>, <year>2013</year>.
-</mixed-citation></ref><ref id="R8"><label>8</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><name><surname>Blaffer Hrdy</surname><given-names>S</given-names></name></person-group>
-<source>Mother Nature: Maternal Instincts and How They Shape the Human Species</source>. <publisher-name>Basic Books</publisher-name>, <year>1999</year>.
-</mixed-citation></ref><ref id="R9"><label>9</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><name><surname>Allen</surname><given-names>J</given-names></name></person-group>
-<source>Mentalizing in the Development and Treatment of Attachment Trauma</source>. <publisher-name>Karnac Books</publisher-name>, <year>2012</year>.
-</mixed-citation></ref><ref id="R10"><label>10</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><name><surname>Frank</surname><given-names>E</given-names></name></person-group>
-<source>Treating Bipolar Disorder: A Clinician&#x02019;s Guide to Interpersonal and Social Rhythm Therapy</source>. <publisher-name>Guilford Press</publisher-name>, <year>2005</year>.
-</mixed-citation></ref><ref id="R11"><label>11</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name><surname>Fonagy</surname><given-names>P</given-names></name><name><surname>Luyten</surname><given-names>P</given-names></name></person-group>
-<article-title>A developmental, mentalization-based approach to the understanding and treatment of borderline personality disorder</article-title>. <source>Dev Psychopathol</source>
-<year>2009</year>; <volume>21</volume>: <fpage>1355</fpage>&#x02013;<lpage>81</lpage>.
-<pub-id pub-id-type="pmid">19825272</pub-id></mixed-citation></ref><ref id="R12"><label>12</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><name><surname>Rey</surname><given-names>JH</given-names></name></person-group>
-<source>Universals of Psychoanalysis in the Treatment of Psychotic and Borderline States</source>. <publisher-name>Free Association Books</publisher-name>, <year>1994</year>.
-</mixed-citation></ref><ref id="R13"><label>13</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name><surname>Falloon</surname><given-names>I</given-names></name></person-group>
-<article-title>Family interventions for mental disorders: efficacy and effectiveness</article-title>. <source>World Psychiatry</source>
-<year>2003</year>; <volume>2</volume>: <fpage>20</fpage>&#x02013;<lpage>8</lpage>.
-<pub-id pub-id-type="pmid">16946881</pub-id></mixed-citation></ref><ref id="R14"><label>14</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><name><surname>Ricks</surname><given-names>C</given-names></name></person-group>
-<source>Alfred Lord Tennyson: Selected Poems</source>. <publisher-name>Penguin</publisher-name>, <year>1997</year>.
-</mixed-citation></ref></ref-list></back></article>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1d3 20150301//EN" "JATS-archivearticle1.dtd">
+<article xmlns:ali="http://www.niso.org/schemas/ali/1.0"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article">    <?properties open_access?>    <?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Publishing DTD v2.3 20070202//EN?>    <?DTDIdentifier.IdentifierType public?>    <?SourceDTD.DTDName journalpublishing.dtd?>    <?SourceDTD.Version 2.3?>    <?ConverterInfo.XSLTName jp2nlmx2.xsl?>    <?ConverterInfo.Version 2?>
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="nlm-ta">BJPsych Bull</journal-id>
+            <journal-id journal-id-type="iso-abbrev">BJPsych Bull</journal-id>
+            <journal-id journal-id-type="hwp">pbrcpsych</journal-id>
+            <journal-title-group>
+                <journal-title>BJPsych Bulletin</journal-title>
+            </journal-title-group>
+            <issn pub-type="ppub">2056-4694</issn>
+            <issn pub-type="epub">2056-4708</issn>
+            <publisher>
+                <publisher-name>Royal College of Psychiatrists</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="pmcid">4495820</article-id>
+            <article-id pub-id-type="doi">10.1192/pb.bp.113.046466</article-id>
+            <article-categories>
+                <subj-group subj-group-type="heading">
+                    <subject>Perspectives</subject>
+                </subj-group>
+            </article-categories>
+            <title-group>
+                <article-title>Personal experience: Suicide and psychiatric care &#x02013; a lament</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Holmes</surname>
+                        <given-names>Jeremy</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                </contrib>
+                <aff id="A1">
+                    <label>1</label>University of Exeter</aff>
+            </contrib-group>
+            <author-notes>
+                <corresp>Correspondence to Jeremy Holmes (<email>j.a.holmes@btinternet.com</email>)
+                </corresp>
+                <fn>
+                    <p>
+                        <bold>Jeremy Holmes</bold> is a retired consultant psychiatrist and currently Visiting Professor of Psychotherapy at the University of Exeter, UK.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="ppub">
+                <month>2</month>
+                <year>2015</year>
+            </pub-date>
+            <volume>39</volume>
+            <issue>1</issue>
+            <fpage>45</fpage>
+            <lpage>47</lpage>
+            <history>
+                <date date-type="received">
+                    <day>9</day>
+                    <month>12</month>
+                    <year>2013</year>
+                </date>
+                <date date-type="accepted">
+                    <day>26</day>
+                    <month>3</month>
+                    <year>2014</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>&#x000a9; 2014 The Author</copyright-statement>
+                <copyright-year>2014</copyright-year>
+                <license license-type="creative-commons" xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open-access article published by the Royal College of Psychiatrists and distributed under the terms of the Creative Commons Attribution License (<uri xlink:type="simple" xlink:href="http://creativecommons.org/licenses/by/4.0">http://creativecommons.org/licenses/by/4.0</uri>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <self-uri xlink:title="pdf" xlink:type="simple" xlink:href="45.pdf" />
+            <abstract>
+                <p id="P1">A personal bereavement from suicide prompts a critique of current mental healthcare. Fragmentation, lack of long-term attachment to a tenured professional, the dearth of family therapy, and professional ambivalence are identified as weaknesses in current provision. Implicit is the case for change in UK psychiatric services, both structural (need for long-term therapies) and cultural (need for a mentalising rather than protocol-driven, &#x02018;choice&#x02019;-led ethos).</p>
+            </abstract>
+        </article-meta>
+    </front>
+    <body>
+        <p id="P2">Recently, a close relation of mine died, through suicide. An intelligent, beautiful, creative young woman, for nearly 20 years she had suffered from bipolar disorder, for which she had received intermittent psychiatric care. Although the scale of my grief is minuscule compared with that of her immediate family, the poignancy was magnified, because I am, or was, a psychiatrist.</p>
+        <p id="P3">Inevitably, as one vainly tries to elude the irreversibility of time and loss, I have replayed in my mind the story of her illness and last days. Inescapably, too, I have felt on her behalf and that of her family a degree of guilt, anger and regret. Surely things could have been done differently, I think to myself. I look back on the patients with bipolar disorder I have treated over the years &#x02013; those who have survived, and those unforgettable few, who, like my relative, took their own lives. I think of lessons learned, and not learned.</p>
+        <p id="P4">Although many aspects of psychiatric services have undoubtedly changed for the better (e.g. patient empowerment, multidisciplinary teamwork), there are also ways in which current psychiatry lets down its patients, especially when suicidal. What follows is perhaps yet another ultimately futile, counterfactual &#x02018;if only...&#x02019; narrative that typically haunts the bereaved. But for all that, it may contain some validity.</p>
+        <sec id="S1">
+            <title>Death and psychiatry</title>
+            <p id="P5">There can be few psychiatrists who have not at some point been faced with the death by suicide of a patient under their care.<sup>
+                <xref rid="R1" ref-type="bibr">1</xref>
+            </sup> Although psychological autopsy and critical incident review are unexceptionable, hospital authorities react very differently to death by suicide as compared with other deaths. Compared with the acceptance of the inevitable mortality associated with chronic physical illness, when a patient with a psychiatric illness takes their own life there is invariably an undercurrent of blame.<sup>
+            <xref rid="R2" ref-type="bibr">2</xref>
+        </sup> Bipolar disorder, major depressive disorder and schizophrenia have a 20% mortality rate,<sup>
+        <xref rid="R3" ref-type="bibr">3</xref>
+    </sup> comparable with multiple sclerosis<sup>
+    <xref rid="R4" ref-type="bibr">4</xref>
+</sup> or many forms of cancer, but the reactions they evoke are very different. This is reflected in the way that death by suicide is classified and recorded. Bipolar disorder, schizophrenia or borderline personality disorder are not in themselves &#x02018;causes&#x02019; of death to be determined by a coroner. Suicide is grouped with the other stigmatised &#x02018;-cides&#x02019;, alongside homicide and infanticide.</p>
+<p id="P6">Changing classification might well be desirable, but stigma-reducing biomedical attributions of &#x02018;illness&#x02019; will still fail to capture the essence of the psychological pain with which the survivors are inundated. It is hard to accept that we can be so helpless in the face of unconscious forces over which we appear to have little control. The challenge to our sense of omnipotence and sense of freedom is overwhelming. There must, it seems, be an explanation, a narrative &#x02013; someone or something to blame.</p>
+</sec>
+<sec id="S2">
+<title>Changes in psychiatric care &#x02013; and their consequences</title>
+<p id="P7">Official enquiries into untoward deaths usually end up with bland banalities such as &#x02018;poor communication&#x02019; and &#x02018;failure of adequate risk assessment&#x02019;.<sup>
+<xref rid="R5" ref-type="bibr">5</xref>
+</sup> But these gloss over the negative consequences of the many changes that have overtaken psychiatry in the past few decades.</p>
+<p id="P8">The first is fragmentation of care. In the UK an ill patient is likely to be &#x02018;looked after&#x02019; by at least three different groups in the course of her illness: the in-patient team, the assertive outreach team, and the continuing care team, each staffed by different people with differing philosophies, skills and limitations. Each team will be keen to get their job done and then pass the patient on, leading to eventual discharge. There is rarely one single individual who holds the patient in mind through all the phases of their illness, in sickness and in health. No &#x02018;risk assessment&#x02019; protocol can substitute for this intimate knowledge, built up over time, of patients&#x02019; unique vagaries, strengths, weaknesses, vulnerabilities and inner workings.</p>
+<p id="P9">This role could be, but so often is not, occupied by a senior tenured clinician &#x02013; consultant psychiatrist, nurse-specialist, psychotherapist or clinical psychologist, supplemented by other members of the team. For this to happen there would need to be a move from short-termism and quick-fix problem-only therapies to long-term care for chronic illness. This would entail recognition that, as in Germany, long-term therapy, despite its cost, is economically efficient and can be available as part of comprehensive universal healthcare.<sup>
+<xref rid="R6" ref-type="bibr">6</xref>
+</sup>
+</p>
+<sec id="S3">
+<title>Attachment theory: Refuge</title>
+<p id="P10">Attachment theory provides a possible scientific underpinning for this perspective. The distressed &#x02013; and what is suicide if not the ultimate manifestation of distress? &#x02013; are psychobiologically driven to seek out a secure base in the hope of alleviating their mental pain.<sup>
+<xref rid="R7" ref-type="bibr">7</xref>
+</sup> In the absence of a secure base an abyss of despair and terror gapes, to which the illusory comfort of death may appear to provide a modicum of comfort.</p>
+<p id="P11">Secure attachment is based on sensitive and responsive knowledge of the care-seeker, backed by &#x02018;allo-parents&#x02019;<sup>
+<xref rid="R8" ref-type="bibr">8</xref>
+</sup> who augment and temporarily substitute, but can never fully replace, the primary attachment figure. The prevailing &#x02018;customer-provider&#x02019; ethos, postmodern suspicion of inequalities in power relationships, and an underlying cost reduction imperative, are used to justify the current model. There is scant acknowledgement that the idea of &#x02018;choice&#x02019; makes little sense in the context of severe mental illness. A commercial-type &#x02018;contract&#x02019; anticipates, and tries to shape, the consumer&#x02019;s needs, but is essentially non-&#x02018;mentalising&#x02019;.<sup>
+<xref rid="R9" ref-type="bibr">9</xref>
+</sup> It does not take account of the uniqueness of attachment relationships or attend to the inner world of experience that drives external behaviours.</p>
+<p id="P12">Understanding a person&#x02019;s inner world is not a recipe for vague psychological theorising, but can be intensely practical. A mentalising parent is able to plan effectively, take account of her own states of mind, and make sensible guesses about what is going on in her child&#x02019;s mind. Similarly, a primary ongoing psychiatric attachment figure offers not just support and therapy to her patient with bipolar disorder, but, based on a shared journey through the vicissitudes of illness, gauges the need for medication, and helps the patient regulate the basic parameters of life &#x02013; sleeping, eating, working, relating.<sup>
+<xref rid="R10" ref-type="bibr">10</xref>
+</sup>
+</p>
+</sec>
+<sec id="S4">
+<title>Long-term care has benefits</title>
+<p id="P13">Soon after my relation died I dreamt I was in charge of her care; &#x02018;You are going to stay in the ward, sectioned if necessary, until you are really well, even if that means staying here for a year!&#x02019;, I said in my dream narrative. In reality this could, and probably should, be no more than a dream. In-patient beds are vanishingly scarce; ward culture inimical to long-term care; sectioning a highly articulate and plausible patient increasingly problematic. The idea of a hospital as an asylum, of therapeutic communities in which people with mental illness live and learn together, seems little more than a nostalgic memory. But in a psychiatric world without walls, the need for long-term care based on enduring relationships becomes all the more important, not least because the developmental experiences of those who suffer from mental illness are typically characterised by disorganised and disrupted attachments.<sup>
+<xref rid="R11" ref-type="bibr">11</xref>
+</sup> The current climate tends to reproduce and reinforce rather than mitigate these adverse developmental experiences.</p>
+</sec>
+<sec id="S5">
+<title>The importance of family therapy</title>
+<p id="P14">Finally &#x02013; whatever happened to family therapy? From an attachment perspective family members &#x02013; parents, spouses, siblings &#x02013; however stressed, posses a unique sensitivity to the inner world of their loved ones. They have a lifelong baseline of normality against which to judge the subtle signs of relapse. They are an indispensible resource in which indefatigable altruism, based on the care-giving dynamic, can be taken for granted. Mental health professionals have often not yet fully thrown off their own adolescent rebellion, and too easily slip into excluding or even blaming the family, in part no doubt as a way of coping with the stresses of working in the beleaguered field of psychiatry. One consequence of &#x02018;community care&#x02019;, so called, is that families are relatively unsupported in their struggle to help their mentally ill relation, or cast as the &#x02018;cause&#x02019; of the problem, and kept in the dark about professional formulation and planning.</p>
+<p id="P15">Faced with the huge trauma of mental illness, the world typically becomes split into good and bad. When patients were detained for longer periods in psychiatric units, its staff at times became the necessary &#x02018;bad object&#x02019;, Rey&#x02019;s &#x02018;stone Mother&#x02019;,<sup>
+<xref rid="R12" ref-type="bibr">12</xref>
+</sup> a paradoxically safe container for all that was painful and destructive about mental illness. Hope and recovery were associated with discharge and resuming the ongoing connections represented by friends and family. Today, without the secure base function of the hospital, the family itself is too easily scapegoated, while professionals take refuge behind &#x02018;confidentiality&#x02019; as a rationale for excluding family members. Skilled family therapists are a rarity, despite robust evidence that family intervention prevents relapse in serious mental illness.<sup>
+<xref rid="R13" ref-type="bibr">13</xref>
+</sup>
+</p>
+</sec>
+</sec>
+<sec id="S6">
+<title>Carrying on</title>
+<p id="P16">Of course none of this call &#x02013; for an attachment perspective, for more long-term therapy, for reviving therapeutic communities, for training family therapists &#x02013; can reverse the horror of the loss one iota. When someone dies, from whatever cause, especially if young, a web of meanings, hopes and connections is severed. Restoration of meaning entails a painful recapturing and reworking of the past. The totality of the patient&#x02019;s being &#x02013; strengths, delights, loves, achievements, as well as suffering and pain &#x02013; has to be sought and re-found. A similar task faces today&#x02019;s psychiatric profession &#x02013; to value the past, mourn what is irrevocably lost, reclaim what can be salvaged. In suicide, echoing Tennyson, a lifelong mourner,<sup>
+<xref rid="R14" ref-type="bibr">14</xref>
+</sup> &#x02018;much is taken&#x02019;, but &#x02018;much still abides&#x02019;. This lament is a plea, when faced with suicide, for psychiatrists, alongside patients and their families, to &#x02018;strive, to seek, to find, and not to yield&#x02019; &#x02013; to fashion, finance or fatalism.</p>
+</sec>
+</body>
+<back>
+<fn-group>
+<fn fn-type="conflict">
+<p>
+<bold>Declaration of interest</bold> None.</p>
+</fn>
+</fn-group>
+<ref-list>
+<title>References</title>
+<ref id="R1">
+<label>1</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Michel</surname>
+<given-names>K</given-names>
+</name>
+<name>
+<surname>Jobes</surname>
+<given-names>D</given-names>
+</name>
+</person-group> (eds) <source>Building a Therapeutic Alliance with the Suicidal Patient</source>.<publisher-name>APA Books</publisher-name>,<year>2010</year>.
+</mixed-citation>
+</ref>
+<ref id="R2">
+<label>2</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>McClelland</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Reicher</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Booth</surname>
+<given-names>N</given-names>
+</name>
+</person-group>
+<article-title>A last defence: the negotiation of blame within suicide notes</article-title>.<source>J Com Appl Soc Psychology</source>
+<year>2000</year>;<volume>10</volume>:<fpage>225</fpage>&#x02013;<lpage>40</lpage>.
+</mixed-citation>
+</ref>
+<ref id="R3">
+<label>3</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>&#x000d6;sby</surname>
+<given-names>U</given-names>
+</name>
+<name>
+<surname>Brandt</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Correia</surname>
+<given-names>N</given-names>
+</name>
+<name>
+<surname>Ekbom</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Spar&#x000e9;n</surname>
+<given-names>P</given-names>
+</name>
+</person-group>
+<article-title>Excess mortality in bipolar and unipolar disorder in Sweden</article-title>.<source>Arch Gen Psychiatry</source>
+<year>2001</year>;<volume>58</volume>:<fpage>844</fpage>&#x02013;<lpage>50</lpage>.
+<pub-id pub-id-type="pmid">11545667</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R4">
+<label>4</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Hirst</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Swingler</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Compston</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Ben-Shlomo</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Robertson</surname>
+<given-names>N</given-names>
+</name>
+</person-group>
+<article-title>Survival and cause of death in multiple sclerosis: a prospective population-based study</article-title>.<source>J Neurol Neruosurg Psychiatry</source>
+<year>2008</year>;<volume>79</volume>:<fpage>1016</fpage>&#x02013;<lpage>21</lpage>.
+</mixed-citation>
+</ref>
+<ref id="R5">
+<label>5</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Appleby</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Kapur</surname>
+<given-names>N</given-names>
+</name>
+<name>
+<surname>Shaw</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Hunt</surname>
+<given-names>I</given-names>
+</name>
+<name>
+<surname>While</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Flynn</surname>
+<given-names>S</given-names>
+</name>
+<etal />
+</person-group>
+<source>National Confidential Inquiry into Suicide and Homicide by People with Mental Illness. Annual Report</source>.<publisher-name>University of Manchester</publisher-name>,<year>2013</year>.
+</mixed-citation>
+</ref>
+<ref id="R6">
+<label>6</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Leichsenring</surname>
+<given-names>F</given-names>
+</name>
+<name>
+<surname>Rabung</surname>
+<given-names>S</given-names>
+</name>
+</person-group>
+<article-title>Effectiveness of long-term psychodynamic psychotherapy: a meta-analysis</article-title>.<source>JAMA</source>
+<year>2008</year>;<volume>300</volume>:<fpage>1551</fpage>&#x02013;<lpage>65</lpage>.
+<pub-id pub-id-type="pmid">18827212</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R7">
+<label>7</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Holmes</surname>
+<given-names>J</given-names>
+</name>
+</person-group>
+<source>John Bowlby and Attachment Theory</source> (<edition>2nd edn</edition>).<publisher-name>Routledge</publisher-name>,<year>2013</year>.
+</mixed-citation>
+</ref>
+<ref id="R8">
+<label>8</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Blaffer Hrdy</surname>
+<given-names>S</given-names>
+</name>
+</person-group>
+<source>Mother Nature: Maternal Instincts and How They Shape the Human Species</source>.<publisher-name>Basic Books</publisher-name>,<year>1999</year>.
+</mixed-citation>
+</ref>
+<ref id="R9">
+<label>9</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Allen</surname>
+<given-names>J</given-names>
+</name>
+</person-group>
+<source>Mentalizing in the Development and Treatment of Attachment Trauma</source>.<publisher-name>Karnac Books</publisher-name>,<year>2012</year>.
+</mixed-citation>
+</ref>
+<ref id="R10">
+<label>10</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Frank</surname>
+<given-names>E</given-names>
+</name>
+</person-group>
+<source>Treating Bipolar Disorder: A Clinician&#x02019;s Guide to Interpersonal and Social Rhythm Therapy</source>.<publisher-name>Guilford Press</publisher-name>,<year>2005</year>.
+</mixed-citation>
+</ref>
+<ref id="R11">
+<label>11</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Fonagy</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Luyten</surname>
+<given-names>P</given-names>
+</name>
+</person-group>
+<article-title>A developmental, mentalization-based approach to the understanding and treatment of borderline personality disorder</article-title>.<source>Dev Psychopathol</source>
+<year>2009</year>;<volume>21</volume>:<fpage>1355</fpage>&#x02013;<lpage>81</lpage>.
+<pub-id pub-id-type="pmid">19825272</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R12">
+<label>12</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Rey</surname>
+<given-names>JH</given-names>
+</name>
+</person-group>
+<source>Universals of Psychoanalysis in the Treatment of Psychotic and Borderline States</source>.<publisher-name>Free Association Books</publisher-name>,<year>1994</year>.
+</mixed-citation>
+</ref>
+<ref id="R13">
+<label>13</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Falloon</surname>
+<given-names>I</given-names>
+</name>
+</person-group>
+<article-title>Family interventions for mental disorders: efficacy and effectiveness</article-title>.<source>World Psychiatry</source>
+<year>2003</year>;<volume>2</volume>:<fpage>20</fpage>&#x02013;<lpage>8</lpage>.
+<pub-id pub-id-type="pmid">16946881</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R14">
+<label>14</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Ricks</surname>
+<given-names>C</given-names>
+</name>
+</person-group>
+<source>Alfred Lord Tennyson: Selected Poems</source>.<publisher-name>Penguin</publisher-name>,<year>1997</year>.
+</mixed-citation>
+</ref>
+</ref-list>
+</back>
+</article>

@@ -1,82 +1,576 @@
-<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
-<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-journalpublishing1.dtd?><?SourceDTD.Version 1.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">BJPsych Bull</journal-id><journal-id journal-id-type="iso-abbrev">BJPsych Bull</journal-id><journal-id journal-id-type="hwp">pbrcpsych</journal-id><journal-title-group><journal-title>BJPsych Bulletin</journal-title></journal-title-group><issn pub-type="ppub">2056-4694</issn><issn pub-type="epub">2056-4708</issn><publisher><publisher-name>Royal College of Psychiatrists</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">5288092</article-id><article-id pub-id-type="doi">10.1192/pb.bp.115.052142</article-id><article-categories><subj-group subj-group-type="heading"><subject>Special Articles</subject></subj-group></article-categories><title-group><article-title>Perceptual distortions and deceptions: what computers can teach us</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Nour</surname><given-names>Matthew M.</given-names></name><xref ref-type="aff" rid="A1">1</xref><xref ref-type="aff" rid="A2">2</xref><xref ref-type="corresp" rid="cor1"/></contrib><contrib contrib-type="author"><name><surname>Nour</surname><given-names>Joseph M.</given-names></name><xref ref-type="aff" rid="A3">3</xref></contrib></contrib-group><aff id="A1"><label>1</label>Imperial College London</aff><aff id="A2"><label>2</label>King's College London</aff><aff id="A3"><label>3</label>Oxford University Clinical Academic Graduate School (OUCAGS), Oxford</aff><author-notes><corresp id="cor1">
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article">    <?properties open_access?>    <?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN?>    <?DTDIdentifier.IdentifierType public?>    <?SourceDTD.DTDName JATS-journalpublishing1.dtd?>    <?SourceDTD.Version 1.0?>    <?ConverterInfo.XSLTName jp2nlmx2.xsl?>    <?ConverterInfo.Version 1?>
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="nlm-ta">BJPsych Bull</journal-id>
+            <journal-id journal-id-type="iso-abbrev">BJPsych Bull</journal-id>
+            <journal-id journal-id-type="hwp">pbrcpsych</journal-id>
+            <journal-title-group>
+                <journal-title>BJPsych Bulletin</journal-title>
+            </journal-title-group>
+            <issn pub-type="ppub">2056-4694</issn>
+            <issn pub-type="epub">2056-4708</issn>
+            <publisher>
+                <publisher-name>Royal College of Psychiatrists</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="pmcid">5288092</article-id>
+            <article-id pub-id-type="doi">10.1192/pb.bp.115.052142</article-id>
+            <article-categories>
+                <subj-group subj-group-type="heading">
+                    <subject>Special Articles</subject>
+                </subj-group>
+            </article-categories>
+            <title-group>
+                <article-title>Perceptual distortions and deceptions: what computers can teach us</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Nour</surname>
+                        <given-names>Matthew M.</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                    <xref ref-type="aff" rid="A2">2</xref>
+                    <xref ref-type="corresp" rid="cor1" />
+                </contrib>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Nour</surname>
+                        <given-names>Joseph M.</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A3">3</xref>
+                </contrib>
+            </contrib-group>
+            <aff id="A1">
+                <label>1</label>Imperial College London</aff>
+            <aff id="A2">
+                <label>2</label>King's College London</aff>
+            <aff id="A3">
+                <label>3</label>Oxford University Clinical Academic Graduate School (OUCAGS), Oxford</aff>
+            <author-notes>
+                <corresp id="cor1">
 Correspondence to Matthew M. Nour (<email>matthew.nour@kcl.ac.uk</email>)
-</corresp><fn><p><bold>Matthew M. Nour</bold> is a Clinical Research Fellow at Psychiatric Imaging Group, MRC Clinical Sciences Centre, Imperial College London, and Core Trainee in Psychiatry at South London and Maudsley NHS Foundation Trust, London, UK. <bold>Joseph M. Nour</bold> is an Academic Foundation doctor at Oxford University Hospitals NHS Foundation Trust and Oxford University Clinical Academic Graduate School (OUCAGS), John Radcliffe Hospital, Oxford, UK.</p></fn></author-notes><pub-date pub-type="ppub"><month>2</month><year>2017</year></pub-date><volume>41</volume><issue>1</issue><fpage>37</fpage><lpage>40</lpage><history><date date-type="received"><day>19</day><month>7</month><year>2015</year></date><date date-type="rev-recd"><day>13</day><month>2</month><year>2016</year></date><date date-type="accepted"><day>24</day><month>2</month><year>2016</year></date></history><permissions><copyright-statement>&#x000a9; 2017 The Authors</copyright-statement><copyright-year>2017</copyright-year><license license-type="creative-commons" xlink:href="http://creativecommons.org/licenses/by/4.0"><license-p>This is an open-access article published by the Royal College of Psychiatrists and distributed under the terms of the Creative Commons Attribution License (<uri xlink:href="http://creativecommons.org/licenses/by/4.0">http://creativecommons.org/licenses/by/4.0</uri>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xlink:title="pdf" xlink:href="37.pdf"/><abstract><p id="P1">The nature of perception has fascinated philosophers for centuries, and has more recently been the focus of research in psychology and neuroscience. Many psychiatric disorders are characterised by perceptual abnormalities, ranging from sensory distortions to illusions and hallucinations. The distinction between normal and abnormal perception is, however, hard to articulate. In this article we argue that the distinction between normal perception and abnormal perception is best seen as a quantitative one, resting on the degree to which the observer's prior expectations influence perceptual inference. We illustrate this point with an example taken from researchers at Google working on computer vision.</p></abstract></article-meta></front><body><p id="P2">No mental state examination would be complete without a statement relating to abnormalities of perception. According to Fish, perceptual abnormalities may be classified as either sensory distortions (e.g. hyperacusis and dysmegalopsia) or sensory deceptions (e.g. illusions and hallucinations), with both categories deviating from veridical perception.<sup><xref rid="R1" ref-type="bibr">1</xref></sup> The clean simplicity of this definition underlies part of its clinical utility, but also gives the impression that the characteristics of &#x02018;normal&#x02019; veridical perception are well understood. The nature of perception, however, has troubled philosophers for centuries,<sup><xref rid="R2" ref-type="bibr">2</xref>,<xref rid="R3" ref-type="bibr">3</xref></sup> and has been the focus of intense investigation by neuroscientists and psychologists in recent decades.<sup><xref rid="R4" ref-type="bibr">4</xref>&#x02013;<xref rid="R7" ref-type="bibr">7</xref></sup> Just how does the brain transform the light hitting the retina into the infinitely complex three-dimensional world that we see when we open our eyes? How much of what we perceive is really present in the sensory data hitting our eyes, and to what extent do our prior expectations shape our perception? Do we perceive the world as it really is, and if not, does that mean that our normal perceptions are distorted or deceptive? If so, in what way does normal perception differ from abnormal perception? These questions may seem to be only of philosophical relevance, but researchers working in the fields of perceptual neuroscience and computer vision are regularly confronted by them.</p><p id="P3">In this article we outline some exciting insights into how the brain may construct reality. Intriguingly, these findings have come from the field of machine learning, a branch of computer science and robotics.</p><sec id="S1"><title>The problem of perception</title><p id="P4">How does your visual system construct a representation of the world? Perhaps most readers would reply that the brain extracts the information about the physical world that is contained within incoming sensory signals. Much of the neuroscience of the past half-century has investigated perceptual processing starting from this assumption.<sup><xref rid="R4" ref-type="bibr">4</xref>,<xref rid="R8" ref-type="bibr">8</xref></sup> The account of perceptual processing found in most undergraduate textbooks states that the sensory processing pathway (including the sensory epithelia, subcortical nuclei, thalamus, sensory cortices and heteromodal association cortices) extracts information from incoming sensory data in a stepwise manner. If all goes smoothly we perceive the world &#x02018;as it really is&#x02019;.</p><p id="P5">There are several problems, however, with the view that perception proceeds by extracting information from the incoming signals alone. Perhaps the most damning consideration was recognised by George Berkeley in the 18th century as the &#x02018;inverse optics&#x02019; problem,<sup><xref rid="R2" ref-type="bibr">2</xref>,<xref rid="R4" ref-type="bibr">4</xref></sup> which states that information collected by the sensory epithelia is insufficient to allow an unambiguous mapping back on to real-world sources. The light hitting the retina, for example, forms a two-dimensional image, which has an infinite number of possible three-dimensional &#x02018;real-world&#x02019; sources. The image conflates information about object illumination, reflectance and transmittance.<sup><xref rid="R4" ref-type="bibr">4</xref></sup> Computer vision faces similar problems. A car, for example, looks different from different viewing angles and distances, and in different lighting conditions. The problem of inferring the state of the world from sensory data alone is (mathematically) ill-posed.<sup><xref rid="R9" ref-type="bibr">9</xref></sup> One powerful illustration of this principle is demonstrated by the famous Necker cube illusion,<sup><xref rid="R5" ref-type="bibr">5</xref></sup> where the sensory information alone is insufficient to resolve the question of the orientation of the wire cube and there is no simple mapping between sensory data and perception (<xref ref-type="fig" rid="F1">Fig. 1</xref>).</p><fig id="F1" orientation="portrait" position="float"><label>Fig 1</label><caption><p>The Necker Cube illusion is a bistable visual illusion. The same sensory data are able to support two perceptual inferences (one in which corner 1 is closest to the observer, the other in which corner 2 is closest).</p></caption><graphic xlink:href="38f1"/></fig></sec><sec id="S2"><title>Expectation is necessary for perception</title><p id="P6">If sensory data alone cannot support perception, how does the brain create accurate perceptual representations of the world? It is now appreciated that ill-posed problems such as vision can be made tractable by using contextual information to impose constraints on the interpretation of ambiguous data. In the case of vision, for example, past experiences of seeing similar visual scenes sets up expectations about the likely current state of the world, and any new sensory data are interpreted in light of these expectations. Consistent with this hypothesis, the sensory processing pathways in the brain do not just support one-way &#x02018;bottom-up&#x02019; information flow (from low-level data in the primary sensory cortex to more complex representations in heteromodal association cortices), but also support &#x02018;top-down&#x02019; information flow, whereby information about the current expected state of the world cascades down from high cortical areas to influence information processing in low sensory areas.<sup><xref rid="R9" ref-type="bibr">9</xref>,<xref rid="R10" ref-type="bibr">10</xref></sup> Some have argued that the &#x02018;heavy lifting&#x02019; of perceptual processing is performed by these top-down pathways, which make predictions about the state of the world that are tested against sensory data.<sup><xref rid="R10" ref-type="bibr">10</xref></sup></p><p id="P7">The ability of the brain to make sense of sensory information has inspired computer scientists working on computer vision and similar problems to take a similar approach. Recently, researchers at Google created an impressive visual recognition system using a processing architecture inspired by the human brain, called an &#x02018;artificial neural network&#x02019; (ANN).<sup><xref rid="R11" ref-type="bibr">11</xref></sup> ANNs consist of artificial &#x02018;neurons&#x02019; that are organised into layers, reminiscent of the brain's hierarchical organisation. These networks are particularly good at detecting features and patterns in new data, and using these features to perform classification tasks. This is similar to what the brain does when engaged in perceptual inference, which may be thought of as the detection of objects and meaningful patterns in sensory data. New data enter the ANN at the lowest &#x02018;input&#x02019; layer (analogous to light hitting light-sensitive neurons in the retina) and is processed sequentially by progressively higher layers of the network. At each layer the network attempts to extract patterns and features from these data, with higher layers of the network extracting increasingly more abstract features. At the highest layer a &#x02018;decision&#x02019; is made about what the data represent.</p><p id="P8">Importantly, a new ANN must be adequately &#x02018;trained&#x02019; before it can perform successful pattern detection and classification tasks. During training the network is exposed to many different data-sets (e.g. images) and attempts to classify the data appropriately. The network is able to self-calibrate, guided by its successes and errors, in a process analogous to synaptic plasticity. After exposure to thousands of images of, say, cats, the network learns to recognise cats in images to which it has never before been exposed.</p><p id="P9">The well-trained ANN is primed to recognise salient features and patterns in new data in much the same way that the brain is primed to recognise the patterns in sensory data that are most important for detecting behaviourally relevant objects. Prior to training, the ANN is essentially blind to meaningful patterns in new data. In both the well-trained ANN and the mature human visual system the final decision about what a new image represents is the product of a delicate balance between the information contained within the image itself and the readiness of the network to detect certain features within new data.<sup><xref rid="R9" ref-type="bibr">9</xref>,<xref rid="R10" ref-type="bibr">10</xref></sup></p></sec><sec id="S3"><title>Tipping the balance</title><p id="P10">Perception is therefore the product of two sources of information: the sensory data and prior expectations about the sort of information that the sensory data contain. What happens, however, when prior expectations are given too much weight?</p><p id="P11">The Google researchers provide an intuitive example of the problems that inappropriately strong prior expectations can cause in their ANN.<sup><xref rid="R11" ref-type="bibr">11</xref></sup> As mentioned previously, the highest layers of the ANN contain latent representations of objects that the network has been trained to see. The Google researchers asked a network trained to see bananas to detect and enhance &#x02018;banana-like&#x02019; features in an image that contained only meaningless noise. This manipulation inappropriately weighted prior expectation relative to sensory data. The result was that the network was able to &#x02018;perceive&#x02019; objects where none existed in the image itself (akin to a &#x02018;guided hallucination&#x02019;) (see the Google Research Blog article for examples<sup><xref rid="R11" ref-type="bibr">11</xref></sup>). Although the mechanisms employed by this simple network manipulation are not intended to be biologically plausible, the simple experiment demonstrates the power that inappropriately held prior expectations might have on resulting perception.</p><p id="P12">To what extent can inappropriately held prior expectations influence human perception? This question has relevance to descriptive psychopathology and psychiatry. Karl Jaspers, the father of descriptive psychopathology, postulated that &#x02018;illusions due to affect&#x02019; and &#x02018;illusions due to inattentiveness&#x02019; may arise when a person has a strong prior expectation about the state of the world and is confronted with noisy and ambiguous sensory data.<sup><xref rid="R12" ref-type="bibr">12</xref></sup> This exaggerated prior expectation may be informed by the semantic context of a situation (in what have come to be termed &#x02018;completion illusions&#x02019;), the observer's current emotional state<sup><xref rid="R13" ref-type="bibr">13</xref></sup> (in &#x02018;affect illusions&#x02019;), or active imaginative processes acting on inherently ambiguous sensory data (in &#x02018;pareidolic illusions&#x02019;).<sup><xref rid="R1" ref-type="bibr">1</xref>,<xref rid="R12" ref-type="bibr">12</xref>,<xref rid="R14" ref-type="bibr">14</xref>,<xref rid="R15" ref-type="bibr">15</xref></sup> It may be argued that in these situations the observer comes to impose their prior expectations on the ambiguous sensory data.</p></sec><sec id="S4"><title>Contemporary accounts of hallucinations</title><p id="P13">We have argued that perceptual inference always relies on both incoming sensory data and a prior expectation about what these data are likely to represent. Additionally, we have outlined the hypothesis that illusions and hallucinations may be the result of an imbalance between these two sources of information. This simple account is consistent with contemporary theories of illusions and hallucinations, which also implicate a miscalibration between these two sources of evidence.</p><p id="P14">One of the most influential contemporary accounts of perceptual inference is that of hierarchical predictive coding.<sup><xref rid="R9" ref-type="bibr">9</xref>,<xref rid="R16" ref-type="bibr">16</xref>,<xref rid="R17" ref-type="bibr">17</xref></sup> At the heart of the predictive coding account is the notion that the brain maintains a dynamic representation of the world, which is the brain's best prediction about the state that the world is likely to be in. Incoming sensory data are compared against this representation. If there is a good match between the prior prediction and the sensory data the current representation of the state of the world is reinforced. If there is a mismatch, a &#x02018;prediction error&#x02019; signal drives an updating of the brain's current representation of the world, which is subsequently re-tested against the real-world data. The iterative process of matching the brain's predictions to sensory signals underlies perceptual inference.<sup><xref rid="R10" ref-type="bibr">10</xref>,<xref rid="R16" ref-type="bibr">16</xref>,<xref rid="R17" ref-type="bibr">17</xref></sup> This process can become disrupted when the balance between prior predictions and incoming sensory data is changed. The brain's internal representation of the world will be resistant to change, and thus dominate perceptual inference, if the prior prediction is given a greater weight than the incoming sensory data, as may happen when the incoming sensory data are noisy.<sup><xref rid="R9" ref-type="bibr">9</xref>,<xref rid="R16" ref-type="bibr">16</xref>,<xref rid="R17" ref-type="bibr">17</xref></sup> It has been proposed that in some pathological states the brain may mistake its own prior predictions for new incoming sensory data, resulting in perceptual and cognitive abnormalities that share some similarity to acute psychosis.<sup><xref rid="R18" ref-type="bibr">18</xref></sup></p><p id="P15">Another influential account of complex visual hallucinations is the perception and attention deficit (PAD) model, which was developed after studying clinical populations who experience recurrent complex visual hallucinations.<sup><xref rid="R19" ref-type="bibr">19</xref></sup> It was found that people in these populations had combined deficits in low-level sensory processing and attention. The PAD model proposes that in order to perceive an object, the perceptual object must first be selected from a pool of candidate &#x02018;proto-objects&#x02019;, in a process guided by sensory data, prior expectations and attentional processes. In people who have a combined deficit in sensory processing and attention it is conceivable that proto-objects from a misrepresentative pool become inappropriately bound to the visual scene, resulting in a hallucination.<sup><xref rid="R19" ref-type="bibr">19</xref></sup></p><p id="P16">Both the predictive coding and PAD accounts of illusions and hallucinations propose that an overweighting of prior expectation relative to sensory data may underlie certain perceptual abnormalities. This overweighting may be a direct result of inappropriately held prior expectations (as can occur in states of high emotional arousal), or may be secondary to a decrease in the quality (or precision) of incoming sensory data (as may occur in states of low attention, fatigue or sensory impairment).<sup><xref rid="R19" ref-type="bibr">19</xref>,<xref rid="R20" ref-type="bibr">20</xref></sup></p></sec><sec id="S5"><title>Limitations</title><p id="P17">There are several limitations and unanswered questions in this &#x02018;expectation-based&#x02019; model of hallucinations and illusions. First, although Google's ANN provides a nice visual example of the power of overweighted prior expectation, it has key structural and functional differences when compared with the human visual system. Among these are the fact that Google's network hierarchy has many more layers than our current best estimates in the primate brain.<sup><xref rid="R11" ref-type="bibr">11</xref>,<xref rid="R21" ref-type="bibr">21</xref></sup> Moreover, Google's network was trained to &#x02018;see&#x02019; objects in a &#x02018;supervised&#x02019; way, whereby it was told what the images actually represented during training. This bears little resemblance to the &#x02018;unsupervised&#x02019; learning that occurs in the brain.</p><p id="P18">Perhaps more importantly, expectation-based accounts of illusions and hallucinations fall short of explaining some of the most frequently encountered perceptual abnormalities in clinical practice. The hallucinations recounted by patients with psychosis or organic disorders are often bizarre, and seem entirely unexpected given the environmental context.<sup><xref rid="R19" ref-type="bibr">19</xref></sup> Furthermore, although the account of hallucinations given above applies to all sensory modalities, it is unclear why perceptual abnormalities often occur preferentially in one sensory modality in clinical populations (e.g. auditory verbal hallucinations in schizophrenia).<sup><xref rid="R15" ref-type="bibr">15</xref></sup> These questions remain unanswered, and pose an ongoing challenge for computational accounts of perceptual abnormalities in psychiatry.</p></sec><sec sec-type="conclusions" id="S6"><title>Conclusions</title><p id="P19">Although psychiatrists ask patients about perceptual abnormalities on a daily basis, it is not often that we stop to ponder what actually distinguishes normal perceptions from perceptual distortions and deceptions. Current work in psychology, neuroscience and computer science paints a picture of normal perception as being inextricably linked to prior expectations about the state of the world. Perception depends on a delicate balance between the sensory information that we are confronted with, and the prior expectations we have about the world. If the balance is disturbed then perceptual inference becomes disrupted. Without prior expectations, perception is a mathematically ill-posed problem<sup><xref rid="R4" ref-type="bibr">4</xref>,<xref rid="R9" ref-type="bibr">9</xref></sup> (as illustrated by <xref ref-type="fig" rid="F1">Fig. 1</xref>), yet when prior expectation dominates the perceptual process, humans (and ANNs) can come to perceive objects which do not exist in the sensory data. As a result, the division between veridical perception and perceptual distortions or deceptions is more subtle than one of clear qualitative difference.</p></sec></body><back><fn-group><fn fn-type="COI-statement"><p><bold>Declaration of interest</bold> None.</p></fn></fn-group><ref-list><title>References</title><ref id="R1"><label>1</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><name name-style="western"><surname>Casey</surname><given-names>P</given-names></name><name name-style="western"><surname>Kelly</surname><given-names>B</given-names></name></person-group>
-<source>Fish's Clinical Psychopathology: Signs and Symptoms in Psychiatry</source> (<edition>3rd edn</edition>). <publisher-name>RCPsych Publications</publisher-name>, <year>2007</year>.
-</mixed-citation></ref><ref id="R2"><label>2</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><name name-style="western"><surname>Berkeley</surname><given-names>G</given-names></name></person-group>
-<source><italic>A New Theory of Vision</italic>, 1709</source>. <publisher-name>Everyman's Library</publisher-name>, <year>1976</year>.
-</mixed-citation></ref><ref id="R3"><label>3</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Churchland</surname><given-names>PS</given-names></name><name name-style="western"><surname>Churchland</surname><given-names>PM</given-names></name></person-group>
-<article-title>Neural worlds and real worlds</article-title>. <source>Nat Rev Neurosci</source>
-<year>2002</year>; <volume>3</volume>: <fpage>903</fpage>&#x02013;<lpage>7</lpage>.
-<pub-id pub-id-type="pmid">12415298</pub-id></mixed-citation></ref><ref id="R4"><label>4</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Purves</surname><given-names>D</given-names></name><name name-style="western"><surname>Monson</surname><given-names>BB</given-names></name><name name-style="western"><surname>Sundararajan</surname><given-names>J</given-names></name><name name-style="western"><surname>Wojtach</surname><given-names>WT</given-names></name></person-group>
-<article-title>How biological vision succeeds in the physical world</article-title>. <source>Proc Natl Acad Sci USA</source>
-<year>2014</year>; <volume>111</volume>: <fpage>4750</fpage>&#x02013;<lpage>5</lpage>.
-<pub-id pub-id-type="pmid">24639506</pub-id></mixed-citation></ref><ref id="R5"><label>5</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><name name-style="western"><surname>Gregory</surname><given-names>RL</given-names></name></person-group>
-<source>Eye and Brain: The Psychology of Seeing</source> (<edition>5th edn</edition>). <publisher-name>Princeton University Press</publisher-name>, <year>1997</year>: p. <fpage>277</fpage>.
-</mixed-citation></ref><ref id="R6"><label>6</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Kersten</surname><given-names>D</given-names></name><name name-style="western"><surname>Mamassian</surname><given-names>P</given-names></name><name name-style="western"><surname>Yuille</surname><given-names>A</given-names></name></person-group>
-<article-title>Object perception as Bayesian inference</article-title>. <source>Annu Rev Psychol</source>
-<year>2004</year>; <volume>55</volume>: <fpage>271</fpage>&#x02013;<lpage>304</lpage>.
-<pub-id pub-id-type="pmid">14744217</pub-id></mixed-citation></ref><ref id="R7"><label>7</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Summerfield</surname><given-names>C</given-names></name><name name-style="western"><surname>de Lange</surname><given-names>FP</given-names></name></person-group>
-<article-title>Expectation in perceptual decision making: neural and computational mechanisms</article-title>. <source>Nat Rev Neurosci</source>
-<year>2014</year>; <volume>15</volume>: <fpage>745</fpage>&#x02013;<lpage>56</lpage>.
-<pub-id pub-id-type="pmid">25315388</pub-id></mixed-citation></ref><ref id="R8"><label>8</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><name name-style="western"><surname>Buzs&#x000e1;ki</surname><given-names>G</given-names></name></person-group>
-<source>Rhythms of the Brain</source>. <publisher-name>Oxford University Press</publisher-name>, <year>2006</year>.
-</mixed-citation></ref><ref id="R9"><label>9</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Friston</surname><given-names>K</given-names></name></person-group>
-<article-title>A theory of cortical responses</article-title>. <source>Philos Trans R Soc Lond B Biol Sci</source>
-<year>2005</year>; <volume>360</volume>: <fpage>815</fpage>&#x02013;<lpage>36</lpage>.
-<pub-id pub-id-type="pmid">15937014</pub-id></mixed-citation></ref><ref id="R10"><label>10</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Clark</surname><given-names>A</given-names></name></person-group>
-<article-title>Whatever next? Predictive brains, situated agents, and the future of cognitive science</article-title>. <source>Behav Brain Sci</source>
-<year>2013</year>; <volume>36</volume>: <fpage>181</fpage>&#x02013;<lpage>204</lpage>.
-<pub-id pub-id-type="pmid">23663408</pub-id></mixed-citation></ref><ref id="R11"><label>11</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><name name-style="western"><surname>Mordvintsev</surname><given-names>A</given-names></name><name name-style="western"><surname>Olah</surname><given-names>C</given-names></name><name name-style="western"><surname>Tyka</surname><given-names>M</given-names></name></person-group>
-<source>Inceptionism: Going Deeper into Neural Networks</source>. <publisher-name>Google Research Blog</publisher-name>, <year>2015</year> Available from: <uri xlink:href="http://googleresearch.blogspot.co.uk/2015/06/inceptionism-going-deeper-into-neural.html">http://googleresearch.blogspot.co.uk/2015/06/inceptionism-going-deeper-into-neural.html</uri>
+                </corresp>
+                <fn>
+                    <p>
+                        <bold>Matthew M. Nour</bold> is a Clinical Research Fellow at Psychiatric Imaging Group, MRC Clinical Sciences Centre, Imperial College London, and Core Trainee in Psychiatry at South London and Maudsley NHS Foundation Trust, London, UK. <bold>Joseph M. Nour</bold> is an Academic Foundation doctor at Oxford University Hospitals NHS Foundation Trust and Oxford University Clinical Academic Graduate School (OUCAGS), John Radcliffe Hospital, Oxford, UK.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="ppub">
+                <month>2</month>
+                <year>2017</year>
+            </pub-date>
+            <volume>41</volume>
+            <issue>1</issue>
+            <fpage>37</fpage>
+            <lpage>40</lpage>
+            <history>
+                <date date-type="received">
+                    <day>19</day>
+                    <month>7</month>
+                    <year>2015</year>
+                </date>
+                <date date-type="rev-recd">
+                    <day>13</day>
+                    <month>2</month>
+                    <year>2016</year>
+                </date>
+                <date date-type="accepted">
+                    <day>24</day>
+                    <month>2</month>
+                    <year>2016</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>&#x000a9; 2017 The Authors</copyright-statement>
+                <copyright-year>2017</copyright-year>
+                <license license-type="creative-commons" xlink:href="http://creativecommons.org/licenses/by/4.0">
+                    <license-p>This is an open-access article published by the Royal College of Psychiatrists and distributed under the terms of the Creative Commons Attribution License (<uri xlink:href="http://creativecommons.org/licenses/by/4.0">http://creativecommons.org/licenses/by/4.0</uri>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <self-uri xlink:title="pdf" xlink:href="37.pdf" />
+            <abstract>
+                <p id="P1">The nature of perception has fascinated philosophers for centuries, and has more recently been the focus of research in psychology and neuroscience. Many psychiatric disorders are characterised by perceptual abnormalities, ranging from sensory distortions to illusions and hallucinations. The distinction between normal and abnormal perception is, however, hard to articulate. In this article we argue that the distinction between normal perception and abnormal perception is best seen as a quantitative one, resting on the degree to which the observer's prior expectations influence perceptual inference. We illustrate this point with an example taken from researchers at Google working on computer vision.</p>
+            </abstract>
+        </article-meta>
+    </front>
+    <body>
+        <p id="P2">No mental state examination would be complete without a statement relating to abnormalities of perception. According to Fish, perceptual abnormalities may be classified as either sensory distortions (e.g. hyperacusis and dysmegalopsia) or sensory deceptions (e.g. illusions and hallucinations), with both categories deviating from veridical perception.<sup>
+            <xref rid="R1" ref-type="bibr">1</xref>
+        </sup> The clean simplicity of this definition underlies part of its clinical utility, but also gives the impression that the characteristics of &#x02018;normal&#x02019; veridical perception are well understood. The nature of perception, however, has troubled philosophers for centuries,<sup>
+        <xref rid="R2" ref-type="bibr">2</xref>,        <xref rid="R3" ref-type="bibr">3</xref>
+    </sup> and has been the focus of intense investigation by neuroscientists and psychologists in recent decades.<sup>
+    <xref rid="R4" ref-type="bibr">4</xref>&#x02013;<xref rid="R7" ref-type="bibr">7</xref>
+</sup> Just how does the brain transform the light hitting the retina into the infinitely complex three-dimensional world that we see when we open our eyes? How much of what we perceive is really present in the sensory data hitting our eyes, and to what extent do our prior expectations shape our perception? Do we perceive the world as it really is, and if not, does that mean that our normal perceptions are distorted or deceptive? If so, in what way does normal perception differ from abnormal perception? These questions may seem to be only of philosophical relevance, but researchers working in the fields of perceptual neuroscience and computer vision are regularly confronted by them.</p>
+<p id="P3">In this article we outline some exciting insights into how the brain may construct reality. Intriguingly, these findings have come from the field of machine learning, a branch of computer science and robotics.</p>
+<sec id="S1">
+<title>The problem of perception</title>
+<p id="P4">How does your visual system construct a representation of the world? Perhaps most readers would reply that the brain extracts the information about the physical world that is contained within incoming sensory signals. Much of the neuroscience of the past half-century has investigated perceptual processing starting from this assumption.<sup>
+    <xref rid="R4" ref-type="bibr">4</xref>,    <xref rid="R8" ref-type="bibr">8</xref>
+</sup> The account of perceptual processing found in most undergraduate textbooks states that the sensory processing pathway (including the sensory epithelia, subcortical nuclei, thalamus, sensory cortices and heteromodal association cortices) extracts information from incoming sensory data in a stepwise manner. If all goes smoothly we perceive the world &#x02018;as it really is&#x02019;.</p>
+<p id="P5">There are several problems, however, with the view that perception proceeds by extracting information from the incoming signals alone. Perhaps the most damning consideration was recognised by George Berkeley in the 18th century as the &#x02018;inverse optics&#x02019; problem,<sup>
+<xref rid="R2" ref-type="bibr">2</xref>,<xref rid="R4" ref-type="bibr">4</xref>
+</sup> which states that information collected by the sensory epithelia is insufficient to allow an unambiguous mapping back on to real-world sources. The light hitting the retina, for example, forms a two-dimensional image, which has an infinite number of possible three-dimensional &#x02018;real-world&#x02019; sources. The image conflates information about object illumination, reflectance and transmittance.<sup>
+<xref rid="R4" ref-type="bibr">4</xref>
+</sup> Computer vision faces similar problems. A car, for example, looks different from different viewing angles and distances, and in different lighting conditions. The problem of inferring the state of the world from sensory data alone is (mathematically) ill-posed.<sup>
+<xref rid="R9" ref-type="bibr">9</xref>
+</sup> One powerful illustration of this principle is demonstrated by the famous Necker cube illusion,<sup>
+<xref rid="R5" ref-type="bibr">5</xref>
+</sup> where the sensory information alone is insufficient to resolve the question of the orientation of the wire cube and there is no simple mapping between sensory data and perception (<xref ref-type="fig" rid="F1">Fig. 1</xref>).
+</p>
+<fig id="F1" orientation="portrait" position="float">
+<label>Fig 1</label>
+<caption>
+<p>The Necker Cube illusion is a bistable visual illusion. The same sensory data are able to support two perceptual inferences (one in which corner 1 is closest to the observer, the other in which corner 2 is closest).</p>
+</caption>
+<graphic xlink:href="38f1" />
+</fig>
+</sec>
+<sec id="S2">
+<title>Expectation is necessary for perception</title>
+<p id="P6">If sensory data alone cannot support perception, how does the brain create accurate perceptual representations of the world? It is now appreciated that ill-posed problems such as vision can be made tractable by using contextual information to impose constraints on the interpretation of ambiguous data. In the case of vision, for example, past experiences of seeing similar visual scenes sets up expectations about the likely current state of the world, and any new sensory data are interpreted in light of these expectations. Consistent with this hypothesis, the sensory processing pathways in the brain do not just support one-way &#x02018;bottom-up&#x02019; information flow (from low-level data in the primary sensory cortex to more complex representations in heteromodal association cortices), but also support &#x02018;top-down&#x02019; information flow, whereby information about the current expected state of the world cascades down from high cortical areas to influence information processing in low sensory areas.<sup>
+<xref rid="R9" ref-type="bibr">9</xref>,<xref rid="R10" ref-type="bibr">10</xref>
+</sup> Some have argued that the &#x02018;heavy lifting&#x02019; of perceptual processing is performed by these top-down pathways, which make predictions about the state of the world that are tested against sensory data.<sup>
+<xref rid="R10" ref-type="bibr">10</xref>
+</sup>
+</p>
+<p id="P7">The ability of the brain to make sense of sensory information has inspired computer scientists working on computer vision and similar problems to take a similar approach. Recently, researchers at Google created an impressive visual recognition system using a processing architecture inspired by the human brain, called an &#x02018;artificial neural network&#x02019; (ANN).<sup>
+<xref rid="R11" ref-type="bibr">11</xref>
+</sup> ANNs consist of artificial &#x02018;neurons&#x02019; that are organised into layers, reminiscent of the brain's hierarchical organisation. These networks are particularly good at detecting features and patterns in new data, and using these features to perform classification tasks. This is similar to what the brain does when engaged in perceptual inference, which may be thought of as the detection of objects and meaningful patterns in sensory data. New data enter the ANN at the lowest &#x02018;input&#x02019; layer (analogous to light hitting light-sensitive neurons in the retina) and is processed sequentially by progressively higher layers of the network. At each layer the network attempts to extract patterns and features from these data, with higher layers of the network extracting increasingly more abstract features. At the highest layer a &#x02018;decision&#x02019; is made about what the data represent.</p>
+<p id="P8">Importantly, a new ANN must be adequately &#x02018;trained&#x02019; before it can perform successful pattern detection and classification tasks. During training the network is exposed to many different data-sets (e.g. images) and attempts to classify the data appropriately. The network is able to self-calibrate, guided by its successes and errors, in a process analogous to synaptic plasticity. After exposure to thousands of images of, say, cats, the network learns to recognise cats in images to which it has never before been exposed.</p>
+<p id="P9">The well-trained ANN is primed to recognise salient features and patterns in new data in much the same way that the brain is primed to recognise the patterns in sensory data that are most important for detecting behaviourally relevant objects. Prior to training, the ANN is essentially blind to meaningful patterns in new data. In both the well-trained ANN and the mature human visual system the final decision about what a new image represents is the product of a delicate balance between the information contained within the image itself and the readiness of the network to detect certain features within new data.<sup>
+<xref rid="R9" ref-type="bibr">9</xref>,<xref rid="R10" ref-type="bibr">10</xref>
+</sup>
+</p>
+</sec>
+<sec id="S3">
+<title>Tipping the balance</title>
+<p id="P10">Perception is therefore the product of two sources of information: the sensory data and prior expectations about the sort of information that the sensory data contain. What happens, however, when prior expectations are given too much weight?</p>
+<p id="P11">The Google researchers provide an intuitive example of the problems that inappropriately strong prior expectations can cause in their ANN.<sup>
+<xref rid="R11" ref-type="bibr">11</xref>
+</sup> As mentioned previously, the highest layers of the ANN contain latent representations of objects that the network has been trained to see. The Google researchers asked a network trained to see bananas to detect and enhance &#x02018;banana-like&#x02019; features in an image that contained only meaningless noise. This manipulation inappropriately weighted prior expectation relative to sensory data. The result was that the network was able to &#x02018;perceive&#x02019; objects where none existed in the image itself (akin to a &#x02018;guided hallucination&#x02019;) (see the Google Research Blog article for examples<sup>
+<xref rid="R11" ref-type="bibr">11</xref>
+</sup>). Although the mechanisms employed by this simple network manipulation are not intended to be biologically plausible, the simple experiment demonstrates the power that inappropriately held prior expectations might have on resulting perception.</p>
+<p id="P12">To what extent can inappropriately held prior expectations influence human perception? This question has relevance to descriptive psychopathology and psychiatry. Karl Jaspers, the father of descriptive psychopathology, postulated that &#x02018;illusions due to affect&#x02019; and &#x02018;illusions due to inattentiveness&#x02019; may arise when a person has a strong prior expectation about the state of the world and is confronted with noisy and ambiguous sensory data.<sup>
+<xref rid="R12" ref-type="bibr">12</xref>
+</sup> This exaggerated prior expectation may be informed by the semantic context of a situation (in what have come to be termed &#x02018;completion illusions&#x02019;), the observer's current emotional state<sup>
+<xref rid="R13" ref-type="bibr">13</xref>
+</sup> (in &#x02018;affect illusions&#x02019;), or active imaginative processes acting on inherently ambiguous sensory data (in &#x02018;pareidolic illusions&#x02019;).<sup>
+<xref rid="R1" ref-type="bibr">1</xref>,<xref rid="R12" ref-type="bibr">12</xref>,<xref rid="R14" ref-type="bibr">14</xref>,<xref rid="R15" ref-type="bibr">15</xref>
+</sup> It may be argued that in these situations the observer comes to impose their prior expectations on the ambiguous sensory data.</p>
+</sec>
+<sec id="S4">
+<title>Contemporary accounts of hallucinations</title>
+<p id="P13">We have argued that perceptual inference always relies on both incoming sensory data and a prior expectation about what these data are likely to represent. Additionally, we have outlined the hypothesis that illusions and hallucinations may be the result of an imbalance between these two sources of information. This simple account is consistent with contemporary theories of illusions and hallucinations, which also implicate a miscalibration between these two sources of evidence.</p>
+<p id="P14">One of the most influential contemporary accounts of perceptual inference is that of hierarchical predictive coding.<sup>
+<xref rid="R9" ref-type="bibr">9</xref>,<xref rid="R16" ref-type="bibr">16</xref>,<xref rid="R17" ref-type="bibr">17</xref>
+</sup> At the heart of the predictive coding account is the notion that the brain maintains a dynamic representation of the world, which is the brain's best prediction about the state that the world is likely to be in. Incoming sensory data are compared against this representation. If there is a good match between the prior prediction and the sensory data the current representation of the state of the world is reinforced. If there is a mismatch, a &#x02018;prediction error&#x02019; signal drives an updating of the brain's current representation of the world, which is subsequently re-tested against the real-world data. The iterative process of matching the brain's predictions to sensory signals underlies perceptual inference.<sup>
+<xref rid="R10" ref-type="bibr">10</xref>,<xref rid="R16" ref-type="bibr">16</xref>,<xref rid="R17" ref-type="bibr">17</xref>
+</sup> This process can become disrupted when the balance between prior predictions and incoming sensory data is changed. The brain's internal representation of the world will be resistant to change, and thus dominate perceptual inference, if the prior prediction is given a greater weight than the incoming sensory data, as may happen when the incoming sensory data are noisy.<sup>
+<xref rid="R9" ref-type="bibr">9</xref>,<xref rid="R16" ref-type="bibr">16</xref>,<xref rid="R17" ref-type="bibr">17</xref>
+</sup> It has been proposed that in some pathological states the brain may mistake its own prior predictions for new incoming sensory data, resulting in perceptual and cognitive abnormalities that share some similarity to acute psychosis.<sup>
+<xref rid="R18" ref-type="bibr">18</xref>
+</sup>
+</p>
+<p id="P15">Another influential account of complex visual hallucinations is the perception and attention deficit (PAD) model, which was developed after studying clinical populations who experience recurrent complex visual hallucinations.<sup>
+<xref rid="R19" ref-type="bibr">19</xref>
+</sup> It was found that people in these populations had combined deficits in low-level sensory processing and attention. The PAD model proposes that in order to perceive an object, the perceptual object must first be selected from a pool of candidate &#x02018;proto-objects&#x02019;, in a process guided by sensory data, prior expectations and attentional processes. In people who have a combined deficit in sensory processing and attention it is conceivable that proto-objects from a misrepresentative pool become inappropriately bound to the visual scene, resulting in a hallucination.<sup>
+<xref rid="R19" ref-type="bibr">19</xref>
+</sup>
+</p>
+<p id="P16">Both the predictive coding and PAD accounts of illusions and hallucinations propose that an overweighting of prior expectation relative to sensory data may underlie certain perceptual abnormalities. This overweighting may be a direct result of inappropriately held prior expectations (as can occur in states of high emotional arousal), or may be secondary to a decrease in the quality (or precision) of incoming sensory data (as may occur in states of low attention, fatigue or sensory impairment).<sup>
+<xref rid="R19" ref-type="bibr">19</xref>,<xref rid="R20" ref-type="bibr">20</xref>
+</sup>
+</p>
+</sec>
+<sec id="S5">
+<title>Limitations</title>
+<p id="P17">There are several limitations and unanswered questions in this &#x02018;expectation-based&#x02019; model of hallucinations and illusions. First, although Google's ANN provides a nice visual example of the power of overweighted prior expectation, it has key structural and functional differences when compared with the human visual system. Among these are the fact that Google's network hierarchy has many more layers than our current best estimates in the primate brain.<sup>
+<xref rid="R11" ref-type="bibr">11</xref>,<xref rid="R21" ref-type="bibr">21</xref>
+</sup> Moreover, Google's network was trained to &#x02018;see&#x02019; objects in a &#x02018;supervised&#x02019; way, whereby it was told what the images actually represented during training. This bears little resemblance to the &#x02018;unsupervised&#x02019; learning that occurs in the brain.</p>
+<p id="P18">Perhaps more importantly, expectation-based accounts of illusions and hallucinations fall short of explaining some of the most frequently encountered perceptual abnormalities in clinical practice. The hallucinations recounted by patients with psychosis or organic disorders are often bizarre, and seem entirely unexpected given the environmental context.<sup>
+<xref rid="R19" ref-type="bibr">19</xref>
+</sup> Furthermore, although the account of hallucinations given above applies to all sensory modalities, it is unclear why perceptual abnormalities often occur preferentially in one sensory modality in clinical populations (e.g. auditory verbal hallucinations in schizophrenia).<sup>
+<xref rid="R15" ref-type="bibr">15</xref>
+</sup> These questions remain unanswered, and pose an ongoing challenge for computational accounts of perceptual abnormalities in psychiatry.</p>
+</sec>
+<sec sec-type="conclusions" id="S6">
+<title>Conclusions</title>
+<p id="P19">Although psychiatrists ask patients about perceptual abnormalities on a daily basis, it is not often that we stop to ponder what actually distinguishes normal perceptions from perceptual distortions and deceptions. Current work in psychology, neuroscience and computer science paints a picture of normal perception as being inextricably linked to prior expectations about the state of the world. Perception depends on a delicate balance between the sensory information that we are confronted with, and the prior expectations we have about the world. If the balance is disturbed then perceptual inference becomes disrupted. Without prior expectations, perception is a mathematically ill-posed problem<sup>
+<xref rid="R4" ref-type="bibr">4</xref>,<xref rid="R9" ref-type="bibr">9</xref>
+</sup> (as illustrated by <xref ref-type="fig" rid="F1">Fig. 1</xref>), yet when prior expectation dominates the perceptual process, humans (and ANNs) can come to perceive objects which do not exist in the sensory data. As a result, the division between veridical perception and perceptual distortions or deceptions is more subtle than one of clear qualitative difference.</p>
+</sec>
+</body>
+<back>
+<fn-group>
+<fn fn-type="COI-statement">
+<p>
+<bold>Declaration of interest</bold> None.</p>
+</fn>
+</fn-group>
+<ref-list>
+<title>References</title>
+<ref id="R1">
+<label>1</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Casey</surname>
+<given-names>P</given-names>
+</name>
+<name name-style="western">
+<surname>Kelly</surname>
+<given-names>B</given-names>
+</name>
+</person-group>
+<source>Fish's Clinical Psychopathology: Signs and Symptoms in Psychiatry</source> (<edition>3rd edn</edition>).<publisher-name>RCPsych Publications</publisher-name>,<year>2007</year>.
+</mixed-citation>
+</ref>
+<ref id="R2">
+<label>2</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Berkeley</surname>
+<given-names>G</given-names>
+</name>
+</person-group>
+<source>
+<italic>A New Theory of Vision</italic>, 1709</source>.<publisher-name>Everyman's Library</publisher-name>,<year>1976</year>.
+</mixed-citation>
+</ref>
+<ref id="R3">
+<label>3</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Churchland</surname>
+<given-names>PS</given-names>
+</name>
+<name name-style="western">
+<surname>Churchland</surname>
+<given-names>PM</given-names>
+</name>
+</person-group>
+<article-title>Neural worlds and real worlds</article-title>.<source>Nat Rev Neurosci</source>
+<year>2002</year>;<volume>3</volume>:<fpage>903</fpage>&#x02013;<lpage>7</lpage>.
+<pub-id pub-id-type="pmid">12415298</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R4">
+<label>4</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Purves</surname>
+<given-names>D</given-names>
+</name>
+<name name-style="western">
+<surname>Monson</surname>
+<given-names>BB</given-names>
+</name>
+<name name-style="western">
+<surname>Sundararajan</surname>
+<given-names>J</given-names>
+</name>
+<name name-style="western">
+<surname>Wojtach</surname>
+<given-names>WT</given-names>
+</name>
+</person-group>
+<article-title>How biological vision succeeds in the physical world</article-title>.<source>Proc Natl Acad Sci USA</source>
+<year>2014</year>;<volume>111</volume>:<fpage>4750</fpage>&#x02013;<lpage>5</lpage>.
+<pub-id pub-id-type="pmid">24639506</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R5">
+<label>5</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Gregory</surname>
+<given-names>RL</given-names>
+</name>
+</person-group>
+<source>Eye and Brain: The Psychology of Seeing</source> (<edition>5th edn</edition>).<publisher-name>Princeton University Press</publisher-name>,<year>1997</year>: p. <fpage>277</fpage>.
+</mixed-citation>
+</ref>
+<ref id="R6">
+<label>6</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Kersten</surname>
+<given-names>D</given-names>
+</name>
+<name name-style="western">
+<surname>Mamassian</surname>
+<given-names>P</given-names>
+</name>
+<name name-style="western">
+<surname>Yuille</surname>
+<given-names>A</given-names>
+</name>
+</person-group>
+<article-title>Object perception as Bayesian inference</article-title>.<source>Annu Rev Psychol</source>
+<year>2004</year>;<volume>55</volume>:<fpage>271</fpage>&#x02013;<lpage>304</lpage>.
+<pub-id pub-id-type="pmid">14744217</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R7">
+<label>7</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Summerfield</surname>
+<given-names>C</given-names>
+</name>
+<name name-style="western">
+<surname>de Lange</surname>
+<given-names>FP</given-names>
+</name>
+</person-group>
+<article-title>Expectation in perceptual decision making: neural and computational mechanisms</article-title>.<source>Nat Rev Neurosci</source>
+<year>2014</year>;<volume>15</volume>:<fpage>745</fpage>&#x02013;<lpage>56</lpage>.
+<pub-id pub-id-type="pmid">25315388</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R8">
+<label>8</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Buzs&#x000e1;ki</surname>
+<given-names>G</given-names>
+</name>
+</person-group>
+<source>Rhythms of the Brain</source>.<publisher-name>Oxford University Press</publisher-name>,<year>2006</year>.
+</mixed-citation>
+</ref>
+<ref id="R9">
+<label>9</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Friston</surname>
+<given-names>K</given-names>
+</name>
+</person-group>
+<article-title>A theory of cortical responses</article-title>.<source>Philos Trans R Soc Lond B Biol Sci</source>
+<year>2005</year>;<volume>360</volume>:<fpage>815</fpage>&#x02013;<lpage>36</lpage>.
+<pub-id pub-id-type="pmid">15937014</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R10">
+<label>10</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Clark</surname>
+<given-names>A</given-names>
+</name>
+</person-group>
+<article-title>Whatever next? Predictive brains, situated agents, and the future of cognitive science</article-title>.<source>Behav Brain Sci</source>
+<year>2013</year>;<volume>36</volume>:<fpage>181</fpage>&#x02013;<lpage>204</lpage>.
+<pub-id pub-id-type="pmid">23663408</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R11">
+<label>11</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Mordvintsev</surname>
+<given-names>A</given-names>
+</name>
+<name name-style="western">
+<surname>Olah</surname>
+<given-names>C</given-names>
+</name>
+<name name-style="western">
+<surname>Tyka</surname>
+<given-names>M</given-names>
+</name>
+</person-group>
+<source>Inceptionism: Going Deeper into Neural Networks</source>.<publisher-name>Google Research Blog</publisher-name>,<year>2015</year> Available from: <uri xlink:href="http://googleresearch.blogspot.co.uk/2015/06/inceptionism-going-deeper-into-neural.html">http://googleresearch.blogspot.co.uk/2015/06/inceptionism-going-deeper-into-neural.html</uri>
 <comment>(accessed 19 July 2015)</comment>.
-</mixed-citation></ref><ref id="R12"><label>12</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><name name-style="western"><surname>Jaspers</surname><given-names>K</given-names></name></person-group>
-<source>General Psychopathology</source> (transl. <person-group person-group-type="translator"><name name-style="western"><surname>Hoenig</surname><given-names>J</given-names></name><name name-style="western"><surname>Hamilton</surname><given-names>MW</given-names></name></person-group>). <publisher-name>The Johns Hopkins University Press</publisher-name>, <year>1997</year>.
-</mixed-citation></ref><ref id="R13"><label>13</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Barrett</surname><given-names>LF</given-names></name><name name-style="western"><surname>Bar</surname><given-names>M</given-names></name></person-group>
-<article-title>See it with feeling: affective predictions during object perception</article-title>. <source>Philos Trans R Soc Lond B Biol Sci</source>
-<year>2009</year>; <volume>364</volume>: <fpage>1325</fpage>&#x02013;<lpage>34</lpage>.
-<pub-id pub-id-type="pmid">19528014</pub-id></mixed-citation></ref><ref id="R14"><label>14</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><name name-style="western"><surname>Oyebode</surname><given-names>F</given-names></name></person-group>
-<source>Sims' Symptoms in the Mind: An Introduction to Descriptive Psychopathology</source> (<edition>4th edn</edition>). <publisher-name>Elsevier Ltd</publisher-name>, <year>2008</year>.
-</mixed-citation></ref><ref id="R15"><label>15</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><name name-style="western"><surname>Semple</surname><given-names>D</given-names></name><name name-style="western"><surname>Smyth</surname><given-names>R</given-names></name></person-group>
-<source>Oxford Handbook of Psychiatry</source> (<edition>2nd edn</edition>). <publisher-name>Oxford University Press</publisher-name>, <year>2009</year>.
-</mixed-citation></ref><ref id="R16"><label>16</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Friston</surname><given-names>K</given-names></name></person-group>
-<article-title>Learning and inference in the brain</article-title>. <source>Neural Netw</source>
-<year>2003</year>; <volume>16</volume>: <fpage>1325</fpage>&#x02013;<lpage>52</lpage>.
-<pub-id pub-id-type="pmid">14622888</pub-id></mixed-citation></ref><ref id="R17"><label>17</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Friston</surname><given-names>K</given-names></name></person-group>
+</mixed-citation>
+</ref>
+<ref id="R12">
+<label>12</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Jaspers</surname>
+<given-names>K</given-names>
+</name>
+</person-group>
+<source>General Psychopathology</source> (transl. <person-group person-group-type="translator">
+<name name-style="western">
+<surname>Hoenig</surname>
+<given-names>J</given-names>
+</name>
+<name name-style="western">
+<surname>Hamilton</surname>
+<given-names>MW</given-names>
+</name>
+</person-group>).<publisher-name>The Johns Hopkins University Press</publisher-name>,<year>1997</year>.
+</mixed-citation>
+</ref>
+<ref id="R13">
+<label>13</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Barrett</surname>
+<given-names>LF</given-names>
+</name>
+<name name-style="western">
+<surname>Bar</surname>
+<given-names>M</given-names>
+</name>
+</person-group>
+<article-title>See it with feeling: affective predictions during object perception</article-title>.<source>Philos Trans R Soc Lond B Biol Sci</source>
+<year>2009</year>;<volume>364</volume>:<fpage>1325</fpage>&#x02013;<lpage>34</lpage>.
+<pub-id pub-id-type="pmid">19528014</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R14">
+<label>14</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Oyebode</surname>
+<given-names>F</given-names>
+</name>
+</person-group>
+<source>Sims' Symptoms in the Mind: An Introduction to Descriptive Psychopathology</source> (<edition>4th edn</edition>).<publisher-name>Elsevier Ltd</publisher-name>,<year>2008</year>.
+</mixed-citation>
+</ref>
+<ref id="R15">
+<label>15</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Semple</surname>
+<given-names>D</given-names>
+</name>
+<name name-style="western">
+<surname>Smyth</surname>
+<given-names>R</given-names>
+</name>
+</person-group>
+<source>Oxford Handbook of Psychiatry</source> (<edition>2nd edn</edition>).<publisher-name>Oxford University Press</publisher-name>,<year>2009</year>.
+</mixed-citation>
+</ref>
+<ref id="R16">
+<label>16</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Friston</surname>
+<given-names>K</given-names>
+</name>
+</person-group>
+<article-title>Learning and inference in the brain</article-title>.<source>Neural Netw</source>
+<year>2003</year>;<volume>16</volume>:<fpage>1325</fpage>&#x02013;<lpage>52</lpage>.
+<pub-id pub-id-type="pmid">14622888</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R17">
+<label>17</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Friston</surname>
+<given-names>K</given-names>
+</name>
+</person-group>
 <article-title>The free-energy principle: a unified brain theory?</article-title>
 <source>Nat Rev Neurosci</source>
-<year>2010</year>; <volume>11</volume>: <fpage>127</fpage>&#x02013;<lpage>38</lpage>.
-<pub-id pub-id-type="pmid">20068583</pub-id></mixed-citation></ref><ref id="R18"><label>18</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Jardri</surname><given-names>R</given-names></name><name name-style="western"><surname>Den&#x000e8;ve</surname><given-names>S</given-names></name></person-group>
-<article-title>Circular inferences in schizophrenia</article-title>. <source>Brain</source>
-<year>2013</year>; <volume>136</volume>: <fpage>3227</fpage>&#x02013;<lpage>41</lpage>.
-<pub-id pub-id-type="pmid">24065721</pub-id></mixed-citation></ref><ref id="R19"><label>19</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Collerton</surname><given-names>D</given-names></name><name name-style="western"><surname>Perry</surname><given-names>E</given-names></name><name name-style="western"><surname>McKeith</surname><given-names>I</given-names></name></person-group>
-<article-title>Why people see things that are not there: a novel perception and attention deficit model for recurrent complex visual hallucinations</article-title>. <source>Behav Brain Sci</source>
-<year>2005</year>; <volume>28</volume>: <fpage>737</fpage>&#x02013;<lpage>57</lpage>.
-<pub-id pub-id-type="pmid">16372931</pub-id></mixed-citation></ref><ref id="R20"><label>20</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Nour</surname><given-names>MM</given-names></name><name name-style="western"><surname>Nour</surname><given-names>JM</given-names></name></person-group>
-<article-title>Perception, illusions and Bayesian inference</article-title>. <source>Psychopathology</source>
-<year>2015</year>; <volume>48</volume>: <fpage>217</fpage>&#x02013;<lpage>21</lpage>.
-<pub-id pub-id-type="pmid">26279057</pub-id></mixed-citation></ref><ref id="R21"><label>21</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Felleman</surname><given-names>DJ</given-names></name><name name-style="western"><surname>Van Essen</surname><given-names>DC</given-names></name></person-group>
-<article-title>Distributed hierarchical processing in the primate cerebral cortex</article-title>. <source>Cereb Cortex</source>
-<year>1991</year>; <volume>1</volume>: <fpage>1</fpage>&#x02013;<lpage>47</lpage>.
-<pub-id pub-id-type="pmid">1822724</pub-id></mixed-citation></ref></ref-list></back></article>
+<year>2010</year>;<volume>11</volume>:<fpage>127</fpage>&#x02013;<lpage>38</lpage>.
+<pub-id pub-id-type="pmid">20068583</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R18">
+<label>18</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Jardri</surname>
+<given-names>R</given-names>
+</name>
+<name name-style="western">
+<surname>Den&#x000e8;ve</surname>
+<given-names>S</given-names>
+</name>
+</person-group>
+<article-title>Circular inferences in schizophrenia</article-title>.<source>Brain</source>
+<year>2013</year>;<volume>136</volume>:<fpage>3227</fpage>&#x02013;<lpage>41</lpage>.
+<pub-id pub-id-type="pmid">24065721</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R19">
+<label>19</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Collerton</surname>
+<given-names>D</given-names>
+</name>
+<name name-style="western">
+<surname>Perry</surname>
+<given-names>E</given-names>
+</name>
+<name name-style="western">
+<surname>McKeith</surname>
+<given-names>I</given-names>
+</name>
+</person-group>
+<article-title>Why people see things that are not there: a novel perception and attention deficit model for recurrent complex visual hallucinations</article-title>.<source>Behav Brain Sci</source>
+<year>2005</year>;<volume>28</volume>:<fpage>737</fpage>&#x02013;<lpage>57</lpage>.
+<pub-id pub-id-type="pmid">16372931</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R20">
+<label>20</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Nour</surname>
+<given-names>MM</given-names>
+</name>
+<name name-style="western">
+<surname>Nour</surname>
+<given-names>JM</given-names>
+</name>
+</person-group>
+<article-title>Perception, illusions and Bayesian inference</article-title>.<source>Psychopathology</source>
+<year>2015</year>;<volume>48</volume>:<fpage>217</fpage>&#x02013;<lpage>21</lpage>.
+<pub-id pub-id-type="pmid">26279057</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R21">
+<label>21</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Felleman</surname>
+<given-names>DJ</given-names>
+</name>
+<name name-style="western">
+<surname>Van Essen</surname>
+<given-names>DC</given-names>
+</name>
+</person-group>
+<article-title>Distributed hierarchical processing in the primate cerebral cortex</article-title>.<source>Cereb Cortex</source>
+<year>1991</year>;<volume>1</volume>:<fpage>1</fpage>&#x02013;<lpage>47</lpage>.
+<pub-id pub-id-type="pmid">1822724</pub-id>
+</mixed-citation>
+</ref>
+</ref-list>
+</back>
+</article>

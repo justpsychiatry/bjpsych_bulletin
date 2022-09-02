@@ -1,122 +1,694 @@
-<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1d3 20150301//EN" "JATS-archivearticle1.dtd"> 
-<article xmlns:ali="http://www.niso.org/schemas/ali/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="editorial"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Publishing DTD v2.3 20070202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName journalpublishing.dtd?><?SourceDTD.Version 2.3?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 2?><front><journal-meta><journal-id journal-id-type="nlm-ta">BJPsych Bull</journal-id><journal-id journal-id-type="iso-abbrev">BJPsych Bull</journal-id><journal-id journal-id-type="hwp">pbrcpsych</journal-id><journal-title-group><journal-title>BJPsych Bulletin</journal-title></journal-title-group><issn pub-type="ppub">2056-4694</issn><issn pub-type="epub">2056-4708</issn><publisher><publisher-name>Royal College of Psychiatrists</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">4478930</article-id><article-id pub-id-type="doi">10.1192/pb.bp.113.046227</article-id><article-categories><subj-group subj-group-type="heading"><subject>Editorial</subject></subj-group></article-categories><title-group><article-title>Do psychiatry and neurology need a close partnership or a merger?<xref ref-type="author-notes" rid="fn1"><sup>&#x02020;</sup></xref></article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Fitzgerald</surname><given-names>Michael</given-names></name><xref ref-type="aff" rid="A1">1</xref></contrib><aff id="A1"><label>1</label>Trinity College Dublin, Ireland</aff></contrib-group><author-notes><corresp>Correspondence to Michael Fitzgerald (<email>profmichaelfitzgerald@gmail.com</email>)
-</corresp><fn><p><bold>Michael Fitzgerald</bold> was Henry Marsh Professor Of Child And Adolescent Psychiatry at Trinity College, Dublin.</p></fn><fn id="fn1"><label>&#x02020;</label><p>See pp. <related-article related-article-type="article-reference" id="d35e61" vol="39" page="134" issue="3" ext-link-type="pmc">134&#x02013;5</related-article>, this issue.</p></fn></author-notes><pub-date pub-type="ppub"><month>6</month><year>2015</year></pub-date><volume>39</volume><issue>3</issue><fpage>105</fpage><lpage>107</lpage><history><date date-type="received"><day>15</day><month>11</month><year>2013</year></date><date date-type="rev-recd"><day>26</day><month>2</month><year>2014</year></date><date date-type="accepted"><day>16</day><month>6</month><year>2014</year></date></history><permissions><copyright-statement>&#x000a9; 2015 The Author</copyright-statement><copyright-year>2015</copyright-year><license license-type="creative-commons" xlink:href="http://creativecommons.org/licenses/by/4.0/"><license-p>This is an open-access article published by the Royal College of Psychiatrists and distributed under the terms of the Creative Commons Attribution License (<uri xlink:type="simple" xlink:href="http://creativecommons.org/licenses/by/4.0">http://creativecommons.org/licenses/by/4.0</uri>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xlink:title="pdf" xlink:type="simple" xlink:href="105.pdf"/><abstract><p id="P1">Advances in neuroscience in recent years have blurred the boundaries between psychiatry and neurology. They now have more in common than what divides them and this signals a return to their origins. Many have called for a merger of the two disciplines, which would offer a more holistic approach, whereas others vigorously reject such a move. Limiting neurology to the study of the nervous system and psychiatry to the social brain or affect and its disorders is no longer sustainable. The ongoing separation of the disciplines has had an impact on diagnosis and treatment, on professional isolation and on funding psychiatric research.</p></abstract></article-meta></front><body><p id="P2">The relationship between psychiatry and neurology remains a controversial topic, with strong voices opposing a merger, whereas others point out that the future lies with the neurologist/psychiatrist or neuropsychiatrist.<sup><xref rid="R1" ref-type="bibr">1</xref></sup> Either way, it highlights the growing disparity in how the disciplines are currently defined and the many areas of overlap.</p><sec id="S1"><title>History of the relationship between neurology and psychiatry</title><p id="P3">The term &#x02018;neurology&#x02019; originated with English physician Thomas Willis following his study of brain anatomy in the 1660s, according to Millon.<sup><xref rid="R2" ref-type="bibr">2</xref></sup> Subsequently in 1808, Johann Christian Reil, a German physician and philosopher, gave us the term &#x02018;psychiatrie&#x02019;. However, the two disciplines had common origins. Krishnamoorthy<sup><xref rid="R3" ref-type="bibr">3</xref></sup> points out that the ancients, including Hippocrates, believed that all psychopathology arose in the brain and that this is clearly reflected in writings well into the nineteenth century. On the other hand, this was not a universally held view and some of the ancients believed that hysteria was because of a wandering womb. Even so, the 1845 seminal work on mental illness by Wilhelm Griesinger in <italic>Mental Pathology and Therapeutics</italic> still has a modern &#x02018;ring&#x02019; to it in the 21st century. He was a major clinical and academic researcher in a number of hospitals in Europe at the time. The one-time unity of the disciplines was also reflected in the title of the journal Griesinger founded in 1867, <italic>Archives of Psychiatry and Neurology</italic>. For Griesinger, mental diseases were essentially brain diseases, according to Millon.</p><p id="P4">Over the years there has been considerable opposition to Griesinger. In an interview with Poole,<sup><xref rid="R4" ref-type="bibr">4</xref></sup> William Alywn Lishman was severely critical of Griesinger because he &#x02018;tried to make the whole of psychiatry brain science&#x02019;. I would concur with Lishman that Griesinger went too far and especially ignored environmental influences. I believe the biopsychosocial model of psychiatry can only operate via the brain and Johansson<sup><xref rid="R5" ref-type="bibr">5</xref></sup> is correct in his assertion that all mental life will eventually be mapped onto &#x02018;a neuronal substrate&#x02019;. The split between medicine and psychiatry was lamented by Silas Weir Mitchell as early as 1894. He expressed the view that when the &#x02018;treatment of the insane&#x02019; passed completely out of the hands of the profession at large and &#x02018;into those group of physicians (psychiatrists) who constitute a sect apart... what evil this has wrought, what harm it has done to us&#x02019;, as noted by Andreason.<sup><xref rid="R6" ref-type="bibr">6</xref></sup> This split became even more pronounced in the USA between 1935 and 1975, when psychoanalysis largely took over psychiatry there, further increasing the gap between neurology and medicine generally. Ironically, psychoanalysts are now trying to reconnect with neurology through neuropsychoanalysis, according to Solms.<sup><xref rid="R7" ref-type="bibr">7</xref></sup></p><p id="P5">The advent of diagnostic imaging has brought a certain degree of clarity to the field. Kandel points out that had imaging been available in 1895 when Freud wrote <italic>Project for a Scientific Psychology</italic> he might have directed psychoanalysis along very different lines, keeping it &#x02018;in close relationship with biology as outlined in that essay&#x02019;.<sup><xref rid="R8" ref-type="bibr">8</xref></sup> It is worth noting that Freud was a superb neuropathologist and neurological scientist, as evidenced in the very ambitious but highly relevant <italic>Project for a Scientific Psychology</italic>.<sup><xref rid="R9" ref-type="bibr">9</xref></sup> However, the work also signalled his subsequent move away from traditional science.</p></sec><sec id="S2"><title>Why are psychiatry and neurology separate?</title><p id="P6">Many views have been expressed on why psychiatry and neurology are separate. In response to White e<italic>t al</italic>&#x02019;s<sup><xref rid="R10" ref-type="bibr">10</xref></sup> assertion that it is time to end the distinction between mental and neurological illnesses, Ikkos points out that neurology&#x02019;s expertise is the nervous system and its disorders, whereas psychiatry&#x02019;s expertise is affect and its disorders.<sup><xref rid="R11" ref-type="bibr">11</xref></sup> Furthermore, he argues that, conceptually, neurology is necessarily at a different level of abstraction from the nervous system. This argument, however, is not the least bit persuasive to me. Miller notes that &#x02018;psychiatry was neurology without physical signs&#x02019;,<sup><xref rid="R12" ref-type="bibr">12</xref></sup> whereas Holmes points out that &#x02018;only psychiatry can encompass the social brain&#x02019;.<sup><xref rid="R13" ref-type="bibr">13</xref></sup> There is absolutely no reason why neurologists cannot embrace the social brain and indeed many do today. I believe the split between neurology and psychiatry is in fact artificial.</p><p id="P7">The chorus of disapproval against neuropsychiatry has certainly grown. Pies argues that psychiatry and neurology cannot simply merge because they use &#x02018;significantly different narratives or... discourses&#x02019;.<sup><xref rid="R14" ref-type="bibr">14</xref></sup> He also claims that psychiatry is grounded in human subjectivity and existential concerns and is a &#x02018;discourse of interlacing and multi-layered meanings&#x02019; and a &#x02018;narrative about narratives&#x02019;. Neurology, on the other hand, he believes is fundamentally &#x02018;a discourse of neuroanatomical and neurophysiological relationships&#x02019;. When a neurologist examines a patient with symptoms not corresponding to known neurological pathways, which Pies sees as &#x02018;functional, supratentorial or psychogenic&#x02019;, then the patient should be deferred or referred to the psychiatrist. Essentially, Pies&#x02019; description of psychiatry has echoes of psychoanalysis. For example, he asserts that psychiatry&#x02019;s discourses should be understood as a dialectic between a text and a presumed subtext &#x02013; &#x02018;not unlike the dialectic between <italic>p&#x02019;shat</italic> and <italic>d&#x02019;rash</italic> in Talmudic exegesis. That is, beneath the literal words or surface meaning of a biblical text (<italic>p&#x02019;shat</italic>), there lies a realm of figurative, allegorical, and mystical meanings that must be explicated (<italic>d&#x02019;rash</italic>)&#x02019;.<sup><xref rid="R14" ref-type="bibr">14</xref></sup> Indeed, his description of psychiatry relates to that of the mid-nineteenth century, in my view.</p><p id="P8">An editorial by Baker <italic>et al</italic> in the <italic>BMJ</italic> in 2012 stated that it is time to tear down the wall between neurology and psychiatry advances in neuroscience.<sup><xref rid="R15" ref-type="bibr">15</xref></sup> In response to this editorial, Bailey <italic>et al</italic> presented the orthodox psychiatric reaction. They point out that most mental disorders, given our current state of knowledge, have no unequivocal biomarkers and classification has to rely, however imperfectly, on clinical signs and symptoms.<sup><xref rid="R16" ref-type="bibr">16</xref></sup> They were against a merger of neurology and psychiatry, but in favour of a close working relationship.</p><p id="P9">The advances in neuroscience prompted Stone &#x00026; Sharpe to pose a key question: will greater understanding of neuroscience mean that psychiatry will simply follow neurology in abandoning the patients that fail to fit into a reductionistic paradigm?<sup><xref rid="R17" ref-type="bibr">17</xref></sup> However, I believe that if there were a merger, patients would be less likely to fall through the &#x02018;cracks&#x02019;. Excessive specialisation is the greatest reason for bringing neurology and psychiatry together. Indeed, even at a research level progress is more likely to occur at the interfaces between specialties and subspecialties. One reason for the lack of progress in psychiatric research in recent years has been because of the excessive specialisation and subspecialisation.</p></sec><sec id="S3"><title>Why bring neurology and psychiatry together?</title><p id="P10">One of the most compelling arguments for bringing the two disciplines together is that their boundaries are becoming increasingly blurred. Ramachandran observed this fact and declared it was only a matter of time before psychiatry becomes just another branch of neurology.<sup><xref rid="R18" ref-type="bibr">18</xref></sup> I would dispute that aspect of the argument; there is no question of one discipline &#x02018;swallowing&#x02019; up the other. Instead it would be a merger of two equal partners: neurology and psychiatry. If it were to occur, both disciplines would enrich each other enormously.</p><p id="P11">The separation of the two disciplines has had a somewhat negative impact on diagnosis and treatment. Kanner points out that, in neurology, the separation from psychiatry has led to comorbid disorders being underrecognised and undertreated.<sup><xref rid="R19" ref-type="bibr">19</xref></sup> In effect, the separation of neurology from psychiatry has led to a separation of the brain from the mind &#x02013; the physical from the mental &#x02013; which has been unhelpful for both disciplines. If a merger did occur, the neuropsychiatrist could provide a more holistic approach to the diagnosis and treatment of a patient. In fact, all neurologists and psychiatrists practise basic counselling and brief therapy to varying degrees. It is noteworthy that there are similar brain changes after the treatment of obsessive-compulsive disorder with either medication or behaviour therapy. This increases the link somewhat between neurology and psychiatry.</p><p id="P12">Aarli points out that psychiatry and neurology have a common route and both share a common basis in neuroscience.<sup><xref rid="R20" ref-type="bibr">20</xref></sup> He also notes that there is much more that unites neurology and psychiatry than divides them. Neurobiological conditions like epilepsy, autism, dementia, delirium, Tourette syndrome, intellectual disability, dyspraxia, speech and language problems are all overlapping. Between neurology and psychiatry Henningsen favours overcoming &#x02018;dualistic&#x02019; and often &#x02018;irrational splits&#x02019; in the classification and in the practice of medicine.<sup><xref rid="R21" ref-type="bibr">21</xref></sup> He agrees with the idea of subsuming mental disorders under &#x02018;disorders of the brain&#x02019; because this gives greater clarity and simplicity. Kandel finds it useful to consider that psychiatry and psychoanalysis work at the level of individual nerve cells and their synaptic connections.<sup><xref rid="R8" ref-type="bibr">8</xref></sup> Neurology and psychiatry are simply two &#x02018;sides of the same coin&#x02019;. Certainly in the area of neural plasticity, neurology and psychiatry overlap.</p><p id="P13">The overlap is also evident in medical journals relevant to the disciplines. In a study of papers published in <italic>Neurology</italic> and the <italic>American Journal of Psychiatry</italic>, Price<sup><xref rid="R22" ref-type="bibr">22</xref></sup> found that less than 5% of papers in the <italic>American Journal of Psychiatry</italic> were on meningitis, epilepsy and headache and that less than 5% of papers in <italic>Neurology</italic> focused on schizophrenia, panic and mania. The proportions for attention-deficit hyperactivity disorder were 23% in <italic>Neurology</italic> and 77% in the <italic>American Journal of Psychiatry</italic>; for autism 30% in <italic>Neurology</italic> and 70% in the <italic>American Journal of Psychiatry</italic>; for &#x02018;mental retardation&#x02019; 70% in <italic>Neurology</italic> and 30% in the <italic>American Journal of Psychiatry</italic>. As one can see, there is considerable overlap. Similarly, Raja showed that neurological disease affected 13.05% of acute and 68.9% of chronic psychiatric patients.<sup><xref rid="R23" ref-type="bibr">23</xref></sup></p></sec><sec id="S4"><title>Professional isolation from medicine</title><p id="P14">The question of professional isolation has also emerged. The separation of psychiatry from neurology has led Levine to comment that, over the past 30 years, psychiatry has become professionally, geographically and managerially separate from the rest of medicine.<sup><xref rid="R24" ref-type="bibr">24</xref></sup> In many places this isolation has seriously damaged psychiatry and caused major recruitment and funding problems.</p><p id="P15">In a paper entitled &#x02018;Wake-up Call for British Psychiatry&#x02019;, Craddock <italic>et al</italic> were concerned about the evolution of unclear responsibility in psychiatry, which reduces medical student interest because of not being &#x02018;proper doctors&#x02019;, and modern psychiatry, diminishing the value of careful diagnosis and reducing psychiatry to a &#x02018;nonspecific psychological support&#x02019;.<sup><xref rid="R25" ref-type="bibr">25</xref></sup> Combining neurology and psychiatry would reduce these problems. It is well-known that medicine and psychiatric illness are closely allied. The merger of neurologists and psychiatrists would improve the care of the patient at the interface and moreover may reduce stigma. Bullmore <italic>et al</italic><sup><xref rid="R26" ref-type="bibr">26</xref></sup> believe that the merger would reduce stigma, however Jorm &#x00026; Oh<sup><xref rid="R27" ref-type="bibr">27</xref></sup> did not find that brain <italic>v.</italic> social aetiology affected stigma in their formal study. Read <italic>et al</italic>,<sup><xref rid="R28" ref-type="bibr">28</xref></sup> in their review paper, said that biological psychiatry increases stigma, whereas Bullmore <italic>et al</italic><sup><xref rid="R26" ref-type="bibr">26</xref></sup> suggested the opposite. This issue remains controversial and opinions as described vary.</p><p id="P16">There is a great deal of similarity in the training of neurologists and psychiatrists from medical school onwards. At the present time, all psychiatrists are required to spend a minimum of 6 months to a year working in neurology and vice versa. Joint training in neurology and psychiatry would be helpful. These individuals would be dual trained and would require both Royal Colleges to come together to produce this dual-trained neurologist/psychiatrist, as happens in the USA and Germany. Indeed, it may be easier to recruit this neurologist/psychiatrist in the future. In a study of trainers and trainees in psychiatry/neurology, Schon <italic>et al</italic><sup><xref rid="R29" ref-type="bibr">29</xref></sup> found that psychiatrists were even keener on links between neurology and psychiatry training than neurologists, with psychiatric specialist registrars significantly more in favour.</p><p id="P17">In conclusion, psychiatrists should return home to neurology and medicine and leave non-medical interventions to non-medical practitioners, for example in relation to specialist or long-term psychotherapy. Neurologists and psychiatrists need to merge into neuropsychiatry or some acceptable title. The merger would admittedly not be easy, but it would be beneficial to both fields in the long term and to patients at a clinical level.</p></sec></body><back><fn-group><fn fn-type="conflict"><p><bold>Declaration of interest</bold> None.</p></fn></fn-group><ref-list><title>References</title><ref id="R1"><label>1</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name><surname>Fitzgerald</surname><given-names>M</given-names></name></person-group>
-<article-title>All future psychiatrists should be neuropsychiatrists (letter)</article-title>. <source>Psychiatrist</source>
-<year>2013</year>; <volume>37</volume>: <fpage>309</fpage>.
-</mixed-citation></ref><ref id="R2"><label>2</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><name><surname>Millon</surname><given-names>T</given-names></name></person-group>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1d3 20150301//EN" "JATS-archivearticle1.dtd">
+<article xmlns:ali="http://www.niso.org/schemas/ali/1.0"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="editorial">    <?properties open_access?>    <?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Publishing DTD v2.3 20070202//EN?>    <?DTDIdentifier.IdentifierType public?>    <?SourceDTD.DTDName journalpublishing.dtd?>    <?SourceDTD.Version 2.3?>    <?ConverterInfo.XSLTName jp2nlmx2.xsl?>    <?ConverterInfo.Version 2?>
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="nlm-ta">BJPsych Bull</journal-id>
+            <journal-id journal-id-type="iso-abbrev">BJPsych Bull</journal-id>
+            <journal-id journal-id-type="hwp">pbrcpsych</journal-id>
+            <journal-title-group>
+                <journal-title>BJPsych Bulletin</journal-title>
+            </journal-title-group>
+            <issn pub-type="ppub">2056-4694</issn>
+            <issn pub-type="epub">2056-4708</issn>
+            <publisher>
+                <publisher-name>Royal College of Psychiatrists</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="pmcid">4478930</article-id>
+            <article-id pub-id-type="doi">10.1192/pb.bp.113.046227</article-id>
+            <article-categories>
+                <subj-group subj-group-type="heading">
+                    <subject>Editorial</subject>
+                </subj-group>
+            </article-categories>
+            <title-group>
+                <article-title>Do psychiatry and neurology need a close partnership or a merger?<xref ref-type="author-notes" rid="fn1">
+                    <sup>&#x02020;</sup>
+                </xref>
+            </article-title>
+        </title-group>
+        <contrib-group>
+            <contrib contrib-type="author">
+                <name>
+                    <surname>Fitzgerald</surname>
+                    <given-names>Michael</given-names>
+                </name>
+                <xref ref-type="aff" rid="A1">1</xref>
+            </contrib>
+            <aff id="A1">
+                <label>1</label>Trinity College Dublin, Ireland</aff>
+        </contrib-group>
+        <author-notes>
+            <corresp>Correspondence to Michael Fitzgerald (<email>profmichaelfitzgerald@gmail.com</email>)
+            </corresp>
+            <fn>
+                <p>
+                    <bold>Michael Fitzgerald</bold> was Henry Marsh Professor Of Child And Adolescent Psychiatry at Trinity College, Dublin.</p>
+            </fn>
+            <fn id="fn1">
+                <label>&#x02020;</label>
+                <p>See pp. <related-article related-article-type="article-reference" id="d35e61" vol="39" page="134" issue="3" ext-link-type="pmc">134&#x02013;5</related-article>, this issue.</p>
+            </fn>
+        </author-notes>
+        <pub-date pub-type="ppub">
+            <month>6</month>
+            <year>2015</year>
+        </pub-date>
+        <volume>39</volume>
+        <issue>3</issue>
+        <fpage>105</fpage>
+        <lpage>107</lpage>
+        <history>
+            <date date-type="received">
+                <day>15</day>
+                <month>11</month>
+                <year>2013</year>
+            </date>
+            <date date-type="rev-recd">
+                <day>26</day>
+                <month>2</month>
+                <year>2014</year>
+            </date>
+            <date date-type="accepted">
+                <day>16</day>
+                <month>6</month>
+                <year>2014</year>
+            </date>
+        </history>
+        <permissions>
+            <copyright-statement>&#x000a9; 2015 The Author</copyright-statement>
+            <copyright-year>2015</copyright-year>
+            <license license-type="creative-commons" xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                <license-p>This is an open-access article published by the Royal College of Psychiatrists and distributed under the terms of the Creative Commons Attribution License (<uri xlink:type="simple" xlink:href="http://creativecommons.org/licenses/by/4.0">http://creativecommons.org/licenses/by/4.0</uri>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+            </license>
+        </permissions>
+        <self-uri xlink:title="pdf" xlink:type="simple" xlink:href="105.pdf" />
+        <abstract>
+            <p id="P1">Advances in neuroscience in recent years have blurred the boundaries between psychiatry and neurology. They now have more in common than what divides them and this signals a return to their origins. Many have called for a merger of the two disciplines, which would offer a more holistic approach, whereas others vigorously reject such a move. Limiting neurology to the study of the nervous system and psychiatry to the social brain or affect and its disorders is no longer sustainable. The ongoing separation of the disciplines has had an impact on diagnosis and treatment, on professional isolation and on funding psychiatric research.</p>
+        </abstract>
+    </article-meta>
+</front>
+<body>
+    <p id="P2">The relationship between psychiatry and neurology remains a controversial topic, with strong voices opposing a merger, whereas others point out that the future lies with the neurologist/psychiatrist or neuropsychiatrist.<sup>
+        <xref rid="R1" ref-type="bibr">1</xref>
+    </sup> Either way, it highlights the growing disparity in how the disciplines are currently defined and the many areas of overlap.</p>
+<sec id="S1">
+    <title>History of the relationship between neurology and psychiatry</title>
+    <p id="P3">The term &#x02018;neurology&#x02019; originated with English physician Thomas Willis following his study of brain anatomy in the 1660s, according to Millon.<sup>
+        <xref rid="R2" ref-type="bibr">2</xref>
+    </sup> Subsequently in 1808, Johann Christian Reil, a German physician and philosopher, gave us the term &#x02018;psychiatrie&#x02019;. However, the two disciplines had common origins. Krishnamoorthy<sup>
+    <xref rid="R3" ref-type="bibr">3</xref>
+</sup> points out that the ancients, including Hippocrates, believed that all psychopathology arose in the brain and that this is clearly reflected in writings well into the nineteenth century. On the other hand, this was not a universally held view and some of the ancients believed that hysteria was because of a wandering womb. Even so, the 1845 seminal work on mental illness by Wilhelm Griesinger in <italic>Mental Pathology and Therapeutics</italic> still has a modern &#x02018;ring&#x02019; to it in the 21st century. He was a major clinical and academic researcher in a number of hospitals in Europe at the time. The one-time unity of the disciplines was also reflected in the title of the journal Griesinger founded in 1867, <italic>Archives of Psychiatry and Neurology</italic>. For Griesinger, mental diseases were essentially brain diseases, according to Millon.</p>
+<p id="P4">Over the years there has been considerable opposition to Griesinger. In an interview with Poole,<sup>
+<xref rid="R4" ref-type="bibr">4</xref>
+</sup> William Alywn Lishman was severely critical of Griesinger because he &#x02018;tried to make the whole of psychiatry brain science&#x02019;. I would concur with Lishman that Griesinger went too far and especially ignored environmental influences. I believe the biopsychosocial model of psychiatry can only operate via the brain and Johansson<sup>
+<xref rid="R5" ref-type="bibr">5</xref>
+</sup> is correct in his assertion that all mental life will eventually be mapped onto &#x02018;a neuronal substrate&#x02019;. The split between medicine and psychiatry was lamented by Silas Weir Mitchell as early as 1894. He expressed the view that when the &#x02018;treatment of the insane&#x02019; passed completely out of the hands of the profession at large and &#x02018;into those group of physicians (psychiatrists) who constitute a sect apart... what evil this has wrought, what harm it has done to us&#x02019;, as noted by Andreason.<sup>
+<xref rid="R6" ref-type="bibr">6</xref>
+</sup> This split became even more pronounced in the USA between 1935 and 1975, when psychoanalysis largely took over psychiatry there, further increasing the gap between neurology and medicine generally. Ironically, psychoanalysts are now trying to reconnect with neurology through neuropsychoanalysis, according to Solms.<sup>
+<xref rid="R7" ref-type="bibr">7</xref>
+</sup>
+</p>
+<p id="P5">The advent of diagnostic imaging has brought a certain degree of clarity to the field. Kandel points out that had imaging been available in 1895 when Freud wrote <italic>Project for a Scientific Psychology</italic> he might have directed psychoanalysis along very different lines, keeping it &#x02018;in close relationship with biology as outlined in that essay&#x02019;.<sup>
+<xref rid="R8" ref-type="bibr">8</xref>
+</sup> It is worth noting that Freud was a superb neuropathologist and neurological scientist, as evidenced in the very ambitious but highly relevant <italic>Project for a Scientific Psychology</italic>.<sup>
+<xref rid="R9" ref-type="bibr">9</xref>
+</sup> However, the work also signalled his subsequent move away from traditional science.</p>
+</sec>
+<sec id="S2">
+<title>Why are psychiatry and neurology separate?</title>
+<p id="P6">Many views have been expressed on why psychiatry and neurology are separate. In response to White e<italic>t al</italic>&#x02019;s<sup>
+<xref rid="R10" ref-type="bibr">10</xref>
+</sup> assertion that it is time to end the distinction between mental and neurological illnesses, Ikkos points out that neurology&#x02019;s expertise is the nervous system and its disorders, whereas psychiatry&#x02019;s expertise is affect and its disorders.<sup>
+<xref rid="R11" ref-type="bibr">11</xref>
+</sup> Furthermore, he argues that, conceptually, neurology is necessarily at a different level of abstraction from the nervous system. This argument, however, is not the least bit persuasive to me. Miller notes that &#x02018;psychiatry was neurology without physical signs&#x02019;,<sup>
+<xref rid="R12" ref-type="bibr">12</xref>
+</sup> whereas Holmes points out that &#x02018;only psychiatry can encompass the social brain&#x02019;.<sup>
+<xref rid="R13" ref-type="bibr">13</xref>
+</sup> There is absolutely no reason why neurologists cannot embrace the social brain and indeed many do today. I believe the split between neurology and psychiatry is in fact artificial.</p>
+<p id="P7">The chorus of disapproval against neuropsychiatry has certainly grown. Pies argues that psychiatry and neurology cannot simply merge because they use &#x02018;significantly different narratives or... discourses&#x02019;.<sup>
+<xref rid="R14" ref-type="bibr">14</xref>
+</sup> He also claims that psychiatry is grounded in human subjectivity and existential concerns and is a &#x02018;discourse of interlacing and multi-layered meanings&#x02019; and a &#x02018;narrative about narratives&#x02019;. Neurology, on the other hand, he believes is fundamentally &#x02018;a discourse of neuroanatomical and neurophysiological relationships&#x02019;. When a neurologist examines a patient with symptoms not corresponding to known neurological pathways, which Pies sees as &#x02018;functional, supratentorial or psychogenic&#x02019;, then the patient should be deferred or referred to the psychiatrist. Essentially, Pies&#x02019; description of psychiatry has echoes of psychoanalysis. For example, he asserts that psychiatry&#x02019;s discourses should be understood as a dialectic between a text and a presumed subtext &#x02013; &#x02018;not unlike the dialectic between <italic>p&#x02019;shat</italic> and <italic>d&#x02019;rash</italic> in Talmudic exegesis. That is, beneath the literal words or surface meaning of a biblical text (<italic>p&#x02019;shat</italic>), there lies a realm of figurative, allegorical, and mystical meanings that must be explicated (<italic>d&#x02019;rash</italic>)&#x02019;.<sup>
+<xref rid="R14" ref-type="bibr">14</xref>
+</sup> Indeed, his description of psychiatry relates to that of the mid-nineteenth century, in my view.</p>
+<p id="P8">An editorial by Baker <italic>et al</italic> in the <italic>BMJ</italic> in 2012 stated that it is time to tear down the wall between neurology and psychiatry advances in neuroscience.<sup>
+<xref rid="R15" ref-type="bibr">15</xref>
+</sup> In response to this editorial, Bailey <italic>et al</italic> presented the orthodox psychiatric reaction. They point out that most mental disorders, given our current state of knowledge, have no unequivocal biomarkers and classification has to rely, however imperfectly, on clinical signs and symptoms.<sup>
+<xref rid="R16" ref-type="bibr">16</xref>
+</sup> They were against a merger of neurology and psychiatry, but in favour of a close working relationship.</p>
+<p id="P9">The advances in neuroscience prompted Stone &#x00026; Sharpe to pose a key question: will greater understanding of neuroscience mean that psychiatry will simply follow neurology in abandoning the patients that fail to fit into a reductionistic paradigm?<sup>
+<xref rid="R17" ref-type="bibr">17</xref>
+</sup> However, I believe that if there were a merger, patients would be less likely to fall through the &#x02018;cracks&#x02019;. Excessive specialisation is the greatest reason for bringing neurology and psychiatry together. Indeed, even at a research level progress is more likely to occur at the interfaces between specialties and subspecialties. One reason for the lack of progress in psychiatric research in recent years has been because of the excessive specialisation and subspecialisation.</p>
+</sec>
+<sec id="S3">
+<title>Why bring neurology and psychiatry together?</title>
+<p id="P10">One of the most compelling arguments for bringing the two disciplines together is that their boundaries are becoming increasingly blurred. Ramachandran observed this fact and declared it was only a matter of time before psychiatry becomes just another branch of neurology.<sup>
+<xref rid="R18" ref-type="bibr">18</xref>
+</sup> I would dispute that aspect of the argument; there is no question of one discipline &#x02018;swallowing&#x02019; up the other. Instead it would be a merger of two equal partners: neurology and psychiatry. If it were to occur, both disciplines would enrich each other enormously.</p>
+<p id="P11">The separation of the two disciplines has had a somewhat negative impact on diagnosis and treatment. Kanner points out that, in neurology, the separation from psychiatry has led to comorbid disorders being underrecognised and undertreated.<sup>
+<xref rid="R19" ref-type="bibr">19</xref>
+</sup> In effect, the separation of neurology from psychiatry has led to a separation of the brain from the mind &#x02013; the physical from the mental &#x02013; which has been unhelpful for both disciplines. If a merger did occur, the neuropsychiatrist could provide a more holistic approach to the diagnosis and treatment of a patient. In fact, all neurologists and psychiatrists practise basic counselling and brief therapy to varying degrees. It is noteworthy that there are similar brain changes after the treatment of obsessive-compulsive disorder with either medication or behaviour therapy. This increases the link somewhat between neurology and psychiatry.</p>
+<p id="P12">Aarli points out that psychiatry and neurology have a common route and both share a common basis in neuroscience.<sup>
+<xref rid="R20" ref-type="bibr">20</xref>
+</sup> He also notes that there is much more that unites neurology and psychiatry than divides them. Neurobiological conditions like epilepsy, autism, dementia, delirium, Tourette syndrome, intellectual disability, dyspraxia, speech and language problems are all overlapping. Between neurology and psychiatry Henningsen favours overcoming &#x02018;dualistic&#x02019; and often &#x02018;irrational splits&#x02019; in the classification and in the practice of medicine.<sup>
+<xref rid="R21" ref-type="bibr">21</xref>
+</sup> He agrees with the idea of subsuming mental disorders under &#x02018;disorders of the brain&#x02019; because this gives greater clarity and simplicity. Kandel finds it useful to consider that psychiatry and psychoanalysis work at the level of individual nerve cells and their synaptic connections.<sup>
+<xref rid="R8" ref-type="bibr">8</xref>
+</sup> Neurology and psychiatry are simply two &#x02018;sides of the same coin&#x02019;. Certainly in the area of neural plasticity, neurology and psychiatry overlap.</p>
+<p id="P13">The overlap is also evident in medical journals relevant to the disciplines. In a study of papers published in <italic>Neurology</italic> and the <italic>American Journal of Psychiatry</italic>, Price<sup>
+<xref rid="R22" ref-type="bibr">22</xref>
+</sup> found that less than 5% of papers in the <italic>American Journal of Psychiatry</italic> were on meningitis, epilepsy and headache and that less than 5% of papers in <italic>Neurology</italic> focused on schizophrenia, panic and mania. The proportions for attention-deficit hyperactivity disorder were 23% in <italic>Neurology</italic> and 77% in the <italic>American Journal of Psychiatry</italic>; for autism 30% in <italic>Neurology</italic> and 70% in the <italic>American Journal of Psychiatry</italic>; for &#x02018;mental retardation&#x02019; 70% in <italic>Neurology</italic> and 30% in the <italic>American Journal of Psychiatry</italic>. As one can see, there is considerable overlap. Similarly, Raja showed that neurological disease affected 13.05% of acute and 68.9% of chronic psychiatric patients.<sup>
+<xref rid="R23" ref-type="bibr">23</xref>
+</sup>
+</p>
+</sec>
+<sec id="S4">
+<title>Professional isolation from medicine</title>
+<p id="P14">The question of professional isolation has also emerged. The separation of psychiatry from neurology has led Levine to comment that, over the past 30 years, psychiatry has become professionally, geographically and managerially separate from the rest of medicine.<sup>
+<xref rid="R24" ref-type="bibr">24</xref>
+</sup> In many places this isolation has seriously damaged psychiatry and caused major recruitment and funding problems.</p>
+<p id="P15">In a paper entitled &#x02018;Wake-up Call for British Psychiatry&#x02019;, Craddock <italic>et al</italic> were concerned about the evolution of unclear responsibility in psychiatry, which reduces medical student interest because of not being &#x02018;proper doctors&#x02019;, and modern psychiatry, diminishing the value of careful diagnosis and reducing psychiatry to a &#x02018;nonspecific psychological support&#x02019;.<sup>
+<xref rid="R25" ref-type="bibr">25</xref>
+</sup> Combining neurology and psychiatry would reduce these problems. It is well-known that medicine and psychiatric illness are closely allied. The merger of neurologists and psychiatrists would improve the care of the patient at the interface and moreover may reduce stigma. Bullmore <italic>et al</italic>
+<sup>
+<xref rid="R26" ref-type="bibr">26</xref>
+</sup> believe that the merger would reduce stigma, however Jorm &#x00026; Oh<sup>
+<xref rid="R27" ref-type="bibr">27</xref>
+</sup> did not find that brain <italic>v.</italic> social aetiology affected stigma in their formal study. Read <italic>et al</italic>,<sup>
+<xref rid="R28" ref-type="bibr">28</xref>
+</sup> in their review paper, said that biological psychiatry increases stigma, whereas Bullmore <italic>et al</italic>
+<sup>
+<xref rid="R26" ref-type="bibr">26</xref>
+</sup> suggested the opposite. This issue remains controversial and opinions as described vary.</p>
+<p id="P16">There is a great deal of similarity in the training of neurologists and psychiatrists from medical school onwards. At the present time, all psychiatrists are required to spend a minimum of 6 months to a year working in neurology and vice versa. Joint training in neurology and psychiatry would be helpful. These individuals would be dual trained and would require both Royal Colleges to come together to produce this dual-trained neurologist/psychiatrist, as happens in the USA and Germany. Indeed, it may be easier to recruit this neurologist/psychiatrist in the future. In a study of trainers and trainees in psychiatry/neurology, Schon <italic>et al</italic>
+<sup>
+<xref rid="R29" ref-type="bibr">29</xref>
+</sup> found that psychiatrists were even keener on links between neurology and psychiatry training than neurologists, with psychiatric specialist registrars significantly more in favour.</p>
+<p id="P17">In conclusion, psychiatrists should return home to neurology and medicine and leave non-medical interventions to non-medical practitioners, for example in relation to specialist or long-term psychotherapy. Neurologists and psychiatrists need to merge into neuropsychiatry or some acceptable title. The merger would admittedly not be easy, but it would be beneficial to both fields in the long term and to patients at a clinical level.</p>
+</sec>
+</body>
+<back>
+<fn-group>
+<fn fn-type="conflict">
+<p>
+<bold>Declaration of interest</bold> None.</p>
+</fn>
+</fn-group>
+<ref-list>
+<title>References</title>
+<ref id="R1">
+<label>1</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Fitzgerald</surname>
+<given-names>M</given-names>
+</name>
+</person-group>
+<article-title>All future psychiatrists should be neuropsychiatrists (letter)</article-title>.<source>Psychiatrist</source>
+<year>2013</year>;<volume>37</volume>:<fpage>309</fpage>.
+</mixed-citation>
+</ref>
+<ref id="R2">
+<label>2</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Millon</surname>
+<given-names>T</given-names>
+</name>
+</person-group>
 <source>Masters of the Mind: Exploring the Story of Mental Illness from ]Ancient Times to the New Millennium.</source>
-<publisher-name>Wiley</publisher-name>, <year>2004</year>.
-</mixed-citation></ref><ref id="R3"><label>3</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name><surname>Krishnamoorthy</surname><given-names>ES</given-names></name></person-group>
-<article-title>Medicine: an expanding interphase</article-title>. <source>Frontline</source>
-<year>1999</year>; <volume>16</volume>: <fpage>1</fpage>
-<comment>(<uri xlink:type="simple" xlink:href="http://www.frontline.in/static/html/fl1611/16110770.htm">http://www.frontline.in/static/html/fl1611/16110770.htm</uri>)</comment>.
-</mixed-citation></ref><ref id="R4"><label>4</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name><surname>Poole</surname><given-names>NA</given-names></name></person-group>
-<article-title>Interview with Professor William Alwyn Lishman</article-title>. <source>Psychiatrist</source>
-<year>2013</year>; <volume>37</volume>: <fpage>343</fpage>&#x02013;<lpage>4</lpage>.
-</mixed-citation></ref><ref id="R5"><label>5</label><mixed-citation publication-type="webpage">
-<person-group person-group-type="author"><name><surname>Johansson</surname><given-names>CF</given-names></name></person-group>
-<article-title>Levels of analysis in explaining mental illness (eLetter)</article-title>. <source>Br J Psychiatry</source>
-<year>2009</year>; <day>28</day>
-<month>4</month>: <comment>doi:10.1192/pb.bp.113.044305 (<uri xlink:type="simple" xlink:href="http://bjp.rcpsych.org/content/194/4/293.full/reply">http://bjp.rcpsych.org/content/194/4/293.full/reply</uri>)</comment>.
-</mixed-citation></ref><ref id="R6"><label>6</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name><surname>Andreason</surname><given-names>N</given-names></name></person-group>
-<article-title>Introduction</article-title>. <source>Am J Psychiatry</source>
-<year>1994</year>; <volume>151</volume> (<comment>June</comment>
-<issue>suppl</issue>): <fpage>1</fpage>&#x02013;<lpage>4</lpage>.
-</mixed-citation></ref><ref id="R7"><label>7</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name><surname>Solms</surname><given-names>M</given-names></name></person-group>
-<article-title>Freud returns</article-title>. <source>Sci Am Mind</source>
-<year>2006</year>; <season>Apr-May</season>: <fpage>28</fpage>?<lpage>34</lpage>.
-</mixed-citation></ref><ref id="R8"><label>8</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><name><surname>Kandel</surname><given-names>ER</given-names></name></person-group>
-<source>Psychiatry, Psychoanalysis and the New Biology of Mind</source>. <publisher-name>American Psychiatric Publishing</publisher-name>, <year>2005</year>.
-</mixed-citation></ref><ref id="R9"><label>9</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><name><surname>Freud</surname><given-names>S</given-names></name></person-group>
-<source>Project for a Scientific Psychology</source>. <publisher-name>Hogarth Press</publisher-name>, <year>1895</year>.
-</mixed-citation></ref><ref id="R10"><label>10</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name><surname>White</surname><given-names>PD</given-names></name><name><surname>Rickards</surname><given-names>H</given-names></name><name><surname>Zeman</surname><given-names>AZJ</given-names></name></person-group>
-<article-title>Time to end the distinction between mental and neurological illnesses (eLetter)</article-title>. <source>BMJ</source>
-<year>2012</year>; <volume>344</volume>: <fpage>e3454</fpage>.
-<pub-id pub-id-type="pmid">22628005</pub-id></mixed-citation></ref><ref id="R11"><label>11</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name><surname>Ikkos</surname><given-names>G</given-names></name></person-group>
-<article-title>Re: Time to end the distinction between mental and neurological illnesses (eLetter)</article-title>. <source>BMJ</source>
-<year>2012</year>; <volume>344</volume>: <fpage>e3454</fpage>.
-<pub-id pub-id-type="pmid">22628005</pub-id></mixed-citation></ref><ref id="R12"><label>12</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name><surname>Miller</surname><given-names>H</given-names></name></person-group>
-<article-title>Depression</article-title>. <source>BMJ</source>
-<year>1967</year>; <volume>1</volume>: <fpage>257</fpage>&#x02013;<lpage>62</lpage>.
-<pub-id pub-id-type="pmid">6017475</pub-id></mixed-citation></ref><ref id="R13"><label>13</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name><surname>Holmes</surname><given-names>J</given-names></name></person-group>
-<article-title>Minding the brain</article-title>. <source>BMJ</source>
-<year>2012</year>; <volume>345</volume>; <fpage>e4581</fpage>.
-<pub-id pub-id-type="pmid">22777552</pub-id></mixed-citation></ref><ref id="R14"><label>14</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name><surname>Pies</surname><given-names>R</given-names></name></person-group>
-<article-title>Why psychiatry and neurology cannot simply merge</article-title>. <source>J Neuropsychiatry Clin Neurosci</source>
-<year>2005</year>; <volume>17</volume>: <fpage>304</fpage>?<lpage>309</lpage>.
-<pub-id pub-id-type="pmid">16179651</pub-id></mixed-citation></ref><ref id="R15"><label>15</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name><surname>Baker</surname><given-names>MG</given-names></name><name><surname>Kale</surname><given-names>R</given-names></name><name><surname>Menken</surname><given-names>M</given-names></name></person-group>
-<article-title>The wall between neurology and psychiatry advances in neuroscience indicate it&#x02019;s time to tear it down</article-title>. <source>BMJ</source>
-<year>2012</year>; <volume>324</volume>: <fpage>1468</fpage>&#x02013;<lpage>69</lpage>.
-<pub-id pub-id-type="pmid">12077018</pub-id></mixed-citation></ref><ref id="R16"><label>16</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name><surname>Bailey</surname><given-names>S</given-names></name><name><surname>Burn</surname><given-names>W</given-names></name><name><surname>Craddock</surname><given-names>N</given-names></name><name><surname>Mynors-Wallis</surname><given-names>L</given-names></name><name><surname>Tyrer</surname><given-names>P</given-names></name></person-group>
-<article-title>Re: Time to end the distinction between mental and neurological illnesses (eLetter)</article-title>. <source>BMJ</source>
-<year>2012</year>; <volume>344</volume>: <fpage>e3454</fpage>.
-<pub-id pub-id-type="pmid">22628005</pub-id></mixed-citation></ref><ref id="R17"><label>17</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name><surname>Stone</surname><given-names>J</given-names></name><name><surname>Sharpe</surname><given-names>M</given-names></name></person-group>
-<article-title>Neurology, psychiatry, and neuroscience (letter)</article-title>. <source>Am J Psychiatry</source>
-<year>2003</year>; <volume>160</volume>: <fpage>1013</fpage>.
-<pub-id pub-id-type="pmid">12727719</pub-id></mixed-citation></ref><ref id="R18"><label>18</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><name><surname>Ramachandran</surname><given-names>V</given-names></name></person-group>
-<source>The Emerging Mind. Reith Lecture Series</source>. <publisher-name>Profile Books</publisher-name>, <year>2003</year>.
-</mixed-citation></ref><ref id="R19"><label>19</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name><surname>Kanner</surname><given-names>AM</given-names></name></person-group>
+<publisher-name>Wiley</publisher-name>,<year>2004</year>.
+</mixed-citation>
+</ref>
+<ref id="R3">
+<label>3</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Krishnamoorthy</surname>
+<given-names>ES</given-names>
+</name>
+</person-group>
+<article-title>Medicine: an expanding interphase</article-title>.<source>Frontline</source>
+<year>1999</year>;<volume>16</volume>:<fpage>1</fpage>
+<comment>(<uri xlink:type="simple" xlink:href="http://www.frontline.in/static/html/fl1611/16110770.htm">http://www.frontline.in/static/html/fl1611/16110770.htm</uri>)
+</comment>.
+</mixed-citation>
+</ref>
+<ref id="R4">
+<label>4</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Poole</surname>
+<given-names>NA</given-names>
+</name>
+</person-group>
+<article-title>Interview with Professor William Alwyn Lishman</article-title>.<source>Psychiatrist</source>
+<year>2013</year>;<volume>37</volume>:<fpage>343</fpage>&#x02013;<lpage>4</lpage>.
+</mixed-citation>
+</ref>
+<ref id="R5">
+<label>5</label>
+<mixed-citation publication-type="webpage">
+<person-group person-group-type="author">
+<name>
+<surname>Johansson</surname>
+<given-names>CF</given-names>
+</name>
+</person-group>
+<article-title>Levels of analysis in explaining mental illness (eLetter)</article-title>.<source>Br J Psychiatry</source>
+<year>2009</year>;<day>28</day>
+<month>4</month>:<comment>doi:10.1192/pb.bp.113.044305 (<uri xlink:type="simple" xlink:href="http://bjp.rcpsych.org/content/194/4/293.full/reply">http://bjp.rcpsych.org/content/194/4/293.full/reply</uri>)
+</comment>.
+</mixed-citation>
+</ref>
+<ref id="R6">
+<label>6</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Andreason</surname>
+<given-names>N</given-names>
+</name>
+</person-group>
+<article-title>Introduction</article-title>.<source>Am J Psychiatry</source>
+<year>1994</year>;<volume>151</volume> (<comment>June</comment>
+<issue>suppl</issue>):<fpage>1</fpage>&#x02013;<lpage>4</lpage>.
+</mixed-citation>
+</ref>
+<ref id="R7">
+<label>7</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Solms</surname>
+<given-names>M</given-names>
+</name>
+</person-group>
+<article-title>Freud returns</article-title>.<source>Sci Am Mind</source>
+<year>2006</year>;<season>Apr-May</season>:<fpage>28</fpage>?<lpage>34</lpage>.
+</mixed-citation>
+</ref>
+<ref id="R8">
+<label>8</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Kandel</surname>
+<given-names>ER</given-names>
+</name>
+</person-group>
+<source>Psychiatry, Psychoanalysis and the New Biology of Mind</source>.<publisher-name>American Psychiatric Publishing</publisher-name>,<year>2005</year>.
+</mixed-citation>
+</ref>
+<ref id="R9">
+<label>9</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Freud</surname>
+<given-names>S</given-names>
+</name>
+</person-group>
+<source>Project for a Scientific Psychology</source>.<publisher-name>Hogarth Press</publisher-name>,<year>1895</year>.
+</mixed-citation>
+</ref>
+<ref id="R10">
+<label>10</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>White</surname>
+<given-names>PD</given-names>
+</name>
+<name>
+<surname>Rickards</surname>
+<given-names>H</given-names>
+</name>
+<name>
+<surname>Zeman</surname>
+<given-names>AZJ</given-names>
+</name>
+</person-group>
+<article-title>Time to end the distinction between mental and neurological illnesses (eLetter)</article-title>.<source>BMJ</source>
+<year>2012</year>;<volume>344</volume>:<fpage>e3454</fpage>.
+<pub-id pub-id-type="pmid">22628005</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R11">
+<label>11</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Ikkos</surname>
+<given-names>G</given-names>
+</name>
+</person-group>
+<article-title>Re: Time to end the distinction between mental and neurological illnesses (eLetter)</article-title>.<source>BMJ</source>
+<year>2012</year>;<volume>344</volume>:<fpage>e3454</fpage>.
+<pub-id pub-id-type="pmid">22628005</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R12">
+<label>12</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Miller</surname>
+<given-names>H</given-names>
+</name>
+</person-group>
+<article-title>Depression</article-title>.<source>BMJ</source>
+<year>1967</year>;<volume>1</volume>:<fpage>257</fpage>&#x02013;<lpage>62</lpage>.
+<pub-id pub-id-type="pmid">6017475</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R13">
+<label>13</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Holmes</surname>
+<given-names>J</given-names>
+</name>
+</person-group>
+<article-title>Minding the brain</article-title>.<source>BMJ</source>
+<year>2012</year>;<volume>345</volume>;<fpage>e4581</fpage>.
+<pub-id pub-id-type="pmid">22777552</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R14">
+<label>14</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Pies</surname>
+<given-names>R</given-names>
+</name>
+</person-group>
+<article-title>Why psychiatry and neurology cannot simply merge</article-title>.<source>J Neuropsychiatry Clin Neurosci</source>
+<year>2005</year>;<volume>17</volume>:<fpage>304</fpage>?<lpage>309</lpage>.
+<pub-id pub-id-type="pmid">16179651</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R15">
+<label>15</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Baker</surname>
+<given-names>MG</given-names>
+</name>
+<name>
+<surname>Kale</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Menken</surname>
+<given-names>M</given-names>
+</name>
+</person-group>
+<article-title>The wall between neurology and psychiatry advances in neuroscience indicate it&#x02019;s time to tear it down</article-title>.<source>BMJ</source>
+<year>2012</year>;<volume>324</volume>:<fpage>1468</fpage>&#x02013;<lpage>69</lpage>.
+<pub-id pub-id-type="pmid">12077018</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R16">
+<label>16</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Bailey</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Burn</surname>
+<given-names>W</given-names>
+</name>
+<name>
+<surname>Craddock</surname>
+<given-names>N</given-names>
+</name>
+<name>
+<surname>Mynors-Wallis</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Tyrer</surname>
+<given-names>P</given-names>
+</name>
+</person-group>
+<article-title>Re: Time to end the distinction between mental and neurological illnesses (eLetter)</article-title>.<source>BMJ</source>
+<year>2012</year>;<volume>344</volume>:<fpage>e3454</fpage>.
+<pub-id pub-id-type="pmid">22628005</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R17">
+<label>17</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Stone</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Sharpe</surname>
+<given-names>M</given-names>
+</name>
+</person-group>
+<article-title>Neurology, psychiatry, and neuroscience (letter)</article-title>.<source>Am J Psychiatry</source>
+<year>2003</year>;<volume>160</volume>:<fpage>1013</fpage>.
+<pub-id pub-id-type="pmid">12727719</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R18">
+<label>18</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Ramachandran</surname>
+<given-names>V</given-names>
+</name>
+</person-group>
+<source>The Emerging Mind. Reith Lecture Series</source>.<publisher-name>Profile Books</publisher-name>,<year>2003</year>.
+</mixed-citation>
+</ref>
+<ref id="R19">
+<label>19</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Kanner</surname>
+<given-names>AM</given-names>
+</name>
+</person-group>
 <article-title>When did neurologists and psychiatrists stop talking to each other?</article-title>
 <source>Epilepsy Behav</source>
-<year>2003</year>; <volume>4</volume>: <fpage>597</fpage>&#x02013;<lpage>601</lpage>.
-<pub-id pub-id-type="pmid">14698691</pub-id></mixed-citation></ref><ref id="R20"><label>20</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name><surname>Aarli</surname><given-names>JA</given-names></name></person-group>
+<year>2003</year>;<volume>4</volume>:<fpage>597</fpage>&#x02013;<lpage>601</lpage>.
+<pub-id pub-id-type="pmid">14698691</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R20">
+<label>20</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Aarli</surname>
+<given-names>JA</given-names>
+</name>
+</person-group>
 <article-title>Neurology and psychiatry: &#x02018;oh, east is east and west is west . . .&#x02019;</article-title>
 <source>Neuropsychiatr Dis Treat</source>
-<year>2005</year>; <volume>1</volume>: <fpage>285</fpage>&#x02013;<lpage>6</lpage>.
-<pub-id pub-id-type="pmid">18568108</pub-id></mixed-citation></ref><ref id="R21"><label>21</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name><surname>Henningsen</surname><given-names>P</given-names></name></person-group>
-<article-title>Re: Time to end the distinction between mental and neurological illnesses (eLetter)</article-title>. <source>BMJ</source>
-<year>2012</year>; <volume>344</volume>: <fpage>e3454</fpage>.
-<pub-id pub-id-type="pmid">22628005</pub-id></mixed-citation></ref><ref id="R22"><label>22</label><mixed-citation publication-type="webpage">
-<person-group person-group-type="author"><name><surname>Price</surname><given-names>H</given-names></name></person-group>
-<article-title>Neurology vs psychiatry: the social production of knowledge</article-title>. <source><italic>Society Pages</italic> (Sociological Images)</source>. <year>2011</year>; <day>9</day>
+<year>2005</year>;<volume>1</volume>:<fpage>285</fpage>&#x02013;<lpage>6</lpage>.
+<pub-id pub-id-type="pmid">18568108</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R21">
+<label>21</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Henningsen</surname>
+<given-names>P</given-names>
+</name>
+</person-group>
+<article-title>Re: Time to end the distinction between mental and neurological illnesses (eLetter)</article-title>.<source>BMJ</source>
+<year>2012</year>;<volume>344</volume>:<fpage>e3454</fpage>.
+<pub-id pub-id-type="pmid">22628005</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R22">
+<label>22</label>
+<mixed-citation publication-type="webpage">
+<person-group person-group-type="author">
+<name>
+<surname>Price</surname>
+<given-names>H</given-names>
+</name>
+</person-group>
+<article-title>Neurology vs psychiatry: the social production of knowledge</article-title>.<source>
+<italic>Society Pages</italic> (Sociological Images)</source>.<year>2011</year>;<day>9</day>
 <month>9</month>
-<comment>(<uri xlink:type="simple" xlink:href="http://thesocietypages.org/socimages/2011/09/09/neurology-vs-psychiatry-the-social-production-of-knowledge/">http://thesocietypages.org/socimages/2011/09/09/neurology-vs-psychiatry-the-social-production-of-knowledge/</uri>)</comment>.
-</mixed-citation></ref><ref id="R23"><label>23</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name><surname>Raja</surname><given-names>M</given-names></name></person-group>
-<article-title>Neurological diagnoses in psychiatric patients: the uncertain boundaries between neurology and psychiatry</article-title>. <source>Ital J Neurol Sci</source>
-<year>1995</year>; <volume>16</volume>: <fpage>153</fpage>&#x02013;<lpage>8</lpage>.
-<pub-id pub-id-type="pmid">7558769</pub-id></mixed-citation></ref><ref id="R24"><label>24</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name><surname>Levine</surname><given-names>D</given-names></name></person-group>
-<article-title>Re: Time to end the distinction between mental and neurological illnesses (eLetter)</article-title>. <source>BMJ</source>
-<year>2012</year>; <volume>344</volume>: <fpage>e3454</fpage>.
-<pub-id pub-id-type="pmid">22628005</pub-id></mixed-citation></ref><ref id="R25"><label>25</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name><surname>Craddock</surname><given-names>N</given-names></name><name><surname>Antebi</surname><given-names>D</given-names></name><name><surname>Attenburrow</surname><given-names>MJ</given-names></name><name><surname>Bailey</surname><given-names>A</given-names></name><name><surname>Carson</surname><given-names>A</given-names></name><name><surname>Cowen</surname><given-names>P</given-names></name><etal/></person-group>
-<article-title>Wake-up call for British psychiatry</article-title>. <source>Brit J Psychiatry</source>
-<year>2008</year>; <volume>193</volume>: <fpage>6</fpage>&#x02013;<lpage>9</lpage>.
-<pub-id pub-id-type="pmid">18700211</pub-id></mixed-citation></ref><ref id="R26"><label>26</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name><surname>Bullmore</surname><given-names>E</given-names></name><name><surname>Fletcher</surname><given-names>P</given-names></name><name><surname>Jones</surname><given-names>PB</given-names></name></person-group>
-<article-title>Why psychiatry can&#x02019;t afford to be neurophobic</article-title>. <source>Brit J Psychiatry</source>
-<year>2009</year>; <volume>194</volume>: <fpage>293</fpage>&#x02013;<lpage>5</lpage>.
-<pub-id pub-id-type="pmid">19336776</pub-id></mixed-citation></ref><ref id="R27"><label>27</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name><surname>Jorm</surname><given-names>AF</given-names></name><name><surname>Oh</surname><given-names>E</given-names></name></person-group>
-<article-title>Desire for social distance for people with mental disorders</article-title>. <source>Aust NZ J Psychiatry</source>
-<year>2009</year>; <volume>43</volume>: <fpage>183</fpage>&#x02013;<lpage>200</lpage>.
-</mixed-citation></ref><ref id="R28"><label>28</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name><surname>Read</surname><given-names>J</given-names></name><name><surname>Haslam</surname><given-names>N</given-names></name><name><surname>Sayce</surname><given-names>L</given-names></name><name><surname>Davies</surname><given-names>E</given-names></name></person-group>
-<article-title>Prejudice and schizophrenia: a review of the &#x02018;mental illness is an illness like any other&#x02019; approach</article-title>. <source>Acta Psychiatr Scand</source>
-<year>2006</year>; <volume>114</volume>: <fpage>303</fpage>&#x02013;<lpage>18</lpage>.
-<pub-id pub-id-type="pmid">17022790</pub-id></mixed-citation></ref><ref id="R29"><label>29</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name><surname>Schon</surname><given-names>F</given-names></name><name><surname>MacKay</surname><given-names>A</given-names></name><name><surname>Fernandez</surname><given-names>C</given-names></name></person-group>
-<article-title>Is shared learning the way to bring UK neurology and psychiatry closer: what teachers, trainers and trainees think</article-title>. <source>J Neurol Neurosurg Psychiatry</source>
-<year>2006</year>; <volume>77</volume>: <fpage>943</fpage>&#x02013;<lpage>6</lpage>.
-<pub-id pub-id-type="pmid">16549418</pub-id></mixed-citation></ref></ref-list></back></article>
+<comment>(<uri xlink:type="simple" xlink:href="http://thesocietypages.org/socimages/2011/09/09/neurology-vs-psychiatry-the-social-production-of-knowledge/">http://thesocietypages.org/socimages/2011/09/09/neurology-vs-psychiatry-the-social-production-of-knowledge/</uri>)
+</comment>.
+</mixed-citation>
+</ref>
+<ref id="R23">
+<label>23</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Raja</surname>
+<given-names>M</given-names>
+</name>
+</person-group>
+<article-title>Neurological diagnoses in psychiatric patients: the uncertain boundaries between neurology and psychiatry</article-title>.<source>Ital J Neurol Sci</source>
+<year>1995</year>;<volume>16</volume>:<fpage>153</fpage>&#x02013;<lpage>8</lpage>.
+<pub-id pub-id-type="pmid">7558769</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R24">
+<label>24</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Levine</surname>
+<given-names>D</given-names>
+</name>
+</person-group>
+<article-title>Re: Time to end the distinction between mental and neurological illnesses (eLetter)</article-title>.<source>BMJ</source>
+<year>2012</year>;<volume>344</volume>:<fpage>e3454</fpage>.
+<pub-id pub-id-type="pmid">22628005</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R25">
+<label>25</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Craddock</surname>
+<given-names>N</given-names>
+</name>
+<name>
+<surname>Antebi</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Attenburrow</surname>
+<given-names>MJ</given-names>
+</name>
+<name>
+<surname>Bailey</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Carson</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Cowen</surname>
+<given-names>P</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>Wake-up call for British psychiatry</article-title>.<source>Brit J Psychiatry</source>
+<year>2008</year>;<volume>193</volume>:<fpage>6</fpage>&#x02013;<lpage>9</lpage>.
+<pub-id pub-id-type="pmid">18700211</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R26">
+<label>26</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Bullmore</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>Fletcher</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Jones</surname>
+<given-names>PB</given-names>
+</name>
+</person-group>
+<article-title>Why psychiatry can&#x02019;t afford to be neurophobic</article-title>.<source>Brit J Psychiatry</source>
+<year>2009</year>;<volume>194</volume>:<fpage>293</fpage>&#x02013;<lpage>5</lpage>.
+<pub-id pub-id-type="pmid">19336776</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R27">
+<label>27</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Jorm</surname>
+<given-names>AF</given-names>
+</name>
+<name>
+<surname>Oh</surname>
+<given-names>E</given-names>
+</name>
+</person-group>
+<article-title>Desire for social distance for people with mental disorders</article-title>.<source>Aust NZ J Psychiatry</source>
+<year>2009</year>;<volume>43</volume>:<fpage>183</fpage>&#x02013;<lpage>200</lpage>.
+</mixed-citation>
+</ref>
+<ref id="R28">
+<label>28</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Read</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Haslam</surname>
+<given-names>N</given-names>
+</name>
+<name>
+<surname>Sayce</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Davies</surname>
+<given-names>E</given-names>
+</name>
+</person-group>
+<article-title>Prejudice and schizophrenia: a review of the &#x02018;mental illness is an illness like any other&#x02019; approach</article-title>.<source>Acta Psychiatr Scand</source>
+<year>2006</year>;<volume>114</volume>:<fpage>303</fpage>&#x02013;<lpage>18</lpage>.
+<pub-id pub-id-type="pmid">17022790</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R29">
+<label>29</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Schon</surname>
+<given-names>F</given-names>
+</name>
+<name>
+<surname>MacKay</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Fernandez</surname>
+<given-names>C</given-names>
+</name>
+</person-group>
+<article-title>Is shared learning the way to bring UK neurology and psychiatry closer: what teachers, trainers and trainees think</article-title>.<source>J Neurol Neurosurg Psychiatry</source>
+<year>2006</year>;<volume>77</volume>:<fpage>943</fpage>&#x02013;<lpage>6</lpage>.
+<pub-id pub-id-type="pmid">16549418</pub-id>
+</mixed-citation>
+</ref>
+</ref-list>
+</back>
+</article>
