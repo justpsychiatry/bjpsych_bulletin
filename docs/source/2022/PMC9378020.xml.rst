@@ -2,8 +2,9 @@
 Have You Seen the NEWS Today? - a QI Project
 ============================================
 
-:Author: Harleen Kaur Birgi*Presenting author.
+Harleen Kaur Birgi*Presenting author.
 :Date: 2022-06
+
 :Abstract:
    .. rubric:: Aims
       :name: sec_a1
@@ -66,5 +67,9 @@ Have You Seen the NEWS Today? - a QI Project
    consideration around providing regular NEWS teaching sessions to all
    inpatient staff across the trust.
 
+
+.. contents::
+   :depth: 3
+..
 
 pmc

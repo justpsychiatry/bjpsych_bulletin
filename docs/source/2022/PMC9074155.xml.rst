@@ -2,8 +2,13 @@
 Gwen Douglas, MB ChB, FRCPsych
 ==============================
 
-:Author: Peter Shoenberg
+Peter Shoenberg
 :Date: 2022-04
+
+
+.. contents::
+   :depth: 3
+..
 
 pmc
 Formerly Consultant Child Psychiatrist at Sutton Child Guidance Clinic
@@ -24,12 +29,13 @@ psychosis who had been admitted with their babies to the Neurosis Unit
 at the West Middlesex Hospital. She concluded that such mothers could be
 safely looked after with their babies and successfully treated with
 psychotherapy either alone, or combined with or following physical
-interventions.\ :sup:`1` She was supported by Main, who wrote of ‘the
-twin dangers of separating mother and child, first and more obvious, to
-the child and second and as fateful to the mother's confidence in her
-future capacity as a mother.’\ :sup:`2` Over subsequent years, treatment
-on a mother and baby unit gradually came to be accepted as the most
-effective way to manage post-natal psychotic disorders.
+interventions.\ :sup:`(n.d.a)` She was supported by Main, who wrote of
+‘the twin dangers of separating mother and child, first and more
+obvious, to the child and second and as fateful to the mother's
+confidence in her future capacity as a mother.’\ :sup:`(n.d.b)` Over
+subsequent years, treatment on a mother and baby unit gradually came to
+be accepted as the most effective way to manage post-natal psychotic
+disorders.
 
 Gwen was born on 4 October 1920 in Papatoetoe (Papatoitoi) on the North
 Island of New Zealand, the daughter of William (Bill), later Sir
@@ -67,3 +73,16 @@ After 2007 she spent her final years comfortably and happily at the Mary
 Feilding Guild in Highgate and more recently at Henford House in
 Warminster. She was predeceased by her husband, who died in 1987, and
 her son.
+
+.. container:: references csl-bib-body hanging-indent
+   :name: refs
+
+   .. container:: csl-entry
+      :name: ref-ref1
+
+      n.d.a.
+
+   .. container:: csl-entry
+      :name: ref-ref2
+
+      n.d.b.

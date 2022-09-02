@@ -2,8 +2,13 @@
 Brian M. Davies, MD, DPM, FRCP, FRCPsych, FRANZCP
 =================================================
 
-:Author: Roger Glass
+Roger Glass
 :Date: 2021-12
+
+
+.. contents::
+   :depth: 3
+..
 
 pmc
 Formerly Cato Professor of Psychiatry, University of Melbourne,
@@ -72,7 +77,7 @@ psychiatry. From 1956 to 1964 at the Maudsley and Bethlem Royal
 Hospital, Brian immersed himself in the newly emerging and exciting
 field of research into antidepressants. He published world-leading
 research on tricyclic and monoamine oxidase inhibitor
-antidepressants.\ :sup:`1`
+antidepressants.\ :sup:`(n.d.)`
 
 Looking beyond the possibilities of a psychiatric career in Britain, he
 decided to apply instead for a more interesting academic post, just then
@@ -107,3 +112,11 @@ In 1951, Brian married Rona (née Waters), a nurse, the start of over 67
 years of loving marriage, sadly ended in 2019 with Rona's death. They
 had a daughter, Debra, and son, Gareth, together with three admiring
 grandchildren.
+
+.. container:: references csl-bib-body hanging-indent
+   :name: refs
+
+   .. container:: csl-entry
+      :name: ref-ref1
+
+      n.d.

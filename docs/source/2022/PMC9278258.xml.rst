@@ -2,16 +2,17 @@
 Local Health Systems Resilience in Managing the COVID-19 Pandemic: Lessons from Mexico
 ======================================================================================
 
-:Author: Clara Juárez-Ramírez
-:Author: Hortensia Reyes-Morales
-:Author: Gaudencio Gutiérrez-Alba
-:Author: Diana L Reartes-Peñafiel
-:Author: Sergio Flores-Hernández
-:Author: José Alberto Muños-Hernández
-:Author: André Escalante-Castañón
-:Author: Miguel MaloCorresponding author: Hortensia Reyes-Morales,
-         e-mail: hortensia.reyes@insp.mx
+Clara Juárez-Ramírez
+Hortensia Reyes-Morales
+Gaudencio Gutiérrez-Alba
+Diana L Reartes-Peñafiel
+Sergio Flores-Hernández
+José Alberto Muños-Hernández
+André Escalante-Castañón
+Miguel MaloCorresponding author: Hortensia Reyes-Morales, e-mail:
+hortensia.reyes@insp.mx
 :Date: 2022-07-07
+
 :Abstract:
    The concept of *resilience* was applied to the public health field to
    investigate the way health systems are impacted by health crises,
@@ -44,6 +45,10 @@ Local Health Systems Resilience in Managing the COVID-19 Pandemic: Lessons from 
    a way to address successfully the increasingly complex health
    challenges of the present and future times.
 
+
+.. contents::
+   :depth: 3
+..
 
 pmc
 Supplementary Material

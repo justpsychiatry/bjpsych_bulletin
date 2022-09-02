@@ -38,7 +38,6 @@ Contents
    ./2018/index.rst
    ./2017/index.rst
    ./2016/index.rst
+   ./2015/index.rst
 
-.. admonition:: Copyrights
-
-   CCBY 4.0 
+...

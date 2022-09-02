@@ -1,0 +1,261 @@
+=========================================
+What neuroscience has already done for us
+=========================================
+------------------------------------------------------------------
+: Commentary on… Why hasn't neuroscience delivered for psychiatry?
+------------------------------------------------------------------
+
+Lindsey Isla Sinclair [1]_Correspondence to Lindsey Sinclair
+(Lindsey.sinclair@bristol.ac.uk) [2]_
+:Date: 2020-06
+
+:Abstract:
+   Each of the components of the biopsychosocial model of mental illness
+   is important for understanding mental illness. Biological and genetic
+   abnormalities have been demonstrated in major mental illnesses. These
+   are leading to changes in our understanding of these conditions, as
+   well as our understanding of the link between life events and mental
+   illness.
+
+
+.. contents::
+   :depth: 3
+..
+
+As readers will be well aware, the biopsychosocial model has underpinned
+psychiatry for several decades.\ :sup:`(n.d.a)` Each component of this
+model is important for our understanding of mental illness. Professor
+Kingdon is therefore correct to say in his interesting editorial that
+neuroscience is unlikely to hold all of the answers to why people
+develop mental disorders and when they occur in their
+lifetime.\ :sup:`(n.d.b)` I challenge, however, his assertion that
+‘biological changes have yet to be shown to be relevant to the major
+mental disorders’.
+
+.. _sec1:
+
+Brain imaging and schizophrenia
+===============================
+
+Taking schizophrenia as an example, there are clearly demonstrable
+differences in the brains of individuals with schizophrenia compared
+with those of controls. It was first shown in the 1970s that people with
+schizophrenia had enlarged cerebral ventricles.\ :sup:`(n.d.c)` Since
+then abnormalities in both grey and white matter have been convincingly
+demonstrated in the disorder.\ :sup:`(n.d.d)` More sophisticated
+brain-imaging techniques have allowed the discovery in recent years that
+differences in brain volume are present even in medication-naive
+individuals with first-episode psychosis.\ :sup:`(n.d.e)` It seems
+increasingly likely that there are differences in volume even before the
+at-risk mental state, although this remains difficult to prove
+definitively.\ :sup:`(n.d.f)–(n.d.g)`
+
+Recently developed scientific techniques such as the use of induced
+pluripotent stem cells to create a ‘cortex in a dish’ (*aka* brain
+organoids) have allowed tantalising insights into why these imaging
+abnormalities may emerge. Using cells from individuals with
+schizophrenia (some with a range of predisposing genetic abnormalities)
+multiple studies have shown abnormalities such as impaired cellular
+differentiation and synapse formation.\ :sup:`(n.d.h)–(n.d.i)`
+
+These studies add to the emerging hypothesis that the brain of someone
+at risk of schizophrenia differs from controls at an early stage and
+that these differences increase as psychosis emerges. These
+neuroscientific findings are a good fit with the long-standing findings
+from more psychosocially focused research that differences can be seen
+in childhood behaviour in those who later develop
+schizophrenia.\ :sup:`(n.d.j)–(n.d.k)` They also suggest that, to
+develop better treatments for schizophrenia, we need to look beyond
+compounds targeting dopamine receptors.
+
+.. _sec2:
+
+Genetics in intellectual disability and depression
+==================================================
+
+I would also challenge Professor Kingdon's assertion that no genetic
+findings of use to the practising psychiatrist have been found for the
+major mental illnesses. Genetic testing for copy number variants is
+starting to form part of practice in intellectual disability
+services.\ :sup:`(n.d.l),(n.d.m)` Using his example of depression he is
+correct to say that the much vaunted candidate genes studied in the
+1990s and 2000s have not been replicated in later, large
+studies.\ :sup:`(n.d.n)` However, more recent, vastly better powered
+studies have produced findings of greater potential use. The most recent
+genome-wide association study on depression found 87 independent loci
+that were associated with depression, with a startling lack of genes
+involved in the 5-HT system.\ :sup:`(n.d.o)` This may suggest that,
+although drugs acting on the 5-HT system are effective in treating
+depression for many people, disturbances in 5-HT are not the cause of
+depression. Findings such as these are likely to be of great benefit in
+developing new treatments.
+
+.. _sec3:
+
+Epigenetics and treatment targetting
+====================================
+
+Neuroscience can also help us to explain the link between life events,
+which are frequently assessed in psychosocial research, and mental
+health outcomes. For example, epigenetic studies have shown that
+maternal behaviour influences the expression of genes, including those
+involved in the glucocorticoid stress response.\ :sup:`(n.d.p),(n.d.q)`
+Because this work was done in rats it was possible to demonstrate that
+this effect was not genetic as it was abolished by cross-fostering with
+more affectionate mothers.\ :sup:`(n.d.q)` Childhood maltreatment such
+as physical abuse has long been recognised as a risk factor for mental
+illness. Recent genetic and epigenetic studies are helping us to
+understand why some people are more resilient to the effects of this
+abuse than others.\ :sup:`(n.d.r),(n.d.s)` It has been suggested by some
+authors that this information could be used to better target childhood
+interventions, such as providing more intensive interventions to those
+likely to be least resilient to the effects of childhood maltreatment.
+
+.. _sec4:
+
+Conclusions
+===========
+
+Our understanding of mental health problems has started to change
+radically in the past few decades. It is only 50 years since it was
+widely believed that parents could be responsible for their offspring
+developing schizophrenia.\ :sup:`(n.d.t)` Within the past 50 years
+patients with intractable epilepsy were cared for in psychiatric
+hospitals, something that would now be unthinkable, and the parent–child
+relationship was seriously considered as a cause of
+epilepsy.\ :sup:`(n.d.u),(n.d.v)`
+
+This improvement in understanding has the potential to reduce stigma, to
+ultimately lead to new treatments and to provide patients with a better
+understanding of what is happening to them and why. It is critical that
+mental health researchers work together, rather than in methods-based
+silos, to further improve our understanding of why and how patients
+develop mental health problems.
+
+L.I.S. has received research funding from BRACE, Dementias Platform UK,
+the British Neuropathological Society and the David Telling Charitable
+Trust.
+
+**Lindsey Isla Sinclair**, MBBS, MSc, PhD, MRCPsych, is a Clinical
+Research Fellow in psychiatry in the Department of Population Health
+Sciences at the University of Bristol, UK. Her research is neuroscience
+based and she is a Gatsby/RCPsych travelling fellowship awardee 2019.
+
+.. container:: references csl-bib-body hanging-indent
+   :name: refs
+
+   .. container:: csl-entry
+      :name: ref-ref1
+
+      n.d.a.
+
+   .. container:: csl-entry
+      :name: ref-ref2
+
+      n.d.b.
+
+   .. container:: csl-entry
+      :name: ref-ref3
+
+      n.d.c.
+
+   .. container:: csl-entry
+      :name: ref-ref4
+
+      n.d.d.
+
+   .. container:: csl-entry
+      :name: ref-ref5
+
+      n.d.e.
+
+   .. container:: csl-entry
+      :name: ref-ref6
+
+      n.d.f.
+
+   .. container:: csl-entry
+      :name: ref-ref8
+
+      n.d.g.
+
+   .. container:: csl-entry
+      :name: ref-ref9
+
+      n.d.h.
+
+   .. container:: csl-entry
+      :name: ref-ref11
+
+      n.d.i.
+
+   .. container:: csl-entry
+      :name: ref-ref12
+
+      n.d.j.
+
+   .. container:: csl-entry
+      :name: ref-ref15
+
+      n.d.k.
+
+   .. container:: csl-entry
+      :name: ref-ref16
+
+      n.d.l.
+
+   .. container:: csl-entry
+      :name: ref-ref17
+
+      n.d.m.
+
+   .. container:: csl-entry
+      :name: ref-ref18
+
+      n.d.n.
+
+   .. container:: csl-entry
+      :name: ref-ref19
+
+      n.d.o.
+
+   .. container:: csl-entry
+      :name: ref-ref20
+
+      n.d.p.
+
+   .. container:: csl-entry
+      :name: ref-ref21
+
+      n.d.q.
+
+   .. container:: csl-entry
+      :name: ref-ref22
+
+      n.d.r.
+
+   .. container:: csl-entry
+      :name: ref-ref23
+
+      n.d.s.
+
+   .. container:: csl-entry
+      :name: ref-ref24
+
+      n.d.t.
+
+   .. container:: csl-entry
+      :name: ref-ref25
+
+      n.d.u.
+
+   .. container:: csl-entry
+      :name: ref-ref26
+
+      n.d.v.
+
+.. [1]
+   **Declaration of interest:** None.
+
+.. [2]
+   See this issue.

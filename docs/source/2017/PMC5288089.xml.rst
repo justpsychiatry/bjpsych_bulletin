@@ -1,0 +1,1280 @@
+==========================================================================================
+Juvenile delinquency, welfare, justice and therapeutic interventions: a global perspective
+==========================================================================================
+
+Susan Young
+Ben Greer
+Richard ChurchCorrespondence to Susan Young
+(susan.young1@imperial.ac.uk)  [1]_
+:Date: 2017-2
+
+:Abstract:
+   This review considers juvenile delinquency and justice from an
+   international perspective. Youth crime is a growing concern. Many
+   young offenders are also victims with complex needs, leading to a
+   public health approach that requires a balance of welfare and justice
+   models. However, around the world there are variable and inadequate
+   legal frameworks and a lack of a specialist workforce. The UK and
+   other high-income countries worldwide have established forensic child
+   and adolescent psychiatry, a multifaceted discipline incorporating
+   legal, psychiatric and developmental fields. Its adoption of an
+   evidence-based therapeutic intervention philosophy has been
+   associated with greater reductions in recidivism compared with
+   punitive approaches prevalent in some countries worldwide, and it is
+   therefore a superior approach to dealing with the problem of juvenile
+   delinquency.
+
+
+.. contents::
+   :depth: 3
+..
+
+Recent years have seen sustained public and academic interest in
+criminality and mental health, with attention often focused on
+antisocial behaviour by children and adolescents. The scale of the
+problem of juvenile delinquency has provoked mixed responses from
+governments and the media across the world, with calls for improved
+rehabilitation and support for juvenile offenders competing with voices
+advocating more punitive approaches.\ :sup:`(n.d.a)` Meanwhile, decades
+of rigorous academic scrutiny have shed light on the complex and diverse
+needs of children who come into conflict with the
+law.\ :sup:`(n.d.b)–(n.d.c)` Much of the growing body of literature on
+juvenile offenders shows considerable overlap between criminological,
+social and biomedical research, with a consensus emerging around the
+significance of a developmental understanding of the emergence of
+juvenile delinquency.
+
+Importantly, juvenile offenders have consistently been identified as a
+population that suffers from a markedly elevated prevalence and severity
+of mental disorder compared with the general juvenile
+population.\ :sup:`(n.d.d),(n.d.e)` Meeting the needs of these young
+offenders presents practical and ethical challenges concerning treatment
+and management, including liaison with other agencies.
+
+.. _S1:
+
+What is juvenile delinquency?
+=============================
+
+.. _S2:
+
+Who counts as juvenile?
+-----------------------
+
+Juvenile delinquency is a term commonly used in academic literature for
+referring to a young person who has committed a criminal offence,
+although its precise definition can vary according to the local
+jurisdiction. The specific reasons underlying these differences are
+unclear, but they may arise from the lack of an agreed international
+standard.\ :sup:`(n.d.f)`
+
+A ‘juvenile’ in this context refers to an individual who is legally able
+to commit a criminal offence owing to being over the minimum age of
+criminal responsibility, but who is under the age of criminal majority,
+when a person is legally considered an adult. The minimum age of
+criminal responsibility varies internationally between 6 and 18 years,
+but the age of criminal majority is usually 18 years.
+
+In some cases individuals older than 18 years may be heard in a juvenile
+court, and therefore will still be considered juveniles; indeed, the
+United Nations (UN) defines ‘youth’ as between 15 and 24 years of age.
+The term ‘child delinquents’ has been used in reference to children
+below the age of 13 who have committed a delinquent act,\ :sup:`(n.d.g)`
+although elsewhere ‘children’ are often defined as being under 18 years
+of age. The term ‘young offenders’ is broad, and can refer to offenders
+aged under 18 years or include young adults up to their mid-20s.
+
+.. _S3:
+
+What is a crime?
+----------------
+
+A ‘delinquent’ is an individual who has committed a criminal offence.
+Delinquency therefore encompasses an enormous range of behaviours which
+are subject to legislation differing from one jurisdiction to another,
+and are subject to changes in law over time. Whereas acts of theft and
+serious interpersonal violence are commonly considered to constitute
+criminal offences, other acts including alcohol consumption and sexual
+behaviour in young people are tolerated to very differing degrees across
+the world. Sometimes these differences arise as a consequence of
+historical or cultural factors, and they may be underpinned by
+traditional religious laws, such as in some Middle Eastern countries.
+Some offences may be shared between jurisdictions but be enforced to
+differing standards – for instance, ‘unlawful assembly’, often used to
+prevent riots, is applied in Singapore to young people meeting in public
+in groups of five or more as part of police efforts to tackle youth
+gangs. Furthermore, ‘status offences’ – acts that would be permissible
+in adults but criminalised in children, such as consumption of alcohol
+or truancy – not only vary between jurisdictions, but contribute to
+discontinuity when comparing juvenile delinquency with adult populations
+in the same jurisdiction.
+
+Lack of clarity can also arise in jurisdictions where a young offender
+is processed via a welfare system rather than a youth justice process.
+Countries with a high minimum age of criminal responsibility may not
+technically criminalise young people for behaviour that would normally
+be prosecuted and therefore classed as ‘delinquent’ elsewhere.
+
+Not all incarcerated juveniles are ‘delinquent’, since some may be
+detained pre-trial and may not be convicted of an offence. Even if
+convicted, it would be wrong to assume that every ‘juvenile delinquent’
+meets criteria for a diagnosis of conduct disorder; offences vary
+considerably and may not be associated with a broad repertoire of
+offending behaviour. Also, most ‘juvenile delinquents’ do not pose an
+immediate risk of violence to others, and the vast majority of convicted
+juveniles serve their sentences in the community.
+
+To meet the diagnostic criteria of conduct disorder requires evidence of
+a persistent pattern of dissocial or aggressive conduct, such that it
+defies age-appropriate social expectations. Behaviours may include
+cruelty to people or animals, truancy, frequent and severe temper
+tantrums, excessive fighting or bullying and fire-setting; diagnosis of
+conduct disorder can be made in the marked presence of one of these
+behaviours.\ :sup:`(n.d.h)`
+
+Overall, the term ‘juvenile delinquent’ is used extensively in academic
+literature, but requires some care. It can be a potentially problematic
+term, and in some contexts can strike a pejorative tone with misleading
+negative assumptions. For several years the UN has used the phrase
+‘children in conflict with the law’ to describe the breadth of the
+heterogeneous group of individuals under the age of 18 who have broken
+the law or are at risk of doing so.
+
+.. _S4:
+
+General principles of juvenile justice
+======================================
+
+.. _S5:
+
+Welfare *v.* justice models
+---------------------------
+
+The sentencing of an individual convicted of a criminal offence is
+largely driven by three key considerations: retribution (punishment),
+deterrence and rehabilitation. In the case of juvenile offenders the
+principle of rehabilitation is often assigned the greatest
+weight.\ :sup:`(n.d.i)`
+
+Special consideration for juveniles within the criminal justice system
+is not a new concept. In Roman law, the principle of *doli incapax*
+protected young children from prosecution owing to the presumption of a
+lack of capacity and understanding required to be guilty of a criminal
+offence. Most countries have some provision for special treatment of
+children who come into conflict with the law, however, the degree to
+which this is provided varies across the world.\ :sup:`(n.d.a),(n.d.j)`
+In some countries a ‘welfare’ model prevails, which focuses on the needs
+of the child, diagnosis, treatment and more informal procedures, whereas
+other countries favour a ‘justice’ model, which emphasises
+accountability, punishment and procedural formality.
+
+Belgium is frequently cited as an example of a country with a strong
+welfare process, supported by a high minimum age of criminal
+responsibility of 18 years. Similarly, France built a strong welfare
+reputation by placing education and rehabilitation at the centre of
+youth justice reforms in the 1940s. New Zealand in 1989 established the
+widely praised system of Family Group Conferencing as an integral part
+of youth justice, with a focus on restoration of relationships and
+reduction of incarceration that would be considered part of a welfare
+approach. In contrast, the UK and the USA have traditionally been
+associated with a justice model and low age of criminal responsibility –
+10 years in England and Wales, and as low as 6 years in several US
+states.
+
+Within welfare or justice models, a young person may at some point be
+‘deprived of liberty’ – defined as any form of detention under official
+authorities in a public or private location which the child is not
+permitted to leave. Locations in which children may be deprived of
+liberty include police stations, detention centres, juvenile or adult
+prisons, secure remand homes, work or boot camps, penitentiary colonies,
+locked specialised schools, educational or rehabilitation
+establishments, military camps and prisons, immigration detention
+centres, secure youth hostels and hospitals.\ :sup:`(n.d.k)`
+
+.. _S6:
+
+Between the less and more punitive systems
+------------------------------------------
+
+The UN supports the development of specialised systems for managing
+children in conflict with the law. When the first children's courts were
+set up in the USA in the 1930s, they were widely praised as a
+progressive system for serving the best interests of the child. Although
+informality was championed as a particular benefit, in the 1960s
+substantial concerns arose about due process and the protection of the
+legal rights of minors. The subsequent development of formal juvenile
+courts occurred in the context of a continuing ethos of rehabilitation
+of young people, with a move away from incarceration of juveniles in the
+1970s, especially in Massachusetts and California. However, following a
+marked peak in juvenile offending statistics during the 1980s and 1990s,
+public and political opinion swung firmly in a more punitive direction.
+This was accompanied by legal reforms that increased the severity of
+penalties available to juvenile courts and lowered the age threshold for
+juveniles to be tried in adult criminal courts.
+
+When the UN Convention on the Rights of the Child entered into force in
+1990, the USA was not a signatory owing to 22 states permitting capital
+punishment of individuals who had committed their crimes as juveniles.
+It is reported that 19 juvenile offenders were executed in the USA
+between 1990 and 2005. Although this number may represent a small
+percentage of the total who faced the death penalty in the USA during
+that period, the practice was widely criticised by international bodies
+and organisations.\ :sup:`(n.d.l)` A landmark ruling in the US Supreme
+Court\ :sup:`(n.d.m)` outlawed the execution of juvenile offenders in
+the USA, but to date a small number of countries worldwide still
+implement this practice, sometimes as a result of religious laws.
+
+However, it would be wrong to assume that welfare systems are
+automatically preferable to a juvenile justice approach, since welfare
+arrangements can be equally coercive in terms of deprivation of liberty
+of juveniles. They may lack due process, safeguards for obtaining
+reliable evidence from young people, processes for testing evidence, and
+procedures for scrutiny or appeal following disposal.
+
+.. _S7:
+
+Trends in youth crime
+=====================
+
+The USA witnessed a dramatic increase in arrest rates of young people
+for homicide and other violent crimes in the 1980s and 1990s, sometimes
+referred to as the ‘violence epidemic’.\ :sup:`(n.d.n)` The ensuing
+moral panic led to harsh and punitive policy changes in juvenile justice
+and, although official statistics document a subsequent fall of 20% in
+court case-loads between 1997 and 2009, victimisation surveys have
+indicated a degree of continuity in high levels of offending, consistent
+with a reported increase in juvenile offending between 2000 and
+2006.\ :sup:`(n.d.o)`
+
+In common with the USA and several other high-income countries, the UK
+also experienced a rise in juvenile offending in the 1980s and 1990s,
+but figures from the Youth Justice Board for England and Wales appear to
+indicate a general improvement in recent years. Between 2009/2010 and
+2014/2015 a 67% reduction has been observed in the number of young
+people entering the juvenile justice system for the first time, a 65%
+reduction in the number of young people receiving a caution or court
+disposal and a 57% reduction in the number of young people in
+custody.\ :sup:`(n.d.p)` These figures support an overall decrease in
+juvenile offending noted since the early 1990s.\ :sup:`(n.d.q)`
+
+Youth crime figures from Australia have documented a 4% reduction in the
+overall number of young offenders in 2013/2014,\ :sup:`(n.d.r)` although
+the number of violent offences committed by young people in the
+urbanised and densely populated region of Victoria has increased by 75%
+between 2000 and 2010.\ :sup:`(n.d.s)`
+
+The Nordic countries have witnessed an increase in the number of
+law-abiding youths from 1994 and 2008.\ :sup:`(n.d.t)` In Sweden, both
+objective levels of juvenile crime\ :sup:`(n.d.u)` and self-reported
+involvement in juvenile crime\ :sup:`(n.d.v)` have fallen between 1995
+and 2005. Similarly in Finland, where, despite fluctuating trends in
+juvenile drug use, juvenile property and violent crime is reported to
+have decreased between 1992 and 2013.\ :sup:`(n.d.w)`
+
+To summarise, whereas regional and annual trends in juvenile offending
+are observed and expected, a global trend characterised by decreased
+juvenile offending appears to have emerged in recent years. Indeed, UN
+data from a sample of 40 countries lend support to this conclusion,
+indicating a decrease in the proportion of juveniles suspected (10.9% to
+9.2%) and convicted (7.5% to 6%) of crime between 2004 and 2012,
+respectively.\ :sup:`(n.d.x)`
+
+.. _S8:
+
+Juvenile gang membership
+------------------------
+
+.. _S9:
+
+Influence on crime involvement
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+One of the features of urbanisation across the world has been the rise
+of youth gangs, groups of young people often defined by geographical
+area, ethnic identity or ideology; recent reports indicate a rise in
+groups with extremist views. Explanatory models for the rise in youth
+gangs include factors such as economic migration, loss of extended
+family networks, reduced supervision of children, globalisation and
+exposure to inaccessible lifestyle ‘ideals’ portrayed in modern media.
+
+Authorities in Japan attributed a surge in serious youth crime in the
+1990s primarily to juvenile bike gangs known as ‘bosozoku’, who were
+deemed responsible for over 80% of serious offences perpetrated by
+juveniles, putatively bolstered by a crackdown on yakuza organised crime
+syndicates.\ :sup:`(n.d.y)` Although difficult to quantify, gang
+involvement appears to feature in a large proportion of juvenile
+offences, and there is evidence that gang membership has a facilitating
+effect on perpetration of the most serious violence including
+homicide.\ :sup:`(n.d.z)`
+
+.. _S10:
+
+Mental health
+~~~~~~~~~~~~~
+
+Compared with general and juvenile offender populations, juvenile gang
+members exhibit significantly higher rates of mental health problems
+such as conduct disorder/antisocial personality disorder, post-traumatic
+stress disorder (PTSD), anxiety disorders and attention-deficit
+hyperactivity disorder (ADHD).\ :sup:`(n.d.aa)` Gang members, compared
+with non-violent men who do not belong to a gang, are far more likely to
+utilise mental health services and display significantly higher levels
+of psychiatric morbidity, most notably antisocial personality disorder,
+psychosis and anxiety disorders.\ :sup:`(n.d.ab)` Gang membership has
+also been positively correlated with an increased incidence of depressed
+mood and suicidal ideation among younger gang members.\ :sup:`(n.d.ac)`
+Prevalence of ADHD is significantly greater in incarcerated youth
+populations (30.1%) than in general youth population estimates
+(3–7%),\ :sup:`(n.d.ad)` therefore it may be reasonable to expect a
+similarly increased prevalence in juvenile gang members. ADHD has also
+been associated with a significantly increased risk of comorbid
+mood/affective disorder.\ :sup:`(n.d.ae)`
+
+.. _S11:
+
+Forensic child and adolescent psychiatric services
+==================================================
+
+Increased awareness of constitutional and environmental factors that
+contribute to juvenile offending has strengthened a public health
+perspective towards the problem, and in the UK entry into the youth
+justice system has been adopted as an indicator of general public
+health.\ :sup:`(n.d.af)`
+
+Dictionaries frequently define ‘forensic’ as meaning ‘legal’, implying a
+relationship with any court of law. Indeed, many forensic psychiatrists,
+particularly in child and adolescent services, undertake roles that
+encompass multiple legal domains relevant to mental health, including
+criminal law, family and child custody proceedings, special educational
+tribunals, and immigration or extradition matters.
+
+Specialist forensic psychiatric services vary considerably between
+countries,\ :sup:`(n.d.ag)` but usually forensic psychiatrists assess
+and treat individuals in secure psychiatric hospitals, prisons, law
+courts, police stations and in the community under various levels of
+security, supervision and support. In some countries there has been a
+trend towards forensic psychiatrists working almost exclusively with
+courts of law, providing independent specialist opinion to assist the
+court.
+
+In the UK, forensic child and adolescent psychiatry has emerged as a
+clinical subspecialty. Some services are based in specialist secure
+hospitals for young people and cater for the relatively small number of
+high-risk young offenders with the most severe mental disorders. In the
+absence of such specialist resources, young people may be managed in
+suboptimal environments such as juvenile prisons, secure residential
+placements or secure mental health wards for adults, or even fail to
+receive treatment at all.
+
+In light of growing evidence-based interventions for juvenile offenders
+within a public health framework,\ :sup:`(n.d.ah)` the role of child and
+family mental health services may increase over time. Aside from direct
+clinical roles, practitioners in forensic child and adolescent
+psychiatry are also well placed to work with a wide range of partner
+agencies on the planning and delivery of broader interventions for the
+primary and secondary prevention of juvenile delinquency.
+
+.. _S12:
+
+Treatment
+=========
+
+.. _S13:
+
+Prevalence of mental health problems among juvenile offenders
+-------------------------------------------------------------
+
+Rates of mental health problems among juvenile offenders are
+significantly higher than in their non-offender peers, with two-thirds
+of male juvenile offenders in the USA suggested as meeting criteria for
+at least one psychiatric disorder.\ :sup:`(n.d.ai)` One in five juvenile
+offenders is estimated to suffer severe functional impairment as a
+result of their mental health problems.\ :sup:`(n.d.aj)` Paradoxically,
+these needs are often unmet,\ :sup:`(n.d.ak),(n.d.al)` despite evidence
+of increased contact with mental health services, particularly among
+first-time juvenile offenders.\ :sup:`(n.d.am),(n.d.an)` Of additional
+concern are the reported associations between mental health problems and
+mortality in incarcerated juveniles,\ :sup:`(n.d.ao)` including an
+elevated suicide rate for males.\ :sup:`(n.d.ap)` Mental health problems
+must be a target in interventions for juvenile offenders; however,
+treatments which focus solely on clinical problems are unlikely to
+result in benefit for criminogenic outcomes.\ :sup:`(n.d.aq)` There is
+therefore a clear need for effective interventions which address both
+the clinical and criminogenic needs of these individuals.
+
+.. _S14:
+
+Evidence-based treatments for mental health problems
+----------------------------------------------------
+
+.. _S15:
+
+Treatment of PTSD
+~~~~~~~~~~~~~~~~~
+
+Estimates regarding the prevalence of PTSD among juvenile offenders
+suggest that 20 to 23% meet the clinical
+criteria,\ :sup:`(n.d.ar),(n.d.as)` with prevalence rates significantly
+higher among females than males (40% *v*. 17%).\ :sup:`(n.d.ar)`
+Moreover, with 62% experiencing trauma within the first 5 years of
+life\ :sup:`(n.d.as)` and up to 93% experiencing at least one traumatic
+event during childhood or adolescence,\ :sup:`(n.d.at)` this should be a
+target for intervention.
+
+Cognitive–behavioural therapy (CBT) is regarded as the most effective
+intervention for adults with PTSD\ :sup:`(n.d.au)` and also has
+demonstrated efficacy for juvenile
+non-offenders.\ :sup:`(n.d.av),(n.d.aw)` There is limited evidence
+suggesting a significant reduction in self-reported symptoms of PTSD
+following group-based CBT in male juvenile offenders,\ :sup:`(n.d.ax)`
+and of an adapted version of CBT, cognitive processing
+therapy,\ :sup:`(n.d.ay)` also resulting in a significant reduction in
+self-reported symptoms of PTSD and depression compared with waitlist
+controls.\ :sup:`(n.d.az)`
+
+A trauma-focused emotion regulation intervention (TARGET) has received
+preliminary empirical support for use in this population. TARGET
+resulted in nearly twice as much reduction in PTSD symptom severity as
+treatment as usual (TAU),\ :sup:`(n.d.ba)` in addition to significant
+reductions in depression, behavioural disturbances and increased
+optimism.\ :sup:`(n.d.bb)`
+
+.. _S16:
+
+Mood/anxiety disorders and self-harm
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Juvenile offenders in the UK present with a high prevalence of mood and
+anxiety disorders (67% of females, 41% of males), self-harm (11% of
+females, 7% of males) and history of suicide attempts (33% of females,
+20% of males).\ :sup:`(n.d.bc)` Similarly high prevalence has also been
+observed cross-culturally, namely in the USA,\ :sup:`(n.d.ai),(n.d.bd)`
+Switzerland\ :sup:`(n.d.be)` and Finland.\ :sup:`(n.d.bf)`
+
+Despite such high prevalence, there appears to be a paucity of
+high-quality evaluations regarding the effectiveness of interventions
+for juvenile offenders with mood and/or anxiety disorders, or problems
+with self-harm. However, the limited evidence that is available suggests
+that group-based CBT may aid symptom reduction.\ :sup:`(n.d.bg)`
+Recovery rates for major depressive disorder following group-based CBT
+are over double those for a life skills tutoring intervention (39% *v*.
+19%, respectively), although no significant difference was noted at 6-
+or 12-month follow-up. CBT also resulted in significantly greater
+improvements in self- and observer-reported symptoms of depression and
+social functioning.\ :sup:`(n.d.bh)`
+
+However, group-based CBT is not reported to be significantly different
+from TAU in reduction of self-harm,\ :sup:`(n.d.bi)` whereas individual
+CBT is not significantly different from TAU in outcomes for depression,
+anxiety, conduct disorder or PTSD.\ :sup:`(n.d.bj)` Yet recruitment to
+and retention in intervention seems good, suggesting that CBT is
+feasible to implement in juvenile offender populations.\ :sup:`(n.d.bj)`
+
+Evaluations of alternative interventions have posited muscle relaxation
+as effective in improving juvenile offenders' tolerance of
+frustration.\ :sup:`(n.d.bk)` Dialectical behaviour therapy (DBT) has
+also been reported to significantly reduce incidences of physical
+aggression in a juvenile offender population\ :sup:`(n.d.bl)` and among
+juvenile non-offenders expressing suicidal ideation.\ :sup:`(n.d.bm)` It
+significantly reduced serious behavioural problems and staff punitive
+actions among juvenile offenders within a mental health unit, although
+no similar significant reductions were observed for those without mental
+health problems.\ :sup:`(n.d.bn)`
+
+.. _S17:
+
+Evidence-based treatments for conduct disorder: family approaches
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Relationships with family and peers are recognised as key factors in the
+criminogenic profile of juvenile offenders.\ :sup:`(n.d.bo)`
+Multisystemic therapy (MST) is a family-focused intervention targeting
+characteristics related to antisocial behaviour, including family
+relationships and peer associations,\ :sup:`(n.d.bp)` with evidence from
+US and UK studies suggesting MST is a beneficial intervention for
+juvenile offenders. When compared with conventional services offered by
+juvenile offending services, MST was associated with a significant
+reduction in the likelihood of reoffending,\ :sup:`(n.d.bq)` maintained
+2 and 4 years post-treatment.\ :sup:`(n.d.br),(n.d.bs)` Offenders
+engaging in MST are reported to be significantly less likely to become
+involved in serious and violent offending.\ :sup:`(n.d.bs),(n.d.bt)`
+Significant improvements have also been observed in both self- and
+parent-reported delinquency,\ :sup:`(n.d.bt)` family relations and
+interactions,\ :sup:`(n.d.bs)` and home, school, community and emotional
+functioning.\ :sup:`(n.d.bq)` A cost offset analysis of MST among UK
+juvenile offenders suggested that combining MST and conventional
+services provides greater cost savings than conventional services alone,
+as a result of its positive effects on recidivism.\ :sup:`(n.d.bu)`
+Qualitative impressions of MST from juvenile offenders and their parents
+indicate that key components of a successful delivery of MST include the
+quality of the therapeutic relationship and ability to re-engage the
+offender with educational systems.\ :sup:`(n.d.bv)`
+
+Some evidence also exists regarding the efficacy of MST when delivered
+to non-offender antisocial juvenile populations outside the USA and the
+UK. Compared with TAU, MST resulted in a significantly greater increase
+in social competence and caregiver satisfaction, and a significant
+reduction in referrals for out-of-home placements, in Norwegian
+juveniles exhibiting serious behavioural problems.\ :sup:`(n.d.bw)`
+However, no significant difference between MST and TAU was reported in
+outcomes for antisocial behaviour and psychiatric symptoms in Swedish
+juvenile offenders.\ :sup:`(n.d.bx)` MST was also found to have no
+significant benefit over TAU in outcomes including recidivism in a
+sample of Canadian juvenile offenders.\ :sup:`(n.d.by)` These differing
+outcomes have been posited as the result of barriers in transferring MST
+from US and UK populations owing to differing approaches to juvenile
+justice between countries (i.e. a welfare *v*. justice
+approach).\ :sup:`(n.d.bx)` The heterogeneous nature of studies
+concerning MST in juvenile offender populations prevent a firm
+conclusion being drawn as to its superiority over alternative
+interventions, although this does not diminish the positive outcomes
+which have been observed.\ :sup:`(n.d.bz)`
+
+.. _S18:
+
+Substance misuse
+----------------
+
+Motivational interviewing represents a promising approach for juvenile
+offenders, particularly as a treatment for substance
+misuse.\ :sup:`(n.d.ca)` Group-based motivational interviewing has
+received positive feedback from participants when implemented with
+first-time juvenile alcohol or drug offenders,\ :sup:`(n.d.cb)` and
+compared with TAU, juvenile offenders in receipt of motivational
+interviewing have greater satisfaction and display lower, though not
+statistically significant, rates of recidivism at 12-months
+post-motivational interviewing.\ :sup:`(n.d.cc)` There is therefore
+preliminary evidence for the acceptability and feasibility of
+motivational interviewing for substance-misusing juvenile offenders, but
+future research regarding long-term outcomes is warranted. To date,
+motivational interviewing for difficulties faced by juvenile offenders
+beyond that of substance misuse does not appear to have received much
+research attention. Juvenile offenders are known for their difficulty to
+engage in rehabilitative services, therefore further investigation of
+the effectiveness of motivational interviewing in encouraging engagement
+is warranted.
+
+Preliminary investigations have also developed a conceptual framework
+for the delivery of mindfulness-based interventions (MBI) to
+incarcerated substance-misusing juveniles, with qualitative impressions
+suggesting this is a potentially feasible and efficacious
+intervention.\ :sup:`(n.d.cd)` Although literature regarding the
+effectiveness of MBI in juvenile offenders is scarce, qualitative
+feedback has indicated positive reception of this style of intervention,
+with particular improvements in subjective well-being reported by
+juvenile participants.\ :sup:`(n.d.ce)`
+
+.. _S19:
+
+Employment and education
+------------------------
+
+Engaging juvenile offenders with education and skills-based training is
+an important component of successful rehabilitation, with positive
+engagement in meaningful activities associated with improvements in
+areas such as self-belief\ :sup:`(n.d.cf)` and protection against future
+participation in criminal activities.\ :sup:`(n.d.cg)` It is concerning
+therefore that an evaluation of the use of leisure time over a 1-week
+period by probationary juvenile offenders in Australia indicated only
+10% of this time was spent engaging in productive activities, such as
+employment or education, with 57% used for passive leisure activities, a
+level 30% higher than that of their non-offender peers.\ :sup:`(n.d.ch)`
+
+Efforts to engage juvenile offenders in vocational and/or occupational
+activities have shown benefits in a number of areas. A specialised
+vocational and employment training programme (CRAFT) emphasising
+practical skills was evaluated against conventional education provision
+to juvenile offenders in the USA. Over a 30-month follow-up period,
+those engaged in CRAFT were significantly more likely to be in
+employment, to have attended an educational diploma programme and to
+have attended for a significantly longer period of
+time.\ :sup:`(n.d.ci)` Benefits have also been reported with regard to
+risk of reoffending, with an after-school programme in the USA
+incorporating practical community projects, educational sessions and
+family therapy resulting in a significant reduction in recidivism at
+1-year follow-up.\ :sup:`(n.d.cj)`
+
+Qualitative investigations of US juvenile offenders suggest there is not
+a lack of interest in pursuing education among this population, but
+rather a disconnection with educational systems when education providers
+are perceived not to care about students' progress.\ :sup:`(n.d.ck)`
+Ensuring education providers are perceived as proactive and caring in
+this regard may therefore be an important consideration for efforts to
+engage juvenile offenders with educational systems. Significant barriers
+to engagement include difficulties in obtaining accurate information
+regarding the offender's educational history, in addition to identifying
+community-based education providers willing to accept previously
+incarcerated juveniles on their release.\ :sup:`(n.d.cl)`
+
+.. _S20:
+
+Language and communication
+--------------------------
+
+Difficulties with language and communication skills appear to be
+prevalent among juvenile offenders, with estimates of those falling into
+the poor or very poor categories ranging from 46 to 67%; overall, up to
+90% of juvenile offenders demonstrated language skills below
+average.\ :sup:`(n.d.cm)` Specifically, high rates of illiteracy are
+reported in this population,\ :sup:`(n.d.cn)` with evidence to suggest
+that an awareness of such problems among juvenile offenders themselves
+is associated with dissatisfaction and poor
+self-esteem.\ :sup:`(n.d.co)` These difficulties may act as barriers to
+engagement in therapeutic interventions, particularly those delivered in
+group settings, as well as re-engagement with educational systems.
+Awareness of the challenges these young people face with regard to
+confidence and ability to communicate is important, and potential
+involvement of a speech and language therapist could be considered.
+Preventing deficits in language and communication through effective
+schooling and appropriate support in the early years of life may serve
+as an aid to effective engagement in rehabilitative interventions, and
+may also mitigate the risk of engagement in criminal activities in the
+first instance.
+
+.. _S21:
+
+Delivery of therapeutic services
+================================
+
+.. _S22:
+
+Common challenges to a therapeutic youth justice pathway
+--------------------------------------------------------
+
+There are common obstacles to smooth care pathways between different
+parts of systems, such as in transitions between secure settings and the
+community, between prisons and secure psychiatric settings, and between
+child and adult services. In some jurisdictions individuals can only be
+treated pharmacologically against their will in a hospital setting, a
+safeguard which limits the extent to which individuals can be treated in
+prison, but there is still great scope for intervention by prison mental
+health teams in juvenile prisons.
+
+.. _S23:
+
+Factors associated with good outcomes
+-------------------------------------
+
+A meta-analysis has revealed three primary factors associated with
+effective interventions for juvenile offenders: a ‘therapeutic’
+intervention philosophy, serving high-risk offenders, and quality of
+implementation.\ :sup:`(n.d.cp)` These findings are consistent with
+factors posited as correlating with good outcome in residential centres
+for troubled adolescents and juvenile offenders: good staff-adolescent
+relations, perception of staff as pro-social role models, positive peer
+pressure, an individualised therapeutic programme approach,
+developmentally appropriate programmes and activities, clear
+expectations and boundaries, and placement locations which allow for
+continued family contact.\ :sup:`(n.d.cq),(n.d.cr)`
+
+In the community, coercive styles of engagement have been found to be
+less successful at achieving adherence among juvenile offenders than a
+client-centred approach.\ :sup:`(n.d.cs)`
+
+.. _S24:
+
+Factors associated with poor outcomes
+-------------------------------------
+
+‘Scared Straight’ programmes expose juveniles who have begun to commit
+offences to inmates of high-security prisons, yet these approaches have
+been discredited due to evidence that risk of recidivism may in fact
+increase following such exposure.\ :sup:`(n.d.ct)` Similarly poor
+outcomes have been observed in programmes modelled on military boot
+camps, in which harsh discipline is considered to be of therapeutic
+benefit,\ :sup:`(n.d.cu)` and initiatives such as curfew, probation and
+hearing juvenile cases in adult court were also shown to be ineffective
+in reducing recidivism.\ :sup:`(n.d.k)`
+
+Over recent years it has been repeatedly demonstrated that exposure to
+juvenile court itself appears to have a detrimental effect on juvenile
+offending.\ :sup:`(n.d.cv)–(n.d.cw)` This may be partially explained by
+effects of labelling, stigma and negative self-image associated with a
+criminal conviction, but also the practical consequences of sentences,
+including assortment of delinquent peers in community or prison
+sentences. Incarceration presents several additional harms, including
+disturbance of care and pro-social relationships, discontinuity in
+education, association with delinquent peers, and exposure to violence.
+Half of detained young offenders in the UK reported victimisation during
+their current prison term,\ :sup:`(n.d.bc)` while 12% of incarcerated
+youth in the USA reported sexual victimisation in the previous
+year.\ :sup:`(n.d.cx)` International agreements state that deprivation
+of liberty (such as juvenile prison) should be used as a last resort and
+for the shortest time necessary, so should be reserved for the
+highest-risk offenders. The cost of juvenile antisocial behaviour is
+known to be high, and to fall on many agencies.\ :sup:`(n.d.cy)` The
+current climate of austerity in public services demands that any
+interventions should be not only effective, but also cost-effective,
+raising a clear challenge – and opportunity – for the implementation of
+interventions for this population of vulnerable young people. For
+example, parenting programmes have demonstrated sustained benefits for
+this population,\ :sup:`(n.d.cz),(n.d.da)` with economic analysis
+indicating gross savings of £9288 per child over a 25 year
+period.\ :sup:`(n.d.db)` Considered together with wider costs of crime,
+these gross savings exceed the average cost of parenting programmes
+(£1177) by a factor of approximately 8 to 1.
+
+.. _S25:
+
+Conclusions
+===========
+
+Many argue that we have a long way to go before arriving at ‘child
+friendly’ juvenile justice.\ :sup:`(n.d.dc)` Around the world there are
+variable and inadequate legal frameworks that are not age-appropriate,
+there is a lack of age-appropriate services and establishments, and a
+lack of a specialist workforce, leading to challenges around training
+and supervision to work with this vulnerable population. In the UK and
+other high-income countries worldwide, forensic child and adolescent
+psychiatry is a multifaceted discipline incorporating legal, psychiatric
+and developmental fields. This approach has navigated clinical and
+ethical challenges and made an important contribution to welfare and
+justice needs by its adoption of an evidence-based therapeutic
+intervention philosophy.
+
+.. container:: references csl-bib-body hanging-indent
+   :name: refs
+
+   .. container:: csl-entry
+      :name: ref-R1
+
+      n.d.a.
+
+   .. container:: csl-entry
+      :name: ref-R2
+
+      n.d.b.
+
+   .. container:: csl-entry
+      :name: ref-R5
+
+      n.d.c.
+
+   .. container:: csl-entry
+      :name: ref-R6
+
+      n.d.d.
+
+   .. container:: csl-entry
+      :name: ref-R7
+
+      n.d.e.
+
+   .. container:: csl-entry
+      :name: ref-R8
+
+      n.d.f.
+
+   .. container:: csl-entry
+      :name: ref-R9
+
+      n.d.g.
+
+   .. container:: csl-entry
+      :name: ref-R10
+
+      n.d.h.
+
+   .. container:: csl-entry
+      :name: ref-R11
+
+      n.d.i.
+
+   .. container:: csl-entry
+      :name: ref-R12
+
+      n.d.j.
+
+   .. container:: csl-entry
+      :name: ref-R13
+
+      n.d.k.
+
+   .. container:: csl-entry
+      :name: ref-R14
+
+      n.d.l.
+
+   .. container:: csl-entry
+      :name: ref-R15
+
+      n.d.m.
+
+   .. container:: csl-entry
+      :name: ref-R16
+
+      n.d.n.
+
+   .. container:: csl-entry
+      :name: ref-R17
+
+      n.d.o.
+
+   .. container:: csl-entry
+      :name: ref-R18
+
+      n.d.p.
+
+   .. container:: csl-entry
+      :name: ref-R19
+
+      n.d.q.
+
+   .. container:: csl-entry
+      :name: ref-R20
+
+      n.d.r.
+
+   .. container:: csl-entry
+      :name: ref-R21
+
+      n.d.s.
+
+   .. container:: csl-entry
+      :name: ref-R22
+
+      n.d.t.
+
+   .. container:: csl-entry
+      :name: ref-R23
+
+      n.d.u.
+
+   .. container:: csl-entry
+      :name: ref-R24
+
+      n.d.v.
+
+   .. container:: csl-entry
+      :name: ref-R25
+
+      n.d.w.
+
+   .. container:: csl-entry
+      :name: ref-R26
+
+      n.d.x.
+
+   .. container:: csl-entry
+      :name: ref-R27
+
+      n.d.y.
+
+   .. container:: csl-entry
+      :name: ref-R28
+
+      n.d.z.
+
+   .. container:: csl-entry
+      :name: ref-R29
+
+      n.d.aa.
+
+   .. container:: csl-entry
+      :name: ref-R30
+
+      n.d.ab.
+
+   .. container:: csl-entry
+      :name: ref-R31
+
+      n.d.ac.
+
+   .. container:: csl-entry
+      :name: ref-R32
+
+      n.d.ad.
+
+   .. container:: csl-entry
+      :name: ref-R33
+
+      n.d.ae.
+
+   .. container:: csl-entry
+      :name: ref-R34
+
+      n.d.af.
+
+   .. container:: csl-entry
+      :name: ref-R35
+
+      n.d.ag.
+
+   .. container:: csl-entry
+      :name: ref-R36
+
+      n.d.ah.
+
+   .. container:: csl-entry
+      :name: ref-R37
+
+      n.d.ai.
+
+   .. container:: csl-entry
+      :name: ref-R38
+
+      n.d.aj.
+
+   .. container:: csl-entry
+      :name: ref-R39
+
+      n.d.ak.
+
+   .. container:: csl-entry
+      :name: ref-R40
+
+      n.d.al.
+
+   .. container:: csl-entry
+      :name: ref-R41
+
+      n.d.am.
+
+   .. container:: csl-entry
+      :name: ref-R42
+
+      n.d.an.
+
+   .. container:: csl-entry
+      :name: ref-R43
+
+      n.d.ao.
+
+   .. container:: csl-entry
+      :name: ref-R44
+
+      n.d.ap.
+
+   .. container:: csl-entry
+      :name: ref-R45
+
+      n.d.aq.
+
+   .. container:: csl-entry
+      :name: ref-R46
+
+      n.d.ar.
+
+   .. container:: csl-entry
+      :name: ref-R47
+
+      n.d.as.
+
+   .. container:: csl-entry
+      :name: ref-R48
+
+      n.d.at.
+
+   .. container:: csl-entry
+      :name: ref-R49
+
+      n.d.au.
+
+   .. container:: csl-entry
+      :name: ref-R50
+
+      n.d.av.
+
+   .. container:: csl-entry
+      :name: ref-R51
+
+      n.d.aw.
+
+   .. container:: csl-entry
+      :name: ref-R52
+
+      n.d.ax.
+
+   .. container:: csl-entry
+      :name: ref-R53
+
+      n.d.ay.
+
+   .. container:: csl-entry
+      :name: ref-R54
+
+      n.d.az.
+
+   .. container:: csl-entry
+      :name: ref-R55
+
+      n.d.ba.
+
+   .. container:: csl-entry
+      :name: ref-R56
+
+      n.d.bb.
+
+   .. container:: csl-entry
+      :name: ref-R57
+
+      n.d.bc.
+
+   .. container:: csl-entry
+      :name: ref-R58
+
+      n.d.bd.
+
+   .. container:: csl-entry
+      :name: ref-R59
+
+      n.d.be.
+
+   .. container:: csl-entry
+      :name: ref-R60
+
+      n.d.bf.
+
+   .. container:: csl-entry
+      :name: ref-R61
+
+      n.d.bg.
+
+   .. container:: csl-entry
+      :name: ref-R62
+
+      n.d.bh.
+
+   .. container:: csl-entry
+      :name: ref-R63
+
+      n.d.bi.
+
+   .. container:: csl-entry
+      :name: ref-R64
+
+      n.d.bj.
+
+   .. container:: csl-entry
+      :name: ref-R65
+
+      n.d.bk.
+
+   .. container:: csl-entry
+      :name: ref-R66
+
+      n.d.bl.
+
+   .. container:: csl-entry
+      :name: ref-R67
+
+      n.d.bm.
+
+   .. container:: csl-entry
+      :name: ref-R68
+
+      n.d.bn.
+
+   .. container:: csl-entry
+      :name: ref-R69
+
+      n.d.bo.
+
+   .. container:: csl-entry
+      :name: ref-R70
+
+      n.d.bp.
+
+   .. container:: csl-entry
+      :name: ref-R71
+
+      n.d.bq.
+
+   .. container:: csl-entry
+      :name: ref-R72
+
+      n.d.br.
+
+   .. container:: csl-entry
+      :name: ref-R73
+
+      n.d.bs.
+
+   .. container:: csl-entry
+      :name: ref-R74
+
+      n.d.bt.
+
+   .. container:: csl-entry
+      :name: ref-R75
+
+      n.d.bu.
+
+   .. container:: csl-entry
+      :name: ref-R76
+
+      n.d.bv.
+
+   .. container:: csl-entry
+      :name: ref-R77
+
+      n.d.bw.
+
+   .. container:: csl-entry
+      :name: ref-R78
+
+      n.d.bx.
+
+   .. container:: csl-entry
+      :name: ref-R79
+
+      n.d.by.
+
+   .. container:: csl-entry
+      :name: ref-R80
+
+      n.d.bz.
+
+   .. container:: csl-entry
+      :name: ref-R81
+
+      n.d.ca.
+
+   .. container:: csl-entry
+      :name: ref-R82
+
+      n.d.cb.
+
+   .. container:: csl-entry
+      :name: ref-R83
+
+      n.d.cc.
+
+   .. container:: csl-entry
+      :name: ref-R84
+
+      n.d.cd.
+
+   .. container:: csl-entry
+      :name: ref-R85
+
+      n.d.ce.
+
+   .. container:: csl-entry
+      :name: ref-R86
+
+      n.d.cf.
+
+   .. container:: csl-entry
+      :name: ref-R87
+
+      n.d.cg.
+
+   .. container:: csl-entry
+      :name: ref-R88
+
+      n.d.ch.
+
+   .. container:: csl-entry
+      :name: ref-R89
+
+      n.d.ci.
+
+   .. container:: csl-entry
+      :name: ref-R90
+
+      n.d.cj.
+
+   .. container:: csl-entry
+      :name: ref-R91
+
+      n.d.ck.
+
+   .. container:: csl-entry
+      :name: ref-R92
+
+      n.d.cl.
+
+   .. container:: csl-entry
+      :name: ref-R93
+
+      n.d.cm.
+
+   .. container:: csl-entry
+      :name: ref-R94
+
+      n.d.cn.
+
+   .. container:: csl-entry
+      :name: ref-R95
+
+      n.d.co.
+
+   .. container:: csl-entry
+      :name: ref-R96
+
+      n.d.cp.
+
+   .. container:: csl-entry
+      :name: ref-R97
+
+      n.d.cq.
+
+   .. container:: csl-entry
+      :name: ref-R98
+
+      n.d.cr.
+
+   .. container:: csl-entry
+      :name: ref-R99
+
+      n.d.cs.
+
+   .. container:: csl-entry
+      :name: ref-R100
+
+      n.d.ct.
+
+   .. container:: csl-entry
+      :name: ref-R101
+
+      n.d.cu.
+
+   .. container:: csl-entry
+      :name: ref-R102
+
+      n.d.cv.
+
+   .. container:: csl-entry
+      :name: ref-R104
+
+      n.d.cw.
+
+   .. container:: csl-entry
+      :name: ref-R105
+
+      n.d.cx.
+
+   .. container:: csl-entry
+      :name: ref-R106
+
+      n.d.cy.
+
+   .. container:: csl-entry
+      :name: ref-R107
+
+      n.d.cz.
+
+   .. container:: csl-entry
+      :name: ref-R108
+
+      n.d.da.
+
+   .. container:: csl-entry
+      :name: ref-R109
+
+      n.d.db.
+
+   .. container:: csl-entry
+      :name: ref-R110
+
+      n.d.dc.
+
+.. [1]
+   **Susan Young** is a Senior Lecturer in Forensic Clinical Psychology,
+   Imperial College London, UK, and Director of Forensic Research and
+   Development, Broadmoor Hospital, West London Mental Health NHS Trust,
+   UK. **Ben Greer** is a Student Research Assistant, Broadmoor
+   Hospital, West London Mental Health NHS Trust, UK. **Richard Church**
+   is a Consultant Forensic and Child and Adolescent Psychiatrist, South
+   London and Maudsley NHS Foundation Trust, King's College London, UK.

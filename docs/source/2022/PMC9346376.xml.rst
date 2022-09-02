@@ -2,8 +2,13 @@
 A model for specific goals for in-patient treatment linked to resources and limitations in out-patient treatment – ERRATUM
 ==========================================================================================================================
 
-:Author: Virginia Davies
+Virginia Davies
 :Date: 2022-06
+
+
+.. contents::
+   :depth: 3
+..
 
 pmc
 In the original published article, the country name was missing from the

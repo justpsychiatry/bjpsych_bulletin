@@ -1,7 +1,11 @@
+.. contents::
+   :depth: 3
+..
+
 pmc
 *Nice White Parents* is a podcast series about an ordinary middle school
-in New York.\ :sup:`1` It charts how, over the school's 50-year history,
-White parents have consistently, and almost always unwittingly,
+in New York.\ :sup:`(n.d.)` It charts how, over the school's 50-year
+history, White parents have consistently, and almost always unwittingly,
 exercised their enormous unsaid power in the public education system to
 directly and indirectly hamper the school's mission of providing a
 progressive and integrated education to children of all racial and
@@ -53,3 +57,11 @@ it.
 
 As we seek to achieve greater equity in healthcare, is it time we talked
 more about White patients?
+
+.. container:: references csl-bib-body hanging-indent
+   :name: refs
+
+   .. container:: csl-entry
+      :name: ref-ref1
+
+      n.d.

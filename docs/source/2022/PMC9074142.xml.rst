@@ -2,12 +2,13 @@
 Risk, demand, capacity and outcomes in adult specialist eating disorder services in South-East of England before and since COVID-19
 ===================================================================================================================================
 
-:Author: Agnes Ayton
-:Author: David Viljoen
-:Author: Sharon Ryan
-:Author: Ali Ibrahim
-:Author: Duncan FordCorrespondence to Agnes Ayton (suchagnes@gmail.com)
+Agnes Ayton
+David Viljoen
+Sharon Ryan
+Ali Ibrahim
+Duncan FordCorrespondence to Agnes Ayton (suchagnes@gmail.com)
 :Date: 2022-04
+
 :Abstract:
    .. rubric:: Aims and method
       :name: sec_a1
@@ -39,6 +40,10 @@ Risk, demand, capacity and outcomes in adult specialist eating disorder services
    resources.
 
 
+.. contents::
+   :depth: 3
+..
+
 pmc
 .. _sec1-1:
 
@@ -49,31 +54,31 @@ In the 2019 Health Survey for England, 16% of adults aged ≥16 years (19%
 of women and 13% of men) screened positive for a possible eating
 disorder. This included 4% (5% of women and 3% of men) who reported that
 their feelings about food had interfered with their ability to work,
-meet personal responsibilities or enjoy a social life.\ :sup:`1` This is
-almost a threefold increase since 2007.\ :sup:`2` These findings may be
-surprising, but are consistent with international epidemiological
-data.\ :sup:`3`
+meet personal responsibilities or enjoy a social life.\ :sup:`(n.d.a)`
+This is almost a threefold increase since 2007.\ :sup:`(n.d.b)` These
+findings may be surprising, but are consistent with international
+epidemiological data.\ :sup:`(n.d.c)`
 
 In parallel, hospital admissions in England of people with eating
 disorders have increased from 4849 in 2007–2008 to 19 116 in
-2018–2019.\ :sup:`4` This shows an almost fourfold increase in demand,
-and there has been no investment in specialist eating disorder
+2018–2019.\ :sup:`(n.d.d)` This shows an almost fourfold increase in
+demand, and there has been no investment in specialist eating disorder
 in-patient services during this time. Approximately 70% of people
 needing hospital admission are adults with anorexia nervosa.
 
 On 6 November 2020, after the inquest into five avoidable deaths, the
 coroner for Cambridgeshire and Peterborough, concluded that National
 Health Service (NHS) treatment for patients with anorexia nervosa is
-‘not a safe system’ and risks ‘future deaths’.\ :sup:`5` These
+‘not a safe system’ and risks ‘future deaths’.\ :sup:`(n.d.e)` These
 statements mirror the 2017 Parliamentary Health Service Ombudsman (PHSO)
-report.\ :sup:`6` Three years ago, the PHSO made several helpful
+report.\ :sup:`(n.d.f)` Three years ago, the PHSO made several helpful
 recommendations, including reviewing medical education, improving the
 workforce, ensuring the parity of funding of services across the age
 range and strengthening coordination of care. There has been limited
-progress since.\ :sup:`7`
+progress since.\ :sup:`(n.d.g)`
 
 Child and adolescent eating disorder services have received substantial
-investment since 2015,\ :sup:`7` and progress toward meeting the
+investment since 2015,\ :sup:`(n.d.g)` and progress toward meeting the
 referral to treatment waiting time standard has been monitored
 (https://www.england.nhs.uk/statistics/statistical-work-areas/cyped-waiting-times/).
 These standards require child and adolescent eating disorder services to
@@ -154,13 +159,14 @@ outcomes have been systematically monitored since July 2018, for the
 whole geographical area.
 
 There was also an agreement to monitor outcomes, and compare the NHS
-England standard eclectic model of care\ :sup:`8` with a new, integrated
-stepped-care model using I-CBT-E in Oxford, building on the pioneering
-work of Dalle Grave et al.\ :sup:`9` I-CBT-E offers a single
-evidence-based psychological model delivered by a multidisciplinary
-team, starting before admission and continuing across the treatment
-pathway (40 sessions in total). A detailed I-CBT-E formulation ensures
-continuity, consistency and a personalised treatment plan.
+England standard eclectic model of care\ :sup:`(n.d.h)` with a new,
+integrated stepped-care model using I-CBT-E in Oxford, building on the
+pioneering work of Dalle Grave et al.\ :sup:`(n.d.i)` I-CBT-E offers a
+single evidence-based psychological model delivered by a
+multidisciplinary team, starting before admission and continuing across
+the treatment pathway (40 sessions in total). A detailed I-CBT-E
+formulation ensures continuity, consistency and a personalised treatment
+plan.
 
 The COVID-19 pandemic has significantly affected capacity as a result of
 infection control measures across the care pathway. In-patient and
@@ -291,7 +297,7 @@ As part of the establishment of the provider collaborative, Cotswold
 House Oxford has been pioneering the implementation of an integrated
 stepped-care treatment, based on an intensive CBT-E model developed
 between Professor Fairburn in Oxford and Dr Dalle Grave in
-Italy.\ :sup:`10` The model advocates integration of NICE-approved
+Italy.\ :sup:`(n.d.j)` The model advocates integration of NICE-approved
 psychological treatment across the care pathway, with clear
 goal-oriented, time-limited admissions, followed by day and out-patient
 treatment. Given the differences between the Italian healthcare system
@@ -346,8 +352,8 @@ long even before the COVID-19 pandemic, and <50% of patients could be
 admitted close to home. Of those admitted, approximately a third were
 placed out of area. Out-of-area placements are well-known to cause
 distress to patients and families, and have been shown to have longer
-length of stay and poorer outcomes.\ :sup:`11` Most worryingly, even
-before the COVID-19 pandemic, patients with life-threatening
+length of stay and poorer outcomes.\ :sup:`(n.d.k)` Most worryingly,
+even before the COVID-19 pandemic, patients with life-threatening
 malnutrition had to wait several weeks for admission, and this timescale
 has increased further since the pandemic, placing patients, staff and
 provider organisations at risk.
@@ -366,37 +372,38 @@ pressurised system.
 
 The physical environment is important to ensure patient and staff
 safety. The Royal College of Psychiatrists has been campaigning for
-improving mental health estates and facilities.\ :sup:`12` This has
+improving mental health estates and facilities.\ :sup:`(n.d.l)` This has
 become even more pressing since the COVID-19 pandemic: improving
 services to meet increasing demand requires capital investment into NHS
 mental health services
 
 Following the high-profile reports into avoidable deaths, there has been
 an acknowledgement that adult community eating disorder services need to
-be funded to reach parity across the age range,\ :sup:`6,13` and this is
-reflected in the new NHS England commissioning guidance for adult eating
-disorder services. However, this is still aspirational, and many adult
-patients struggle to access care or face long waiting times. This may
-explain the high number of patients in our network referred to hospital
-with a BMI of <13, in a life-threatening emergency, which has increased
-by 20% during the COVID-19 pandemic. This is a concern, as although the
-Royal College of Psychiatrists published the ‘Management of Really Sick
-Patients with Anorexia Nervosa’ (MARSIPAN) guidelines to improve patient
-safety in emergencies,\ :sup:`14,15` their implementation has been
-inconsistent in acute hospitals, as shown by the recently reported
-tragedies. This is partly because of the limited training of eating
-disorders for doctors and allied health professionals, an area of
-concern that was identified by the PHSO.\ :sup:`16`
+be funded to reach parity across the age range,\ :sup:`(n.d.f),(n.d.m)`
+and this is reflected in the new NHS England commissioning guidance for
+adult eating disorder services. However, this is still aspirational, and
+many adult patients struggle to access care or face long waiting times.
+This may explain the high number of patients in our network referred to
+hospital with a BMI of <13, in a life-threatening emergency, which has
+increased by 20% during the COVID-19 pandemic. This is a concern, as
+although the Royal College of Psychiatrists published the ‘Management of
+Really Sick Patients with Anorexia Nervosa’ (MARSIPAN) guidelines to
+improve patient safety in emergencies,\ :sup:`(n.d.n),(n.d.o)` their
+implementation has been inconsistent in acute hospitals, as shown by the
+recently reported tragedies. This is partly because of the limited
+training of eating disorders for doctors and allied health
+professionals, an area of concern that was identified by the
+PHSO.\ :sup:`(n.d.p)`
 
 Although it is possible that the much needed investment into adult
 community eating disorder services in the next few years will reduce the
 need for in-patient treatment in the future, this is going to take
 several years. In-patient provision needs to be increased to meet
 current demand, which has quadrupled since 2007–2008 in
-England.\ :sup:`4` Furthermore, recent national epidemiological
-data\ :sup:`1` indicate increasing prevalence across the lifespan, and
-this is consistent with increasing referrals to the community teams and
-the increasing rates of hospital admissions. NHS-led provider
+England.\ :sup:`(n.d.d)` Furthermore, recent national epidemiological
+data\ :sup:`(n.d.a)` indicate increasing prevalence across the lifespan,
+and this is consistent with increasing referrals to the community teams
+and the increasing rates of hospital admissions. NHS-led provider
 collaboratives will only succeed if funding meets the need in the
 population served.
 
@@ -404,15 +411,16 @@ However, it is important to consider the significant variations in
 length of stay and short-term outcomes between providers. Our findings
 are consistent with previous research. In 2013, a UK-wide cohort study
 of adult specialist eating disorder units reported an average length of
-stay of 182 days and an average discharge BMI of 17.3,\ :sup:`17` with
-only 22% reaching a BMI of 19 by discharge. In our study, only 16% of
-patients admitted to a unit offering standard eclectic treatment reached
-a discharge BMI >19, as opposed to 50% in the I-CBT-E pilot programme
-(within a 25% shorter length of stay), Discharge BMI is an important
-predictor of medium- and long-term outcomes.\ :sup:`18,19` Although this
-was not a randomised controlled trial, the treatment model is based on a
-previous randomised controlled trial, and published
-manuals.\ :sup:`9,10,20,21`
+stay of 182 days and an average discharge BMI of 17.3,\ :sup:`(n.d.q)`
+with only 22% reaching a BMI of 19 by discharge. In our study, only 16%
+of patients admitted to a unit offering standard eclectic treatment
+reached a discharge BMI >19, as opposed to 50% in the I-CBT-E pilot
+programme (within a 25% shorter length of stay), Discharge BMI is an
+important predictor of medium- and long-term
+outcomes.\ :sup:`(n.d.r),(n.d.s)` Although this was not a randomised
+controlled trial, the treatment model is based on a previous randomised
+controlled trial, and published
+manuals.\ :sup:`(n.d.i),(n.d.j),(n.d.t),(n.d.u)`
 
 The findings of the Oxford pilot programme (I-CBT-E) utilising an
 evidence-based and integrated stepped-care approach suggests that, with
@@ -422,12 +430,12 @@ ensure use of existing limited in-patient capacity more effectively, and
 suggests a significant opportunity for cost-savings. This is
 particularly important, as a large proportion of patients in the cohort
 had an illness duration of >10 years. Our findings replicate previous
-studies from Italy,\ :sup:`22,23` and suggest that the model is
-generalisable to the NHS. However, adaptation would require the
+studies from Italy,\ :sup:`(n.d.v),(n.d.w)` and suggest that the model
+is generalisable to the NHS. However, adaptation would require the
 redesigning of care pathways, staffing levels and skill mix. CBT-E
 training is freely available online
 (https://www.cbte.co/for-professionals/training-in-cbt-e/) and has been
-tested in previous research.\ :sup:`24`
+tested in previous research.\ :sup:`(n.d.x)`
 
 The main limitations of our study are that we only had BMI as a
 consistent indicator of outcome at discharge, and that the comparison
@@ -450,10 +458,10 @@ Clinical implications
 
 It has been frequently stated that anorexia nervosa has the highest
 mortality of any mental disorder affecting young people and
-adults.\ :sup:`25,26` We should not accept this: people should not die
-of anorexia nervosa or any eating disorder, as they are treatable mental
-disorders.\ :sup:`27` Severe complications, such as malnutrition, are
-safely reversible, even in the most extreme cases.
+adults.\ :sup:`(n.d.y),(n.d.z)` We should not accept this: people should
+not die of anorexia nervosa or any eating disorder, as they are
+treatable mental disorders.\ :sup:`(n.d.aa)` Severe complications, such
+as malnutrition, are safely reversible, even in the most extreme cases.
 
 The I-CBT-E model is based on a cohesive, integrated stepped-care
 approach for people with severe eating disorders, and wider
@@ -518,6 +526,144 @@ Declaration of interest
 =======================
 
 None.
+
+.. container:: references csl-bib-body hanging-indent
+   :name: refs
+
+   .. container:: csl-entry
+      :name: ref-ref1
+
+      n.d.a.
+
+   .. container:: csl-entry
+      :name: ref-ref2
+
+      n.d.b.
+
+   .. container:: csl-entry
+      :name: ref-ref3
+
+      n.d.c.
+
+   .. container:: csl-entry
+      :name: ref-ref4
+
+      n.d.d.
+
+   .. container:: csl-entry
+      :name: ref-ref5
+
+      n.d.e.
+
+   .. container:: csl-entry
+      :name: ref-ref6
+
+      n.d.f.
+
+   .. container:: csl-entry
+      :name: ref-ref7
+
+      n.d.g.
+
+   .. container:: csl-entry
+      :name: ref-ref8
+
+      n.d.h.
+
+   .. container:: csl-entry
+      :name: ref-ref9
+
+      n.d.i.
+
+   .. container:: csl-entry
+      :name: ref-ref10
+
+      n.d.j.
+
+   .. container:: csl-entry
+      :name: ref-ref11
+
+      n.d.k.
+
+   .. container:: csl-entry
+      :name: ref-ref12
+
+      n.d.l.
+
+   .. container:: csl-entry
+      :name: ref-ref13
+
+      n.d.m.
+
+   .. container:: csl-entry
+      :name: ref-ref14
+
+      n.d.n.
+
+   .. container:: csl-entry
+      :name: ref-ref15
+
+      n.d.o.
+
+   .. container:: csl-entry
+      :name: ref-ref16
+
+      n.d.p.
+
+   .. container:: csl-entry
+      :name: ref-ref17
+
+      n.d.q.
+
+   .. container:: csl-entry
+      :name: ref-ref18
+
+      n.d.r.
+
+   .. container:: csl-entry
+      :name: ref-ref19
+
+      n.d.s.
+
+   .. container:: csl-entry
+      :name: ref-ref20
+
+      n.d.t.
+
+   .. container:: csl-entry
+      :name: ref-ref21
+
+      n.d.u.
+
+   .. container:: csl-entry
+      :name: ref-ref22
+
+      n.d.v.
+
+   .. container:: csl-entry
+      :name: ref-ref23
+
+      n.d.w.
+
+   .. container:: csl-entry
+      :name: ref-ref24
+
+      n.d.x.
+
+   .. container:: csl-entry
+      :name: ref-ref25
+
+      n.d.y.
+
+   .. container:: csl-entry
+      :name: ref-ref26
+
+      n.d.z.
+
+   .. container:: csl-entry
+      :name: ref-ref27
+
+      n.d.aa.
 
 .. [1]
    HOPE: Healthy Outcomes for People with Eating Disorders; OOA: Out of

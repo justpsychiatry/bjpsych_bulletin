@@ -2,9 +2,9 @@
 Friston's free energy principle: new life for psychoanalysis?
 =============================================================
 
-:Author: Jeremy HolmesCorrespondence to Jeremy Holmes
-         (j.a.holmes@btinternet.com)
+Jeremy HolmesCorrespondence to Jeremy Holmes (j.a.holmes@btinternet.com)
 :Date: 2022-06
+
 :Abstract:
    The free energy principle (FEP) is a new paradigm that has gain
    widespread interest in the neuroscience community. Although its
@@ -14,6 +14,10 @@ Friston's free energy principle: new life for psychoanalysis?
    ideas and with psychodynamic practice, and suggests ways in which the
    FEP can help explain the mechanisms of action of the psychotherapies.
 
+
+.. contents::
+   :depth: 3
+..
 
 pmc
 Today's psychiatrists are pragmatists, on the look-out for what ‘works’
@@ -52,43 +56,44 @@ predecessors and their concepts. These include Erwin Schrödinger,
 Heinrich Helmholtz, the Claudes – Claude Bernard and Claude Shannon –
 and Thomas Bayes. We live in an entropic universe. Broken cups don't
 spontaneously reassemble. Coffee cools once poured. Stars burn out. The
-exception is life itself. Quantum physicist Schrödinger\ :sup:`1` coined
-the term ‘negentropy’ to describe how living matter, Canute-like for its
-lifetime, reverses this cosmic tide towards disorder and homogeneity.
+exception is life itself. Quantum physicist Schrödinger\ :sup:`(n.d.a)`
+coined the term ‘negentropy’ to describe how living matter, Canute-like
+for its lifetime, reverses this cosmic tide towards disorder and
+homogeneity.
 
 The key to negentropy is homeostasis. As Bernard famously put it, the
 condition of a free life is the stability of the interior milieu –
 whether one is a unicellular amoeba or, like Schrödinger, a Nobel-prize
 winning primate. Homeostasis, and the more general processes of
-allostasis,\ :sup:`2` resist the forces of entropy, physiologically and
-behaviourally. Inherent in homeostasis are boundaries: cell membranes,
-the skin, the brain within its skull. Janus-like, homeostasis faces
-outwards towards the environment and inwards towards the *milieu
-interieur*. Temperature sensors in the skin tell us it's a hot day; the
-sympathetic nervous system activates sweat glands, the brain tells us to
-fling off jumpers, move into the shade, etc., all in the service of
-resisting being entropically fried. Note that homeostats vary in
-‘precision’ – some are highly sensitive, whereas others tolerate a great
-range of variation.
+allostasis,\ :sup:`(n.d.b)` resist the forces of entropy,
+physiologically and behaviourally. Inherent in homeostasis are
+boundaries: cell membranes, the skin, the brain within its skull.
+Janus-like, homeostasis faces outwards towards the environment and
+inwards towards the *milieu interieur*. Temperature sensors in the skin
+tell us it's a hot day; the sympathetic nervous system activates sweat
+glands, the brain tells us to fling off jumpers, move into the shade,
+etc., all in the service of resisting being entropically fried. Note
+that homeostats vary in ‘precision’ – some are highly sensitive, whereas
+others tolerate a great range of variation.
 
 Friston had the insight and mathematical sophistication to see that the
 negentropic homeostatic principle applies not just to the organism as a
-whole but to the brain itself.\ :sup:`3,4` The brain's job is to
-counteract entropy and to maintain internal stability on behalf of the
-organism whose processes and behaviour it controls and directs; this
+whole but to the brain itself.\ :sup:`(n.d.c),(n.d.d)` The brain's job
+is to counteract entropy and to maintain internal stability on behalf of
+the organism whose processes and behaviour it controls and directs; this
 applies, reflexively, to itself.
 
 The FEP goes back to the ideas of 19th-century polymath Hermann von
 Helmholtz, updated by artificial intelligence (AI) neuroscientists
-Geoffrey Hinton and Peter Dayan.\ :sup:`5` Naively, we tend to think of
-vision as a camera-like image passively projected onto the visual
-cortex, or the auditory system as microphone-like, responding
+Geoffrey Hinton and Peter Dayan.\ :sup:`(n.d.e)` Naively, we tend to
+think of vision as a camera-like image passively projected onto the
+visual cortex, or the auditory system as microphone-like, responding
 indiscriminatingly to the prevailing phonic universe. In the Helmholtz
 model the *brain makes its own world*. Our sense organs, external and
 internal, are constantly bombarded by a vast range of stimuli from an
 ever-changing environment. To operate with maximum efficiency, the brain
 selects out the ‘meaning’ of its sensations, attending only to those
-that are relevant to its ‘affordances’\ :sup:`6` – its specific
+that are relevant to its ‘affordances’\ :sup:`(n.d.f)` – its specific
 ecological niche – and especially to input that is anomalous or novel.
 
 Working in the 1950s at the Bell telephone company laboratory, Claude
@@ -109,8 +114,8 @@ founder of probability theory, grasped, Doris Day-like, that the
 future's not ours to see. Yet, to survive and adapt we need to know,
 moment to moment, ‘what is going on’ – in ourselves, in the
 interpersonal world and in the physical world. On the basis of prior
-experience, the Bayesian brain\ :sup:`7` continuously estimates the
-likelihood of future events. Probabilities are computed by comparing
+experience, the Bayesian brain\ :sup:`(n.d.g)` continuously estimates
+the likelihood of future events. Probabilities are computed by comparing
 current states of affairs with past occurrences, estimating the extent
 of correspondence between them, factoring in the likelihood of errors in
 both memory and perception, and ending with a portion that represents
@@ -119,9 +124,9 @@ in the service of negentropy, be minimised as far as is possible –
 prediction error minimisation or PEM.
 
 The brain, ‘top-down’, uses Bayesian probabilities to clarify
-‘bottom-up’ input, extero- and interocaptive::sup:`8` ‘My stomach is
-complaining, but it's not surprising – I overdid it on the pudding, so
-it's probably not cancer’; ‘I know that tune, I've heard it so many
+‘bottom-up’ input, extero- and interocaptive::sup:`(n.d.h)` ‘My stomach
+is complaining, but it's not surprising – I overdid it on the pudding,
+so it's probably not cancer’; ‘I know that tune, I've heard it so many
 times – yes of course, it's the Beatles’ Yellow Submarine’; ‘Is that a
 stick or a snake? Come on, no adders in city centres, probably safe to
 pick it up’.
@@ -134,10 +139,10 @@ Free energy
 Now to the free energy principle itself. ‘Energy’ equates to
 information, albeit physically embodied in patterns of neuronal
 impulses, synaptic transmission (‘fire together, wire
-together’\ :sup:`9`) and the neurohormonal environment. Prior models of
-the world, top-down, ‘bind’ incoming bottom-up information. Energy
-*un*\ bound, or prediction error, reflects novelty in need of binding –
-and so forestall the dangers of entropic chaos.
+together’\ :sup:`(n.d.i)`) and the neurohormonal environment. Prior
+models of the world, top-down, ‘bind’ incoming bottom-up information.
+Energy *un*\ bound, or prediction error, reflects novelty in need of
+binding – and so forestall the dangers of entropic chaos.
 
 Circumstantial evidence for the FEP is the fact that more neuronal
 fibres reach the eye downwards from the brain than travel upward towards
@@ -159,7 +164,7 @@ The FEP visualises a series of ‘conversations’ in which top-down
 meanings. Each level can be thought of as a meaning–action boundary.
 Ascending the hierarchy, the Bayesian process ensures that the most
 mathematically probable pattern prevails across these statistical
-boundaries or ‘Markov blankets’.\ :sup:`10` Prediction error is
+boundaries or ‘Markov blankets’.\ :sup:`(n.d.j)` Prediction error is
 minimised by ‘binding’ bottom-up energy (informational as well as
 physiological) by top-down generative models based on pre-existing
 patterns and concepts. Thus is order preserved, entropy eschewed. We
@@ -169,8 +174,8 @@ But there will always be a discrepancy between our pre-existing models
 of the world and incoming sensations, an excess of energy that cannot be
 bound and will have to be passed onto the next level up of the
 hierarchy. Lockdown excepted, we don't live huddled in ‘dark
-rooms’.\ :sup:`11` The environment is constantly in flux; we need to
-explore as much as conserve – to find new sources of food, suitable
+rooms’.\ :sup:`(n.d.k)` The environment is constantly in flux; we need
+to explore as much as conserve – to find new sources of food, suitable
 mates, interest and excitement. Surprise, calibrated by the brain as the
 discrepancy between expectation and incoming sensation, is a proxy for
 free energy – and hence entropy. Surprise is both vital to survival but
@@ -198,7 +203,7 @@ inference is enhanced by recruiting help or ‘twogetherness’: ‘Did you
 hear something, or was I just imagining it?’; ‘You know about ’70s music
 – what was that group's name?’. Friston & Frith call this ‘duets for
 one’ and have worked out the mathematics of such collaborative Markov
-blankets.\ :sup:`12` Fourth, if all else fails, by choosing or
+blankets.\ :sup:`(n.d.l)` Fourth, if all else fails, by choosing or
 fashioning environments that conform to the brain's pre-existing models
 of the word: ‘I can't stand modern music. Let's go over to Classic FM’.
 This last aspect is captured by the psychoanalytic concept of
@@ -219,11 +224,11 @@ succumb. To understand resilience, we need an illness model that
 encompasses not just events, but individuals’ responses to them.
 Attachment research shows that those who are securely attached are able
 to repair the inevitable ruptures to which all are prone, often through
-the typical sequence of protest, rage, grief and mourning.\ :sup:`13` As
-children, securely attached people have had caregivers they could depend
-on to acknowledge their pain, tolerate protest and help them to move on.
-Repeated episodes of everyday rupture–repair cycles help build this
-resilience.
+the typical sequence of protest, rage, grief and
+mourning.\ :sup:`(n.d.m)` As children, securely attached people have had
+caregivers they could depend on to acknowledge their pain, tolerate
+protest and help them to move on. Repeated episodes of everyday
+rupture–repair cycles help build this resilience.
 
 The free energy released by the rupture is bound by the child's
 knowledge that help is at hand and that their epistemically trusted
@@ -231,10 +236,10 @@ caregiver will provide a generative model to counteract the free energy
 associated with ruptures: ‘Don't worry love, I'm just going to the loo,
 I'll be back in a minute’. In the ‘still face’ paradigm, parents are
 asked to freeze their facial expression for 1 minute while talking or
-playing with their child.\ :sup:`14` Securely attached children continue
-actively to try to re-engage with their caregivers in the confident
-expectation that they will be ‘back soon’. For insecurely attached
-children, by contrast, rather than rupture–repair, cycles of
+playing with their child.\ :sup:`(n.d.n)` Securely attached children
+continue actively to try to re-engage with their caregivers in the
+confident expectation that they will be ‘back soon’. For insecurely
+attached children, by contrast, rather than rupture–repair, cycles of
 rupture–despair or rupture–disappear are the norm. Their caregivers have
 either themselves been overwhelmed by their child's unhappiness and so
 despairingly abandon attempts to alleviate it; or repress the impact of
@@ -267,10 +272,10 @@ negative ‘hypotheses’ by looking more closely at their experiences and
 by exploring alternative top-down models to account for them (‘Maybe my
 boyfriend didn't answer his phone because he'd run out of battery, not
 because he doesn't love me’). But CBT has its limitations.
-‘Treatment-resistant depression’ is common.\ :sup:`15` People with
+‘Treatment-resistant depression’ is common.\ :sup:`(n.d.o)` People with
 personality disorders do badly with standard CBT, often refusing to
-engage or dropping out.\ :sup:`16` The FEP provides explanations for
-this. From an FEP perspective, one way to minimise free energy is to
+engage or dropping out.\ :sup:`(n.d.p)` The FEP provides explanations
+for this. From an FEP perspective, one way to minimise free energy is to
 gravitate towards or engender environments that confirm one's view of
 the world, however negative. Depression relegates sufferers to
 emotionally impoverished relationships, stereotyped and simplistic
@@ -292,17 +297,18 @@ Moving from depression to an FEP perspective on trauma, the latter
 creates an overwhelming influx of free energy for which there are no
 available top-down models with which to bind it. Thoughts of cruelty,
 neglect and abuse remain in the realm of the unthinkable and are
-therefore ‘defended against’ by repression or dissociation.\ :sup:`17`
-However, when jointly considered – under a shared Markov blanket – these
-bottom-up unprocessed experiences can be bound with the therapist's
-encouragement and expertise into manageable narratives. However painful,
-they become less overwhelming, a source of new ways of thinking and
-psychic reorganisation. As the patient begins to feel that the therapist
-is safe, reliable, compassionate and empathic, so everyday ruptures –
-session-endings, holiday breaks and misunderstandings – are repeatedly
-repaired via model revision (‘Maybe the weekend break does not
-inevitably mean I'm forgotten’), and the trust this engenders can be
-generalised into the patient's everyday life.
+therefore ‘defended against’ by repression or
+dissociation.\ :sup:`(n.d.q)` However, when jointly considered – under a
+shared Markov blanket – these bottom-up unprocessed experiences can be
+bound with the therapist's encouragement and expertise into manageable
+narratives. However painful, they become less overwhelming, a source of
+new ways of thinking and psychic reorganisation. As the patient begins
+to feel that the therapist is safe, reliable, compassionate and
+empathic, so everyday ruptures – session-endings, holiday breaks and
+misunderstandings – are repeatedly repaired via model revision (‘Maybe
+the weekend break does not inevitably mean I'm forgotten’), and the
+trust this engenders can be generalised into the patient's everyday
+life.
 
 We can see here how contemporary psychoanalytic psychotherapy and
 revitalised Freudian ideas resonate with the FEP. Freud started off his
@@ -338,7 +344,7 @@ cross-fertilisation by other disciplines. The Friston–Freud consilience
 opens up new possibilities. Psychoanalytic and attachment-derived
 mentalisation-based therapy (MBT) is now established as a highly
 effective therapy for borderline personality disorder, previously
-considered untreatable.\ :sup:`18` MBT leads to big reductions in
+considered untreatable.\ :sup:`(n.d.r)` MBT leads to big reductions in
 medication use, suicide attempts, hospital admission and unemployment
 among people with borderline personality disorder, as compared with
 treatment as usual.
@@ -385,3 +391,96 @@ Declaration of interest
 =======================
 
 None.
+
+.. container:: references csl-bib-body hanging-indent
+   :name: refs
+
+   .. container:: csl-entry
+      :name: ref-ref1
+
+      n.d.a.
+
+   .. container:: csl-entry
+      :name: ref-ref2
+
+      n.d.b.
+
+   .. container:: csl-entry
+      :name: ref-ref3
+
+      n.d.c.
+
+   .. container:: csl-entry
+      :name: ref-ref4
+
+      n.d.d.
+
+   .. container:: csl-entry
+      :name: ref-ref5
+
+      n.d.e.
+
+   .. container:: csl-entry
+      :name: ref-ref6
+
+      n.d.f.
+
+   .. container:: csl-entry
+      :name: ref-ref7
+
+      n.d.g.
+
+   .. container:: csl-entry
+      :name: ref-ref8
+
+      n.d.h.
+
+   .. container:: csl-entry
+      :name: ref-ref9
+
+      n.d.i.
+
+   .. container:: csl-entry
+      :name: ref-ref10
+
+      n.d.j.
+
+   .. container:: csl-entry
+      :name: ref-ref11
+
+      n.d.k.
+
+   .. container:: csl-entry
+      :name: ref-ref12
+
+      n.d.l.
+
+   .. container:: csl-entry
+      :name: ref-ref13
+
+      n.d.m.
+
+   .. container:: csl-entry
+      :name: ref-ref14
+
+      n.d.n.
+
+   .. container:: csl-entry
+      :name: ref-ref15
+
+      n.d.o.
+
+   .. container:: csl-entry
+      :name: ref-ref16
+
+      n.d.p.
+
+   .. container:: csl-entry
+      :name: ref-ref17
+
+      n.d.q.
+
+   .. container:: csl-entry
+      :name: ref-ref18
+
+      n.d.r.

@@ -2,9 +2,9 @@
 Magical thinking and moral injury: exclusion culture in psychiatry
 ==================================================================
 
-:Author: Chloe BealeCorrespondence to Dr Chloe Beale
-         (chloebeale@nhs.net)
+Chloe BealeCorrespondence to Dr Chloe Beale (chloebeale@nhs.net)
 :Date: 2022-02
+
 :Abstract:
    This is an article about exclusion. We might not like to admit it –
    even fail to realise it – but National Health Service (NHS) mental
@@ -22,6 +22,10 @@ Magical thinking and moral injury: exclusion culture in psychiatry
    ‘protected’ bed and rejected referral.
 
 
+.. contents::
+   :depth: 3
+..
+
 pmc
 .. _sec1:
 
@@ -36,15 +40,15 @@ weasel words and magical thinking that we pass between generations and
 disciplines. It would be hard to come up with an exhaustive list of lies
 we tell ourselves in psychiatric practice; this does not claim to be
 one. Neither is this the first time anyone has pointed out the
-problematic language used in psychiatry.\ :sup:`1` Patients are, of
-course, acutely aware of the absurdity.\ :sup:`2`,\ :sup:`3` There are
-many which should be easily recognisable to anyone working in National
-Health Service (NHS) mental health services in 2021 and whose origins
-demand scrutiny. Perhaps the most widespread example is the language of
-suicide risk.
+problematic language used in psychiatry.\ :sup:`(n.d.a)` Patients are,
+of course, acutely aware of the
+absurdity.\ :sup:`(n.d.b)`,\ :sup:`(n.d.c)` There are many which should
+be easily recognisable to anyone working in National Health Service
+(NHS) mental health services in 2021 and whose origins demand scrutiny.
+Perhaps the most widespread example is the language of suicide risk.
 
 Despite all evidence against checklists and risk
-stratification,\ :sup:`4` we continue to behave as if risk is both
+stratification,\ :sup:`(n.d.d)` we continue to behave as if risk is both
 predictable and quantifiable, persuading ourselves that certain stock
 phrases convey a protective coating. ‘Fleeting thoughts of suicide’, for
 example, sometimes seen as the precursor to an ‘impulsive’ suicide
@@ -56,16 +60,16 @@ nature of suicide, hanging false hope on thoughts that come and go.
 Rather than admit that someone might end their life but we don't know
 when or how, we purport to know it is unlikely to occur. This inevitably
 leads us to seek reassurance from patients, framing questions about
-suicide for a negative answer.\ :sup:`5` Rarely is this more clear than
-when documenting that someone can (or cannot) ‘guarantee their safety’.
-It should not be for patients to ‘guarantee’ anything to clinicians – it
-is our responsibility to hold hope, not for them to promise us a future
-in which we are not standing before a coroner. It can be painfully
-obvious when a clinician has alighted on their ‘aha’ moment, the thing
-that (they believe) proves low risk. Any suggestion that a person has
-ambivalence towards suicide or actually wants to live (such as
-voluntarily seeking medical help) risks this interpretation. It is
-almost as if we take the worst-case scenario and work backwards from
+suicide for a negative answer.\ :sup:`(n.d.e)` Rarely is this more clear
+than when documenting that someone can (or cannot) ‘guarantee their
+safety’. It should not be for patients to ‘guarantee’ anything to
+clinicians – it is our responsibility to hold hope, not for them to
+promise us a future in which we are not standing before a coroner. It
+can be painfully obvious when a clinician has alighted on their ‘aha’
+moment, the thing that (they believe) proves low risk. Any suggestion
+that a person has ambivalence towards suicide or actually wants to live
+(such as voluntarily seeking medical help) risks this interpretation. It
+is almost as if we take the worst-case scenario and work backwards from
 there, starting at ‘this person might kill themselves’, followed by ‘how
 can I prove it wasn't my fault?’ Our starting point should be the simple
 recognition of distress and a desire to help. It is that connection on a
@@ -77,7 +81,7 @@ which there is such dogged devotion to a non-evidence-based practice. We
 seem to pay heed to neither scientific evidence nor personal testimony,
 available in abundance: ‘When the focus is purely on risk, professionals
 are often left with the frustration and anxiety of holding the risk,
-service users are left invalidated and abandoned’.\ :sup:`6` Bad
+service users are left invalidated and abandoned’.\ :sup:`(n.d.f)` Bad
 experiences reinforce learning; inquests and internal investigations can
 feel adversarial and sometimes ask the wrong questions. Clinicians may
 feel pressured to say (with the benefit of hindsight) that they would
@@ -87,7 +91,7 @@ not there. Miles argues that many such problems have their basis in
 shame, which means that doctors (and other health professionals) ‘become
 morally neutral, unquestioning automatons, at the mercy of
 organisational edicts, and fail to advocate for the needs of their
-patients’.\ :sup:`7`
+patients’.\ :sup:`(n.d.g)`
 
 Further speculation seeks not only to see the future but to determine a
 person's motivation. Someone who frequently harms themselves in a way
@@ -98,12 +102,12 @@ and intentions behind a theoretical final act; attempting to do so is
 designed to alleviate our anxiety about the opacity of the future and
 introduce a seed of blame on the part of the patient. Similarly,
 patients may find themselves told they ‘have capacity’ to end their
-lives, in a perverse justification of medical inaction.\ :sup:`8` Mental
-capacity – a concept enshrined in legislation intended to enhance the
-autonomy and decision-making of vulnerable people – is used to
-legitimise neglect.\ :sup:`9` The tendency to stray from objectivity
-into value judgement is an unfortunate but familiar feature of
-psychiatric notes, from the truly offensive ‘manipulative’ to the
+lives, in a perverse justification of medical inaction.\ :sup:`(n.d.h)`
+Mental capacity – a concept enshrined in legislation intended to enhance
+the autonomy and decision-making of vulnerable people – is used to
+legitimise neglect.\ :sup:`(n.d.i)` The tendency to stray from
+objectivity into value judgement is an unfortunate but familiar feature
+of psychiatric notes, from the truly offensive ‘manipulative’ to the
 frankly bizarre ‘behavioural’, used to infer that a patient is doing
 something in a conscious and deliberate manner rather than because they
 can't help it. Such terminology does not stand up to scrutiny: not only
@@ -115,7 +119,7 @@ Moral judgement and focus on self-preservation are both ways in which we
 make the case for denying people care. We do a further massive
 disservice to patients by assuming they do not see through us,
 perpetuating the sense of alienation which characterises too many
-encounters with mental health services.\ :sup:`2,10`
+encounters with mental health services.\ :sup:`(n.d.b),(n.d.j)`
 
 .. _sec2:
 
@@ -129,13 +133,13 @@ physical, of mind and brain, of deserving and undeserving. At their very
 worst, modern mental health services seem to operate on two polarised
 (but related) values: coercion and exclusion. The former is probably
 most familiar as a critique of psychiatry as per the recent government
-White Paper.\ :sup:`10` Time will tell whether statutory reform will
-lead to the desired aim of reduced coercion. Less talked about, perhaps,
-than the coercive aspect of psychiatry is the troubling drive to exclude
-people from services. We exclude based on postcode, diagnosis,
-complexity, comorbidity. Too much need, not enough need. Risk, lack of
-motivation, readiness for change, any possible reason to keep people
-out. We have apparently accepted, without question, the term
+White Paper.\ :sup:`(n.d.j)` Time will tell whether statutory reform
+will lead to the desired aim of reduced coercion. Less talked about,
+perhaps, than the coercive aspect of psychiatry is the troubling drive
+to exclude people from services. We exclude based on postcode,
+diagnosis, complexity, comorbidity. Too much need, not enough need.
+Risk, lack of motivation, readiness for change, any possible reason to
+keep people out. We have apparently accepted, without question, the term
 ‘gatekeeping’ to refer to admission to psychiatric beds, a process that
 generally involves the agreement of a crisis resolution and home
 treatment team. While accepting the almost perpetual state of bed crisis
@@ -157,25 +161,25 @@ persistently commissioned in a way that keeps them separated. This has
 resulted in baseless and ill-defined concepts which dominate practice:
 take ‘medical clearance’, for example – a requirement that any patient
 attending an emergency department be reliably pronounced to have no
-medical condition before having a psychiatric assessment.\ :sup:`11`
-Although nobody would argue that an acute medical condition should not
-be promptly identified and treated, problems arise when we refuse to
-assess and manage in parallel. As is now recognised, this leads to
-inadequate patient care and should not be routine practice\ :sup:`12`
-(though its grip is tenacious). We ask medical colleagues to ‘exclude
-organic causes’ of a disturbed mental state, as if it is always possible
-to do this acutely or to precisely isolate which symptom arises from
-which condition; as if conditions cannot coexist. In their detailed
-analysis of the incoherent distinction between ‘organic’ and
-‘functional’, Bell et al\ :sup:`13` conclude that ‘the
-functional–organic distinction often seems like a tool that helps
-determine treatment priority dressed up in the language of causation’.
-Neurologists and other specialists may be as guilty of this as
-psychiatrists,\ :sup:`14` but we should surely have a greater interest
-in challenging what is essentially another form of stigma. As long as we
-rely on outdated pseudo-medical concepts, mental health workers will
-view ‘physical health’ as a kind of unpredictable bogeyman to be feared
-and avoided.
+medical condition before having a psychiatric
+assessment.\ :sup:`(n.d.k)` Although nobody would argue that an acute
+medical condition should not be promptly identified and treated,
+problems arise when we refuse to assess and manage in parallel. As is
+now recognised, this leads to inadequate patient care and should not be
+routine practice\ :sup:`(n.d.l)` (though its grip is tenacious). We ask
+medical colleagues to ‘exclude organic causes’ of a disturbed mental
+state, as if it is always possible to do this acutely or to precisely
+isolate which symptom arises from which condition; as if conditions
+cannot coexist. In their detailed analysis of the incoherent distinction
+between ‘organic’ and ‘functional’, Bell et al\ :sup:`(n.d.m)` conclude
+that ‘the functional–organic distinction often seems like a tool that
+helps determine treatment priority dressed up in the language of
+causation’. Neurologists and other specialists may be as guilty of this
+as psychiatrists,\ :sup:`(n.d.n)` but we should surely have a greater
+interest in challenging what is essentially another form of stigma. As
+long as we rely on outdated pseudo-medical concepts, mental health
+workers will view ‘physical health’ as a kind of unpredictable bogeyman
+to be feared and avoided.
 
 .. _sec3:
 
@@ -184,61 +188,61 @@ A convenient pandemic
 
 Stigma towards people with mental illness in medical settings is
 well-documented and tackling it a slow process; it was only in January
-2020 that the Side by Side consensus statement was published\ :sup:`13`
-but the COVID-19 pandemic that hit us just a month later jeopardises its
-intentions. Driven by the pandemic, there is a vogue for developing
-acute psychiatric assessment sites away from emergency
-departments.\ :sup:`15` Across the UK are hastily created diversions for
-people in mental health crises and it remains to be seen whether these
-will prove either safe or cost-effective. While acknowledging a genuine
-need for infection control, the more cynical among us may see certain
-organisations leaping on the opportunity to do what they have been
-wanting to for years, which is to exclude psychiatric patients from
-emergency departments. The party line is that this is a compassionate
-move: an emergency department isn't the place for someone in mental
-health crisis.\ :sup:`16` Arguably, it's not the most relaxing place for
-someone with sepsis or a fractured neck of femur either but it's where
-most of us would want to be in that situation. When Samuel Shem, in his
-cult novel about North American internal medicine,\ :sup:`17` coined the
-term ‘GOMER’ (Get Out of My Emergency Room) he was describing a group of
-elderly patients with dementia, perceived to use time and resources but
-never improve or die. ‘GOMER’ refers to the doctors’ reaction when these
-unfortunate people arrive in their department. However, it seems as if
-this attitude is even more applicable to people with mental illness,
-certainly in the 21st-century NHS. Treating psychiatric patients as
-‘GOMERs’ is systemically endorsed. A separation of mental and physical
-emergency locations reinforces the dangerous notion that we can reliably
-ascertain (even pre-hospital) whether someone needs ‘physical’ care or
-not.
+2020 that the Side by Side consensus statement was
+published\ :sup:`(n.d.m)` but the COVID-19 pandemic that hit us just a
+month later jeopardises its intentions. Driven by the pandemic, there is
+a vogue for developing acute psychiatric assessment sites away from
+emergency departments.\ :sup:`(n.d.o)` Across the UK are hastily created
+diversions for people in mental health crises and it remains to be seen
+whether these will prove either safe or cost-effective. While
+acknowledging a genuine need for infection control, the more cynical
+among us may see certain organisations leaping on the opportunity to do
+what they have been wanting to for years, which is to exclude
+psychiatric patients from emergency departments. The party line is that
+this is a compassionate move: an emergency department isn't the place
+for someone in mental health crisis.\ :sup:`(n.d.p)` Arguably, it's not
+the most relaxing place for someone with sepsis or a fractured neck of
+femur either but it's where most of us would want to be in that
+situation. When Samuel Shem, in his cult novel about North American
+internal medicine,\ :sup:`(n.d.q)` coined the term ‘GOMER’ (Get Out of
+My Emergency Room) he was describing a group of elderly patients with
+dementia, perceived to use time and resources but never improve or die.
+‘GOMER’ refers to the doctors’ reaction when these unfortunate people
+arrive in their department. However, it seems as if this attitude is
+even more applicable to people with mental illness, certainly in the
+21st-century NHS. Treating psychiatric patients as ‘GOMERs’ is
+systemically endorsed. A separation of mental and physical emergency
+locations reinforces the dangerous notion that we can reliably ascertain
+(even pre-hospital) whether someone needs ‘physical’ care or not.
 
 The pandemic has also focused attention on the concept of moral injury –
 ‘perpetrating, failing to prevent, or bearing witness to acts that
-transgress deeply held moral beliefs and expectations’\ :sup:`18` – in
-medicine.\ :sup:`19` There is a psychological toll that comes with
-having to ration resources, transfer patients out of area owing to bed
-pressures, suspend vital services and see waiting lists grow longer.
-These have been headline news over the past year,\ :sup:`20` yet all are
-challenges that have faced psychiatry for far longer. Perhaps we have
-already grown used to excusing exclusion and senseless divisions in
+transgress deeply held moral beliefs and expectations’\ :sup:`(n.d.r)` –
+in medicine.\ :sup:`(n.d.s)` There is a psychological toll that comes
+with having to ration resources, transfer patients out of area owing to
+bed pressures, suspend vital services and see waiting lists grow longer.
+These have been headline news over the past year,\ :sup:`(n.d.t)` yet
+all are challenges that have faced psychiatry for far longer. Perhaps we
+have already grown used to excusing exclusion and senseless divisions in
 order to avoid the reality that services have been systematically cut
-and we cannot give patients what they need.\ :sup:`21` The mental health
-profession has had its compassion eroded by moral injury for longer than
-we can remember, rationing care for so long that we have come to believe
-that exclusion is clinically indicated. We claim to be encouraging
-personal responsibility and autonomy, preventing dependence, avoiding
-institutionalisation, reducing unnecessary referrals, all of which
-allows systemic failings to continue. Some of our processes seem almost
-designed to harm; the ways in which institutional factors have an impact
-on specific aspects of people's illnesses Kafkaesque. For example,
-people with eating disorders, among whom the belief that one is ‘not
-sick enough’ is common, are literally denied help until they are ‘sick
-enough’.\ :sup:`22` People with personality disorder diagnoses who have
-experienced trauma, rejection and interpersonal discord throughout their
-lives are rejected by professionals within a system that tells them they
-should not have time and resources wasted on them.\ :sup:`23` These are
-not cognitive distortions but grim reality. This culture of exclusion,
-coupled with the expectation that patients take responsibility to quell
-clinician anxiety, is a toxic mix.
+and we cannot give patients what they need.\ :sup:`(n.d.u)` The mental
+health profession has had its compassion eroded by moral injury for
+longer than we can remember, rationing care for so long that we have
+come to believe that exclusion is clinically indicated. We claim to be
+encouraging personal responsibility and autonomy, preventing dependence,
+avoiding institutionalisation, reducing unnecessary referrals, all of
+which allows systemic failings to continue. Some of our processes seem
+almost designed to harm; the ways in which institutional factors have an
+impact on specific aspects of people's illnesses Kafkaesque. For
+example, people with eating disorders, among whom the belief that one is
+‘not sick enough’ is common, are literally denied help until they are
+‘sick enough’.\ :sup:`(n.d.v)` People with personality disorder
+diagnoses who have experienced trauma, rejection and interpersonal
+discord throughout their lives are rejected by professionals within a
+system that tells them they should not have time and resources wasted on
+them.\ :sup:`(n.d.w)` These are not cognitive distortions but grim
+reality. This culture of exclusion, coupled with the expectation that
+patients take responsibility to quell clinician anxiety, is a toxic mix.
 
 .. _sec4:
 
@@ -270,8 +274,8 @@ responsibility for recognising and calling out harmful culture and
 practices should not fall entirely on the shoulders of those who have
 suffered it. In short, our profession must open its eyes. Regulatory
 bodies such as the General Medical Council tell us to ‘make the care of
-the patient your first concern’\ :sup:`24` yet we stray from this to
-prioritise the needs of clinicians and organisations. In a culture of
+the patient your first concern’\ :sup:`(n.d.x)` yet we stray from this
+to prioritise the needs of clinicians and organisations. In a culture of
 self-protection, exclusion will inevitably become a central aim because,
 of course, the best way to prevent ourselves from harm is to prevent the
 ‘danger’ from getting near us. How have we so comprehensively forgotten
@@ -293,7 +297,7 @@ health professionals, students and – most importantly – patients and
 carers: ‘Educating the next generations of clinicians and social workers
 is vital, but they won't survive immersion in toxic cultures. We need
 honesty from organisations where poor care and neglect have become
-systemic and endemic’.\ :sup:`25`
+systemic and endemic’.\ :sup:`(n.d.y)`
 
 Patients and carers have been speaking out about exclusion and
 iatrogenic harm for too long; psychiatrists complaining about blame
@@ -327,3 +331,131 @@ Declaration of interest
 =======================
 
 None.
+
+.. container:: references csl-bib-body hanging-indent
+   :name: refs
+
+   .. container:: csl-entry
+      :name: ref-ref1
+
+      n.d.a.
+
+   .. container:: csl-entry
+      :name: ref-ref2
+
+      n.d.b.
+
+   .. container:: csl-entry
+      :name: ref-ref3
+
+      n.d.c.
+
+   .. container:: csl-entry
+      :name: ref-ref4
+
+      n.d.d.
+
+   .. container:: csl-entry
+      :name: ref-ref5
+
+      n.d.e.
+
+   .. container:: csl-entry
+      :name: ref-ref6
+
+      n.d.f.
+
+   .. container:: csl-entry
+      :name: ref-ref7
+
+      n.d.g.
+
+   .. container:: csl-entry
+      :name: ref-ref8
+
+      n.d.h.
+
+   .. container:: csl-entry
+      :name: ref-ref9
+
+      n.d.i.
+
+   .. container:: csl-entry
+      :name: ref-ref10
+
+      n.d.j.
+
+   .. container:: csl-entry
+      :name: ref-ref11
+
+      n.d.k.
+
+   .. container:: csl-entry
+      :name: ref-ref12
+
+      n.d.l.
+
+   .. container:: csl-entry
+      :name: ref-ref13
+
+      n.d.m.
+
+   .. container:: csl-entry
+      :name: ref-ref14
+
+      n.d.n.
+
+   .. container:: csl-entry
+      :name: ref-ref15
+
+      n.d.o.
+
+   .. container:: csl-entry
+      :name: ref-ref16
+
+      n.d.p.
+
+   .. container:: csl-entry
+      :name: ref-ref17
+
+      n.d.q.
+
+   .. container:: csl-entry
+      :name: ref-ref18
+
+      n.d.r.
+
+   .. container:: csl-entry
+      :name: ref-ref19
+
+      n.d.s.
+
+   .. container:: csl-entry
+      :name: ref-ref20
+
+      n.d.t.
+
+   .. container:: csl-entry
+      :name: ref-ref21
+
+      n.d.u.
+
+   .. container:: csl-entry
+      :name: ref-ref22
+
+      n.d.v.
+
+   .. container:: csl-entry
+      :name: ref-ref23
+
+      n.d.w.
+
+   .. container:: csl-entry
+      :name: ref-ref24
+
+      n.d.x.
+
+   .. container:: csl-entry
+      :name: ref-ref25
+
+      n.d.y.

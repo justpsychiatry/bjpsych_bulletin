@@ -1,0 +1,963 @@
+===============================================================
+Personality disorder: still the patients psychiatrists dislike?
+===============================================================
+
+Dimitrios Chartonas
+Michalis Kyratsous
+Sarah Dracass
+Tennyson Lee
+Kamaldeep BhuiCorrespondence to Tennyson Lee (Tennyson.Lee@elft.nhs.uk)
+ [1]_
+:Date: 2017-2
+
+:Abstract:
+   **Aims and method** In 1988, Lewis and Appleby demonstrated that
+   psychiatrists hold negative attitudes towards patients with
+   personality disorder. We assessed the attitudes of psychiatry
+   trainees towards patients with borderline personality disorder and
+   depression, expecting an improvement. 166 trainees were block
+   randomised to receive one of four case vignettes that varied by
+   diagnosis and ethnic group. We used Lewis and Appleby's original
+   questionnaire and the Attitudes to Personality Disorder Questionnaire
+   (APDQ).
+
+   **Results** We received 76 responses. Lewis and Appleby's
+   questionnaire showed more negative attitudes towards personality
+   disorder than depression, with no significant patient ethnic group
+   effects, and the APDQ also showed a (weak) trend towards more
+   negative attitudes to personality disorder. In subgroup analysis,
+   only in the White British patient group were there significantly more
+   negative attitudes to personality disorder. Factor analysis showed
+   significantly less sense of purpose when working with personality
+   disorder.
+
+   **Clinical implications** The perceived greater lack of purpose in
+   working with personality disorder should be the target of clinical
+   training and intervention. Targeted interventions that include
+   training in managing personality disorder, supervision and practice
+   in non-specialist, general psychiatry settings are important.
+
+
+.. contents::
+   :depth: 3
+..
+
+Personality disorder is characterised by an enduring dysfunctional and
+distressing pattern of inner experiences, behaviours and interpersonal
+interactions.\ :sup:`(n.d.a)` Almost a quarter (24%) of people seen in
+primary care\ :sup:`(n.d.b)` and 50% of people in secondary mental
+health services meet the criteria for a diagnosis of personality
+disorder.\ :sup:`(n.d.c)` Patients with personality disorder have high
+rates of comorbidity\ :sup:`(n.d.d)` and service
+utilisation.\ :sup:`(n.d.e)` A meta-analysis, which identified 391
+relevant publications and finally included 14, showed significant
+differences in prevalence between Black and White groups (although no
+differences between Asian or Hispanic groups compared with White
+groups), raising the question of whether there is a neglect of diagnosis
+in some ethnic groups.\ :sup:`(n.d.f)`
+
+Although there is good evidence that borderline personality disorder
+(BPD) is a helpful diagnostic construct,\ :sup:`(n.d.g)` some studies
+contest the validity (but not the clinical utility) of the
+diagnosis.\ :sup:`(n.d.h)` Potter\ :sup:`(n.d.a)` stresses that the
+psychological and interpersonal dynamics that patients with BPD bring to
+the clinical setting cause frustration and consternation among
+clinicians, such that BPD is now a diagnosis that can carry pejorative
+connotations and compound the stigma that such patients already face.
+Many patients with BPD feel rejected and disbelieved by
+clinicians.\ :sup:`(n.d.i)` Improving clinicians' attitudes toward
+patients with BPD could bring them clinical benefit.\ :sup:`(n.d.j)`
+
+Against this background, there have been systematic efforts to study
+clinicians' attitudes to personality disorder. A systematic review of
+the literature shows that healthcare professionals in general have
+negative attitudes towards such patients.\ :sup:`(n.d.k),(n.d.l)` A
+large study\ :sup:`(n.d.g)` demonstrated that the clinician's
+occupational subgroup was significantly related to the attitude they
+adopted towards patients with BPD: staff nurses had the poorest
+self-ratings on overall caring attitudes, whereas social workers had the
+most caring attitudes. Social workers and psychiatrists self-rated
+highly on treatment optimism, whereas staff nurses rated poorly on
+empathy and treatment optimism. Overall, the authors suggested that
+education about the nature and treatment of BPD can lead to more
+positive attitudes, but also that clinicians with greater levels of
+experience in terms of both number of BPD patients and years of practice
+were more likely to express positive attitudes towards such patients.
+Bodner *et al*\ :sup:`(n.d.m)` demonstrated that psychologists were less
+likely than psychiatrists and nurses to express antagonistic judgements
+towards patients with BPD and suicidal tendencies, whereas nurses were
+less likely to show empathy than psychiatrists and psychologists. They
+identified a number of factors influencing attitudes, including
+motivation to improve diagnostic skills, seniority, training and
+supervision, gender and familiarity with treatment modalities.
+
+In 1997, Bowers *et al*\ :sup:`(n.d.n)` developed a new instrument
+called the Attitude to Personality Disorder Questionnaire (APDQ). The
+APDQ is a reliable and valid measure of attitude to personality
+disorder, and is useful for outcome studies. It was tested among nurses
+and prison officers.\ :sup:`(n.d.o)–(n.d.p)` One of these
+studies\ :sup:`(n.d.q)` revealed that psychiatric nurses' attitudes were
+more negative than those of prison officers. Prison officers more often
+liked and showed an interest in prisoners with personality disorder, and
+they showed less fear and helplessness, less anger, more optimism about
+treatment and less frustration. The other studies found that nurses
+considered people with personality disorder difficult to treat; they
+were pessimistic about the efficacy and outcome of treatment and felt
+they were poorly trained to care for such patients.
+
+Over 20 years ago Lewis & Appleby\ :sup:`(n.d.r)` demonstrated that
+psychiatrists hold negative attitudes towards patients with a diagnosis
+of personality disorder, and that the diagnostic label was more
+influential on their attitudes than the patient's gender or class.
+Patients given a previous diagnosis of personality disorder were seen as
+more difficult and less deserving of care than controls. The authors
+concluded that a diagnosis of personality disorder carries enduring
+negative sentiments and is not used to guide effective treatment. For
+example, people with this diagnosis may experience difficulties when
+seeking help for psychiatric symptoms such as depression. The authors
+proposed that the concept of personality disorder be abandoned.
+
+In 2002 the National Personality Disorder Development Programme was
+introduced in the UK, accompanied by the publication of *No Longer a
+Diagnosis of Exclusion*\ :sup:`(n.d.s)` and *Breaking the Cycle of
+Rejection*,\ :sup:`(n.d.t)` policy attempts that aimed to improve the
+evidence base of effective interventions for patients with personality
+disorder in specialist personality disorder services and, it was hoped,
+would also mitigate stigma.
+
+Given the above, it seemed timely to see whether the attitudes of
+psychiatrists towards BPD showed any change. We selected psychiatric
+trainees, despite the difference in seniority/experience compared with
+Lewis & Appleby's original study (mean 16.5 years of psychiatric
+practice), as they are on the front line of service provision and are
+the next generation of consultant psychiatrists. Considering the
+findings of McGilloway *et al*\ :sup:`(n.d.f)` and the multi-ethnic
+patient population in east and north-east London our sample was drawn
+from, we also examined the impact of ethnicity on attitudes.
+
+.. _S1:
+
+Objectives
+==========
+
+The objectives of the study were: to assess the attitudes of psychiatry
+trainees towards patients with BPD compared with depressionto assess the
+impact of patient ethnicity on the attitudes of trainees to BPD.
+
+.. _S2:
+
+Method
+======
+
+The study population consisted of the cohort of doctors training in
+psychiatry on the north-east London rotations (East London NHS
+Foundation Trust and North East London NHS Foundation Trust) between
+February and July 2013: core trainees 1–3, specialist trainees 4–6,
+general practice vocational trainees and foundation year 2 doctors.
+Overall, 166 doctors in training were block randomised in blocks of 8 to
+receive one of four different case vignettes (`Box 1 <#box1>`__) that
+varied by previous diagnosis (BPD or depression) and ethnic group (White
+British or Bangladeshi). The case vignettes were modified versions of
+those used by Lewis & Appleby.\ :sup:`(n.d.r)`
+
+**Box 1** Case vignettes used in the study
+
+**Case 1**
+
+A 25-year-old White British woman is seen in out-patients. She complains
+of feeling depressed and crying all the time. She is worried she may be
+having a ‘breakdown’ and is requesting admission. She says she has
+thought of killing herself by taking an overdose of tablets at home. She
+has a history of an overdose 2 years ago after a relationship break-up,
+following which she saw a psychiatrist who diagnosed her with depressive
+episode. She recently lost her job and is worried about how she will pay
+the bills. She is finding it difficult to sleep and her GP prescribed
+nitrazepam, which she says has been helpful and which she would like to
+continue.
+
+**Case 2**
+
+Same as case 1, but the patient is Bangladeshi.
+
+**Case 3**
+
+Same as case 1, but the previous diagnosis is borderline personality
+disorder.
+
+**Case 4**
+
+Same as case 3, but the patient is Bangladeshi.
+
+We used the following tools to measure attitudes:
+
+Lewis & Appleby's 22 semantic differentials on a 6-point scale. Using
+the original scoring conventions, the semantic differentials were scored
+so that a higher score represented responses that were more rejecting or
+that indicated lack of active treatment.
+
+APDQ: a questionnaire that consists of 37 affective statements about
+patients with personality disorder (e.g. ‘I like personality disorder
+people’, ‘I feel drained by personality disorder people’, ‘I feel
+patient when caring for personality disorder people’). Respondents rate
+the frequency of their experiences of these feelings on a 6-point Likert
+scale: never, seldom, occasionally, often, very often and always. The
+responses can be summed to give a total score; the higher the score, the
+more positive the attitude towards patients with a personality disorder.
+Five subfactors can be scored: factor 1, enjoyment: warmth, liking for
+and interest in contact with patients with personality disorderfactor 2,
+security: the lack of fears, anxieties and helplessness in relation to
+patients with personality disorderfactor 3, acceptance: the absence of
+anger towards patients with personality disorder and a sense of being
+different from themfactor 4, purpose: feelings of meaning and purpose in
+working with patients with personality disorderfactor 5, enthusiasm:
+energy and absence of tiredness.
+
+For the purposes of this study we modified the affective statements to
+‘I like these patients’, ‘I feel drained by these patients’ etc. to
+correspond to the case vignette of either personality disorder or
+depression.
+
+.. _S3:
+
+Analysis
+--------
+
+As regards Lewis & Appleby's 22-item semantic differentials, we compared
+mean and s.d. scores on items. We assessed the structure of the items by
+running a principal components analysis. We summed scores of the most
+dominant factors that explained most of the variance and compared them
+by diagnosis and by ethnic group.
+
+The APDQ scores (mean, s.d.) were compared for trainees across the four
+case vignettes. These were compared as groups that differed by diagnosis
+or by ethnic group in logistic regression analyses, to assess the role
+of diagnosis and ethnic group. We used the original APDQ factors as an
+additional variable to assess differences by patient ethnic group and
+diagnosis.
+
+The study was granted ethical approval by the South West London REC 3
+(ref. 10/H0803/159). We obtained the names and positions of all trainees
+in the rotation from the core training scheme manager for the north-east
+London rotations. We contacted all trainees via email asking them to
+complete questionnaires online (on the SurveyMonkey platform,
+`www.surveymonkey.co.uk <www.surveymonkey.co.uk>`__). All respondents
+gave informed consent and all responses were anonymous.
+
+.. _S4:
+
+Results
+=======
+
+We received 76 responses (response rate 46%). However, a small number of
+respondents failed to answer a number of questions. We thus analysed
+data from 73 responses to Lewis & Appleby's questionnaire (*n* = 19 for
+case 1, case 3 and case 4, and *n* = 16 for case 2) and 68 responses to
+the APDQ (17 for case 1, 15 for case 2, 20 for case 3, and 16 for case
+4). Respondent characteristics are given in `Table 1 <#T1>`__.
+
+.. container:: table-wrap
+   :name: T1
+
+   .. container:: caption
+
+      .. rubric:: 
+
+      Respondent characteristics
+
+   +---------------+------------+---------------+----+----+----+----+
+   |               | Depression | Borderline    |    |    |    |    |
+   |               |            | personality   |    |    |    |    |
+   |               |            | disorder      |    |    |    |    |
+   +===============+============+===============+====+====+====+====+
+   | Gender        |            |               |    |    |    |    |
+   +---------------+------------+---------------+----+----+----+----+
+   |     Female    | 12         | 10            | 22 | 13 | 8  | 21 |
+   +---------------+------------+---------------+----+----+----+----+
+   |     Male      | 5          | 5             | 10 | 7  | 9  | 16 |
+   +---------------+------------+---------------+----+----+----+----+
+   |     Unknown   | 3          | 1             | 4  | 0  | 3  | 3  |
+   +---------------+------------+---------------+----+----+----+----+
+   |               |            |               |    |    |    |    |
+   +---------------+------------+---------------+----+----+----+----+
+   | Ethnicity     |            |               |    |    |    |    |
+   +---------------+------------+---------------+----+----+----+----+
+   |     White     | 8          | 6             | 14 | 11 | 9  | 20 |
+   +---------------+------------+---------------+----+----+----+----+
+   |               | 6          | 7             | 13 | 6  | 4  | 10 |
+   |    Black/Asia |            |               |    |    |    |    |
+   | n/mixed/other |            |               |    |    |    |    |
+   +---------------+------------+---------------+----+----+----+----+
+   |     Unknown   | 6          | 3             | 9  | 3  | 7  | 10 |
+   +---------------+------------+---------------+----+----+----+----+
+   |               |            |               |    |    |    |    |
+   +---------------+------------+---------------+----+----+----+----+
+   | Qualification | 10         | 8             | 18 | 11 | 8  | 19 |
+   | in UK         |            |               |    |    |    |    |
+   +---------------+------------+---------------+----+----+----+----+
+   |     Unknown   | 3          | 1             | 4  | 1  | 3  | 4  |
+   +---------------+------------+---------------+----+----+----+----+
+   |               |            |               |    |    |    |    |
+   +---------------+------------+---------------+----+----+----+----+
+   | Current level |            |               |    |    |    |    |
+   +---------------+------------+---------------+----+----+----+----+
+   |     GP/FY     | 2          | 5             | 7  | 4  | 0  | 4  |
+   +---------------+------------+---------------+----+----+----+----+
+   |     CT1–3     | 10         | 5             | 15 | 11 | 12 | 23 |
+   +---------------+------------+---------------+----+----+----+----+
+   |     ST4–6     | 5          | 3             | 8  | 5  | 5  | 10 |
+   +---------------+------------+---------------+----+----+----+----+
+   |     Unknown   | 3          | 3             | 6  | 0  | 3  | 3  |
+   +---------------+------------+---------------+----+----+----+----+
+
+   GP, general practice vocational trainee; FY, foundation year; CT,
+   core trainee; ST, specialist trainee.
+
+.. _S5:
+
+Lewis & Appleby's 22-item semantic differentials
+------------------------------------------------
+
+The scale was subject to principal components factor analysis followed
+by an orthogonal rotation to identify 16 of the 22 items loaded (loading
+of greater than 0.5) on the first factor (eigenvalue 10.42, explaining
+71% of the variance), with two further candidate factors (eigenvalue
+1.68, explaining 11.5% and eigenvalue 1.00, explaining 6.1%,
+respectively) (`Table 2 <#T2>`__). Only items from the first factor were
+summed to compare attitudes, as the second and third factors were
+accounted for by 3 items each and did not show a clear conceptual
+distinction between each other. The mean and s.d. score of factor 1 was
+compared by diagnosis and by ethnic group (case 1: mean 42.42, s.d. =
+8.54; case 2: mean 48, s.d. = 8.71; case 3: mean 53.68, s.d. = 11.99;
+case 4: mean 51.53, s.d. = 10.51). The scores did not vary by ethnic
+groups. The rank sums showed significant differences by diagnosis, with
+higher scores (more stigma) towards personality disorder than depression
+(overall Kruskal–Wallis χ\ :sup:`2` = 11.38, d.f. = 3, *P* = 0.01)
+(`Table 3 <#T3>`__).
+
+.. container:: table-wrap
+   :name: T2
+
+   .. container:: caption
+
+      .. rubric:: 
+
+      Principal components analysis
+
+   +-------+-------+-------+-------+-------+-------+-------+-------+
+   |       | Mean  | Lo    |       |       |       |       |       |
+   |       | \ `a  | ading |       |       |       |       |       |
+   |       | <#TFN |       |       |       |       |       |       |
+   |       | 3>`__ |       |       |       |       |       |       |
+   |       | (     |       |       |       |       |       |       |
+   |       | s.d.) |       |       |       |       |       |       |
+   +=======+=======+=======+=======+=======+=======+=======+=======+
+   | F     |       |       |       |       |       |       |       |
+   | actor |       |       |       |       |       |       |       |
+   | 1     |       |       |       |       |       |       |       |
+   | (     |       |       |       |       |       |       |       |
+   | eigen |       |       |       |       |       |       |       |
+   | value |       |       |       |       |       |       |       |
+   | 1     |       |       |       |       |       |       |       |
+   | 0.42) |       |       |       |       |       |       |       |
+   +-------+-------+-------+-------+-------+-------+-------+-------+
+   |       | 3.25  | 4.20  | 0     | 0     |   0   | 0     | 0     |
+   | Poses | (     | (     | .5955 | .0826 | .0343 | .1059 | .6261 |
+   | diff  | 1.18) | 1.30) |       |       |       |       |       |
+   | icult |       |       |       |       |       |       |       |
+   | manag |       |       |       |       |       |       |       |
+   | ement |       |       |       |       |       |       |       |
+   | pr    |       |       |       |       |       |       |       |
+   | oblem |       |       |       |       |       |       |       |
+   +-------+-------+-------+-------+-------+-------+-------+-------+
+   |       | 2.17  | 3.64  | 0     | 0     | −0    | −0    | 0     |
+   |   Unl | (     | (     | .6828 | .2932 | .0333 | .4351 | .2574 |
+   | ikely | 0.94) | 1.48) |       |       |       |       |       |
+   | to    |       |       |       |       |       |       |       |
+   | im    |       |       |       |       |       |       |       |
+   | prove |       |       |       |       |       |       |       |
+   +-------+-------+-------+-------+-------+-------+-------+-------+
+   |       | 3.67  | 3.28  | 0     | 0     |   0   | 0     | 0     |
+   | Cause | (     | (     | .6678 | .2539 | .1938 | .2264 | .4007 |
+   | of    | 1.22) | 1.31) |       |       |       |       |       |
+   | debts |       |       |       |       |       |       |       |
+   | under |       |       |       |       |       |       |       |
+   | pati  |       |       |       |       |       |       |       |
+   | ent's |       |       |       |       |       |       |       |
+   | co    |       |       |       |       |       |       |       |
+   | ntrol |       |       |       |       |       |       |       |
+   +-------+-------+-------+-------+-------+-------+-------+-------+
+   |       | 2.53  | 3.00  | 0     | 0     | −     | −0    | 0     |
+   |    No | (     | (     | .7153 | .2039 | 0.041 | .3236 | .3403 |
+   | m     | 1.38) | 1.57) |       |       |       |       |       |
+   | ental |       |       |       |       |       |       |       |
+   | il    |       |       |       |       |       |       |       |
+   | lness |       |       |       |       |       |       |       |
+   +-------+-------+-------+-------+-------+-------+-------+-------+
+   |       | 2.64  | 2.97  | 0     | −0    |   0   | 0     | 0     |
+   |  Case | (     | (     | .6820 | .2883 | .0797 | .1921 | .4085 |
+   | does  | 1.15) | 1.06) |       |       |       |       |       |
+   | not   |       |       |       |       |       |       |       |
+   | merit |       |       |       |       |       |       |       |
+   | NHS   |       |       |       |       |       |       |       |
+   | time  |       |       |       |       |       |       |       |
+   +-------+-------+-------+-------+-------+-------+-------+-------+
+   |       | 2.67  | 3.95  | 0     | 0     | −0    | −0    | 0     |
+   |   Unl | (     | (     | .7376 | .1704 | .1875 | .3877 | .2414 |
+   | ikely | 1.15) | 1.23) |       |       |       |       |       |
+   | to    |       |       |       |       |       |       |       |
+   | com   |       |       |       |       |       |       |       |
+   | plete |       |       |       |       |       |       |       |
+   | trea  |       |       |       |       |       |       |       |
+   | tment |       |       |       |       |       |       |       |
+   +-------+-------+-------+-------+-------+-------+-------+-------+
+   |       | 2.89  | 3.56  | 0     | 0     | −0    | −0    | 0     |
+   |   Unl | (     | (     | .8410 | .1506 | .0388 | .2516 | .2052 |
+   | ikely | 0.95) | 1.27) |       |       |       |       |       |
+   | to    |       |       |       |       |       |       |       |
+   | c     |       |       |       |       |       |       |       |
+   | omply |       |       |       |       |       |       |       |
+   | with  |       |       |       |       |       |       |       |
+   | a     |       |       |       |       |       |       |       |
+   | dvice |       |       |       |       |       |       |       |
+   |       |       |       |       |       |       |       |       |
+   |   and |       |       |       |       |       |       |       |
+   | trea  |       |       |       |       |       |       |       |
+   | tment |       |       |       |       |       |       |       |
+   +-------+-------+-------+-------+-------+-------+-------+-------+
+   |       | 2.91  | 2.64  | 0     | 0     | −0    | −0    | 0     |
+   |   Sui | (     | (     | .8697 | .0496 | .1665 | .0827 | .2066 |
+   | cidal | 1.00) | 1.40) |       |       |       |       |       |
+   | urges |       |       |       |       |       |       |       |
+   | under |       |       |       |       |       |       |       |
+   | pati  |       |       |       |       |       |       |       |
+   | ent's |       |       |       |       |       |       |       |
+   | co    |       |       |       |       |       |       |       |
+   | ntrol |       |       |       |       |       |       |       |
+   +-------+-------+-------+-------+-------+-------+-------+-------+
+   |     L | 4.08  | 4.72  | 0     | −0    |   0   | 0     | 0     |
+   | ikely | (     | (     | .7435 | .3069 | .2593 | .0553 | .2827 |
+   | to    | 1.11) | 0.79) |       |       |       |       |       |
+   | b     |       |       |       |       |       |       |       |
+   | ecome |       |       |       |       |       |       |       |
+   | depe  |       |       |       |       |       |       |       |
+   | ndent |       |       |       |       |       |       |       |
+   | on    |       |       |       |       |       |       |       |
+   | one   |       |       |       |       |       |       |       |
+   +-------+-------+-------+-------+-------+-------+-------+-------+
+   |       | 3.25  | 3.54  | 0     | −0    | −0    | 0     | 0     |
+   |  Cond | (     | (     | .8259 | .3129 | .1401 | .1625 | .1740 |
+   | ition | 0.94) | 0.91) |       |       |       |       |       |
+   | not   |       |       |       |       |       |       |       |
+   | s     |       |       |       |       |       |       |       |
+   | evere |       |       |       |       |       |       |       |
+   +-------+-------+-------+-------+-------+-------+-------+-------+
+   |       | 3.25  | 3.55  | 0     | 0     | −0    | −0    | 0     |
+   |  Admi | (     | (     | .9096 | .0398 | .1405 | .0416 | .1496 |
+   | ssion | 1.50) | 1.40) |       |       |       |       |       |
+   | not   |       |       |       |       |       |       |       |
+   | indi  |       |       |       |       |       |       |       |
+   | cated |       |       |       |       |       |       |       |
+   +-------+-------+-------+-------+-------+-------+-------+-------+
+   |       | 2.56  | 3.00  | 0     | −0    | −0    | 0     | 0     |
+   |   Not | (     | (     | .8246 | .0480 | .1447 | .2903 | .2126 |
+   | a     | 0.99) | 0.99) |       |       |       |       |       |
+   | su    |       |       |       |       |       |       |       |
+   | icide |       |       |       |       |       |       |       |
+   | risk  |       |       |       |       |       |       |       |
+   +-------+-------+-------+-------+-------+-------+-------+-------+
+   |       | 2.42  | 3.08  | 0     | −0    |   0   | 0     | 0     |
+   |  Does | (     | (     | .8481 | .2232 | .0573 | .1831 | .1942 |
+   | not   | 1.59) | 1.51) |       |       |       |       |       |
+   | re    |       |       |       |       |       |       |       |
+   | quire |       |       |       |       |       |       |       |
+   | sic   |       |       |       |       |       |       |       |
+   | kness |       |       |       |       |       |       |       |
+   | c     |       |       |       |       |       |       |       |
+   | ertif |       |       |       |       |       |       |       |
+   | icate |       |       |       |       |       |       |       |
+   +-------+-------+-------+-------+-------+-------+-------+-------+
+   |       | 3.29  | 3.08  | 0     | −0    | −0    | 0     | 0     |
+   |  Depe | (     | (     | .8432 | .2268 | .0802 | .0578 | .2279 |
+   | ndent | 1.18) | 1.23) |       |       |       |       |       |
+   | on    |       |       |       |       |       |       |       |
+   | BZs   |       |       |       |       |       |       |       |
+   +-------+-------+-------+-------+-------+-------+-------+-------+
+   |       | 1.91  | 1.95  | 0     | −0    | −0    | 0     | 0     |
+   |   Psy | (     | (     | .9452 | .0484 | .0436 | .0273 | .1017 |
+   | choth | 1.16) | 1.11) |       |       |       |       |       |
+   | erapy |       |       |       |       |       |       |       |
+   | ref   |       |       |       |       |       |       |       |
+   | erral |       |       |       |       |       |       |       |
+   | not   |       |       |       |       |       |       |       |
+   | indi  |       |       |       |       |       |       |       |
+   | cated |       |       |       |       |       |       |       |
+   +-------+-------+-------+-------+-------+-------+-------+-------+
+   |       | 1.83  | 3.47  | 0     | −0    | −0    | 0     | 0     |
+   | Antid | (     | (     | .8676 | .2914 | .0017 | .1573 | .1377 |
+   | epres | 1.16) | 1.59) |       |       |       |       |       |
+   | sants |       |       |       |       |       |       |       |
+   | not   |       |       |       |       |       |       |       |
+   | indi  |       |       |       |       |       |       |       |
+   | cated |       |       |       |       |       |       |       |
+   +-------+-------+-------+-------+-------+-------+-------+-------+
+   |       |       |       |       |       |       |       |       |
+   +-------+-------+-------+-------+-------+-------+-------+-------+
+   | F     |       |       |       |       |       |       |       |
+   | actor |       |       |       |       |       |       |       |
+   | 2     |       |       |       |       |       |       |       |
+   | (     |       |       |       |       |       |       |       |
+   | eigen |       |       |       |       |       |       |       |
+   | value |       |       |       |       |       |       |       |
+   | 1.68) |       |       |       |       |       |       |       |
+   +-------+-------+-------+-------+-------+-------+-------+-------+
+   |       | 2.91  | 2.68  | −0    | 0     |       | 0     | 0     |
+   |    Ma | (     | (     | .0609 | .6055 | 0.208 | .2771 | .5095 |
+   | nipul | 0.95) | 1.32) |       |       |       |       |       |
+   | ating |       |       |       |       |       |       |       |
+   | admi  |       |       |       |       |       |       |       |
+   | ssion |       |       |       |       |       |       |       |
+   +-------+-------+-------+-------+-------+-------+-------+-------+
+   |       | 2.46  | 3.08  | 0     | 0     | −0    | 0     | 0     |
+   |   Unl | (     | (     | .1055 | .6853 | .1458 | .3179 | .3969 |
+   | ikely | 1.09) | 1.36) |       |       |       |       |       |
+   | to    |       |       |       |       |       |       |       |
+   | a     |       |       |       |       |       |       |       |
+   | rouse |       |       |       |       |       |       |       |
+   | sym   |       |       |       |       |       |       |       |
+   | pathy |       |       |       |       |       |       |       |
+   +-------+-------+-------+-------+-------+-------+-------+-------+
+   |       | 2.86  | 3.36  | 0     | 0     |   0   | 0     | 0     |
+   | Would | (     | (     | .3862 | .4406 | .1868 | .0396 | .6203 |
+   | not   | 1.40) | 1.55) |       |       |       |       |       |
+   | like  |       |       |       |       |       |       |       |
+   | to    |       |       |       |       |       |       |       |
+   | have  |       |       |       |       |       |       |       |
+   | in    |       |       |       |       |       |       |       |
+   | one's |       |       |       |       |       |       |       |
+   | c     |       |       |       |       |       |       |       |
+   | linic |       |       |       |       |       |       |       |
+   +-------+-------+-------+-------+-------+-------+-------+-------+
+   |       |       |       |       |       |       |       |       |
+   +-------+-------+-------+-------+-------+-------+-------+-------+
+   | F     |       |       |       |       |       |       |       |
+   | actor |       |       |       |       |       |       |       |
+   | 3     |       |       |       |       |       |       |       |
+   | (     |       |       |       |       |       |       |       |
+   | eigen |       |       |       |       |       |       |       |
+   | value |       |       |       |       |       |       |       |
+   | 1.00) |       |       |       |       |       |       |       |
+   +-------+-------+-------+-------+-------+-------+-------+-------+
+   |     T | 2.97  | 3.64  | 0     | 0     | −0    | 0     | 0     |
+   | aking | (     | (     | .2184 | .4940 | .6602 | .1606 | .2466 |
+   | an    | 1.03) | 1.35) |       |       |       |       |       |
+   | ove   |       |       |       |       |       |       |       |
+   | rdose |       |       |       |       |       |       |       |
+   | would |       |       |       |       |       |       |       |
+   | be    |       |       |       |       |       |       |       |
+   | atte  |       |       |       |       |       |       |       |
+   | ntion |       |       |       |       |       |       |       |
+   |       |       |       |       |       |       |       |       |
+   |    se |       |       |       |       |       |       |       |
+   | eking |       |       |       |       |       |       |       |
+   +-------+-------+-------+-------+-------+-------+-------+-------+
+   |     S | 1.61  | 1.82  | 0     | 0     |   0   | 0     | 0     |
+   | hould | (     | (     | .3843 | .3520 | .6137 | .0264 | .3511 |
+   | be    | 1.10) | 0.93) |       |       |       |       |       |
+   | disch |       |       |       |       |       |       |       |
+   | arged |       |       |       |       |       |       |       |
+   | from  |       |       |       |       |       |       |       |
+   | o     |       |       |       |       |       |       |       |
+   | ut-pa |       |       |       |       |       |       |       |
+   | tient |       |       |       |       |       |       |       |
+   |       |       |       |       |       |       |       |       |
+   |  foll |       |       |       |       |       |       |       |
+   | ow-up |       |       |       |       |       |       |       |
+   +-------+-------+-------+-------+-------+-------+-------+-------+
+   |     L | 3.11  | 3.64  | 0     | 0     |   0   | −0    | 0     |
+   | ikely | (     | (     | .4816 | .1173 | .5391 | .1399 | .4441 |
+   | to    | 1.28) | 1.48) |       |       |       |       |       |
+   | annoy |       |       |       |       |       |       |       |
+   +-------+-------+-------+-------+-------+-------+-------+-------+
+
+   BPD, borderline personality disorder; BZ, benzodiazepine; NHS,
+   National Health Service.
+
+   Means: higher values indicate greater agreement with statement; there
+   was a 6-point scale between the two statements of the semantic
+   differential.
+
+.. container:: table-wrap
+   :name: T3
+
+   .. container:: caption
+
+      .. rubric:: 
+
+      Attitudes to BPD based on the four test vignettes (factor 1:
+      Kruskal–Wallis equality-of-populations rank test)
+
+   ============= ================ ========
+   Case vignette Respondents, *n* Rank sum
+   ============= ================ ========
+   1             19               460.50
+   \                              
+   2             16               564.50
+   \                              
+   3             19               860.50
+   \                              
+   4             19               815.50
+   ============= ================ ========
+
+   χ\ :sup:`2` = 11.38, d.f. = 3, *P* = 0.01
+
+.. _S6:
+
+APDQ
+----
+
+Multiple regression analysis of overall scores showed a weak trend
+towards lower scores in assessment of attitudes towards patients with a
+previous diagnosis of BPD compared with patients with a previous
+diagnosis of depression (lower scores indicate more negative attitudes
+in the APDQ and this is consistent with findings from the Appleby
+measure); however, this difference fell just short of statistical
+significance (*z* = 1.75, *P* = 0.08). There was no significant ethnic
+difference in attitudes towards patients. In subgroup analysis, only
+among White British patients with a previous diagnosis of BPD was there
+a lower overall score compared with White British patients with a
+previous diagnosis of depression (*z* = 1.98, *P* = 0.047).
+
+This outcome had already been subjected to factor analysis by the
+original inventors of the measure. When we assessed scores on the basis
+of the five factors (using Kruskal–Wallis equality-of-populations rank)
+there was no statistically significant difference in scores for factors
+1 (enjoyment), 2 (security), 3 (acceptance) and 5 (enthusiasm). However,
+there was a statistically significant (*P* = 0.03) difference found for
+factor 4 (purpose), with higher scores in attitudes (more positive)
+towards patients with depression (mean 4.60) compared with patients with
+a previous diagnosis of BPD (mean 4.15).
+
+.. _S7:
+
+Discussion
+==========
+
+Since the original study of Lewis and Appleby nearly 30 years ago, a
+number of studies spanning from 1993 to 2012, as summarised in the
+introduction, have consistently shown that clinicians hold negative
+attitudes towards personality disorder. Our finding of more negative
+attitudes towards personality disorder compared with depression among
+psychiatric trainees, using the same instrument as Lewis and Appleby, is
+in line with previous research. However, it is difficult to show and
+theorise a sense of longitudinal change. This is mainly because
+different studies have looked at different professional groups,
+including nurses, prison officers, social workers, psychologists and
+psychiatrists, with varying training and levels of experience, and in
+different countries and/or care settings. In addition, our study
+examined the attitudes of a less experienced sample of psychiatrists
+than the Lewis and Appleby study, and this has to be taken into
+consideration when comparing current attitudes with previous ones.
+However, the ongoing finding of more stigma towards patients with
+personality disorder, almost 14 years after the introduction of the
+National Personality Disorder Development Programme, is disheartening.
+
+More encouraging is the lack of evidence of differences in attitudes to
+patients with personality disorder of different ethnicity. The greater
+negative attitudes to personality disorder than depression in White
+British but not in Bangladeshi patients raises questions of differences
+in how clinicians may view the disorder in different ethnic groups,
+especially given that culture influences significantly what is
+considered to be a person and personality. Culture influences a number
+of factors relevant to the construct of personality disorder, such as
+learning inside and outside the family, the threshold when personality
+vulnerability cannot be compensated for by the person, and the social
+threshold when such decompensations are labelled
+pathological.\ :sup:`(n.d.u)–(n.d.v)` If one accepts personality
+pathology as universal,\ :sup:`(n.d.w)` perhaps this finding can also
+raise further questions regarding under-diagnosis of personality
+problems in certain ethnic groups, although supporting such a link is
+beyond the scope of this paper and further research is needed looking
+into both the universality of personality disorder and issues of
+under-diagnosis or misdiagnosis.
+
+The question of why psychiatrists stigmatise personality disorder is
+complex and not simple to answer. In addition to the issues discussed
+above in relation to caring for these often emotionally draining
+patients, it is of relevance that specific features of BPD can cause
+negative attitudes. It is known that a wide range of impulsive and
+potentially self-damaging behaviours are observed, especially early in
+the course of the disorder.\ :sup:`(n.d.x),(n.d.y)` These include
+gambling, irresponsible money handling, reckless driving and unsafe
+sexual practices,\ :sup:`(n.d.z)` as well as problematic substance use,
+self-harm, suicidal behaviour and disordered
+eating.\ :sup:`(n.d.aa)–(n.d.ab)` Most of these behaviours carry strong
+moral connotations, sometimes challenging social norms, and can thus
+provoke negative reactions, triggering clinicians' implicit beliefs and
+possibly prejudices towards such behaviours.
+
+While mounting anti-stigma campaigns may be required, the finding of a
+greater lack of purpose in clinicians in working with personality
+disorder allows for more modest and targeted intervention. Lack of
+purpose and therapeutic pessimism raise the importance of designing
+targeted interventions which may include training in personality
+disorder. As personality disorder is prevalent in all psychiatric
+settings, this is an important part of training for all psychiatrists.
+
+.. _S8:
+
+Limitations
+-----------
+
+Limitations of the present study include the small sample numbers,
+which, despite a reasonable response rate for a questionnaire study,
+makes it difficult to rely on comparisons between the groups, and thus
+compromises the power of the study. Our study population is taken from
+only two mental health trusts in the UK. However, the trusts cover both
+inner and outer London areas, and the training programmes are similar to
+those of others in the UK, as there is a specific framework for
+postgraduate training in psychiatry.
+
+.. _S9:
+
+Recommendations
+---------------
+
+Increased training in evidence-based practice for generalist mental
+health professionals in borderline personality disorder may address the
+issue of clinicians' lack of sense of purpose. The emphasis is thus on
+increasing the skills of clinicians in managing personality disorder in
+general psychiatric settings, which usually lack the structure, training
+and resources to deal with these complex patients. The difficulties
+faced by general psychiatry clinicians have been acknowledged in the
+literature, and in that respect ‘structured clinical management’ has
+been discussed as an effective way of working with BPD patients in
+non-specialist settings, as long as certain principles are followed and
+interventions implemented.\ :sup:`(n.d.ac)`
+
+It has been shown that people with personality disorder present specific
+challenges to the therapeutic alliance.\ :sup:`(n.d.ad)–(n.d.ae)`
+Training and supervision\ :sup:`(n.d.af)–(n.d.ag)` as well as
+participation in a Balint group\ :sup:`(n.d.ah)` can improve negative
+attitudes.
+
+Patients with personality disorder can provoke strong
+countertransference reactions, there is thus an ongoing need for
+clinicians to monitor their countertransference when working with such
+patients. This highlights the ongoing need for psychotherapy training.
+Evidence-based psychotherapy treatments have a documented applicability
+as a useful model for general psychiatrists.\ :sup:`(n.d.ai)`
+Supervision and further training is also necessary for consultants, as
+they often supervise trainee doctors and inevitably influence them
+through their own attitudes to these patients.
+
+Recent research on stigma reduction has identified certain key
+ingredients that anti-stigma initiatives should take into consideration:
+a recovery emphasis and having multiple forms of social contact are
+especially important for maximising outcomes.\ :sup:`(n.d.aj)` These key
+ingredients can be taken up to introduce specific initiatives to reduce
+stigma against personality disorder. For example, Knaak *et
+al*\ :sup:`(n.d.ak)` found that a 3-hour workshop on BPD and dialectical
+behavioural therapy (DBT) was successful at improving attitudes and
+behavioural intentions towards persons with BPD. This is in line with
+those studies that show that training and education programmes tend to
+improve attitudes.
+
+.. container:: references csl-bib-body hanging-indent
+   :name: refs
+
+   .. container:: csl-entry
+      :name: ref-R1
+
+      n.d.a.
+
+   .. container:: csl-entry
+      :name: ref-R2
+
+      n.d.b.
+
+   .. container:: csl-entry
+      :name: ref-R3
+
+      n.d.c.
+
+   .. container:: csl-entry
+      :name: ref-R4
+
+      n.d.d.
+
+   .. container:: csl-entry
+      :name: ref-R5
+
+      n.d.e.
+
+   .. container:: csl-entry
+      :name: ref-R6
+
+      n.d.f.
+
+   .. container:: csl-entry
+      :name: ref-R7
+
+      n.d.g.
+
+   .. container:: csl-entry
+      :name: ref-R8
+
+      n.d.h.
+
+   .. container:: csl-entry
+      :name: ref-R9
+
+      n.d.i.
+
+   .. container:: csl-entry
+      :name: ref-R10
+
+      n.d.j.
+
+   .. container:: csl-entry
+      :name: ref-R11
+
+      n.d.k.
+
+   .. container:: csl-entry
+      :name: ref-R12
+
+      n.d.l.
+
+   .. container:: csl-entry
+      :name: ref-R13
+
+      n.d.m.
+
+   .. container:: csl-entry
+      :name: ref-R14
+
+      n.d.n.
+
+   .. container:: csl-entry
+      :name: ref-R15
+
+      n.d.o.
+
+   .. container:: csl-entry
+      :name: ref-R16
+
+      n.d.q.
+
+   .. container:: csl-entry
+      :name: ref-R17
+
+      n.d.p.
+
+   .. container:: csl-entry
+      :name: ref-R18
+
+      n.d.r.
+
+   .. container:: csl-entry
+      :name: ref-R19
+
+      n.d.s.
+
+   .. container:: csl-entry
+      :name: ref-R20
+
+      n.d.t.
+
+   .. container:: csl-entry
+      :name: ref-R21
+
+      n.d.u.
+
+   .. container:: csl-entry
+      :name: ref-R23
+
+      n.d.v.
+
+   .. container:: csl-entry
+      :name: ref-R24
+
+      n.d.w.
+
+   .. container:: csl-entry
+      :name: ref-R25
+
+      n.d.x.
+
+   .. container:: csl-entry
+      :name: ref-R26
+
+      n.d.y.
+
+   .. container:: csl-entry
+      :name: ref-R27
+
+      n.d.z.
+
+   .. container:: csl-entry
+      :name: ref-R28
+
+      n.d.aa.
+
+   .. container:: csl-entry
+      :name: ref-R31
+
+      n.d.ab.
+
+   .. container:: csl-entry
+      :name: ref-R32
+
+      n.d.ac.
+
+   .. container:: csl-entry
+      :name: ref-R33
+
+      n.d.ad.
+
+   .. container:: csl-entry
+      :name: ref-R35
+
+      n.d.ae.
+
+   .. container:: csl-entry
+      :name: ref-R36
+
+      n.d.af.
+
+   .. container:: csl-entry
+      :name: ref-R39
+
+      n.d.ag.
+
+   .. container:: csl-entry
+      :name: ref-R40
+
+      n.d.ah.
+
+   .. container:: csl-entry
+      :name: ref-R41
+
+      n.d.ai.
+
+   .. container:: csl-entry
+      :name: ref-R42
+
+      n.d.aj.
+
+   .. container:: csl-entry
+      :name: ref-R43
+
+      n.d.ak.
+
+.. [1]
+   **Dimitrios Chartonas**, ST4–6 in general adult psychiatry, Camden
+   and Islington NHS Foundation Trust, London, UK; **Michalis
+   Kyratsous**, ST4–6 in general adult psychiatry, South London and
+   Maudsley NHS Foundation Trust, London, UK; **Sarah Dracass**,
+   Consultant Psychiatrist, and **Tennyson Lee**, Consultant
+   Psychiatrist in Psychotherapy, both at East London NHS Foundation
+   Trust, London, UK; **Kamaldeep Bhui**, Professor of Cultural
+   Psychiatry and Epidemiology, Queen Mary University of London, and
+   Honorary Consultant Psychiatrist, East London NHS Foundation Trust,
+   London, UK.

@@ -1,0 +1,625 @@
+=============================================
+Should psychiatrists ‘Google’ their patients?
+=============================================
+
+G. Alice Ashby
+Aileen O'Brien
+Deborah Bowman
+Carwyn Hooper
+Toby Stevens
+Esther LousadaCorrespondence to G. Alice Ashby
+(alice.lomax@swlstg-tr.nhs.uk)  [1]_
+:Date: 2015-12
+
+:Abstract:
+   Since its beginnings in the 1980s the internet has come to shape our
+   everyday lives, but doctors still seem rather afraid of it. This
+   anxiety may be explained by the fact that researchers and regulatory
+   bodies focus less on the way that the internet can be used to enhance
+   clinical work and more on the potential and perceived risks that this
+   technology poses in terms of boundary violations and accidental
+   breaches of confidentiality. Some aspects of the internet's impact on
+   medicine have been better researched than others, for example,
+   whether email communication, social media and teleconferencing
+   psychotherapy could be used to improve the delivery of care. However,
+   few authors have considered the specific issue of searching online
+   for information about patients and much of the guidance published by
+   regulatory organisations eludes this issue. In this article we
+   provide clinical examples where the question ‘should I Google the
+   patient?’ may arise and present questions for future research.
+
+
+.. contents::
+   :depth: 3
+..
+
+.. _S1:
+
+Background
+==========
+
+The internet is a part of everyday life and access to it is growing at a
+startling rate. According to the United Nations' specialised agency for
+information and communication technologies (the International
+Telecommunication Union), by the end of 2014, 3 billion people,
+approximately 43% of the world's population, will have access to the
+internet, compared with 60 million people in 2000. The number of
+mobile-broadband subscriptions will reach 2.3 billion globally by the
+end of 2014, almost five times as many as in 2008.\ :sup:`(n.d.a)`
+Social media has also weaved its way into people's lives over the past
+decade. There were 802 million daily active users and 1.28 billion
+monthly active users of the social media site Facebook in March 2014,
+and over 80% of the daily users of Facebook are based outside the USA
+and Canada.\ :sup:`(n.d.b)` According to the Office for National
+Statistics, the UK has one of the highest rates of social media use in
+Europe, with almost half of all adults (48%) using social networking
+sites such as Facebook and Twitter.\ :sup:`(n.d.c)`
+
+Some aspects of the internet's impact on medicine have been better
+investigated than others. Various authors have looked at whether email
+could be used as an acceptable form of communication between doctor and
+patient.\ :sup:`(n.d.d),(n.d.e)` Psychiatrists have also looked into the
+possibility of using video teleconferencing for
+psychotherapy.\ :sup:`(n.d.f)` The use (and misuse) of social media by
+doctors, in terms of professionalism and boundary violations, has been
+studied.\ :sup:`(n.d.g),(n.d.h)` This has led to a plethora of
+professional regulatory bodies and other medical organisations
+publishing guidelines to help doctors navigate the internet in general
+and social media in particular.\ :sup:`(n.d.i)-(n.d.j)` The published
+guidance is reasonably thorough: guidelines concentrate on the advice
+given to professionals about their use of social media sites, and their
+profile on them. Professionals are advised against forming friendships
+with patients online. However, professional bodies are often behind the
+curve in doing this. For example, the UK's General Medical Council
+guidelines were first published on the 25 March 2013,\ :sup:`(n.d.i)` a
+full 9 years after Facebook was founded.\ :sup:`(n.d.k)`
+
+The issue of searching online for patient information has caught the
+imagination of doctors and ethicists writing in the
+blogosphere.\ :sup:`(n.d.l)-(n.d.m)` Many raise concerns about the
+potential ethical ‘slippery slope’ of Googling your patient, but raise
+examples where it may be justifiable. However, there has been little
+discussion in formal medical ethics and law literature about this issue.
+There is also a paucity of official guidance to help doctors navigate
+their way through this particular online minefield. For example, the
+British Medical Association's guidance on social media does not refer to
+this issue at all and the Royal College of Psychiatrists in the UK has
+not yet issued any guidance in relation to this kind of online activity.
+Where professional guidance does touch upon the issue of ‘online
+searching’ it focuses on the problems that can arise when patients
+‘Google’ their doctors rather than the other way around. We are not
+aware of any legal cases in this particular area either. In sum, there
+is an apparent regulatory lacuna in terms of whether and if so, how,
+doctors should use the internet to dig around in their patients' digital
+backyards.
+
+The lack of research and guidance in this area is increasingly
+problematic because a great deal of information about patients is now
+available at the click of a search box button. Many of us are
+documenting our lives online far more than might have ever been expected
+20 years ago and doctors and patients can now find out a huge amount
+about each other online with relatively little effort.\ :sup:`(n.d.n)`
+In addition many patients post personal information online that could
+potentially harm them or have an impact on clinical assessments by their
+healthcare professionals and a growing number of doctors admit to using
+the internet to search for general clinical information.\ :sup:`(n.d.o)`
+
+Clinton *et al* provide the only comprehensive review of the literature
+on the ethical difficulties surrounding searching online for information
+about patients, something they term ‘patient-targeted Googling’
+(PTG).\ :sup:`(n.d.p)` They provide a list of questions for
+psychiatrists to consider before deciding whether to use PTG, shown in
+Box 1.\ :sup:`(n.d.p)` They argue that PTG can be an acceptable clinical
+tool but warn against ‘unbridled PTG simply because online information
+is legally available in the public domain’. They describe possible
+conflicts, such as using ‘Google Earth’ to look at photographs of a
+patient's large house, when the person has not paid for psychotherapy
+(the authors are based in the USA), and compare this with driving past
+the patient's house, which would be considered by many to be a boundary
+violation.\ :sup:`(n.d.p)` This raises questions about whether such
+media reconstitute the meaning of boundary violation: is looking at
+‘Google Earth’ as intrusive as going to look at someone's house in
+person? The internet, whether we like it or not, has caused pre-existing
+boundaries to blur.
+
+In this paper we will look at the potential benefits and harms related
+to internet searching being used as a clinical investigative tool and
+propose some questions for future research. In this article we use the
+word ‘Google’ as a verb intentionally, as it has become part of our
+everyday English language, meaning ‘to use an internet search engine to
+find information’.
+
+.. _S2:
+
+Checking conflicting and falsified information
+==============================================
+
+Internet searching for information about patients may mean finding
+things you did not expect, that the patient had not shared or had even
+lied about. Should we use the internet to investigate factitious
+disorder or malingering?
+
+Volpe *et al* discuss a case involving a 26-year-old patient who had
+requested a prophylactic bilateral mastectomy with reconstruction
+because of an extensive family history of cancer, where there was
+suspicion among the clinical team that some of the history was
+fabricated.\ :sup:`(n.d.q)` In the paper Volpe, Blackall and Green argue
+that ‘uninvited patient Googling’ is bad practice for three reasons.
+First, it bypasses the personal relationship and makes it too easy to
+terminate a relationship with a patient, and to avoid discussion of
+personal topics. Second, it erodes provider-patient trust. Third, it
+represents an invasion of privacy. They also make the point that it is
+unclear why a healthcare professional would not just ask the individual
+in person if they had any concerns about them. In the same paper,
+George, Baker and Kaufmann argue for the opposite
+position.\ :sup:`(n.d.q)` They note that it would be ‘irresponsible not
+to exhaust all resources in learning about a patient with such troubling
+red flags’. They argue that the finding of a factitious disorder via the
+patient's two Facebook pages ‘saved a team of professionals from aiding
+and abetting a fraudulent, deceptive and self-injurious scheme’,
+stopping them from breaking their oath to first ‘do no
+harm’.\ :sup:`(n.d.q)`
+
+Clinton *et al* ask how the discovery of important information found
+online would then be broached with the patient and how this information
+should be documented in the medical notes.\ :sup:`(n.d.p)`
+Interestingly, no author we could find in a literature search had
+considered whether an online search could be performed with the
+patient's informed consent and, perhaps, in the patient's presence. In
+the Volpe *et al* case, for example, the surgical and genetics teams
+used an internet search in what they believed to be the patient's best
+interests, without telling her beforehand. What is also not explained is
+how the patient was told she would not be having surgery and what
+reasons the patient was given for this decision.
+
+.. _S3:
+
+Uncovering dangerous lifestyle choices
+======================================
+
+Doctors could Google their patients in order to investigate concordance
+with advice about treatment and lifestyle changes, including advice
+about not driving or misusing various drugs. Psychiatrists, in
+particular, might be interested in discovering whether a patient with
+psychosis is drinking alcohol heavily or using other substances, which
+might cause or exacerbate psychotic symptoms.
+
+Farnan *et al*'s main concern is that ‘digitally tracking the personal
+behaviours of patients, such as determining whether they have indeed
+quit smoking or are maintaining a healthy diet, may threaten the trust
+needed for a strong patient-physician relationship’.\ :sup:`(n.d.r)` The
+violation of trust might occur because patients assume that doctors do
+not perform such searches (i.e. the violation relates to a real, or
+perceived, deceit) or because they feel that such activity violates
+important boundaries. Gabbard *et al* note that the boundary violation
+may be the nub of the problem.\ :sup:`(n.d.s)` It is hard to imagine how
+the doctors in the Volpe *et al* case, described above, approached their
+patient with the information found on her Facebook accounts. If the
+information was related to her – as it presumably was – it is hard to
+see how this could have led to a positive, therapeutic, outcome. Indeed,
+the patient may well have felt betrayed by the team caring for her.
+
+Of course, if a doctor can find out about such things as alcohol and
+drug misuse by searching in the ‘online public domain’, the same holds
+true for other people. Accessing information on an internet search
+engine or social media site would be much easier for a patient's future
+employer than accessing a person's medical records without their
+consent. In an era of recovery-oriented medicine, including supporting
+people to return to work, perhaps we should be proactively and openly
+discussing online presence, for example as part of the employment
+support provided by a community psychiatry team?
+
+.. _S4:
+
+Mistaken identity
+=================
+
+Another problem may arise from the fact that many people have the same
+names. How do we know information found on Google about a patient is
+actually about them? If you Google one of our names (G.A.L.), an online
+namesake is a character from the film ‘The Devil's Advocate’, in fact
+‘Alice Lomax’ in the film is Satan's child's mother. We doubt anyone is
+actually confused by this, but clearly less obvious confusions might
+happen, and the simple answer is that identities online cannot be
+absolutely confirmed. Furthermore an individual may use pseudonyms, or
+internet information might obviously be wrong, as anyone can post
+anything.
+
+If, however, we had asked for informed consent from the patient to do
+the search in the first place, especially if they were present during
+the search, the potential for confusion could be reduced because they
+could identify any obvious errors with ease. The patient could also more
+openly discuss with their doctor any negative – and potentially
+defamatory – comments posted about them online by other people and it
+would also help doctors identify situations where the patient was the
+victim of ‘cyber-bullying’.
+
+.. _S5:
+
+Delusions of grandeur or reality?
+=================================
+
+An internet search can act as a form of collateral history. For example
+consider a man who presents with an exuberant, energetic persona, speaks
+rather quickly and loudly, and then tells his doctor he knows some
+Royals and has written a famous book or been in a film. Googling his
+name might immediately clarify whether these were grandiose delusions
+and this information might also make a difference in determining whether
+or not the patient is diagnosed with mania in the context of bipolar
+disorder.
+
+Clearly the difficulty with this is that something being online does not
+mean it is true. It is possible to ‘be who you want to be’ online; to
+invent an ideal persona or avatar is almost as simple as revealing
+information about yourself that ‘you did not want to be made public’.
+However, we suspect that many clinical psychiatrists have used Google
+for this purpose before, as often multiple references, or references on
+trusted sites, can give reassurance that what someone is saying is true.
+There is a clear negative side to this however. Patients in psychiatry
+may be particularly vulnerable to not being ‘believed’ and routine
+Googling to check what the person has said might reinforce this tendency
+and stigma.
+
+.. _S6:
+
+Mental health monitoring using social media
+===========================================
+
+Consider a long-term patient with severe depression, who has regular
+appointments with a community psychiatry team. Could someone from the
+mental health team monitor the patient's mental state via their social
+media feed or blog, with their consent? Assuming people write honestly
+and use the same websites regularly, social media can give a unique,
+time-relevant insight into a person's mental state. For example a
+Facebook ‘status’ or a ‘tweet’ on Twitter might often include
+information about how a person is feeling. The posting of certain
+pictures and videos or even ‘emoticons’ (cartoon faces depicting
+different emotions) might also reveal important insights into the
+patient's current frame of mind.
+
+Clearly, if psychiatrists were to monitor mental state in this way, it
+would fundamentally change how mental health systems work, but it is not
+as far fetched as it sounds. It would not necessarily involve a person
+constantly watching the millions of messages streaming via a forum,
+Facebook or Twitter feed, which would clearly be impossible. The
+technology to automatically flag the use of certain phrases in emails or
+on social media already exists, and a team at Dartmouth University in
+the USA, involving computer scientists and psychiatrists are developing
+this technology to help prevent suicide, as part of *The Durkheim
+Project*.\ :sup:`(n.d.t)`
+
+Familiarity with the internet does depend on age. Marc Prenksy describes
+‘digital natives’ as compared with ‘digital immigrants’, born before the
+‘rapid dissemination of digital technology in the last decades of the
+20th Century’.\ :sup:`(n.d.u)` He, fairly terrifyingly asserts that
+today's average university graduate has ‘spent less than 5,000 hours of
+their lives reading, but over 10,000 hours playing video games [and]
+20,000 hours watching TV’ and that ‘as a result of this ubiquitous
+environment and the sheer volume of their interaction with it … think
+and process information fundamentally differently from their
+predecessors’. There is evidence that young people who self-harm find it
+easier to express their feelings honestly and openly in an online forum
+than during a face-to-face consultation and would prefer
+this.\ :sup:`(n.d.v)`
+
+This suggests to us that we should be open to different methods of
+communication with different age groups, as not doing so means we may
+miss vital information. In the mastectomy case described above, George,
+in the paper with Volpe and colleagues, goes further, and suggests we
+should use all the resources we have where there are ‘red flags’, and
+that not using an internet search would be negligent in some
+cases.\ :sup:`(n.d.q)` This tracking would, potentially, allow
+interventions to be made, for example to intervene urgently if a patient
+was suicidal. Clearly the difficulty with this is that doctors cannot
+check the online ‘statuses’ of all their patients all the time, and it
+would be difficult to gauge where responsibilities would stop and what
+the standard duty of care amount to in such cases. In addition, tracking
+a patient's blog, or social media feed might actually, quite rightly,
+increase a sense of paranoia.
+
+.. _S7:
+
+Safeguarding vulnerable adults online
+=====================================
+
+Given that anyone and everyone can read what is openly online, an online
+search can sometimes protect vulnerable adults from abuse from others.
+Cyber-bullying, for example, involves threatening or derogatory messages
+posted on social media sites or online chat forums. It might also
+include things like encouragement to lose weight in anorexia nervosa or
+messages inciting self-harm or violence. Discussing this issue openly
+with patients and carers, in the same way that psychiatrists would
+openly discuss other risk issues, seems sensible. Also imagine a young
+man with paranoid schizophrenia who is in hospital, very unwell with
+psychosis, and finds it frustrating that no one ‘believes’ what he is
+experiencing. He tells his psychiatrist to look at his blog online, in
+order to full understand what he means. The team agree that with
+informed consent it is acceptable to do this search and they proceed
+with the online search. In the process they find that the blog, which
+has almost daily entries, gives good information about when the patient
+started to become unwell since there is marked evidence that his thought
+disorder and delusional beliefs increased in severity over the course of
+the past few weeks. However, the team also see that in one blog post,
+the patient has included sensitive personal information about himself,
+including his home address. They discuss this with him, and how
+vulnerable this might potentially make him, and arrangements are made
+for the blog post to be taken down.
+
+In this situation the patient has given permission for the online search
+and has, in fact, asked the team to specifically read his online blog.
+In such cases searching online for information seems reasonable.
+However, this kind of scenario raises deeper ethical questions about
+whether mental health professionals should be proactively discussing
+online presence with patients, not just to find out information about
+deteriorating mental state, or to help holistically with recovery, but
+also to safeguard vulnerable individuals and potentially assess risk to
+others, for example by discovering threats made online in the context of
+illness.
+
+.. _S8:
+
+Only Googling when there is no other option
+===========================================
+
+Searching for information about a patient online should also clearly be
+done on a ‘need to know’ basis and not purely out of curiosity or
+voyeurism. Imagine a core trainee being called to a forensic psychiatry
+in-patient unit on-call, which they do not usually work on, to examine a
+patient who might have a chest infection. We would not expect this
+doctor to search online to find out what crime was committed by the
+patient because this information has no bearing on the patient's
+physical problem and will not help the doctor to provide whatever
+treatment the patient may need. In fact, the internet search might even
+have an impact on the ability of the doctor to treat the patient in an
+impartial and non-judgemental manner, especially if the crime was
+especially heinous.
+
+Of course, doctors have the right to protect themselves from harm and
+the need to perform a risk assessment may mean that the doctor would
+need to know about any danger posed by the patient. However, there would
+be no indication for an internet search in this case as other members of
+the team would know the patient's history well and would be able to
+inform the doctor if the patient was dangerous. The doctor could also,
+of course, consult the patient's notes if no other team members were
+available to consult.
+
+.. _S9:
+
+To consent or not to consent?
+=============================
+
+Would it be better practice to routinely ask consent and is informed
+consent possible for a Google search in psychiatry? The key elements of
+consent for an intervention in medicine usually include patient
+competence, the health professional giving clear information about
+potential benefits and risks and voluntariness. Many psychiatric
+patients fulfil all of these requirements and could, thus, consent to an
+online search. However, some of the patients in whom an online search
+may be a useful ‘investigation’ may not have the mental capacity to
+consent.
+
+Likewise, patients on a psychiatry ward or in clinic may feel coerced
+into allowing an internet search, feeling that a ‘no’ will mean doctors
+will get suspicious or carry out a more ‘invasive’ online search without
+their consent. It is also worth pointing out that some patients might
+want to delete a few posts and images before the search is carried out
+because they deem some information to be ‘embarrassing’ (for example a
+photograph of them when they were an ‘awkward’ teenager). This does not
+seem unreasonable but it might be difficult if the doctor wants to
+conduct the search immediately. We are also concerned about the
+discussion about risks and benefits: if we do not know exactly what we
+will look for or find, is discussing the relative merits of a search
+possible? It is unusual for a doctor to discuss every possible finding
+of a magnetic resonance imaging scan or blood test with a patient before
+carrying it out, but of course the standard expected would be that
+relevant information is shared.
+
+Informing patients would neuter the problem associated with deceit,
+however, it would not deal with the problem of potential boundary
+violations and it would not solve the potential for coercion either. The
+only way around these problems would be to seek consent from every
+single patient and make it clear that any refusal would be honoured. In
+other words, perhaps we should seek consent to search online for
+information about patients just like we ask for consent to speak to a
+relative or friend to discuss a patient's condition? If we were to do
+this openly, perhaps the risk that patients might become upset or angry
+about the process might be reduced and, as Chretien & Kind note, this
+would help to limit foreseen harms.\ :sup:`(n.d.w)` There may be
+situations where risk to the patient, or to others, means that a Google
+search is appropriate without the patient's consent.
+
+.. _S10:
+
+Mental health specific concerns
+===============================
+
+Some of the ethical issues raised may be more pertinent to psychiatry
+than to other branches of medicine. Many patients will have experienced
+the validity of what they are saying being doubted by their doctors. If
+psychiatrists embrace PTG it could be seen as another paternalistic
+intervention. The capacity of patients in psychiatry will by the nature
+of their conditions be more likely to be impaired than in other branches
+of medicine. They may well lack capacity to understand the consequences
+of what they post on Facebook if, for example, manic and may cause
+damage to work and social relationships as a result. This raises
+difficult questions for concerned family and professionals about looking
+at posts on the internet, and even trying to get posted information
+removed.
+
+.. _S11:
+
+Conclusions and proposals for future research
+=============================================
+
+Many questions remain unanswered about the acceptability of Googling
+patients, especially those with mental ill-health, from an ethical and
+legal point of view. There is clearly an urgent need for this topic to
+be addressed in the ethics and medical law literature.
+
+Should psychiatrists Google patients at all? Should they do it
+routinely, for all their patients? Should they ask for consent each and
+every time? Should they share the information with the patient? These
+kinds of questions urgently need to be addressed by ethicists and
+psychiatrists alike. We feel that when making a decision to Google a
+patient, it would be appropriate to work through a list of questions and
+reflect on how one would respond, the most important question being ‘why
+am I doing this internet search, and is it likely to help my patient?’
+
+Further analysis of the legality of conducting Google searches is also
+needed. Given that the kind of online searches we are talking about here
+would only involve looking for information that is already in the public
+domain it is not clear that this activity could be considered unlawful.
+However, the lack of case law in this area makes the legality of the
+activity harder to judge.
+
+We feel that clear guidelines are needed from the bodies that regulate
+health professionals on the use of internet searching, and where these
+newly emerging doctor-patient boundaries lie, especially within
+psychiatry. We propose that more empirical research is needed on this
+topic. For example, we would like to know how widespread the practice of
+PTG is among health professionals, and whether this varies depending on
+age, experience or professional group. Much more qualitative information
+is needed about the views of patients, their friends and families, and
+healthcare professionals about this kind of activity: the problems it
+might cause and potential benefits.
+
+Failing to make use of modern technology when this technology can
+improve patient care is not an option. Failing to discuss the merits and
+demerits of using online searchers in an open and honest fashion is not
+really an option either. The reality is that the internet has become an
+integral part of our daily lives and medicine as a whole, and psychiatry
+in particular, need to get to grips with what this means for modern
+medical practice.
+
+.. container:: references csl-bib-body hanging-indent
+   :name: refs
+
+   .. container:: csl-entry
+      :name: ref-R1
+
+      n.d.a.
+
+   .. container:: csl-entry
+      :name: ref-R2
+
+      n.d.b.
+
+   .. container:: csl-entry
+      :name: ref-R3
+
+      n.d.c.
+
+   .. container:: csl-entry
+      :name: ref-R4
+
+      n.d.d.
+
+   .. container:: csl-entry
+      :name: ref-R5
+
+      n.d.e.
+
+   .. container:: csl-entry
+      :name: ref-R6
+
+      n.d.f.
+
+   .. container:: csl-entry
+      :name: ref-R7
+
+      n.d.g.
+
+   .. container:: csl-entry
+      :name: ref-R8
+
+      n.d.h.
+
+   .. container:: csl-entry
+      :name: ref-R9
+
+      n.d.i.
+
+   .. container:: csl-entry
+      :name: ref-R13
+
+      n.d.j.
+
+   .. container:: csl-entry
+      :name: ref-R14
+
+      n.d.k.
+
+   .. container:: csl-entry
+      :name: ref-R15
+
+      n.d.l.
+
+   .. container:: csl-entry
+      :name: ref-R17
+
+      n.d.m.
+
+   .. container:: csl-entry
+      :name: ref-R18
+
+      n.d.n.
+
+   .. container:: csl-entry
+      :name: ref-R19
+
+      n.d.o.
+
+   .. container:: csl-entry
+      :name: ref-R20
+
+      n.d.p.
+
+   .. container:: csl-entry
+      :name: ref-R21
+
+      n.d.q.
+
+   .. container:: csl-entry
+      :name: ref-R22
+
+      n.d.r.
+
+   .. container:: csl-entry
+      :name: ref-R23
+
+      n.d.s.
+
+   .. container:: csl-entry
+      :name: ref-R24
+
+      n.d.t.
+
+   .. container:: csl-entry
+      :name: ref-R25
+
+      n.d.u.
+
+   .. container:: csl-entry
+      :name: ref-R26
+
+      n.d.v.
+
+   .. container:: csl-entry
+      :name: ref-R27
+
+      n.d.w.
+
+.. [1]
+   **G. Alice Ashby** is a specialist registrar/ST6 in psychiatry in the
+   South West London and St George's Mental Health Trust. **Aileen
+   O'Brien** is a senior lecturer in general adult psychiatry in the
+   Institute of Medical and Biomedical Education, St George's,
+   University of London and honorary consultant at the South West London
+   and St George's Mental Health Trust. **Deborah Bowman** is a
+   professor of bioethics, clinical ethics and medical law at the
+   Institute of Medical and Biomedical Education, St George's,
+   University of London. **Carwyn Hooper** is a senior lecturer in
+   medical ethics and law at the Institute of Medical and Biomedical
+   Education, St George's, University of London. **Toby Stevens** is a
+   medical student at St George's, University of London. **Esther
+   Lousada** is a medical student at St George's, University of London.

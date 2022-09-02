@@ -1,0 +1,716 @@
+=======================================================================================================
+Police involvement, characteristics and outcomes of place of safety referrals in the Scottish Highlands
+=======================================================================================================
+
+Struan Simpson
+Jude Eze [1]_Correspondence to Struan Simpson (struan.simpson@nhs.net)
+:Date: 2020-12
+
+:Abstract:
+   .. rubric:: Aims and method
+      :name: sec_a1
+
+   To characterise police involvement with those detained under place of
+   safety legislation and determine factors associated with admission to
+   hospital. Place of safety referrals over a 1-year period were
+   identified retrospectively and evaluated.
+
+   .. rubric:: Results
+      :name: sec_a2
+
+   Place of safety legislation is generally used with regard to concerns
+   about suicide. Individuals are often removed from high-risk areas and
+   referrals to police are frequently initiated by individuals
+   themselves. A diagnosis of mental illness or personality disorder
+   predicted hospital admission. Presence of senior nursing staff at
+   assessment, but not the seniority of the doctor, was associated with
+   discharge.
+
+   .. rubric:: Clinical implications
+      :name: sec_a3
+
+   Closer multiagency working is required as police are currently being
+   recruited to fill a void between mental health services and the
+   population they serve. Junior doctors require more senior support in
+   making complex, and often risky, emergency management decisions with
+   this population.
+
+
+.. contents::
+   :depth: 3
+..
+
+Place of safety legislation permits police officers to remove
+individuals thought to be mentally disordered and in need of immediate
+mental health assessment to a facility where this assessment can be
+carried out. Such legislation exists in many countries, including the
+UK,\ :sup:`(n.d.a),(n.d.b)` Germany,\ :sup:`(n.d.c)` South
+Africa,\ :sup:`(n.d.d)` Australia\ :sup:`(n.d.e)` and the
+USA.\ :sup:`(n.d.f)` Powers and legislation vary between and within
+countries but in general police must suspect a mental disorder *and*
+perceive significant, acute or serious risk of danger or harm to the
+individual concerned or to others in order to permit removal to a place
+of safety. In Scotland this power is detailed under section 297 of the
+Mental Health (Care and Treatment) (Scotland) Act 2003\ :sup:`(n.d.a)`
+(this detention lasts for up to 24 h or until the individual has been
+assessed); similar powers in England and Wales are under section 136 of
+the Mental Health Act 1983.\ :sup:`(n.d.b)`
+
+There have been efforts to reduce use of police stations as a place of
+safety, reduce overall use of the legislation and improve knowledge of
+the legislation.\ :sup:`(n.d.g)–(n.d.h)` Practice, however, remains
+variable across Scotland\ :sup:`(n.d.i)` and the rest of the
+UK.\ :sup:`(n.d.j),(n.d.k)` In Scotland the use of this legislation is
+rising, with 795 detentions in 2015–2016, up from 130 in
+2006–2007.\ :sup:`(n.d.i)`
+
+There is reasonable reporting of place of safety use and the
+characteristics of those subject to the
+legislation\ :sup:`(n.d.a),(n.d.e),(n.d.l)–(n.d.m)` but little is known
+about the nature of police involvement and which factors, if any, are
+associated with hospital admission. This study in the Scottish Highlands
+aimed to characterise the nature of police involvement with those
+detained under place of safety legislation, the demographics of this
+population and aspects of the assessment process to determine factors
+that might be associated with admission.
+
+.. _sec1:
+
+Method
+======
+
+We conducted a retrospective study by review of medical case records,
+including Place of Safety forms (POS1, v7.0) completed by police
+constables, of all individuals brought under place of safety legislation
+to New Craigs Hospital, Inverness in the NHS Highland region (the
+designated place of safety for the NHS Highland health board) between
+April 2016 and March 2017. All place of safety referrals were included
+in the project, including repeat detentions for any one individual.
+Individuals who were already in-patients when the place of safety
+legislation was applied were excluded from the analyses regarding
+admission to hospital.
+
+Referrals were identified by collecting POS1 forms from the medical
+records department and cross-referencing with a place of safety referral
+record sheet in the intensive psychiatric care unit (IPCU), which is
+where most place of safety referrals are assessed. The junior doctor's
+assessment book and mental health assessment team's diary were also
+consulted to ensure that as many place of safety referrals as possible
+were identified. In an attempt to determine completeness of these
+records the Mental Welfare Commission for Scotland was contacted.
+Information about the assessment team's wider activity was gained from
+their team diary, which is updated reliably after each assessment. The
+POS1 form completed by police is not statutory and therefore any
+referral identified in case notes as being under place of safety
+legislation was included.
+
+The POS1 form has an open text box to give details of the ‘circumstances
+giving rise to the removal of the aforementioned person to a place of
+safety.’ In all cases where a POS1 form was available this information
+was qualitatively analysed to characterise the nature of police
+involvement, the reasons for concerns and the reasons for the decisions
+made. Diagnosis was determined from clinical records and kept to broad
+ICD-10 diagnostic categories; more than one diagnosis was permitted, for
+example comorbid substance misuse and personality disorder. Diagnoses
+were often already established from clinical records rather than being
+based on the single urgent assessment.
+
+Population data for calculating rates of referral are from census data
+from National Records of Scotland, a non-ministerial government
+department charged with collecting information about Scotland's people
+and history.\ :sup:`(n.d.n)`
+
+The project was part of service development and audit and therefore did
+not require ethical approval.
+
+.. _sec1-1:
+
+Statistical analysis
+--------------------
+
+Statistical analyses were performed using Minitab 17.1.0 and SPSS 22.0
+statistical software, both for Windows. The association between
+categorical and outcome variables was assessed using Pearson
+χ\ :sup:`2`-tests; where the cell count was low the likelihood-ratio
+chi-squared test was used. For continuous variables, Student's *t*-tests
+were performed. Given repeated referrals of some individuals,
+multivariable binary logistic mixed-effects regression was performed to
+predict admission using individuals as the random effect in order to
+account for individual-specific effect and control for the fixed effects
+of age, gender, diagnosis and distance from place of safety on
+detention. Robust estimation procedure was used to obtain the estimate
+of covariance matrix in order to ensure that model assumptions were met.
+Estimates of effects are presented as odds ratios (OR) and 95%
+confidence intervals (CI). The level of significance was set at
+*P* < 0.05.
+
+.. _sec2:
+
+Results
+=======
+
+We identified 237 place of safety referrals over the 1-year study
+period. Of these, 97% (*n* = 231) were recorded on the place of safety
+record form in the hospital IPCU and 99% (*n* = 234) had a completed
+POS1 form. The yearly referral rate under place of safety legislation
+for the health board was 74 per 100 000 population (NHS Highland serves
+about 320 000 people and is sparsely populated, covering an area of
+32 500 km\ :sup:`2`: around a quarter of this population live in
+Inverness and surrounding areas). The referrals were for 185 different
+individuals, with 30 (16%) being brought on more than one occasion over
+the study period (the highest number was five referrals, which occurred
+for three individuals).
+
+.. _sec2-1:
+
+Time variation in place of safety referrals
+-------------------------------------------
+
+The rate of referral was similar throughout the year and did not vary by
+month (χ\ :sup:`2` = 12.06, *P* = 0.359) or day of the week
+(χ\ :sup:`2` = 4.63, *P* = 0.592). Detention under place of safety
+legislation was most likely to occur between 12.00 h and 17.00 h and
+least likely between 06.00 h and 12.00 h (χ\ :sup:`2` = 48.81,
+*P* < 0.001), however no particular time of detention was associated
+with admission to hospital (χ\ :sup:`2` = 6.99, *P* = 0.221).
+
+.. _sec2-2:
+
+Characteristics and outcome of individuals referred
+---------------------------------------------------
+
+The characteristics and outcomes of place of safety referrals are
+detailed in `Table 1 <#tab01>`__ (analysis of 230 referrals). The
+admission rate overall was 33% (*n* = 75), with only 15% (*n* = 11) of
+those admitted being involuntarily under the Mental Health (Care and
+Treatment) (Scotland) Act 2003. The admission rate for those brought on
+place of safety legislation is not significantly different from the
+admission rate for those seen by the assessment team referred from other
+sources, i.e. referred by health professionals not police
+(χ\ :sup:`2` = 0.41, *P* = 0.521); 79% (*n* = 182) of those referred had
+at least one previous contact with local mental health services. Table
+1Characteristics and outcomes of place of safety
+referralMeasureAll\ `a <#tfn1_1>`__\ Admitted\ `a <#tfn1_1>`__\ Not
+admitted\ *P*\ Referrals, *n* (%)230 (100)75 (32)155 (68)–Age, years:
+mean (s.d.)35.5 (12.1)36.5 (12.9)34.9 (11.7)0.408Males, *n* (%)151
+(66)43 (57)108 (69)0.065Previously known to local services, *n* (%)177
+(77)55 (73)122 (79)0.364Assessed with senior nurse present, *n* (%)198
+(86)58 (77)140 (90)0.026Grade of assessing doctor, *n* (%)Foundation
+year 249 (21)19 (25)30 (19)0.809General practice trainee75 (33)23 (31)52
+(34)Core psychiatry trainee (year 1 or 2)62 (27)21 (28)41 (26)Core
+psychiatry trainee (year 3) or above44 (19)12 (16)32 (21)Diagnosis,
+broad ICD-10 category:`b <#tfn1_2>`__ *n* (%)10 – Substance use
+disorders115 (50)27 (36)88 (57)0.00320 – Non-affective psychotic
+disorders17 (7)13 (17)4 (3)<0.00130 – Affective disorders9 (4)6 (8)3
+(2)0.03340 – Anxiety and stress disorders16 (7)7 (9)9 (6)0.32450 –
+Eating disorders1 (0)0 (0)1 (1)–60 – Personality disorders79 (34)30
+(40)49 (32)0.20970 – Intellectual disability\ `c <#tfn1_3>`__\ 13 (6)7
+(9)6 (4)0.09380 – Developmental disorders0 (0)0 (0)0 (0)–‘No mental
+illness’/‘social stress’45 (20)3 (4)42 (27)<0.001Approximate distance of
+detention from hospital,\ `a <#tfn1_1>`__\ :sup:`,`\ `d <#tfn1_4>`__ *n*
+(%)0–5 miles154 (67)42 (56)112 (72)0.0185–10 miles9 (4)4 (5)5 (3)10–15
+miles13 (6)5 (6)8 (5)15–20 miles14 (6)7 (9)7 (5)>20 miles13 (6)9 (12)4
+(3) [2]_ [3]_ [4]_ [5]_
+
+Where individuals were not admitted most were discharged to their own
+home or in care of friends/family (*n* = 136/155, 88%); in a small
+number of cases individuals were taken into police custody (*n* = 6, 4%)
+or transferred for medical care in the local general hospital (*n* = 7,
+5%).
+
+It is local policy for place of safety referral assessments, where
+possible, to be performed by two assessors. All place of safety
+referrals were seen by a doctor (of various grades but generally junior
+doctors in training up to CT3 grade; in only one case was assessment by
+a consultant) and most with a senior assessment nurse present
+(*n* = 198, 86%) – where senior assessment nurses were not available,
+doctors completed assessments with ward nursing or auxiliary staff or
+alone. There was a high degree of variability in admission rates, with a
+median of 29% (IQR = 39, range 0–100), but this was not influenced by
+the training grade of the doctor (χ\ :sup:`2` = 1.60, *P* = 0.809). The
+presence of a senior assessment nurse was associated with patients not
+being admitted following assessment (χ\ :sup:`2` = 4.98, *P* = 0.026).
+
+Admission was less likely for individuals where it was thought
+difficulties were related to substance misuse (χ\ :sup:`2` = 9.88,
+*P* = 0.003), social stress (χ\ :sup:`2` = 14.18, *P* < 0.001) or if
+there was felt to be no evidence of mental illness (χ\ :sup:`2` = 6.43,
+*P* = 0.011). A personality disorder diagnosis was proportionately more
+common in those admitted following assessment but not significantly so
+(χ\ :sup:`2` = 1.57, *P* = 0.209). Diagnoses of non-affective psychotic
+disorders (χ\ :sup:`2` = 16.07, *P* < 0.001) and affective disorders
+(χ\ :sup:`2` = 4.55, *P* = 0.033) were more prevalent in individuals
+admitted following assessment.
+
+Most of the place of safety referrals were from the local area, with 67%
+(*n* = 154) from within 5 miles of the hospital – this gives a yearly
+referral rate of 248 per 100 000 population for Inverness. The number of
+referrals reduces with increasing distance from the hospital but as
+distance from hospital increases admission is more likely
+(χ\ :sup:`2` = 11.87, *P* = 0.018). The prevalence of substance misuse
+diagnoses reduces with increasing distance from the hospital
+(χ\ :sup:`2` = 12.18, *P* = 0.016).
+
+If individuals were admitted to hospital the median length of stay was 6
+nights (IQR = 22, range 0–136). Significantly shorter admissions were
+seen for individuals who had a substance misuse diagnosis
+(χ\ :sup:`2` = 11.32, *P* = 0.023). No other diagnoses were associated
+with the length of admission.
+
+.. _sec2-3:
+
+Nature of police involvement from POS1 forms
+--------------------------------------------
+
+Police were alerted to individuals subsequently detained on place of
+safety legislation in a variety of ways (`Fig. 1 <#fig01>`__). Usually
+the alert came from concerned friends or family members (26%,
+*n* = 62/234), but it was also common for individuals to make themselves
+known to police (23%, *n* = 53), usually by telephone (15%, *n* = 34)
+but in some instances by walking into police stations (7%, *n* = 16).
+Fig. 1How police were alerted to individuals subsequently detained under
+the Mental Health (Care and Treatment) (Scotland) Act 2003 (total
+*n* = 234).Self-contact included presentation to a police station,
+telephoning police or approaching police in the street. Professional
+report was concern raised by health professionals or mental health
+support agencies such as Breathing Space. In some cases it was not clear
+from the Place of Safety (POS1) form details how the police had been
+alerted.
+
+The most common reason cited for police being involved was expression of
+suicidal ideation (73%, *n* = 167/230) (`Table 2 <#tab02>`__); 28%
+(*n* = 65) of individuals had made a gesture towards suicide (e.g.
+holding knife at their throat or being at a risky area on a bridge), and
+only 7% (*n* = 17) had made an attempt on their life (e.g. cut at their
+throat or removed from river after jumping in). Voicing suicidal
+ideation (χ\ :sup:`2` = 23.58, *P* < 0.001), making a suicidal gesture
+(χ\ :sup:`2` = 5.45, *P* = 0.020) and making an attempt on their life
+(χ\ :sup:`2` = 4.43, *P* = 0.035) were all associated with not being
+admitted to hospital. Table 2Qualitative analysis of Place of Safety
+(POS1) forms for place of safety referrals\ `a <#tfn2_1>`__\ Details
+recorded on POS1 formsAll\ `b <#tfn2_2>`__ (*n* = 230)Admitted
+(*n* = 75)Not admitted (*n* = 155)\ *P*\ Descriptors of harm to self,
+*n* (%)Voiced suicidal ideation167 (73)40 (53)127 (82)<0.001Had made
+suicidal gesture65 (28)14 (19)51 (33)0.020Had made suicide attempt17
+(7)2 (3)15 (10)0.035Voiced intent to self-harm24 (10)4 (5)20
+(13)0.057Had performed self-harm17 (7)2 (3)15 (10)0.035Police noted
+previous suicide attempt20 (9)5 (7)15 (10)0.413Other descriptors, *n*
+(%)Precipitating events, e.g. break-up/debts28 (12)4 (5)24
+(15)0.027Anxiety4 (2)2 (3)2 (1)0.454Depression/low mood16 (7)3 (4)13
+(8)0.220Odd beliefs, perceptual disturbance, paranoia34 (15)18 (24)16
+(10)0.006Agitation/emotional/strange behaviours38 (17)17 (23)21
+(13)0.081Expressed intent to harm others3 (1)1 (1)2 (1)–Location of
+detention under place of safety legislation, *n* (%)Public minor road56
+(24)18 (24)38 (25)0.932High-risk area, e.g. bridge/major road39 (17)12
+(16)27 (17)0.788Inside public building31 (13)12 (16)19 (12)0.436Directly
+outside own home21 (9)9 (12)12 (8)0.293Inside own home15 (7)2 (3)13
+(8)0.100Within hospital grounds5 (2)2 (3)3 (2)0.721Rural area, e.g.
+woodland6 (3)1 (1)5 (3)0.371Unclear57 (25)19 (25)38 (25)0.893 [6]_ [7]_
+
+In only a small proportion of referrals did police give information
+beyond that focusing on suicidality. Of note, there was infrequent
+recording of the events that led to the individual now experiencing
+difficulties. Where this was detailed it was usually brief and a social
+stressor (e.g. split from partner or financial concerns) – in cases
+where a stressor was identified (by police) individuals were usually not
+admitted (χ\ :sup:`2` = 4.87, *P* = 0.027). Police did report details
+about odd beliefs, paranoia or perceptual disturbances (e.g. hearing
+voices or responding to unseen stimuli) in 34 referrals (15%) – this was
+associated with admission to hospital (χ\ :sup:`2` = 7.51, *P* = 0.006)
+*and* with non-affective psychotic disorder diagnoses
+(χ\ :sup:`2` = 4.85, *P* = 0.028). In the small number of referrals in
+which police described behaviours (outwith the suicidal acts/gestures),
+these descriptions were often very general and would not necessarily be
+related to mental ill health, for example ‘highly emotional’, ‘acting in
+a strange manner’, ‘agitated’, ‘shouting nonsense’, ‘unpredictable’ or
+‘hysterical.’
+
+Police were called to a range of areas in response to concerns for
+individuals subsequently detained under place of safety legislation
+(`Table 2 <#tab02>`__). The location from which individuals were removed
+was not associated with subsequent admission to hospital even when
+removal was from high-risk areas such as bridges or major roads
+(χ\ :sup:`2` = 0.07, *P* = 0.788). In 7% of cases (*n* = 15/230) it
+appeared that individuals had been removed from their own home, which is
+not permitted under place of safety legislation in
+Scotland.\ :sup:`(n.d.a)`
+
+.. _sec2-4:
+
+Multivariable binary logistic mixed-effects model
+-------------------------------------------------
+
+When controlled for age, gender and distance from the place of safety
+(i.e. the hospital) in a multivariable binary logistic mixed-effects
+regression with individuals as the random effect, the odds of admission
+were significantly higher for diagnosis of non-affective psychotic
+disorder (OR = 32.93, 95% CI 4.33–250.17, *P* = 0.001), affective
+disorder (OR = 15.13, 95% CI 2.15–106.61, *P* = 0.007), anxiety and
+stress disorder (OR = 7.01, 95% CI 1.21–40.93, *P* = 0.037),
+intellectual disability (OR = 17.58, 95% CI 2.32–130.02, *P* = 0.007)
+and personality disorder (OR = 5.49, 95% CI 1.21–24.86, *P* = 0.027)
+relative to those without a diagnosis of mental illness. Substance
+misuse was not significantly associated with admission (OR = 2.78, 95%
+CI 0.64–12.08, *P* = 0.170). Although not statistically significant, the
+individual's age was positively associated with admission and the odds
+of admission were higher for women than men. Also, odds of admission
+increased with distance from the place of safety – the farther the
+distance the higher the odds of admission. The use of individuals as the
+random effect ensures that extra-individual variations resulting from
+repeat referrals are adjusted for and this is evidenced in the size of
+the confidence intervals of the estimates.
+
+.. _sec3:
+
+Discussion
+==========
+
+Place of safety referrals constitute a significant proportion of urgent
+mental health assessments within the NHS Highland region – up to
+one-third of assessments within the study hospital. The recording of
+these referrals in the hospital appears to be reliable and numbers are
+in keeping with data from the Mental Welfare Commission for
+Scotland.\ :sup:`(n.d.i)` NHS Highland accounts for perhaps up to 20% of
+all place of safety referrals in Scotland;\ :sup:`(n.d.o)` this is
+proportionately lower than a local study 10 years ago, when up to 50%
+were in the NHS Highland health board.\ :sup:`(n.d.g),(n.d.o)` However,
+it is of note that in the current study almost 70% of place of safety
+referrals occurred within a few miles of the designated place of safety.
+This is unlikely to be simply due to population factors despite the
+place of safety being located in Inverness. The place of safety referral
+rate per year for Inverness is 248 per 100 000 – over 10 times the rate
+for Scotland as a whole and 3 times that for the health board with the
+highest referral rate in Scotland.\ :sup:`(n.d.i)` Under-reporting in
+some Scottish health boards is likely to contribute to this variation
+but does not fully explain the vast differences. Looking more broadly,
+this referral rate is also significantly higher than in studies in
+England, where rates are reported between 59.8 per 100 000 in the
+North-East\ :sup:`(n.d.k)` and 169 per 100 000 in Ipswich,
+Suffolk.\ :sup:`(n.d.j)` There appears to be excessive use of this
+restrictive legislation in Inverness – factors driving this are likely
+to be poorer joint working, workload pressures and a lack of
+availability of alternative options of disposal/help for those in
+crisis. There are a striking number of referrals where individuals have
+sought help from police rather than from local mental health services.
+This supports the proposal in a recent Mental Welfare Commission for
+Scotland place of safety report that there is a gap between service
+provision and the needs of this distressed population.\ :sup:`(n.d.i)`
+
+Police are responding to distressed individuals in a range of locations,
+from their own home to high-risk situations on major roads or high
+bridges. Where place of safety legislation is used, this is
+overwhelmingly in response to concerns about suicide risk. This study
+does show that police do well in identifying those in need of mental
+health support – the admission rate of police referrals is identical to
+that from other sources and they detail evidence of psychosis on their
+referrals. The language used by police in describing behaviours includes
+terms such as ‘highly emotional’ and ‘hysterical’ – these are commonly
+used terms but could be stigmatising for those with mental health
+difficulties. Targeted training and support for officers may well
+improve their interaction with distressed individuals and make
+involvement with police a less daunting experience for those with mental
+health problems.
+
+The characteristics of those referred under place of safety legislation
+in the Scottish Highlands are similar to those reported elsewhere in
+terms of age, gender and outcome.\ :sup:`(n.d.j),(n.d.l),(n.d.p)`
+However, in this study substance misuse problems are possibly more
+prevalent and were felt to be contributing to presentation in almost 50%
+of referrals whereas the proportion of severe mental illness is probably
+slightly lower.\ :sup:`(n.d.f),(n.d.p)` The compulsory admission rate is
+significantly lower (15%, compared with up to 50%) than in other
+reports, likely reflective of the lower proportion of individuals with
+severe mental illness.\ :sup:`(n.d.j),(n.d.l)`
+
+This study identified that presence of senior nurses influenced outcomes
+of assessments and recognised that there is significant variability in
+admission rates by doctors at all training grades. It is therefore
+important to ensure that experienced staff are conducting assessments
+and consideration should be given to a model that ensures
+multidisciplinary input such as that used in England and
+Wales,\ :sup:`(n.d.b)` where approved mental health professionals
+(AMHPs) support the assessment process, including follow-up care
+arrangements for those not admitted. Further, with evidence in Scotland
+that trainees are doing fewer emergency
+assessments,\ :sup:`(n.d.q),(n.d.r)` ensuring that trainees are well
+supported by senior medical staff in completing these assessments is
+crucial.
+
+.. _sec3-1:
+
+Predicting outcomes and length of hospital stay
+-----------------------------------------------
+
+Predicting outcome of assessments is challenging given the nature of any
+mental health crisis, as difficulties are very individualised. However,
+diagnosis appears to be a primary factor in the decision-making process.
+In general, where referrals are identified as being related to primarily
+social stressors or substance misuse problems admission to hospital is
+avoided or, where felt necessary, kept as short as possible. A diagnosis
+of severe mental illness was associated with admission but not any
+particular length of admission, and perhaps in some cases a short
+admission plays a containing role rather than being for treatment itself
+when individuals are presenting via police. Personality disorder
+diagnosis was associated with admission to hospital despite extensive
+local training, resource and a new integrated care pathway which states
+that admission for those with personality disorder is ‘at best neutral
+and at worst harmful’.\ :sup:`(n.d.s)` It is likely that a combination
+of factors influence the decision to admit – those with personality
+disorder diagnoses may be in a high degree of crisis that cannot always
+be de-escalated over a single assessment and may be thought of as being
+at high acute risk of suicide, given their language, circumstances,
+social supports or expression of plans for suicide following assessment
+if they leave the place of safety. In addition, they may be displaying
+‘pseudopsychotic’ phenomena that are felt to require admission for
+further assessment. In this context the seniority and experience of the
+assessing team is also likely to be important.
+
+If individuals were detained further from the place of safety, admission
+was more likely – this is probably related to service provision in more
+rural areas, i.e. lack of crisis response teams as well as
+practicalities in supporting discharge to more rural areas in the
+evenings and overnight.
+
+Expression of suicidality or self-harm in itself is not helpful in
+determining outcome, although it is an important factor in
+decision-making and risk assessment/management. Given that suicidal
+expression is actually associated with not being admitted, it may be
+that in such circumstances services could offer alternative
+interventions or supports (to police and individuals) to avoid use of
+legislation and the ‘frightening’ experience of being detained under
+place of safety legislation.\ :sup:`(n.d.t)` Future studies exploring
+outcomes and service use in those with suicidality not admitted would be
+helpful in guiding service development and delivery.
+
+.. _sec3-2:
+
+Strengths and limitations
+-------------------------
+
+This study has a lengthy period of data collection and a relatively
+large sample. This makes it similar to other studies in this field,
+which helps to allow any variation/patterns to be identified.
+Characteristics of the population are also similar to those reported
+elsewhere. This is the first study to analyse the nature of police
+involvement and link this with outcome of the mental health assessment.
+Efforts were made to ensure that all recognised place of safety
+referrals, especially those with completed POS1 forms, were identified
+over the study period – unfortunately, despite being contacted the
+Mental Welfare Commission for Scotland did not provide information to
+cross-reference those included in the project, which would strengthen
+the data-set. However, given the multiple sources and communications
+systems within the hospital and across the health board we are confident
+that the majority of place of safety referrals were identified. The
+study was carried out retrospectively, which limits the information
+available. Given the retrospective nature and use of a clinical cohort,
+diagnostic categories were kept broad and thus open to a degree of
+interpretation. However, the decisions and diagnoses made reflect
+day-to-day practice and thus findings are clinically informative.
+
+.. _sec3-3:
+
+Improving practice
+------------------
+
+When individuals are brought by police to a place of safety it is
+important to complete an individualised assessment. Diagnosis is an
+important factor in the decision-making process and practitioners should
+remember that individuals not expressing suicidal ideation also have a
+significant mental health burden and may require admission. Experienced
+practitioners should be involved in multidisciplinary assessment where
+possible and it is crucial that junior medical staff are well supported
+by senior colleagues in making decisions.
+
+Police are frequently responding to mental health crises and seem to do
+well in identifying those in need of urgent service contact. Training
+would likely improve knowledge and interaction between service users and
+police\ :sup:`(n.d.u)` but is unlikely to have a major impact on the use
+of legislation or characteristics of those
+referred.\ :sup:`(n.d.f),(n.d.p),(n.d.t)` Street triage services where
+police work more closely with mental health services (via telephone or
+in mobile units) are becoming established across the UK and are
+positively received by police officers.\ :sup:`(n.d.v)` Recent
+systematic reviews highlight that there is a suggestion of positive
+outcomes such as reduced referrals and use of police
+jurisdiction\ :sup:`(n.d.w)` but there remains limited robust evidence
+of efficacy and a lack of clarity on the best model for
+services.\ :sup:`(n.d.v)–(n.d.x)`
+
+Ultimately this study identifies a breakdown between mental health
+services and those who require support, with police being recruited to
+fill the void. Joint working to improve awareness of and access to
+mental health services before crisis will be important in reducing use
+of restrictive legislation and improving outcomes.
+
+We thank the nursing and medical staff of Affric Ward, New Craigs
+Hospital, Inverness, for their assessment of patients and record-keeping
+of police place of safety referrals, and the medical administration
+staff for their assistance in sourcing medical records and POS1 forms.
+We also thank Dr Amy MacAskill (consultant psychiatrist) and Barbara
+Brodie (clinical effectiveness coordinator) for their advice and
+guidance in putting together this study.
+
+S.S. is the lead author; he designed the projected, carried out data
+collection, completed initial statistical analysis and wrote the
+majority of the paper. J.E. provided support to the basic statistical
+analysis and data presentation within the paper, carried out analysis
+for the multivariable binary logistic mixed-effects model, and wrote the
+sections describing statistical testing and the output of the
+multivariable binary logistic mixed-effects model. Both authors were
+involved in production of the final version after peer review and meet
+ICMJE criteria for authorship.
+
+**Struan Simpson** is a specialty doctor at the Phoenix Centre, Raigmore
+Hospital, Inverness, UK. **Jude Eze** is a quantitative scientist at the
+Epidemiology Research Unit (Inverness Campus), Scotland's Rural College
+(SRUC), Inverness, UK.
+
+.. container:: references csl-bib-body hanging-indent
+   :name: refs
+
+   .. container:: csl-entry
+      :name: ref-ref1
+
+      n.d.a.
+
+   .. container:: csl-entry
+      :name: ref-ref2
+
+      n.d.b.
+
+   .. container:: csl-entry
+      :name: ref-ref3
+
+      n.d.c.
+
+   .. container:: csl-entry
+      :name: ref-ref4
+
+      n.d.d.
+
+   .. container:: csl-entry
+      :name: ref-ref5
+
+      n.d.e.
+
+   .. container:: csl-entry
+      :name: ref-ref6
+
+      n.d.f.
+
+   .. container:: csl-entry
+      :name: ref-ref7
+
+      n.d.g.
+
+   .. container:: csl-entry
+      :name: ref-ref8
+
+      n.d.o.
+
+   .. container:: csl-entry
+      :name: ref-ref9
+
+      n.d.h.
+
+   .. container:: csl-entry
+      :name: ref-ref10
+
+      n.d.i.
+
+   .. container:: csl-entry
+      :name: ref-ref11
+
+      n.d.j.
+
+   .. container:: csl-entry
+      :name: ref-ref12
+
+      n.d.k.
+
+   .. container:: csl-entry
+      :name: ref-ref13
+
+      n.d.l.
+
+   .. container:: csl-entry
+      :name: ref-ref14
+
+      n.d.p.
+
+   .. container:: csl-entry
+      :name: ref-ref15
+
+      n.d.m.
+
+   .. container:: csl-entry
+      :name: ref-ref16
+
+      n.d.n.
+
+   .. container:: csl-entry
+      :name: ref-ref17
+
+      n.d.q.
+
+   .. container:: csl-entry
+      :name: ref-ref18
+
+      n.d.r.
+
+   .. container:: csl-entry
+      :name: ref-ref19
+
+      n.d.s.
+
+   .. container:: csl-entry
+      :name: ref-ref20
+
+      n.d.t.
+
+   .. container:: csl-entry
+      :name: ref-ref21
+
+      n.d.u.
+
+   .. container:: csl-entry
+      :name: ref-ref22
+
+      n.d.v.
+
+   .. container:: csl-entry
+      :name: ref-ref23
+
+      n.d.w.
+
+   .. container:: csl-entry
+      :name: ref-ref24
+
+      n.d.x.
+
+.. [1]
+   **Declaration of interest:** None.
+
+.. [2]
+   Excludes individuals who left the hospital during an in-patient stay
+   and were returned by police under place of safety legislation.
+
+.. [3]
+   Diagnosis obtained from assessment/discharge letters and kept in
+   broad diagnostic categories, more than one diagnosis was permitted
+   owing to frequent comorbidity, e.g. personality disorder and
+   substance misuse.
+
+.. [4]
+   Also known as learning disability in UK health services.
+
+.. [5]
+   It was not possible to determine the location of detention in 12%
+   (*n* = 27) of referrals from the Place of Safety (POS1) forms.
+
+.. [6]
+   POS1 forms were available for 227 of the 230 referrals.
+
+.. [7]
+   Excludes individuals who left the hospital during an in-patient stay
+   and were returned by police under place of safety legislation.

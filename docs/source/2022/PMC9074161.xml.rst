@@ -2,11 +2,11 @@
 Views on psychotherapy research among members of the Medical Psychotherapy Faculty of the Royal College of Psychiatrists
 ========================================================================================================================
 
-:Author: Marcella Fok
-:Author: Tennyson Lee
-:Author: Jessica YakeleyCorrespondence to Dr Marcella Fok
-         (marcella.fok@nhs.net)
+Marcella Fok
+Tennyson Lee
+Jessica YakeleyCorrespondence to Dr Marcella Fok (marcella.fok@nhs.net)
 :Date: 2022-04
+
 :Abstract:
    .. rubric:: Aims and method
       :name: sec_a1
@@ -40,6 +40,10 @@ Views on psychotherapy research among members of the Medical Psychotherapy Facul
    psychotherapy but in other psychiatric disciplines as well.
 
 
+.. contents::
+   :depth: 3
+..
+
 pmc
 Research is a cornerstone of psychiatry in all its areas of knowledge,
 understanding and practice. As a branch of psychiatry, psychotherapy
@@ -53,18 +57,18 @@ Let us begin by outlining the issue: what is the problem regarding
 research in psychotherapy? There is evidence that psychoanalytic
 psychotherapy services within the public sector in the UK have been
 disproportionately reduced compared with other mental health
-services.\ :sup:`1` This may be due to a lack of a robust evidence base
-in psychoanalytically oriented psychotherapy compared with other
+services.\ :sup:`(n.d.a)` This may be due to a lack of a robust evidence
+base in psychoanalytically oriented psychotherapy compared with other
 modalities, such as cognitive–behavioural therapy. However, high-quality
 research in psychoanalytic psychotherapy can substantially advance our
 knowledge of the efficacy of treatment of different mental
-disorders.\ :sup:`2` Within the psychoanalytic community a lack of
-understanding and interest in research persists;\ :sup:`3,4` this is
-reinforced by a (real and perceived) split in the community between
-academics, who do research, and clinicians, who see patients. Many of
-the trials in psychodynamic psychotherapy have lacked sufficient
+disorders.\ :sup:`(n.d.b)` Within the psychoanalytic community a lack of
+understanding and interest in research persists;\ :sup:`(n.d.c),(n.d.d)`
+this is reinforced by a (real and perceived) split in the community
+between academics, who do research, and clinicians, who see patients.
+Many of the trials in psychodynamic psychotherapy have lacked sufficient
 methodological rigour and do not necessarily reflect real-life
-practice.\ :sup:`5`
+practice.\ :sup:`(n.d.e)`
 
 Among psychoanalytic psychotherapists, resistance to research is driven
 by several factors. Research methods (such as manualisation of
@@ -74,7 +78,7 @@ clinical technique and practice. Practising therapists may have a poor
 understanding of the research currency of statistics and numbers and end
 up finding research activity mindless and meaningless. Moreover,
 research is treated with suspicion, as it may challenge established and
-cherished theories.\ :sup:`5`
+cherished theories.\ :sup:`(n.d.e)`
 
 Nevertheless, there are strong reasons for psychotherapists to engage in
 research. We need first to investigate the efficacy and outcomes of
@@ -90,12 +94,12 @@ with colleagues.
 
 One should bear in mind that psychiatric practice involves at its heart
 the use of a therapeutic relationship, and research into aspects of this
-relationship can reap useful and highly applicable rewards.\ :sup:`6–8`
-The relative sparsity of research in this area reflects the current
-dominance of the biomedical paradigm within psychiatry. The predominance
-of cognitive–behavioural therapy, alongside the biomedical paradigm, has
-played a part in the neglect of psychotherapy research among
-psychiatrists.
+relationship can reap useful and highly applicable
+rewards.\ :sup:`(n.d.f)–(n.d.g)` The relative sparsity of research in
+this area reflects the current dominance of the biomedical paradigm
+within psychiatry. The predominance of cognitive–behavioural therapy,
+alongside the biomedical paradigm, has played a part in the neglect of
+psychotherapy research among psychiatrists.
 
 The Faculty of Medical Psychotherapy of the Royal College of
 Psychiatrists has a membership consisting of psychiatrists who practise
@@ -473,13 +477,13 @@ at large. The Faculty has a large number of quiescent members and this
 is also a factor in the low response rate. To put this in context, there
 were only 269 doctors with medical psychotherapy (or psychotherapy) as
 their specialty listed on the General Medical Council specialist
-register in 2019.\ :sup:`9` This indicates that we had 42/269 (16%) of
-specialty-listed medical psychotherapists responding in this survey.
-Many of these doctors may not be working in designated psychotherapy
-posts or be practising psychotherapy. The number of doctors in
-postgraduate training in medical psychotherapy in the UK in the same
-year was 37. This indicates we had 14/37 (38%) of medical psychotherapy
-trainees responding.
+register in 2019.\ :sup:`(n.d.h)` This indicates that we had 42/269
+(16%) of specialty-listed medical psychotherapists responding in this
+survey. Many of these doctors may not be working in designated
+psychotherapy posts or be practising psychotherapy. The number of
+doctors in postgraduate training in medical psychotherapy in the UK in
+the same year was 37. This indicates we had 14/37 (38%) of medical
+psychotherapy trainees responding.
 
 One expects that members who are more research-inclined were more likely
 to take time to respond to the survey, thus biasing the results towards
@@ -568,7 +572,7 @@ already has an established partnership with an academic institution,
 links for psychotherapy research can be set up and formally endorsed by
 both organisations. Previous research has indicated that, to be willing
 to participate in research, psychotherapists expected high-quality
-designs, financial compensation and personal gains.\ :sup:`10` This
+designs, financial compensation and personal gains.\ :sup:`(n.d.i)` This
 indicates the importance of support to therapists at both research and
 career-progression levels to encourage more participation in research.
 
@@ -588,9 +592,9 @@ planned, for example establishing research networks, linking trainees
 with supervisors, conferences and workshops on research, and campaigning
 for more equitable academic opportunities nationally. Given the role of
 medical psychotherapists in combining a medical, psychiatric and
-psychotherapeutic perspective,\ :sup:`11` it is critically important
-that this unique perspective is brought to bear on the psychotherapy
-research agenda.
+psychotherapeutic perspective,\ :sup:`(n.d.j)` it is critically
+important that this unique perspective is brought to bear on the
+psychotherapy research agenda.
 
 We thank Steve Pearce (Chair of the Faculty of Medical Psychotherapy)
 for advising on the survey design and Adrian James (Registrar of the
@@ -695,6 +699,59 @@ with psychotherapy research? Extremely interested; Very interested;
 Somewhat interested; Not so interested; Not at all interested. Please
 leave your name and email and say something about your specific
 interestPlease leave any further comments you have on this subject here
+
+.. container:: references csl-bib-body hanging-indent
+   :name: refs
+
+   .. container:: csl-entry
+      :name: ref-ref1
+
+      n.d.a.
+
+   .. container:: csl-entry
+      :name: ref-ref2
+
+      n.d.b.
+
+   .. container:: csl-entry
+      :name: ref-ref3
+
+      n.d.c.
+
+   .. container:: csl-entry
+      :name: ref-ref4
+
+      n.d.d.
+
+   .. container:: csl-entry
+      :name: ref-ref5
+
+      n.d.e.
+
+   .. container:: csl-entry
+      :name: ref-ref6
+
+      n.d.f.
+
+   .. container:: csl-entry
+      :name: ref-ref8
+
+      n.d.g.
+
+   .. container:: csl-entry
+      :name: ref-ref9
+
+      n.d.h.
+
+   .. container:: csl-entry
+      :name: ref-ref10
+
+      n.d.i.
+
+   .. container:: csl-entry
+      :name: ref-ref11
+
+      n.d.j.
 
 .. [1]
    CCT, Certificate of Completion of Training; SAS: Specialist and

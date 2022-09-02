@@ -1,0 +1,576 @@
+===========================================================================
+Homelessness, housing instability and mental health: making the connections
+===========================================================================
+
+Deborah K. PadgettCorrespondence to Deborah K. Padgett (dkp1@nyu.edu)
+:Date: 2020-10
+
+:Abstract:
+   Research on the bi-directional relationship between mental health and
+   homelessness is reviewed and extended to consider a broader global
+   perspective, highlighting structural factors that contribute to
+   housing instability and its mental ill health sequelae. Local,
+   national and international initiatives to address housing and mental
+   health include Housing First in Western countries and promising local
+   programmes in India and Africa. Ways that psychiatrists and
+   physicians can be agents of changes range from brief screening for
+   housing stability to structural competence training. Narrow
+   medico-scientific framing of these issues risks losing sight of the
+   foundational importance of housing to mental health and well-being.
+
+
+.. contents::
+   :depth: 3
+..
+
+.. _sec1:
+
+Mental illness and homelessness
+===============================
+
+The bi-directional relationship between mental ill health and
+homelessness has been the subject of countless reports and a few
+misperceptions. Foremost among the latter is the popular notion that
+mental illness accounts for much of the homelessness visible in American
+cities. To be sure, the failure of deinstitutionalisation, where
+psychiatric hospitals were emptied, beginning in the 1960s, led to far
+too many psychiatric patients being consigned to group homes, shelters
+and the streets.\ :sup:`(n.d.a)` However, epidemiological studies have
+consistently found that only about 25–30% of homeless persons have a
+severe mental illness such as schizophrenia.\ :sup:`(n.d.b)`
+
+At the same time, the deleterious effects of homelessness *on* mental
+health have been established by research going back decades. Early
+epidemiological studies, comparing homeless persons with their domiciled
+counterparts, found that depression and suicidal thoughts were far more
+prevalent, along with symptoms of trauma and substance
+misuse.\ :sup:`(n.d.b),(n.d.c)` A recent meta-analysis found that more
+than half of homeless and marginally housed individuals had traumatic
+brain injuries – a rate far exceeding that of the general
+population.\ :sup:`(n.d.d)` Qualitative interviews with street homeless
+persons bring to life the daily struggles and emotional toll of exposure
+not only to the elements but to scorn and harassment from passers-by and
+the police.\ :sup:`(n.d.e)`
+
+In the USA, healthcare professionals were among the first responders to
+the homelessness ‘epidemic’ of the 1980s. The Robert Wood Johnson
+Foundation Health Care for the Homeless initiative funded 19 health
+clinics around the nation, beginning in 1985. Individual physicians,
+including Jim Withers in Pittsburgh and Jim O'Connell in Boston, made it
+their mission to go out on the streets rather than participating in the
+‘institutional circuit’\ :sup:`(n.d.f)` that led so many homeless men
+and women to cycle in and out of emergency departments, hospitals and
+jails. Health problems such as skin ulcerations, respiratory problems,
+and injuries were the visible indicia of what foretold a shortened
+lifespan.\ :sup:`(n.d.g)` Less visible but no less dire are the
+emotional sequelae of being unhoused – children are especially
+susceptible to the psychological effects of homelessness and housing
+instability.\ :sup:`(n.d.h)` The gap between mental health needs and
+service availability for the homeless population is vast.
+
+.. _sec2:
+
+The bigger picture: global housing instability and structural factors
+=====================================================================
+
+Literal homelessness – sleeping rough in places unfit for human
+habitation – can be seen as the tip of an iceberg of housing insecurity
+affecting millions of people around the world.\ :sup:`(n.d.i)` As with
+attempts to count the number of homeless people and the definitional
+difficulties attending such counts,\ :sup:`(n.d.j)` providing an
+estimate of the number of housing-unstable persons globally is
+definitionally and logistically challenging. In terms of slum dwellers
+(a prevalent form of housing instability), Habitat for Humanity cites
+estimates ranging from 900 000 to 1.6 billion.\ :sup:`(n.d.k)` The
+Dharavi slum in Mumbai has one million residents squeezed into two
+square kilometres, one of the densest human settlements in the
+world.\ :sup:`(n.d.k)` Substandard housing affects the well-being of
+inhabitants – crowding, poor sanitation and infestations bring their own
+risks to health and mental health.\ :sup:`(n.d.l)`
+
+Severe housing shortages in low-income countries contrast with the
+greater availability of housing in higher-income countries. And yet the
+visibility and persistence of homelessness in wealthier nations attests
+to the effects of growing income inequities in the midst of plenty. In
+the USA, attempts to address homelessness must take several structural
+barriers into account. First, housing is fundamentally viewed as a
+commodity and is bound up with economic gains in the forms of tax
+benefits for homeowners and builders, equity or wealth accumulation from
+owning property, and developers’ profits from housing market
+speculation.\ :sup:`(n.d.m)` The worst ‘slumlords’ (landlords who own
+and rent decrepit properties to poor families) reap greater levels of
+profit than their counterparts who build for affluent buyers or
+renters.\ :sup:`(n.d.n)` Second, exclusionary zoning ordinances ensure
+protection of single-family properties, thus reducing housing
+availability for renters and preventing multi-family
+dwellings.\ :sup:`(n.d.o)` Finally, access to housing is not a purely
+economic proposition. The effects of centuries of *de facto* and *de
+jure* racial exclusion continue to uniquely harm African Americans in
+denying them access to housing and associated wealth accumulation, thus
+contributing to their disproportionate representation among homeless
+persons in the USA.\ :sup:`(n.d.o)`
+
+The ultimate causes of homelessness are upstream, i.e. a profound lack
+of affordable housing due in large part to neo-liberal government
+austerity policies that prevent or limit public funding for housing,
+gentrification that displaces working and poor families, and growing
+income disparities that make paying the rent beyond the means of
+millions of households. Currently, more than half of US households must
+devote over 50% of their income to paying for housing, an unprecedented
+level of rent burden.\ :sup:`(n.d.n)` Farmer refers to this phenomenon
+as ‘structural violence’: the combined and cumulative effects of
+entrenched socioeconomic inequities that give rise to varied forms of
+social suffering.\ :sup:`(n.d.p)` Social suffering does not easily align
+with existing psychiatric nomenclatures and diagnostic algorithms, but
+its influence on health through chronic stress and allostatic overload
+weakens immune systems and erodes emotional well-being.\ :sup:`(n.d.q)`
+
+.. _sec3:
+
+International and national initiatives
+======================================
+
+Interestingly, since its 1948 declaration of a right to
+housing,\ :sup:`(n.d.r)` the United Nations (UN) has generally steered
+clear of re-enunciating such a right until the Sustainable Development
+Goals (SDGs) were announced in 2015. Subsumed within SDG #11, labelled
+‘sustainable cities and communities’, is Target 11.1 of ‘safe and
+affordable housing for all by 2030’.\ :sup:`(n.d.s)` The UN Special
+Rapporteur on the right to adequate housing, Leilani Farha, recently
+submitted a set of guidelines for achieving this goal.\ :sup:`(n.d.t)`
+
+In the global south, access to mental healthcare for the most vulnerable
+is extremely limited despite legislative initiatives to expand such
+care\ :sup:`(n.d.u),(n.d.v)` and reduce human rights abuses against
+psychiatric patients.\ :sup:`(n.d.w)` The Global Mental Health Movement
+(GMHM), which began with a series of articles in the *Lancet* in 2007
+asserting ‘no health without mental health’,\ :sup:`(n.d.x)` came
+together to address a crisis that results in a ‘monumental loss in human
+capabilities and avoidable suffering’.\ :sup:`(n.d.u)` The *Lancet*
+Commission on Global Mental Health and Sustainable Development, part of
+the GMHM, has strategically partnered with the UN's SDGs to ensure that
+mental health and substance misuse are integral to the SDGs moving
+forward.\ :sup:`(n.d.u)` And there are signs of progress – most
+originating in the work of citizen advocates and patients working
+through non-profit rather than formal government channels. In Chennai,
+India, a visionary non-profit known as The Banyan has pioneered a
+culturally and socially innovative approach, ‘Home Again’, to help
+homeless persons with severe mental illness recover their lives and live
+independently or return to their family homes.\ :sup:`(n.d.y)` In West
+Africa, advocates for AIDS and leprosy patients have turned their
+talents and expertise to developing programmes for persons with mental
+illness that are inclusive, rehabilitative and rights
+based.\ :sup:`(n.d.w)` Zimbabwe's ‘Friendship Bench’ programme, which
+situates attention to mental health within ongoing community activities,
+has been replicated worldwide.\ :sup:`(n.d.z)` Although the African
+approaches are not targeted at homeless persons, they have been heralded
+as low-barrier and inclusive – and by their location are likely to
+assist persons with housing insecurity problems among
+others.\ :sup:`(n.d.u)` The recent *Lancet* Commission report on global
+mental health\ :sup:`(n.d.u)` included mention of homelessness as both a
+cause and consequence of poor mental health.
+
+The advent of Housing First has been a rare success story at the
+programmatic and systems levels in the US, Canada and Western
+Europe.\ :sup:`(n.d.aa)` Begun in New York City as a small but
+determined counterpoint to ‘treatment first’ approaches making access to
+housing contingent on adherence, Housing First has achieved an
+impressive evidence base and extensive adaptations to new populations
+such as homeless youth, families and opioid users.\ :sup:`(n.d.aa)` By
+reversing the usual care continuum of first requiring medication
+adherence, abstinence and proof of ‘housing worthiness’, Housing First
+is the prime exemplar of an evidence-based, cost-saving enactment of the
+right to housing. Importantly, it is not ‘housing only’, i.e. support
+services including mental healthcare are essential to its
+success.\ :sup:`(n.d.ab)` Early reliance on assertive community
+treatment in Housing First support services was eventually expanded to
+include less-intensive case management supports for clients whose mental
+health recovery had proceeded further.\ :sup:`(n.d.aa)`
+
+Another evidence-based programme known as critical time intervention
+(CTI) has proven effective in preventing homelessness pending discharge
+from institutional care.\ :sup:`(n.d.ac)` Using time-sensitive intensive
+supports before and after discharge, CTI connects the patient or client
+with housing and support services to ease return to the community and
+avert falling into homelessness.\ :sup:`(n.d.ac)` Like Housing First,
+CTI has focused on persons with mental disorders but has since been
+adapted for other at-risk groups, such as clients leaving substance
+misuse treatment settings or prisons.
+
+In the USA, there are a few signs that housing as a social determinant
+of health is receiving greater recognition. The Obama-era Affordable
+Care Act offered states the opportunity to expand Medicaid eligibility
+to millions of low-income households, including coverage for mental
+healthcare.\ :sup:`(n.d.ad)` Although federal rules prohibit use of
+Medicaid funds to pay for housing (with the exception of nursing homes),
+some states have creatively used Medicaid funds for all housing-related
+services short of rent, including move-in costs and follow-up
+supports.\ :sup:`(n.d.ad)` Unfortunately, capital funding for building
+and developing new housing units remains woefully inadequate, and it is
+too often left up to the private sector to act on a profit motive
+incentivised by government subsidies and tax incentives.\ :sup:`(n.d.o)`
+Given the current national political situation in the US, positive
+change at the federal level is unlikely, but states and cities continue
+to independently seek ways to move from shelters to
+housing.\ :sup:`(n.d.ad)`
+
+The healthcare landscape in the UK offers opportunities for service
+integration under coordinated national healthcare, and the link between
+housing and health is evident in recent cooperation between the National
+Housing Federation and the Mental Health Foundation in providing
+supported accommodation for persons with mental
+disorders.\ :sup:`(n.d.ae)` In Western Europe, the establishment of
+FEANTSA (European Federation of National Organizations Working with the
+Homeless; `www.feantsa.org <www.feantsa.org>`__) in 1989 with support
+from the European Commission has brought together representatives from
+30 nations for programmatic and research initiatives (many using Housing
+First). Consideration of mental problems as cause and consequence of
+homelessness is a key component of FEANTSA's work, with psychiatrists
+actively involved in research at several sites, e.g. France's multi-city
+randomised trial of Housing First.\ :sup:`(n.d.af)`
+
+.. _sec4:
+
+Psychiatrists and physicians as agents of change
+================================================
+
+In what ways can healthcare providers help? For housing-related risk
+assessment, family or general care physicians may make use of brief
+screening items inquiring about recent moves, evictions and rent
+arrears\ :sup:`(n.d.ag)` as a means of ascertaining a patient's housing
+instability. Regrettably, there are limited programmes available to
+which to refer patients with ‘positive’ screens, but raising awareness
+and knowing a patient's life challenges can only improve care. Calls for
+medical training to include ‘structural competency’\ :sup:`(n.d.ah)`
+point to the broader importance of practitioners becoming versed in
+patients’ life circumstances linked to poverty to contextualise their
+health problems. According to Metzl and Hansen,\ :sup:`(n.d.ah)`
+structural competency is the practitioners’ trained ability to recognise
+that patients’ problems defined clinically as symptoms, attitudes or
+disease also represent the downstream implications of upstream decisions
+about housing affordability, healthcare availability, food delivery
+systems and other infrastructure supports.
+
+Some physicians have called for the right to prescribe housing as a
+means of solving this underlying problem, with the added advantage of
+reducing medical costs.\ :sup:`(n.d.ai)` Prescribing housing as a form
+of ‘preventive neuroscience’ has received support from the O'Neill
+Institute as a cost-saving humane investment in children's brain
+development.\ :sup:`(n.d.aj)` Such attention to social and environmental
+determinants of health is hardly misplaced, as they account for 90% of
+health status, with only 10% attributable to medical
+care.\ :sup:`(n.d.ad)`
+
+Homeless men and women have few encounters with physicians, much less
+psychiatrists and other formal mental healthcare providers. Those with
+diagnoses of severe mental illnesses might have an assigned psychiatrist
+to prescribe anti-psychotic medications, but these are brief encounters
+at best. Even in wealthier nations, psychiatrists working in the public
+sector are relatively fewer in number, overworked, underpaid and rarely
+able to address the hidden crisis of mental ill health wrought by
+homelessness and housing instability. In low-income nations, the service
+gap is even wider.\ :sup:`(n.d.v)`
+
+A recent US report on the alarming lack of access to mental healthcare
+even for the well insured points to a broad-based crisis in mental
+health services.\ :sup:`(n.d.ak)` Ignoring laws ensuring parity,
+insurers provide much lower coverage for mental health treatment than
+would be tolerated for cardiac or cancer care, and out-of-pocket costs
+can run as high as $400 per private psychiatrist visit.\ :sup:`(n.d.ak)`
+The prospects for a homeless man or woman who is feeling anxious,
+depressed or suicidal are indeed dismal. Although many homeless and
+other low-income individuals in the US are enrolled in Medicaid, an
+acute scarcity of psychiatrists who accept Medicaid patients renders
+such coverage virtually unattainable in many parts of the
+US.\ :sup:`(n.d.ak)`
+
+.. _sec5:
+
+A caveat about the medico-scientific approach moving forward
+============================================================
+
+Attempts to incorporate social determinants thinking into public policy
+discourse on the mental health benefits of stable housing still have
+some way to go in jurisdictions where the medico-scientific approach
+holds sway. As a case in point, witness the recent report by the
+prestigious US National Academy of Science, Engineering and Medicine
+(NASEM) on the health benefits of permanent supportive housing (PSH), a
+major source of housing and supports for formerly homeless persons with
+severe mental illness.\ :sup:`(n.d.al)` Acknowledging that research on
+the topic was severely limited owing to the recency of PSH and its many
+poorly defined iterations, the NASEM report nevertheless concluded that
+the health benefits of such housing were minimal, with the possible
+exception of persons with HIV/AIDS having improved
+outcomes.\ :sup:`(n.d.al)` The report argued for the need to identify
+‘housing-sensitive’ health conditions to point future researchers in the
+right direction.\ :sup:`(n.d.al)`
+
+Such delimiting of what is important to ‘housing-sensitive’ medical
+conditions exemplifies the narrowness of the medico-scientific model set
+against a social determinants model combined with human rights. In
+response to such reductionism, the British Psychological Society
+recently proposed the Power Threat Meaning Framework as an alternative
+to the medicalisation of mental illness,\ :sup:`(n.d.am)` proposing that
+greater attention be given to the implications of power and inequality.
+
+Homelessness represents an existential crisis that threatens mind and
+body alike. The concept of ontological security, having its modern
+origins in the writings of sociologist Anthony Giddens, offers
+phenomenological insights into the benefits of stable housing that
+domiciled persons easily take for granted. As noted by this
+author,\ :sup:`(n.d.an)` going from the streets to a home enhances one's
+ontological security, as such a transition affords a sense of safety,
+constancy in everyday life, privacy, and a secure platform for identity
+development.\ :sup:`(n.d.an)` As with Maslow's
+hierarchy,\ :sup:`(n.d.ao)` fundamental human needs must be met in order
+to satisfy higher-order needs such as belonging and self-actualisation.
+
+.. _sec6:
+
+Conclusion
+==========
+
+Despite a plethora of research linking mental and physical health to
+housing stability, the salience of structural barriers is too often
+submerged in ‘blaming the victim’ for her or his plight. Physicians and
+healthcare providers receive little training in social determinants and
+often view them as off-limits or distracting from attention to signs and
+symptoms. Yet psychiatrists and other mental health professionals can
+become agents of change by paying greater attention to the social
+determinants of mental health and seeking structural competence in their
+practice. It is difficult to overestimate the benefits of having a
+stable, safe home as fundamental to mental health and well-being.
+
+**Deborah K. Padgett**, PhD, MPH, is a Professor at the Silver School of
+Social Work at New York University (NYU). She is also an Affiliated
+Professor with NYU's Department of Anthropology and College of Global
+Public Health.
+
+.. _nts2:
+
+Declaration of interest
+=======================
+
+None.
+
+.. _sec7:
+
+Supplementary material
+======================
+
+For supplementary material accompanying this paper visit
+https://doi.org/10.1192/bjb.2020.49.
+
+.. container:: caption
+
+   .. rubric:: 
+
+   click here to view supplementary material
+
+.. container:: references csl-bib-body hanging-indent
+   :name: refs
+
+   .. container:: csl-entry
+      :name: ref-ref1
+
+      n.d.a.
+
+   .. container:: csl-entry
+      :name: ref-ref2
+
+      n.d.b.
+
+   .. container:: csl-entry
+      :name: ref-ref3
+
+      n.d.c.
+
+   .. container:: csl-entry
+      :name: ref-ref4
+
+      n.d.d.
+
+   .. container:: csl-entry
+      :name: ref-ref5
+
+      n.d.e.
+
+   .. container:: csl-entry
+      :name: ref-ref6
+
+      n.d.f.
+
+   .. container:: csl-entry
+      :name: ref-ref7
+
+      n.d.g.
+
+   .. container:: csl-entry
+      :name: ref-ref8
+
+      n.d.h.
+
+   .. container:: csl-entry
+      :name: ref-ref9
+
+      n.d.i.
+
+   .. container:: csl-entry
+      :name: ref-ref10
+
+      n.d.j.
+
+   .. container:: csl-entry
+      :name: ref-ref11
+
+      n.d.k.
+
+   .. container:: csl-entry
+      :name: ref-ref12
+
+      n.d.l.
+
+   .. container:: csl-entry
+      :name: ref-ref13
+
+      n.d.m.
+
+   .. container:: csl-entry
+      :name: ref-ref14
+
+      n.d.n.
+
+   .. container:: csl-entry
+      :name: ref-ref15
+
+      n.d.o.
+
+   .. container:: csl-entry
+      :name: ref-ref16
+
+      n.d.p.
+
+   .. container:: csl-entry
+      :name: ref-ref17
+
+      n.d.q.
+
+   .. container:: csl-entry
+      :name: ref-ref18
+
+      n.d.r.
+
+   .. container:: csl-entry
+      :name: ref-ref19
+
+      n.d.s.
+
+   .. container:: csl-entry
+      :name: ref-ref20
+
+      n.d.t.
+
+   .. container:: csl-entry
+      :name: ref-ref21
+
+      n.d.u.
+
+   .. container:: csl-entry
+      :name: ref-ref22
+
+      n.d.v.
+
+   .. container:: csl-entry
+      :name: ref-ref23
+
+      n.d.w.
+
+   .. container:: csl-entry
+      :name: ref-ref24
+
+      n.d.x.
+
+   .. container:: csl-entry
+      :name: ref-ref25
+
+      n.d.y.
+
+   .. container:: csl-entry
+      :name: ref-ref26
+
+      n.d.z.
+
+   .. container:: csl-entry
+      :name: ref-ref27
+
+      n.d.aa.
+
+   .. container:: csl-entry
+      :name: ref-ref28
+
+      n.d.ab.
+
+   .. container:: csl-entry
+      :name: ref-ref29
+
+      n.d.ac.
+
+   .. container:: csl-entry
+      :name: ref-ref30
+
+      n.d.ad.
+
+   .. container:: csl-entry
+      :name: ref-ref31
+
+      n.d.ae.
+
+   .. container:: csl-entry
+      :name: ref-ref32
+
+      n.d.af.
+
+   .. container:: csl-entry
+      :name: ref-ref33
+
+      n.d.ag.
+
+   .. container:: csl-entry
+      :name: ref-ref34
+
+      n.d.ah.
+
+   .. container:: csl-entry
+      :name: ref-ref35
+
+      n.d.ai.
+
+   .. container:: csl-entry
+      :name: ref-ref36
+
+      n.d.aj.
+
+   .. container:: csl-entry
+      :name: ref-ref37
+
+      n.d.ak.
+
+   .. container:: csl-entry
+      :name: ref-ref38
+
+      n.d.al.
+
+   .. container:: csl-entry
+      :name: ref-ref39
+
+      n.d.am.
+
+   .. container:: csl-entry
+      :name: ref-ref40
+
+      n.d.an.
+
+   .. container:: csl-entry
+      :name: ref-ref41
+
+      n.d.ao.

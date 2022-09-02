@@ -2,15 +2,16 @@
 Undergraduate psychiatric education: current situation and way forward
 ======================================================================
 
-:Author: Gaia Sampogna
-:Author: Hussien Elkholy
-:Author: Franziska Baessler
-:Author: Bulent Coskun
-:Author: Mariana Pinto da Costa
-:Author: Rodrigo Ramalho
-:Author: Florian Riese
-:Author: Andrea Fiorillo [1]_
+Gaia Sampogna
+Hussien Elkholy
+Franziska Baessler
+Bulent Coskun
+Mariana Pinto da Costa
+Rodrigo Ramalho
+Florian Riese
+Andrea Fiorillo [1]_
 :Date: 2022-05
+
 :Abstract:
    Undergraduate psychiatric education is essential for the training of
    medical students and for their recruitment into psychiatry. A
@@ -25,11 +26,15 @@ Undergraduate psychiatric education: current situation and way forward
    multiprofessional training wards.
 
 
+.. contents::
+   :depth: 3
+..
+
 pmc
 Undergraduate education in mental health is an essential part of the
 training of medical students. Given the high prevalence of mental health
 problems in the general population, all practitioners should have the
-basic skills to identify and manage mental disorders.\ :sup:`1`
+basic skills to identify and manage mental disorders.\ :sup:`(n.d.a)`
 According to the World Psychiatric Association (WPA), undergraduate
 psychiatric education aims to improve the quality of mental health
 education and, consequently, the quality of care provided to people with
@@ -39,15 +44,16 @@ Furthermore, high-quality undergraduate education in psychiatry is
 crucial for the future recruitment of medical students into psychiatry
 as a specialty. In the past 10–15 years the percentage of graduates
 choosing a career in psychiatry has been significantly
-reduced.\ :sup:`2` Possible explanations for this negative trend include
-the low quality of teaching, stigma towards people with mental disorders
-and negative attitudes of medical doctors towards psychiatry.\ :sup:`3`
-In particular, it could be that some aspects of the psychiatric
-discipline, such as the use of compulsory treatment and the presence of
-negative stereotypes attached to psychiatrists, may have an adverse
-effect on both recruitment and retention of medical students in
-psychiatry.\ :sup:`3–5` In some European countries, students may
-consider a placement in psychiatry as ‘low priority’.\ :sup:`6`
+reduced.\ :sup:`(n.d.b)` Possible explanations for this negative trend
+include the low quality of teaching, stigma towards people with mental
+disorders and negative attitudes of medical doctors towards
+psychiatry.\ :sup:`(n.d.c)` In particular, it could be that some aspects
+of the psychiatric discipline, such as the use of compulsory treatment
+and the presence of negative stereotypes attached to psychiatrists, may
+have an adverse effect on both recruitment and retention of medical
+students in psychiatry.\ :sup:`(n.d.c)–(n.d.d)` In some European
+countries, students may consider a placement in psychiatry as ‘low
+priority’.\ :sup:`(n.d.e)`
 
 However, students’ attitudes towards the discipline change if they have
 positive teaching experiences, elective placements and direct contact
@@ -61,7 +67,7 @@ to overcome stigma and the negative image of the discipline, in 2009,
 the Royal College of Psychiatrists in the UK suggested organising
 periodic meetings between medical students and licensed psychiatrists
 throughout medical school and the development of an *ad hoc* mentoring
-programme.\ :sup:`7`
+programme.\ :sup:`(n.d.f)`
 
 Furthermore, receiving an adequate undergraduate psychiatric education
 may be useful not only for students interested in psychiatry, but it
@@ -92,24 +98,24 @@ Characteristics of undergraduate training in psychiatry
 Undergraduate psychiatric training greatly varies across different
 countries and university sites. Some medical schools include psychiatry
 programmes as optional, and others have only 2 weeks of mandatory formal
-training in psychiatry.\ :sup:`8` A recent survey promoted by the
+training in psychiatry.\ :sup:`(n.d.g)` A recent survey promoted by the
 International Federation of Medical Students’ Associations (IFMSA) in
 collaboration with the WPA noted that psychiatry education is mandatory
 in 81 out of the 83 surveyed countries, and is an elective course only
-in two countries (Ethiopia and Nigeria).\ :sup:`9` Furthermore, the
-duration of classes on theory significantly varies across countries
+in two countries (Ethiopia and Nigeria).\ :sup:`(n.d.h)` Furthermore,
+the duration of classes on theory significantly varies across countries
 (e.g. from just 1 day to more than 30 days); Nigeria and Burkina Faso do
 not have any practical classes at all. Even in Western countries, some
-medical schools offer only 4 weeks of training in psychiatry.\ :sup:`9`
-Undergraduate psychiatric training in the USA is longer than it is in
-Asian and Pacific regions. Methods for evaluating students’ knowledge
-and competencies also vary among countries, although the most common way
-of assessing it is multiple choice questions. The format of teaching
-does not significantly vary, with most medical schools offering a
-combination of lectures, bedside teaching and computer-based
-learning.\ :sup:`8` Overall, the survey conducted by IFMSA shows that
-undergraduate psychiatric education is not given enough prominence in
-undergraduate medical curricula.
+medical schools offer only 4 weeks of training in
+psychiatry.\ :sup:`(n.d.h)` Undergraduate psychiatric training in the
+USA is longer than it is in Asian and Pacific regions. Methods for
+evaluating students’ knowledge and competencies also vary among
+countries, although the most common way of assessing it is multiple
+choice questions. The format of teaching does not significantly vary,
+with most medical schools offering a combination of lectures, bedside
+teaching and computer-based learning.\ :sup:`(n.d.g)` Overall, the
+survey conducted by IFMSA shows that undergraduate psychiatric education
+is not given enough prominence in undergraduate medical curricula.
 
 .. _sec2:
 
@@ -120,7 +126,7 @@ A number of unmet needs in undergraduate psychiatric education have
 recently been highlighted in the literature. In particular, the limited
 availability of tutors, highly trained faculty members and clinicians at
 several sites is adversely affecting the quality of provided and
-perceived undergraduate training.\ :sup:`10`
+perceived undergraduate training.\ :sup:`(n.d.i)`
 
 Second, in some contexts, limited resources are a significant obstacle
 to good-quality training, especially in relation to access to adequate
@@ -133,7 +139,7 @@ thoughts; others may feel that the presence of a third person breaks the
 therapeutic alliance with their psychotherapist). Furthermore, in many
 sites, students have limited access to psychiatric patients at the
 bedside, and thus gain little practical knowledge of many psychiatric
-disorders.\ :sup:`11`
+disorders.\ :sup:`(n.d.j)`
 
 Therefore, novel methods to teach psychiatry should be put in place and
 trialled. It is beyond the scope of this paper to systematically review
@@ -143,11 +149,11 @@ selected some of the most promising approaches to outline here.
 Simulation techniques offer one innovative solution. Techniques such as
 student role-play and simulated patients have been found to improve the
 communication skills and empathy of undergraduate medical students and
-seem to be very well accepted.\ :sup:`12` These techniques are used to
-teach history taking and formulating a management plan and can depict
+seem to be very well accepted.\ :sup:`(n.d.k)` These techniques are used
+to teach history taking and formulating a management plan and can depict
 challenging clinical situations (e.g. acutely agitated patients) or rare
 syndromes, which would otherwise be neglected during
-training.\ :sup:`13`
+training.\ :sup:`(n.d.l)`
 
 Another innovative solution is the use of movies as an educational tool.
 Watching movies and videos with students may allow them to discuss
@@ -155,25 +161,25 @@ misconceptions about mental disorders in a relaxed setting (i.e. not in
 the patient's presence) and whether the clinical descriptions are
 accurate or not. Using videos to teach particular topics to medical
 students has been shown to result in improved recall of those
-situations.\ :sup:`14`
+situations.\ :sup:`(n.d.m)`
 
 The Psychiatry Early Experience Programme (PEEP) was proposed in 2015 in
 the UK. Medical students are paired with specialists in psychiatry, to
 shadow them while on-call and for one regular day shift during each of
-their jobs.\ :sup:`15` By joining the programme, students are exposed to
-a wide range of mental health problems and develop insight into
-psychiatric trainees’ work. The students can also attend lectures given
-by psychiatric experts and clinical sessions with patients. The
+their jobs.\ :sup:`(n.d.n)` By joining the programme, students are
+exposed to a wide range of mental health problems and develop insight
+into psychiatric trainees’ work. The students can also attend lectures
+given by psychiatric experts and clinical sessions with patients. The
 programme looks very promising, as confirmed by the fact that many
 students who joined it developed more positive attitudes towards
 psychiatry and seemed less reluctant to choose psychiatry as a
-specialty.\ :sup:`15`
+specialty.\ :sup:`(n.d.n)`
 
 In 2019, the American Psychiatric Association launched the Psychiatry
 Student Interest Group Network (PsychSIGN), a networking initiative that
 includes students interested in psychiatry. It provides resources and
 mentoring opportunities for students to help them to deepen their
-interest in the field.\ :sup:`9,16`
+interest in the field.\ :sup:`(n.d.h),(n.d.o)`
 
 Interprofessional training wards offer another innovative teaching
 opportunity. These enable students and trainees from different health
@@ -185,7 +191,8 @@ Finally, another aspect to be improved is related to providing feedback
 to medical students at the end of their rotation in psychiatry. A recent
 study carried out in Sweden using a structured feedback tool found that
 medical students were more satisfied at the end of the rotation period
-if they had received structured feedback on their internship.\ :sup:`17`
+if they had received structured feedback on their
+internship.\ :sup:`(n.d.p)`
 
 .. _sec3:
 
@@ -196,7 +203,7 @@ Undergraduate training in psychiatry is essential for psychiatric
 education and practice. Providing good-quality undergraduate training
 increases students’ interest in mental health, reduces stigma towards
 people with mental illness and increases students’ confidence in working
-with people with mental health problems.\ :sup:`1–3,18`
+with people with mental health problems.\ :sup:`(n.d.a)–(n.d.c),(n.d.q)`
 
 Initiatives aiming at improving psychiatric education during the early
 years of medical school have been well received and have been found to
@@ -235,6 +242,94 @@ Faculty, University of Heidelberg. F.R. received a speaker's honorarium
 by Merz and Vifor Pharma unrelated to this work. E.H. and M.P.d.C. are
 members of the *BJPsych Bulletin* editorial board and did not take part
 in the review or decision-making process of this paper
+
+.. container:: references csl-bib-body hanging-indent
+   :name: refs
+
+   .. container:: csl-entry
+      :name: ref-ref1
+
+      n.d.a.
+
+   .. container:: csl-entry
+      :name: ref-ref2
+
+      n.d.b.
+
+   .. container:: csl-entry
+      :name: ref-ref3
+
+      n.d.c.
+
+   .. container:: csl-entry
+      :name: ref-ref5
+
+      n.d.d.
+
+   .. container:: csl-entry
+      :name: ref-ref6
+
+      n.d.e.
+
+   .. container:: csl-entry
+      :name: ref-ref7
+
+      n.d.f.
+
+   .. container:: csl-entry
+      :name: ref-ref8
+
+      n.d.g.
+
+   .. container:: csl-entry
+      :name: ref-ref9
+
+      n.d.h.
+
+   .. container:: csl-entry
+      :name: ref-ref10
+
+      n.d.i.
+
+   .. container:: csl-entry
+      :name: ref-ref11
+
+      n.d.j.
+
+   .. container:: csl-entry
+      :name: ref-ref12
+
+      n.d.k.
+
+   .. container:: csl-entry
+      :name: ref-ref13
+
+      n.d.l.
+
+   .. container:: csl-entry
+      :name: ref-ref14
+
+      n.d.m.
+
+   .. container:: csl-entry
+      :name: ref-ref15
+
+      n.d.n.
+
+   .. container:: csl-entry
+      :name: ref-ref16
+
+      n.d.o.
+
+   .. container:: csl-entry
+      :name: ref-ref17
+
+      n.d.p.
+
+   .. container:: csl-entry
+      :name: ref-ref18
+
+      n.d.q.
 
 .. [1]
    The original version of this article was published with an error in

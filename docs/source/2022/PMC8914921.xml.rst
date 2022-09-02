@@ -2,11 +2,12 @@
 Transforming MRCPsych theory examinations: digitisation and very short answer questions (VSAQs)
 ===============================================================================================
 
-:Author: Karl Scheeres
-:Author: Niruj Agrawal
-:Author: Stephanie Ewen
-:Author: Ian HallCorrespondence to Ian Hall (ian.hall4@nhs.net)
+Karl Scheeres
+Niruj Agrawal
+Stephanie Ewen
+Ian HallCorrespondence to Ian Hall (ian.hall4@nhs.net)
 :Date: 2022-02
+
 :Abstract:
    Many examinations are now delivered online using digital formats, the
    migration to which has been accelerated by the COVID-19 pandemic. The
@@ -21,6 +22,10 @@ Transforming MRCPsych theory examinations: digitisation and very short answer qu
    thoroughly piloted before appearing in the examinations and are
    likely to have a phased introduction alongside existing formats.
 
+
+.. contents::
+   :depth: 3
+..
 
 pmc
 Examinations are now being delivered on online platforms in many
@@ -44,32 +49,34 @@ using the two existing question formats, multiple choice questions
 platforms enable the use of new question formats that may allow more
 comprehensive coverage of the syllabus (the syllabus can be found at:
 https://www.rcpsych.ac.uk/training/exams/preparing-for-exams). We know
-that assessment has a powerful effect in driving learning,\ :sup:`1` and
-multiple choice question formats may encourage rote learning from
-question banks. We will thoroughly evaluate any new question formats
-before we introduce them into the MRCPsych examination, but we would
-hope that they would encourage deeper and more holistic learning
-strategies that would better equip our future psychiatrists to have the
-biggest impact on the mental health of their patients.
+that assessment has a powerful effect in driving
+learning,\ :sup:`(n.d.a)` and multiple choice question formats may
+encourage rote learning from question banks. We will thoroughly evaluate
+any new question formats before we introduce them into the MRCPsych
+examination, but we would hope that they would encourage deeper and more
+holistic learning strategies that would better equip our future
+psychiatrists to have the biggest impact on the mental health of their
+patients.
 
 .. _sec1:
 
 Choosing examination formats for the MRCPsych
 =============================================
 
-When setting an examination, some of the key factors\ :sup:`2` that need
-to be considered when assessing its utility are shown in `Table
-1 <#tab01>`__. Each of these factors have to be weighed up against each
-other, with differing weightings according to the purpose and type of
-assessment. Table 1Key factors to be considered when assessing the
-utility of an assessment (adapted with permission from
-reference\ :sup:`2`)FactorQuestions askedValidityDoes the examination
-test what we want it to test?ReliabilityAre the results repeatable and
-accurate? Are external sources of error other than candidate ability
-accounted for and reduced?Educational impactWhat is the impact of the
-examination upon trainees’ learning? Does it lead to deeper learning and
-long-term retention?AcceptabilityIs the examination acceptable to those
-sitting it and other stakeholders?CostAre costs reasonable?
+When setting an examination, some of the key factors\ :sup:`(n.d.b)`
+that need to be considered when assessing its utility are shown in
+`Table 1 <#tab01>`__. Each of these factors have to be weighed up
+against each other, with differing weightings according to the purpose
+and type of assessment. Table 1Key factors to be considered when
+assessing the utility of an assessment (adapted with permission from
+reference\ :sup:`(n.d.b)`)FactorQuestions askedValidityDoes the
+examination test what we want it to test?ReliabilityAre the results
+repeatable and accurate? Are external sources of error other than
+candidate ability accounted for and reduced?Educational impactWhat is
+the impact of the examination upon trainees’ learning? Does it lead to
+deeper learning and long-term retention?AcceptabilityIs the examination
+acceptable to those sitting it and other stakeholders?CostAre costs
+reasonable?
 
 MCQs are a format that lends itself to reliability through
 standardisation of answers and ease of evaluation of large numbers of
@@ -78,34 +85,35 @@ inception of the MRCPsych in 1972, historically, short answer questions
 (SAQs) and essays were also utilised; these were phased out as
 individual marking of SAQs with increasing numbers of candidates was
 taxing, and there were questions about the reliability of essay
-marking.\ :sup:`3` The format of MCQs evolved from initial true/false
-answers to the single best answer or ‘best of five’ in use today, as
-well as the use of the EMQs, in which there is a theme, several stems
-and a greater number of options, more easily assessing the application
-of knowledge.\ :sup:`4` The MRCPsych is a high-stakes examination, with
-important consequences for candidates, our patients and society in
-general. In common with all high-stakes postgraduate medical assessments
-based in the UK, it is regulated closely by the General Medical Council,
-and all changes to format and structure must undergo prospective
-approval by them.
+marking.\ :sup:`(n.d.c)` The format of MCQs evolved from initial
+true/false answers to the single best answer or ‘best of five’ in use
+today, as well as the use of the EMQs, in which there is a theme,
+several stems and a greater number of options, more easily assessing the
+application of knowledge.\ :sup:`(n.d.d)` The MRCPsych is a high-stakes
+examination, with important consequences for candidates, our patients
+and society in general. In common with all high-stakes postgraduate
+medical assessments based in the UK, it is regulated closely by the
+General Medical Council, and all changes to format and structure must
+undergo prospective approval by them.
 
 Given these concerns, the reliability of the MRCPsych must be extremely
 high, so that no trainee passes without the requisite ability.
 Fortunately, the written papers have excellent reliability (with
 Cronbach's alpha, a measure of reliability, consistently >0.85), but
 some have questioned whether this has happened at the expense of
-validity.\ :sup:`5,6` Has the depth of clinical context and its
-application been lost? Perhaps we fail to reward those trainees who
+validity.\ :sup:`(n.d.e),(n.d.f)` Has the depth of clinical context and
+its application been lost? Perhaps we fail to reward those trainees who
 undertake in-depth study of complex issues, such as aetiology, ethics
-and the history of psychiatry.\ :sup:`5` The main criticism of MCQs is a
-‘cueing’ effect, whereby candidates are cued by the correct answer,
-rather than actively recalling it.\ :sup:`7` There is evidence that
-requiring candidates to *construct* an answer, such as in SAQs, produces
-better memory than tests that require recognition.\ :sup:`8` Additional
-issues with MCQs may include various ‘test-taking’ behaviours, such as
-eliminating wrong answers to arrive at the correct one, guessing from
-the options available and seeking clues from the language used to deduce
-the correct answer independently from the knowledge required.\ :sup:`9`
+and the history of psychiatry.\ :sup:`(n.d.e)` The main criticism of
+MCQs is a ‘cueing’ effect, whereby candidates are cued by the correct
+answer, rather than actively recalling it.\ :sup:`(n.d.g)` There is
+evidence that requiring candidates to *construct* an answer, such as in
+SAQs, produces better memory than tests that require
+recognition.\ :sup:`(n.d.h)` Additional issues with MCQs may include
+various ‘test-taking’ behaviours, such as eliminating wrong answers to
+arrive at the correct one, guessing from the options available and
+seeking clues from the language used to deduce the correct answer
+independently from the knowledge required.\ :sup:`(n.d.i)`
 
 MCQs end up testing recognition memory, and recall is significantly
 affected by this cueing effect. Creating a good MCQ with valid and
@@ -117,16 +125,17 @@ not be examined and more obscure areas, where MCQs may be easier to
 write, are more likely to be tested.
 
 As mentioned above, it is intuitive and commonly recognised that the
-assessment drives learning.\ :sup:`1` Areas of the syllabus that are
-more commonly examined are therefore more likely to be studied by
+assessment drives learning.\ :sup:`(n.d.a)` Areas of the syllabus that
+are more commonly examined are therefore more likely to be studied by
 trainees. Assessment factors contribute to strategies used to
-study,\ :sup:`10` which could influence the trainees’ overall learning
-and the extent of knowledge achieved. Developments in technology have
-allowed easy access to online MCQ ‘question banks’. Many trainees
-therefore focus their effort on practicing these questions, rather than
-focusing on core learning and developing deeper understanding.
+study,\ :sup:`(n.d.j)` which could influence the trainees’ overall
+learning and the extent of knowledge achieved. Developments in
+technology have allowed easy access to online MCQ ‘question banks’. Many
+trainees therefore focus their effort on practicing these questions,
+rather than focusing on core learning and developing deeper
+understanding.
 
-The costs of taking the MRCPsych for candidates are high\ :sup:`11`
+The costs of taking the MRCPsych for candidates are high\ :sup:`(n.d.k)`
 because of the high cost of the infrastructure behind the examination,
 e.g. the professional examinations team, detailed psychometric analysis,
 and supporting the psychiatrists who volunteer their time freely to
@@ -149,20 +158,21 @@ Digitisation of examinations
 The COVID-19 pandemic led to a rapid and unpredicted introduction of
 online examinations for the MRCPsych, although the College had plans to
 begin moving toward digitisation before the pandemic. Although there is
-a relative paucity of literature on online examinations,\ :sup:`12` one
-small study, in which a direct comparison of online examinations versus
-paper examinations was made, showed equivalent reliability and
-validity.\ :sup:`13` In terms of candidate performance in online versus
-paper examinations, the few studies directly testing this have shown no
-significant differences.\ :sup:`13,14` Candidates’ perception of online
-examinations are often favourable, and one study found reduced anxiety
-when taking online compared with traditional paper-based
-examinations.\ :sup:`14` Possibly, the fact that candidates are not able
-to see their peers might account for this. However, it is clear that the
-rapid introduction of digitisation for the MRCPsych caused considerable
-anxiety in trainees; the same study\ :sup:`14` recognised that the first
-sitting of online examinations can cause anxiety, which later subsides
-with familiarity upon repeated testing.
+a relative paucity of literature on online examinations,\ :sup:`(n.d.l)`
+one small study, in which a direct comparison of online examinations
+versus paper examinations was made, showed equivalent reliability and
+validity.\ :sup:`(n.d.m)` In terms of candidate performance in online
+versus paper examinations, the few studies directly testing this have
+shown no significant differences.\ :sup:`(n.d.m),(n.d.n)` Candidates’
+perception of online examinations are often favourable, and one study
+found reduced anxiety when taking online compared with traditional
+paper-based examinations.\ :sup:`(n.d.n)` Possibly, the fact that
+candidates are not able to see their peers might account for this.
+However, it is clear that the rapid introduction of digitisation for the
+MRCPsych caused considerable anxiety in trainees; the same
+study\ :sup:`(n.d.n)` recognised that the first sitting of online
+examinations can cause anxiety, which later subsides with familiarity
+upon repeated testing.
 
 .. _sec3:
 
@@ -170,29 +180,29 @@ Very short answer questions
 ===========================
 
 Very short answer questions (VSAQs) are a novel format of written
-questions.\ :sup:`15–19` A VSAQ consists of a short question for which
-an answer is required to be manually entered on computer screen from
-free recall, as open text. There are no options provided to choose from
-as in MCQs/EMQs. Generally, the answer would be only a few words. `Box
-1 <#box1>`__ shows some examples of how VSAQs may look. Any correct
-response will attract one mark and any incorrect response will attract
-zero marks. Examination software would be programmed to recognise
-multiple versions of correct answers, using smart algorithms. These
-would allow different versions of a correct response to be recognised.
-For example, the first question in `Box 1 <#box1>`__ provides an example
-of several possible correct answers for that question; all of these
-answers would attract a full mark, and centre around the idea of a
-reduction or suppression of the default mode network. The software would
-additionally be programmed to highlight any answer that is a non-exact
-match (approximate) to any possible correct answers, and these will be
-manually reviewed by a designated and trained examiner to ascertain
-whether that represents a correct response. This will ensure that any
-unforeseen versions of correct responses will not go unrecognised and
-unrewarded. That response will then be saved in the list of correct
-answers for that question for any future examinations. Examiners will
-also review all other marking done by the computer, to ensure accuracy.
-Minor spelling errors or typos (e.g. ‘inihbited’ rather than
-‘inhibited’) will not be penalised and will be picked up during the
+questions.\ :sup:`(n.d.o)–(n.d.p)` A VSAQ consists of a short question
+for which an answer is required to be manually entered on computer
+screen from free recall, as open text. There are no options provided to
+choose from as in MCQs/EMQs. Generally, the answer would be only a few
+words. `Box 1 <#box1>`__ shows some examples of how VSAQs may look. Any
+correct response will attract one mark and any incorrect response will
+attract zero marks. Examination software would be programmed to
+recognise multiple versions of correct answers, using smart algorithms.
+These would allow different versions of a correct response to be
+recognised. For example, the first question in `Box 1 <#box1>`__
+provides an example of several possible correct answers for that
+question; all of these answers would attract a full mark, and centre
+around the idea of a reduction or suppression of the default mode
+network. The software would additionally be programmed to highlight any
+answer that is a non-exact match (approximate) to any possible correct
+answers, and these will be manually reviewed by a designated and trained
+examiner to ascertain whether that represents a correct response. This
+will ensure that any unforeseen versions of correct responses will not
+go unrecognised and unrewarded. That response will then be saved in the
+list of correct answers for that question for any future examinations.
+Examiners will also review all other marking done by the computer, to
+ensure accuracy. Minor spelling errors or typos (e.g. ‘inihbited’ rather
+than ‘inhibited’) will not be penalised and will be picked up during the
 review process. VSAQs also allow for two entirely different but correct
 answers, as illustrated in the second example in `Box 1 <#box1>`__. In
 this example, again, either of the responses will attract a full mark.
@@ -215,27 +225,27 @@ primary papers, and make their knowledge base more clinically relevant
 in the long term.
 
 In the studies to date, VSAQs have been shown to have higher reliability
-than MCQs, and reduce the cueing effect.\ :sup:`15–17` They may improve
-validity by testing nascent knowledge and clinical skills, rather than
-the ability to pass examinations.\ :sup:`15` In one study of 300 medical
-students,\ :sup:`15` 69% of students undertaking VSAQs felt that they
-were more representative of how they would be expected to answer
-questions in actual clinical practice, and about half felt that they
-would change their learning strategies in response. However, these
-studies were conducted on undergraduate medical students and may not be
-generalisable to postgraduate psychiatry trainees. Additionally, as far
-as we are aware, there has not been any published data that uses VSAQs
-from a high-stakes examination such as the MRCPsych, although at least
-one other College are considering their introduction for UK medical
-trainees.\ :sup:`20` Finally, as VSAQs require recall rather than
-recognition, candidates appear to universally score lower in them when
-compared with MCQs;\ :sup:`15–19` this must be carefully accounted for
-in the standard setting process that sets the pass mark, so that
-standard setting judges are aware of likely lower scores in comparison
-with MCQs, particularly in first iterations of the test when they are
-lacking comparative past data. To account for this, there would be pilot
-questions tested and a full analysis undertaken to inform future
-standard setting.
+than MCQs, and reduce the cueing effect.\ :sup:`(n.d.o)–(n.d.q)` They
+may improve validity by testing nascent knowledge and clinical skills,
+rather than the ability to pass examinations.\ :sup:`(n.d.o)` In one
+study of 300 medical students,\ :sup:`(n.d.o)` 69% of students
+undertaking VSAQs felt that they were more representative of how they
+would be expected to answer questions in actual clinical practice, and
+about half felt that they would change their learning strategies in
+response. However, these studies were conducted on undergraduate medical
+students and may not be generalisable to postgraduate psychiatry
+trainees. Additionally, as far as we are aware, there has not been any
+published data that uses VSAQs from a high-stakes examination such as
+the MRCPsych, although at least one other College are considering their
+introduction for UK medical trainees.\ :sup:`(n.d.r)` Finally, as VSAQs
+require recall rather than recognition, candidates appear to universally
+score lower in them when compared with MCQs;\ :sup:`(n.d.o)–(n.d.p)`
+this must be carefully accounted for in the standard setting process
+that sets the pass mark, so that standard setting judges are aware of
+likely lower scores in comparison with MCQs, particularly in first
+iterations of the test when they are lacking comparative past data. To
+account for this, there would be pilot questions tested and a full
+analysis undertaken to inform future standard setting.
 
 .. _sec4:
 
@@ -265,8 +275,8 @@ trainees. Similarly, they expressed concerns that trainees may be
 falsely accused of cheating if they write notes or look away from the
 screen. The concerns regarding cheating are in keeping with the
 published literature of both candidates’ and examination setters’
-perceptions of online examinations.\ :sup:`12` Trainees also noted that
-some trainees’ home environments may be unsuitable for sitting
+perceptions of online examinations.\ :sup:`(n.d.l)` Trainees also noted
+that some trainees’ home environments may be unsuitable for sitting
 examinations, because of caring commitments or house-sharing
 arrangements. Trainees were also keen to understand how candidates with
 dyslexia and other specific learning needs would be accommodated.
@@ -330,22 +340,22 @@ trainees and clinical educators alike.
 Any change like this requires comprehensive evaluation and testing, and
 because this is a high-stakes postgraduate medical qualification, the UK
 General Medical Council will need to prospectively approve any
-changes.\ :sup:`21` As mentioned above, before any partial introduction,
-we plan to pilot questions on trainees and conduct an extensive
-psychometric analysis of the results. This would include an equality
-analysis to assess the impact on differential attainment in protected
-groups. The successful delivery of such a change requires comprehensive
-stakeholder engagement, and none are more important that the doctors
-training in psychiatry who take the examination; we plan ongoing
-consultation with trainees. We must also ensure that our training
-programmes prepare candidates thoroughly, with supervisors and tutors
-being up to date with new assessment methodologies and the reasons for
-their introduction. There would be the potential for online learning
-platforms to assist trainees with the new style questions. Stakeholder
-feedback has been largely positive on the face validity of VSAQs, in
-promoting the acquisition of knowledge that will be useful in clinical
-practice, and so help deliver better healthcare for people with mental
-health problems.
+changes.\ :sup:`(n.d.s)` As mentioned above, before any partial
+introduction, we plan to pilot questions on trainees and conduct an
+extensive psychometric analysis of the results. This would include an
+equality analysis to assess the impact on differential attainment in
+protected groups. The successful delivery of such a change requires
+comprehensive stakeholder engagement, and none are more important that
+the doctors training in psychiatry who take the examination; we plan
+ongoing consultation with trainees. We must also ensure that our
+training programmes prepare candidates thoroughly, with supervisors and
+tutors being up to date with new assessment methodologies and the
+reasons for their introduction. There would be the potential for online
+learning platforms to assist trainees with the new style questions.
+Stakeholder feedback has been largely positive on the face validity of
+VSAQs, in promoting the acquisition of knowledge that will be useful in
+clinical practice, and so help deliver better healthcare for people with
+mental health problems.
 
 We thank the trainees who contributed their views to this paper, both
 from the Psychiatric Trainees’ Committee and those who attended the
@@ -380,3 +390,101 @@ All authors are members of the Examinations Sub-Committee at the Royal
 College of Psychiatrists, which sets the MRCPsych theory papers. This
 article represents their views rather than the view of the committee as
 a whole.
+
+.. container:: references csl-bib-body hanging-indent
+   :name: refs
+
+   .. container:: csl-entry
+      :name: ref-ref1
+
+      n.d.a.
+
+   .. container:: csl-entry
+      :name: ref-ref2
+
+      n.d.b.
+
+   .. container:: csl-entry
+      :name: ref-ref3
+
+      n.d.c.
+
+   .. container:: csl-entry
+      :name: ref-ref4
+
+      n.d.d.
+
+   .. container:: csl-entry
+      :name: ref-ref5
+
+      n.d.e.
+
+   .. container:: csl-entry
+      :name: ref-ref6
+
+      n.d.f.
+
+   .. container:: csl-entry
+      :name: ref-ref7
+
+      n.d.g.
+
+   .. container:: csl-entry
+      :name: ref-ref8
+
+      n.d.h.
+
+   .. container:: csl-entry
+      :name: ref-ref9
+
+      n.d.i.
+
+   .. container:: csl-entry
+      :name: ref-ref10
+
+      n.d.j.
+
+   .. container:: csl-entry
+      :name: ref-ref11
+
+      n.d.k.
+
+   .. container:: csl-entry
+      :name: ref-ref12
+
+      n.d.l.
+
+   .. container:: csl-entry
+      :name: ref-ref13
+
+      n.d.m.
+
+   .. container:: csl-entry
+      :name: ref-ref14
+
+      n.d.n.
+
+   .. container:: csl-entry
+      :name: ref-ref15
+
+      n.d.o.
+
+   .. container:: csl-entry
+      :name: ref-ref17
+
+      n.d.q.
+
+   .. container:: csl-entry
+      :name: ref-ref19
+
+      n.d.p.
+
+   .. container:: csl-entry
+      :name: ref-ref20
+
+      n.d.r.
+
+   .. container:: csl-entry
+      :name: ref-ref21
+
+      n.d.s.

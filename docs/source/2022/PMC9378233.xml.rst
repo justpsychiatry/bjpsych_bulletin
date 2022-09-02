@@ -2,10 +2,11 @@
 Safety of Delivering Eating Disorders Day Treatment Programme on the Virtual Platform in (COVID-19) Pandemic
 ============================================================================================================
 
-:Author: Adaora Obiekezie
-:Author: Claudia Friel
-:Author: Mohammad Tayeem Pathan*Presenting author.
+Adaora Obiekezie
+Claudia Friel
+Mohammad Tayeem Pathan*Presenting author.
 :Date: 2022-06
+
 :Abstract:
    .. rubric:: Aims
       :name: sec_a1
@@ -72,5 +73,9 @@ Safety of Delivering Eating Disorders Day Treatment Programme on the Virtual Pla
    outbreak of COVID-19 in a vulnerable group of patients and allowed
    them to receive uninterrupted support during pandemic.
 
+
+.. contents::
+   :depth: 3
+..
 
 pmc

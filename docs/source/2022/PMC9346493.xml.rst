@@ -2,9 +2,10 @@
 Evensong: how the medical humanities can strengthen a patient-centred approach to both physical and mental health conditions
 ============================================================================================================================
 
-:Author: Corinne Rowena DignanCorrespondence to Dr Corinne Dignan
-         (corinne.dignan@wales.nhs.uk)
+Corinne Rowena DignanCorrespondence to Dr Corinne Dignan
+(corinne.dignan@wales.nhs.uk)
 :Date: 2022-06
+
 :Abstract:
    The medical humanities may offer an antidote to the unconscious
    depersonalisation of patients into clinical variables and diagnoses
@@ -22,6 +23,10 @@ Evensong: how the medical humanities can strengthen a patient-centred approach t
    exploring the influence this process has had on the interactions I
    now have with my patients.
 
+
+.. contents::
+   :depth: 3
+..
 
 pmc
 We all have our stories. Our triumphs and our failures, the people we

@@ -2,11 +2,12 @@
 Recognition and management of depression in early psychosis
 ===========================================================
 
-:Author: Zainab Bashir
-:Author: Sian Lowri Griffiths
-:Author: Rachel UpthegroveCorrespondence to Dr Sian Lowri Griffiths
-         (s.l.griffiths@bham.ac.uk)
+Zainab Bashir
+Sian Lowri Griffiths
+Rachel UpthegroveCorrespondence to Dr Sian Lowri Griffiths
+(s.l.griffiths@bham.ac.uk)
 :Date: 2022-04
+
 :Abstract:
    .. rubric:: Aims and method
       :name: sec_a1
@@ -39,32 +40,38 @@ Recognition and management of depression in early psychosis
    outcomes for these individuals.
 
 
+.. contents::
+   :depth: 3
+..
+
 pmc
 Depression is prevalent in first-episode psychosis (FEP), with rates of
-up to 70% at illness onset.\ :sup:`1` It is associated with a higher
-risk of relapse,\ :sup:`2` poorer functional outcomes\ :sup:`3,4` and
-suicide.\ :sup:`5` Although the National Institute for Health and Care
-Excellence (NICE) recommends monitoring for depression within psychosis,
-specific guidance on the treatment of comorbid depression has been
-limited, until recently.\ :sup:`6,7` The lack of large-scale controlled
+up to 70% at illness onset.\ :sup:`(n.d.a)` It is associated with a
+higher risk of relapse,\ :sup:`(n.d.b)` poorer functional
+outcomes\ :sup:`(n.d.c),(n.d.d)` and suicide.\ :sup:`(n.d.e)` Although
+the National Institute for Health and Care Excellence (NICE) recommends
+monitoring for depression within psychosis, specific guidance on the
+treatment of comorbid depression has been limited, until
+recently.\ :sup:`(n.d.f),(n.d.g)` The lack of large-scale controlled
 trials investigating the effectiveness of adjunctive
-antidepressants\ :sup:`8` has perhaps resulted in considerable variation
-in prescribing practices.\ :sup:`6,9` A study of 80 000 international
-psychiatrists showed little consensus on the best management strategy
-for treating depression in schizophrenia; a third of clinicians reported
-that they rarely or never prescribe antidepressants in combination with
-antipsychotics.\ :sup:`9,10` Since this publication in 2001,\ :sup:`9`
-depression as a common occurrence in psychosis has become more widely
-recognised.\ :sup:`11,12` Monitoring for depression in psychosis is
-featured more commonly in national and international
-guidelines,\ :sup:`7` and the recent British Association for
-Psychopharmacology updated consensus statement is the first UK guide to
-include specific pharmacological treatment recommendations.\ :sup:`13`
+antidepressants\ :sup:`(n.d.h)` has perhaps resulted in considerable
+variation in prescribing practices.\ :sup:`(n.d.f),(n.d.i)` A study of
+80 000 international psychiatrists showed little consensus on the best
+management strategy for treating depression in schizophrenia; a third of
+clinicians reported that they rarely or never prescribe antidepressants
+in combination with antipsychotics.\ :sup:`(n.d.i),(n.d.j)` Since this
+publication in 2001,\ :sup:`(n.d.i)` depression as a common occurrence
+in psychosis has become more widely recognised.\ :sup:`(n.d.k),(n.d.l)`
+Monitoring for depression in psychosis is featured more commonly in
+national and international guidelines,\ :sup:`(n.d.g)` and the recent
+British Association for Psychopharmacology updated consensus statement
+is the first UK guide to include specific pharmacological treatment
+recommendations.\ :sup:`(n.d.m)`
 
 We aim to understand whether there has been an improvement in clinician
 awareness of depression in psychosis; this may have an impact on
 effective management, particularly in the early stages of psychosis,
-where treatment is likely to be more effective.\ :sup:`14` Using a
+where treatment is likely to be more effective.\ :sup:`(n.d.n)` Using a
 survey which was distributed to UK psychiatrists, this study aimed to
 explore the level of recognition and management of depression through
 the course of FEP.
@@ -99,8 +106,8 @@ Management of Depression in Psychosis questionnaire
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The Management of Depression in Psychosis questionnaire is a shortened
-version of Siris et al's original questionnaire.\ :sup:`9` It was felt
-to be the most suitable as it was designed to evaluate clinician
+version of Siris et al's original questionnaire.\ :sup:`(n.d.i)` It was
+felt to be the most suitable as it was designed to evaluate clinician
 awareness and management approach. It also allows for comparison of
 trends of psychiatric practices in assessing and managing depression in
 psychosis over time. The questionnaire has been adapted to focus on the
@@ -321,10 +328,10 @@ Discussion
 This study aimed to gauge the level of recognition and management
 approaches used by UK psychiatrists to manage and treat depression in
 psychosis. With depression in psychosis now being adopted in national
-and international clinical guidelines,\ :sup:`7` we wanted to explore
-whether any change in recognition has led to more effective management
-of depression in those with psychosis, particularly in the early stages
-of illness.
+and international clinical guidelines,\ :sup:`(n.d.g)` we wanted to
+explore whether any change in recognition has led to more effective
+management of depression in those with psychosis, particularly in the
+early stages of illness.
 
 Overall, the majority of respondents (69.5%) indicated the use of
 antidepressant medication as a first line of treatment for young people
@@ -339,21 +346,22 @@ reuptake inhibitor (sertraline in particular). This indicates a
 reasonable agreement between clinicians on the best strategy for
 managing comorbid depression with psychosis. These findings demonstrate
 a possible shift in the management strategy since Siris et
-al's\ :sup:`9` earlier publication, where a third of clinicians reported
-that they would rarely prescribe antidepressants in adjunct to
+al's\ :sup:`(n.d.i)` earlier publication, where a third of clinicians
+reported that they would rarely prescribe antidepressants in adjunct to
 antipsychotic medication.
 
 Although previous studies have reported 70% prevalence rates of
-depression at illness onset,\ :sup:`1` our study showed fewer
+depression at illness onset,\ :sup:`(n.d.a)` our study showed fewer
 respondents (19%) identified depression as occurring frequently in FEP;
 instead, 54% reported observing depression occurring with stable
 psychosis. This might suggest that depression in the early phases of
 psychosis is still underrecognised; this is concerning, given that young
 people in particular are at heightened risk of suicide within the first
-12 months following the initial episode of psychosis.\ :sup:`15,16`
-However, it must also be acknowledged that the findings from our survey
-are reliant on the memory of clinicians, with a potential for recall
-bias, and so the accuracy of these findings may be challenged.
+12 months following the initial episode of
+psychosis.\ :sup:`(n.d.o),(n.d.p)` However, it must also be acknowledged
+that the findings from our survey are reliant on the memory of
+clinicians, with a potential for recall bias, and so the accuracy of
+these findings may be challenged.
 
 Despite a consensus on treatment strategies for depression, what became
 apparent from the survey was the uncertainty around assessing depression
@@ -363,26 +371,26 @@ interview schedules to inform their assessment, which could aid this
 delineation. In particular, the CDSS was only used by 9% of respondents.
 The CDSS is a short and easily used instrument, designed specifically
 for the assessment of depression in psychosis, as it distinguishes
-between negative and positive symptoms.\ :sup:`17` Better promotion of
-these evaluation measures may be warranted.
+between negative and positive symptoms.\ :sup:`(n.d.q)` Better promotion
+of these evaluation measures may be warranted.
 
 There were also reports of challenges faced by clinicians in determining
 if the symptoms were part of an affective component of the psychotic
 episode, potentially highlighting the need for a better understanding of
 the diagnostic uncertainty and course of depression in early
-psychosis.\ :sup:`18`
+psychosis.\ :sup:`(n.d.r)`
 
 Over the past two decades, there appears to have been a shift in
 prescribing of antipsychotic medications – particularly from the first
-generation (typical) to second generation (atypical) agents.\ :sup:`19`
-This is also reflected in our survey, where the majority were
-prescribing atypical agents such as aripiprazole, olanzapine,
-risperidone and quetiapine, compared with 4.9% and 3.9% of respondents
-prescribing haloperidol and zuclopenthixol. Thus, there appears to be a
-particular preference toward the antipsychotics believed to have the
-least side-effects, but not with recognition that some antipsychotics
-may have more antidepressant properties,\ :sup:`20` or possibly promote
-depression, such as haloperidol.\ :sup:`13`
+generation (typical) to second generation (atypical)
+agents.\ :sup:`(n.d.s)` This is also reflected in our survey, where the
+majority were prescribing atypical agents such as aripiprazole,
+olanzapine, risperidone and quetiapine, compared with 4.9% and 3.9% of
+respondents prescribing haloperidol and zuclopenthixol. Thus, there
+appears to be a particular preference toward the antipsychotics believed
+to have the least side-effects, but not with recognition that some
+antipsychotics may have more antidepressant properties,\ :sup:`(n.d.t)`
+or possibly promote depression, such as haloperidol.\ :sup:`(n.d.m)`
 
 In regards to coprescribing in the present study, most respondents
 reported that there were no combinations of antidepressants and
@@ -398,11 +406,12 @@ cognisant of the potential physical health problems caused by
 antipsychotic medications, and may suggest proactiveness in mitigating
 such risks. Although this finding is encouraging, recent data shows that
 only 32.3% of individuals with severe mental illness in England receive
-a full physical health check.\ :sup:`21,22` Given the lowered life
-expectancy of individuals with schizophrenia, the current NICE
+a full physical health check.\ :sup:`(n.d.u),(n.d.v)` Given the lowered
+life expectancy of individuals with schizophrenia, the current NICE
 recommendations advocate for annual physical health checks for all
-individuals with severe mental health problems.\ :sup:`23` Improving
-physical health monitoring should remain a top priority.\ :sup:`22`
+individuals with severe mental health problems.\ :sup:`(n.d.w)`
+Improving physical health monitoring should remain a top
+priority.\ :sup:`(n.d.v)`
 
 .. _sec3-1:
 
@@ -414,11 +423,11 @@ assessment tools into clinical practice is be needed to further increase
 the recognition and management of depression, which, if achieved, could
 improve outcomes. Indeed, this finding is in keeping with the wider
 literature on the difficulty of promoting the use of instruments, such
-as the CDSS, into routine practice.\ :sup:`24` A suggestion may be to
-embed these instruments into electronic patient records, and include
+as the CDSS, into routine practice.\ :sup:`(n.d.x)` A suggestion may be
+to embed these instruments into electronic patient records, and include
 monitoring of comorbidities as part of quality improvement programmes,
 and national audits such as the National Clinical Audit of
-Psychosis.\ :sup:`25`
+Psychosis.\ :sup:`(n.d.y)`
 
 .. _sec3-2:
 
@@ -525,3 +534,131 @@ http://doi.org/10.1192/bjb.2021.15.
    .. rubric:: 
 
    click here to view supplementary material
+
+.. container:: references csl-bib-body hanging-indent
+   :name: refs
+
+   .. container:: csl-entry
+      :name: ref-ref1
+
+      n.d.a.
+
+   .. container:: csl-entry
+      :name: ref-ref2
+
+      n.d.b.
+
+   .. container:: csl-entry
+      :name: ref-ref3
+
+      n.d.c.
+
+   .. container:: csl-entry
+      :name: ref-ref4
+
+      n.d.d.
+
+   .. container:: csl-entry
+      :name: ref-ref5
+
+      n.d.e.
+
+   .. container:: csl-entry
+      :name: ref-ref6
+
+      n.d.f.
+
+   .. container:: csl-entry
+      :name: ref-ref7
+
+      n.d.g.
+
+   .. container:: csl-entry
+      :name: ref-ref8
+
+      n.d.h.
+
+   .. container:: csl-entry
+      :name: ref-ref9
+
+      n.d.i.
+
+   .. container:: csl-entry
+      :name: ref-ref10
+
+      n.d.j.
+
+   .. container:: csl-entry
+      :name: ref-ref11
+
+      n.d.k.
+
+   .. container:: csl-entry
+      :name: ref-ref12
+
+      n.d.l.
+
+   .. container:: csl-entry
+      :name: ref-ref13
+
+      n.d.m.
+
+   .. container:: csl-entry
+      :name: ref-ref14
+
+      n.d.n.
+
+   .. container:: csl-entry
+      :name: ref-ref15
+
+      n.d.o.
+
+   .. container:: csl-entry
+      :name: ref-ref16
+
+      n.d.p.
+
+   .. container:: csl-entry
+      :name: ref-ref17
+
+      n.d.q.
+
+   .. container:: csl-entry
+      :name: ref-ref18
+
+      n.d.r.
+
+   .. container:: csl-entry
+      :name: ref-ref19
+
+      n.d.s.
+
+   .. container:: csl-entry
+      :name: ref-ref20
+
+      n.d.t.
+
+   .. container:: csl-entry
+      :name: ref-ref21
+
+      n.d.u.
+
+   .. container:: csl-entry
+      :name: ref-ref22
+
+      n.d.v.
+
+   .. container:: csl-entry
+      :name: ref-ref23
+
+      n.d.w.
+
+   .. container:: csl-entry
+      :name: ref-ref24
+
+      n.d.x.
+
+   .. container:: csl-entry
+      :name: ref-ref25
+
+      n.d.y.

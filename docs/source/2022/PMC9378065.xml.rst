@@ -2,11 +2,12 @@
 A Quality Improvement Project (QI) on Screening for Rapid Eye Movement Sleep Behaviour Disorder (RBD) in Patients Referred to Trafford Memory Assessment and Treatment Service (MATS), Part of Greater Manchester Mental Health Trust (GMMH)
 ============================================================================================================================================================================================================================================
 
-:Author: Rachel Moir
-:Author: Ruth Pye-Jones
-:Author: Amit Sindhi
-:Author: Boben Benjamin*Presenting author.
+Rachel Moir
+Ruth Pye-Jones
+Amit Sindhi
+Boben Benjamin*Presenting author.
 :Date: 2022-06
+
 :Abstract:
    .. rubric:: Aims
       :name: sec_a1
@@ -69,5 +70,9 @@ A Quality Improvement Project (QI) on Screening for Rapid Eye Movement Sleep Beh
    a very easy and reproducible change to implement and RBD should be
    screened for in all memory patients.
 
+
+.. contents::
+   :depth: 3
+..
 
 pmc

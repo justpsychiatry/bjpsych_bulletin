@@ -2,12 +2,17 @@
 Supporting people in mental health crisis in 21st-century Britain – ERRATUM
 ===========================================================================
 
-:Author: Andrew Molodynski
-:Author: Stephen Puntis
-:Author: Em Mcallister
-:Author: Hannah Wheeler
-:Author: Keith Cooper
+Andrew Molodynski
+Stephen Puntis
+Em Mcallister
+Hannah Wheeler
+Keith Cooper
 :Date: 2022-06
+
+
+.. contents::
+   :depth: 3
+..
 
 pmc
 In the original published article, country names were missing from the

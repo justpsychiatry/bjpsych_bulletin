@@ -2,10 +2,11 @@
 Perspectives: involving persons with lived experience of mental health conditions in service delivery, development and leadership
 =================================================================================================================================
 
-:Author: Charlene Sunkel
-:Author: Claudia SartorCorrespondence to Charlene Sunkel
-         (charlene.sunkel@gmhpn.org)
+Charlene Sunkel
+Claudia SartorCorrespondence to Charlene Sunkel
+(charlene.sunkel@gmhpn.org)
 :Date: 2022-06
+
 :Abstract:
    Globally, there has been an emphasis on the importance and value of
    involving people with lived experience of mental health conditions in
@@ -20,18 +21,22 @@ Perspectives: involving persons with lived experience of mental health condition
    leadership.
 
 
+.. contents::
+   :depth: 3
+..
+
 pmc
 The World Health Organization (WHO) describes advocacy as ‘an important
 means of raising awareness on mental health issues and ensuring that
 mental health is on the national agenda of governments. Advocacy can
 lead to improvements in policy, legislation and service
-development’.\ :sup:`1` By this definition, people with lived experience
-of mental health conditions (hereafter referred to as ‘persons with
-lived experience’) have increasingly become the driving force behind
-advocacy and awareness work globally, and have entered the mental health
-workforce in various capacities of service delivery, from peer-to-peer
-support work to professional occupations in the field of mental health
-and human rights.
+development’.\ :sup:`(n.d.a)` By this definition, people with lived
+experience of mental health conditions (hereafter referred to as
+‘persons with lived experience’) have increasingly become the driving
+force behind advocacy and awareness work globally, and have entered the
+mental health workforce in various capacities of service delivery, from
+peer-to-peer support work to professional occupations in the field of
+mental health and human rights.
 
 The all-encompassing objective of lived experience involvement is
 development and leadership and to create communities in which people
@@ -48,39 +53,39 @@ there are still a number of obstacles to overcome before it is possible
 to fully include people with lived experience at all levels. We are
 embedded in frameworks of shared values and beliefs – social, cultural
 and environmental factors that directly and indirectly influence
-psychopathology.\ :sup:`2` Our experiences throughout our life journeys
-largely determine the nature of our perceptions and our attitudes
-towards notions. Although there is undoubtedly a complex connection
-between culture and mental illness, negative perceptions and
+psychopathology.\ :sup:`(n.d.b)` Our experiences throughout our life
+journeys largely determine the nature of our perceptions and our
+attitudes towards notions. Although there is undoubtedly a complex
+connection between culture and mental illness, negative perceptions and
 insensitivity result in stigma, discrimination and violations of human
 rights.The language used to talk about mental health also creates
 barriers because the way in which we understand, and subsequently
 express, experiences can be easily misinterpreted and consequently
 negative assumptions are made about others. It is therefore imperative
 to obtain clarity in the distinction between terms such as ‘mental
-health’ and ‘mental illness’.\ :sup:`3`\ People continue to believe that
-individuals with mental health conditions are violent, mad, lazy,
-possessed by demons\ :sup:`4` and incapable of positively contributing
-to society and the economy. Negative stereotypes and inaccurate
-portrayals such as these affect help-seeking behaviour and result in an
-unwillingness of those suffering to seek support from loved ones. People
-ought to be cognisant that when they perpetrate and share negative
-stereotypes, it has an impact on the entire recovery process and it
-affects not only those who struggle with mental illness but also those
-working in the mental health field. The fact is that negative
+health’ and ‘mental illness’.\ :sup:`(n.d.c)`\ People continue to
+believe that individuals with mental health conditions are violent, mad,
+lazy, possessed by demons\ :sup:`(n.d.d)` and incapable of positively
+contributing to society and the economy. Negative stereotypes and
+inaccurate portrayals such as these affect help-seeking behaviour and
+result in an unwillingness of those suffering to seek support from loved
+ones. People ought to be cognisant that when they perpetrate and share
+negative stereotypes, it has an impact on the entire recovery process
+and it affects not only those who struggle with mental illness but also
+those working in the mental health field. The fact is that negative
 perceptions lead to prejudice at home, in the workplace, within local
-communities and within our healthcare systems.\ :sup:`3`
+communities and within our healthcare systems.\ :sup:`(n.d.c)`
 
 Apart from these attitudinal barriers, social determinants of mental
-illness,\ :sup:`5` including poor education, unemployment and poverty,
-further hinder opportunities for people with lived experience to develop
-leadership potential, pursue their passion for mental health work and
-follow a career in mental health advocacy and service delivery.
+illness,\ :sup:`(n.d.e)` including poor education, unemployment and
+poverty, further hinder opportunities for people with lived experience
+to develop leadership potential, pursue their passion for mental health
+work and follow a career in mental health advocacy and service delivery.
 Specifically, poor education along with a lack of access to adequate
 information are contributing factors that result in low mental health
 and human rights literacy among the more disadvantaged people with lived
 experience who are subjected to social and economic
-inequalities.\ :sup:`5`
+inequalities.\ :sup:`(n.d.e)`
 
 .. _sec2:
 
@@ -339,7 +344,7 @@ in their mental health recovery processes and recognise that ‘many
 people with lived experience lack the confidence or ability to
 articulate their views, particularly if they contradict the status quo
 and especially when speaking to people who hold similar roles to those
-who have taken choices away from us’.\ :sup:`6`
+who have taken choices away from us’.\ :sup:`(n.d.f)`
 
 Nevertheless, there is no denying that there is potential for leadership
 development of persons with lived experience in mainstream industries.
@@ -354,7 +359,7 @@ placed on peer relationships and the development of trust among peers.
 The challenge, however, lies in ensuring that the discipline of lived
 experience in mental healthcare does not become too codified or
 regulated, as it will lose its real purpose and lose what is the most
-important reason for someone's existence.\ :sup:`7`
+important reason for someone's existence.\ :sup:`(n.d.g)`
 
 It is likely that people who enter the field of mental healthcare do so
 because of their desire to help others and often also because of their
@@ -366,7 +371,7 @@ their clients’ or patients’ needs and vulnerabilities. In most cases
 people choose to become therapists to make a difference in someone
 else's life, to be appreciated for making a difference in society and to
 help others who have struggled with similar painful experiences as they
-did.\ :sup:`8`
+did.\ :sup:`(n.d.h)`
 
 Given the above, by empowering persons with lived experience by means of
 education and by developing and maintaining leadership roles there will
@@ -393,3 +398,46 @@ Declaration of interest
 =======================
 
 None.
+
+.. container:: references csl-bib-body hanging-indent
+   :name: refs
+
+   .. container:: csl-entry
+      :name: ref-ref1
+
+      n.d.a.
+
+   .. container:: csl-entry
+      :name: ref-ref2
+
+      n.d.b.
+
+   .. container:: csl-entry
+      :name: ref-ref3
+
+      n.d.c.
+
+   .. container:: csl-entry
+      :name: ref-ref4
+
+      n.d.d.
+
+   .. container:: csl-entry
+      :name: ref-ref5
+
+      n.d.e.
+
+   .. container:: csl-entry
+      :name: ref-ref6
+
+      n.d.f.
+
+   .. container:: csl-entry
+      :name: ref-ref7
+
+      n.d.g.
+
+   .. container:: csl-entry
+      :name: ref-ref8
+
+      n.d.h.

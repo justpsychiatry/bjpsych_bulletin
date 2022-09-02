@@ -1,0 +1,640 @@
+=====================================================================================================================
+Dementia in a Black and minority ethnic population: characteristics of presentation to an inner London memory service
+=====================================================================================================================
+
+Rosalyn Tuerk
+Justin SauerCorrespondence to Rosalyn Tuerk (rosalyn.tuerk@slam.nhs.uk)
+ [1]_
+:Date: 2015-8
+
+:Abstract:
+   **Aims and method** To examine data on referrals to an inner-city
+   London memory service to explore any differences in referral rates,
+   cognitive assessments and stages of dementia at presentation between
+   ethnic groups.
+
+   **Results** African–Caribbean patients were well represented in the
+   memory service. They were diagnosed with dementia on average 4.5
+   years younger than their White British counterparts and were more
+   likely to be diagnosed with a vascular or mixed type dementia.
+   However, scores on initial cognitive testing were significantly lower
+   in the African–Caribbean group, possibly representing more advanced
+   disease at presentation.
+
+   **Clinical implications** Initiatives to access Black and minority
+   ethnic populations earlier in the course of their illness should be
+   considered. Professionals need to consider the potential for cultural
+   bias in memory testing and diagnosing dementia in these populations,
+   and the importance of cultural competency in assessments.
+
+
+.. contents::
+   :depth: 3
+..
+
+The number and proportion of Black and minority ethnic (BME) people with
+dementia is set to increase sharply over the coming
+years.\ :sup:`(n.d.a)` As the ‘most ethnically diverse area’ across
+England and Wales,\ :sup:`(n.d.b)` memory assessment services in London
+must be able to meet this challenge and address the needs of people from
+BME backgrounds. Established in 2010, the Southwark and Lambeth Memory
+Service (SLMS) provides memory assessment services in two inner London
+boroughs, to people over the age of 18 with mild to moderate memory
+problems and without an existing diagnosis of dementia. Patients are
+offered a comprehensive assessment, with initial cognitive testing using
+the Standardised Mini-Mental State Examination (SMMSE) and Addenbrooke's
+Cognitive Examination III (ACE-III). Patients are also offered brain
+neuroimaging and, where indicated, additional neuropsychological
+testing. Diagnoses are considered within a multidisciplinary team and
+appropriate treatment and follow-up are agreed with patients and carers.
+
+The National Dementia Strategy\ :sup:`(n.d.c)` prioritises early
+diagnosis and intervention in people with dementia. Current research,
+however, suggests that people from BME backgrounds present to memory
+assessment services later in the course of their
+disease.\ :sup:`(n.d.d)` This prevents them from benefiting from
+intervention and treatment as early as their White British
+counterparts.\ :sup:`(n.d.e)` This study examines the stage at which the
+BME population presents to SLMS and their rates of dementia diagnosis,
+and considers subsequent areas for service development to better meet
+the needs of different ethnic groups.
+
+.. _S1:
+
+Method
+======
+
+The study received approval from the shared research and development
+office of the Institute of Psychiatry and Maudsley Hospital. The
+analysis used anonymised data from a referrals database, maintained for
+the purposes of service monitoring, and includes patients referred
+during the first 2 years of the SLMS's operation. Information on
+patients' ethnicity, age at the time of referral, scores on initial
+cognitive testing and the diagnosis given by the service was collated.
+Data are drawn from the SLMS's use of earlier versions of the cognitive
+tests cited above (the Mini-Mental State Examination
+(MMSE)\ :sup:`(n.d.f)` and Addenbrooke's Cognitive Examination Revised
+(ACE-R)\ :sup:`(n.d.g)`). In cases where patients' diagnostic
+classification changed during the course of their involvement with the
+service (e.g. from mild cognitive impairment to dementia), the initial
+diagnosis is used. To avoid bias, people unable to fully complete the
+two cognitive tests were excluded from the analysis.
+
+We used the harmonised ethnic group categorisations from the 2001 UK
+census\ :sup:`(n.d.h)` to allow for comparisons between the SLMS sample
+and data on the ethnic composition of the local population. For the
+purpose of data analysis, patients were divided into two groups: White
+British (WB) and Black and minority ethnic (BME). Definitions of BME are
+wide-reaching and may include anyone with a ‘cultural heritage which is
+differentiated from that of the White majority of the
+UK’.\ :sup:`(n.d.i)` Owing to the very small number of patients from
+some ethnic groups in the SLMS sample, only patients from Caribbean and
+African backgrounds were included in the BME group. Comment is made in
+the discussion section on the relevance of the findings to people from
+other BME backgrounds.
+
+Differences in the stage of presentation to the memory service were
+analysed by comparing patients' ages at the time of referral and MMSE
+and ACE-R scores on initial cognitive assessment. The prevalence of
+dementia diagnoses within each of the two groups was compared using
+Pearson's chi-squared test. Scores on cognitive testing for patients
+receiving a diagnosis of dementia were also compared. Unless otherwise
+stated, all means were compared using Student's *t*-test, having first
+satisfied the criteria for Levene's test of equality of variances;
+*P*\ =0.05 were deemed to be significant.
+
+.. _S2:
+
+Results
+=======
+
+Overall, 460 patients referred between January 2011 and December 2012
+completed the assessment process and received a diagnosis from the
+service. Of these, 384 were from White British, Black Caribbean and
+Black African ethnic groups (WB: *n* = 239, 68.7%; BME: *n* = 109,
+31.3%). Then, 290 patients completed cognitive testing in full;
+proportions of patients from each group able and/or willing to complete
+full cognitive testing were similar (WB: *n* = 199, 83.3%; BME: *n* =
+91, 83.5%).
+
+The majority of SLMS patients were over 60 years of age. `Table
+1 <#T1>`__ compares the most common ethnic groups within the SLMS sample
+and the local population of people over the statutory retirement age.
+These are notably different in distribution, with the SLMS sample
+comprising a smaller percentage of White British patients and larger
+proportions of the other featured ethnic groups.
+
+.. container:: table-wrap
+   :name: T1
+
+   .. container:: caption
+
+      .. rubric:: 
+
+      Comparison of most common ethnic groups in the SLMS sample and
+      local population
+
+   +-------------+-------------+-------------+-------------+-------------+
+   | Ethnicity   | Patients in | Percentage  | Local       | Percentage  |
+   |             | SLMS        | of total    | population  | of local    |
+   |             | sample      | SLMS        | over        | pop         |
+   |             | (*n*)       | sample\ `a  | 60 years of | ulation\ `a |
+   |             |             |  <#TFN2>`__ | age         |  <#TFN2>`__ |
+   |             |             |             | (*n*)\ :su  |             |
+   |             |             |             | p:`(n.d.j)` |             |
+   +=============+=============+=============+=============+=============+
+   | White:      | 239         | 52.0%       | 36 100      | 63.4%       |
+   | British     |             |             |             |             |
+   +-------------+-------------+-------------+-------------+-------------+
+   |             |             |             |             |             |
+   +-------------+-------------+-------------+-------------+-------------+
+   | Black or    | 86          | 18.7%       | 6300        | 11.1%       |
+   | Black       |             |             |             |             |
+   | British:    |             |             |             |             |
+   | Caribbean   |             |             |             |             |
+   +-------------+-------------+-------------+-------------+-------------+
+   |             |             |             |             |             |
+   +-------------+-------------+-------------+-------------+-------------+
+   | White: any  | 47          | 10.2%       | 3500        | 6.2%        |
+   | other white |             |             |             |             |
+   | background  |             |             |             |             |
+   +-------------+-------------+-------------+-------------+-------------+
+   |             |             |             |             |             |
+   +-------------+-------------+-------------+-------------+-------------+
+   | White:      | 38          | 8.3%        | 3800        | 6.7%        |
+   | Irish       |             |             |             |             |
+   +-------------+-------------+-------------+-------------+-------------+
+   |             |             |             |             |             |
+   +-------------+-------------+-------------+-------------+-------------+
+   | Black or    | 23          | 5.0%        | 2400        | 4.2%        |
+   | Black       |             |             |             |             |
+   | British:    |             |             |             |             |
+   | African     |             |             |             |             |
+   +-------------+-------------+-------------+-------------+-------------+
+   |             |             |             |             |             |
+   +-------------+-------------+-------------+-------------+-------------+
+   | Asian or    | 12          | 2.6%        | 1300        | 2.3%        |
+   | Asian       |             |             |             |             |
+   | British:    |             |             |             |             |
+   | Indian      |             |             |             |             |
+   +-------------+-------------+-------------+-------------+-------------+
+   |             |             |             |             |             |
+   +-------------+-------------+-------------+-------------+-------------+
+   | All other   | 15          | 3.3%        | 3500        | 6.2%        |
+   | BME groups  |             |             |             |             |
+   +-------------+-------------+-------------+-------------+-------------+
+
+   SLMS, Southwark and Lambeth Memory Service.
+
+   Percentages may not add up to 100 owing to rounding.
+
+At referral to the service, BME patients (mean age 77.19 years, s =
+7.094) were significantly younger than WB patients (mean age 80.23
+years, s = 8.777; *t*\ (212.729) = 3.132, *P* = 0.002). In this case,
+Levene's test could not conclude equality of variances (*P* = 0.026),
+therefore a *t*-test appropriate to samples with potential unequal
+variances was used. The age gap increases in patients subsequently
+diagnosed with dementia (mean age: BME patients 78.69 years, s = 6.208,
+WB patients 83.25 years, s = 6.599; *t*\ :sub:`(187)` = 4.685,
+*P*\ <0.001).
+
+Patients in the BME group scored significantly lower on both the ACE-R
+and the MMSE: ACE-R total possible score 100; mean score: WB patients
+66.2, s = 16.652, BME patients 54.5, s = 14.482; *t*\ :sub:`(288)` =
+5.768, *P*\ <0.001,MMSE total possible score 30; mean score: WB patients
+23.4, s = 4.917, BME patients 21.7, s = 4.573, *t*\ :sub:`(288)` =
+2.759, *P* = 0.006.
+
+In patients subsequently diagnosed with dementia, there was a
+significant difference in scores on the ACE-R (WB mean score 57.4, s =
+13.464; BME mean score 48.7, s = 11.226; *t*\ :sub:`(187)` = 4.431,
+*P*\ <0.001). BME patients with a new diagnosis of dementia also scored
+lower on the MMSE, but this difference was not found to be significant
+(WB mean score 21.0, s = 4.613; BME mean score 20.1, s = 4.166,
+*t*\ :sub:`(187)` = 1.294, *P* = 0.197).
+
+Three-quarters of the BME group (75.2%, *n* = 82) were diagnosed with
+dementia, compared with 65.7% of the WB group (*n* = 157). There was no
+significant relationship between ethnic group and the likelihood of
+receiving a diagnosis of dementia (χ\ :sup:`2`\ :sub:`(1, N = 348)` =
+2.739, *P* = 0.098). When dementia subtypes were considered,
+significantly more patients from the BME group were diagnosed with a
+dementia with a vascular component (either vascular dementia or mixed
+Alzheimer's disease and vascular dementia) (χ\ :sup:`2`\ :sub:`(1, N =
+348)` = 4.531, *P* = 0.033).
+
+.. _S3:
+
+Discussion
+==========
+
+Ethnic identity is multifaceted, subjective, can change over
+time\ :sup:`(n.d.k)` and may be based on collective identity, common
+ancestry, heritage, religion, culture, nationality, language and
+territory.\ :sup:`(n.d.h)` Individual beliefs may be influenced by
+culture, and thus culture can shape the meaning which individuals
+ascribe to dementia.\ :sup:`(n.d.l)` Beliefs about dementia, such as it
+being part of normal ageing,\ :sup:`(n.d.m)` may create barriers to
+help-seeking and influence when individuals present to memory
+services.\ :sup:`(n.d.n)` Current research suggests that BME older
+people access services at a more severe stage of cognitive impairment
+than White British people,\ :sup:`(n.d.o)` which may account for their
+lower cognitive scores in this study. In BME populations, the decision
+to seek formal help tends to be precipitated by a health or behavioural
+crisis\ :sup:`(n.d.m)` or the emergence of neuropsychiatric symptoms and
+problems with basic activities of daily living.\ :sup:`(n.d.d)` It may
+also be influenced by varying knowledge of Alzheimer's disease and
+dementia across ethnic groups (although all groups hold significant
+misperceptions).\ :sup:`(n.d.e)` All ethnic groups attach stigma to
+dementia, although the extent and nature of this
+varies;\ :sup:`(n.d.e),(n.d.p)` family concerns about previous negative
+experiences of psychiatric services may, however, be particularly
+significant to BME groups.\ :sup:`(n.d.d)`
+
+Cultural bias in cognitive testing may also explain the difference in
+scores. African–Caribbean patients have consistently been found to score
+lower than White British patients on the MMSE\ :sup:`(n.d.q)–(n.d.r)`
+and the standard cut-off of 24 may have a high rate of false positive
+screening for dementia in BME groups.\ :sup:`(n.d.s),(n.d.t)` Adjusting
+for factors such as educational attainment did not always explain these
+differences;\ :sup:`(n.d.q),(n.d.u)` scores may also have been affected
+by unfamiliarity with the language and culture of the test setting, and
+higher levels of anxiety during testing.\ :sup:`(n.d.v)` The idea of
+cultural bias is particularly supported by one study which found that
+White British participants scored equally well on both the traditional
+version of the MMSE and a version validated for use with older
+African–Caribbean people,\ :sup:`(n.d.w)` while African–Caribbean
+participants scored significantly better on the culturally modified
+version.\ :sup:`(n.d.r)`
+
+The ACE-R differs from the MMSE in its greater sensitivity to detect
+early dementia.\ :sup:`(n.d.x)` Modifying and validating it for other
+cultural contexts has required more than straightforward translation,
+including adaptations to cater for study participants with lower levels
+of education,\ :sup:`(n.d.y)` cut-off scores stratified by educational
+background\ :sup:`(n.d.z)` and modified cut-offs to account for
+variations in structure and difficulty between
+languages.\ :sup:`(n.d.aa)` This demonstrates the difficulty of
+administering the test to a sample as culturally diverse as that found
+at the SLMS. Studies validating the ACE-R's diagnostic accuracy fail to
+mention ethnic diversity within their
+samples\ :sup:`(n.d.g),(n.d.x),(n.d.ab),(n.d.ac)` and tested a
+clinic-based population with a notably younger mean age than the SLMS
+sample, therefore their findings may not be transferable. A study
+carried out in another area of the UK required lower cut-offs to
+preserve diagnostic accuracy,\ :sup:`(n.d.ad)` although again the ethnic
+breakdown of participants is unknown.
+
+Most studies carried out in the UK to date have also found a higher
+prevalence of dementia among African-Caribbean older
+people,\ :sup:`(n.d.q),(n.d.r),(n.d.ae)` although one found differences
+only between English and non-English-speaking members of BME
+groups.\ :sup:`(n.d.af)` The current study found no overall difference
+in dementia diagnosis rates, but revealed an increased prevalence of
+dementia with a vascular component in the African–Caribbean group.
+Although most of the studies cited did not explore dementia subtypes,
+one linked an increased incidence of conditions such as hypertension and
+diabetes to a higher prevalence of vascular dementia in their
+African–Caribbean sample.\ :sup:`(n.d.q)` Another found an equal
+prevalence of hypertension in the African–Caribbean and British-born
+groups, but that awareness of it was reduced among African–Caribbean
+people, who were significantly more likely to have dementia if
+hypertension was not correctly treated.\ :sup:`(n.d.ag)` Health
+education about risk factors for vascular dementia could therefore
+potentially benefit BME groups, especially given the earlier age of
+presentation to the SLMS.
+
+Patients access the SLMS through their general practitioner (GP),
+therefore GPs influence the stage at which patients access specialist
+help. A suspicion of emerging dementia is often followed by ‘watchful
+waiting’ in primary care rather than immediate referral to a
+specialist.\ :sup:`(n.d.ah)` People from BME backgrounds access primary
+care at a similar rate to White British people,\ :sup:`(n.d.d),(n.d.ai)`
+however, there appears to be little research into factors which may
+influence this wait for specialist referral. Difficulties in cognitive
+screening in primary care may be further compounded when assessing older
+BME people, where culture and the language used to describe problems may
+influence presentation.\ :sup:`(n.d.u)`
+
+.. _S4:
+
+International evidence
+----------------------
+
+This is a UK-based study at a local level, however, its findings are
+consistent with research carried out abroad. A survey of clinical
+dementia centres across Europe found varying levels of access by BME
+patients and that where these patients did access services, diagnostic
+evaluation was more challenging owing to language barriers and the
+availability only of cognitive assessment tools validated in Western
+cultures.\ :sup:`(n.d.aj)` Older Chinese and Vietnamese patients in
+Australia were believed to present to memory services at a more advanced
+stage of cognitive impairment\ :sup:`(n.d.ak)` and linguistic and
+cultural complexities may have contributed to longer waits for diagnosis
+in primary care.\ :sup:`(n.d.al)` BME populations were diagnosed with
+dementia at an earlier age in one Danish study,\ :sup:`(n.d.am)` and
+similar barriers to help-seeking for carers of BME patients with
+dementia were evident in research from both
+Australia\ :sup:`(n.d.ak),(n.d.al)` and the USA.\ :sup:`(n.d.e)` Given
+the international recognition of the growing need for culturally
+sensitive memory services (including throughout
+Europe,\ :sup:`(n.d.aj),(n.d.am)` the USA\ :sup:`(n.d.l)` and
+Australia\ :sup:`(n.d.ak),(n.d.al)`), the findings of this study are
+likely to be relevant to those working in such settings.
+
+.. _S5:
+
+Limitations
+-----------
+
+This study is limited in its use of data collected in the course of
+routine clinical practice. Assessments were carried out by a variety of
+clinicians and although all were trained in the cognitive tools used,
+the question of interrater reliability remains. Standardised data on the
+educational background of participants are also unavailable. In
+addition, only patients who consented to and completed the assessment
+and diagnosis process were included in this study. There is no data on
+the ethnicity of the patients who refused assessment or who were unable
+to complete the process for other reasons, thus we cannot speculate on
+whether ethnicity may influence this. Some ethnic groups, such as South
+Asian people, were not represented in our analysis. The issues
+influencing presentation to memory services may be similar for these
+groups; for example, a study on Gujarati populations also found lower
+MMSE scores and a lower median age in the Gujarati group of a community
+screening programme.\ :sup:`(n.d.an)` The small numbers of patients from
+other BME populations indicates the need for further research into the
+extent to which they are accessing the SLMS, and limits the ability of
+this study to draw wider conclusions about the experiences of BME
+people.
+
+.. _S6:
+
+Clinical implications
+---------------------
+
+Compared with local population figures, the SLMS sample includes a
+higher proportional representation of African–Caribbean-born people than
+might be expected. While this finding may seem positive, our results
+show a more marked degree of cognitive impairment in the BME group,
+despite the younger age at presentation. This indicates a need to work
+with local stakeholders to ensure a lower threshold for referring
+African–Caribbean patients to the service, and to investigate ease of
+access for patients from other BME groups.
+
+Culturally sensitive assessment is also required. This includes
+reflection on the way cognitive impairment is assessed in a population
+with varied cultural and educational backgrounds\ :sup:`(n.d.ao)` and an
+avoidance of stereotypical beliefs.\ :sup:`(n.d.ap)` Culturally
+sensitive cognitive tools should be used where they exist, and cognitive
+testing should not be the only means of determining
+diagnoses.\ :sup:`(n.d.ab)` The SLMS should continue the approach of
+considering cognitive test scores in the context of patient and carer
+accounts, brain neuroimaging, screening for affective disorders and
+additional neuropsychological testing to ensure accurate diagnosis. GPs
+also need to be aware of potential differences in age at onset of
+dementia and vascular risk differentials, to ensure effective
+cardiovascular preventative measures and arrange appropriate and early
+onward referral to secondary care.
+
+Further analysis of similar data from a range of local memory services
+would be useful in detecting whether the trends evident in this study
+are reflected in the local population and other BME groups. It would be
+useful to include non-mental health services diagnosing dementia (e.g.
+geriatricians' clinics and neurology) in this analysis. The analysis
+into severity of impairment at presentation could be expanded by
+combining cognitive scores with other rating scales assessing
+neuropsychiatric symptoms and activities of daily living. Differences in
+other aspects of service provision and quality of life, such as
+assessment refusal rates, treatment with cognitive enhancer medications
+and the role of support networks in encouraging or discouraging
+help-seeking could also be explored.
+
+Caution must be applied to the interpretation of these results. Although
+the term BME may imply homogeneity, it encompasses a wide variety of
+unique individual and collective experiences\ :sup:`(n.d.i)` and the
+diversity both within and between ethnic groups must not be overlooked.
+Ethnicity may play an important role in influencing presentation to
+memory services, but this is only one part of the picture, and
+consideration for individual difference must always remain paramount.
+
+We thank Martin Scott for his assistance with statistical analysis.
+
+.. container:: references csl-bib-body hanging-indent
+   :name: refs
+
+   .. container:: csl-entry
+      :name: ref-R1
+
+      n.d.a.
+
+   .. container:: csl-entry
+      :name: ref-R2
+
+      n.d.b.
+
+   .. container:: csl-entry
+      :name: ref-R3
+
+      n.d.c.
+
+   .. container:: csl-entry
+      :name: ref-R4
+
+      n.d.d.
+
+   .. container:: csl-entry
+      :name: ref-R5
+
+      n.d.e.
+
+   .. container:: csl-entry
+      :name: ref-R6
+
+      n.d.f.
+
+   .. container:: csl-entry
+      :name: ref-R7
+
+      n.d.g.
+
+   .. container:: csl-entry
+      :name: ref-R8
+
+      n.d.h.
+
+   .. container:: csl-entry
+      :name: ref-R9
+
+      n.d.i.
+
+   .. container:: csl-entry
+      :name: ref-R10
+
+      n.d.j.
+
+   .. container:: csl-entry
+      :name: ref-R11
+
+      n.d.k.
+
+   .. container:: csl-entry
+      :name: ref-R12
+
+      n.d.l.
+
+   .. container:: csl-entry
+      :name: ref-R13
+
+      n.d.m.
+
+   .. container:: csl-entry
+      :name: ref-R14
+
+      n.d.n.
+
+   .. container:: csl-entry
+      :name: ref-R15
+
+      n.d.o.
+
+   .. container:: csl-entry
+      :name: ref-R16
+
+      n.d.p.
+
+   .. container:: csl-entry
+      :name: ref-R17
+
+      n.d.q.
+
+   .. container:: csl-entry
+      :name: ref-R19
+
+      n.d.r.
+
+   .. container:: csl-entry
+      :name: ref-R20
+
+      n.d.s.
+
+   .. container:: csl-entry
+      :name: ref-R21
+
+      n.d.t.
+
+   .. container:: csl-entry
+      :name: ref-R22
+
+      n.d.u.
+
+   .. container:: csl-entry
+      :name: ref-R23
+
+      n.d.v.
+
+   .. container:: csl-entry
+      :name: ref-R24
+
+      n.d.w.
+
+   .. container:: csl-entry
+      :name: ref-R25
+
+      n.d.x.
+
+   .. container:: csl-entry
+      :name: ref-R26
+
+      n.d.y.
+
+   .. container:: csl-entry
+      :name: ref-R27
+
+      n.d.z.
+
+   .. container:: csl-entry
+      :name: ref-R28
+
+      n.d.aa.
+
+   .. container:: csl-entry
+      :name: ref-R29
+
+      n.d.ab.
+
+   .. container:: csl-entry
+      :name: ref-R30
+
+      n.d.ac.
+
+   .. container:: csl-entry
+      :name: ref-R31
+
+      n.d.ad.
+
+   .. container:: csl-entry
+      :name: ref-R32
+
+      n.d.ae.
+
+   .. container:: csl-entry
+      :name: ref-R33
+
+      n.d.af.
+
+   .. container:: csl-entry
+      :name: ref-R34
+
+      n.d.ag.
+
+   .. container:: csl-entry
+      :name: ref-R35
+
+      n.d.ah.
+
+   .. container:: csl-entry
+      :name: ref-R36
+
+      n.d.ai.
+
+   .. container:: csl-entry
+      :name: ref-R37
+
+      n.d.aj.
+
+   .. container:: csl-entry
+      :name: ref-R38
+
+      n.d.ak.
+
+   .. container:: csl-entry
+      :name: ref-R39
+
+      n.d.al.
+
+   .. container:: csl-entry
+      :name: ref-R40
+
+      n.d.am.
+
+   .. container:: csl-entry
+      :name: ref-R41
+
+      n.d.an.
+
+   .. container:: csl-entry
+      :name: ref-R42
+
+      n.d.ao.
+
+   .. container:: csl-entry
+      :name: ref-R43
+
+      n.d.ap.
+
+.. [1]
+   **Rosalyn Tuerk** is a community practitioner, South London and
+   Maudsley NHS Foundation Trust, and King's Health Partners, London,
+   UK. **Justin Sauer** is a consultant psychiatrist, South London and
+   Maudsley NHS Foundation Trust, King's Health Partners, and Honorary
+   Lecturer, Institute of Psychiatry, King's College London.

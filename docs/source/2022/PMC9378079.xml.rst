@@ -2,10 +2,11 @@
 Developing Inpatient Management Strategies for Behavioural and Psychological Symptoms of Dementia (DIMS-BPSD)
 =============================================================================================================
 
-:Author: Jennifer Parker
-:Author: Ryan Beazley
-:Author: Stephen De Souza*Presenting author.
+Jennifer Parker
+Ryan Beazley
+Stephen De Souza*Presenting author.
 :Date: 2022-06
+
 :Abstract:
    .. rubric:: Aims
       :name: sec_a1
@@ -57,5 +58,9 @@ Developing Inpatient Management Strategies for Behavioural and Psychological Sym
    numbers are small and further interventions, such as more PDSA
    cycles, may add value and encourage sustainability.
 
+
+.. contents::
+   :depth: 3
+..
 
 pmc

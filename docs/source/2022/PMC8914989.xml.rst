@@ -2,9 +2,9 @@
 Self-harm and suicide in adults: will safety plans keep people safe after self-harm?
 ====================================================================================
 
-:Author: Allan HouseCorrespondence to Allan House
-         (a.o.house@leeds.ac.uk)
+Allan HouseCorrespondence to Allan House (a.o.house@leeds.ac.uk)
 :Date: 2022-02
+
 :Abstract:
    Safety planning is recommended as a part of the response to everybody
    who presents after self-harm, although there is surprisingly little
@@ -17,21 +17,25 @@ Self-harm and suicide in adults: will safety plans keep people safe after self-h
    effective.
 
 
+.. contents::
+   :depth: 3
+..
+
 pmc
 It has been known for a long time that the risk of suicide is greatly
-increased after hospital presentation due to self-harm.\ :sup:`1`
+increased after hospital presentation due to self-harm.\ :sup:`(n.d.a)`
 England's National Suicide Prevention Strategy recognises this risk and
 its 2017 report ‘expanded the scope of the National Strategy to include
-self-harm as a new key area for action’.\ :sup:`2` This welcome policy
-change brings with it a dilemma – how to respond to self-harm as a
-suicide risk while at the same time responding to its many other
+self-harm as a new key area for action’.\ :sup:`(n.d.b)` This welcome
+policy change brings with it a dilemma – how to respond to self-harm as
+a suicide risk while at the same time responding to its many other
 meanings. Suicide is perhaps the worst outcome in psychiatry and
 inevitably captures our attention – can we develop our services to
 respond to the risk without at the same time allowing the
 ‘risk-reduction’ aspect of service provision to overshadow the rest of
 the process of care? The recent Royal College of Psychiatrists (RCPsych)
-report *Self-harm and Suicide in Adults* (CR229)\ :sup:`3` can be read
-as an attempt to answer this question.
+report *Self-harm and Suicide in Adults* (CR229)\ :sup:`(n.d.c)` can be
+read as an attempt to answer this question.
 
 .. _sec1:
 
@@ -45,7 +49,7 @@ at least in the short term, is making a safety plan. According to the
 report, such a plan comprises: individual strategies or activities to
 instil hope; calming or distracting activities; restriction of access to
 common means of suicide; and contacts for social and crisis
-support.\ :sup:`3` It has to be said that some of the illustrative
+support.\ :sup:`(n.d.c)` It has to be said that some of the illustrative
 activities seem a bit weak for the work they have to do – looking at a
 photo of a great view or doing Sudoku for example – but if the plan is
 genuinely co-produced then its elements might be expected to make sense
@@ -54,8 +58,8 @@ to the person to whom it applies.
 There are a number of similar approaches to that proposed by the
 RCPsych, and something very similar forms a part of the risk management
 plan endorsed by the National Institute for Health and Care Excellence
-(NICE) as an essential component of the response to self-harm.4 On the
-face of it, it seems like an uncontroversial recommendation that
+(NICE) as an essential component of the response to self-harm.(n.d.d) On
+the face of it, it seems like an uncontroversial recommendation that
 everybody should indeed have something like a safety plan: does that
 initial impression hold up to closer scrutiny, especially in relation to
 the dilemma under discussion here?
@@ -68,35 +72,36 @@ How effective is safety planning after self-harm?
 The first thing to say is that, given how roundly they are endorsed by
 the RCPsych, there is surprisingly little evidence to support the use of
 safety plans as a means of reducing repetition of self-harm. In fact,
-CR229 cites only one supportive study,\ :sup:`5` a retrospective
+CR229 cites only one supportive study,\ :sup:`(n.d.e)` a retrospective
 case-note review of 48 cases from the USA. Elsewhere, a small randomised
-controlled trial (*n* = 97) of active-duty US Army soldiers\ :sup:`6`
-reported, in a comparison of a crisis response plan versus a ‘contract
-for safety’, an effect on self-reported attempted suicide at 6 months
-(3/64 *v.* 5/33 participants). A recent review of suicide prevention
-interventions\ :sup:`7` reported a positive effect on subsequent
-self-harm rates but the positive outcome for that part of the review is
-accounted for by only two studies: one\ :sup:`8` is a study of men in
-active military service which used multiple outcomes and reported a
-reduction in self-reported attempted suicide but not in emergency
-department attendances for self-harm. The other\ :sup:`9` is a
-non-randomised comparison of Veterans Affairs hospitals; 90% of
-participants were men with ‘suicide-related concerns’ and the primary
-outcome (a composite measure of ‘suicidal behaviour') was found in 3–5%
-at 6 months. The results of these studies are not only unconvincing but
-they are not generalisable to the UK self-harm population.
+controlled trial (*n* = 97) of active-duty US Army
+soldiers\ :sup:`(n.d.f)` reported, in a comparison of a crisis response
+plan versus a ‘contract for safety’, an effect on self-reported
+attempted suicide at 6 months (3/64 *v.* 5/33 participants). A recent
+review of suicide prevention interventions\ :sup:`(n.d.g)` reported a
+positive effect on subsequent self-harm rates but the positive outcome
+for that part of the review is accounted for by only two studies:
+one\ :sup:`(n.d.h)` is a study of men in active military service which
+used multiple outcomes and reported a reduction in self-reported
+attempted suicide but not in emergency department attendances for
+self-harm. The other\ :sup:`(n.d.i)` is a non-randomised comparison of
+Veterans Affairs hospitals; 90% of participants were men with
+‘suicide-related concerns’ and the primary outcome (a composite measure
+of ‘suicidal behaviour') was found in 3–5% at 6 months. The results of
+these studies are not only unconvincing but they are not generalisable
+to the UK self-harm population.
 
 Of closer relevance to the position of UK clinicians seeing people after
 an episode of self-harm is the non-randomised Emergency Department
-Safety Assessment and Follow-up Evaluation (ED-SAFE) study,\ :sup:`10`
-which reported self-reported suicide attempts but not all self-harm
-episodes, citing a 12-month difference of 20.9% (treatment as usual)
-*v*. 18.3% (intervention) – a result that is by no means definitive
-given the study design. The only UK randomised controlled trial of a
-comparable intervention\ :sup:`11` – called a volitional help sheet,
-with many of the features of a suicide prevention plan – found no
-difference in 6-month self-harm repetition rates between usual care and
-the new intervention.
+Safety Assessment and Follow-up Evaluation (ED-SAFE)
+study,\ :sup:`(n.d.j)` which reported self-reported suicide attempts but
+not all self-harm episodes, citing a 12-month difference of 20.9%
+(treatment as usual) *v*. 18.3% (intervention) – a result that is by no
+means definitive given the study design. The only UK randomised
+controlled trial of a comparable intervention\ :sup:`(n.d.k)` – called a
+volitional help sheet, with many of the features of a suicide prevention
+plan – found no difference in 6-month self-harm repetition rates between
+usual care and the new intervention.
 
 .. _sec3:
 
@@ -117,19 +122,20 @@ One possible problem arises from the degree to which the implementation
 of the suicide prevention plan is left to the person who has
 self-harmed. The first four of the six suggestions under the heading
 ‘sources of support’ in the RCPsych report relate to marshalling social
-or informal supports,\ :sup:`3` yet we know that people who self-harm
-find it difficult to confide in others\ :sup:`12,13` and may be
-struggling with mood disorder and difficulties with problem-solving –
-problems that can exacerbate difficulties in calling on the assistance
-of others. The social network can be a positive resource or, on the
-other hand, a source of the adversity underlying self-harm, and it is
-not easy to get a clear picture during a single brief encounter: the
-result is that it can be neglected or misunderstood, especially during
-an assessment oriented towards the identification of individual
-pathology. Personal accounts, especially given by those with a history
-of repeated self-harm, indicate that conversations with staff can
-emphasise strongly this assumption of individual responsibility, for
-example by referring pointedly to the person's mental capacity.
+or informal supports,\ :sup:`(n.d.c)` yet we know that people who
+self-harm find it difficult to confide in others\ :sup:`(n.d.l),(n.d.m)`
+and may be struggling with mood disorder and difficulties with
+problem-solving – problems that can exacerbate difficulties in calling
+on the assistance of others. The social network can be a positive
+resource or, on the other hand, a source of the adversity underlying
+self-harm, and it is not easy to get a clear picture during a single
+brief encounter: the result is that it can be neglected or
+misunderstood, especially during an assessment oriented towards the
+identification of individual pathology. Personal accounts, especially
+given by those with a history of repeated self-harm, indicate that
+conversations with staff can emphasise strongly this assumption of
+individual responsibility, for example by referring pointedly to the
+person's mental capacity.
 
 The second substantial problem arises from the organisational context
 within which planning usually takes place. In truth, service provision
@@ -139,7 +145,7 @@ community mental health teams or Improving Access to Psychological
 Therapies (IAPT) services and yet there are very few specialist clinics.
 Again, from accounts of people with personal experience, this general
 lack of provision is exacerbated by the prevalence of the unhelpful
-concept of non-suicidal self-injury\ :sup:`14` – a diagnosis that
+concept of non-suicidal self-injury\ :sup:`(n.d.n)` – a diagnosis that
 suggests (misleadingly) that the individual is at low risk of suicide
 and that can therefore make accessing services difficult because the
 problem is not seen as sufficiently severe.
@@ -164,14 +170,14 @@ personalisation will not convey the right message or serve the purpose.
 Staff who are going to be undertaking safety planning should therefore
 be trained in techniques for joint planning – which may be drawn from
 those with expertise in techniques such as shared
-decision-making.\ :sup:`15`
+decision-making.\ :sup:`(n.d.o)`
 
 Quality improvement projects should be aimed not just at monitoring
 comprehensiveness of coverage; they could usefully explore the
 experience of safety planning from the perspective of people who have
 attended hospital after self-harm – including their level of personal
 involvement in the content and their sense of the usefulness of the
-plans. A starter might be the measure developed by NICE.\ :sup:`16`
+plans. A starter might be the measure developed by NICE.\ :sup:`(n.d.p)`
 
 Making safety planning meaningful depends on the accuracy and usefulness
 of nominated sources of support, and yet informal sources can be
@@ -190,8 +196,8 @@ Research is needed to determine the effectiveness and safety of safety
 planning, as an adjunct or alternative to standard assessments and
 follow-up planning. Research in other areas has usefully shown that an
 important moderator of outcomes is the degree to which there is genuine
-collaborative engagement of patients with planning,\ :sup:`17` and such
-process evaluation would be an important component of any future
+collaborative engagement of patients with planning,\ :sup:`(n.d.q)` and
+such process evaluation would be an important component of any future
 evaluation.
 
 **Allan House** is Emeritus Professor of Liaison Psychiatry in the Leeds
@@ -208,3 +214,91 @@ Declaration of interest
 =======================
 
 None.
+
+.. container:: references csl-bib-body hanging-indent
+   :name: refs
+
+   .. container:: csl-entry
+      :name: ref-ref1
+
+      n.d.a.
+
+   .. container:: csl-entry
+      :name: ref-ref2
+
+      n.d.b.
+
+   .. container:: csl-entry
+      :name: ref-ref3
+
+      n.d.c.
+
+   .. container:: csl-entry
+      :name: ref-ref4
+
+      n.d.d.
+
+   .. container:: csl-entry
+      :name: ref-ref5
+
+      n.d.e.
+
+   .. container:: csl-entry
+      :name: ref-ref6
+
+      n.d.f.
+
+   .. container:: csl-entry
+      :name: ref-ref7
+
+      n.d.g.
+
+   .. container:: csl-entry
+      :name: ref-ref8
+
+      n.d.h.
+
+   .. container:: csl-entry
+      :name: ref-ref9
+
+      n.d.i.
+
+   .. container:: csl-entry
+      :name: ref-ref10
+
+      n.d.j.
+
+   .. container:: csl-entry
+      :name: ref-ref11
+
+      n.d.k.
+
+   .. container:: csl-entry
+      :name: ref-ref12
+
+      n.d.l.
+
+   .. container:: csl-entry
+      :name: ref-ref13
+
+      n.d.m.
+
+   .. container:: csl-entry
+      :name: ref-ref14
+
+      n.d.n.
+
+   .. container:: csl-entry
+      :name: ref-ref15
+
+      n.d.o.
+
+   .. container:: csl-entry
+      :name: ref-ref16
+
+      n.d.p.
+
+   .. container:: csl-entry
+      :name: ref-ref17
+
+      n.d.q.

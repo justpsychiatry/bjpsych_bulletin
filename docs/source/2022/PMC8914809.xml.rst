@@ -2,13 +2,14 @@
 Individual placement and support: cross-sectional study of equality of access and outcome for Black, Asian and minority ethnic communities
 ==========================================================================================================================================
 
-:Author: Rachel Perkins
-:Author: Rash Patel
-:Author: Amelia Willett
-:Author: Laura Chisholm
-:Author: Miles RinaldiCorrespondence to Rachel Perkins
-         (rachel@rachelperkins.london)
+Rachel Perkins
+Rash Patel
+Amelia Willett
+Laura Chisholm
+Miles RinaldiCorrespondence to Rachel Perkins
+(rachel@rachelperkins.london)
 :Date: 2022-02
+
 :Abstract:
    .. rubric:: Aims and method
       :name: sec_a1
@@ -37,16 +38,21 @@ Individual placement and support: cross-sectional study of equality of access an
    illness.
 
 
+.. contents::
+   :depth: 3
+..
+
 pmc
 It is recognised that people from Black, Asian and minority ethnic
-(BAME) communities both perceive\ :sup:`1` and experience inequality in
-access,\ :sup:`2` experience and outcomes\ :sup:`3` within mental health
-services in England. The NHS Long Term Plan makes a renewed commitment
-to improve and widen access for adults needing mental health support
-partly through a new community-based offer. This includes access to
-employment support for people with severe mental health problems through
-the expansion of the evidence-based individual placement and support
-(IPS) approach.\ :sup:`4`
+(BAME) communities both perceive\ :sup:`(n.d.a)` and experience
+inequality in access,\ :sup:`(n.d.b)` experience and
+outcomes\ :sup:`(n.d.c)` within mental health services in England. The
+NHS Long Term Plan makes a renewed commitment to improve and widen
+access for adults needing mental health support partly through a new
+community-based offer. This includes access to employment support for
+people with severe mental health problems through the expansion of the
+evidence-based individual placement and support (IPS)
+approach.\ :sup:`(n.d.d)`
 
 IPS involves a direct, individualised search for competitive employment
 that avoids lengthy pre-employment preparation or training and does not
@@ -55,18 +61,18 @@ basis of diagnosis, symptoms or substance misuse. IPS is a ‘place and
 train’ approach, rather than a traditional ‘train and place’ approach,
 to vocational rehabilitation. There are now 27 randomised controlled
 trials supporting the efficacy of IPS compared with traditional
-vocational rehabilitation.\ :sup:`5` National Institute for Health and
-Care Excellence (NICE) guidance recommends IPS for people with severe
-mental health problems who wish to gain and retain
-employment.\ :sup:`6,7`
+vocational rehabilitation.\ :sup:`(n.d.e)` National Institute for Health
+and Care Excellence (NICE) guidance recommends IPS for people with
+severe mental health problems who wish to gain and retain
+employment.\ :sup:`(n.d.f),(n.d.g)`
 
 Within this context, consideration needs to be given to ensuring that
 people from BAME communities have fair access to employment support and
 equal opportunities to gain employment. There has been considerable
 concern that there is no parity between BAME communities and the White
 majority in access, experience and outcomes of mental
-healthcare\ :sup:`8` and so it is right that we ask questions about the
-effectiveness of IPS for BAME groups.
+healthcare\ :sup:`(n.d.h)` and so it is right that we ask questions
+about the effectiveness of IPS for BAME groups.
 
 .. _sec1:
 
@@ -96,8 +102,8 @@ the borough of Tower Hamlets.
 
 These services were selected because they are both mature, high-fidelity
 IPS services recognised as centres of excellence by the Centre for
-Mental Health.\ :sup:`9` Both serve areas of London where there are
-large BAME communities and they represent the two main models of
+Mental Health.\ :sup:`(n.d.i)` Both serve areas of London where there
+are large BAME communities and they represent the two main models of
 providing IPS in English secondary mental healthcare services. The CNWL
 IPS service is provided by the trust and all employment specialists are
 trust employees and members of multidisciplinary adult community mental
@@ -309,26 +315,28 @@ Our study would suggest that this is not the case. It showed no
 differences in access or outcome for Asian/Asian British people.
 Similarly, previous research has demonstrated that Asian/Asian British
 people using IPS services were more likely to be in employment than
-their White counterparts.\ :sup:`10` However, in our study it should
-also be noted that, although in CNWL the proportion of Asian/Asian
-British people was substantially higher among those accessing IPS
-services than among the adult community mental health services
-population (21.1 *v.* 16.5%), in WWT it was lower (32.7 *v.* 36.7%). It
-is possible that this difference results from different composition of
-the Asian/Asian British population (WWT: 80.5% Bangladeshi, 4.9% Indian,
-4.1% Pakistani; CNWL: 4.8% Bangladeshi, 41.7% Indian, 13.6% Pakistani).
-Clearly this area requires greater understanding and a more detailed
-breakdown of ethnicity than was possible here.
+their White counterparts.\ :sup:`(n.d.j)` However, in our study it
+should also be noted that, although in CNWL the proportion of
+Asian/Asian British people was substantially higher among those
+accessing IPS services than among the adult community mental health
+services population (21.1 *v.* 16.5%), in WWT it was lower (32.7 *v.*
+36.7%). It is possible that this difference results from different
+composition of the Asian/Asian British population (WWT: 80.5%
+Bangladeshi, 4.9% Indian, 4.1% Pakistani; CNWL: 4.8% Bangladeshi, 41.7%
+Indian, 13.6% Pakistani). Clearly this area requires greater
+understanding and a more detailed breakdown of ethnicity than was
+possible here.
 
 Literature relating to BAME communities and mental health services is
 replete with examples of disparities in access, experience and outcome
-of services and, in particular, high levels of compulsion.\ :sup:`11` In
-England, people with mental health problems from BAME communities have
-been less likely to use employment support services and as a consequence
-have been less likely to succeed in gaining employment than their White
-British peers.\ :sup:`12,13` Morgan et al\ :sup:`14` have suggested that
-addressing the social needs of BAME patients is likely to lead to
-improved clinical outcomes and engagement with services. Perhaps
+of services and, in particular, high levels of
+compulsion.\ :sup:`(n.d.k)` In England, people with mental health
+problems from BAME communities have been less likely to use employment
+support services and as a consequence have been less likely to succeed
+in gaining employment than their White British
+peers.\ :sup:`(n.d.l),(n.d.m)` Morgan et al\ :sup:`(n.d.n)` have
+suggested that addressing the social needs of BAME patients is likely to
+lead to improved clinical outcomes and engagement with services. Perhaps
 increasing the availability of IPS is one good way of doing this?
 
 .. _sec3-1:
@@ -337,7 +345,7 @@ How IPS works
 -------------
 
 IPS services are entirely voluntary. In line with the fidelity standards
-for IPS,\ :sup:`15` an employment specialist is integrated into a
+for IPS,\ :sup:`(n.d.o)` an employment specialist is integrated into a
 clinical team. People using secondary mental health services can access
 IPS services if they themselves want to work – there is no selection on
 the basis of diagnosis or supposed ‘readiness’ for work. IPS is
@@ -357,9 +365,9 @@ tell the employment specialist about their preferences. As IPS is
 integrated into the clinical team, the challenge for mental health
 professionals is not to decide who can and who cannot work but how to
 support people on their case-loads to access IPS and move forward with
-life beyond their illness.\ :sup:`16` Two interesting findings arise
-from this study: a disproportionate number of Black/Black British people
-were attracted to the IPS services – gaining employment was of
+life beyond their illness.\ :sup:`(n.d.p)` Two interesting findings
+arise from this study: a disproportionate number of Black/Black British
+people were attracted to the IPS services – gaining employment was of
 importance to them – and there were no significant differences in
 outcomes for people from different ethnic backgrounds.
 
@@ -379,12 +387,12 @@ neither could people's experience of using the services be ascertained,
 and a more detailed breakdown of ethnicity than was possible here would
 clearly be desirable. However, it is interesting to note that, of the
 three randomised controlled trials of IPS in England, none has reported
-outcomes by ethnicity,\ :sup:`17–19` whereas some of the naturalistic
-studies have.\ :sup:`20,21` Although there is a clear need for better
-quantitative data, the collection of qualitative data relating to
-people's experience of using IPS services is necessary to understand
-some of the differences found and ensure equality of access and outcome
-for all.
+outcomes by ethnicity,\ :sup:`(n.d.q)–(n.d.r)` whereas some of the
+naturalistic studies have.\ :sup:`(n.d.s),(n.d.t)` Although there is a
+clear need for better quantitative data, the collection of qualitative
+data relating to people's experience of using IPS services is necessary
+to understand some of the differences found and ensure equality of
+access and outcome for all.
 
 Everyone has the right to be treated with dignity and respect, without
 discrimination, and to be able to access appropriate mental healthcare
@@ -429,6 +437,109 @@ Declaration of interest
 =======================
 
 None.
+
+.. container:: references csl-bib-body hanging-indent
+   :name: refs
+
+   .. container:: csl-entry
+      :name: ref-ref1
+
+      n.d.a.
+
+   .. container:: csl-entry
+      :name: ref-ref2
+
+      n.d.b.
+
+   .. container:: csl-entry
+      :name: ref-ref3
+
+      n.d.c.
+
+   .. container:: csl-entry
+      :name: ref-ref4
+
+      n.d.d.
+
+   .. container:: csl-entry
+      :name: ref-ref5
+
+      n.d.e.
+
+   .. container:: csl-entry
+      :name: ref-ref6
+
+      n.d.f.
+
+   .. container:: csl-entry
+      :name: ref-ref7
+
+      n.d.g.
+
+   .. container:: csl-entry
+      :name: ref-ref8
+
+      n.d.h.
+
+   .. container:: csl-entry
+      :name: ref-ref9
+
+      n.d.i.
+
+   .. container:: csl-entry
+      :name: ref-ref10
+
+      n.d.j.
+
+   .. container:: csl-entry
+      :name: ref-ref11
+
+      n.d.k.
+
+   .. container:: csl-entry
+      :name: ref-ref12
+
+      n.d.l.
+
+   .. container:: csl-entry
+      :name: ref-ref13
+
+      n.d.m.
+
+   .. container:: csl-entry
+      :name: ref-ref14
+
+      n.d.n.
+
+   .. container:: csl-entry
+      :name: ref-ref15
+
+      n.d.o.
+
+   .. container:: csl-entry
+      :name: ref-ref16
+
+      n.d.p.
+
+   .. container:: csl-entry
+      :name: ref-ref17
+
+      n.d.q.
+
+   .. container:: csl-entry
+      :name: ref-ref19
+
+      n.d.r.
+
+   .. container:: csl-entry
+      :name: ref-ref20
+
+      n.d.s.
+
+   .. container:: csl-entry
+      :name: ref-ref21
+
+      n.d.t.
 
 .. [1]
    CNWL, Central and North West London NHS Foundation Trust; WWT,

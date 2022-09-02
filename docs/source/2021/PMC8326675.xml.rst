@@ -1,0 +1,905 @@
+====================================================================================================
+Teaching psychiatry to medical students in the time of COVID-19: experiences from UK medical schools
+====================================================================================================
+
+Ho Tim Timothy Leung
+Ali Ajaz
+Helen Bruce
+Ania KorszunCorrespondence to Ania Korszun (a.korszun@qmul.ac.uk)
+:Date: 2021-7-27
+
+:Abstract:
+   .. rubric:: Aims and method
+      :name: sec_a1
+
+   Education leads for undergraduate psychiatry in UK medical schools
+   completed questionnaires on adaptations made to undergraduate
+   psychiatry education, their impact and what lessons could be learnt
+   for the future.
+
+   .. rubric:: Results
+      :name: sec_a2
+
+   Respondents from 24 medical schools across the UK reported a major
+   shift to online teaching delivery, with reduced workplace learning
+   and increased use of teleconferencing, online tasks and self-directed
+   learning. Changes were implemented with some faculty training
+   provided, but little additional funding or resources from medical
+   schools or National Health Service trusts. A variety of challenges
+   and opportunities were reported.
+
+   .. rubric:: Clinical implications
+      :name: sec_a3
+
+   Despite the extraordinary efforts of education leads to maintain
+   undergraduate psychiatry education, the pandemic may affect the
+   development of students’ professional competencies and recruitment
+   into psychiatry. Individual clinicians, trusts and medical and
+   foundation schools have much to offer, and need to work with students
+   to replace what has been lost during the pandemic.
+
+
+.. contents::
+   :depth: 3
+..
+
+In the UK, the first lockdown in response to the COVID-19 pandemic was
+announced on 23 March 2020. This prompted rapid changes in medical
+education, including withdrawal of students from clinical placements and
+a shift to online teaching. As the pandemic continues, undergraduate
+medical educators face difficult choices to ensure a continuing supply
+of competent medical professionals for the future healthcare
+system.\ :sup:`(n.d.a)` Clinical skills in psychiatry will particularly
+be needed to address the significant impact of the pandemic on mental
+health. Increased depression and anxiety symptoms have been reported,
+including in young people,\ :sup:`(n.d.b)–(n.d.c)` and long-term
+consequences are emerging in those who have recovered from
+COVID-19.\ :sup:`(n.d.d)` Furthermore, many healthcare professionals are
+themselves experiencing symptoms of anxiety spectrum
+disorders.\ :sup:`(n.d.e),(n.d.f)`
+
+To prepare our future doctors for the expected rise in demand,
+high-quality psychiatric education must not only continue, but also be
+prioritised. There is no consensus or guidance yet on what and how
+adaptations to undergraduate psychiatry teaching should be implemented
+during the pandemic. Although individual institutions outside of the UK
+have shared their experiences,\ :sup:`(n.d.g)–(n.d.h)` there has been no
+work published to date from the UK or on the collective experiences of
+different institutions. Understanding the experiences of multiple
+institutions provides a powerful opportunity to share learning and
+identify the needs of this cohort of students.\ :sup:`(n.d.i)`
+
+.. _sec1-1:
+
+Objectives
+==========
+
+Our aims were to identify what and how adaptations to undergraduate
+psychiatry teaching were made in response to the pandemic restrictions,
+their impact and what lessons could be learnt from the collective
+experiences of UK medical schools.
+
+.. _sec2:
+
+Method
+======
+
+We conducted an online cross-sectional questionnaire survey of education
+leads for undergraduate psychiatry who represent their medical schools
+on the Royal College of Psychiatrists Undergraduate Education Forum
+(UEF). The questionnaire was drafted on Microsoft Forms (Microsoft,
+Richmond, Washington, U.S.; see https://forms.microsoft.com/). Questions
+were based on areas of adaptations identified in Gordon et al's scoping
+review\ :sup:`(n.d.j)` and current reports of adaptations in psychiatry
+teaching from other countries.\ :sup:`(n.d.g)–(n.d.k)` The UEF
+contributed to the final design of the questionnaire, which consisted of
+both open and closed questions, and included the following themes:
+changes to teaching delivery and content, changes to the psychiatry
+rotation, changes to assessment, support for learners, faculty
+development, funding and resources, and impact of adaptations.
+
+Respondents were asked to consider adaptations in the current academic
+year. As clinical placements in psychiatry in most schools occur in the
+penultimate year, responses were included only from the 33 registered
+and publicly funded UK medical schools established before
+2018.\ :sup:`(n.d.l)` The Queen Mary Ethics of Research Committee
+advised that as an evaluation of teaching, research ethics review was
+not required. The full survey is available in Supplementary File 1
+available at https://doi.org/10.1192/bjb.2021.67.
+
+The survey was distributed via email to the members of the UEF on 20
+November 2020, with one reminder email a month later. It remained open
+for 2 months and participation was voluntary. Where omissions were
+present in returned questionnaires, respondents were contacted for
+clarification.
+
+Data were exported from Microsoft Forms to Microsoft Excel version 16.33
+for Mac, which was used to calculate descriptive statistics and create
+graphs. Open-ended text responses were reviewed to describe adaptations
+in more detail, and to compile a summary of opportunities and challenges
+for psychiatry teaching during the pandemic.
+
+.. _sec3:
+
+Results
+=======
+
+.. _sec3-1:
+
+Respondents
+-----------
+
+A total of 24 education leads completed the survey (72.7% response
+rate). Respondents from schools in all four nations of the UK
+participated, with 19 from England, 2 from Wales, 2 from Scotland and 1
+from Northern Ireland.
+
+.. _sec3-2:
+
+Moving to online delivery
+-------------------------
+
+`Figure 1 <#fig01>`__ shows the changes that were made to delivery of
+different teaching approaches, with a major shift to online delivery.
+Fig. 1Method of delivery of different teaching approaches before and
+during the pandemic.
+
+Schools differed widely in the percentage of online teaching delivered
+synchronously, with an average of 66.1% and range of 10–100% (*n* = 22).
+In the 23 schools where it was used, asynchronous teaching employed a
+range of existing resources, primarily e-learning resources (82.6%) and
+recordings of previous content (82.6%) from respondents’ own medical
+schools and e-learning resources obtained through the UEF (73.9%). Of
+the schools that used asynchronous teaching, 87% created new resources
+for this purpose. These included new recordings of teaching sessions,
+simulated patient videos, online modules, workbooks to consolidate
+materials and guide learning, revision notes, quizzes, question banks
+and serious games.
+
+.. _sec3-3:
+
+Course content
+--------------
+
+A total of 83.3% of schools reported no change in the content of the
+psychiatry curriculum; in three of the four schools where a change was
+made, these had already been planned before the pandemic, and were
+implemented during the pandemic or brought forward.
+
+The amount of teaching across the six psychiatric subspecialties stayed
+the same in the majority of schools (`Fig. 2 <#fig02>`__). For every
+subspecialty, more schools increased rather than decreased teaching; 25%
+of schools increased teaching in general adult psychiatry, with no
+schools decreasing teaching in this subspecialty. The subspecialties
+that had most decreases in teaching were psychiatry of intellectual
+disabilities (12.5%), forensic psychiatry (8.3%) and medical
+psychotherapy (8.3%). Fig. 2Responses to the question ‘Has the amount of
+teaching in the following subspecialties increased, decreased or stayed
+the same?’.
+
+.. _sec3-4:
+
+Learning approaches
+-------------------
+
+Although 66.7% of schools made no change to the length of the overall
+psychiatry module, 12.5% increased and 20.8% reduced the length. Also,
+66.7% of schools did not change the length of clinical placements;
+however, respondents noted that in practice, there was reduced time in
+clinical settings and more time in self-directed learning. This is
+reflected in 87.5% of schools decreasing the proportion of time students
+spent in workplace learning (`Fig. 3 <#fig03>`__). In addition, 33.3% of
+schools decreased the length of clinical placements. All schools
+increased the proportion of time students spent completing online tasks,
+and 62.5% of schools increased sessions officially designated for
+self-directed learning. More schools increased small group teaching
+(41.7%) than lectures (21.7%). Fig. 3Responses to the question ‘Has the
+proportion of time spent by students learning using the following
+approaches increased, decreased or stayed the same?’.
+
+.. _sec3-5:
+
+Clinical placements
+-------------------
+
+A total of 37.5% of schools increased numbers of students placed in
+in-patient wards, and 33.3% of schools decreased numbers placed in
+community teams (`Fig. 4 <#fig04>`__). For most schools, numbers of
+students placed in home treatment teams (58.3%) and liaison psychiatry
+(58.3%) stayed the same. Fig. 4Responses to the question ‘In the current
+academic year, have the number of students placed in the following
+clinical environments/subspecialties increased, decreased or stayed the
+same?’.
+
+Most schools placed the same number of students in general adult
+psychiatry (62.5%), old age psychiatry (54.2%) and child and adolescent
+psychiatry (54.2%) during the pandemic (`Fig. 4 <#fig04>`__). General
+adult psychiatry had the most schools increasing numbers of students
+placed in the subspecialty (25%), whereas old age psychiatry (25%) and
+child and adolescent psychiatry (25%) had the most schools decreasing
+numbers placed.
+
+.. _sec3-6:
+
+Teleconferencing in clinical placements
+---------------------------------------
+
+A total of 75% of schools had teleconferencing in some clinical
+placements, with 20.8% in all placements. The only school where there
+was no teleconferencing had moved all placements to the in-patient
+setting. Teleconferencing allowed students to engage in clinical
+activities remotely from home or from the same location as the
+clinician. Students observed and participated in out-patient reviews,
+and joined meetings and ward rounds. One school recruited patients who
+could be interviewed by students via teleconferencing.
+
+.. _sec3-7:
+
+Assessment
+----------
+
+Regarding assessment, 66.7% of schools reported that assessment of the
+psychiatry rotation changed during the pandemic. Changes included
+reduced demands, such as reduced emphasis on documenting experiences,
+reduced numbers of workplace-based assessments or case presentations,
+and reduced attendance monitoring. Despite reduced assessment demands,
+respondents were clear that standards would not be lowered or
+compromised.
+
+Some schools shifted toward formative assessments; for example, using an
+assessed clinic letter or a portfolio of cases, reflections and
+workplace-based assessments rather than a clinician-observed long case.
+Greater onus was placed on individual supervisors to oversee
+satisfactory student performance. Like teaching delivery, assessment
+moved online. Online platforms, video stations and virtual cases were
+used to assess clinical skills, case-based discussions and
+presentations, and logbooks were completed online.
+
+.. _sec3-8:
+
+Supporting learners
+-------------------
+
+In 41.7% of schools, psychiatry teachers were involved in developing
+resources or interventions to support learners’ mental health and
+well-being during the pandemic. Respondents described developing
+well-being talks and workshops. They established well-being drop-ins,
+well-being champions, virtual student messes, and pastoral and
+reflective groups, including for students volunteering in the National
+Health Service (NHS). Well-being information was provided through
+newsletters and online platforms. Existing mechanisms to support
+learners were bolstered or reiterated to students.
+
+.. _sec3-9:
+
+Faculty development
+-------------------
+
+In 50% of schools, faculty received some training in adapting teaching
+in response to COVID-19, with training in online teaching provided in
+58.3% of schools. Training led by medical schools included sessions or
+e-learning modules on delivering remote learning (e.g. blended learning
+design, platforms), access to e-learning authoring tools, individual
+discussions with education leads and opportunities to share practice.
+Such training was less accessible to clinical staff, who received
+additional support from psychiatry education leads. This included
+training on online platforms, reflective groups to share practice and
+ensuring adequate technology at clinical sites.
+
+.. _sec3-10:
+
+Funding and resources
+---------------------
+
+A total of 95.8% of education leads received no additional funding or
+resources from their medical school to deliver psychiatry teaching
+during the pandemic; only one school reported such support, which was
+additional funding to develop e-learning materials. Further, 79.2% of
+education leads received no additional funding or resources from their
+affiliated NHS trusts. In those trusts that provided additional support,
+this included laptops for students, computer equipment, funding for
+consultant psychiatrist time to coordinate placements and support
+clinicians, and funding for actors or patients to be interviewed by
+students practising clinical skills.
+
+.. _sec3-11:
+
+Student involvement and response
+--------------------------------
+
+Half (50%) of education leads agreed that students were involved in
+adapting the psychiatry course (`Fig. 5 <#fig05>`__). Education leads
+reported that students had responded positively to adaptations, with
+87.5% agreeing or strongly agreeing with the statement. Fig. 5Responses
+to the question ‘To what extent do you agree or disagree with the
+following statements?’.
+
+.. _sec3-12:
+
+The future
+----------
+
+A total of 62.5% of respondents agreed or strongly agreed that the
+pandemic will change psychiatry education for the better (`Fig.
+5 <#fig05>`__), and 54.2% of respondents agreed or strongly agreed that
+the pandemic has raised the profile of psychiatry among medical
+students.
+
+In 87.5% of schools, the psychiatry rotation will not return to exactly
+how it was before the pandemic. Changes will include increased blended
+learning, with respondents noting the advantages of facilitating access
+from distant placements and the ability to accommodate increases in
+student numbers. Other changes include keeping modifications in
+placement structure, online logbooks and the use of resources from other
+schools.
+
+.. _sec4:
+
+Discussion
+==========
+
+This survey of adaptations to psychiatry teaching from 24 medical
+schools across the four nations of the UK demonstrates the seismic
+impact of the pandemic on psychiatry education. `Table 1 <#tab01>`__
+summarises both the opportunities and challenges that emerge from the
+survey data, with proposed solutions to meet the challenges. Table
+1Opportunities, challenges and proposed solutions for undergraduate
+psychiatry education during the pandemicOpportunitiesChallengesProposed
+solutionsStudentsAccessibility and flexibility of online delivery
+Reduced travelAsynchronous teaching accessible at convenient
+timesClinical experiences available remotely, including for
+self-isolating studentsGaining familiarity with telemedicineEducational
+advantages of blended learning and flipped classroomsRequirements needed
+for online delivery Adequate bandwidth and hardwareLimited access to
+technology in clinical environmentsTime spent learning new
+technologyExperiences of online delivery ‘Zoom fatigue’Negative impact
+of isolation on student well-beingLess engaging than face-to-face
+deliveryDifficulty in engaging with self-directed learningClinical
+placements Reduced contact with patients, so reduced opportunities to
+develop clinical skillsIn in-patient settings, space constraints and
+need for social distancing may prevent students from accessing
+opportunities such as ward rounds in personIn community settings, there
+are fewer opportunities to engage with patients face to face and learn
+to be in the room with patientsTravel to face-to-face placements during
+pandemicService changes resulting in last-minute cancellations and
+timetabling changesDifficult to get signed off by busy
+cliniciansExperiences of teleconferencing on clinical placement Less
+engaging than face to faceJuggling multiple IT accountsMore difficult
+for students to participate in clinical tasksMissing out on pre-brief
+and debrief before and after consultationsHard to feel part of the team
+remotelyOnline delivery Investment in dedicated educational facilities
+at hospital sitesScheduling adequate breaksInterventions to address
+student well-beingSystems to identify students who are engaging poorly
+with online learningEducating students about how to approach online and
+self-directed learningClinical placements Inclusion of training in
+psychiatry in foundation programmes and beyondIncreased clinical and
+communication skills training delivered outside of clinical
+placementsHonest dialogue with students about the potential for
+disruption to their learning during the pandemicMaking use of all
+available opportunities for face-to-face contact with patients, e.g.
+students shadowing on-call staffPairing in-patient and community
+placementsRing-fenced time for undergraduate education in clinicians’
+job plansTeleconferencing on clinical placement Training teachers to
+include student participation in consultationsDeliberate inclusion of
+pre-brief and debrief timeIncluding students in all team activities,
+e.g. meetingsIncluding multidisciplinary team members in
+teachingTeachers Accessibility of online deliveryGaining familiarity
+with telemedicineOpportunities for interactivity in online delivery
+Increased clinical pressuresOnline delivery Time spent learning new
+technology with little trainingSome students engage less with
+synchronous teaching, e.g. cameras switched offManaging unprofessional
+behavioursTeleconferencing Logistical demands of setting up
+teleconferencingDifficult to build teacher–student relationships
+remotely Increased training on online deliverySetting of expectations
+for student engagement with teaching and digital
+professionalismPromoting continuity to encourage the building of
+teacher–student relationships. e.g. same tutor throughout
+placementRing-fenced time for undergraduate education in clinicians’ job
+plansCourse contentAccessibility of online delivery facilitates Webinars
+with external speakersAttendance at mental health tribunalsIncreased
+involvement of experts by experienceIncreased teaching in some
+subspecialtiesAsynchronous teaching Expanded offer available to
+studentsStandardisation of teaching quality Service changes (e.g. ward
+closures) limit some learning opportunitiesAccess to other learning
+opportunities (tasters) not possible because of social distancing
+Increased online teaching on certain areas to compensate for lost
+learning opportunitiesInclusion of training in psychiatry in foundation
+programmes and beyondCourse organisation Booking and availability of
+rooms no longer of concernSame lectures do not need to be recorded
+multiple timesMore immediate student feedback leading to rapid
+improvement of qualityExposing underfunding in undergraduate education
+to justify additional resourcesShowing that online learning can be a
+solution to accommodating increases in student numbersIncreased
+collaboration between schools, e.g. sharing resources Some clinicians
+are less keen to host students and engage in teleconferencingNeed for
+faculty development for online teachingIncreased administrative burden
+of organising online delivery and redesigning clinical placements in
+accordance with public health measures, e.g. staff working from home,
+social distancing and bubbles Incentives for clinicians to contribute to
+undergraduate teachingIncreased training on online deliveryIncreased
+administrative support and resources from medical schools and National
+Health Service trustsPromoting psychiatry Improved attendance by
+studentsIncreased recognition of the importance of reflective practice
+across all specialtiesIncreased focus on student and staff
+well-beingShowcasing psychiatry as an exemplar of innovations in
+adapting teaching Reduced opportunities to meet role models with less
+time on clinical placementReduced opportunities to combat stigma toward
+mental illness with reduced contact with patients Maximising learning
+opportunities during shortened clinical placementsIncreased activity of
+student-led psychiatry societies to promote psychiatryBuilding in
+opportunities to meet psychiatrists and experts by
+experienceImplementing specific training on stigma toward mental
+illnessIncreased postgraduate training in psychiatry clinical skills
+
+.. _sec4-1:
+
+Developing clinical skills in psychiatry
+----------------------------------------
+
+The Royal College of Psychiatrists’ curriculum recommendations, informed
+by the General Medical Council's (GMC) ‘Outcomes for
+Graduates’,\ :sup:`(n.d.m)` states that an important aim of
+undergraduate psychiatry education is for ‘students to develop the
+necessary skills to apply [professional] knowledge in clinical
+situations’.\ :sup:`(n.d.n)`
+
+Clinical placements form the bulk of students’ experience in psychiatry
+in the UK,\ :sup:`(n.d.o)` offering opportunities for experiential
+learning and participation in authentic clinical
+environments.\ :sup:`(n.d.p)` However, 87.5% of schools were forced to
+decrease the proportion of time that students spent on clinical
+placement. Even when clinical placements were possible, service changes
+and social distancing requirements changed the nature of their learning
+opportunities. Without these experiences, students may have difficulty
+in understanding how to apply their professional knowledge in clinical
+contexts. Indeed, the Medical Schools Council notes that ‘it is not
+possible for students to meet the requirements set out in the GMC's
+Outcomes for Graduates without undertaking clinical
+placements’.\ :sup:`(n.d.q)`
+
+During the pandemic, schools continued to provide clinical skills,
+role-play or simulation teaching, with 45.8% delivering these fully
+online. Although online skills teaching can alleviate students’ concerns
+about reduced patient contact,\ :sup:`(n.d.r)` learners feel less
+prepared to use skills learnt in practice.\ :sup:`(n.d.s)` In a survey
+of UK medical students in May 2020, three-quarters felt that online
+teaching had not successfully replaced the clinical teaching that they
+received from direct patient contact.\ :sup:`(n.d.t)`
+
+A total of 95.8% of schools used teleconferencing on clinical
+placements, which, though useful, has limitations. For instance, the
+court judgment on remote Mental Health Act assessments noted that ‘a
+psychiatric assessment may often depend on much more than simply
+listening to what the patient says … [and] may involve a multi-sensory
+assessment’.\ :sup:`(n.d.u)` In consultations by teleconferencing,
+clinicians face difficulties in reading non-verbal communication, using
+silence and incorporating physical examination.\ :sup:`(n.d.v)` Without
+the opportunity to see clinicians demonstrating these skills and to
+practise these skills themselves, students are left with an experience
+that translates poorly to the face-to-face situations they will
+encounter in the future. Moreover, clinicians cannot model some skills
+that are important in face-to-face work, such as preparing consultation
+rooms or judging physical distances between patient and clinician.
+Nevertheless, telepsychiatry is likely to be used more widely in the
+future.\ :sup:`(n.d.w)` Early training can foster specific skills, such
+as conducting mental state examinations by telephone.\ :sup:`(n.d.x)`
+These should supplement, but not supplant, the acquisition of skills for
+face-to-face interactions.
+
+The shift away from workplace learning was accompanied by an increase in
+self-directed learning and the use of online tasks. Self-directed
+learning prepares students for lifelong learning, and online tasks
+provide the opportunity to develop a broader knowledge base. However,
+some schools decreased teaching in the subspecialties, with psychiatry
+of intellectual disabilities, forensic psychiatry and medical
+psychotherapy most affected. This means that the only available
+opportunities to learn skills in these subspecialties may have been
+lost; for example, learning to communicate with people with intellectual
+disabilities and understanding unconscious aspects of the doctor–patient
+relationship.
+
+The fact that assessments have continued with no change in standards
+during the pandemic is reassuring. Indeed, the greater emphasis on
+formative assessments and developmental conversations with individual
+clinicians may provide more opportunities for students to receive
+feedback.
+
+.. _sec4-2:
+
+Attitudes toward mental illness
+-------------------------------
+
+Reductions in time spent in clinical placements mean that students get
+less contact with people with psychiatric conditions, which is so
+important in dispelling stigma toward mental illness.\ :sup:`(n.d.y)`
+The relative shift away from placements in community teams toward
+in-patient wards during the pandemic may also have unintended
+consequences; in a meta-analysis conducted before the pandemic,
+in-patient placements had less effect in challenging stigmatising
+attitudes than community or mixed placements.\ :sup:`(n.d.z)`
+
+On the other hand, the greater emphasis placed on the mental well-being
+of students\ :sup:`(n.d.aa)` and healthcare staff\ :sup:`(n.d.ab)`
+during the pandemic may encourage students to pay attention to their own
+health and well-being, and raise their awareness of the importance of
+mental health. Psychiatry teachers are particularly well-equipped, with
+expertise in both mental health and undergraduate education, to support
+students.
+
+.. _sec4-3:
+
+Recruitment into psychiatry
+---------------------------
+
+Experiences during clinical placements affect career choices, with just
+over half of students reporting that they were more inclined to choose a
+career in psychiatry following their placement.\ :sup:`(n.d.ac)`
+Placement factors that encourage students to choose psychiatry include
+perceived clinical responsibility and influence of teachers as role
+models.\ :sup:`(n.d.ad),(n.d.ae)` Although an international survey found
+no relationship between placement length and choosing
+psychiatry,\ :sup:`(n.d.ad)` a placement should be sufficiently long for
+students to get involved in the team and follow patients’
+progress.\ :sup:`(n.d.af)` Shifting away from workplace learning reduces
+such opportunities and may affect recruitment into psychiatry.
+
+The pandemic has also limited opportunities (e.g. through lack of
+availability of electives) for fully exploring different
+subspecialties.\ :sup:`(n.d.ag)` Tasters, where students spend short
+periods of time experiencing subspecialties outside of their main
+clinical placement, demonstrate to students the breadth of opportunities
+that a career in psychiatry entails.\ :sup:`(n.d.ah)` Social distancing
+measures limit access to tasters. Despite these limitations, most
+education leads agreed that the pandemic had raised the profile of
+psychiatry among medical students. Increased awareness of reflective
+practice and a renewed focus on student well-being may have contributed
+to this. Whether this will translate into more positive attitudes toward
+psychiatry from other specialties is unclear.\ :sup:`(n.d.ai)`
+
+.. _sec4-4:
+
+A call to action in a time of change
+------------------------------------
+
+The pandemic has been a catalyst for spurring innovations in medical
+education.\ :sup:`(n.d.aj)` Even after the pandemic, there will be
+changes to psychiatry teaching in the majority of schools. Most
+education leads are optimistic that the pandemic will change psychiatry
+education for the better. Students have responded positively to the
+adaptations to teaching and, mirroring the changes predicted by our
+respondents, want to continue with online lectures and increased access
+to online resources in the future.\ :sup:`(n.d.ak)` It remains to be
+seen whether reactive adaptations implemented during the pandemic will
+be sustainable, and help to manage another impending challenge: the
+surge in student numbers resulting from the government temporarily
+lifting the cap on medical school places.\ :sup:`(n.d.al)`
+
+One year on from the first national lockdown, the course of the pandemic
+remains uncertain. But what is becoming more certain is the profound
+impact that the pandemic has had on the way we teach psychiatry. This is
+most marked in the reduction of clinical placements, which may affect
+the attainment of key competencies relevant to practice in all branches
+of the profession, exposure to clinical role models and the challenging
+of stigmatising attitudes to mental illness and psychiatry. Reduction in
+clinical placement may also pose a threat to future recruitment into
+psychiatry at a time when there will be an even greater need for
+psychiatric skills, to manage increased demand following the
+pandemic.\ :sup:`(n.d.am),(n.d.an)`
+
+This is the time for all of us in psychiatry to unite and rise to the
+challenges that lie ahead. We call upon individual clinicians, NHS
+trusts and medical and foundation schools to work closely together and
+with students, to give this generation the training that they need to
+best care for patients in the post-pandemic landscape.
+
+Individual clinicians can offer so much to maximise the quality of
+learning during shortened placements. They can offer opportunities for
+students to participate fully in the care of patients and foster
+experiential learning. Trusts continue to receive payment for educating
+students, even with reduced time spent in clinical settings, and can
+ensure a more equitable distribution of finances to front-line
+educators.\ :sup:`(n.d.ao)` Teaching during the pandemic has required
+considerable planning and effort from education leads, yet in our
+survey, few reported receiving additional funding or resources.
+
+Medical schools should incorporate opportunities, wherever possible, for
+students to meet psychiatrists and experts by experience, to implement
+training on stigma and support the activities of student-led psychiatry
+societies.\ :sup:`(n.d.ap)` Lost learning opportunities should be
+prioritised for inclusion in online teaching programmes both during and
+beyond medical school. Foundation schools should similarly increase
+postgraduate psychiatry teaching and the number of posts in psychiatry.
+Greater collaboration between foundation programme leads and
+undergraduate educators is important to replace what has been lost
+during the pandemic.
+
+Undergraduate psychiatry teaching in the UK has undergone extensive
+adaptations in response to COVID-19. Educators have done a remarkable
+job to maintain the integrity of teaching in the face of considerable
+adversity. Lessons learnt during the pandemic will shape teaching in the
+future. As we start our journey into the post-pandemic world, we hope
+that readers will heed our call to action. We must not let the pandemic
+set back decades of progress in the care of people with mental illness.
+
+.. _sec4-5:
+
+Strengths and limitations
+-------------------------
+
+To our knowledge, this is the first nationwide survey of adaptations in
+undergraduate psychiatry teaching in any country. There was a good
+response rate of 72.7%, with responses from all four nations of the UK.
+By asking education leads about specific areas of adaptations, we may
+not have captured all the adaptations made at individual schools.
+Similarly, there was variable completion of open questions and depth in
+respondents’ descriptions of adaptations. As a survey of education
+leads, we have not explored first-hand the views of students and other
+clinicians on the impact of adaptations. Lastly, the survey offers a
+snapshot of adaptations at a particular moment in time, and does not
+capture longitudinal changes in response to the course of the pandemic.
+
+.. _sec5:
+
+About the authors
+=================
+
+**Ho Tim Timothy Leung** is a Fellow in Medical Education in the Medical
+Education Department at East London NHS Foundation Trust, UK. **Ali
+Ajaz** is a Consultant Psychiatrist in the Forensic Mental Health
+Service at East London NHS Foundation Trust, UK. **Helen Bruce** is a
+Consultant Psychiatrist in Child and Adolescent Mental Health Services
+and Associate Dean for Undergraduate Education at East London NHS
+Foundation Trust, UK. **Ania Korszun** is Professor of Psychiatry and
+Education at the Wolfson Institute of Preventive Medicine, Queen Mary
+University of London, UK.
+
+We thank the members of the UEF who contributed to the design of the
+questionnaire and participated in the survey.
+
+.. _sec6:
+
+Supplementary material
+======================
+
+For supplementary material accompanying this paper visit
+https://doi.org/10.1192/bjb.2021.67.
+
+.. container:: caption
+
+   .. rubric:: 
+
+   click here to view supplementary material
+
+.. _sec-das1:
+
+Data availability
+=================
+
+The data that support the findings of this study are available from the
+corresponding author, A.K., upon reasonable request.
+
+All authors contributed to the design of the study. H.T.T.L. and A.K.
+wrote the manuscript, and all authors contributed to the final version.
+
+This work received no specific grant from any funding agency, commercial
+or not-for-profit sectors.
+
+.. _nts5:
+
+Declaration of interest
+=======================
+
+None.
+
+.. container:: references csl-bib-body hanging-indent
+   :name: refs
+
+   .. container:: csl-entry
+      :name: ref-ref1
+
+      n.d.a.
+
+   .. container:: csl-entry
+      :name: ref-ref2
+
+      n.d.b.
+
+   .. container:: csl-entry
+      :name: ref-ref4
+
+      n.d.c.
+
+   .. container:: csl-entry
+      :name: ref-ref5
+
+      n.d.d.
+
+   .. container:: csl-entry
+      :name: ref-ref6
+
+      n.d.e.
+
+   .. container:: csl-entry
+      :name: ref-ref7
+
+      n.d.f.
+
+   .. container:: csl-entry
+      :name: ref-ref8
+
+      n.d.g.
+
+   .. container:: csl-entry
+      :name: ref-ref10
+
+      n.d.k.
+
+   .. container:: csl-entry
+      :name: ref-ref11
+
+      n.d.h.
+
+   .. container:: csl-entry
+      :name: ref-ref12
+
+      n.d.i.
+
+   .. container:: csl-entry
+      :name: ref-ref13
+
+      n.d.j.
+
+   .. container:: csl-entry
+      :name: ref-ref14
+
+      n.d.l.
+
+   .. container:: csl-entry
+      :name: ref-ref15
+
+      n.d.m.
+
+   .. container:: csl-entry
+      :name: ref-ref16
+
+      n.d.n.
+
+   .. container:: csl-entry
+      :name: ref-ref17
+
+      n.d.o.
+
+   .. container:: csl-entry
+      :name: ref-ref18
+
+      n.d.p.
+
+   .. container:: csl-entry
+      :name: ref-ref19
+
+      n.d.q.
+
+   .. container:: csl-entry
+      :name: ref-ref20
+
+      n.d.r.
+
+   .. container:: csl-entry
+      :name: ref-ref21
+
+      n.d.s.
+
+   .. container:: csl-entry
+      :name: ref-ref22
+
+      n.d.t.
+
+   .. container:: csl-entry
+      :name: ref-ref23
+
+      n.d.u.
+
+   .. container:: csl-entry
+      :name: ref-ref24
+
+      n.d.v.
+
+   .. container:: csl-entry
+      :name: ref-ref25
+
+      n.d.w.
+
+   .. container:: csl-entry
+      :name: ref-ref26
+
+      n.d.x.
+
+   .. container:: csl-entry
+      :name: ref-ref27
+
+      n.d.y.
+
+   .. container:: csl-entry
+      :name: ref-ref28
+
+      n.d.z.
+
+   .. container:: csl-entry
+      :name: ref-ref29
+
+      n.d.aa.
+
+   .. container:: csl-entry
+      :name: ref-ref30
+
+      n.d.ab.
+
+   .. container:: csl-entry
+      :name: ref-ref31
+
+      n.d.ac.
+
+   .. container:: csl-entry
+      :name: ref-ref32
+
+      n.d.ad.
+
+   .. container:: csl-entry
+      :name: ref-ref33
+
+      n.d.ae.
+
+   .. container:: csl-entry
+      :name: ref-ref34
+
+      n.d.af.
+
+   .. container:: csl-entry
+      :name: ref-ref35
+
+      n.d.ag.
+
+   .. container:: csl-entry
+      :name: ref-ref36
+
+      n.d.ah.
+
+   .. container:: csl-entry
+      :name: ref-ref37
+
+      n.d.ai.
+
+   .. container:: csl-entry
+      :name: ref-ref38
+
+      n.d.aj.
+
+   .. container:: csl-entry
+      :name: ref-ref39
+
+      n.d.ak.
+
+   .. container:: csl-entry
+      :name: ref-ref40
+
+      n.d.al.
+
+   .. container:: csl-entry
+      :name: ref-ref41
+
+      n.d.am.
+
+   .. container:: csl-entry
+      :name: ref-ref42
+
+      n.d.an.
+
+   .. container:: csl-entry
+      :name: ref-ref43
+
+      n.d.ao.
+
+   .. container:: csl-entry
+      :name: ref-ref44
+
+      n.d.ap.

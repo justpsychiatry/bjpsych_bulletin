@@ -2,17 +2,17 @@
 Examining the effects of national initiatives to improve the physical health of people with psychosis in England: secondary analysis of data from the National Clinical Audit of Psychosis
 ==========================================================================================================================================================================================
 
-:Author: Ryan Williams
-:Author: Sagana Natkulasingam
-:Author: Beatrice Tooke
-:Author: Ella Webster
-:Author: Alan Quirk
-:Author: Veenu Gupta
-:Author: Paul French
-:Author: Jo Smith
-:Author: Mike J. CrawfordCorrespondence to Ryan Williams
-         (ryan.williams2@nhs.net)
+Ryan Williams
+Sagana Natkulasingam
+Beatrice Tooke
+Ella Webster
+Alan Quirk
+Veenu Gupta
+Paul French
+Jo Smith
+Mike J. CrawfordCorrespondence to Ryan Williams (ryan.williams2@nhs.net)
 :Date: 2022-06
+
 :Abstract:
    .. rubric:: Aims and Methods
       :name: sec_a2
@@ -44,22 +44,28 @@ Examining the effects of national initiatives to improve the physical health of 
    mortality.
 
 
+.. contents::
+   :depth: 3
+..
+
 pmc
 Concerns have repeatedly been raised regarding premature mortality among
-people with schizophrenia and other psychotic disorders.\ :sup:`1–6`
-People who experience psychosis die on average 10–20 years earlier than
-the general population.\ :sup:`7,8`
+people with schizophrenia and other psychotic
+disorders.\ :sup:`(n.d.a)–(n.d.b)` People who experience psychosis die
+on average 10–20 years earlier than the general
+population.\ :sup:`(n.d.c),(n.d.d)`
 
 Factors contributing to this inequality may include economic
 disadvantage, health risk behaviours and difficulties accessing and
-adhering to medical treatments.\ :sup:`9–11` These frequently translate
-to poor physical health, and psychotic disorders are strongly associated
-with unfavourable outcomes for a range of physical health measures:
-smoking status, weight, serum glucose levels, blood pressure and serum
-lipids.\ :sup:`12,13` These issues can be compounded by metabolic
-side-effects of antipsychotic medication,\ :sup:`14–17` and an increased
-risk of cardiovascular disease is widely accepted as the primary
-mediator of reduced life expectancy.\ :sup:`4,18–20`
+adhering to medical treatments.\ :sup:`(n.d.e)–(n.d.f)` These frequently
+translate to poor physical health, and psychotic disorders are strongly
+associated with unfavourable outcomes for a range of physical health
+measures: smoking status, weight, serum glucose levels, blood pressure
+and serum lipids.\ :sup:`(n.d.g),(n.d.h)` These issues can be compounded
+by metabolic side-effects of antipsychotic
+medication,\ :sup:`(n.d.i)–(n.d.j)` and an increased risk of
+cardiovascular disease is widely accepted as the primary mediator of
+reduced life expectancy.\ :sup:`(n.d.k),(n.d.l)–(n.d.m)`
 
 .. _sec1-2:
 
@@ -69,23 +75,23 @@ National initiatives
 In 2014, the National Institute for Health and Care Excellence (NICE)
 produced recommendations to guide screening and intervention for common
 physical health problems experienced by people with
-psychosis.\ :sup:`21` The same year, NHS England announced a new
+psychosis.\ :sup:`(n.d.n)` The same year, NHS England announced a new
 Commissioning for Quality and Innovation (CQUIN) framework, providing
 financial incentives for physical health screening and interventions
-within secondary mental health services.\ :sup:`22` The ‘Positive
+within secondary mental health services.\ :sup:`(n.d.o)` The ‘Positive
 Cardiometabolic Health Resource’ was published, with support from the
 Royal Colleges of Psychiatrists, Physicians, Nursing and General
 Practice, establishing a user-friendly manual for clinicians providing
-care to patients with severe mental illness.\ :sup:`23`
+care to patients with severe mental illness.\ :sup:`(n.d.p)`
 
 Since these initiatives were implemented, there is some evidence that
 the quality of physical healthcare delivered to patients with psychosis
-has improved.\ :sup:`24` However, there are ongoing concerns that this
-has not translated to an improvement in patients’ health. A recent study
-found that cardiometabolic risk factors were already pronounced in those
-presenting to services with a first episode of psychotic illness, and
-that physical health deteriorated during the first year of
-treatment.\ :sup:`25`
+has improved.\ :sup:`(n.d.q)` However, there are ongoing concerns that
+this has not translated to an improvement in patients’ health. A recent
+study found that cardiometabolic risk factors were already pronounced in
+those presenting to services with a first episode of psychotic illness,
+and that physical health deteriorated during the first year of
+treatment.\ :sup:`(n.d.r)`
 
 In light of these apparent contradictions, we aimed to investigate
 whether physical health has improved among people with psychotic
@@ -100,14 +106,14 @@ Method
 
 All data for this study were collected during two audit rounds conducted
 as part of the National Clinical Audit of Psychosis (NCAP) by the Royal
-College of Psychiatrists.\ :sup:`26` Both examined services providing
-care to people with psychotic disorders in England. A ‘core’ audit
-generated data on people under the care of community mental health teams
-(CMHTs), with three rounds of data collection in 2011, 2013 and 2017. A
-‘spotlight’ audit collected additional data on the quality of care
-received by people with first-episode psychosis (FEP) who received care
-from early intervention for psychosis (EIP) teams. Three rounds of the
-spotlight audit were conducted in 2014, 2018 and 2019. All National
+College of Psychiatrists.\ :sup:`(n.d.s)` Both examined services
+providing care to people with psychotic disorders in England. A ‘core’
+audit generated data on people under the care of community mental health
+teams (CMHTs), with three rounds of data collection in 2011, 2013 and
+2017. A ‘spotlight’ audit collected additional data on the quality of
+care received by people with first-episode psychosis (FEP) who received
+care from early intervention for psychosis (EIP) teams. Three rounds of
+the spotlight audit were conducted in 2014, 2018 and 2019. All National
 Health Service (NHS) Provider Trusts in England with CMHTs and EIP teams
 that provided care to patients with psychotic disorders were invited to
 take part in these respective audits.
@@ -136,12 +142,12 @@ questions on physical health measures, quantifying patients’ smoking
 status, alcohol use, blood pressure, body mass index (BMI), serum
 glucose, serum lipids and whether they were known to use illicit
 substances. The data collection tools for both audits were based on NICE
-guidance for management of psychotic disorders.\ :sup:`21` They were
-developed in collaboration with patients and providers of psychiatric
-services, and carer representatives with lived experience of supporting
-patients with psychotic disorders. The tool was piloted by six volunteer
-trusts before the main audit, to ensure that the process was
-understandable and acceptable.
+guidance for management of psychotic disorders.\ :sup:`(n.d.n)` They
+were developed in collaboration with patients and providers of
+psychiatric services, and carer representatives with lived experience of
+supporting patients with psychotic disorders. The tool was piloted by
+six volunteer trusts before the main audit, to ensure that the process
+was understandable and acceptable.
 
 During the development of this project, the National Research Ethics
 Service and the Ethics and Confidentiality Committee of the National
@@ -172,7 +178,7 @@ lipids (within normal range, i.e. total serum cholesterol <5.1 mmol/L
 and/or high-density lipoprotein >1 mmol/L and/or non-high-density
 lipoprotein <4.1 mmol/L). The definition of good health for each measure
 was based on the standards implemented by the national Mental Health
-Commissioning for Quality and Innovation analysis.\ :sup:`22` To be
+Commissioning for Quality and Innovation analysis.\ :sup:`(n.d.o)` To be
 considered in good health for the composite measure, patients had to
 fulfil the criteria for good health for all of the seven discrete
 measures.
@@ -185,11 +191,12 @@ demographic information about the overall sample for each audit.
 Statistical methods
 -------------------
 
-We used SPSS (version 26 for Windows)\ :sup:`27` to analyse the study
-data. For each round of the audits, the proportion of patients with good
-health were calculated for each of the physical health measures and the
-composite measure. The variation in these proportions between each round
-of the two audits was then examined with binomial logistic regression.
+We used SPSS (version 26 for Windows)\ :sup:`(n.d.t)` to analyse the
+study data. For each round of the audits, the proportion of patients
+with good health were calculated for each of the physical health
+measures and the composite measure. The variation in these proportions
+between each round of the two audits was then examined with binomial
+logistic regression.
 
 Variation in demographic characteristics (age and gender) were compared
 between the CMHT and EIP audits, using *t*- and *χ*\ :sup:`2`-tests,
@@ -198,8 +205,8 @@ respectively.
 For many patients, data were not recorded for some of the physical
 health measures (presumably because it was not available in the clinical
 records, possibly because of patients refusing to undergo investigation
-or provide information).\ :sup:`28` Missing values were not included in
-the analysis.
+or provide information).\ :sup:`(n.d.u)` Missing values were not
+included in the analysis.
 
 .. _sec3:
 
@@ -320,7 +327,7 @@ Discussion
 This study corroborates previous findings that the physical health of
 people with psychosis remains poor, despite an improvement in physical
 health screening and intervention following national initiatives
-implemented in England since 2014.\ :sup:`24`
+implemented in England since 2014.\ :sup:`(n.d.q)`
 
 Both CMHT and EIP audits showed improvements in health according to some
 of these measures, and deteriorations in others. The proportion of
@@ -332,16 +339,17 @@ Unhealthy weight remains a particular area of concern, with large
 proportions of patients in poor health according to BMI across all
 rounds of both audits, and a significant deterioration over time in the
 EIP audit. This supports existing evidence that weight management is
-challenging for patients with psychotic disorders.\ :sup:`29,30`
+challenging for patients with psychotic
+disorders.\ :sup:`(n.d.v),(n.d.w)`
 
 We did find some evidence of a modest improvement in rates of smoking
 amongst patients under the care of EIP services post-2014. This
 contradicts recent studies where results have been more
-pessimistic,\ :sup:`25,31` but would be in line with previous research
-suggesting a change in the epidemiology of smoking, with a gradual
-reduction in smoking in younger age groups.\ :sup:`32` This improvement
-over time was not reflected in the CMHT audit, where patients were on
-average significantly older.
+pessimistic,\ :sup:`(n.d.r),(n.d.x)` but would be in line with previous
+research suggesting a change in the epidemiology of smoking, with a
+gradual reduction in smoking in younger age groups.\ :sup:`(n.d.y)` This
+improvement over time was not reflected in the CMHT audit, where
+patients were on average significantly older.
 
 There was also a marked reduction post-2014 in the proportion of
 patients under the care of EIP services who were using illicit
@@ -362,14 +370,14 @@ generalisable to similar patient groups across the country. The primary
 outcome measures we used to assess physical health are universally
 recognised as clinically important, and the thresholds for good health
 were based on national standards that have been widely used
-elsewhere.\ :sup:`33–35`
+elsewhere.\ :sup:`(n.d.z)–(n.d.aa)`
 
 However, this study does have important limitations. First, this is an
 observational study and we do not know what caused the changes we
 observed. Although they may reflect changes in services during this
 period, other changes in society are affecting population
-health,\ :sup:`36` and these could be responsible for some or all the
-differences we detected.
+health,\ :sup:`(n.d.ab)` and these could be responsible for some or all
+the differences we detected.
 
 The EIP and CMHT audits were conducted at different times, both before
 and after the CQUIN framework was implemented, and used different
@@ -386,11 +394,12 @@ even within the same audit.
 
 For both the EIP and CMHT audits, we were able to examine physical
 health measures before and after the introduction of the Commissioning
-for Quality and Innovation programme.\ :sup:`22` Although the
+for Quality and Innovation programme.\ :sup:`(n.d.o)` Although the
 introduction of the programme was associated with a marked increase in
 the proportion of patients who were offered interventions for their
-physical health,\ :sup:`24` we found only limited evidence that this
-resulted in changes to the health of people under the care of CMHTs.
+physical health,\ :sup:`(n.d.q)` we found only limited evidence that
+this resulted in changes to the health of people under the care of
+CMHTs.
 
 These data were produced from retrospective case note audits at each
 round, and are therefore dependant on accurate reporting and
@@ -403,7 +412,7 @@ outcome measure, meaning that the composite measure could only be used
 for a relatively small proportion of the overall sample. However, the
 proportion of missing data did generally improve over subsequent rounds
 of each audit, possibly reflecting the previously noted incentivised
-improvements in screening rates and recording.\ :sup:`24`
+improvements in screening rates and recording.\ :sup:`(n.d.q)`
 
 .. _sec4-2:
 
@@ -419,12 +428,13 @@ This may reflect differences in the model of care implemented by EIP
 services. Typically, these services advocate a more ‘intensive’
 programme of intervention, with a focus on relatively smaller
 case-loads, proactive engagement and an increased frequency of
-contact.\ :sup:`35–39` Although this approach is primarily intended to
-address psychiatric symptoms, multiple sources have suggested additional
-benefits for patients’ overall health, including increased levels of
-screening for physical health problems.\ :sup:`40` EIP services may,
-therefore, have been better placed to implement changes resulting from
-the national initiatives rolled out in 2014.
+contact.\ :sup:`(n.d.aa)–(n.d.ac)` Although this approach is primarily
+intended to address psychiatric symptoms, multiple sources have
+suggested additional benefits for patients’ overall health, including
+increased levels of screening for physical health
+problems.\ :sup:`(n.d.ad)` EIP services may, therefore, have been better
+placed to implement changes resulting from the national initiatives
+rolled out in 2014.
 
 However, the difference may also be because of differences in
 demographic and clinical characteristics between patients in the CMHT
@@ -438,10 +448,10 @@ CMHTs and EIP services had implemented identical changes since 2014.
 
 It may even be the case that people in younger age groups have become
 more ‘health conscious’ in recent years regardless of any intervention,
-as suggested by some epidemiological studies.\ :sup:`32` However, this
-seems unlikely in these cohorts in light of previous findings that
+as suggested by some epidemiological studies.\ :sup:`(n.d.y)` However,
+this seems unlikely in these cohorts in light of previous findings that
 patients on EIP case-loads already had pronounced cardiovascular risk
-factors, even at the point of first presentation.\ :sup:`25`
+factors, even at the point of first presentation.\ :sup:`(n.d.r)`
 
 Both audits identified some isolated areas of improvement in specific
 measures. Interestingly, these differed between the patients in the CMHT
@@ -472,18 +482,18 @@ The fact that the EIP audit showed an improvement in rates of illicit
 substance use over time, but the CMHT audit showed the opposite, is an
 intriguing finding and of unclear significance. It does not seem to
 reflect the current understanding of the changing epidemiology of
-illicit substance use,\ :sup:`41` and suggests that EIP services have
-been able to implement effective measures to support people in
+illicit substance use,\ :sup:`(n.d.ae)` and suggests that EIP services
+have been able to implement effective measures to support people in
 abstaining from illicit substances.
 
 Interestingly, the one measure where both CMHTs and EIP services
 improved over time was alcohol use. Many drug and alcohol services in
 the UK are now provided by third-sector organisations rather than NHS
-mental health teams.\ :sup:`42,43` The fact that both CMHTs and EIP
-services were able to effect improvement suggests that effective liaison
-with external organisations may be a key strategy for improvement,
-rather than attempting to deliver more services with internal
-infrastructure, which may already be overstretched.
+mental health teams.\ :sup:`(n.d.af),(n.d.ag)` The fact that both CMHTs
+and EIP services were able to effect improvement suggests that effective
+liaison with external organisations may be a key strategy for
+improvement, rather than attempting to deliver more services with
+internal infrastructure, which may already be overstretched.
 
 Both audits showed specific areas where standards of physical health
 worsened over time. The findings related to patients’ weight are
@@ -491,13 +501,14 @@ particularly concerning: the proportion of patients with a healthy BMI
 fell significantly across the three rounds of the EIP audit, and was
 universally low in the CMHT audit. Weight gain is a well-recognised and
 particular troubling side-effect of many antipsychotic
-medications.\ :sup:`17` Given the implications of obesity for subjective
-well-being, medication adherence and therapeutic outcomes in the context
-of treatment for psychosis, and associated diabetes and cardiovascular
-risk and likelihood of premature mortality,\ :sup:`44–46` improving
-interventions in this area needs to remain a focus for researchers. To
-date, studies of current weight management programmes for people with
-psychosis have produced mixed results.\ :sup:`47–49`
+medications.\ :sup:`(n.d.j)` Given the implications of obesity for
+subjective well-being, medication adherence and therapeutic outcomes in
+the context of treatment for psychosis, and associated diabetes and
+cardiovascular risk and likelihood of premature
+mortality,\ :sup:`(n.d.ah)–(n.d.ai)` improving interventions in this
+area needs to remain a focus for researchers. To date, studies of
+current weight management programmes for people with psychosis have
+produced mixed results.\ :sup:`(n.d.aj)–(n.d.ak)`
 
 In addition to these findings, it is also important to note that the
 majority of patients did not have adequate information recorded for all
@@ -582,6 +593,194 @@ Declaration of interest
 =======================
 
 None.
+
+.. container:: references csl-bib-body hanging-indent
+   :name: refs
+
+   .. container:: csl-entry
+      :name: ref-ref1
+
+      n.d.a.
+
+   .. container:: csl-entry
+      :name: ref-ref4
+
+      n.d.k.
+
+   .. container:: csl-entry
+      :name: ref-ref6
+
+      n.d.b.
+
+   .. container:: csl-entry
+      :name: ref-ref7
+
+      n.d.c.
+
+   .. container:: csl-entry
+      :name: ref-ref8
+
+      n.d.d.
+
+   .. container:: csl-entry
+      :name: ref-ref9
+
+      n.d.e.
+
+   .. container:: csl-entry
+      :name: ref-ref11
+
+      n.d.f.
+
+   .. container:: csl-entry
+      :name: ref-ref12
+
+      n.d.g.
+
+   .. container:: csl-entry
+      :name: ref-ref13
+
+      n.d.h.
+
+   .. container:: csl-entry
+      :name: ref-ref14
+
+      n.d.i.
+
+   .. container:: csl-entry
+      :name: ref-ref17
+
+      n.d.j.
+
+   .. container:: csl-entry
+      :name: ref-ref18
+
+      n.d.l.
+
+   .. container:: csl-entry
+      :name: ref-ref20
+
+      n.d.m.
+
+   .. container:: csl-entry
+      :name: ref-ref21
+
+      n.d.n.
+
+   .. container:: csl-entry
+      :name: ref-ref22
+
+      n.d.o.
+
+   .. container:: csl-entry
+      :name: ref-ref23
+
+      n.d.p.
+
+   .. container:: csl-entry
+      :name: ref-ref24
+
+      n.d.q.
+
+   .. container:: csl-entry
+      :name: ref-ref25
+
+      n.d.r.
+
+   .. container:: csl-entry
+      :name: ref-ref26
+
+      n.d.s.
+
+   .. container:: csl-entry
+      :name: ref-ref27
+
+      n.d.t.
+
+   .. container:: csl-entry
+      :name: ref-ref28
+
+      n.d.u.
+
+   .. container:: csl-entry
+      :name: ref-ref29
+
+      n.d.v.
+
+   .. container:: csl-entry
+      :name: ref-ref30
+
+      n.d.w.
+
+   .. container:: csl-entry
+      :name: ref-ref31
+
+      n.d.x.
+
+   .. container:: csl-entry
+      :name: ref-ref32
+
+      n.d.y.
+
+   .. container:: csl-entry
+      :name: ref-ref33
+
+      n.d.z.
+
+   .. container:: csl-entry
+      :name: ref-ref35
+
+      n.d.aa.
+
+   .. container:: csl-entry
+      :name: ref-ref36
+
+      n.d.ab.
+
+   .. container:: csl-entry
+      :name: ref-ref39
+
+      n.d.ac.
+
+   .. container:: csl-entry
+      :name: ref-ref40
+
+      n.d.ad.
+
+   .. container:: csl-entry
+      :name: ref-ref41
+
+      n.d.ae.
+
+   .. container:: csl-entry
+      :name: ref-ref42
+
+      n.d.af.
+
+   .. container:: csl-entry
+      :name: ref-ref43
+
+      n.d.ag.
+
+   .. container:: csl-entry
+      :name: ref-ref44
+
+      n.d.ah.
+
+   .. container:: csl-entry
+      :name: ref-ref46
+
+      n.d.ai.
+
+   .. container:: csl-entry
+      :name: ref-ref47
+
+      n.d.aj.
+
+   .. container:: csl-entry
+      :name: ref-ref49
+
+      n.d.ak.
 
 .. [1]
    CMHT, community mental health team; EIP, early intervention in

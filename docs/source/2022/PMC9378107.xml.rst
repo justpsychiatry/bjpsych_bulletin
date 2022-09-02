@@ -2,10 +2,11 @@
 Training Non-Medical Staff for SARS-CoV-2 Swab Collection on a Psychiatric Old Age Ward
 =======================================================================================
 
-:Author: Joanna Legg
-:Author: Sophie Ouabbou
-:Author: Susan Hay*Presenting author.
+Joanna Legg
+Sophie Ouabbou
+Susan Hay*Presenting author.
 :Date: 2022-06
+
 :Abstract:
    .. rubric:: Aims
       :name: sec_a1
@@ -50,5 +51,9 @@ Training Non-Medical Staff for SARS-CoV-2 Swab Collection on a Psychiatric Old A
    shortened the first step of the process that leads to obtaining a
    negative result and enable a patient to come out of isolation.
 
+
+.. contents::
+   :depth: 3
+..
 
 pmc

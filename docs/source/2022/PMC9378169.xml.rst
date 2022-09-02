@@ -2,19 +2,20 @@
 Improving Access and Confidence in Learning Lessons From Serious Incidents: A Quality Improvement Project Aimed at Junior Doctors
 =================================================================================================================================
 
-:Author: Cornelia Beyers
-:Author: Eleanor Parkinson
-:Author: Rajendra Harsh
-:Author: Sameer Nardeosingh
-:Author: Dolapo Oseji
-:Author: Alice Packham
-:Author: Nick Conway
-:Author: Renarta Rowe
-:Author: Ruth Scally
-:Author: Joshua Rochelle-Bates
-:Author: Onaiza Awais
-:Author: Farhaana Surti*Presenting author.
+Cornelia Beyers
+Eleanor Parkinson
+Rajendra Harsh
+Sameer Nardeosingh
+Dolapo Oseji
+Alice Packham
+Nick Conway
+Renarta Rowe
+Ruth Scally
+Joshua Rochelle-Bates
+Onaiza Awais
+Farhaana Surti*Presenting author.
 :Date: 2022-06
+
 :Abstract:
    .. rubric:: Aims
       :name: sec_a1
@@ -69,5 +70,9 @@ Improving Access and Confidence in Learning Lessons From Serious Incidents: A Qu
    format further has the potential to be refined and implemented
    locally and nationally.
 
+
+.. contents::
+   :depth: 3
+..
 
 pmc

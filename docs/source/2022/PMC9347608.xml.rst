@@ -2,8 +2,13 @@
 Michael King, MD, PhD, FRCP, FRCGP, FRCPsych
 ============================================
 
-:Author: Helen KillaspyEmail: h.killaspy@ucl.ac.uk
+Helen KillaspyEmail: h.killaspy@ucl.ac.uk
 :Date: 2022-06
+
+
+.. contents::
+   :depth: 3
+..
 
 pmc
 Formerly Professor of Psychiatry, University College London, and

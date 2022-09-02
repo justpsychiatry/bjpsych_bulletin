@@ -2,11 +2,12 @@
 Effects of the COVID-19 pandemic on provision of electroconvulsive therapy
 ==========================================================================
 
-:Author: Richard Braithwaite
-:Author: Robert Chaplin
-:Author: Vimal SivasankerCorrespondence to Richard Braithwaite
-         (richard.braithwaite@nhs.net)
+Richard Braithwaite
+Robert Chaplin
+Vimal SivasankerCorrespondence to Richard Braithwaite
+(richard.braithwaite@nhs.net)
 :Date: 2022-06
+
 :Abstract:
    .. rubric:: Aims and method
       :name: sec_a1
@@ -34,27 +35,31 @@ Effects of the COVID-19 pandemic on provision of electroconvulsive therapy
    service disruption in subsequent waves of the pandemic.
 
 
+.. contents::
+   :depth: 3
+..
+
 pmc
-Recent editorials in the *BJPsych*\ :sup:`1–3` concerning the effects of
-COVID-19 on psychiatry were written at the outset of the pandemic. It
-would perhaps have been impossible for their authors to have predicted
-what has been by far the most devastating effect of the pandemic on
-psychiatric care: suspension or reduction of normal service provision.
-This has included minimisation of face-to-face care and, crucially,
-limited provision of one of the most effective psychiatric treatments,
-electroconvulsive therapy (ECT).
+Recent editorials in the *BJPsych*\ :sup:`(n.d.a)–(n.d.b)` concerning
+the effects of COVID-19 on psychiatry were written at the outset of the
+pandemic. It would perhaps have been impossible for their authors to
+have predicted what has been by far the most devastating effect of the
+pandemic on psychiatric care: suspension or reduction of normal service
+provision. This has included minimisation of face-to-face care and,
+crucially, limited provision of one of the most effective psychiatric
+treatments, electroconvulsive therapy (ECT).
 
 ECT typically involves aerosol-generating procedures (AGPs), including
 bag-mask ventilation, suction of secretions and, less commonly,
-laryngeal mask or endotracheal airway insertion and removal.\ :sup:`4`
-It was apparent early on in the pandemic that ECT might pose a risk of
-viral transmission between patients and healthcare professionals, and
-that alterations to practice might be needed to ensure safety. However,
-it quickly became apparent that provision of ECT was rapidly diminishing
-in most areas and even grinding to a halt in some. Anecdotally,
-anaesthesia staff had been redeployed in many localities but, although
-anticipated, significant levels of staff sickness and shielding were yet
-to be encountered.
+laryngeal mask or endotracheal airway insertion and
+removal.\ :sup:`(n.d.c)` It was apparent early on in the pandemic that
+ECT might pose a risk of viral transmission between patients and
+healthcare professionals, and that alterations to practice might be
+needed to ensure safety. However, it quickly became apparent that
+provision of ECT was rapidly diminishing in most areas and even grinding
+to a halt in some. Anecdotally, anaesthesia staff had been redeployed in
+many localities but, although anticipated, significant levels of staff
+sickness and shielding were yet to be encountered.
 
 We present the findings of a survey conducted at two time points during
 the pandemic. The aim of the study was to establish the nature, extent
@@ -163,12 +168,13 @@ long as 30 min, depending on the frequency of air changes the room.
 
 Treatment rooms require full cleaning between patients, and staff
 members spend a lot of time donning and doffing PPE. These necessities
-at best halve patient throughput.\ :sup:`5` Some ECT services run from
-suites without adequate ventilation have instead delivered treatments in
-general hospital operating theatres,\ :sup:`6` which are subject not
-only to the restrictions listed above but also necessitate vying for
-time and facilities with surgical teams. Additionally, poor supply of
-PPE may have temporarily limited ECT provision in some hospitals.
+at best halve patient throughput.\ :sup:`(n.d.d)` Some ECT services run
+from suites without adequate ventilation have instead delivered
+treatments in general hospital operating theatres,\ :sup:`(n.d.e)` which
+are subject not only to the restrictions listed above but also
+necessitate vying for time and facilities with surgical teams.
+Additionally, poor supply of PPE may have temporarily limited ECT
+provision in some hospitals.
 
 The resultant loss of productivity has been devastating for many
 patients. It has led to services variously cancelling all ECT or
@@ -188,17 +194,17 @@ Recommendations
 Looking to the near future, it is imperative that ECT services remain
 functional even if there is a second wave of COVID-19 infections this
 winter. Guidance published in September 2020 jointly by four anaesthesia
-organisations in the UK\ :sup:`7` takes a pragmatic approach towards
-COVID-19 risk stratification that might prove helpful in increasing
-patient turnover. Crucially, it asserts that in-patients who are
-regularly tested for the virus and are on wards where COVID-19 patients
-are not being treated should be considered low risk. Previously only a
-small minority of out-patients who were shielding at home and regularly
-tested for the virus had been considered low risk. For treatment of
-low-risk patients, staff need wear only basic PPE (an apron, gloves and
-a surgical mask, with consideration of eye protection), usual recovery
-areas can be used and treatment rooms do not require full cleaning
-between patients.\ :sup:`7`
+organisations in the UK\ :sup:`(n.d.f)` takes a pragmatic approach
+towards COVID-19 risk stratification that might prove helpful in
+increasing patient turnover. Crucially, it asserts that in-patients who
+are regularly tested for the virus and are on wards where COVID-19
+patients are not being treated should be considered low risk. Previously
+only a small minority of out-patients who were shielding at home and
+regularly tested for the virus had been considered low risk. For
+treatment of low-risk patients, staff need wear only basic PPE (an
+apron, gloves and a surgical mask, with consideration of eye
+protection), usual recovery areas can be used and treatment rooms do not
+require full cleaning between patients.\ :sup:`(n.d.f)`
 
 However, patients in medium- and high-risk groups will continue to
 present for ECT. Some clinics may require improvements in ventilation to
@@ -260,6 +266,39 @@ Declaration of interest
 =======================
 
 None.
+
+.. container:: references csl-bib-body hanging-indent
+   :name: refs
+
+   .. container:: csl-entry
+      :name: ref-ref1
+
+      n.d.a.
+
+   .. container:: csl-entry
+      :name: ref-ref3
+
+      n.d.b.
+
+   .. container:: csl-entry
+      :name: ref-ref4
+
+      n.d.c.
+
+   .. container:: csl-entry
+      :name: ref-ref5
+
+      n.d.d.
+
+   .. container:: csl-entry
+      :name: ref-ref6
+
+      n.d.e.
+
+   .. container:: csl-entry
+      :name: ref-ref7
+
+      n.d.f.
 
 .. [1]
    ECT, electroconvulsive therapy; COVID-19, coronavirus disease 2019;

@@ -1,0 +1,768 @@
+==================================================================================================================================================================================
+Representation of Black, Asian and minority ethnic patients in secondary care mental health services: analysis of 7-year access to memory services in Leicester and Leicestershire
+==================================================================================================================================================================================
+
+Hari Subramaniam
+Elizabeta B. Mukaetova-Ladinska
+Andrew Wilson
+John Bankart [1]_\*Correspondence to Dr Hari Subramaniam
+(hari.subramaniam@leicspart.nhs.uk)
+:Date: 2020-08
+
+:Abstract:
+   .. rubric:: Aims and method
+      :name: sec_a1
+
+   We aimed to explore access by Black, Asian and minority ethnic (BAME)
+   elders to the memory services in Leicester and Leicestershire,
+   examining any trends over time. We then compared the odds of referral
+   by ethnicity, using observed versus expected referrals for the city
+   of Leicester. We gathered data on a comprehensive county-wide memory
+   clinic used by people with suspected dementia and memory problems
+   from the Trust electronic record system during the period 2011–2017.
+   For Leicester city, we compared referral rates for 2011–2017 and
+   compared observed and expected referral rates with demographics from
+   the UK Census 2011.
+
+   .. rubric:: Results
+      :name: sec_a2
+
+   In Leicester, there was a significant underrepresentation of
+   referrals from the BAME population as compared with the White
+   population in 2011, 2012 and 2013, when compared with population
+   estimates of those aged ≥60 years from the 2011 UK Census Leicester
+   city data. Data for the Black population were too small for
+   comparisons. The odds of being referred to a memory clinic for the
+   White group was double that of the Asian group in 2011 (odds ratio
+   2.15, 95% CI 1.52–3.02) and nearly 1.5 times in 2012 (odds ratio
+   1.40, 95% CI 1.01–1.93). This difference did not persist after 2014.
+   However, this differential odds of referral changes when the age
+   difference between the groups is accounted for. After adjusting for
+   age, there were no differences between the two groups in their odds
+   of referral to the memory clinic from 2011 to 2013, but from 2014 to
+   2017, members of the Asian group had higher odds of being referred.
+
+   .. rubric:: Clinical implications
+      :name: sec_a3
+
+   The relationship between BAME and access to memory services is
+   complex. The relative lower prevalence of Asian people among
+   referrals to memory services in Leicester from 2011 to 2013 may
+   partly be explained by the lower ages of the Asian population at
+   referral. The higher prevalence of Asian people in 2014–2017 may be
+   owing to use of denominators from the 2011 UK Census, which are
+   likely to be disproportionately low for this group. Further studies
+   are needed to explore any potential barriers to the access of
+   services by BAME communities.
+
+
+.. contents::
+   :depth: 3
+..
+
+There are an estimated 25 000 people currently living with dementia from
+Black, Asian and minority ethnic (BAME) backgrounds in the
+UK.\ :sup:`(n.d.a)` It is estimated that this figure will rise to 50 000
+by 2026 and 172 000 by 2051, given the growing and ageing UK BAME
+population.\ :sup:`(n.d.b)` This increase parallels the projected
+increase in the numbers of older BAME people. In 2001, approximately
+532 000 people from BAME groups were aged ≥65 years, and this is
+expected to rise eightfold to approximately 3.8 million by
+2051.\ :sup:`(n.d.c)`
+
+BAME people are generally underrepresented in dementia services and
+often present later in the course of the illness\ :sup:`(n.d.d)`;
+development of appropriate health and social care services to meet their
+needs has been a longstanding priority. A national study\ :sup:`(n.d.e)`
+found that the incidence rates of dementia diagnosis are higher among
+Black ethnic groups compared with White and Asian groups in the UK. This
+study reported that the incidence of dementia diagnosis was 25% higher
+among Black women than White women, and 28% higher among Black men than
+White men. Asian women and men were 18% and 12% less likely than White
+women and men, respectively, to have a dementia diagnosis. Vascular
+dementia is thought to be more common among Asian and Black Caribbean
+people because they are more prone to important risk factors for
+vascular dementia, such as cardiovascular disease, hypertension and
+diabetes,\ :sup:`(n.d.f)` and some evidence suggests that people from
+BAME groups present later in their illness.\ :sup:`(n.d.g)`
+
+In the UK there are primary care-based studies estimating the prevalence
+of dementia diagnosis rates\ :sup:`(n.d.h)` in BAME groups, but there
+are not many county-wide studies on mental health services use within
+secondary care services by people with dementia. UK-based secondary care
+studies tend to have small population sizes; a recent
+study\ :sup:`(n.d.i)` examined data on referrals to an inner London
+memory service to explore any differences in referral rates, cognitive
+assessments and stages of dementia at presentation. Although Black and
+Black British patients comprised a quarter of all referrals, Asian
+patients comprised only about 2.6% of the referrals. Another secondary
+care study\ :sup:`(n.d.j)` paradoxically found BAME overrepresentation,
+but this is the only UK study to find this. Such studies that are small
+and with seemingly opposite findings suggests that referral patterns may
+not necessarily reflect the BAME distributions in the local population
+and could well be representative of other factors. Further, it
+emphasises the need for studies with larger BAME population samples.
+
+Several qualitative studies have explored why BAME groups may be
+reluctant to seek professional help for symptoms owing to
+dementia.\ :sup:`(n.d.d),(n.d.k)–(n.d.l)` There are several barriers to
+seeking help identified for South Asian people. They include patient,
+carer and community factors, health professional factors and the type of
+services concerned.\ :sup:`(n.d.m)` Health professional factors include
+culture and communication, lack of knowledge of dementia, lack of
+knowledge of available services (including any for BAME groups) and high
+workload/lack of time. There are several other reported barriers, such
+as lack of support, time and financial constraints, stigma, diagnostic
+uncertainty and disclosure of the diagnosis.\ :sup:`(n.d.n)`
+Furthermore, interventions raising awareness\ :sup:`(n.d.o)` have not
+shown much improvement in diagnosis or management,\ :sup:`(n.d.p)` which
+might suggest an associated reluctance to seek help.
+
+.. _sec1-1:
+
+Demographic characteristics of Leicester and Leicestershire
+===========================================================
+
+Leicester is unique in the UK in probably now being the only city to
+have a sufficiently large BAME population (with only 51% reporting
+themselves as White British) in the UK Census 2011 data; population
+changes have been affected over time by immigration patterns. Further,
+Leicester is also unique in having a South Asian population as the
+majority within the BAME population. Additionally, Leicester has the
+highest proportion of BAME adults of any city in the UK, with the BAME
+population being the majority population in some areas. The Leicester
+data from the 2011 UK Census gave the three main ethnicity estimates in
+the city to be 51% White, 37% Asian and 6% Black.\ :sup:`(n.d.q)` The
+Leicester Action Plan 2016/7 estimates that 3000 people aged >65 years
+in Leicester live with dementia, and this is forecast to increase to
+about 4500 people by 2030.\ :sup:`(n.d.r)` Estimates suggest that each
+year about 850 people diagnosed with dementia are from Black and
+minority ethnic backgrounds.\ :sup:`(n.d.s)` Leicester has a
+high-performing diagnosis rate for dementia of 88.4% of the predicted
+population value.\ :sup:`(n.d.s)`
+
+The demographics of Leicester show that the increase in the proportion
+of those aged >65 years is much greater in the South Asian population
+than other groups, and that overall, the proportion of this age group
+from BAME communities will have risen from 31% in 2016 to 40% in
+2026.\ :sup:`(n.d.r)` This raises the question of whether local referral
+patterns reflect the real prevalence of the Asian population among BAME
+referrals. It provides us with a good opportunity to explore secondary
+care service use by BAME groups in a setting where the BAME population
+is high, in a city with only about 51% reporting themselves as White
+British in the UK Census 2011 data.\ :sup:`(n.d.q)`
+
+.. _sec1-2:
+
+Aims
+====
+
+First, we wished to examine the access by BAME elders to memory services
+in Leicester and Leicestershire and examine any trends over time.
+Second, we aimed to compare the odds of referral by ethnicity, using
+observed versus expected referrals for the city of Leicester.
+
+.. _sec2:
+
+Method
+======
+
+.. _sec2-1:
+
+Data collection
+---------------
+
+We gathered data on comprehensive county-wide memory clinic use within
+mental health services by people with suspected dementia and memory
+problems. For this we used the Leicestershire Partnership National
+Health Service Trust (LPT) electronic record system, RiO.
+
+The LPT moved to an electronic system of patient records in 2010 and
+this included electronic records of all referrals to the memory clinics,
+out-patient referrals and referrals to the community mental health
+teams. As a part of a National Institute of Health Research (NIHR)
+study, the findings of which will be reported elsewhere, we identified
+all referrals to the LPT memory clinics where patients suspected of
+cognitive disorders and dementias would be referred and diagnosed.
+Memory clinics provide assessment for cognitive problems across the city
+and county to adults referred with suspected memory problems. Patients
+are offered comprehensive assessments, including standardised tests,
+brain imaging and neuropsychological tests as needed. Diagnoses are
+considered by a multidisciplinary team and appropriate treatments and
+follow-up are arranged as required.
+
+For this study, we report only the findings of ethnicity data and
+findings related to patients referred to mental health services for the
+elderly who were referred by general practitioners for memory
+assessment. Ethnicity was coded as per the National Health Service (NHS)
+criteria for recording ethnicity data at the time of referrals. We were
+able to stratify the data according to the ethnicities as recorded on
+NHS patient-recording systems. The data collected included data for
+older people referred for a memory assessment, but not those suspected
+of having a young-onset dementia or cognitive syndromes in younger
+adults, this information being reported separately. We collected date of
+referral, ethnicity recorded at the point of receiving the referral,
+gender, general practitioner details and whether the case was active or
+discharged. Age was not routinely recorded at the time of receiving the
+referrals.
+
+We collected data for 8 years, from 1 January 2010 to 31 December 2017.
+Analysis used anonymised data from a yearly referral database with LPT
+maintained for the purpose of service monitoring and includes all the
+referrals received by the Trust. NHS ethnic data categories include
+White British, White Irish, Asian or Asian British, Black or Black
+British, any other White, mixed, Chinese, other ethnic, not known and
+not stated. We studied patterns yearly to look for any emerging trends.
+
+Ethics approval for this study was granted by University of Leicester as
+a part of the NIHR study application (reference PB-PG-0416-20019). The
+study also had approval from the LPT Research and Development Department
+(ELMH0818; Integrated Research Application System reference 232861).
+
+.. _sec2-2:
+
+Age imputation
+--------------
+
+The age distribution of the entire Leicester city population at risk was
+already known for 2011 in 5-year age bands. As age was not routinely
+recorded at the time of receiving referrals, we collected these data
+only for a sample of randomised individuals. Because we lacked age
+information for the non-randomised referrals, we decided that it was
+reasonable to assume that the age distribution for the randomised
+referrals (in 5-year bands) would be the same as for the non-randomised
+referrals, and imputed the age data on that basis. So, if a third of
+randomised White referrals in 2011 had ages in the 80–84 years age band,
+the same proportion was imputed for non-randomised White referrals in
+2011. This resulted in the creation of seven data-sets, one for each
+year (2011–2017). Age distributions were calculated and created
+separately for the non-randomised referrals in the two ethnic groups in
+each year. In each year, the total number at risk was the same, so no
+account was taken of population growth in those aged ≥60 years, for
+which we had no information. The total number at risk in each year
+consisted of 49 115, with the number at risk being constrained to be
+constant from 2011 to 2017. The number of referrals in each year was
+subtracted from the number at risk to give the number of non-referrals.
+The numbers of non-referrals in the years subsequent to 2011 were not
+removed from the at-risk group to take into account the fact that the
+referrals in previous years may no longer have been at risk of being a
+referral. Having estimated the numbers of referrals and non-referrals in
+each age band in each year for each ethnic group, we generated these
+data in Stata version 14 for Windows, using the ‘gen’ command.
+
+.. _sec2-3:
+
+Statistical analysis
+--------------------
+
+A separate analysis was performed for each year, and *P*-values were
+correspondingly adjusted for multiple comparisons with the Bonferroni
+method (significance level 0.05/*n*, two-tailed). Logistic regression
+was used to compare proportions of referrals between ethnic groups,
+using 5-year age bands to calculate age-adjusted odds ratios and 95%
+confidence intervals. Population-at-risk estimates were derived from the
+published UK Census (2011) data for Leicester. Age was only available in
+the form of six (mainly 5-year) age bands, ranging from 60–64 to ≥85
+years and was treated in the logistic models as a continuous predictor,
+ranging from 1 (60–64 years) to 6 (≥85 years). We used 60 years as the
+cut-off for population-at-risk estimates, as it is reflective of the age
+generally used as a cut-off age for population-at-risk estimates in
+defining older adult services and has face validity in clinical
+practice. However, beyond 2013 it is highly likely that the denominators
+for the two ethnic groups will have both increased and also diverged
+non-trivially, leading to potential biases in the estimated proportions
+and differences in proportions, so estimates of individual proportions
+and differences in proportions beyond this time should be treated with
+caution.
+
+.. _sec2-4:
+
+Randomisation
+-------------
+
+Simple randomisation by a computerised program (SAS version 9.4 for
+Windows) had previously been carried out from the memory clinic
+referrals in the White and Asian groups separately, to obtain a
+representative sample of 260 cases from each group; the ages of referral
+were then individually collected from those case notes for comparison.
+The number of Black referrals was too small for meaningful comparisons,
+and hence this study did not include data for the Black population. All
+analyses were exploratory.
+
+.. _sec3:
+
+Results
+=======
+
+Over the analysed period, LPT memory services received a total of 15 634
+referrals, of which 191 (1.2%) had been entered in error. These included
+referrals that were deemed inappropriate or had other medical problems
+present and hence were not suitable for memory clinic assessments. A
+total of 1493 (9.6%) people had blank values in the ethnicity data rows,
+whereas ‘not known’ ethnicity was recorded in 994 (6.4%) people. These
+missing data were missing at random with no consistent pattern, and were
+all excluded from the analyses. Formal statistical analyses were
+conducted on just the two main groups of interest here, namely White
+British and Asian groups; other ethnic groups and mixed groups were
+excluded because of the low numbers in each group. Comparisons of the
+main groups are shown in `Table 1 <#tab01>`__. Table 1Referral data for
+Leicestershire memory clinics, 2011–2017Referrals by
+ethnicity\ *N*\ Gender% FemalePercentage of the sample,
+*N* = 15 443MaleFemaleWhite British11 1664631653558.572.3White
+Irish152658757.21.0Asian or Asian British112847665257.87.3Black or Black
+British141677452.40.9Any other
+White2889319567.71.9Mixed35171851.40.2Chinese93666.60.06Other
+ethnic37162156.70.2Not known99445354054.36.4Not stated149365184256.39.7
+
+Despite the overall higher proportion of BAME in Leicestershire compared
+with many other counties, during the period 2011–2017, of all the
+referrals across the county, only 1128 were Asian (7.3%) and 142 were
+Black (0.9%).
+
+The proportion of Asian ethnicity referrals was higher in the city of
+Leicester (`Table 2 <#tab02>`__), but it was still only 22.6% compared
+with the expected Asian proportion of 37% based on the 2011 UK Census
+data population size estimates. Table 2All memory services referrals for
+Leicester city and county, 2011–2017Total referralsReferralsWhiteWhite,
+%AsianAsian, %BlackBlack,
+%City4182252960.5%94622.6%1202.9%County11 452863775.4%1821.6%220.1%Total15 63411 16671.4%11287.2%1420.9%
+
+.. _sec3-1:
+
+Yearly comparison of referrals in Leicester city and Leicestershire county
+--------------------------------------------------------------------------
+
+| We have presented the referral rates among the three largest ethnic
+  groups over the period 2011–2017 (see `Table 3 <#tab03>`__). Referral
+  numbers increased consistently in all the groups for part of this
+  period. There were 529 referrals combined in all the three groups in
+  2011, peaking at 3313 in 2016, but then decreasing to 2033 in 2017.
+  This drop may be explained by the increase recorded in the ‘not known’
+  and ‘not stated’ ethnic categories. White British referrals increased
+  from 461 in 2011, peaking at 2350 in 2015 and dropping to 1337 in
+  2017. Asian ethnicity referrals also rose from 43 in 2011, peaking at
+  295 in 2015. Black ethnicity referrals were relatively low throughout,
+  ranging from 5 in 2011 to 25 in 2017. Table 3Annual referrals for
+  Leicester and Leicestershire (*n*, % referrals)White
+  BritishAsianBlackOther WhiteNot knownNot statedTotal\ *n*, %\ *n,*
+  %\ *n*, %\ *n,* %\ *n*, %\ *n,* %2011461,
+| 87.143,
+| 8.15,
+| 0.09,
+| 1.72,
+| 0.32,
+| 0.35292012870,
+| 87.543,
+| 4.34,
+| 0.020,
+| 2.017,
+| 1.77,
+| 0.799420131422,
+| 76.0113,
+| 6.018,
+| 0.944,
+| 2.3195,
+| 10.445,
+| 2.4187020142142,
+| 76.5228,
+| 8.128,
+| 1.053,
+| 1.8254,
+| 9.051,
+| 1.8280020152350,
+| 78.5294,
+| 9.825,
+| 0.864,
+| 2.1134,
+| 4.4201,
+| 6.7299120162068,
+| 62.4242,
+| 7.325,
+| 0.755,
+| 1.6166,
+| 5.0725,
+| 21.8331320171338,
+| 65.8148,
+| 7.226,
+| 1.228,
+| 1.3226,
+| 11.1458,
+| 22.52033
+
+The proportion of White British referrals fell over this period from
+86.9% in 2011, to 65.6% in 2016 and 65.7% in 2017 (`Table
+3 <#tab03>`__). In contrast, referrals from the Asian population
+remained relatively similar over this period, from 8.1% in 2011, peaking
+at 9.8% in 2015 and then slightly falling again to 7.2% in 2017. The
+Black population proportion remained low, rising from 0.09% in 2011 to
+1.2% in 2017.
+
+.. _sec3-2:
+
+Comparison with Leicester city population estimates
+---------------------------------------------------
+
+As the raw referral rate data suggested a lower referral rate among BAME
+groups compared with the White British population, for Leicester city we
+compared annual referral rates between 2011 and 2017, based on an
+estimate of the population at risk, derived from the 2011 UK Census. We
+obtained this population-at-risk estimate by an age-defined cut-off of
+60 years, obtained by stratification of the known population estimates
+taken from the 2011 UK Census data. A cut-off age of 60 years holds
+greater relevance and reflects the age cut-offs normally associated with
+the way services reflect clinical practice. We restricted this analysis
+to Leicester city as the city has a sufficiently large BAME population
+to make statistical comparisons meaningful. It is interesting to note
+that the referral patterns from the city rose from 2011, peaking in
+2016, but fell again in 2017 (`Table 4 <#tab04>`__). Table 4Comparison
+between Asian and White groups in Leicester city (unadjusted)2011 UK
+CensusWhiteAsianComparison166 636122 470Population at risk
+(*n* > 60)34 75014 365\ *n*\ Rate per 1000\ *n*\ Rate per 1000White
+(reference) versus Asian, odds ratio (95% CI)20112075.96402.782.15
+(1.52–3.02)20121624.66483.341.40 (1.01–1.93)201335710.271006.961.48
+(1.18–1.85)201448513.9619113.301.05 (0.88–1.25)201552615.1425317.610.86
+(0.73–0.99)201645213.0118813.090.99 (0.83–1.18)20172657.631238.560.89
+(0.71–1.11)Total24547.069436.561.08 (1.00–1.17)
+
+| To control for the effects of age at presentation, we compared the
+  White ethnicity and Asian ethnicity groups, using age-adjusted
+  logistic regression over the period 2011–2017 (`Table 5 <#tab05>`__),
+  with data from each year being analysed separately. There is a clear
+  trend between 2011 and 2015 showing the odds ratio changing
+  increasingly in favour of Asian patients being referred. Table
+  5Comparison of Asian and White groups in Leicester city in 2011–2015,
+  adjusted for age (results 2011–2017)YearOdds ratio (95% CI) for
+  ethnicity
+| 1/odds ratio\ *P*-value for ethnicityOdds ratio (95% CI) for
+  age\ *P-*\ value for
+| agePseudo
+| *r*\ :sup:`2`\ 20111.13 (0.80–1.60)
+| 0.930.482.92 (2.57–3.32)<0.0010.17020120.87 (0.62–1.22)
+| 1.150.432.03 (1.83–2.24)<0.0010.09620130.80 (0.63–1.03)
+| 1.250.062.68 (2.46–2.92)<0.0010.17120140.72 (0.60–0.86)
+| 1.37<0.0011.74 (1.65–1.83)<0.0010.07720150.51 (0.43–0.60)
+| 1.92<0.0012.19 (2.07–2.31)<0.0010.13820160.67 (0.56–0.80)
+| 1.49<0.0011.80 (1.71–1.90)<0.0010.08520170.61 (0.48–0.76)
+| 1.640.0011.77 (1.65–1.89)<0.0010.074 [2]_
+
+At any given time only a proportion of patients referred for a memory
+clinic were actively being managed within the service. Some would be
+waiting for an assessment and some would have been assessed, treated and
+discharged. To get a fair representation, we compared the numbers of
+referrals that were considered actively open to see if they matched
+estimates of patients with suspected dementia in Leicester. As of 2017,
+there were 932 open cases in the city, with White British cases being
+54% of the total. We compared the active cases from the three groups
+with their at-risk estimates in Leicester city (based on the Leicester
+2011 UK Census). Statistical comparison of active memory clinic use data
+shows significantly lower use by BAME groups. The odds of being actively
+open to the memory clinic were 1.67 (95% CI 1.42–1.96; *P* < 0.0001)
+times lower in the Asian population (24% of active cases compared with
+the 40% of total at-risk Asian population estimates), whereas the odds
+of being actively open to the memory clinic were 2.72 (95% CI 1.79–4.15;
+*P* < 0.0001) times lower for the Black population (among the 2.4% of
+active cases compared with the 7% of total at-risk Black population
+estimates).
+
+.. _sec4:
+
+Discussion
+==========
+
+Referrals of patients to memory services in Leicester and Leicestershire
+have increased fourfold over the period 2011–2017, although the drop of
+39% between 2016 and 2017 is not easy to explain. We found that Asian
+people represented 22.6% of all the memory service referrals in
+Leicester city and 1.5% within the county of Leicestershire. The Black
+population appears to be severely underrepresented among referrals to
+the service.
+
+Referrals from White British groups rose sharply from 2011 to 2014, but
+then stabilised. Interestingly, the referrals from the BAME groups have
+correspondingly not increased, suggesting the role of other factors
+(i.e. access difficulties, immigration changes) that need to be
+accounted for. However, this could be partly explained by the higher
+proportion of ‘not known’ or ‘not stated’ ethnicity groups. The role and
+the nature of the assessments in memory clinics have also perhaps
+changed over these times, with increasing awareness of the newer concept
+of minimal cognitive impairment and changes to the assessments of
+cognitive issues associated with functional illness and/or physical
+illnesses. There could also be influences arising out of the National
+Dementia Strategies\ :sup:`(n.d.t)` and the changes within primary care
+(such as Quality Outcomes Framework targets)\ :sup:`(n.d.u)` or the
+changes in costs associated with anti-dementia drug prescribing. This
+may mean that the population presenting to memory clinics for assessment
+may have altered in its composition over the years, with a greater
+emphasis on early assessment for cognitive problems. Administrative
+reasons may affect data collection, explaining the higher ‘not stated’
+scores, and perhaps political influences affect the ethnicity
+documentation or the ‘not known’ scores. We suspect these uncoded data
+may also affect the ongoing activity and open case contacts, and may
+need to be taken into account when interpreting the results.
+
+In this study we demonstrate underrepresentation of Asian ethnicity
+groups in Leicester city memory clinic referrals in 2011, 2012 and 2013
+when we compare them with unadjusted population-at-risk estimates
+derived from the Leicester BAME demographic data from the 2011 UK
+Census. However, this difference can be explained by the finding that
+the Asian population is younger than the White population at the time of
+the referral. After adjusting for age, there were no ethnic differences
+between the two groups in their odds of being referred to memory clinic
+before 2014, from which time the denominators become increasingly
+unreliable. Age is thus the more important predictor of being referred
+to memory services. For every rise in age category (5-year bands), the
+odds of being referred increased by a factor of around 1.5 to 3. There
+is a clear trend between 2011 and 2015 showing the odds ratio changing
+in favour of Asian people being referred. There may be two main reasons
+for this. First, this is likely to be because of the denominator for the
+Asian population increasing more than the denominator for the White
+population, leading to increasingly high numbers at risk for Asian
+people relative to White people. However, we could not take this into
+account in the analyses as the data which could confirm this are not
+available. Second, it is also possible that the clinical presentations
+in this group may be such that general practitioners feel more inclined
+to refer to memory clinic for a specialist assessment. We cannot
+identify any other factors that might change the likelihood of Asian
+people being referred compared with White people, regardless of the
+number at risk, and there are no changes that we can identify in
+referral methods or local clinical practices.
+
+As far as we know, this is the first comprehensive study of BAME
+referral rates at a county-wide level within secondary care services.
+Although there have been other studies looking at secondary care memory
+clinic use, they have been confined to district or borough levels, often
+covering a few memory clinics and community mental health teams. This
+study's strength is that it covers the whole of
+Leicester/Leicestershire, which has multiple memory clinics and covers
+all the community mental health teams in the county. By that nature, our
+study is comprehensive and cover practices across an entire healthcare
+system.
+
+Reinforcing the findings from other UK studies, our findings also
+suggest underuse of services by BAME groups within secondary care memory
+services; however, the lower odds in the BAME group of being referred to
+services may be explained by their lower ages at the time of referral.
+The odds of getting referred to memory services are changing, with the
+odds ratio favouring Asian people being referred in the latter years of
+the sequence. However, this finding is likely to be owing to
+underestimation of the population at risk for this group. This is an
+important finding as Leicester has a very high BAME (chiefly Asian)
+population in inner city areas and so arguably has sufficient BAME
+populations to study trends in service use by BAME (chiefly Asian)
+groups. A study such as ours helps in adding substantively to findings
+in this area, where there have previously been contradictory reports.
+
+Our findings reinforce the need for more in-depth research to identify
+reasons for varying presentation of BAME patients in memory clinics and
+mental health services across different regions and also across
+different generations.
+
+.. _sec4-1:
+
+Limitations
+-----------
+
+Despite the comprehensiveness of the study, the numbers in the BAME
+population in Leicester are relatively small. It is possible that with
+greater numbers and larger studies across regions, the outcome may be
+different. Moreover, Leicester's geographical and historical immigration
+patterns are unique and a similar study elsewhere may have different
+findings. Consideration should also be given to the role of the primary
+care physicians and the diversity of the ethnic backgrounds they may
+come from, which could affect referral practices. A major limitation is
+using the age data from the 2011 UK Census to adjust rates beyond the
+year of the census. The population profile would have changed since the
+2011 UK Census data estimates, and comparing the referral rates in the
+latter years with this data would limit its applicability, but the 2011
+UK Census data remains the last officially published national estimates
+of UK population data. Also, an at-risk population with an alternate
+cut-off age other than 60 years may result in different findings.
+
+There may be other reasons apart from age and ethnicity that could also
+explain the underrepresentation of BAME patients in our sample.
+Additional missing variables relate to physical morbidity and health
+service use elsewhere (e.g. acute physical health services), traditional
+cultural practices and reluctance in seeking help from Western services,
+the role of the extended family system, and the perception of the
+inevitability of dementia and it being seen as a part of normal aging
+decay. The barriers these pose should be explored in further studies.
+
+This study is limited by the way ethnicity is coded by NHS staff at the
+point a referral is received. Further, the categories have been broadly
+classified; not analysing further subtypes of ethnicity and its clinical
+implications may be a limitation, but it was beyond the scope of this
+study. Similarly, there are changing migration patterns and
+intergenerational differences, which again are beyond the scope of this
+study.
+
+In light of these limitations, caution is needed in interpreting the
+findings. BAME groups by their nature are heterogeneous and subject to
+constant change, owing to cultural, immigration or political influences.
+BAME groups may vary in different geographical regions and may be
+affected by other factors, such as economic indicators and deprivation.
+It is possible that the BAME groups in Leicester may be economically not
+as deprived as in other areas such as the north of England, and the
+pattern of referrals to memory services in such areas may be different.
+Furthermore, there are intergenerational effects and as such a
+repetition of this study in the coming decades may reveal different
+findings.
+
+.. _sec4-2:
+
+Future work
+-----------
+
+Future work is needed to carry out additional investigations into any
+perceived barriers to help-seeking in BAME populations. We are currently
+in the process of undertaking an NIHR-funded study to look at diagnostic
+challenges and the severity of presentation of dementia in BAME
+populations, and this will be reported in due course.
+
+Leicestershire Partnership NHS Trust provided support with access to
+data and information. The University of Leicester supported with
+intellectual and research support.
+
+**Hari Subramaniam** is a Consultant Psychiatrist at The Evington
+Centre, Leicestershire Partnership NHS Trust, and Honorary Senior
+Lecturer at the University of Leicester, UK. **Elizabeta B.
+Mukaetova-Ladinska** is a Consultant Psychiatrist at The Evington
+Centre, Leicestershire Partnership NHS Trust, and Professor of Old Age
+Psychiatry in the Department of Neuroscience, Psychology and Behaviour,
+University of Leicester, UK. **Andrew Wilson** is a Professor of Primary
+Care Research in the Department of Health Sciences, College of Life
+Sciences, University of Leicester, UK. **John Bankart** is a Honorary
+Associate Professor in Medical Statistics in the Department of Health
+Sciences, College of Life Sciences, University of Leicester, UK.
+
+This research received no specific grant from any funding agency,
+commercial or not-for-profit sectors. This paper is part of an
+independent research funded by the National Institute for Health
+Research (NIHR) under its Research for Patient Benefit programme (grant
+PB-PG-0416-20019). The views expressed are those of the authors and not
+necessarily those of the NIHR or the Department of Health and Social
+Care.
+
+All authors contributed to the design of the study and production of the
+manuscript. H.S. led the project and is guarantor of the paper. The
+statistical analysis and calculations was led by J.B. E.B.M.-L. and A.W.
+contributed to study design, interpreting the LPT data and the
+statistical analyses and their interpretations.
+
+.. container:: references csl-bib-body hanging-indent
+   :name: refs
+
+   .. container:: csl-entry
+      :name: ref-ref1
+
+      n.d.a.
+
+   .. container:: csl-entry
+      :name: ref-ref2
+
+      n.d.b.
+
+   .. container:: csl-entry
+      :name: ref-ref3
+
+      n.d.c.
+
+   .. container:: csl-entry
+      :name: ref-ref4
+
+      n.d.d.
+
+   .. container:: csl-entry
+      :name: ref-ref5
+
+      n.d.e.
+
+   .. container:: csl-entry
+      :name: ref-ref6
+
+      n.d.f.
+
+   .. container:: csl-entry
+      :name: ref-ref7
+
+      n.d.g.
+
+   .. container:: csl-entry
+      :name: ref-ref8
+
+      n.d.h.
+
+   .. container:: csl-entry
+      :name: ref-ref9
+
+      n.d.i.
+
+   .. container:: csl-entry
+      :name: ref-ref10
+
+      n.d.j.
+
+   .. container:: csl-entry
+      :name: ref-ref11
+
+      n.d.k.
+
+   .. container:: csl-entry
+      :name: ref-ref13
+
+      n.d.l.
+
+   .. container:: csl-entry
+      :name: ref-ref14
+
+      n.d.m.
+
+   .. container:: csl-entry
+      :name: ref-ref15
+
+      n.d.n.
+
+   .. container:: csl-entry
+      :name: ref-ref16
+
+      n.d.o.
+
+   .. container:: csl-entry
+      :name: ref-ref17
+
+      n.d.p.
+
+   .. container:: csl-entry
+      :name: ref-ref18
+
+      n.d.q.
+
+   .. container:: csl-entry
+      :name: ref-ref19
+
+      n.d.r.
+
+   .. container:: csl-entry
+      :name: ref-ref20
+
+      n.d.s.
+
+   .. container:: csl-entry
+      :name: ref-ref21
+
+      n.d.t.
+
+   .. container:: csl-entry
+      :name: ref-ref22
+
+      n.d.u.
+
+.. [1]
+   **Declaration of interest:** None.
+
+.. [2]
+   Reference category for ethnicity is Asian (coded as 0). Age is
+   modelled as a linear and continuous variable, so for 2011, for every
+   rise in age category (5-year bands), the odds of being referred
+   increase by a factor of nearly 3. After Bonferroni correction for
+   multiple comparisons (0.05/14), the adjusted significance level
+   becomes 0.003, so all results for 2014–2017 are significant.

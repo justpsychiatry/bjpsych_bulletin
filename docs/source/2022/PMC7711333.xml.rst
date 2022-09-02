@@ -2,10 +2,10 @@
 The contagiousness of memes: containing the spread of COVID-19 conspiracy theories in a forensic psychiatric hospital
 =====================================================================================================================
 
-:Author: Reena Panchal
-:Author: Alexander JackCorrespondence to Reena Panchal
-         (reena.panchal@nhs.net)
+Reena Panchal
+Alexander JackCorrespondence to Reena Panchal (reena.panchal@nhs.net)
 :Date: 2020-11-13
+
 :Abstract:
    COVID-19 has transformed healthcare service provision. In addition to
    the spread of a virus, there has been an equally concerning emergence
@@ -22,13 +22,18 @@ The contagiousness of memes: containing the spread of COVID-19 conspiracy theori
    the spread of COVID-19.
 
 
+.. contents::
+   :depth: 3
+..
+
 Forty-four cases of pneumonia of unknown microbial origin were reported
-to the World Health Organization (WHO) on 31 December 2019.\ :sup:`1`
-Investigations revealed that the culprit organism was a novel
-coronavirus, dubbed COVID-19. COVID-19 has spread quicker than experts
-anticipated; the WHO declared an international state of emergency – a
-true pandemic – in early March 2020, as the virus spread rapidly between
-continents. The human cost has been, and continues to be, vast.
+to the World Health Organization (WHO) on 31 December
+2019.\ :sup:`(n.d.a)` Investigations revealed that the culprit organism
+was a novel coronavirus, dubbed COVID-19. COVID-19 has spread quicker
+than experts anticipated; the WHO declared an international state of
+emergency – a true pandemic – in early March 2020, as the virus spread
+rapidly between continents. The human cost has been, and continues to
+be, vast.
 
 .. _sec1:
 
@@ -98,10 +103,10 @@ a source of angst for patients.
 
 In these unprecedented conditions, we consider that there is a risk of
 an ‘us versus them’ dynamic developing, particularly as situational
-threat is high.\ :sup:`2` On closed wards, it is plausible that staff
-are the vehicles of virus transmission, transporting the contagion onto
-the ward asymptomatically, given the incubation period of COVID-19. It
-is possible that some patients may view the movement of staff as
+threat is high.\ :sup:`(n.d.b)` On closed wards, it is plausible that
+staff are the vehicles of virus transmission, transporting the contagion
+onto the ward asymptomatically, given the incubation period of COVID-19.
+It is possible that some patients may view the movement of staff as
 contamination. The usual psychological containment that high staffing
 levels can provide may now be perceived as hostile, dangerous and
 unpredictable – when the danger cannot be seen, who is infected and
@@ -118,8 +123,8 @@ We have noticed that conspiracy theories have emerged in tandem with the
 COVID-19 spread. Conspiracy theories have been defined as ‘attempts to
 explain the ultimate causes of significant social and political events
 and circumstances with claims of secret plots by two or more powerful
-actors’.\ :sup:`3` Notably, conspiracy theories are similar to, though
-distinct from, misinformation and/or ‘conspiracy hypotheses’.
+actors’.\ :sup:`(n.d.c)` Notably, conspiracy theories are similar to,
+though distinct from, misinformation and/or ‘conspiracy hypotheses’.
 Misinformation – false or inaccurate information, often intended to
 deceive (e.g. ‘fake news’) – can underpin conspiracy theories as it
 undermines mainstream narratives; conspiracy hypotheses are legitimate
@@ -129,90 +134,95 @@ centralised message. The relationship between these phenomena is likely
 to be fluid.
 
 Research has shown that conspiracy beliefs are common. For example, 60%
-of Americans believe that the CIA killed JFK\ :sup:`4` and 46% of leave
-voters in the EU referendum believed that the vote would be
-rigged.\ :sup:`5` There are many other types of theory that gather large
-follower groups.\ :sup:`3` COVID-19 conspiracy theories have included
-fear of 5G broadband networks and persistent notions that the virus is
-man-made.\ :sup:`6`
+of Americans believe that the CIA killed JFK\ :sup:`(n.d.d)` and 46% of
+leave voters in the EU referendum believed that the vote would be
+rigged.\ :sup:`(n.d.e)` There are many other types of theory that gather
+large follower groups.\ :sup:`(n.d.c)` COVID-19 conspiracy theories have
+included fear of 5G broadband networks and persistent notions that the
+virus is man-made.\ :sup:`(n.d.f)`
 
 Interestingly, individuals who hold one conspiracy theory are more
-likely to believe others,\ :sup:`7` thus suggesting a possible
+likely to believe others,\ :sup:`(n.d.g)` thus suggesting a possible
 underlying tendency to seek counter-narrative explanations and prefer
 them to information presented by institutions. Individuals who hold
 conspiracy beliefs are predominantly male, unmarried and of lower
 socioeconomic status. They are more likely to have weak social networks
 and belong to ethnic minority groups. Notably, they are likely to have
 had adverse childhoods and experience psychiatric problems as
-adults.\ :sup:`8` Such demographics are highly consistent with a typical
-in-patient forensic population.\ :sup:`9,10`
+adults.\ :sup:`(n.d.h)` Such demographics are highly consistent with a
+typical in-patient forensic population.\ :sup:`(n.d.i),(n.d.j)`
 
 Particular environmental conditions and psychological processes have
 been mooted to underpin such beliefs. In a review, Douglas et
-al\ :sup:`11` identified three psychological motivations that led to a
-preference for conspiracy explanations: epistemic, existential and
+al\ :sup:`(n.d.k)` identified three psychological motivations that led
+to a preference for conspiracy explanations: epistemic, existential and
 social. Each has particular relevance to the patient group in an MSU.
 
 The epistemic motivation relates to an individual's or group's
 understanding and knowledge of a phenomenon; conspiracy theories can
 allow individuals to preserve a sense of understanding in the face of
 uncertainty and contradiction. These beliefs are noted to become
-stronger when events are widespread and/or significant,\ :sup:`12` and
-when simplistic, mundane explanations are perceived as
-unsatisfactory.\ :sup:`13` Conspiracy beliefs can foster a sense of
+stronger when events are widespread and/or significant,\ :sup:`(n.d.l)`
+and when simplistic, mundane explanations are perceived as
+unsatisfactory.\ :sup:`(n.d.m)` Conspiracy beliefs can foster a sense of
 cognitive closure when the situation lacks a clear, consistent and
-understandable official message.\ :sup:`14`
+understandable official message.\ :sup:`(n.d.n)`
 
 When individuals feel anxious, threatened and powerless in the face of
 danger, they may gravitate towards conspiracy theories to achieve a
-sense of comfort.\ :sup:`11,15,16` These are viewed as existential
-motivations.\ :sup:`11` Such powerlessness can be exaggerated by a
-perception of alienation from decision makers and a breakdown in
-containment and social order.\ :sup:`7,15`
+sense of comfort.\ :sup:`(n.d.k),(n.d.o),(n.d.p)` These are viewed as
+existential motivations.\ :sup:`(n.d.k)` Such powerlessness can be
+exaggerated by a perception of alienation from decision makers and a
+breakdown in containment and social order.\ :sup:`(n.d.g),(n.d.o)`
 
-Douglas et al\ :sup:`11` note that social motivations also contribute to
-the formation of conspiracy beliefs. Groups that have experienced
-persecution, for example victims of police harassment\ :sup:`17` or
-racial discrimination,\ :sup:`18` are more likely to perceive dominant
-groups as conspiring against them. Research has shown that members of
-low-status groups are more likely to endorse conspiracy theories than
-those of higher status.\ :sup:`15,19` In-group attachments can
-strengthen in the face of group threat, and ‘collective narcissism’ (an
-emotional investment in an unrealistic belief about the in-group's
-greatness)\ :sup:`20` can develop, particularly when underprivileged,
-undervalued and under threat.\ :sup:`19` This may function to protect
-the in-group by forming a shared ‘us versus them’ narrative.\ :sup:`21`
-Similarly, individual narcissism is understood to emerge as a defence in
-response to perceived powerlessness; a conspiracy theory is powerful as
-it ascribes ‘special knowledge’ to the believer, imbuing a safe sense of
-superiority.\ :sup:`22`
+Douglas et al\ :sup:`(n.d.k)` note that social motivations also
+contribute to the formation of conspiracy beliefs. Groups that have
+experienced persecution, for example victims of police
+harassment\ :sup:`(n.d.q)` or racial discrimination,\ :sup:`(n.d.r)` are
+more likely to perceive dominant groups as conspiring against them.
+Research has shown that members of low-status groups are more likely to
+endorse conspiracy theories than those of higher
+status.\ :sup:`(n.d.o),(n.d.s)` In-group attachments can strengthen in
+the face of group threat, and ‘collective narcissism’ (an emotional
+investment in an unrealistic belief about the in-group's
+greatness)\ :sup:`(n.d.t)` can develop, particularly when
+underprivileged, undervalued and under threat.\ :sup:`(n.d.s)` This may
+function to protect the in-group by forming a shared ‘us versus them’
+narrative.\ :sup:`(n.d.u)` Similarly, individual narcissism is
+understood to emerge as a defence in response to perceived
+powerlessness; a conspiracy theory is powerful as it ascribes ‘special
+knowledge’ to the believer, imbuing a safe sense of
+superiority.\ :sup:`(n.d.v)`
 
 Such motivations and psychosocial characteristics are relevant and, in
 some circumstances, exaggerated in the MSU population. For example,
-research has linked subclinical delusional thinking\ :sup:`23` and
-schizotypy\ :sup:`24,25` to conspiracy thinking. Individuals diagnosed
-with paranoid personality disorder demonstrate similar conspiratorial
-thinking.\ :sup:`26,27` Cognitive/affective mechanisms at play in such
-samples are also relevant to those at the distressing/impairing end of
-the psychosis continuum, i.e. those diagnosed with
-schizophrenia.\ :sup:`28` For example, the omission of true cognitive
-information\ :sup:`29` could precipitate a jumping to conclusions (JTC)
-bias that is associated with the rapid appraisal of ambiguous or
-anomalous stimuli to form a conclusion without a sound evaluation of
-evidence.\ :sup:`30` Such a bias is evident in subclinical\ :sup:`31`
-and clinical populations.\ :sup:`32` Moulding et al\ :sup:`33` have
+research has linked subclinical delusional thinking\ :sup:`(n.d.w)` and
+schizotypy\ :sup:`(n.d.x),(n.d.y)` to conspiracy thinking. Individuals
+diagnosed with paranoid personality disorder demonstrate similar
+conspiratorial thinking.\ :sup:`(n.d.z),(n.d.aa)` Cognitive/affective
+mechanisms at play in such samples are also relevant to those at the
+distressing/impairing end of the psychosis continuum, i.e. those
+diagnosed with schizophrenia.\ :sup:`(n.d.ab)` For example, the omission
+of true cognitive information\ :sup:`(n.d.ac)` could precipitate a
+jumping to conclusions (JTC) bias that is associated with the rapid
+appraisal of ambiguous or anomalous stimuli to form a conclusion without
+a sound evaluation of evidence.\ :sup:`(n.d.ad)` Such a bias is evident
+in subclinical\ :sup:`(n.d.ae)` and clinical
+populations.\ :sup:`(n.d.af)` Moulding et al\ :sup:`(n.d.ag)` have
 identified that holders of conspiracy beliefs are more likely to view
 the world as threatening. Such schematic views of the world as
-dangerous\ :sup:`34` can underpin the process whereby delusional beliefs
-– in an attempt to secure cognitive closure – form from misappraisals of
-anomalous stimuli.\ :sup:`30` Of note, a high proportion of our
-in-patient population hold – or have held – delusional beliefs.
+dangerous\ :sup:`(n.d.ah)` can underpin the process whereby delusional
+beliefs – in an attempt to secure cognitive closure – form from
+misappraisals of anomalous stimuli.\ :sup:`(n.d.ad)` Of note, a high
+proportion of our in-patient population hold – or have held – delusional
+beliefs.
 
 Disproportionately, MSU in-patients have been exposed to early life
-danger\ :sup:`35` and hold negative schematic beliefs about self, others
-and the world.\ :sup:`36` Psychotic delusions, conspiracy theory beliefs
-and self-protective distortions have a propensity to surface when
-conditions are dangerous and uncertain.\ :sup:`15,16`
+danger\ :sup:`(n.d.ai)` and hold negative schematic beliefs about self,
+others and the world.\ :sup:`(n.d.aj)` Psychotic delusions, conspiracy
+theory beliefs and self-protective distortions have a propensity to
+surface when conditions are dangerous and
+uncertain.\ :sup:`(n.d.o),(n.d.p)`
 
 .. _sec5:
 
@@ -220,12 +230,12 @@ The impact of the pandemic within the clinic
 ============================================
 
 Meme theory can help to explain how such ideas spread, particularly in
-contained environments. Dawkins\ :sup:`37` considered memes to be
+contained environments. Dawkins\ :sup:`(n.d.ak)` considered memes to be
 cultural phenomena that pass from one mind to another, and survive (or
 die) through a process analogous to genetic selection.
-Goertzel\ :sup:`38` noted ‘conspiracy theorizing [*sic*] is a rhetorical
-meme that transforms scientific controversies into human dramas with
-villains who can be exposed’.
+Goertzel\ :sup:`(n.d.al)` noted ‘conspiracy theorizing [*sic*] is a
+rhetorical meme that transforms scientific controversies into human
+dramas with villains who can be exposed’.
 
 In the general population, COVID-19 conspiracy theory memes (e.g. 5G
 phone masts, man-made virus) have gone viral, with some harmful and
@@ -233,7 +243,7 @@ persistent consequences. More broadly, memes that run as
 counter-narratives to the government's explanations and advice affect
 some people, who may then spread their ideas to others. This may lead to
 a failure to act according to government guidelines and in the best
-interest of public health.\ :sup:`6`
+interest of public health.\ :sup:`(n.d.f)`
 
 We have observed conspiracy theory memes to develop in two distinct ways
 within the MSU. First, ‘organic memes’ have developed on one ward. These
@@ -242,9 +252,9 @@ hospital staff to restrict leave and delay discharge. Such a belief is
 likely to have formed with no outside influence and is perhaps good
 evidence that humans will seek conspiracy theory explanations in
 isolation to allay epistemic, existential and social
-concerns.\ :sup:`11,19` It is our view that, despite several men
-endorsing this meme to a greater or lesser degree, it will likely wither
-and fail to spread owing to its fallibility in the face of simple
+concerns.\ :sup:`(n.d.k),(n.d.s)` It is our view that, despite several
+men endorsing this meme to a greater or lesser degree, it will likely
+wither and fail to spread owing to its fallibility in the face of simple
 counter-evidence and the physical health restrictions that prohibit
 mixing of wards (this meme is unlikely to be shared by staff members).
 
@@ -273,14 +283,14 @@ safety and containment, while also promoting mental health
 rehabilitation. Conspiracy theory memes present a threat to this
 architecture. A possible consequence is a breakdown in trust and
 cohesion, which would undermine physical and psychological safety, and
-challenge measures to contain the virus.\ :sup:`6`
+challenge measures to contain the virus.\ :sup:`(n.d.f)`
 
 Uncertainty and unpredictable danger can be precipitants of anxious
 threat states. Changes in routine or the introduction of new conditions
 can trigger a loss of perceived environmental control and subsequent
 attempts to regain safety. As such, periods of stress and threat require
 the use of automatic self-protective behaviours and implicit information
-processing strategies.\ :sup:`29` Harmful conspiracy theories or
+processing strategies.\ :sup:`(n.d.ac)` Harmful conspiracy theories or
 hypotheses can increase uncertainty and decrease trust in authority
 figures. For many men in forensic in-patient settings, violence or
 self-harming behaviour has been – or is – an adaptive part of their
@@ -304,11 +314,11 @@ The response
 ============
 
 Memes are hypothesised to spread in a manner analogous to a
-virus.\ :sup:`37,38` Hence, we propose that a fast, stringent and
-proactive strategy is required to curb the sharing of unhelpful and
-false memes. We suggest that the response to ‘prevent’ and ‘treat’
-conspiracy theories can be pitched according to the public health
-approach to diseases: primary, secondary and tertiary prevention.
+virus.\ :sup:`(n.d.ak),(n.d.al)` Hence, we propose that a fast,
+stringent and proactive strategy is required to curb the sharing of
+unhelpful and false memes. We suggest that the response to ‘prevent’ and
+‘treat’ conspiracy theories can be pitched according to the public
+health approach to diseases: primary, secondary and tertiary prevention.
 
 Importantly, some degree of uncertainty is unavoidable owing to a global
 lack of clarity regarding COVID-19. It has to be acknowledged that there
@@ -332,15 +342,15 @@ recommend addressing the conditions that lead to such thinking.
 We consider the first line of response to be education. Conspiracy
 theory memes are hypothesised to breed from indecision and uncertainty;
 gaps in knowledge allow room for a counter-narrative to develop to
-fulfil a need for cognitive closure\ :sup:`14` and a perception of
-control.\ :sup:`11,15,16` We view the regular and consistent
-dissemination of clear and transparent information about the pandemic,
-the ‘outer world’ situation and MSU policy to be essential to maximise
-patients’ knowledge. Information can be adapted to account for complex
-communication needs, and care plans developed accordingly. Ideally,
-patients who are vulnerable to being affected by conspiracy beliefs
-should be identified and bespoke assessments and management plans
-completed.
+fulfil a need for cognitive closure\ :sup:`(n.d.n)` and a perception of
+control.\ :sup:`(n.d.k),(n.d.o),(n.d.p)` We view the regular and
+consistent dissemination of clear and transparent information about the
+pandemic, the ‘outer world’ situation and MSU policy to be essential to
+maximise patients’ knowledge. Information can be adapted to account for
+complex communication needs, and care plans developed accordingly.
+Ideally, patients who are vulnerable to being affected by conspiracy
+beliefs should be identified and bespoke assessments and management
+plans completed.
 
 The staff group are not immune from conspiratorial thinking. Helping
 staff members to feel informed requires the consistent dissemination of
@@ -359,12 +369,12 @@ teams, thus maintaining a collective ‘togetherness’.
 Research has suggested that it is important that education provided for
 staff and patients is presented in an ‘even-handed’ manner (i.e. do not
 dismiss counter-narratives offhand) to prevent the perception of
-indoctrination or bullying.\ :sup:`39,40` Failure to do this
+indoctrination or bullying.\ :sup:`(n.d.am),(n.d.an)` Failure to do this
 successfully could lead to the educator being absorbed into the
-conspiracy belief.\ :sup:`41` Information sharing might take the form of
-standardised and accessible information boards, regular ward ‘community
-meetings’ and individual conversations with patients and staff to ensure
-that they feel informed about events.
+conspiracy belief.\ :sup:`(n.d.ao)` Information sharing might take the
+form of standardised and accessible information boards, regular ward
+‘community meetings’ and individual conversations with patients and
+staff to ensure that they feel informed about events.
 
 In our NHS trust, daily staff briefings have been provided by the chief
 executive officer. There are daily meetings held by senior management
@@ -377,10 +387,11 @@ therapists have provided opportunities for activity and release from the
 claustrophobic ward spaces and the psychiatric team have employed a
 ‘shadow rota’ to ensure that sickness does not reduce the provision of
 emergency care. Collectively, these additions and adaptations to
-practice can be understood as ‘inoculation’ of the community.\ :sup:`42`
-Many of these organisational strategies are likely to be in place to
-serve other, important needs. However, it is our view that such good
-practice is also relevant to the aims of this paper.
+practice can be understood as ‘inoculation’ of the
+community.\ :sup:`(n.d.ap)` Many of these organisational strategies are
+likely to be in place to serve other, important needs. However, it is
+our view that such good practice is also relevant to the aims of this
+paper.
 
 .. _sec7-2:
 
@@ -419,24 +430,24 @@ as they arise is recommended.
 When discussing conspiracy theories – or related memes – information
 should be presented in a consistent, clear and accessible manner so that
 further doubt, ambiguity or reinforcement of the conspiracy does not
-result.\ :sup:`41` The patient will require adequate knowledge to close
-the ‘uncertainty gap’. This work may also be achieved through group or
-individual therapy sessions. In our MSU, we have found that acceptance
-and commitment therapy (ACT) principles have been beneficial,
+result.\ :sup:`(n.d.ao)` The patient will require adequate knowledge to
+close the ‘uncertainty gap’. This work may also be achieved through
+group or individual therapy sessions. In our MSU, we have found that
+acceptance and commitment therapy (ACT) principles have been beneficial,
 particularly as these can address issues relating to control and
-uncertainty.\ :sup:`43` In addition, mindfulness practice can help to
-calm heightened arousal states, release troubling thoughts and teach
-self-awareness.\ :sup:`44` As uncertainty is largely inescapable, such
-therapeutic approaches are preferable to the suppression of all but the
-most harmful memes. Cognitive remediation strategies can improve
-reasoning ability\ :sup:`45` and various non-verbal therapies can help
-to up- or down-regulate arousal.
+uncertainty.\ :sup:`(n.d.aq)` In addition, mindfulness practice can help
+to calm heightened arousal states, release troubling thoughts and teach
+self-awareness.\ :sup:`(n.d.ar)` As uncertainty is largely inescapable,
+such therapeutic approaches are preferable to the suppression of all but
+the most harmful memes. Cognitive remediation strategies can improve
+reasoning ability\ :sup:`(n.d.as)` and various non-verbal therapies can
+help to up- or down-regulate arousal.
 
 Considering the ward as a whole, the maintenance of a ‘safe’ and
 ‘cohesive’ environment is vital to prevent the harmful effects of
 conspiracy theory memes. The basis for this is already provided via the
-implementation of the ‘Safewards’ approach\ :sup:`46` and positive
-behavioural support planning.\ :sup:`47` Indeed, an approach not
+implementation of the ‘Safewards’ approach\ :sup:`(n.d.at)` and positive
+behavioural support planning.\ :sup:`(n.d.au)` Indeed, an approach not
 dissimilar to trauma-informed care could be adopted: ‘pandemic-informed
 care’ would incorporate the necessary physical health precautions, while
 also proactively identifying and addressing the emergence of conspiracy
@@ -566,3 +577,241 @@ Clinic, Birmingham and Solihull Mental Health Foundation Trust, UK.
 
 R.P. and A.J. contributed equally to the conceptualisation and writing
 of this paper.
+
+.. container:: references csl-bib-body hanging-indent
+   :name: refs
+
+   .. container:: csl-entry
+      :name: ref-ref1
+
+      n.d.a.
+
+   .. container:: csl-entry
+      :name: ref-ref2
+
+      n.d.b.
+
+   .. container:: csl-entry
+      :name: ref-ref3
+
+      n.d.c.
+
+   .. container:: csl-entry
+      :name: ref-ref4
+
+      n.d.d.
+
+   .. container:: csl-entry
+      :name: ref-ref5
+
+      n.d.e.
+
+   .. container:: csl-entry
+      :name: ref-ref6
+
+      n.d.f.
+
+   .. container:: csl-entry
+      :name: ref-ref7
+
+      n.d.g.
+
+   .. container:: csl-entry
+      :name: ref-ref8
+
+      n.d.h.
+
+   .. container:: csl-entry
+      :name: ref-ref9
+
+      n.d.i.
+
+   .. container:: csl-entry
+      :name: ref-ref10
+
+      n.d.j.
+
+   .. container:: csl-entry
+      :name: ref-ref11
+
+      n.d.k.
+
+   .. container:: csl-entry
+      :name: ref-ref12
+
+      n.d.l.
+
+   .. container:: csl-entry
+      :name: ref-ref13
+
+      n.d.m.
+
+   .. container:: csl-entry
+      :name: ref-ref14
+
+      n.d.n.
+
+   .. container:: csl-entry
+      :name: ref-ref15
+
+      n.d.o.
+
+   .. container:: csl-entry
+      :name: ref-ref16
+
+      n.d.p.
+
+   .. container:: csl-entry
+      :name: ref-ref17
+
+      n.d.q.
+
+   .. container:: csl-entry
+      :name: ref-ref18
+
+      n.d.r.
+
+   .. container:: csl-entry
+      :name: ref-ref19
+
+      n.d.s.
+
+   .. container:: csl-entry
+      :name: ref-ref20
+
+      n.d.t.
+
+   .. container:: csl-entry
+      :name: ref-ref21
+
+      n.d.u.
+
+   .. container:: csl-entry
+      :name: ref-ref22
+
+      n.d.v.
+
+   .. container:: csl-entry
+      :name: ref-ref23
+
+      n.d.w.
+
+   .. container:: csl-entry
+      :name: ref-ref24
+
+      n.d.x.
+
+   .. container:: csl-entry
+      :name: ref-ref25
+
+      n.d.y.
+
+   .. container:: csl-entry
+      :name: ref-ref26
+
+      n.d.z.
+
+   .. container:: csl-entry
+      :name: ref-ref27
+
+      n.d.aa.
+
+   .. container:: csl-entry
+      :name: ref-ref28
+
+      n.d.ab.
+
+   .. container:: csl-entry
+      :name: ref-ref29
+
+      n.d.ac.
+
+   .. container:: csl-entry
+      :name: ref-ref30
+
+      n.d.ad.
+
+   .. container:: csl-entry
+      :name: ref-ref31
+
+      n.d.ae.
+
+   .. container:: csl-entry
+      :name: ref-ref32
+
+      n.d.af.
+
+   .. container:: csl-entry
+      :name: ref-ref33
+
+      n.d.ag.
+
+   .. container:: csl-entry
+      :name: ref-ref34
+
+      n.d.ah.
+
+   .. container:: csl-entry
+      :name: ref-ref35
+
+      n.d.ai.
+
+   .. container:: csl-entry
+      :name: ref-ref36
+
+      n.d.aj.
+
+   .. container:: csl-entry
+      :name: ref-ref37
+
+      n.d.ak.
+
+   .. container:: csl-entry
+      :name: ref-ref38
+
+      n.d.al.
+
+   .. container:: csl-entry
+      :name: ref-ref39
+
+      n.d.am.
+
+   .. container:: csl-entry
+      :name: ref-ref40
+
+      n.d.an.
+
+   .. container:: csl-entry
+      :name: ref-ref41
+
+      n.d.ao.
+
+   .. container:: csl-entry
+      :name: ref-ref42
+
+      n.d.ap.
+
+   .. container:: csl-entry
+      :name: ref-ref43
+
+      n.d.aq.
+
+   .. container:: csl-entry
+      :name: ref-ref44
+
+      n.d.ar.
+
+   .. container:: csl-entry
+      :name: ref-ref45
+
+      n.d.as.
+
+   .. container:: csl-entry
+      :name: ref-ref46
+
+      n.d.at.
+
+   .. container:: csl-entry
+      :name: ref-ref47
+
+      n.d.au.
