@@ -1,2 +1,105 @@
-<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
-<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="book-review"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-journalpublishing1.dtd?><?SourceDTD.Version 1.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">BJPsych Bull</journal-id><journal-id journal-id-type="iso-abbrev">BJPsych Bull</journal-id><journal-id journal-id-type="hwp">pbrcpsych</journal-id><journal-title-group><journal-title>BJPsych Bulletin</journal-title></journal-title-group><issn pub-type="ppub">2056-4694</issn><issn pub-type="epub">2056-4708</issn><publisher><publisher-name>Royal College of Psychiatrists</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">5451658</article-id><article-id pub-id-type="doi">10.1192/pb.bp.116.054650</article-id><article-categories><subj-group subj-group-type="heading"><subject>Columns</subject><subj-group subj-group-type="heading"><subject>Reviews</subject></subj-group></subj-group></article-categories><title-group><article-title>Mental Health in the Digital Age: Grave Dangers, Great Promise</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Zhang</surname><given-names>Melvyn W. B.</given-names></name></contrib></contrib-group><author-notes><fn><p><bold>Melvyn W. B. Zhang</bold>, Associate Consultant Psychiatrist and Adjunct Research Scientist, Institute of Mental Health, Biomedical Institute for Global Health Research &#x00026; Technology and National University of Singapore; Singapore; email: <email>ciezwm@nus.edu.sg</email></p></fn></author-notes><pub-date pub-type="ppub"><month>6</month><year>2017</year></pub-date><volume>41</volume><issue>3</issue><fpage seq="a">183</fpage><lpage>183</lpage><product><source><bold>Mental Health in the Digital Age: Grave Dangers, Great Promise</bold></source><comment> Edited by </comment><x>&#x000a0;</x><name><surname>Aboujaoude</surname><given-names>Elias</given-names></name><comment> and </comment><x>&#x000a0;</x><name><surname>Starcevic</surname><given-names>Vladan</given-names></name><x>. </x><publisher-name>Oxford University Press</publisher-name><comment>, </comment><x>&#x000a0;</x><year>2015</year><comment>, </comment><x>&#x000a0;</x><comment>&#x000a3;29.58</comment><x>. </x><comment>, pb, </comment><x>&#x000a0;</x><comment>302 pp</comment><comment>. ISBN: </comment><x>&#x000a0;</x><isbn>9780199380183</isbn><x>. </x></product><permissions><copyright-statement>&#x000a9; 2017 The Author</copyright-statement><copyright-year>2017</copyright-year><license license-type="creative-commons" xlink:href="http://creativecommons.org/licenses/by/4.0"><license-p>This is an open-access article published by the Royal College of Psychiatrists and distributed under the terms of the Creative Commons Attribution License (<uri xlink:href="http://creativecommons.org/licenses/by/4.0">http://creativecommons.org/licenses/by/4.0</uri>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xlink:title="pdf" xlink:href="183.pdf"/></article-meta></front><body><p id="P1">Technology has always been a double-edged sword: there are associated risks and benefits. As a practising psychiatrist I increasingly rely on technology at work, using next-generation electronic medical records and at times recommending appropriate smartphone-based applications as additional therapy for my patients.</p><p id="P2">In contrast to numerous other titles about technology and its impact on healthcare &#x02013; which have emerged as a result of the massive technical advances in the past decade &#x02013; <italic>Mental Health in the Digital Age</italic> does not focus only on the benefits of the use of technology in mental healthcare. It offers a timely balanced perspective by also providing an in-depth analysis of the risks.</p><p id="P3">The risks highlighted in the book are not limited to addictive behaviours such as internet or gaming addiction, but also include cyberbullying and the increased risk of suicide due to pro-suicide websites and suicide pacts. Cyberbullying is perhaps one of the most common problems linked with the use of technology to date and it is not unusual for me and my team to see children and adolescents who refuse to go to school as a result of cyberbullying. Unlike conventional forms of bullying, cyberbullying implies the use of social networks and internet-based messaging services to harass an individual. This work examines not only the prevalence of the problem, but also the various prevention strategies available, such as having a specific academic curriculum to deal with the issue.</p><p id="P4">The authors review the existing literature comprehensively &#x02013; referring also to current evidence &#x02013; and look at the potential of technology across several areas of mental healthcare, including the provision of psychotherapy and the integration of patients' health records. They also discuss how recent advances &#x02013; such as virtual reality &#x02013; could in principle be a powerful tool in exposure therapy. As a team with an interest in e-health, my colleagues and I have been developing smartphone applications for various mental health disorders. The introduction of virtual reality technology means that we could perhaps tap on games and various other sensors and headset devices to create an interactive environment not just for psychotherapy but for other forms of interventions too.</p><p id="P5">This is a good guide for novices in e-health but equally a useful tool for the more experienced in this area. It would be helpful if a future edition included more detailed coverage of smartphone applications and their inherent risks and benefits &#x02013; a topic of concern not only for clinicians, but patients at large.</p></body></article>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="book-review">    <?properties open_access?>    <?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN?>    <?DTDIdentifier.IdentifierType public?>    <?SourceDTD.DTDName JATS-journalpublishing1.dtd?>    <?SourceDTD.Version 1.0?>    <?ConverterInfo.XSLTName jp2nlmx2.xsl?>    <?ConverterInfo.Version 1?>
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="nlm-ta">BJPsych Bull</journal-id>
+            <journal-id journal-id-type="iso-abbrev">BJPsych Bull</journal-id>
+            <journal-id journal-id-type="hwp">pbrcpsych</journal-id>
+            <journal-title-group>
+                <journal-title>BJPsych Bulletin</journal-title>
+            </journal-title-group>
+            <issn pub-type="ppub">2056-4694</issn>
+            <issn pub-type="epub">2056-4708</issn>
+            <publisher>
+                <publisher-name>Royal College of Psychiatrists</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="pmcid">5451658</article-id>
+            <article-id pub-id-type="doi">10.1192/pb.bp.116.054650</article-id>
+            <article-categories>
+                <subj-group subj-group-type="heading">
+                    <subject>Columns</subject>
+                    <subj-group subj-group-type="heading">
+                        <subject>Reviews</subject>
+                    </subj-group>
+                </subj-group>
+            </article-categories>
+            <title-group>
+                <article-title>Mental Health in the Digital Age: Grave Dangers, Great Promise</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Zhang</surname>
+                        <given-names>Melvyn W. B.</given-names>
+                    </name>
+                </contrib>
+            </contrib-group>
+            <author-notes>
+                <fn>
+                    <p>
+                        <bold>Melvyn W. B. Zhang</bold>, Associate Consultant Psychiatrist and Adjunct Research Scientist, Institute of Mental Health, Biomedical Institute for Global Health Research &#x00026; Technology and National University of Singapore; Singapore; email: <email>ciezwm@nus.edu.sg</email>
+                    </p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="ppub">
+                <month>6</month>
+                <year>2017</year>
+            </pub-date>
+            <volume>41</volume>
+            <issue>3</issue>
+            <fpage seq="a">183</fpage>
+            <lpage>183</lpage>
+            <product>
+                <source>
+                    <bold>Mental Health in the Digital Age: Grave Dangers, Great Promise</bold>
+                </source>
+                <comment> Edited by </comment>
+                <x>&#x000a0;</x>
+                <name>
+                    <surname>Aboujaoude</surname>
+                    <given-names>Elias</given-names>
+                </name>
+                <comment> and </comment>
+                <x>&#x000a0;</x>
+                <name>
+                    <surname>Starcevic</surname>
+                    <given-names>Vladan</given-names>
+                </name>
+                <x>. </x>
+                <publisher-name>Oxford University Press</publisher-name>
+                <comment>, </comment>
+                <x>&#x000a0;</x>
+                <year>2015</year>
+                <comment>, </comment>
+                <x>&#x000a0;</x>
+                <comment>&#x000a3;29.58</comment>
+                <x>. </x>
+                <comment>, pb, </comment>
+                <x>&#x000a0;</x>
+                <comment>302 pp</comment>
+                <comment>. ISBN: </comment>
+                <x>&#x000a0;</x>
+                <isbn>9780199380183</isbn>
+                <x>. </x>
+            </product>
+            <permissions>
+                <copyright-statement>&#x000a9; 2017 The Author</copyright-statement>
+                <copyright-year>2017</copyright-year>
+                <license license-type="creative-commons" xlink:href="http://creativecommons.org/licenses/by/4.0">
+                    <license-p>This is an open-access article published by the Royal College of Psychiatrists and distributed under the terms of the Creative Commons Attribution License (<uri xlink:href="http://creativecommons.org/licenses/by/4.0">http://creativecommons.org/licenses/by/4.0</uri>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <self-uri xlink:title="pdf" xlink:href="183.pdf" />
+        </article-meta>
+    </front>
+    <body>
+        <p id="P1">Technology has always been a double-edged sword: there are associated risks and benefits. As a practising psychiatrist I increasingly rely on technology at work, using next-generation electronic medical records and at times recommending appropriate smartphone-based applications as additional therapy for my patients.</p>
+        <p id="P2">In contrast to numerous other titles about technology and its impact on healthcare &#x02013; which have emerged as a result of the massive technical advances in the past decade &#x02013; <italic>Mental Health in the Digital Age</italic> does not focus only on the benefits of the use of technology in mental healthcare. It offers a timely balanced perspective by also providing an in-depth analysis of the risks.</p>
+        <p id="P3">The risks highlighted in the book are not limited to addictive behaviours such as internet or gaming addiction, but also include cyberbullying and the increased risk of suicide due to pro-suicide websites and suicide pacts. Cyberbullying is perhaps one of the most common problems linked with the use of technology to date and it is not unusual for me and my team to see children and adolescents who refuse to go to school as a result of cyberbullying. Unlike conventional forms of bullying, cyberbullying implies the use of social networks and internet-based messaging services to harass an individual. This work examines not only the prevalence of the problem, but also the various prevention strategies available, such as having a specific academic curriculum to deal with the issue.</p>
+        <p id="P4">The authors review the existing literature comprehensively &#x02013; referring also to current evidence &#x02013; and look at the potential of technology across several areas of mental healthcare, including the provision of psychotherapy and the integration of patients' health records. They also discuss how recent advances &#x02013; such as virtual reality &#x02013; could in principle be a powerful tool in exposure therapy. As a team with an interest in e-health, my colleagues and I have been developing smartphone applications for various mental health disorders. The introduction of virtual reality technology means that we could perhaps tap on games and various other sensors and headset devices to create an interactive environment not just for psychotherapy but for other forms of interventions too.</p>
+        <p id="P5">This is a good guide for novices in e-health but equally a useful tool for the more experienced in this area. It would be helpful if a future edition included more detailed coverage of smartphone applications and their inherent risks and benefits &#x02013; a topic of concern not only for clinicians, but patients at large.</p>
+    </body>
+</article>

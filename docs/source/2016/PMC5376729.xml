@@ -1,183 +1,1364 @@
-<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
-<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-journalpublishing1.dtd?><?SourceDTD.Version 1.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">BJPsych Bull</journal-id><journal-id journal-id-type="iso-abbrev">BJPsych Bull</journal-id><journal-id journal-id-type="hwp">pbrcpsych</journal-id><journal-title-group><journal-title>BJPsych Bulletin</journal-title></journal-title-group><issn pub-type="ppub">2056-4694</issn><issn pub-type="epub">2056-4708</issn><publisher><publisher-name>Royal College of Psychiatrists</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">5376729</article-id><article-id pub-id-type="doi">10.1192/pb.bp.115.052720</article-id><article-categories><subj-group subj-group-type="heading"><subject>Education &#x00026; Training</subject></subj-group></article-categories><title-group><article-title>The mini-PAT as a multi-source feedback tool for trainees in child and adolescent psychiatry: assessing whether it is fit for purpose</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Salmon</surname><given-names>Gill</given-names></name><xref ref-type="aff" rid="A1">1</xref><xref ref-type="corresp" rid="cor1"/></contrib><contrib contrib-type="author"><name><surname>Pugsley</surname><given-names>Lesley</given-names></name><xref ref-type="aff" rid="A2">2</xref></contrib></contrib-group><aff id="A1"><label>1</label>Cwm Taf University Health Board, UK</aff><aff id="A2"><label>2</label>Cardiff University, UK</aff><author-notes><corresp id="cor1">
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article">    <?properties open_access?>    <?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN?>    <?DTDIdentifier.IdentifierType public?>    <?SourceDTD.DTDName JATS-journalpublishing1.dtd?>    <?SourceDTD.Version 1.0?>    <?ConverterInfo.XSLTName jp2nlmx2.xsl?>    <?ConverterInfo.Version 1?>
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="nlm-ta">BJPsych Bull</journal-id>
+            <journal-id journal-id-type="iso-abbrev">BJPsych Bull</journal-id>
+            <journal-id journal-id-type="hwp">pbrcpsych</journal-id>
+            <journal-title-group>
+                <journal-title>BJPsych Bulletin</journal-title>
+            </journal-title-group>
+            <issn pub-type="ppub">2056-4694</issn>
+            <issn pub-type="epub">2056-4708</issn>
+            <publisher>
+                <publisher-name>Royal College of Psychiatrists</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="pmcid">5376729</article-id>
+            <article-id pub-id-type="doi">10.1192/pb.bp.115.052720</article-id>
+            <article-categories>
+                <subj-group subj-group-type="heading">
+                    <subject>Education &#x00026; Training</subject>
+                </subj-group>
+            </article-categories>
+            <title-group>
+                <article-title>The mini-PAT as a multi-source feedback tool for trainees in child and adolescent psychiatry: assessing whether it is fit for purpose</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Salmon</surname>
+                        <given-names>Gill</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                    <xref ref-type="corresp" rid="cor1" />
+                </contrib>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Pugsley</surname>
+                        <given-names>Lesley</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A2">2</xref>
+                </contrib>
+            </contrib-group>
+            <aff id="A1">
+                <label>1</label>Cwm Taf University Health Board, UK</aff>
+            <aff id="A2">
+                <label>2</label>Cardiff University, UK</aff>
+            <author-notes>
+                <corresp id="cor1">
 Correspondence to Gill Salmon (<email>Gill.Salmon@wales.nhs.uk</email>)
-</corresp><fn><p><bold>Gill Salmon</bold> is a consultant child and adolescent psychiatrist at the Fairfield Child and Family Clinic, Swansea. <bold>Lesley Pugsley</bold> is a senior lecturer in medical education in the School of Postgraduate Medical and Dental Education, Cardiff University.</p></fn></author-notes><pub-date pub-type="ppub"><month>4</month><year>2017</year></pub-date><volume>41</volume><issue>2</issue><fpage>115</fpage><lpage>119</lpage><history><date date-type="received"><day>22</day><month>9</month><year>2015</year></date><date date-type="rev-recd"><day>11</day><month>5</month><year>2016</year></date><date date-type="accepted"><day>1</day><month>6</month><year>2016</year></date></history><permissions><copyright-statement>&#x000a9; 2017 The Authors</copyright-statement><copyright-year>2017</copyright-year><license license-type="creative-commons" xlink:href="http://creativecommons.org/licenses/by/4.0"><license-p>This is an open-access article published by the Royal College of Psychiatrists and distributed under the terms of the Creative Commons Attribution License (<uri xlink:href="http://creativecommons.org/licenses/by/4.0">http://creativecommons.org/licenses/by/4.0</uri>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xlink:title="pdf" xlink:href="115.pdf"/><abstract><p id="P1">This paper discusses the research supporting the use of multi-source feedback (MSF) for doctors and describes the mini-Peer Assessment Tool (mini-PAT), the MSF instrument currently used to assess trainees in child and adolescent psychiatry. The relevance of issues raised in the literature about MSF tools in general is examined in relation to trainees in child and adolescent psychiatry as well as the appropriateness of the mini-PAT for this group. Suggestions for change including modifications to existing MSF tools or the development of a specialty-specific MSF instrument are offered.</p></abstract></article-meta></front><body><p id="P2">Multi-source feedback (MSF) can motivate doctors to improve and change their practice.<sup><xref rid="R1" ref-type="bibr">1</xref>,<xref rid="R2" ref-type="bibr">2</xref></sup> It gives doctors an overview of how others see them and compares this with their own view as well as the results of their peer group.<sup><xref rid="R3" ref-type="bibr">3</xref></sup> MSF evolved in Canada and the USA out of a public demand for accountability to patients as well as an acceptance that assessments examining clinical decision-making and medical expertise do not address other essential competencies, such as interpersonal skills, professionalism and communication.<sup><xref rid="R3" ref-type="bibr">3</xref></sup> MSF tools were originally designed to be formative, that is, to lead to awareness of and improvements in performance through feedback. More recently, however, they are being used for summative purposes, namely to provide information for revalidation and the annual review of competence progression (ARCP) which determines whether a trainee is considered fit to proceed with their training. As such, MSF tools need to be sufficiently reliable and valid. Reliability refers to the reproducibility of assessment measures or scores over repeated tests under identical conditions, and validity refers to the degree of confidence that an assessment measures what it is intended to measure. An associated term, feasibility, is a measure of whether an assessment instrument is practical, realistic and sensible given the circumstances and context.<sup><xref rid="R4" ref-type="bibr">4</xref></sup></p><sec id="S1"><title>Research on the use of MSF for doctors</title><p id="P3">Ramsey <italic>et al</italic><sup><xref rid="R5" ref-type="bibr">5</xref></sup> published a landmark study showing that it was feasible for internal medicine physicians to obtain peer assessments about their humanistic qualities, clinical practice and communication skills. They also came to important conclusions about the reliability of MSF &#x02013; for example, that 11 peer ratings were needed to ensure a reliability coefficient of 0.7 (the minimum acceptable for workplace-based assessments (WPBAs)) and that the results were not substantially affected by the relationship between the rater and the person being rated nor by the method used to select the raters. The findings of this study also suggested that a doctor's medical knowledge (determined by examination marks) was not predictive of how peers subsequently rated their interpersonal relationships or communication skills.</p><p id="P4">The finding that reliable and valid MSF questionnaires can be developed and be feasible to use for assessing doctors has been replicated across settings and specialties.<sup><xref rid="R2" ref-type="bibr">2</xref>,<xref rid="R6" ref-type="bibr">6</xref>&#x02013;<xref rid="R9" ref-type="bibr">9</xref></sup> A number of systematic reviews have also been published, all of which conclude that MSF as a method of assessing communication skills, collegiality, humanism and professionalism in doctors has high reliability, validity and feasibility.<sup><xref rid="R10" ref-type="bibr">10</xref>&#x02013;<xref rid="R15" ref-type="bibr">15</xref></sup></p></sec><sec id="S2"><title>The mini-PAT as an MSF tool</title><p id="P5">The mini-PAT is used by the Royal College of Psychiatrists as an MSF instrument for trainees. It is well known because of its widespread use in the Foundation Programme.<sup><xref rid="R16" ref-type="bibr">16</xref>,<xref rid="R17" ref-type="bibr">17</xref></sup> The mini-PAT was derived from the Sheffield Peer Review Assessment Tool (SPRAT) following a mapping exercise against the foundation curriculum,<sup><xref rid="R6" ref-type="bibr">6</xref></sup> thus ensuring its content validity. The SPRAT contains 24 questions assessing a doctor's competencies and professional attributes, and it maps directly on to General Medical Council (GMC) standards of good medical practice,<sup><xref rid="R18" ref-type="bibr">18</xref></sup> again establishing its content validity. These standards include good clinical care, maintaining good medical practice, teaching and training, appraising and assessing, relationships with patients and working with colleagues. The SPRAT was the first MSF tool validated in the UK for use by paediatric consultants as part of their appraisal.<sup><xref rid="R19" ref-type="bibr">19</xref></sup> It has also been shown to be reliable, needing as few as four raters to determine whether a doctor is in difficulty or not (more in borderline situations), and feasible, taking only 5&#x02013;6 minutes to use with good return rates (more than 70%).<sup><xref rid="R20" ref-type="bibr">20</xref></sup> It can also discriminate between the more and less experienced trainee.<sup><xref rid="R21" ref-type="bibr">21</xref></sup></p><p id="P6">In developing the mini-PAT, nine questions which did not map on to the curriculum for the Foundation Programme were removed from the SPRAT. These included questions relating to the management of complex patients and leadership. One question about probity and health was added while the free-text element and six-point scale (where 1 indicates &#x02018;very poor&#x02019; and 6 indicates &#x02018;very good&#x02019;) remained unchanged.<sup><xref rid="R6" ref-type="bibr">6</xref></sup> The resulting mini-PAT was thought to reflect the importance for foundation doctors of developing communication skills, team work and other humanistic qualities in relation to patient care in addition to their medical knowledge.<sup><xref rid="R3" ref-type="bibr">3</xref></sup></p><p id="P7">In his critical analysis of the mini-PAT, while accepting its content validity and feasibility, Abdulla stated that it &#x02018;lacks sufficient field evaluation and has not gone through any stringent criteria that are required for the validation of an assessment tool&#x02019;.<sup><xref rid="R3" ref-type="bibr">3</xref></sup> Data on the reliability and validity of 693 mini-PAT assessments on 553 foundation year 1 and 2 (F1/F2) doctors have subsequently been published.<sup><xref rid="R6" ref-type="bibr">6</xref></sup> The mean scores of the two groups were found to be significantly different when using the same criterion standard (i.e. expectation for F2 completion), with 19.6% of F1s and 5.6% of F2s being assessed as borderline or below the expectations for F2 completion. This was used as evidence of internal standardisation and construct validity, as was the finding that the trainees scored higher in the domains of working with colleagues and relationships with patients compared with the clinical skills domains. Overall, 53% of F1 doctors and 74% of F2 doctors could have been assessed by no more than 8 assessors based on their mean scores. Factor analysis revealed that the two main factors were humanistic qualities and clinical performance. The authors concluded that the mini-PAT was a valid and reliable MSF tool for assessing foundation doctors.</p></sec><sec id="S3"><title>Use of the mini-PAT in child and adolescent psychiatry training</title><p id="P8">In child and adolescent psychiatry, the process when using the mini-PAT is as follows: twice a year, the trainee provides contact details of between 8 and 12 co-workers who see them on a frequent basis in a range of situations. These people and the trainee then complete the mini-PAT online. Presumably based on the findings of Archer <italic>et al</italic>,<sup><xref rid="R6" ref-type="bibr">6</xref></sup> it is suggested that at least 8 forms must be completed to ensure the assessment is reliable. There is, however, no research specifically related to the mini-PAT on the minimum number of assessors required to give a valid result.<sup><xref rid="R3" ref-type="bibr">3</xref></sup> The form uses a 6-point Likert-type rating scale. Trainees are rated according to the standard expected at each stage of training. A score of 4 corresponds to the expected standard, with higher or lower scores suggesting the trainee's performance is better or worse.<sup><xref rid="R22" ref-type="bibr">22</xref></sup> The responses are analysed centrally and a report is then sent to the trainee's educational supervisor who delivers the feedback in person.<sup><xref rid="R23" ref-type="bibr">23</xref></sup></p></sec><sec id="S4"><title>Potential issues with using MSF tools</title><p id="P9">Several issues that have been identified in relation to the use of MSF tools for medical practitioners in general are also relevant to their use in child and adolescent psychiatry. One is the trainee's choice of rater. Although several authors have found that MSF assessment is not necessarily biased by allowing the doctor to select their own raters,<sup><xref rid="R5" ref-type="bibr">5</xref>,<xref rid="R24" ref-type="bibr">24</xref>,<xref rid="R25" ref-type="bibr">25</xref></sup> others have found that factors such as the seniority, gender and profession of raters can significantly influence the assessment. For example, Archer <italic>et al</italic><sup><xref rid="R21" ref-type="bibr">21</xref></sup> found that consultant raters using the SPRAT gave significantly lower mean scores to paediatric trainees than more junior doctors did; similarly, Bullock <italic>et al</italic><sup><xref rid="R26" ref-type="bibr">26</xref></sup> found that consultants and senior nurses were more likely to give &#x02018;concern&#x02019; ratings when assessing junior doctors than were peers or administrators. Thus, there is a trend for assessors to be more critical with increasing seniority. When considering the mini-PAT, Archer <italic>et al</italic><sup><xref rid="R6" ref-type="bibr">6</xref></sup> found that assessors' scores were affected by their occupation, the length of time the trainee had been working with them, and the working environment. They suggested standardising the number of consultants used as raters by each trainee. These findings support the need for more detailed guidance in rater selection from the Royal College of Psychiatrists. Trainees are currently only advised that raters be chosen from a broad range of co-workers.<sup><xref rid="R4" ref-type="bibr">4</xref></sup> In addition, Abdulla<sup><xref rid="R3" ref-type="bibr">3</xref></sup> suggests that selection bias can be reduced if the list of raters is discussed and agreed on beforehand with the trainee's supervisor.</p><p id="P10">Measurement errors, such as the central tendency and halo effect, can also occur and are particularly likely when behaviours which cannot be easily observed are being assessed.<sup><xref rid="R27" ref-type="bibr">27</xref></sup> A particular issue for non-doctor raters is knowing what standards they should expect for a doctor at that stage in their training. In an attempt to reduce measurement errors, Abdulla<sup><xref rid="R3" ref-type="bibr">3</xref></sup> suggests better education for mini-PAT raters. This could be provided by the Royal College of Psychiatrists as part of their online mini-PAT package.</p><p id="P11">It has been shown that doctors' self-assessments do not correlate well with peer or patient ratings.<sup><xref rid="R7" ref-type="bibr">7</xref>,<xref rid="R28" ref-type="bibr">28</xref></sup> Violato &#x00026; Lockyer<sup><xref rid="R29" ref-type="bibr">29</xref></sup> studied psychiatrists, internal medicine physicians and paediatricians, and found that all were inaccurate in assessing their own performance. Those psychiatrists who were rated by peers to be in the bottom quartile saw themselves as &#x02018;average&#x02019;, whereas the psychiatrists in the top quartile significantly underrated themselves. This indicates that poorly performing doctors often lack insight, not always accepting negative feedback from others and querying its validity.<sup><xref rid="R30" ref-type="bibr">30</xref></sup> Overeem <italic>et al</italic><sup><xref rid="R31" ref-type="bibr">31</xref></sup> advise that trained facilitators should encourage trainees to reflect on MSF results and help them set concrete goals for improvement. Offering coaching to help trainees identify their strengths and weaknesses may help facilitate changes in performance.<sup><xref rid="R32" ref-type="bibr">32</xref></sup> Making the feedback highly structured can help trainees acknowledge feedback from all sources rather than just the medical scores which they tend to value more.<sup><xref rid="R5" ref-type="bibr">5</xref>,<xref rid="R33" ref-type="bibr">33</xref>&#x02013;<xref rid="R35" ref-type="bibr">35</xref></sup> Although taking the mean of the scores may be the most reliable approach,<sup><xref rid="R36" ref-type="bibr">36</xref></sup> attention should also be given to the free-text comments which might highlight specific performance issues and which may also make the feedback more acceptable.<sup><xref rid="R35" ref-type="bibr">35</xref></sup> These findings highlight the importance of the MSF feedback process, which should include the development of a relevant action plan in collaboration with the doctor.</p><p id="P12">It has been proposed that a single, generic MSF tool be used in the UK.<sup><xref rid="R37" ref-type="bibr">37</xref></sup> Research supporting this includes Violato &#x00026; Lockyer's<sup><xref rid="R29" ref-type="bibr">29</xref>,<xref rid="R38" ref-type="bibr">38</xref></sup> study of the use of one MSF tool for internal medicine physicians, paediatricians and psychiatrists. Although they found no specialty differences in response rates or reliability, it is of note that of the items clustered into the same four factors across the specialties, for psychiatry the most discriminating factor was communication whereas for the other two specialties the most important was patient management. By contrast, Mackillop <italic>et al</italic><sup><xref rid="R39" ref-type="bibr">39</xref></sup> evaluated the use of a generic MSF tool across specialties and concluded that, although the generic content was appropriate for most specialties, some would benefit from specialty-specific content.</p></sec><sec id="S5"><title>Does the mini-PAT suit the needs of trainees in child and adolescent psychiatry?</title><p id="P13">In child and adolescent psychiatry, the mini-PAT is currently used to assess trainees. Although the mini-PAT has content validity for foundation doctors, having been mapped against their curriculum, this does not necessarily mean it is also a valid tool for other grades or for use across specialties. In the making of the mini-PAT, some questions were removed from the SPRAT, namely those relating to management of complex patients and leadership.<sup><xref rid="R6" ref-type="bibr">6</xref></sup> However, these items are highly relevant to trainees in child and adolescent psychiatry. Davies <italic>et al</italic><sup><xref rid="R40" ref-type="bibr">40</xref></sup> modified the SPRAT for trainees in histopathology following a blueprinting exercise against the histopathology curriculum to establish content validity. They concluded that specialty-specific MSF is feasible and achieves satisfactory reliability. A similar approach blueprinting the SPRAT against the child and adolescent psychiatry competency-based curriculum<sup><xref rid="R41" ref-type="bibr">41</xref></sup> could therefore be considered. The SPRAT also requires fewer raters than the mini-PAT in order for the results to be sufficiently reliable,<sup><xref rid="R6" ref-type="bibr">6</xref></sup> thus adding to its potential suitability for child psychiatry trainees who often work in small teams.</p><p id="P14">Alternatively, a specialty-specific MSF instrument for child and adolescent psychiatry trainees could be developed, to reflect the differences in their practice compared with other specialties and the greater importance placed on communication, interpersonal skills, emotional intelligence and relationship building.<sup><xref rid="R4" ref-type="bibr">4</xref></sup> Tools taking these attributes into account have been developed for use with consultant psychiatrists and have been found to be feasible to use as well as being reliable and valid.<sup><xref rid="R42" ref-type="bibr">42</xref>,<xref rid="R43" ref-type="bibr">43</xref></sup> The child and adolescent psychiatry competency-based curriculum<sup><xref rid="R41" ref-type="bibr">41</xref></sup> gives details of intended learning outcomes (ILOs), which are either mandatory or selective, some of which tap into these areas. The ILOs range from those that are predominantly clinical (e.g. managing emergencies (mandatory), paediatric psychopharmacology (mandatory) and paediatric liaison (selective)) to those that focus on more humanistic skills (e.g. professionalism (mandatory) and establishing and maintaining therapeutic relationships with children, adolescents and families (mandatory)). The ILO on professionalism includes: &#x02018;practicing Child and Adolescent Psychiatry in a professional and ethical manner; child and family centred practice; understanding the impact of stigma and other barriers to accessing mental health services and inter-professional and multi-agency working&#x02019;.<sup><xref rid="R41" ref-type="bibr">41</xref></sup> Some of the necessary associated skills which trainees are expected to attain include: supervising junior psychiatric staff, working with colleagues within the team and with other agencies to put the child's needs as central, and acting as an advocate for the child. There is scope to develop this area of the curriculum even further; the American Board of Pediatrics (ABP) published guidelines for the teaching and evaluation of professionalism in paediatric residency programmes<sup><xref rid="R44" ref-type="bibr">44</xref></sup> as well as standards of professional behaviour against which paediatricians, including those in training, can be evaluated.<sup><xref rid="R45" ref-type="bibr">45</xref></sup> Both are of relevance to child and adolescent psychiatrists.</p><p id="P15">If developed, a child and adolescent psychiatry specialty-specific MSF instrument would need to map on to the relevant ILOs. It could also include feedback from patients and families (which is not currently routinely collected as part of the WPBAs) to reflect the need to balance the views of the child (who is the patient) with those of their carers.</p></sec><sec sec-type="conclusions" id="S6"><title>Conclusions</title><p id="P16">MSF tools such as the mini-PAT can provide reliable and valid information on areas of a trainee's performance such as communication skills and other humanistic qualities affecting patient care for which other forms of assessment, such as written examinations, are unhelpful. MSF tools have their predominant strength when used for formative assessment and were generally designed for this purpose. They are most appropriately used within a portfolio of other WPBAs and can help in making decisions about a doctor's fitness to practice or to continue training.<sup><xref rid="R46" ref-type="bibr">46</xref></sup> Rater bias and measurement error could be reduced by offering more detailed guidance to trainees in their choice of rater as well as to raters in the use of the tool. Measurement error could also be reduced by encouraging trainees to obtain a larger number of returns than the minimum of eight recommended by the Royal College of Psychiatrists.<sup><xref rid="R3" ref-type="bibr">3</xref></sup> The quality of the feedback to the trainee is also important and educational supervisors would benefit from training in this area.</p><p id="P17">Although the mini-PAT is used widely across specialties, it has only been properly evaluated for use with foundation doctors. Interested researchers, clinicians or educationalists might now want to consider developing a modified version of the SPRAT or a specialty-specific MSF tool that is more appropriate for the needs of trainees in child and adolescent psychiatry. This would reflect the differences in their day-to-day practice compared with that of other trainees but would obviously need to be mapped to the curriculum and evaluated in practice to ensure content validity and reliability.</p></sec></body><back><fn-group><fn fn-type="COI-statement"><p><bold>Declaration of interest</bold> None.</p></fn></fn-group><ref-list><title>References</title><ref id="R1"><label>1</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><name name-style="western"><surname>Holsgrove</surname><given-names>G</given-names></name></person-group>
-<article-title>Multi-source feedback (360-degree assessment)</article-title>. In <source>Workplace-Based Assessments in Psychiatry</source> (eds <person-group person-group-type="editor"><name name-style="western"><surname>Bhugra</surname><given-names>D</given-names></name><name name-style="western"><surname>Malik</surname><given-names>A</given-names></name><name name-style="western"><surname>Brown</surname><given-names>N</given-names></name></person-group>): <fpage>65</fpage>&#x02013;<lpage>9</lpage>. <publisher-name>Royal College of Psychiatrists</publisher-name>, <year>2007</year>.
-</mixed-citation></ref><ref id="R2"><label>2</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Lipner</surname><given-names>RS</given-names></name><name name-style="western"><surname>Blank</surname><given-names>LL</given-names></name><name name-style="western"><surname>Leas</surname><given-names>BF</given-names></name><name name-style="western"><surname>Fortna</surname><given-names>GS</given-names></name></person-group>
-<article-title>The value of patient and peer ratings in recertification</article-title>. <source>Acad Med</source>
-<year>2002</year>; <volume>77</volume>: <fpage>64</fpage>&#x02013;<lpage>6</lpage>.
-</mixed-citation></ref><ref id="R3"><label>3</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Abdulla</surname><given-names>A</given-names></name></person-group>
-<article-title>A critical analysis of mini peer assessment tool (mini-PAT)</article-title>. <source>J R Soc Med</source>
-<year>2008</year>; <volume>101</volume>: <fpage>22</fpage>&#x02013;<lpage>6</lpage>.
-<pub-id pub-id-type="pmid">18263910</pub-id></mixed-citation></ref><ref id="R4"><label>4</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Fitch</surname><given-names>C</given-names></name><name name-style="western"><surname>Malik</surname><given-names>A</given-names></name><name name-style="western"><surname>Lelliott</surname><given-names>P</given-names></name><name name-style="western"><surname>Bhugra</surname><given-names>D</given-names></name><name name-style="western"><surname>Andiappan</surname><given-names>M</given-names></name></person-group>
+                </corresp>
+                <fn>
+                    <p>
+                        <bold>Gill Salmon</bold> is a consultant child and adolescent psychiatrist at the Fairfield Child and Family Clinic, Swansea. <bold>Lesley Pugsley</bold> is a senior lecturer in medical education in the School of Postgraduate Medical and Dental Education, Cardiff University.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="ppub">
+                <month>4</month>
+                <year>2017</year>
+            </pub-date>
+            <volume>41</volume>
+            <issue>2</issue>
+            <fpage>115</fpage>
+            <lpage>119</lpage>
+            <history>
+                <date date-type="received">
+                    <day>22</day>
+                    <month>9</month>
+                    <year>2015</year>
+                </date>
+                <date date-type="rev-recd">
+                    <day>11</day>
+                    <month>5</month>
+                    <year>2016</year>
+                </date>
+                <date date-type="accepted">
+                    <day>1</day>
+                    <month>6</month>
+                    <year>2016</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>&#x000a9; 2017 The Authors</copyright-statement>
+                <copyright-year>2017</copyright-year>
+                <license license-type="creative-commons" xlink:href="http://creativecommons.org/licenses/by/4.0">
+                    <license-p>This is an open-access article published by the Royal College of Psychiatrists and distributed under the terms of the Creative Commons Attribution License (<uri xlink:href="http://creativecommons.org/licenses/by/4.0">http://creativecommons.org/licenses/by/4.0</uri>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <self-uri xlink:title="pdf" xlink:href="115.pdf" />
+            <abstract>
+                <p id="P1">This paper discusses the research supporting the use of multi-source feedback (MSF) for doctors and describes the mini-Peer Assessment Tool (mini-PAT), the MSF instrument currently used to assess trainees in child and adolescent psychiatry. The relevance of issues raised in the literature about MSF tools in general is examined in relation to trainees in child and adolescent psychiatry as well as the appropriateness of the mini-PAT for this group. Suggestions for change including modifications to existing MSF tools or the development of a specialty-specific MSF instrument are offered.</p>
+            </abstract>
+        </article-meta>
+    </front>
+    <body>
+        <p id="P2">Multi-source feedback (MSF) can motivate doctors to improve and change their practice.<sup>
+            <xref rid="R1" ref-type="bibr">1</xref>,            <xref rid="R2" ref-type="bibr">2</xref>
+        </sup> It gives doctors an overview of how others see them and compares this with their own view as well as the results of their peer group.<sup>
+        <xref rid="R3" ref-type="bibr">3</xref>
+    </sup> MSF evolved in Canada and the USA out of a public demand for accountability to patients as well as an acceptance that assessments examining clinical decision-making and medical expertise do not address other essential competencies, such as interpersonal skills, professionalism and communication.<sup>
+    <xref rid="R3" ref-type="bibr">3</xref>
+</sup> MSF tools were originally designed to be formative, that is, to lead to awareness of and improvements in performance through feedback. More recently, however, they are being used for summative purposes, namely to provide information for revalidation and the annual review of competence progression (ARCP) which determines whether a trainee is considered fit to proceed with their training. As such, MSF tools need to be sufficiently reliable and valid. Reliability refers to the reproducibility of assessment measures or scores over repeated tests under identical conditions, and validity refers to the degree of confidence that an assessment measures what it is intended to measure. An associated term, feasibility, is a measure of whether an assessment instrument is practical, realistic and sensible given the circumstances and context.<sup>
+<xref rid="R4" ref-type="bibr">4</xref>
+</sup>
+</p>
+<sec id="S1">
+<title>Research on the use of MSF for doctors</title>
+<p id="P3">Ramsey <italic>et al</italic>
+<sup>
+    <xref rid="R5" ref-type="bibr">5</xref>
+</sup> published a landmark study showing that it was feasible for internal medicine physicians to obtain peer assessments about their humanistic qualities, clinical practice and communication skills. They also came to important conclusions about the reliability of MSF &#x02013; for example, that 11 peer ratings were needed to ensure a reliability coefficient of 0.7 (the minimum acceptable for workplace-based assessments (WPBAs)) and that the results were not substantially affected by the relationship between the rater and the person being rated nor by the method used to select the raters. The findings of this study also suggested that a doctor's medical knowledge (determined by examination marks) was not predictive of how peers subsequently rated their interpersonal relationships or communication skills.</p>
+<p id="P4">The finding that reliable and valid MSF questionnaires can be developed and be feasible to use for assessing doctors has been replicated across settings and specialties.<sup>
+<xref rid="R2" ref-type="bibr">2</xref>,<xref rid="R6" ref-type="bibr">6</xref>&#x02013;<xref rid="R9" ref-type="bibr">9</xref>
+</sup> A number of systematic reviews have also been published, all of which conclude that MSF as a method of assessing communication skills, collegiality, humanism and professionalism in doctors has high reliability, validity and feasibility.<sup>
+<xref rid="R10" ref-type="bibr">10</xref>&#x02013;<xref rid="R15" ref-type="bibr">15</xref>
+</sup>
+</p>
+</sec>
+<sec id="S2">
+<title>The mini-PAT as an MSF tool</title>
+<p id="P5">The mini-PAT is used by the Royal College of Psychiatrists as an MSF instrument for trainees. It is well known because of its widespread use in the Foundation Programme.<sup>
+<xref rid="R16" ref-type="bibr">16</xref>,<xref rid="R17" ref-type="bibr">17</xref>
+</sup> The mini-PAT was derived from the Sheffield Peer Review Assessment Tool (SPRAT) following a mapping exercise against the foundation curriculum,<sup>
+<xref rid="R6" ref-type="bibr">6</xref>
+</sup> thus ensuring its content validity. The SPRAT contains 24 questions assessing a doctor's competencies and professional attributes, and it maps directly on to General Medical Council (GMC) standards of good medical practice,<sup>
+<xref rid="R18" ref-type="bibr">18</xref>
+</sup> again establishing its content validity. These standards include good clinical care, maintaining good medical practice, teaching and training, appraising and assessing, relationships with patients and working with colleagues. The SPRAT was the first MSF tool validated in the UK for use by paediatric consultants as part of their appraisal.<sup>
+<xref rid="R19" ref-type="bibr">19</xref>
+</sup> It has also been shown to be reliable, needing as few as four raters to determine whether a doctor is in difficulty or not (more in borderline situations), and feasible, taking only 5&#x02013;6 minutes to use with good return rates (more than 70%).<sup>
+<xref rid="R20" ref-type="bibr">20</xref>
+</sup> It can also discriminate between the more and less experienced trainee.<sup>
+<xref rid="R21" ref-type="bibr">21</xref>
+</sup>
+</p>
+<p id="P6">In developing the mini-PAT, nine questions which did not map on to the curriculum for the Foundation Programme were removed from the SPRAT. These included questions relating to the management of complex patients and leadership. One question about probity and health was added while the free-text element and six-point scale (where 1 indicates &#x02018;very poor&#x02019; and 6 indicates &#x02018;very good&#x02019;) remained unchanged.<sup>
+<xref rid="R6" ref-type="bibr">6</xref>
+</sup> The resulting mini-PAT was thought to reflect the importance for foundation doctors of developing communication skills, team work and other humanistic qualities in relation to patient care in addition to their medical knowledge.<sup>
+<xref rid="R3" ref-type="bibr">3</xref>
+</sup>
+</p>
+<p id="P7">In his critical analysis of the mini-PAT, while accepting its content validity and feasibility, Abdulla stated that it &#x02018;lacks sufficient field evaluation and has not gone through any stringent criteria that are required for the validation of an assessment tool&#x02019;.<sup>
+<xref rid="R3" ref-type="bibr">3</xref>
+</sup> Data on the reliability and validity of 693 mini-PAT assessments on 553 foundation year 1 and 2 (F1/F2) doctors have subsequently been published.<sup>
+<xref rid="R6" ref-type="bibr">6</xref>
+</sup> The mean scores of the two groups were found to be significantly different when using the same criterion standard (i.e. expectation for F2 completion), with 19.6% of F1s and 5.6% of F2s being assessed as borderline or below the expectations for F2 completion. This was used as evidence of internal standardisation and construct validity, as was the finding that the trainees scored higher in the domains of working with colleagues and relationships with patients compared with the clinical skills domains. Overall, 53% of F1 doctors and 74% of F2 doctors could have been assessed by no more than 8 assessors based on their mean scores. Factor analysis revealed that the two main factors were humanistic qualities and clinical performance. The authors concluded that the mini-PAT was a valid and reliable MSF tool for assessing foundation doctors.</p>
+</sec>
+<sec id="S3">
+<title>Use of the mini-PAT in child and adolescent psychiatry training</title>
+<p id="P8">In child and adolescent psychiatry, the process when using the mini-PAT is as follows: twice a year, the trainee provides contact details of between 8 and 12 co-workers who see them on a frequent basis in a range of situations. These people and the trainee then complete the mini-PAT online. Presumably based on the findings of Archer <italic>et al</italic>,<sup>
+<xref rid="R6" ref-type="bibr">6</xref>
+</sup> it is suggested that at least 8 forms must be completed to ensure the assessment is reliable. There is, however, no research specifically related to the mini-PAT on the minimum number of assessors required to give a valid result.<sup>
+<xref rid="R3" ref-type="bibr">3</xref>
+</sup> The form uses a 6-point Likert-type rating scale. Trainees are rated according to the standard expected at each stage of training. A score of 4 corresponds to the expected standard, with higher or lower scores suggesting the trainee's performance is better or worse.<sup>
+<xref rid="R22" ref-type="bibr">22</xref>
+</sup> The responses are analysed centrally and a report is then sent to the trainee's educational supervisor who delivers the feedback in person.<sup>
+<xref rid="R23" ref-type="bibr">23</xref>
+</sup>
+</p>
+</sec>
+<sec id="S4">
+<title>Potential issues with using MSF tools</title>
+<p id="P9">Several issues that have been identified in relation to the use of MSF tools for medical practitioners in general are also relevant to their use in child and adolescent psychiatry. One is the trainee's choice of rater. Although several authors have found that MSF assessment is not necessarily biased by allowing the doctor to select their own raters,<sup>
+<xref rid="R5" ref-type="bibr">5</xref>,<xref rid="R24" ref-type="bibr">24</xref>,<xref rid="R25" ref-type="bibr">25</xref>
+</sup> others have found that factors such as the seniority, gender and profession of raters can significantly influence the assessment. For example, Archer <italic>et al</italic>
+<sup>
+<xref rid="R21" ref-type="bibr">21</xref>
+</sup> found that consultant raters using the SPRAT gave significantly lower mean scores to paediatric trainees than more junior doctors did; similarly, Bullock <italic>et al</italic>
+<sup>
+<xref rid="R26" ref-type="bibr">26</xref>
+</sup> found that consultants and senior nurses were more likely to give &#x02018;concern&#x02019; ratings when assessing junior doctors than were peers or administrators. Thus, there is a trend for assessors to be more critical with increasing seniority. When considering the mini-PAT, Archer <italic>et al</italic>
+<sup>
+<xref rid="R6" ref-type="bibr">6</xref>
+</sup> found that assessors' scores were affected by their occupation, the length of time the trainee had been working with them, and the working environment. They suggested standardising the number of consultants used as raters by each trainee. These findings support the need for more detailed guidance in rater selection from the Royal College of Psychiatrists. Trainees are currently only advised that raters be chosen from a broad range of co-workers.<sup>
+<xref rid="R4" ref-type="bibr">4</xref>
+</sup> In addition, Abdulla<sup>
+<xref rid="R3" ref-type="bibr">3</xref>
+</sup> suggests that selection bias can be reduced if the list of raters is discussed and agreed on beforehand with the trainee's supervisor.</p>
+<p id="P10">Measurement errors, such as the central tendency and halo effect, can also occur and are particularly likely when behaviours which cannot be easily observed are being assessed.<sup>
+<xref rid="R27" ref-type="bibr">27</xref>
+</sup> A particular issue for non-doctor raters is knowing what standards they should expect for a doctor at that stage in their training. In an attempt to reduce measurement errors, Abdulla<sup>
+<xref rid="R3" ref-type="bibr">3</xref>
+</sup> suggests better education for mini-PAT raters. This could be provided by the Royal College of Psychiatrists as part of their online mini-PAT package.</p>
+<p id="P11">It has been shown that doctors' self-assessments do not correlate well with peer or patient ratings.<sup>
+<xref rid="R7" ref-type="bibr">7</xref>,<xref rid="R28" ref-type="bibr">28</xref>
+</sup> Violato &#x00026; Lockyer<sup>
+<xref rid="R29" ref-type="bibr">29</xref>
+</sup> studied psychiatrists, internal medicine physicians and paediatricians, and found that all were inaccurate in assessing their own performance. Those psychiatrists who were rated by peers to be in the bottom quartile saw themselves as &#x02018;average&#x02019;, whereas the psychiatrists in the top quartile significantly underrated themselves. This indicates that poorly performing doctors often lack insight, not always accepting negative feedback from others and querying its validity.<sup>
+<xref rid="R30" ref-type="bibr">30</xref>
+</sup> Overeem <italic>et al</italic>
+<sup>
+<xref rid="R31" ref-type="bibr">31</xref>
+</sup> advise that trained facilitators should encourage trainees to reflect on MSF results and help them set concrete goals for improvement. Offering coaching to help trainees identify their strengths and weaknesses may help facilitate changes in performance.<sup>
+<xref rid="R32" ref-type="bibr">32</xref>
+</sup> Making the feedback highly structured can help trainees acknowledge feedback from all sources rather than just the medical scores which they tend to value more.<sup>
+<xref rid="R5" ref-type="bibr">5</xref>,<xref rid="R33" ref-type="bibr">33</xref>&#x02013;<xref rid="R35" ref-type="bibr">35</xref>
+</sup> Although taking the mean of the scores may be the most reliable approach,<sup>
+<xref rid="R36" ref-type="bibr">36</xref>
+</sup> attention should also be given to the free-text comments which might highlight specific performance issues and which may also make the feedback more acceptable.<sup>
+<xref rid="R35" ref-type="bibr">35</xref>
+</sup> These findings highlight the importance of the MSF feedback process, which should include the development of a relevant action plan in collaboration with the doctor.</p>
+<p id="P12">It has been proposed that a single, generic MSF tool be used in the UK.<sup>
+<xref rid="R37" ref-type="bibr">37</xref>
+</sup> Research supporting this includes Violato &#x00026; Lockyer's<sup>
+<xref rid="R29" ref-type="bibr">29</xref>,<xref rid="R38" ref-type="bibr">38</xref>
+</sup> study of the use of one MSF tool for internal medicine physicians, paediatricians and psychiatrists. Although they found no specialty differences in response rates or reliability, it is of note that of the items clustered into the same four factors across the specialties, for psychiatry the most discriminating factor was communication whereas for the other two specialties the most important was patient management. By contrast, Mackillop <italic>et al</italic>
+<sup>
+<xref rid="R39" ref-type="bibr">39</xref>
+</sup> evaluated the use of a generic MSF tool across specialties and concluded that, although the generic content was appropriate for most specialties, some would benefit from specialty-specific content.</p>
+</sec>
+<sec id="S5">
+<title>Does the mini-PAT suit the needs of trainees in child and adolescent psychiatry?</title>
+<p id="P13">In child and adolescent psychiatry, the mini-PAT is currently used to assess trainees. Although the mini-PAT has content validity for foundation doctors, having been mapped against their curriculum, this does not necessarily mean it is also a valid tool for other grades or for use across specialties. In the making of the mini-PAT, some questions were removed from the SPRAT, namely those relating to management of complex patients and leadership.<sup>
+<xref rid="R6" ref-type="bibr">6</xref>
+</sup> However, these items are highly relevant to trainees in child and adolescent psychiatry. Davies <italic>et al</italic>
+<sup>
+<xref rid="R40" ref-type="bibr">40</xref>
+</sup> modified the SPRAT for trainees in histopathology following a blueprinting exercise against the histopathology curriculum to establish content validity. They concluded that specialty-specific MSF is feasible and achieves satisfactory reliability. A similar approach blueprinting the SPRAT against the child and adolescent psychiatry competency-based curriculum<sup>
+<xref rid="R41" ref-type="bibr">41</xref>
+</sup> could therefore be considered. The SPRAT also requires fewer raters than the mini-PAT in order for the results to be sufficiently reliable,<sup>
+<xref rid="R6" ref-type="bibr">6</xref>
+</sup> thus adding to its potential suitability for child psychiatry trainees who often work in small teams.</p>
+<p id="P14">Alternatively, a specialty-specific MSF instrument for child and adolescent psychiatry trainees could be developed, to reflect the differences in their practice compared with other specialties and the greater importance placed on communication, interpersonal skills, emotional intelligence and relationship building.<sup>
+<xref rid="R4" ref-type="bibr">4</xref>
+</sup> Tools taking these attributes into account have been developed for use with consultant psychiatrists and have been found to be feasible to use as well as being reliable and valid.<sup>
+<xref rid="R42" ref-type="bibr">42</xref>,<xref rid="R43" ref-type="bibr">43</xref>
+</sup> The child and adolescent psychiatry competency-based curriculum<sup>
+<xref rid="R41" ref-type="bibr">41</xref>
+</sup> gives details of intended learning outcomes (ILOs), which are either mandatory or selective, some of which tap into these areas. The ILOs range from those that are predominantly clinical (e.g. managing emergencies (mandatory), paediatric psychopharmacology (mandatory) and paediatric liaison (selective)) to those that focus on more humanistic skills (e.g. professionalism (mandatory) and establishing and maintaining therapeutic relationships with children, adolescents and families (mandatory)). The ILO on professionalism includes: &#x02018;practicing Child and Adolescent Psychiatry in a professional and ethical manner; child and family centred practice; understanding the impact of stigma and other barriers to accessing mental health services and inter-professional and multi-agency working&#x02019;.<sup>
+<xref rid="R41" ref-type="bibr">41</xref>
+</sup> Some of the necessary associated skills which trainees are expected to attain include: supervising junior psychiatric staff, working with colleagues within the team and with other agencies to put the child's needs as central, and acting as an advocate for the child. There is scope to develop this area of the curriculum even further; the American Board of Pediatrics (ABP) published guidelines for the teaching and evaluation of professionalism in paediatric residency programmes<sup>
+<xref rid="R44" ref-type="bibr">44</xref>
+</sup> as well as standards of professional behaviour against which paediatricians, including those in training, can be evaluated.<sup>
+<xref rid="R45" ref-type="bibr">45</xref>
+</sup> Both are of relevance to child and adolescent psychiatrists.</p>
+<p id="P15">If developed, a child and adolescent psychiatry specialty-specific MSF instrument would need to map on to the relevant ILOs. It could also include feedback from patients and families (which is not currently routinely collected as part of the WPBAs) to reflect the need to balance the views of the child (who is the patient) with those of their carers.</p>
+</sec>
+<sec sec-type="conclusions" id="S6">
+<title>Conclusions</title>
+<p id="P16">MSF tools such as the mini-PAT can provide reliable and valid information on areas of a trainee's performance such as communication skills and other humanistic qualities affecting patient care for which other forms of assessment, such as written examinations, are unhelpful. MSF tools have their predominant strength when used for formative assessment and were generally designed for this purpose. They are most appropriately used within a portfolio of other WPBAs and can help in making decisions about a doctor's fitness to practice or to continue training.<sup>
+<xref rid="R46" ref-type="bibr">46</xref>
+</sup> Rater bias and measurement error could be reduced by offering more detailed guidance to trainees in their choice of rater as well as to raters in the use of the tool. Measurement error could also be reduced by encouraging trainees to obtain a larger number of returns than the minimum of eight recommended by the Royal College of Psychiatrists.<sup>
+<xref rid="R3" ref-type="bibr">3</xref>
+</sup> The quality of the feedback to the trainee is also important and educational supervisors would benefit from training in this area.</p>
+<p id="P17">Although the mini-PAT is used widely across specialties, it has only been properly evaluated for use with foundation doctors. Interested researchers, clinicians or educationalists might now want to consider developing a modified version of the SPRAT or a specialty-specific MSF tool that is more appropriate for the needs of trainees in child and adolescent psychiatry. This would reflect the differences in their day-to-day practice compared with that of other trainees but would obviously need to be mapped to the curriculum and evaluated in practice to ensure content validity and reliability.</p>
+</sec>
+</body>
+<back>
+<fn-group>
+<fn fn-type="COI-statement">
+<p>
+<bold>Declaration of interest</bold> None.</p>
+</fn>
+</fn-group>
+<ref-list>
+<title>References</title>
+<ref id="R1">
+<label>1</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Holsgrove</surname>
+<given-names>G</given-names>
+</name>
+</person-group>
+<article-title>Multi-source feedback (360-degree assessment)</article-title>. In <source>Workplace-Based Assessments in Psychiatry</source> (eds <person-group person-group-type="editor">
+<name name-style="western">
+<surname>Bhugra</surname>
+<given-names>D</given-names>
+</name>
+<name name-style="western">
+<surname>Malik</surname>
+<given-names>A</given-names>
+</name>
+<name name-style="western">
+<surname>Brown</surname>
+<given-names>N</given-names>
+</name>
+</person-group>):<fpage>65</fpage>&#x02013;<lpage>9</lpage>.<publisher-name>Royal College of Psychiatrists</publisher-name>,<year>2007</year>.
+</mixed-citation>
+</ref>
+<ref id="R2">
+<label>2</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Lipner</surname>
+<given-names>RS</given-names>
+</name>
+<name name-style="western">
+<surname>Blank</surname>
+<given-names>LL</given-names>
+</name>
+<name name-style="western">
+<surname>Leas</surname>
+<given-names>BF</given-names>
+</name>
+<name name-style="western">
+<surname>Fortna</surname>
+<given-names>GS</given-names>
+</name>
+</person-group>
+<article-title>The value of patient and peer ratings in recertification</article-title>.<source>Acad Med</source>
+<year>2002</year>;<volume>77</volume>:<fpage>64</fpage>&#x02013;<lpage>6</lpage>.
+</mixed-citation>
+</ref>
+<ref id="R3">
+<label>3</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Abdulla</surname>
+<given-names>A</given-names>
+</name>
+</person-group>
+<article-title>A critical analysis of mini peer assessment tool (mini-PAT)</article-title>.<source>J R Soc Med</source>
+<year>2008</year>;<volume>101</volume>:<fpage>22</fpage>&#x02013;<lpage>6</lpage>.
+<pub-id pub-id-type="pmid">18263910</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R4">
+<label>4</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Fitch</surname>
+<given-names>C</given-names>
+</name>
+<name name-style="western">
+<surname>Malik</surname>
+<given-names>A</given-names>
+</name>
+<name name-style="western">
+<surname>Lelliott</surname>
+<given-names>P</given-names>
+</name>
+<name name-style="western">
+<surname>Bhugra</surname>
+<given-names>D</given-names>
+</name>
+<name name-style="western">
+<surname>Andiappan</surname>
+<given-names>M</given-names>
+</name>
+</person-group>
 <article-title>Assessing psychiatric competencies: what does the literature tell us about workplace-based assessment?</article-title>
 <source>Adv Psychiatr Treat</source>
-<year>2008</year>; <volume>14</volume>: <fpage>122</fpage>&#x02013;<lpage>30</lpage>.
-</mixed-citation></ref><ref id="R5"><label>5</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Ramsey</surname><given-names>PG</given-names></name><name name-style="western"><surname>Wenrich</surname><given-names>MD</given-names></name><name name-style="western"><surname>Carline</surname><given-names>JD</given-names></name><name name-style="western"><surname>Inui</surname><given-names>TS</given-names></name><name name-style="western"><surname>Larson</surname><given-names>EB</given-names></name><name name-style="western"><surname>LoGerfo</surname><given-names>JP</given-names></name></person-group>
-<article-title>Use of peer ratings to evaluate physician performance</article-title>. <source>JAMA</source>
-<year>1993</year>; <volume>13</volume>: <fpage>1655</fpage>&#x02013;<lpage>60</lpage>.
-</mixed-citation></ref><ref id="R6"><label>6</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Archer</surname><given-names>J</given-names></name><name name-style="western"><surname>Norcini</surname><given-names>J</given-names></name><name name-style="western"><surname>Southgate</surname><given-names>L</given-names></name><name name-style="western"><surname>Heard</surname><given-names>S</given-names></name><name name-style="western"><surname>Davies</surname><given-names>H</given-names></name></person-group>
-<article-title>Mini-PAT (Peer Assessment Tool): a valid component of a national assessment programme in the UK</article-title>. <source>Adv Health Sci Educ Theory Pract</source>
-<year>2008</year>; <volume>13</volume>: <fpage>181</fpage>&#x02013;<lpage>92</lpage>.
-<pub-id pub-id-type="pmid">17036157</pub-id></mixed-citation></ref><ref id="R7"><label>7</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Hall</surname><given-names>W</given-names></name><name name-style="western"><surname>Violato</surname><given-names>C</given-names></name><name name-style="western"><surname>Lewkonia</surname><given-names>R</given-names></name><name name-style="western"><surname>Lockyer</surname><given-names>J</given-names></name><name name-style="western"><surname>Fidler</surname><given-names>H</given-names></name><name name-style="western"><surname>Toews</surname><given-names>J</given-names></name><etal/></person-group>
-<article-title>Assessment of physician performance in Alberta: The Physician Achievement Review</article-title>. <source>CMAJ</source>
-<year>1999</year>; <volume>161</volume>: <fpage>52</fpage>&#x02013;<lpage>7</lpage>.
-<pub-id pub-id-type="pmid">10420867</pub-id></mixed-citation></ref><ref id="R8"><label>8</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Lockyer</surname><given-names>J</given-names></name><name name-style="western"><surname>Blackmore</surname><given-names>D</given-names></name><name name-style="western"><surname>Fidler</surname><given-names>H</given-names></name><name name-style="western"><surname>Crutcher</surname><given-names>R</given-names></name><name name-style="western"><surname>Salter</surname><given-names>B</given-names></name><name name-style="western"><surname>Shaw</surname><given-names>K</given-names></name><etal/></person-group>
-<article-title>A study of a multisource feedback system for international medical graduates holding defined licenses</article-title>. <source>Med Educ</source>
-<year>2006</year>; <volume>40</volume>: <fpage>340</fpage>&#x02013;<lpage>7</lpage>.
-<pub-id pub-id-type="pmid">16573670</pub-id></mixed-citation></ref><ref id="R9"><label>9</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Violato</surname><given-names>C</given-names></name><name name-style="western"><surname>Lockyer</surname><given-names>J</given-names></name><name name-style="western"><surname>Fidler</surname><given-names>H</given-names></name></person-group>
-<article-title>Multisource feedback: a method of assessing surgical practice</article-title>. <source>BMJ</source>
-<year>2003</year>; <volume>326</volume>: <fpage>546</fpage>&#x02013;<lpage>8</lpage>.
-<pub-id pub-id-type="pmid">12623920</pub-id></mixed-citation></ref><ref id="R10"><label>10</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Evans</surname><given-names>R</given-names></name><name name-style="western"><surname>Elwyn</surname><given-names>G</given-names></name><name name-style="western"><surname>Edwards</surname><given-names>A</given-names></name></person-group>
-<article-title>A review of instruments for peer assessment of physicians</article-title>. <source>BMJ</source>
-<year>2004</year>; <volume>328</volume>: <fpage>1240</fpage>&#x02013;<lpage>3</lpage>.
-<pub-id pub-id-type="pmid">15155502</pub-id></mixed-citation></ref><ref id="R11"><label>11</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><name name-style="western"><surname>Travaglia</surname><given-names>J</given-names></name><name name-style="western"><surname>Debono</surname><given-names>D</given-names></name></person-group>
-<source>Peer Review in Medicine: A Comprehensive Review of the Literature</source>. <publisher-name>Centre for Clinical Governance Research in Health, University of New South Wales</publisher-name>, <year>2009</year>.
-</mixed-citation></ref><ref id="R12"><label>12</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Dubinsky</surname><given-names>I</given-names></name><name name-style="western"><surname>Jennings</surname><given-names>K</given-names></name><name name-style="western"><surname>Greengarten</surname><given-names>M</given-names></name><name name-style="western"><surname>Brans</surname><given-names>A</given-names></name></person-group>
-<article-title>360-degree physician assessment</article-title>. <source>Healthc Q</source>
-<year>2010</year>; <volume>13</volume>: <fpage>71</fpage>&#x02013;<lpage>6</lpage>.
-<pub-id pub-id-type="pmid">20357549</pub-id></mixed-citation></ref><ref id="R13"><label>13</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Andrews</surname><given-names>JJ</given-names></name><name name-style="western"><surname>Violato</surname><given-names>C</given-names></name><name name-style="western"><surname>Ansari</surname><given-names>A</given-names></name><name name-style="western"><surname>Donnon</surname><given-names>T</given-names></name><name name-style="western"><surname>Pugliese</surname><given-names>G</given-names></name></person-group>
-<article-title>Assessing psychologists in practice: lessons from health professionals using multisource feedback</article-title>. <source>Prof Psychol Res Pract</source>
-<year>2013</year>; <volume>44</volume>: <fpage>193</fpage>&#x02013;<lpage>207</lpage>.
-</mixed-citation></ref><ref id="R14"><label>14</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Khalifa</surname><given-names>K</given-names></name><name name-style="western"><surname>Ansari</surname><given-names>A</given-names></name><name name-style="western"><surname>Violato</surname><given-names>C</given-names></name><name name-style="western"><surname>Donnon</surname><given-names>T</given-names></name></person-group>
-<article-title>Multisource feedback to assess surgical practice: a systematic review</article-title>. <source>J Surg Educ</source>
-<year>2013</year>; <volume>70</volume>: <fpage>475</fpage>&#x02013;<lpage>86</lpage>.
-<pub-id pub-id-type="pmid">23725935</pub-id></mixed-citation></ref><ref id="R15"><label>15</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Donnon</surname><given-names>T</given-names></name><name name-style="western"><surname>Ansari</surname><given-names>A</given-names></name><name name-style="western"><surname>Alawi</surname><given-names>A</given-names></name><name name-style="western"><surname>Violato</surname><given-names>C</given-names></name></person-group>
-<article-title>The reliability, validity, and feasibility of multisource feedback physician assessment: a systematic review</article-title>. <source>Acad Med</source>
-<year>2014</year>; <volume>89</volume>: <fpage>511</fpage>&#x02013;<lpage>616</lpage>.
-<pub-id pub-id-type="pmid">24448051</pub-id></mixed-citation></ref><ref id="R16"><label>16</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Davies</surname><given-names>H</given-names></name><name name-style="western"><surname>Archer</surname><given-names>J</given-names></name><name name-style="western"><surname>Southgate</surname><given-names>L</given-names></name><name name-style="western"><surname>Norcini</surname><given-names>J</given-names></name></person-group>
-<article-title>Initial evaluation of the first year of the Foundation Assessment Programme</article-title>. <source>Med Educ</source>
-<year>2009</year>; <volume>43</volume>: <fpage>74</fpage>&#x02013;<lpage>81</lpage>.
-<pub-id pub-id-type="pmid">19141000</pub-id></mixed-citation></ref><ref id="R17"><label>17</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Carr</surname><given-names>S</given-names></name></person-group>
+<year>2008</year>;<volume>14</volume>:<fpage>122</fpage>&#x02013;<lpage>30</lpage>.
+</mixed-citation>
+</ref>
+<ref id="R5">
+<label>5</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Ramsey</surname>
+<given-names>PG</given-names>
+</name>
+<name name-style="western">
+<surname>Wenrich</surname>
+<given-names>MD</given-names>
+</name>
+<name name-style="western">
+<surname>Carline</surname>
+<given-names>JD</given-names>
+</name>
+<name name-style="western">
+<surname>Inui</surname>
+<given-names>TS</given-names>
+</name>
+<name name-style="western">
+<surname>Larson</surname>
+<given-names>EB</given-names>
+</name>
+<name name-style="western">
+<surname>LoGerfo</surname>
+<given-names>JP</given-names>
+</name>
+</person-group>
+<article-title>Use of peer ratings to evaluate physician performance</article-title>.<source>JAMA</source>
+<year>1993</year>;<volume>13</volume>:<fpage>1655</fpage>&#x02013;<lpage>60</lpage>.
+</mixed-citation>
+</ref>
+<ref id="R6">
+<label>6</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Archer</surname>
+<given-names>J</given-names>
+</name>
+<name name-style="western">
+<surname>Norcini</surname>
+<given-names>J</given-names>
+</name>
+<name name-style="western">
+<surname>Southgate</surname>
+<given-names>L</given-names>
+</name>
+<name name-style="western">
+<surname>Heard</surname>
+<given-names>S</given-names>
+</name>
+<name name-style="western">
+<surname>Davies</surname>
+<given-names>H</given-names>
+</name>
+</person-group>
+<article-title>Mini-PAT (Peer Assessment Tool): a valid component of a national assessment programme in the UK</article-title>.<source>Adv Health Sci Educ Theory Pract</source>
+<year>2008</year>;<volume>13</volume>:<fpage>181</fpage>&#x02013;<lpage>92</lpage>.
+<pub-id pub-id-type="pmid">17036157</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R7">
+<label>7</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Hall</surname>
+<given-names>W</given-names>
+</name>
+<name name-style="western">
+<surname>Violato</surname>
+<given-names>C</given-names>
+</name>
+<name name-style="western">
+<surname>Lewkonia</surname>
+<given-names>R</given-names>
+</name>
+<name name-style="western">
+<surname>Lockyer</surname>
+<given-names>J</given-names>
+</name>
+<name name-style="western">
+<surname>Fidler</surname>
+<given-names>H</given-names>
+</name>
+<name name-style="western">
+<surname>Toews</surname>
+<given-names>J</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>Assessment of physician performance in Alberta: The Physician Achievement Review</article-title>.<source>CMAJ</source>
+<year>1999</year>;<volume>161</volume>:<fpage>52</fpage>&#x02013;<lpage>7</lpage>.
+<pub-id pub-id-type="pmid">10420867</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R8">
+<label>8</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Lockyer</surname>
+<given-names>J</given-names>
+</name>
+<name name-style="western">
+<surname>Blackmore</surname>
+<given-names>D</given-names>
+</name>
+<name name-style="western">
+<surname>Fidler</surname>
+<given-names>H</given-names>
+</name>
+<name name-style="western">
+<surname>Crutcher</surname>
+<given-names>R</given-names>
+</name>
+<name name-style="western">
+<surname>Salter</surname>
+<given-names>B</given-names>
+</name>
+<name name-style="western">
+<surname>Shaw</surname>
+<given-names>K</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>A study of a multisource feedback system for international medical graduates holding defined licenses</article-title>.<source>Med Educ</source>
+<year>2006</year>;<volume>40</volume>:<fpage>340</fpage>&#x02013;<lpage>7</lpage>.
+<pub-id pub-id-type="pmid">16573670</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R9">
+<label>9</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Violato</surname>
+<given-names>C</given-names>
+</name>
+<name name-style="western">
+<surname>Lockyer</surname>
+<given-names>J</given-names>
+</name>
+<name name-style="western">
+<surname>Fidler</surname>
+<given-names>H</given-names>
+</name>
+</person-group>
+<article-title>Multisource feedback: a method of assessing surgical practice</article-title>.<source>BMJ</source>
+<year>2003</year>;<volume>326</volume>:<fpage>546</fpage>&#x02013;<lpage>8</lpage>.
+<pub-id pub-id-type="pmid">12623920</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R10">
+<label>10</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Evans</surname>
+<given-names>R</given-names>
+</name>
+<name name-style="western">
+<surname>Elwyn</surname>
+<given-names>G</given-names>
+</name>
+<name name-style="western">
+<surname>Edwards</surname>
+<given-names>A</given-names>
+</name>
+</person-group>
+<article-title>A review of instruments for peer assessment of physicians</article-title>.<source>BMJ</source>
+<year>2004</year>;<volume>328</volume>:<fpage>1240</fpage>&#x02013;<lpage>3</lpage>.
+<pub-id pub-id-type="pmid">15155502</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R11">
+<label>11</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Travaglia</surname>
+<given-names>J</given-names>
+</name>
+<name name-style="western">
+<surname>Debono</surname>
+<given-names>D</given-names>
+</name>
+</person-group>
+<source>Peer Review in Medicine: A Comprehensive Review of the Literature</source>.<publisher-name>Centre for Clinical Governance Research in Health, University of New South Wales</publisher-name>,<year>2009</year>.
+</mixed-citation>
+</ref>
+<ref id="R12">
+<label>12</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Dubinsky</surname>
+<given-names>I</given-names>
+</name>
+<name name-style="western">
+<surname>Jennings</surname>
+<given-names>K</given-names>
+</name>
+<name name-style="western">
+<surname>Greengarten</surname>
+<given-names>M</given-names>
+</name>
+<name name-style="western">
+<surname>Brans</surname>
+<given-names>A</given-names>
+</name>
+</person-group>
+<article-title>360-degree physician assessment</article-title>.<source>Healthc Q</source>
+<year>2010</year>;<volume>13</volume>:<fpage>71</fpage>&#x02013;<lpage>6</lpage>.
+<pub-id pub-id-type="pmid">20357549</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R13">
+<label>13</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Andrews</surname>
+<given-names>JJ</given-names>
+</name>
+<name name-style="western">
+<surname>Violato</surname>
+<given-names>C</given-names>
+</name>
+<name name-style="western">
+<surname>Ansari</surname>
+<given-names>A</given-names>
+</name>
+<name name-style="western">
+<surname>Donnon</surname>
+<given-names>T</given-names>
+</name>
+<name name-style="western">
+<surname>Pugliese</surname>
+<given-names>G</given-names>
+</name>
+</person-group>
+<article-title>Assessing psychologists in practice: lessons from health professionals using multisource feedback</article-title>.<source>Prof Psychol Res Pract</source>
+<year>2013</year>;<volume>44</volume>:<fpage>193</fpage>&#x02013;<lpage>207</lpage>.
+</mixed-citation>
+</ref>
+<ref id="R14">
+<label>14</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Khalifa</surname>
+<given-names>K</given-names>
+</name>
+<name name-style="western">
+<surname>Ansari</surname>
+<given-names>A</given-names>
+</name>
+<name name-style="western">
+<surname>Violato</surname>
+<given-names>C</given-names>
+</name>
+<name name-style="western">
+<surname>Donnon</surname>
+<given-names>T</given-names>
+</name>
+</person-group>
+<article-title>Multisource feedback to assess surgical practice: a systematic review</article-title>.<source>J Surg Educ</source>
+<year>2013</year>;<volume>70</volume>:<fpage>475</fpage>&#x02013;<lpage>86</lpage>.
+<pub-id pub-id-type="pmid">23725935</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R15">
+<label>15</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Donnon</surname>
+<given-names>T</given-names>
+</name>
+<name name-style="western">
+<surname>Ansari</surname>
+<given-names>A</given-names>
+</name>
+<name name-style="western">
+<surname>Alawi</surname>
+<given-names>A</given-names>
+</name>
+<name name-style="western">
+<surname>Violato</surname>
+<given-names>C</given-names>
+</name>
+</person-group>
+<article-title>The reliability, validity, and feasibility of multisource feedback physician assessment: a systematic review</article-title>.<source>Acad Med</source>
+<year>2014</year>;<volume>89</volume>:<fpage>511</fpage>&#x02013;<lpage>616</lpage>.
+<pub-id pub-id-type="pmid">24448051</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R16">
+<label>16</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Davies</surname>
+<given-names>H</given-names>
+</name>
+<name name-style="western">
+<surname>Archer</surname>
+<given-names>J</given-names>
+</name>
+<name name-style="western">
+<surname>Southgate</surname>
+<given-names>L</given-names>
+</name>
+<name name-style="western">
+<surname>Norcini</surname>
+<given-names>J</given-names>
+</name>
+</person-group>
+<article-title>Initial evaluation of the first year of the Foundation Assessment Programme</article-title>.<source>Med Educ</source>
+<year>2009</year>;<volume>43</volume>:<fpage>74</fpage>&#x02013;<lpage>81</lpage>.
+<pub-id pub-id-type="pmid">19141000</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R17">
+<label>17</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Carr</surname>
+<given-names>S</given-names>
+</name>
+</person-group>
 <article-title>The Foundation Programme assessment tools: an opportunity to enhance feedback to trainees?</article-title>
 <source>Postgrad Med J</source>
-<year>2006</year>; <volume>82</volume>: <fpage>576</fpage>&#x02013;<lpage>9</lpage>.
-<pub-id pub-id-type="pmid">16954453</pub-id></mixed-citation></ref><ref id="R18"><label>18</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><collab>General Medical Council</collab></person-group>
-<source>Good Medical Practice</source>. <publisher-name>GMC</publisher-name>, <year>2001</year>.
-</mixed-citation></ref><ref id="R19"><label>19</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Archer</surname><given-names>J</given-names></name><name name-style="western"><surname>Norcini</surname><given-names>J</given-names></name><name name-style="western"><surname>Davies</surname><given-names>H</given-names></name></person-group>
-<article-title>Use of SPRAT for peer review of paediatricians in training</article-title>. <source>BMJ</source>
-<year>2005</year>; <volume>330</volume>: <fpage>1251</fpage>&#x02013;<lpage>3</lpage>.
-<pub-id pub-id-type="pmid">15883137</pub-id></mixed-citation></ref><ref id="R20"><label>20</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Davis</surname><given-names>H</given-names></name><name name-style="western"><surname>Archer</surname><given-names>J</given-names></name></person-group>
-<article-title>Multi source feedback: development and practical aspects</article-title>. <source>Clin Teach</source>
-<year>2005</year>; <volume>2</volume>: <fpage>77</fpage>&#x02013;<lpage>81</lpage>.
-</mixed-citation></ref><ref id="R21"><label>21</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Archer</surname><given-names>J</given-names></name><name name-style="western"><surname>McGraw</surname><given-names>M</given-names></name><name name-style="western"><surname>Davies</surname><given-names>H</given-names></name></person-group>
-<article-title>Assuring the validity of multisource feedback in a national programme</article-title>. <source>Arch Dis Child</source>
-<year>2010</year>; <volume>95</volume>: <fpage>330</fpage>&#x02013;<lpage>5</lpage>.
-<pub-id pub-id-type="pmid">20457700</pub-id></mixed-citation></ref><ref id="R22"><label>22</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><name name-style="western"><surname>Searle</surname><given-names>G</given-names></name><name name-style="western"><surname>Holsgrove</surname><given-names>G</given-names></name><name name-style="western"><surname>Brown</surname><given-names>N</given-names></name></person-group>
-<source>Trainees' Guide to Workplace Based Assessment (Version 2.0)</source>. <publisher-name>Royal College of Psychiatrists</publisher-name>, <year>2007</year> (<uri xlink:href="http://www.rcpsych.ac.uk/pdf/Trainees_Guide_to_WPBA_070629.pdf">http://www.rcpsych.ac.uk/pdf/Trainees_Guide_to_WPBA_070629.pdf</uri>).
-</mixed-citation></ref><ref id="R23"><label>23</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><name name-style="western"><surname>Holsgrove</surname><given-names>G</given-names></name></person-group>
-<source>Guide to the mini-Peer Assessment Tool (mini-PAT): An Introduction for Trainees, Assessors and Educational Supervisors</source>. <publisher-name>Royal College of Psychiatrists</publisher-name>, <year>2006</year>.
-</mixed-citation></ref><ref id="R24"><label>24</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Violato</surname><given-names>C</given-names></name><name name-style="western"><surname>Marini</surname><given-names>A</given-names></name><name name-style="western"><surname>Toews</surname><given-names>J</given-names></name><name name-style="western"><surname>Lockyer</surname><given-names>J</given-names></name><name name-style="western"><surname>Fidler</surname><given-names>H</given-names></name></person-group>
-<article-title>Feasibility and psychometric properties of using peers, consulting physicians, co-workers and patients to assess physicians</article-title>. <source>Acad Med</source>
-<year>1997</year>; <volume>72</volume>: <fpage>S82</fpage>&#x02013;<lpage>4</lpage>.
-<pub-id pub-id-type="pmid">9347748</pub-id></mixed-citation></ref><ref id="R25"><label>25</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Durning</surname><given-names>SJ</given-names></name><name name-style="western"><surname>Cation</surname><given-names>LJ</given-names></name><name name-style="western"><surname>Markert</surname><given-names>RJ</given-names></name><name name-style="western"><surname>Pangaraaro</surname><given-names>LN</given-names></name></person-group>
-<article-title>Assessing the reliability and validity of the mini-clinical evaluation exercise for internal medicine residency training</article-title>. <source>Acad Med</source>
-<year>2002</year>; <volume>77</volume>: <fpage>900</fpage>&#x02013;<lpage>4</lpage>.
-<pub-id pub-id-type="pmid">12228088</pub-id></mixed-citation></ref><ref id="R26"><label>26</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Bullock</surname><given-names>AD</given-names></name><name name-style="western"><surname>Hassell</surname><given-names>A</given-names></name><name name-style="western"><surname>Markham</surname><given-names>WA</given-names></name><name name-style="western"><surname>Wall</surname><given-names>D</given-names></name><name name-style="western"><surname>Whitehouse</surname><given-names>A</given-names></name></person-group>
-<article-title>How ratings may vary by staff group in multi-source feedback assessment of junior doctors</article-title>. <source>Med Educ</source>
-<year>2009</year>; <volume>43</volume>: <fpage>516</fpage>&#x02013;<lpage>20</lpage>.
-<pub-id pub-id-type="pmid">19493174</pub-id></mixed-citation></ref><ref id="R27"><label>27</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Johnson</surname><given-names>D</given-names></name><name name-style="western"><surname>Bibiana</surname><given-names>C</given-names></name></person-group>
-<article-title>Comparison of self, nurse, and physician assessment of residents rotating through an intensive care unit</article-title>. <source>Crit Care Med</source>
-<year>1998</year>; <volume>26</volume>: <fpage>1811</fpage>&#x02013;<lpage>6</lpage>.
-<pub-id pub-id-type="pmid">9824072</pub-id></mixed-citation></ref><ref id="R28"><label>28</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Thomas</surname><given-names>PA</given-names></name><name name-style="western"><surname>Gebo</surname><given-names>KA</given-names></name><name name-style="western"><surname>Hellmann</surname><given-names>DB</given-names></name></person-group>
-<article-title>A pilot study of peer review in residency training</article-title>. <source>J Gen Intern Med</source>
-<year>1999</year>; <volume>14</volume>: <fpage>551</fpage>&#x02013;<lpage>4</lpage>.
-<pub-id pub-id-type="pmid">10491244</pub-id></mixed-citation></ref><ref id="R29"><label>29</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Violato</surname><given-names>C</given-names></name><name name-style="western"><surname>Lockyer</surname><given-names>J</given-names></name></person-group>
-<article-title>Self and peer assessment of pediatricians, psychiatrists and medicine specialists: implications for self-directed learning</article-title>. <source>Adv Health Sci Educ Theory Pract</source>
-<year>2006</year>; <volume>11</volume>: <fpage>235</fpage>&#x02013;<lpage>44</lpage>.
-<pub-id pub-id-type="pmid">16832707</pub-id></mixed-citation></ref><ref id="R30"><label>30</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Sargeant</surname><given-names>J</given-names></name><name name-style="western"><surname>Mann</surname><given-names>K</given-names></name><name name-style="western"><surname>Sinclair</surname><given-names>D</given-names></name><name name-style="western"><surname>van der Vleuten</surname><given-names>C</given-names></name><name name-style="western"><surname>Metsemakers</surname><given-names>J</given-names></name></person-group>
-<article-title>Challenges in multisource feedback: intended and unintended outcomes</article-title>. <source>Med Educ</source>
-<year>2007</year>; <volume>41</volume>: <fpage>583</fpage>&#x02013;<lpage>91</lpage>.
-<pub-id pub-id-type="pmid">17518839</pub-id></mixed-citation></ref><ref id="R31"><label>31</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Overeem</surname><given-names>K</given-names></name><name name-style="western"><surname>Wollersheim</surname><given-names>H</given-names></name><name name-style="western"><surname>Driessen</surname><given-names>E</given-names></name><name name-style="western"><surname>Lombarts</surname><given-names>K</given-names></name><name name-style="western"><surname>van de Ven</surname><given-names>G</given-names></name><name name-style="western"><surname>Grol</surname><given-names>R</given-names></name><etal/></person-group>
-<article-title>Doctors' perceptions of why 360-degree feedback does (not) work: a qualitative study</article-title>. <source>Med Educ</source>
-<year>2009</year>; <volume>43</volume>: <fpage>874</fpage>&#x02013;<lpage>82</lpage>.
-<pub-id pub-id-type="pmid">19709012</pub-id></mixed-citation></ref><ref id="R32"><label>32</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Miller</surname><given-names>A</given-names></name><name name-style="western"><surname>Archer</surname><given-names>J</given-names></name></person-group>
-<article-title>Impact of workplace based assessment on doctors' education and performance: a systematic review</article-title>. <source>BMJ</source>
-<year>2010</year>; <volume>341</volume>: <fpage>c5064</fpage>.
-<pub-id pub-id-type="pmid">20870696</pub-id></mixed-citation></ref><ref id="R33"><label>33</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Weinrich</surname><given-names>MD</given-names></name><name name-style="western"><surname>Carline</surname><given-names>ID</given-names></name><name name-style="western"><surname>Giles</surname><given-names>LM</given-names></name><name name-style="western"><surname>Ramsey</surname><given-names>PG</given-names></name></person-group>
-<article-title>Ratings of the performance of practicing internists by hospital-based registered nurses</article-title>. <source>Acad Med</source>
-<year>1993</year>; <volume>68</volume>: <fpage>680</fpage>&#x02013;<lpage>7</lpage>.
-<pub-id pub-id-type="pmid">8397633</pub-id></mixed-citation></ref><ref id="R34"><label>34</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Higgins</surname><given-names>RSD</given-names></name><name name-style="western"><surname>Bridges</surname><given-names>J</given-names></name><name name-style="western"><surname>Burke</surname><given-names>JM</given-names></name><name name-style="western"><surname>O'Donnell</surname><given-names>MA</given-names></name><name name-style="western"><surname>Cohen</surname><given-names>N</given-names></name><name name-style="western"><surname>Wilkes</surname><given-names>SB</given-names></name></person-group>
-<article-title>Implementing the ACGME general competencies in a cardiothoracic surgery residency program using a 360-degree feedback</article-title>. <source>Ann Thorac Surg</source>
-<year>2004</year>; <volume>77</volume>: <fpage>12</fpage>&#x02013;<lpage>17</lpage>.
-<pub-id pub-id-type="pmid">14726026</pub-id></mixed-citation></ref><ref id="R35"><label>35</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Ferguson</surname><given-names>J</given-names></name><name name-style="western"><surname>Wakeling</surname><given-names>J</given-names></name><name name-style="western"><surname>Bowie</surname><given-names>P</given-names></name></person-group>
-<article-title>Factors influencing the effectiveness of multisource feedback in improving professional practice of medical doctors: a systematic review</article-title>. <source>BMC Med Educ</source>
-<year>2014</year>; <volume>14</volume>: <fpage>76</fpage>.
-<pub-id pub-id-type="pmid">24725268</pub-id></mixed-citation></ref><ref id="R36"><label>36</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Wilkinson</surname><given-names>JR</given-names></name><name name-style="western"><surname>Crossley</surname><given-names>JG</given-names></name><name name-style="western"><surname>Wragg</surname><given-names>A</given-names></name><name name-style="western"><surname>Mills</surname><given-names>P</given-names></name><name name-style="western"><surname>Cowan</surname><given-names>G</given-names></name><name name-style="western"><surname>Wade</surname><given-names>W</given-names></name></person-group>
-<article-title>Implementing workplace-based assessment across medical specialties in the United Kingdom</article-title>. <source>Med Educ</source>
-<year>2008</year>; <volume>42</volume>: <fpage>364</fpage>&#x02013;<lpage>73</lpage>.
-<pub-id pub-id-type="pmid">18338989</pub-id></mixed-citation></ref><ref id="R37"><label>37</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><name name-style="western"><surname>Donaldson</surname><given-names>L</given-names></name></person-group>
-<source>Trust, Assurance and Safety &#x02013; The Regulation of Health Professionals in the 21st Century</source>. <publisher-name>Department of Health</publisher-name>, <year>2007</year>.
-</mixed-citation></ref><ref id="R38"><label>38</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Violato</surname><given-names>C</given-names></name><name name-style="western"><surname>Lockyer</surname><given-names>J</given-names></name></person-group>
-<article-title>An examination of the appropriateness of using a common peer assessment instrument to assess physician skills across specialties</article-title>. <source>Acad Med</source>
-<year>2004</year>; <volume>79</volume>: <fpage>S5</fpage>&#x02013;<lpage>8</lpage>.
-<pub-id pub-id-type="pmid">15383375</pub-id></mixed-citation></ref><ref id="R39"><label>39</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Mackillop</surname><given-names>L</given-names></name><name name-style="western"><surname>Crossley</surname><given-names>J</given-names></name><name name-style="western"><surname>Vivekananda-Schmidt</surname><given-names>P</given-names></name><name name-style="western"><surname>Wade</surname><given-names>W</given-names></name><name name-style="western"><surname>Armitage</surname><given-names>M</given-names></name></person-group>
+<year>2006</year>;<volume>82</volume>:<fpage>576</fpage>&#x02013;<lpage>9</lpage>.
+<pub-id pub-id-type="pmid">16954453</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R18">
+<label>18</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<collab>General Medical Council</collab>
+</person-group>
+<source>Good Medical Practice</source>.<publisher-name>GMC</publisher-name>,<year>2001</year>.
+</mixed-citation>
+</ref>
+<ref id="R19">
+<label>19</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Archer</surname>
+<given-names>J</given-names>
+</name>
+<name name-style="western">
+<surname>Norcini</surname>
+<given-names>J</given-names>
+</name>
+<name name-style="western">
+<surname>Davies</surname>
+<given-names>H</given-names>
+</name>
+</person-group>
+<article-title>Use of SPRAT for peer review of paediatricians in training</article-title>.<source>BMJ</source>
+<year>2005</year>;<volume>330</volume>:<fpage>1251</fpage>&#x02013;<lpage>3</lpage>.
+<pub-id pub-id-type="pmid">15883137</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R20">
+<label>20</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Davis</surname>
+<given-names>H</given-names>
+</name>
+<name name-style="western">
+<surname>Archer</surname>
+<given-names>J</given-names>
+</name>
+</person-group>
+<article-title>Multi source feedback: development and practical aspects</article-title>.<source>Clin Teach</source>
+<year>2005</year>;<volume>2</volume>:<fpage>77</fpage>&#x02013;<lpage>81</lpage>.
+</mixed-citation>
+</ref>
+<ref id="R21">
+<label>21</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Archer</surname>
+<given-names>J</given-names>
+</name>
+<name name-style="western">
+<surname>McGraw</surname>
+<given-names>M</given-names>
+</name>
+<name name-style="western">
+<surname>Davies</surname>
+<given-names>H</given-names>
+</name>
+</person-group>
+<article-title>Assuring the validity of multisource feedback in a national programme</article-title>.<source>Arch Dis Child</source>
+<year>2010</year>;<volume>95</volume>:<fpage>330</fpage>&#x02013;<lpage>5</lpage>.
+<pub-id pub-id-type="pmid">20457700</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R22">
+<label>22</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Searle</surname>
+<given-names>G</given-names>
+</name>
+<name name-style="western">
+<surname>Holsgrove</surname>
+<given-names>G</given-names>
+</name>
+<name name-style="western">
+<surname>Brown</surname>
+<given-names>N</given-names>
+</name>
+</person-group>
+<source>Trainees' Guide to Workplace Based Assessment (Version 2.0)</source>.<publisher-name>Royal College of Psychiatrists</publisher-name>,<year>2007</year> (<uri xlink:href="http://www.rcpsych.ac.uk/pdf/Trainees_Guide_to_WPBA_070629.pdf">http://www.rcpsych.ac.uk/pdf/Trainees_Guide_to_WPBA_070629.pdf</uri>).
+</mixed-citation>
+</ref>
+<ref id="R23">
+<label>23</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Holsgrove</surname>
+<given-names>G</given-names>
+</name>
+</person-group>
+<source>Guide to the mini-Peer Assessment Tool (mini-PAT): An Introduction for Trainees, Assessors and Educational Supervisors</source>.<publisher-name>Royal College of Psychiatrists</publisher-name>,<year>2006</year>.
+</mixed-citation>
+</ref>
+<ref id="R24">
+<label>24</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Violato</surname>
+<given-names>C</given-names>
+</name>
+<name name-style="western">
+<surname>Marini</surname>
+<given-names>A</given-names>
+</name>
+<name name-style="western">
+<surname>Toews</surname>
+<given-names>J</given-names>
+</name>
+<name name-style="western">
+<surname>Lockyer</surname>
+<given-names>J</given-names>
+</name>
+<name name-style="western">
+<surname>Fidler</surname>
+<given-names>H</given-names>
+</name>
+</person-group>
+<article-title>Feasibility and psychometric properties of using peers, consulting physicians, co-workers and patients to assess physicians</article-title>.<source>Acad Med</source>
+<year>1997</year>;<volume>72</volume>:<fpage>S82</fpage>&#x02013;<lpage>4</lpage>.
+<pub-id pub-id-type="pmid">9347748</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R25">
+<label>25</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Durning</surname>
+<given-names>SJ</given-names>
+</name>
+<name name-style="western">
+<surname>Cation</surname>
+<given-names>LJ</given-names>
+</name>
+<name name-style="western">
+<surname>Markert</surname>
+<given-names>RJ</given-names>
+</name>
+<name name-style="western">
+<surname>Pangaraaro</surname>
+<given-names>LN</given-names>
+</name>
+</person-group>
+<article-title>Assessing the reliability and validity of the mini-clinical evaluation exercise for internal medicine residency training</article-title>.<source>Acad Med</source>
+<year>2002</year>;<volume>77</volume>:<fpage>900</fpage>&#x02013;<lpage>4</lpage>.
+<pub-id pub-id-type="pmid">12228088</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R26">
+<label>26</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Bullock</surname>
+<given-names>AD</given-names>
+</name>
+<name name-style="western">
+<surname>Hassell</surname>
+<given-names>A</given-names>
+</name>
+<name name-style="western">
+<surname>Markham</surname>
+<given-names>WA</given-names>
+</name>
+<name name-style="western">
+<surname>Wall</surname>
+<given-names>D</given-names>
+</name>
+<name name-style="western">
+<surname>Whitehouse</surname>
+<given-names>A</given-names>
+</name>
+</person-group>
+<article-title>How ratings may vary by staff group in multi-source feedback assessment of junior doctors</article-title>.<source>Med Educ</source>
+<year>2009</year>;<volume>43</volume>:<fpage>516</fpage>&#x02013;<lpage>20</lpage>.
+<pub-id pub-id-type="pmid">19493174</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R27">
+<label>27</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Johnson</surname>
+<given-names>D</given-names>
+</name>
+<name name-style="western">
+<surname>Bibiana</surname>
+<given-names>C</given-names>
+</name>
+</person-group>
+<article-title>Comparison of self, nurse, and physician assessment of residents rotating through an intensive care unit</article-title>.<source>Crit Care Med</source>
+<year>1998</year>;<volume>26</volume>:<fpage>1811</fpage>&#x02013;<lpage>6</lpage>.
+<pub-id pub-id-type="pmid">9824072</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R28">
+<label>28</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Thomas</surname>
+<given-names>PA</given-names>
+</name>
+<name name-style="western">
+<surname>Gebo</surname>
+<given-names>KA</given-names>
+</name>
+<name name-style="western">
+<surname>Hellmann</surname>
+<given-names>DB</given-names>
+</name>
+</person-group>
+<article-title>A pilot study of peer review in residency training</article-title>.<source>J Gen Intern Med</source>
+<year>1999</year>;<volume>14</volume>:<fpage>551</fpage>&#x02013;<lpage>4</lpage>.
+<pub-id pub-id-type="pmid">10491244</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R29">
+<label>29</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Violato</surname>
+<given-names>C</given-names>
+</name>
+<name name-style="western">
+<surname>Lockyer</surname>
+<given-names>J</given-names>
+</name>
+</person-group>
+<article-title>Self and peer assessment of pediatricians, psychiatrists and medicine specialists: implications for self-directed learning</article-title>.<source>Adv Health Sci Educ Theory Pract</source>
+<year>2006</year>;<volume>11</volume>:<fpage>235</fpage>&#x02013;<lpage>44</lpage>.
+<pub-id pub-id-type="pmid">16832707</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R30">
+<label>30</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Sargeant</surname>
+<given-names>J</given-names>
+</name>
+<name name-style="western">
+<surname>Mann</surname>
+<given-names>K</given-names>
+</name>
+<name name-style="western">
+<surname>Sinclair</surname>
+<given-names>D</given-names>
+</name>
+<name name-style="western">
+<surname>van der Vleuten</surname>
+<given-names>C</given-names>
+</name>
+<name name-style="western">
+<surname>Metsemakers</surname>
+<given-names>J</given-names>
+</name>
+</person-group>
+<article-title>Challenges in multisource feedback: intended and unintended outcomes</article-title>.<source>Med Educ</source>
+<year>2007</year>;<volume>41</volume>:<fpage>583</fpage>&#x02013;<lpage>91</lpage>.
+<pub-id pub-id-type="pmid">17518839</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R31">
+<label>31</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Overeem</surname>
+<given-names>K</given-names>
+</name>
+<name name-style="western">
+<surname>Wollersheim</surname>
+<given-names>H</given-names>
+</name>
+<name name-style="western">
+<surname>Driessen</surname>
+<given-names>E</given-names>
+</name>
+<name name-style="western">
+<surname>Lombarts</surname>
+<given-names>K</given-names>
+</name>
+<name name-style="western">
+<surname>van de Ven</surname>
+<given-names>G</given-names>
+</name>
+<name name-style="western">
+<surname>Grol</surname>
+<given-names>R</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>Doctors' perceptions of why 360-degree feedback does (not) work: a qualitative study</article-title>.<source>Med Educ</source>
+<year>2009</year>;<volume>43</volume>:<fpage>874</fpage>&#x02013;<lpage>82</lpage>.
+<pub-id pub-id-type="pmid">19709012</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R32">
+<label>32</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Miller</surname>
+<given-names>A</given-names>
+</name>
+<name name-style="western">
+<surname>Archer</surname>
+<given-names>J</given-names>
+</name>
+</person-group>
+<article-title>Impact of workplace based assessment on doctors' education and performance: a systematic review</article-title>.<source>BMJ</source>
+<year>2010</year>;<volume>341</volume>:<fpage>c5064</fpage>.
+<pub-id pub-id-type="pmid">20870696</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R33">
+<label>33</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Weinrich</surname>
+<given-names>MD</given-names>
+</name>
+<name name-style="western">
+<surname>Carline</surname>
+<given-names>ID</given-names>
+</name>
+<name name-style="western">
+<surname>Giles</surname>
+<given-names>LM</given-names>
+</name>
+<name name-style="western">
+<surname>Ramsey</surname>
+<given-names>PG</given-names>
+</name>
+</person-group>
+<article-title>Ratings of the performance of practicing internists by hospital-based registered nurses</article-title>.<source>Acad Med</source>
+<year>1993</year>;<volume>68</volume>:<fpage>680</fpage>&#x02013;<lpage>7</lpage>.
+<pub-id pub-id-type="pmid">8397633</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R34">
+<label>34</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Higgins</surname>
+<given-names>RSD</given-names>
+</name>
+<name name-style="western">
+<surname>Bridges</surname>
+<given-names>J</given-names>
+</name>
+<name name-style="western">
+<surname>Burke</surname>
+<given-names>JM</given-names>
+</name>
+<name name-style="western">
+<surname>O'Donnell</surname>
+<given-names>MA</given-names>
+</name>
+<name name-style="western">
+<surname>Cohen</surname>
+<given-names>N</given-names>
+</name>
+<name name-style="western">
+<surname>Wilkes</surname>
+<given-names>SB</given-names>
+</name>
+</person-group>
+<article-title>Implementing the ACGME general competencies in a cardiothoracic surgery residency program using a 360-degree feedback</article-title>.<source>Ann Thorac Surg</source>
+<year>2004</year>;<volume>77</volume>:<fpage>12</fpage>&#x02013;<lpage>17</lpage>.
+<pub-id pub-id-type="pmid">14726026</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R35">
+<label>35</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Ferguson</surname>
+<given-names>J</given-names>
+</name>
+<name name-style="western">
+<surname>Wakeling</surname>
+<given-names>J</given-names>
+</name>
+<name name-style="western">
+<surname>Bowie</surname>
+<given-names>P</given-names>
+</name>
+</person-group>
+<article-title>Factors influencing the effectiveness of multisource feedback in improving professional practice of medical doctors: a systematic review</article-title>.<source>BMC Med Educ</source>
+<year>2014</year>;<volume>14</volume>:<fpage>76</fpage>.
+<pub-id pub-id-type="pmid">24725268</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R36">
+<label>36</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Wilkinson</surname>
+<given-names>JR</given-names>
+</name>
+<name name-style="western">
+<surname>Crossley</surname>
+<given-names>JG</given-names>
+</name>
+<name name-style="western">
+<surname>Wragg</surname>
+<given-names>A</given-names>
+</name>
+<name name-style="western">
+<surname>Mills</surname>
+<given-names>P</given-names>
+</name>
+<name name-style="western">
+<surname>Cowan</surname>
+<given-names>G</given-names>
+</name>
+<name name-style="western">
+<surname>Wade</surname>
+<given-names>W</given-names>
+</name>
+</person-group>
+<article-title>Implementing workplace-based assessment across medical specialties in the United Kingdom</article-title>.<source>Med Educ</source>
+<year>2008</year>;<volume>42</volume>:<fpage>364</fpage>&#x02013;<lpage>73</lpage>.
+<pub-id pub-id-type="pmid">18338989</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R37">
+<label>37</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Donaldson</surname>
+<given-names>L</given-names>
+</name>
+</person-group>
+<source>Trust, Assurance and Safety &#x02013; The Regulation of Health Professionals in the 21st Century</source>.<publisher-name>Department of Health</publisher-name>,<year>2007</year>.
+</mixed-citation>
+</ref>
+<ref id="R38">
+<label>38</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Violato</surname>
+<given-names>C</given-names>
+</name>
+<name name-style="western">
+<surname>Lockyer</surname>
+<given-names>J</given-names>
+</name>
+</person-group>
+<article-title>An examination of the appropriateness of using a common peer assessment instrument to assess physician skills across specialties</article-title>.<source>Acad Med</source>
+<year>2004</year>;<volume>79</volume>:<fpage>S5</fpage>&#x02013;<lpage>8</lpage>.
+<pub-id pub-id-type="pmid">15383375</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R39">
+<label>39</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Mackillop</surname>
+<given-names>L</given-names>
+</name>
+<name name-style="western">
+<surname>Crossley</surname>
+<given-names>J</given-names>
+</name>
+<name name-style="western">
+<surname>Vivekananda-Schmidt</surname>
+<given-names>P</given-names>
+</name>
+<name name-style="western">
+<surname>Wade</surname>
+<given-names>W</given-names>
+</name>
+<name name-style="western">
+<surname>Armitage</surname>
+<given-names>M</given-names>
+</name>
+</person-group>
 <article-title>A single generic multi-source feedback tool for revalidation of all career-grade doctors: does one size fit all?</article-title>
 <source>Med Teach</source>
-<year>2011</year>; <volume>33</volume>: <fpage>e75</fpage>&#x02013;<lpage>83</lpage>.
-<pub-id pub-id-type="pmid">21275537</pub-id></mixed-citation></ref><ref id="R40"><label>40</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Davies</surname><given-names>H</given-names></name><name name-style="western"><surname>Archer</surname><given-names>J</given-names></name><name name-style="western"><surname>Bateman</surname><given-names>A</given-names></name><name name-style="western"><surname>Dewar</surname><given-names>S</given-names></name><name name-style="western"><surname>Crossley</surname><given-names>J</given-names></name><name name-style="western"><surname>Grant</surname><given-names>J</given-names></name><etal/></person-group>
-<article-title>Specialty-specific multi-source feedback: assuring validity, informing training</article-title>. <source>Med Educ</source>
-<year>2008</year>; <volume>42</volume>: <fpage>1014</fpage>&#x02013;<lpage>20</lpage>.
-<pub-id pub-id-type="pmid">18823521</pub-id></mixed-citation></ref><ref id="R41"><label>41</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><collab>Royal College of Psychiatrists</collab></person-group>
-<source>A Competency Based Curriculum for Specialist Training in Psychiatry: Specialists in Child and Adolescent Psychiatry</source>. <publisher-name>Royal College of Psychiatrists</publisher-name>, <year>2013</year>.
-</mixed-citation></ref><ref id="R42"><label>42</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Lelliott</surname><given-names>P</given-names></name><name name-style="western"><surname>Williams</surname><given-names>R</given-names></name><name name-style="western"><surname>Mears</surname><given-names>A</given-names></name><name name-style="western"><surname>Andiappan</surname><given-names>M</given-names></name><name name-style="western"><surname>Owen</surname><given-names>H</given-names></name><name name-style="western"><surname>Reading</surname><given-names>P</given-names></name><etal/></person-group>
-<article-title>Questionnaire for 360-degree assessment of consultant psychiatrists: development and psychometric properties</article-title>. <source>Br J Psych</source>
-<year>2008</year>; <volume>193</volume>: <fpage>156</fpage>&#x02013;<lpage>60</lpage>.
-</mixed-citation></ref><ref id="R43"><label>43</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Violato</surname><given-names>C</given-names></name><name name-style="western"><surname>Lockyer</surname><given-names>J</given-names></name><name name-style="western"><surname>Fidler</surname><given-names>H</given-names></name></person-group>
-<article-title>Assessment of psychiatrists in practice through multisource feedback</article-title>. <source>Can J Psych</source>
-<year>2008</year>; <volume>53</volume>: <fpage>525</fpage>&#x02013;<lpage>33</lpage>.
-</mixed-citation></ref><ref id="R44"><label>44</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><collab>American Board of Pediatrics</collab></person-group>
-<article-title>Appendix F: Professionalism</article-title>. In <source>Program Director's Guide to the ABP: Resident Evaluation, Tracking and Certification</source>. <publisher-name>American Board of Pediatrics</publisher-name>, <year>2003</year>.
-</mixed-citation></ref><ref id="R45"><label>45</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Fallat</surname><given-names>M</given-names></name><name name-style="western"><surname>Glover</surname><given-names>G</given-names></name><collab>American Academy of Pediatrics</collab><collab>Committee on Bioethics</collab></person-group>
-<article-title>Professionalism in pediatrics</article-title>. <source>Pediatrics</source>
-<year>2007</year>; <volume>120</volume>: <fpage>e1123</fpage>&#x02013;<lpage>33</lpage>.
-<pub-id pub-id-type="pmid">17908731</pub-id></mixed-citation></ref><ref id="R46"><label>46</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Wright</surname><given-names>C</given-names></name><name name-style="western"><surname>Richards</surname><given-names>S</given-names></name><name name-style="western"><surname>Hill</surname><given-names>J</given-names></name><name name-style="western"><surname>Roberts</surname><given-names>M</given-names></name><name name-style="western"><surname>Norman</surname><given-names>G</given-names></name><name name-style="western"><surname>Greco</surname><given-names>M</given-names></name><etal/></person-group>
-<article-title>Multisource feedback in evaluating the performance of doctors: the example of the UK General Medical Council patient and colleague questionnaires</article-title>. <source>Acad Med</source>
-<year>2012</year>; <volume>87</volume>: <fpage>1668</fpage>&#x02013;<lpage>78</lpage>.
-<pub-id pub-id-type="pmid">23095930</pub-id></mixed-citation></ref></ref-list></back></article>
+<year>2011</year>;<volume>33</volume>:<fpage>e75</fpage>&#x02013;<lpage>83</lpage>.
+<pub-id pub-id-type="pmid">21275537</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R40">
+<label>40</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Davies</surname>
+<given-names>H</given-names>
+</name>
+<name name-style="western">
+<surname>Archer</surname>
+<given-names>J</given-names>
+</name>
+<name name-style="western">
+<surname>Bateman</surname>
+<given-names>A</given-names>
+</name>
+<name name-style="western">
+<surname>Dewar</surname>
+<given-names>S</given-names>
+</name>
+<name name-style="western">
+<surname>Crossley</surname>
+<given-names>J</given-names>
+</name>
+<name name-style="western">
+<surname>Grant</surname>
+<given-names>J</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>Specialty-specific multi-source feedback: assuring validity, informing training</article-title>.<source>Med Educ</source>
+<year>2008</year>;<volume>42</volume>:<fpage>1014</fpage>&#x02013;<lpage>20</lpage>.
+<pub-id pub-id-type="pmid">18823521</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R41">
+<label>41</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<collab>Royal College of Psychiatrists</collab>
+</person-group>
+<source>A Competency Based Curriculum for Specialist Training in Psychiatry: Specialists in Child and Adolescent Psychiatry</source>.<publisher-name>Royal College of Psychiatrists</publisher-name>,<year>2013</year>.
+</mixed-citation>
+</ref>
+<ref id="R42">
+<label>42</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Lelliott</surname>
+<given-names>P</given-names>
+</name>
+<name name-style="western">
+<surname>Williams</surname>
+<given-names>R</given-names>
+</name>
+<name name-style="western">
+<surname>Mears</surname>
+<given-names>A</given-names>
+</name>
+<name name-style="western">
+<surname>Andiappan</surname>
+<given-names>M</given-names>
+</name>
+<name name-style="western">
+<surname>Owen</surname>
+<given-names>H</given-names>
+</name>
+<name name-style="western">
+<surname>Reading</surname>
+<given-names>P</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>Questionnaire for 360-degree assessment of consultant psychiatrists: development and psychometric properties</article-title>.<source>Br J Psych</source>
+<year>2008</year>;<volume>193</volume>:<fpage>156</fpage>&#x02013;<lpage>60</lpage>.
+</mixed-citation>
+</ref>
+<ref id="R43">
+<label>43</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Violato</surname>
+<given-names>C</given-names>
+</name>
+<name name-style="western">
+<surname>Lockyer</surname>
+<given-names>J</given-names>
+</name>
+<name name-style="western">
+<surname>Fidler</surname>
+<given-names>H</given-names>
+</name>
+</person-group>
+<article-title>Assessment of psychiatrists in practice through multisource feedback</article-title>.<source>Can J Psych</source>
+<year>2008</year>;<volume>53</volume>:<fpage>525</fpage>&#x02013;<lpage>33</lpage>.
+</mixed-citation>
+</ref>
+<ref id="R44">
+<label>44</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<collab>American Board of Pediatrics</collab>
+</person-group>
+<article-title>Appendix F: Professionalism</article-title>. In <source>Program Director's Guide to the ABP: Resident Evaluation, Tracking and Certification</source>.<publisher-name>American Board of Pediatrics</publisher-name>,<year>2003</year>.
+</mixed-citation>
+</ref>
+<ref id="R45">
+<label>45</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Fallat</surname>
+<given-names>M</given-names>
+</name>
+<name name-style="western">
+<surname>Glover</surname>
+<given-names>G</given-names>
+</name>
+<collab>American Academy of Pediatrics</collab>
+<collab>Committee on Bioethics</collab>
+</person-group>
+<article-title>Professionalism in pediatrics</article-title>.<source>Pediatrics</source>
+<year>2007</year>;<volume>120</volume>:<fpage>e1123</fpage>&#x02013;<lpage>33</lpage>.
+<pub-id pub-id-type="pmid">17908731</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R46">
+<label>46</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Wright</surname>
+<given-names>C</given-names>
+</name>
+<name name-style="western">
+<surname>Richards</surname>
+<given-names>S</given-names>
+</name>
+<name name-style="western">
+<surname>Hill</surname>
+<given-names>J</given-names>
+</name>
+<name name-style="western">
+<surname>Roberts</surname>
+<given-names>M</given-names>
+</name>
+<name name-style="western">
+<surname>Norman</surname>
+<given-names>G</given-names>
+</name>
+<name name-style="western">
+<surname>Greco</surname>
+<given-names>M</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>Multisource feedback in evaluating the performance of doctors: the example of the UK General Medical Council patient and colleague questionnaires</article-title>.<source>Acad Med</source>
+<year>2012</year>;<volume>87</volume>:<fpage>1668</fpage>&#x02013;<lpage>78</lpage>.
+<pub-id pub-id-type="pmid">23095930</pub-id>
+</mixed-citation>
+</ref>
+</ref-list>
+</back>
+</article>

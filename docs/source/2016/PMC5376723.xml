@@ -1,95 +1,1037 @@
-<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
-<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-journalpublishing1.dtd?><?SourceDTD.Version 1.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">BJPsych Bull</journal-id><journal-id journal-id-type="iso-abbrev">BJPsych Bull</journal-id><journal-id journal-id-type="hwp">pbrcpsych</journal-id><journal-title-group><journal-title>BJPsych Bulletin</journal-title></journal-title-group><issn pub-type="ppub">2056-4694</issn><issn pub-type="epub">2056-4708</issn><publisher><publisher-name>Royal College of Psychiatrists</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">5376723</article-id><article-id pub-id-type="doi">10.1192/pb.bp.115.052761</article-id><article-categories><subj-group subj-group-type="heading"><subject>Original Papers</subject></subj-group></article-categories><title-group><article-title>Online media reporting of suicides: analysis of adherence to existing guidelines</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Utterson</surname><given-names>Michael</given-names></name><xref ref-type="aff" rid="A1">1</xref><xref ref-type="corresp" rid="cor1"/></contrib><contrib contrib-type="author"><name><surname>Daoud</surname><given-names>Jason</given-names></name><xref ref-type="aff" rid="A2">2</xref></contrib><contrib contrib-type="author"><name><surname>Dutta</surname><given-names>Rina</given-names></name><xref ref-type="aff" rid="A2">2</xref></contrib></contrib-group><aff id="A1"><label>1</label>South London and Maudsley NHS Foundation Trust</aff><aff id="A2"><label>2</label>King's College London</aff><author-notes><corresp id="cor1">
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article">    <?properties open_access?>    <?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN?>    <?DTDIdentifier.IdentifierType public?>    <?SourceDTD.DTDName JATS-journalpublishing1.dtd?>    <?SourceDTD.Version 1.0?>    <?ConverterInfo.XSLTName jp2nlmx2.xsl?>    <?ConverterInfo.Version 1?>
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="nlm-ta">BJPsych Bull</journal-id>
+            <journal-id journal-id-type="iso-abbrev">BJPsych Bull</journal-id>
+            <journal-id journal-id-type="hwp">pbrcpsych</journal-id>
+            <journal-title-group>
+                <journal-title>BJPsych Bulletin</journal-title>
+            </journal-title-group>
+            <issn pub-type="ppub">2056-4694</issn>
+            <issn pub-type="epub">2056-4708</issn>
+            <publisher>
+                <publisher-name>Royal College of Psychiatrists</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="pmcid">5376723</article-id>
+            <article-id pub-id-type="doi">10.1192/pb.bp.115.052761</article-id>
+            <article-categories>
+                <subj-group subj-group-type="heading">
+                    <subject>Original Papers</subject>
+                </subj-group>
+            </article-categories>
+            <title-group>
+                <article-title>Online media reporting of suicides: analysis of adherence to existing guidelines</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Utterson</surname>
+                        <given-names>Michael</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                    <xref ref-type="corresp" rid="cor1" />
+                </contrib>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Daoud</surname>
+                        <given-names>Jason</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A2">2</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Dutta</surname>
+                        <given-names>Rina</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A2">2</xref>
+                </contrib>
+            </contrib-group>
+            <aff id="A1">
+                <label>1</label>South London and Maudsley NHS Foundation Trust</aff>
+            <aff id="A2">
+                <label>2</label>King's College London</aff>
+            <author-notes>
+                <corresp id="cor1">
 Correspondence to Michael Utterson (<email>michael.utterson@doctors.org.uk</email>)
-</corresp><fn><p><bold>Michael Utterson</bold>, core psychiatry trainee, South London and Maudsley NHS Foundation Trust, London; <bold>Jason Daoud</bold>, medical student, King's College London School of Medicine; <bold>Rina Dutta</bold>, clinical senior lecturer/consultant psychiatrist, Academic Department of Psychological Medicine, King's College London.</p></fn></author-notes><pub-date pub-type="ppub"><month>4</month><year>2017</year></pub-date><volume>41</volume><issue>2</issue><fpage>83</fpage><lpage>86</lpage><history><date date-type="received"><day>1</day><month>10</month><year>2015</year></date><date date-type="rev-recd"><day>1</day><month>2</month><year>2016</year></date><date date-type="accepted"><day>21</day><month>4</month><year>2016</year></date></history><permissions><copyright-statement>&#x000a9; 2017 The Royal College of Psychiatrists</copyright-statement><copyright-year>2017</copyright-year><license license-type="creative-commons" xlink:href="http://creativecommons.org/licenses/by/4.0"><license-p>This is an open-access article published by the Royal College of Psychiatrists and distributed under the terms of the Creative Commons Attribution License (<uri xlink:href="http://creativecommons.org/licenses/by/4.0">http://creativecommons.org/licenses/by/4.0</uri>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xlink:title="pdf" xlink:href="83.pdf"/><abstract><p id="P1"><bold>Aims and method</bold> To assess the compliance of contemporary online media output with guidelines for the responsible reporting of suicidal acts. A search engine was used to identify online media reports of suicide from UK sources over the course of 1 month. Each article was assessed against guidelines for the responsible reporting of suicide produced by the Samaritans, a UK mental health charity.</p><p id="P2"><bold>Results</bold> We identified 229 articles, of which 199 failed to comply with at least one of the Samaritans' guidelines. Failure to mention support sources, excessive detail about the method used and undue speculation about the trigger for suicide were the most commonly breached guidelines. Significant differences were found between the quality of local and national media sources, with local media sources being broadly more compliant with guidelines.</p><p id="P3"><bold>Clinical implications</bold> This study highlights the urgent need for the implementation of responsible reporting guidelines in online media articles as a component of suicide prevention efforts.</p></abstract></article-meta></front><body><p id="P4">Responsible media reporting of suicide is considered to be key to current international suicide prevention efforts.<sup><xref rid="R1" ref-type="bibr">1</xref></sup> Previous studies suggest that media reports of completed suicide can influence the rate of future suicidal acts and the method chosen.<sup><xref rid="R2" ref-type="bibr">2</xref>&#x02013;<xref rid="R6" ref-type="bibr">6</xref></sup></p><p id="P5">Guidelines to promote responsible reporting practices exist in a number of countries.<sup><xref rid="R7" ref-type="bibr">7</xref></sup> Studies suggest that they can alter the content of media reports,<sup><xref rid="R8" ref-type="bibr">8</xref></sup> although the general awareness and use of the guidelines has been found to be poor.<sup><xref rid="R9" ref-type="bibr">9</xref></sup> In the UK, the 2012 Editors' Code of Practice from the Press Complaints Commission prohibits the reporting of suicide with excessive detail about the method used,<sup><xref rid="R10" ref-type="bibr">10</xref></sup> but established responsible reporting guidelines tend to include additional features in an attempt to prevent copycat behaviour.<sup><xref rid="R11" ref-type="bibr">11</xref></sup></p><p id="P6">After a detailed literature review, no studies could be found comparing a significant number of contemporary UK media reports of suicide against responsible reporting guidelines, despite the fact that the media have been implicated in the phenomenon of &#x02018;suicide clustering&#x02019; observed in the UK.<sup><xref rid="R12" ref-type="bibr">12</xref></sup> Other studies have focused on newspaper and television reports, and scant attention has been paid to online media sources, despite the fact that 84% of households in the UK have access to the internet and 55% of adults use the internet to access news.<sup><xref rid="R13" ref-type="bibr">13</xref></sup> This is the most rapidly growing method of accessing news media, particularly for younger individuals,<sup><xref rid="R13" ref-type="bibr">13</xref></sup> who may be more vulnerable to the content of media reporting.<sup><xref rid="R14" ref-type="bibr">14</xref>,<xref rid="R15" ref-type="bibr">15</xref></sup></p><p id="P7">This study sought to evaluate the compliance of online media reports of suicidal acts from UK-based sources with responsible reporting guidelines, and to identify the prevalence of the inclusion of other potentially harmful features of online media, namely comments sections and links to other internet features, for example pro-suicide websites.</p><sec sec-type="methods" id="S1"><title>Method</title><p id="P8">A search was performed on the Google News UK search engine using the keyword &#x02018;suicide&#x02019; with the location filter set to include articles of UK provenance only. The analysis included reports which made reference to an attempted or completed suicide published by local and national media sources during 28 consecutive days in November 2014. Articles about suicide bombing and euthanasia were excluded, as were those behind a media paywall.</p><p id="P9">Each report meeting the inclusion criteria was assessed against an adapted version of the &#x02018;Ten things to remember when reporting suicide&#x02019; contained in the document issued by the Samaritans.<sup><xref rid="R16" ref-type="bibr">16</xref></sup> This is one of the more prominent and widely used sets of guidelines for journalists in the UK.<sup><xref rid="R17" ref-type="bibr">17</xref></sup> As a direct search for articles was undertaken, it was not possible to assess whether each article was given undue prominence, for instance a homepage splash, so this criterion from the Samaritans' guidelines was not used, leaving nine criteria for article comparison (<xref ref-type="boxed-text" rid="box1">Box 1</xref>).</p><p id="P10">Data were collected on compliance with each section of the guidelines and those meeting all criteria were considered to be compliant with responsible reporting of suicide. Analysis was undertaken to determine the overall compliance with guidelines, the frequency with which each guideline was breached, and whether there were any differences based on whether articles originated from a local or a national media source. Differences between local and national media sources in the proportion of articles breaching any guidelines were calculated using the chi-squared test. Data analysis was performed in STATA 11 for Windows XP.</p><boxed-text id="box1" position="float" orientation="portrait"><p id="P11"><bold>Box 1</bold> Guidelines for the reporting of suicide assessed in the study. Adapted from the Samaritans<sup><xref rid="R16" ref-type="bibr">16</xref></sup></p><list list-type="order"><list-item><p id="P12">Leave out technical details about the method of suicide, such as describing the type of ligature used or the number and types of pills taken in an overdose. Never suggest that a method is quick, easy, painless or certain to result in death.</p></list-item><list-item><p id="P13">Language matters. Avoid dramatic headlines and terms such as &#x02018;suicide epidemic&#x02019; or &#x02018;hot spot&#x02019;.</p></list-item><list-item><p id="P14">Include references to support groups and places where suicidal people can find help.</p></list-item><list-item><p id="P15">Treat social media with particular caution and refrain from mentioning websites or networks that promote or glamorise suicide.</p></list-item><list-item><p id="P16">Avoid dramatic or sensationalist pictures or video. Refrain from including content from suicide notes.</p></list-item><list-item><p id="P17">Do not give undue prominence to photographs of a young person who has died and avoid repeated use of images such as galleries.</p></list-item><list-item><p id="P18">Do not brush over the complex realities of suicide and its impact on those left behind.</p></list-item><list-item><p id="P19">Speculation about the &#x02018;trigger&#x02019; for a suicide, even if provided by a close family member, should be avoided.</p></list-item><list-item><p id="P20">Use statistics with caution. Make sure you have the most recent data and are comparing like with like.</p></list-item></list></boxed-text><p id="P21">In addition to comparison against the Samaritans' guidelines, the inclusion of user-generated comments, threads and internet links to other articles was noted.</p></sec><sec sec-type="results" id="S2"><title>Results</title><p id="P22">Overall, 229 articles met the inclusion criteria: 68 articles from local media sources and 161 articles from national media sources. The majority (214 articles) came from media organisations which offer both a print and online platform, with national publications such as the <italic>Guardian</italic>, the <italic>Telegraph</italic> and the <italic>Daily Mail</italic> making up the bulk of national media output, and an array of smaller local outlets each contributing a smaller number of articles to the total. Fifteen articles were found in a range of online-only outlets such as the International Business Times, Yahoo UK, The Huffington Post and Wales Online. Ten articles were found on the websites of media network providers such as the BBC, ITV and STV.</p><sec id="S3"><title>Compliance with the responsible reporting guidelines</title><p id="P23">Of the 229 online articles included for analysis, 199 (86.9%) breached at least one of the Samaritans' guidelines. The mean number of guideline breaches per article was 2.2, with only a small variation between local and national media sources (2.1 <italic>v.</italic> 2.2 breaches per article, respectively; <italic>P</italic> = 0.08).</p><p id="P24">The most commonly breached aspects of the guidelines were a failure to include reference to sources of support for those considering suicide (69.4%), the inclusion of excessive technical detail about the method used (31%) and undue speculation about the reasons for suicide (30.1%) (<xref ref-type="table" rid="T1">Table 1</xref>). The other guidelines were breached in less than 25% of articles, with just 2 articles mentioning organisations that promote suicide and 1 article using statistics irresponsibly, telling readers the proportion of people completing suicide after jumping from a well-known landmark.</p><table-wrap id="T1" orientation="portrait" position="float"><label>Table 1</label><caption><p>Compliance with reporting guidelines</p></caption><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" valign="middle" span="1"/><col align="left" valign="middle" span="1"/><col align="left" valign="middle" span="1"/><col align="left" valign="middle" span="1"/><col align="left" valign="middle" span="1"/></colgroup><thead><tr><th rowspan="1" colspan="1"/><th align="center" valign="bottom" rowspan="1" colspan="1">All sources</th><th align="center" valign="bottom" rowspan="1" colspan="1">Local</th><th align="center" valign="bottom" rowspan="1" colspan="1">National</th><th align="center" valign="bottom" rowspan="1" colspan="1">Difference between<break/>local and national<break/><italic>P</italic></th></tr></thead><tbody><tr><td rowspan="1" colspan="1">Articles, <italic>n</italic></td><td rowspan="1" colspan="1">229</td><td rowspan="1" colspan="1">68</td><td rowspan="1" colspan="1">161</td><td align="center" rowspan="1" colspan="1">&#x02013;</td></tr><tr><td colspan="5" rowspan="1"><hr/></td></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x02a7e;1 breach, <italic>n</italic> (%)</td><td rowspan="1" colspan="1">199 (86.9)</td><td rowspan="1" colspan="1">55 (80.9)</td><td rowspan="1" colspan="1">144 (89.4)</td><td rowspan="1" colspan="1">0.08</td></tr><tr><td colspan="5" rowspan="1"><hr/></td></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Breaches per article, mean</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;2.2</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;2.1</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;2.2</td><td align="center" rowspan="1" colspan="1">&#x02013;</td></tr><tr><td colspan="5" rowspan="1"><hr/></td></tr><tr><td rowspan="1" colspan="1">Specific guideline breaches, <italic>n</italic> (%)</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td colspan="5" rowspan="1"><hr/></td></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;1. Excessive technical detail about the method</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;71 (31.0)</td><td rowspan="1" colspan="1">25 (36.8)</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;46 (28.6)</td><td rowspan="1" colspan="1">0.22</td></tr><tr><td colspan="5" rowspan="1"><hr/></td></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;2. Sensationalist or irresponsible language</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;38 (16.6)</td><td rowspan="1" colspan="1">20 (14.7)</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;28 (17.4)</td><td rowspan="1" colspan="1">0.04<xref ref-type="table-fn" rid="TFN1">*</xref></td></tr><tr><td colspan="5" rowspan="1"><hr/></td></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;3. No sources of support</td><td rowspan="1" colspan="1">159 (69.4)</td><td rowspan="1" colspan="1">48 (70.6)</td><td rowspan="1" colspan="1">111 (68.9)</td><td rowspan="1" colspan="1">0.81</td></tr><tr><td colspan="5" rowspan="1"><hr/></td></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;4. Mentioning places that promote or glamorise suicide</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;2 (0.9)</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;0 (0)</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;2 (1.2)</td><td rowspan="1" colspan="1">0.36</td></tr><tr><td colspan="5" rowspan="1"><hr/></td></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;5. Dramatic pictures, videos, content of suicide notes</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;41 (17.9)</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;6 (8.8)</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;35 (21.7)</td><td rowspan="1" colspan="1">0.02<xref ref-type="table-fn" rid="TFN1">*</xref></td></tr><tr><td colspan="5" rowspan="1"><hr/></td></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;6. Picture galleries</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;30 (13.1)</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;1 (1.5)</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;30 (18.6)</td><td rowspan="1" colspan="1">0.001<xref ref-type="table-fn" rid="TFN2">**</xref></td></tr><tr><td colspan="5" rowspan="1"><hr/></td></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;7. Narrative brushes over the complex realities of suicide</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;20 (8.7)</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;5 (7.4)</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;15 (9.3)</td><td rowspan="1" colspan="1">0.63</td></tr><tr><td colspan="5" rowspan="1"><hr/></td></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;8. Undue speculation about the triggers</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;69 (30.1)</td><td rowspan="1" colspan="1">18 (26.4)</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;51 (31.7)</td><td rowspan="1" colspan="1">0.43</td></tr><tr><td colspan="5" rowspan="1"><hr/></td></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;9. Irresponsible use of statistics</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;1 (0.4)</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;0 (0)</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;1 (0.6)</td><td rowspan="1" colspan="1">0.52</td></tr></tbody></table><table-wrap-foot><fn id="TFN1"><label>*</label><p><italic>P</italic> &#x0003c; 0.05,</p></fn><fn id="TFN2"><label>**</label><p><italic>P</italic> &#x0003c; 0.01.</p></fn></table-wrap-foot></table-wrap></sec><sec id="S4"><title>Additional features of online media</title><p id="P25">Sixty-four articles included additional features which could contribute to readers encountering unsuitable material, such as the inclusion of user-generated comments sections and links to other articles which may similarly be poorly adherent to reporting guidelines (<xref ref-type="table" rid="T2">Table 2</xref>).</p><table-wrap id="T2" orientation="portrait" position="float"><label>Table 2</label><caption><p>Articles with additional adverse features</p></caption><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" valign="middle" span="1"/><col align="left" valign="middle" span="1"/><col align="center" valign="middle" span="1"/><col align="center" valign="middle" span="1"/><col align="right" valign="middle" span="1"/></colgroup><thead><tr><th rowspan="1" colspan="1"/><th align="center" valign="bottom" rowspan="1" colspan="1">All sources<break/><italic>n</italic> (%)</th><th valign="bottom" rowspan="1" colspan="1">Local<break/><italic>n</italic> (%)</th><th valign="bottom" rowspan="1" colspan="1">National<break/><italic>n</italic> (%)</th><th align="center" valign="bottom" rowspan="1" colspan="1"><italic>P</italic></th></tr></thead><tbody><tr><td rowspan="1" colspan="1">Articles with additional adverse features</td><td rowspan="1" colspan="1">64 (27.9)</td><td rowspan="1" colspan="1">11 (16.2)</td><td rowspan="1" colspan="1">53 (32.9)</td><td rowspan="1" colspan="1"><xref ref-type="table-fn" rid="TFN3">*</xref>0.01</td></tr><tr><td colspan="5" rowspan="1"><hr/></td></tr><tr><td rowspan="1" colspan="1">Links to other articles about suicide</td><td rowspan="1" colspan="1">37 (16.2)</td><td rowspan="1" colspan="1">5 (7.4)</td><td rowspan="1" colspan="1">32 (19.9)</td><td rowspan="1" colspan="1"><xref ref-type="table-fn" rid="TFN3">*</xref>0.02</td></tr><tr><td colspan="5" rowspan="1"><hr/></td></tr><tr><td rowspan="1" colspan="1">User-generated comment threads</td><td rowspan="1" colspan="1">39 (17)</td><td rowspan="1" colspan="1">7 (10.3)</td><td rowspan="1" colspan="1">32 (19.9)</td><td rowspan="1" colspan="1">0.08</td></tr></tbody></table><table-wrap-foot><fn id="TFN3"><label>*</label><p><italic>P</italic> &#x0003c; 0.05.</p></fn></table-wrap-foot></table-wrap></sec></sec><sec sec-type="discussion" id="S5"><title>Discussion</title><p id="P26">This study evaluated the compliance of 229 online reports of suicide with the guidelines issued by the Samaritans. To our knowledge, this is the first study looking at the content of online media reports of suicide and the first in the UK looking at a selection of contemporary media output. Of note, the majority of articles included in the study failed to meet the Samaritans' guidelines for the responsible reporting of suicide. The results support findings from the limited number of studies undertaken elsewhere in the world that suggest media reporting of suicide is poorly compliant with available guidelines.<sup><xref rid="R18" ref-type="bibr">18</xref>&#x02013;<xref rid="R21" ref-type="bibr">21</xref></sup></p><p id="P27">Of particular concern is the finding that 69.4% of reports failed to include a reference to a potential source of support for those readers who may be experiencing suicidal thoughts themselves; this was consistent across local and national sources. Lack of responsible information awareness and signposting support undermines suicide prevention efforts and fails to provide an alternative perspective to the often distressing narrative of articles. The finding that most articles omit references to support groups has been replicated in other studies from around the world: just 1% of Indian newspaper sources,<sup><xref rid="R19" ref-type="bibr">19</xref></sup> 3% of US sources<sup><xref rid="R21" ref-type="bibr">21</xref></sup> and 8.6% of Chinese sources<sup><xref rid="R8" ref-type="bibr">8</xref></sup> included a reference to a support group.</p><p id="P28">Our finding that 31% of articles contained an excessive level of detail about methods used to complete a suicide is a significant cause for concern. The experience in other countries supports the idea that publication of suicide methods can perpetuate attempts and trends in methods chosen by others in &#x02018;copycat suicides&#x02019;.<sup><xref rid="R2" ref-type="bibr">2</xref>&#x02013;<xref rid="R5" ref-type="bibr">5</xref>,<xref rid="R22" ref-type="bibr">22</xref></sup> In the course of assessing media reports for this study, the inclusion of details about the blood concentration of cyanide to achieve death, and the exact location and time of suicides by train, as well as details of places where suicides by jumping were completed, were all noted.</p><p id="P29">The finding that 30.1% of articles engaged in speculation about the reason for suicide was also a cause for concern. The journalistic tendency to simplify the reasons behind a suicidal act or engage in undue speculation about the surrounding circumstances can have a damaging impact on the bereaved family<sup><xref rid="R17" ref-type="bibr">17</xref></sup> as well as readers who may over-identify with the person mentioned in the article, potentially increasing the deleterious impact for vulnerable individuals. This tendency to make articles more &#x02018;readable&#x02019; may also be reflected in the fact that 8.7% of articles brushed over the complex realities of suicide, often failing to mention the family left behind or the impact of the suicidal act on others.</p><p id="P30">That being said, only one report included the irresponsible use of statistics and only two reports directed readers towards pro-suicide websites.</p><p id="P31">A qualitative observation was that where a particular fact about a suicide attempt is known, it will usually feature in other articles from other outlets about the same act. For example, very specific details about a method used were usually re-reported in all articles discussing the same event without due regard for the reporting guidelines.</p><sec id="S6"><title>Local <italic>v.</italic> national media sources</title><p id="P32">When comparing reporting by national and local media sources, local sources were overall more compliant with guidelines, with significant differences in the use of sensationalist language, dramatic pictures, videos or the content of suicide notes and the use of galleries, as well as the use of additional features of online media. The exact reason for the broadly better compliance with guidelines among local sources is not fully understood, but it may be because local media sources are closer to the subject of the article and local reporters may be more sensitive to the feelings of the bereaved family and local community.</p></sec><sec id="S7"><title>Additional features of online media</title><p id="P33">The unique additional features of online media (compared, for example, with newspaper articles or television reports) could also compound their negative impact on readers; 16% of articles included links to other reports of suicide. Our finding that a majority of articles about suicide fail to meet responsible reporting guidelines and that the mean number of guideline breaches is 2.2 per article raises the possibility that the negative impact of irresponsible reporting is likely to be amplified by the inclusion of links to other potentially non-compliant reports.</p><p id="P34">Previous findings that discussion forums can increase suicidality among younger users<sup><xref rid="R23" ref-type="bibr">23</xref></sup> suggest that the addition of comments sections which can facilitate discussion should be avoided with online reports of suicide. Despite this, 17% of analysed reports had a comments section for user-generated content, and concerning comments such as the deceased person being &#x02018;brave&#x02019; or &#x02018;at peace now&#x02019; were frequently a feature of these.</p></sec><sec id="S8"><title>Policy considerations</title><p id="P35">There is an evident need to evaluate the reasons for journalistic non-compliance with the existing guidelines of suicide reporting in the UK. Given the increasing use of online media and the apparent poor quality of reporting, there is a need to focus efforts on increasing the compliance of reports with responsible reporting guidelines. Suitable measures should also be established for non-compliant and potentially harmful articles to be flagged for urgent review.</p></sec><sec id="S9"><title>Limitations</title><p id="P36">Although a standardised tool was used to identify breaches of media guidelines, judgements about breaches were not cross-checked between researchers. In addition, although the search sought to capture publications over a period of time, this work cannot account for potential seasonal changes in data.</p></sec><sec id="S10"><title>Next steps</title><p id="P37">The present study uncovers an urgent need to address the fact that the majority of online articles assessed do not comply with existing guidelines on the responsible reporting of suicide. It highlights a significant public health concern because potentially vulnerable people have access to material which may provoke suicidal behaviours and which does not signpost them to support resources. Given the increasing weight of evidence that media reporting can affect suicide rates, there is an urgent need for the implementation of responsible reporting guidelines in online media articles. We propose that work be done to clarify and publicise the guidelines, and to train and encourage journalists to use them, and that a strong consideration be given to the role of more formal regulation and monitoring.</p></sec></sec></body><back><fn-group><fn fn-type="COI-statement"><p><bold>Declaration of interest</bold> None.</p></fn></fn-group><ref-list><title>References</title><ref id="R1"><label>1</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><collab>World Health Organization</collab></person-group>
-<source>Preventing Suicide: A Global Imperative</source>. <publisher-name>WHO</publisher-name>, <year>2014</year> (<uri xlink:href="http://apps.who.int/iris/bitstream/10665/131056/1/9789241564779_eng.pdf">http://apps.who.int/iris/bitstream/10665/131056/1/9789241564779_eng.pdf</uri>).
-</mixed-citation></ref><ref id="R2"><label>2</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Pirkis</surname><given-names>J</given-names></name><name name-style="western"><surname>Blood</surname><given-names>R</given-names></name></person-group>
-<article-title>Suicide and the media. Part I: reportage in nonfictional media</article-title>. <source>Crisis</source>
-<year>2001</year>; <volume>22</volume>: <fpage>146</fpage>&#x02013;<lpage>54</lpage>.
-<pub-id pub-id-type="pmid">11848658</pub-id></mixed-citation></ref><ref id="R3"><label>3</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Stack</surname><given-names>S</given-names></name></person-group>
-<article-title>Suicide in the media: a quantitative review of studies based on non-fictional stories</article-title>. <source>Suicide Life Threat Behav</source>
-<year>2005</year>; <volume>35</volume>: <fpage>121</fpage>&#x02013;<lpage>33</lpage>.
-<pub-id pub-id-type="pmid">15843330</pub-id></mixed-citation></ref><ref id="R4"><label>4</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Yoshioka</surname><given-names>E</given-names></name><name name-style="western"><surname>Hanley</surname><given-names>SJ</given-names></name><name name-style="western"><surname>Kawanishi</surname><given-names>Y</given-names></name><name name-style="western"><surname>Saijo</surname><given-names>Y</given-names></name></person-group>
-<article-title>Epidemic of charcoal burning suicide in Japan</article-title>. <source>Br J Psychiatry</source>
-<year>2014</year>; <volume>204</volume>: <fpage>274</fpage>&#x02013;<lpage>82</lpage>.
-<pub-id pub-id-type="pmid">24434075</pub-id></mixed-citation></ref><ref id="R5"><label>5</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Niederkrotenthaler</surname><given-names>T</given-names></name><name name-style="western"><surname>Voracek</surname><given-names>M</given-names></name><name name-style="western"><surname>Herberth</surname><given-names>A</given-names></name><name name-style="western"><surname>Till</surname><given-names>B</given-names></name><name name-style="western"><surname>Strauss</surname><given-names>M</given-names></name><name name-style="western"><surname>Etzersdorfer</surname><given-names>E</given-names></name><etal/></person-group>
-<article-title>Role of media reports in completed and prevented suicide: Werther <italic>v.</italic> Papageno effects</article-title>. <source>Br J Psychiatry</source>
-<year>2010</year>; <volume>197</volume>: <fpage>234</fpage>&#x02013;<lpage>43</lpage>.
-<pub-id pub-id-type="pmid">20807970</pub-id></mixed-citation></ref><ref id="R6"><label>6</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Sisask</surname><given-names>M</given-names></name><name name-style="western"><surname>Varnik</surname><given-names>A</given-names></name></person-group>
-<article-title>Media roles in suicide prevention: a systematic review</article-title>. <source>Int J Environ Res Public Health</source>
-<year>2012</year>; <volume>9</volume>: <fpage>123</fpage>&#x02013;<lpage>38</lpage>.
-<pub-id pub-id-type="pmid">22470283</pub-id></mixed-citation></ref><ref id="R7"><label>7</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Pirkis</surname><given-names>J</given-names></name><name name-style="western"><surname>Machlin</surname><given-names>A</given-names></name></person-group>
-<article-title>Differing perspectives on what is important in media reporting of suicide</article-title>. <source>Br J Psychiatry</source>
-<year>2013</year>; <volume>203</volume>: <fpage>168</fpage>&#x02013;<lpage>9</lpage>.
-<pub-id pub-id-type="pmid">23999479</pub-id></mixed-citation></ref><ref id="R8"><label>8</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Fu</surname><given-names>K</given-names></name><name name-style="western"><surname>Yip</surname><given-names>P</given-names></name></person-group>
-<article-title>Changes in reporting of suicide news after the promotion of the WHO media recommendations</article-title>. <source>Suicide Life Threat Behav</source>
-<year>2008</year>; <volume>38</volume>: <fpage>631</fpage>&#x02013;<lpage>6</lpage>.
-<pub-id pub-id-type="pmid">19014313</pub-id></mixed-citation></ref><ref id="R9"><label>9</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Bohanna</surname><given-names>I</given-names></name><name name-style="western"><surname>Wang</surname><given-names>X</given-names></name></person-group>
-<article-title>Media guidelines for the responsible reporting of suicide: a review of effectiveness</article-title>. <source>Crisis</source>
-<year>2012</year>; <volume>33</volume>: <fpage>190</fpage>&#x02013;<lpage>8</lpage>.
-<pub-id pub-id-type="pmid">22713977</pub-id></mixed-citation></ref><ref id="R10"><label>10</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><collab>The Press Complaints Commission</collab></person-group>
-<source>Editors' Code of Practice</source>. <publisher-name>PCC</publisher-name>, <year>2011</year> (<uri xlink:href="http://www.pcc.org.uk/assets/696/Code_of_Practice_2012_A4.pdf">http://www.pcc.org.uk/assets/696/Code_of_Practice_2012_A4.pdf</uri>).
-</mixed-citation></ref><ref id="R11"><label>11</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Pirkis</surname><given-names>J</given-names></name><name name-style="western"><surname>Blood</surname><given-names>RW</given-names></name><name name-style="western"><surname>Beautrais</surname><given-names>A</given-names></name><name name-style="western"><surname>Burgess</surname><given-names>P</given-names></name><name name-style="western"><surname>Skehans</surname><given-names>J</given-names></name></person-group>
-<article-title>Media guidelines on the reporting of suicide</article-title>. <source>Crisis</source>
-<year>2006</year>; <volume>27</volume>: <fpage>82</fpage>&#x02013;<lpage>7</lpage>.
-<pub-id pub-id-type="pmid">16913330</pub-id></mixed-citation></ref><ref id="R12"><label>12</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Jones</surname><given-names>P</given-names></name><name name-style="western"><surname>Gunnell</surname><given-names>D</given-names></name><name name-style="western"><surname>Platt</surname><given-names>S</given-names></name><name name-style="western"><surname>Scourfield</surname><given-names>J</given-names></name><name name-style="western"><surname>Lloyd</surname><given-names>K</given-names></name><name name-style="western"><surname>Huxley</surname><given-names>P</given-names></name><etal/></person-group>
-<article-title>Identifying probable suicide clusters in Wales using national mortality data</article-title>. <source>PLoS ONE</source>
-<year>2013</year>; <volume>8</volume>: <fpage>e71713</fpage>.
-<pub-id pub-id-type="pmid">24015189</pub-id></mixed-citation></ref><ref id="R13"><label>13</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><collab>Office for National Statistics</collab></person-group>
-<source>Internet Access &#x02013; Households and Individuals: 2014</source>. <publisher-name>ONS</publisher-name>, <day>7</day>
+                </corresp>
+                <fn>
+                    <p>
+                        <bold>Michael Utterson</bold>, core psychiatry trainee, South London and Maudsley NHS Foundation Trust, London; <bold>Jason Daoud</bold>, medical student, King's College London School of Medicine; <bold>Rina Dutta</bold>, clinical senior lecturer/consultant psychiatrist, Academic Department of Psychological Medicine, King's College London.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="ppub">
+                <month>4</month>
+                <year>2017</year>
+            </pub-date>
+            <volume>41</volume>
+            <issue>2</issue>
+            <fpage>83</fpage>
+            <lpage>86</lpage>
+            <history>
+                <date date-type="received">
+                    <day>1</day>
+                    <month>10</month>
+                    <year>2015</year>
+                </date>
+                <date date-type="rev-recd">
+                    <day>1</day>
+                    <month>2</month>
+                    <year>2016</year>
+                </date>
+                <date date-type="accepted">
+                    <day>21</day>
+                    <month>4</month>
+                    <year>2016</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>&#x000a9; 2017 The Royal College of Psychiatrists</copyright-statement>
+                <copyright-year>2017</copyright-year>
+                <license license-type="creative-commons" xlink:href="http://creativecommons.org/licenses/by/4.0">
+                    <license-p>This is an open-access article published by the Royal College of Psychiatrists and distributed under the terms of the Creative Commons Attribution License (<uri xlink:href="http://creativecommons.org/licenses/by/4.0">http://creativecommons.org/licenses/by/4.0</uri>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <self-uri xlink:title="pdf" xlink:href="83.pdf" />
+            <abstract>
+                <p id="P1">
+                    <bold>Aims and method</bold> To assess the compliance of contemporary online media output with guidelines for the responsible reporting of suicidal acts. A search engine was used to identify online media reports of suicide from UK sources over the course of 1 month. Each article was assessed against guidelines for the responsible reporting of suicide produced by the Samaritans, a UK mental health charity.</p>
+                <p id="P2">
+                    <bold>Results</bold> We identified 229 articles, of which 199 failed to comply with at least one of the Samaritans' guidelines. Failure to mention support sources, excessive detail about the method used and undue speculation about the trigger for suicide were the most commonly breached guidelines. Significant differences were found between the quality of local and national media sources, with local media sources being broadly more compliant with guidelines.</p>
+                <p id="P3">
+                    <bold>Clinical implications</bold> This study highlights the urgent need for the implementation of responsible reporting guidelines in online media articles as a component of suicide prevention efforts.</p>
+            </abstract>
+        </article-meta>
+    </front>
+    <body>
+        <p id="P4">Responsible media reporting of suicide is considered to be key to current international suicide prevention efforts.<sup>
+            <xref rid="R1" ref-type="bibr">1</xref>
+        </sup> Previous studies suggest that media reports of completed suicide can influence the rate of future suicidal acts and the method chosen.<sup>
+        <xref rid="R2" ref-type="bibr">2</xref>&#x02013;<xref rid="R6" ref-type="bibr">6</xref>
+    </sup>
+</p>
+<p id="P5">Guidelines to promote responsible reporting practices exist in a number of countries.<sup>
+    <xref rid="R7" ref-type="bibr">7</xref>
+</sup> Studies suggest that they can alter the content of media reports,<sup>
+<xref rid="R8" ref-type="bibr">8</xref>
+</sup> although the general awareness and use of the guidelines has been found to be poor.<sup>
+<xref rid="R9" ref-type="bibr">9</xref>
+</sup> In the UK, the 2012 Editors' Code of Practice from the Press Complaints Commission prohibits the reporting of suicide with excessive detail about the method used,<sup>
+<xref rid="R10" ref-type="bibr">10</xref>
+</sup> but established responsible reporting guidelines tend to include additional features in an attempt to prevent copycat behaviour.<sup>
+<xref rid="R11" ref-type="bibr">11</xref>
+</sup>
+</p>
+<p id="P6">After a detailed literature review, no studies could be found comparing a significant number of contemporary UK media reports of suicide against responsible reporting guidelines, despite the fact that the media have been implicated in the phenomenon of &#x02018;suicide clustering&#x02019; observed in the UK.<sup>
+<xref rid="R12" ref-type="bibr">12</xref>
+</sup> Other studies have focused on newspaper and television reports, and scant attention has been paid to online media sources, despite the fact that 84% of households in the UK have access to the internet and 55% of adults use the internet to access news.<sup>
+<xref rid="R13" ref-type="bibr">13</xref>
+</sup> This is the most rapidly growing method of accessing news media, particularly for younger individuals,<sup>
+<xref rid="R13" ref-type="bibr">13</xref>
+</sup> who may be more vulnerable to the content of media reporting.<sup>
+<xref rid="R14" ref-type="bibr">14</xref>,<xref rid="R15" ref-type="bibr">15</xref>
+</sup>
+</p>
+<p id="P7">This study sought to evaluate the compliance of online media reports of suicidal acts from UK-based sources with responsible reporting guidelines, and to identify the prevalence of the inclusion of other potentially harmful features of online media, namely comments sections and links to other internet features, for example pro-suicide websites.</p>
+<sec sec-type="methods" id="S1">
+<title>Method</title>
+<p id="P8">A search was performed on the Google News UK search engine using the keyword &#x02018;suicide&#x02019; with the location filter set to include articles of UK provenance only. The analysis included reports which made reference to an attempted or completed suicide published by local and national media sources during 28 consecutive days in November 2014. Articles about suicide bombing and euthanasia were excluded, as were those behind a media paywall.</p>
+<p id="P9">Each report meeting the inclusion criteria was assessed against an adapted version of the &#x02018;Ten things to remember when reporting suicide&#x02019; contained in the document issued by the Samaritans.<sup>
+<xref rid="R16" ref-type="bibr">16</xref>
+</sup> This is one of the more prominent and widely used sets of guidelines for journalists in the UK.<sup>
+<xref rid="R17" ref-type="bibr">17</xref>
+</sup> As a direct search for articles was undertaken, it was not possible to assess whether each article was given undue prominence, for instance a homepage splash, so this criterion from the Samaritans' guidelines was not used, leaving nine criteria for article comparison (<xref ref-type="boxed-text" rid="box1">Box 1</xref>).
+</p>
+<p id="P10">Data were collected on compliance with each section of the guidelines and those meeting all criteria were considered to be compliant with responsible reporting of suicide. Analysis was undertaken to determine the overall compliance with guidelines, the frequency with which each guideline was breached, and whether there were any differences based on whether articles originated from a local or a national media source. Differences between local and national media sources in the proportion of articles breaching any guidelines were calculated using the chi-squared test. Data analysis was performed in STATA 11 for Windows XP.</p>
+<boxed-text id="box1" position="float" orientation="portrait">
+<p id="P11">
+<bold>Box 1</bold> Guidelines for the reporting of suicide assessed in the study. Adapted from the Samaritans<sup>
+<xref rid="R16" ref-type="bibr">16</xref>
+</sup>
+</p>
+<list list-type="order">
+<list-item>
+<p id="P12">Leave out technical details about the method of suicide, such as describing the type of ligature used or the number and types of pills taken in an overdose. Never suggest that a method is quick, easy, painless or certain to result in death.</p>
+</list-item>
+<list-item>
+<p id="P13">Language matters. Avoid dramatic headlines and terms such as &#x02018;suicide epidemic&#x02019; or &#x02018;hot spot&#x02019;.</p>
+</list-item>
+<list-item>
+<p id="P14">Include references to support groups and places where suicidal people can find help.</p>
+</list-item>
+<list-item>
+<p id="P15">Treat social media with particular caution and refrain from mentioning websites or networks that promote or glamorise suicide.</p>
+</list-item>
+<list-item>
+<p id="P16">Avoid dramatic or sensationalist pictures or video. Refrain from including content from suicide notes.</p>
+</list-item>
+<list-item>
+<p id="P17">Do not give undue prominence to photographs of a young person who has died and avoid repeated use of images such as galleries.</p>
+</list-item>
+<list-item>
+<p id="P18">Do not brush over the complex realities of suicide and its impact on those left behind.</p>
+</list-item>
+<list-item>
+<p id="P19">Speculation about the &#x02018;trigger&#x02019; for a suicide, even if provided by a close family member, should be avoided.</p>
+</list-item>
+<list-item>
+<p id="P20">Use statistics with caution. Make sure you have the most recent data and are comparing like with like.</p>
+</list-item>
+</list>
+</boxed-text>
+<p id="P21">In addition to comparison against the Samaritans' guidelines, the inclusion of user-generated comments, threads and internet links to other articles was noted.</p>
+</sec>
+<sec sec-type="results" id="S2">
+<title>Results</title>
+<p id="P22">Overall, 229 articles met the inclusion criteria: 68 articles from local media sources and 161 articles from national media sources. The majority (214 articles) came from media organisations which offer both a print and online platform, with national publications such as the <italic>Guardian</italic>, the <italic>Telegraph</italic> and the <italic>Daily Mail</italic> making up the bulk of national media output, and an array of smaller local outlets each contributing a smaller number of articles to the total. Fifteen articles were found in a range of online-only outlets such as the International Business Times, Yahoo UK, The Huffington Post and Wales Online. Ten articles were found on the websites of media network providers such as the BBC, ITV and STV.</p>
+<sec id="S3">
+<title>Compliance with the responsible reporting guidelines</title>
+<p id="P23">Of the 229 online articles included for analysis, 199 (86.9%) breached at least one of the Samaritans' guidelines. The mean number of guideline breaches per article was 2.2, with only a small variation between local and national media sources (2.1 <italic>v.</italic> 2.2 breaches per article, respectively; <italic>P</italic> = 0.08).</p>
+<p id="P24">The most commonly breached aspects of the guidelines were a failure to include reference to sources of support for those considering suicide (69.4%), the inclusion of excessive technical detail about the method used (31%) and undue speculation about the reasons for suicide (30.1%) (<xref ref-type="table" rid="T1">Table 1</xref>). The other guidelines were breached in less than 25% of articles, with just 2 articles mentioning organisations that promote suicide and 1 article using statistics irresponsibly, telling readers the proportion of people completing suicide after jumping from a well-known landmark.</p>
+<table-wrap id="T1" orientation="portrait" position="float">
+<label>Table 1</label>
+<caption>
+<p>Compliance with reporting guidelines</p>
+</caption>
+<table frame="hsides" rules="groups">
+<colgroup span="1">
+<col align="left" valign="middle" span="1" />
+<col align="left" valign="middle" span="1" />
+<col align="left" valign="middle" span="1" />
+<col align="left" valign="middle" span="1" />
+<col align="left" valign="middle" span="1" />
+</colgroup>
+<thead>
+<tr>
+<th rowspan="1" colspan="1" />
+<th align="center" valign="bottom" rowspan="1" colspan="1">All sources</th>
+<th align="center" valign="bottom" rowspan="1" colspan="1">Local</th>
+<th align="center" valign="bottom" rowspan="1" colspan="1">National</th>
+<th align="center" valign="bottom" rowspan="1" colspan="1">Difference between<break />
+local and national<break />
+<italic>P</italic>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">Articles, <italic>n</italic>
+</td>
+<td rowspan="1" colspan="1">229</td>
+<td rowspan="1" colspan="1">68</td>
+<td rowspan="1" colspan="1">161</td>
+<td align="center" rowspan="1" colspan="1">&#x02013;</td>
+</tr>
+<tr>
+<td colspan="5" rowspan="1">
+<hr />
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x02a7e;1 breach, <italic>n</italic> (%)
+</td>
+<td rowspan="1" colspan="1">199 (86.9)</td>
+<td rowspan="1" colspan="1">55 (80.9)</td>
+<td rowspan="1" colspan="1">144 (89.4)</td>
+<td rowspan="1" colspan="1">0.08</td>
+</tr>
+<tr>
+<td colspan="5" rowspan="1">
+<hr />
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Breaches per article, mean</td>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;2.2</td>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;2.1</td>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;2.2</td>
+<td align="center" rowspan="1" colspan="1">&#x02013;</td>
+</tr>
+<tr>
+<td colspan="5" rowspan="1">
+<hr />
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">Specific guideline breaches, <italic>n</italic> (%)
+</td>
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td colspan="5" rowspan="1">
+<hr />
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;1. Excessive technical detail about the method</td>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;71 (31.0)</td>
+<td rowspan="1" colspan="1">25 (36.8)</td>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;46 (28.6)</td>
+<td rowspan="1" colspan="1">0.22</td>
+</tr>
+<tr>
+<td colspan="5" rowspan="1">
+<hr />
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;2. Sensationalist or irresponsible language</td>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;38 (16.6)</td>
+<td rowspan="1" colspan="1">20 (14.7)</td>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;28 (17.4)</td>
+<td rowspan="1" colspan="1">0.04<xref ref-type="table-fn" rid="TFN1">*</xref>
+</td>
+</tr>
+<tr>
+<td colspan="5" rowspan="1">
+<hr />
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;3. No sources of support</td>
+<td rowspan="1" colspan="1">159 (69.4)</td>
+<td rowspan="1" colspan="1">48 (70.6)</td>
+<td rowspan="1" colspan="1">111 (68.9)</td>
+<td rowspan="1" colspan="1">0.81</td>
+</tr>
+<tr>
+<td colspan="5" rowspan="1">
+<hr />
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;4. Mentioning places that promote or glamorise suicide</td>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;2 (0.9)</td>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;0 (0)</td>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;2 (1.2)</td>
+<td rowspan="1" colspan="1">0.36</td>
+</tr>
+<tr>
+<td colspan="5" rowspan="1">
+<hr />
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;5. Dramatic pictures, videos, content of suicide notes</td>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;41 (17.9)</td>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;6 (8.8)</td>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;35 (21.7)</td>
+<td rowspan="1" colspan="1">0.02<xref ref-type="table-fn" rid="TFN1">*</xref>
+</td>
+</tr>
+<tr>
+<td colspan="5" rowspan="1">
+<hr />
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;6. Picture galleries</td>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;30 (13.1)</td>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;1 (1.5)</td>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;30 (18.6)</td>
+<td rowspan="1" colspan="1">0.001<xref ref-type="table-fn" rid="TFN2">**</xref>
+</td>
+</tr>
+<tr>
+<td colspan="5" rowspan="1">
+<hr />
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;7. Narrative brushes over the complex realities of suicide</td>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;20 (8.7)</td>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;5 (7.4)</td>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;15 (9.3)</td>
+<td rowspan="1" colspan="1">0.63</td>
+</tr>
+<tr>
+<td colspan="5" rowspan="1">
+<hr />
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;8. Undue speculation about the triggers</td>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;69 (30.1)</td>
+<td rowspan="1" colspan="1">18 (26.4)</td>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;51 (31.7)</td>
+<td rowspan="1" colspan="1">0.43</td>
+</tr>
+<tr>
+<td colspan="5" rowspan="1">
+<hr />
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;9. Irresponsible use of statistics</td>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;1 (0.4)</td>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;0 (0)</td>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;1 (0.6)</td>
+<td rowspan="1" colspan="1">0.52</td>
+</tr>
+</tbody>
+</table>
+<table-wrap-foot>
+<fn id="TFN1">
+<label>*</label>
+<p>
+<italic>P</italic> &#x0003c; 0.05,</p>
+</fn>
+<fn id="TFN2">
+<label>**</label>
+<p>
+<italic>P</italic> &#x0003c; 0.01.</p>
+</fn>
+</table-wrap-foot>
+</table-wrap>
+</sec>
+<sec id="S4">
+<title>Additional features of online media</title>
+<p id="P25">Sixty-four articles included additional features which could contribute to readers encountering unsuitable material, such as the inclusion of user-generated comments sections and links to other articles which may similarly be poorly adherent to reporting guidelines (<xref ref-type="table" rid="T2">Table 2</xref>).
+</p>
+<table-wrap id="T2" orientation="portrait" position="float">
+<label>Table 2</label>
+<caption>
+<p>Articles with additional adverse features</p>
+</caption>
+<table frame="hsides" rules="groups">
+<colgroup span="1">
+<col align="left" valign="middle" span="1" />
+<col align="left" valign="middle" span="1" />
+<col align="center" valign="middle" span="1" />
+<col align="center" valign="middle" span="1" />
+<col align="right" valign="middle" span="1" />
+</colgroup>
+<thead>
+<tr>
+<th rowspan="1" colspan="1" />
+<th align="center" valign="bottom" rowspan="1" colspan="1">All sources<break />
+<italic>n</italic> (%)
+</th>
+<th valign="bottom" rowspan="1" colspan="1">Local<break />
+<italic>n</italic> (%)
+</th>
+<th valign="bottom" rowspan="1" colspan="1">National<break />
+<italic>n</italic> (%)
+</th>
+<th align="center" valign="bottom" rowspan="1" colspan="1">
+<italic>P</italic>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">Articles with additional adverse features</td>
+<td rowspan="1" colspan="1">64 (27.9)</td>
+<td rowspan="1" colspan="1">11 (16.2)</td>
+<td rowspan="1" colspan="1">53 (32.9)</td>
+<td rowspan="1" colspan="1">
+<xref ref-type="table-fn" rid="TFN3">*</xref>0.01</td>
+</tr>
+<tr>
+<td colspan="5" rowspan="1">
+<hr />
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">Links to other articles about suicide</td>
+<td rowspan="1" colspan="1">37 (16.2)</td>
+<td rowspan="1" colspan="1">5 (7.4)</td>
+<td rowspan="1" colspan="1">32 (19.9)</td>
+<td rowspan="1" colspan="1">
+<xref ref-type="table-fn" rid="TFN3">*</xref>0.02</td>
+</tr>
+<tr>
+<td colspan="5" rowspan="1">
+<hr />
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">User-generated comment threads</td>
+<td rowspan="1" colspan="1">39 (17)</td>
+<td rowspan="1" colspan="1">7 (10.3)</td>
+<td rowspan="1" colspan="1">32 (19.9)</td>
+<td rowspan="1" colspan="1">0.08</td>
+</tr>
+</tbody>
+</table>
+<table-wrap-foot>
+<fn id="TFN3">
+<label>*</label>
+<p>
+<italic>P</italic> &#x0003c; 0.05.</p>
+</fn>
+</table-wrap-foot>
+</table-wrap>
+</sec>
+</sec>
+<sec sec-type="discussion" id="S5">
+<title>Discussion</title>
+<p id="P26">This study evaluated the compliance of 229 online reports of suicide with the guidelines issued by the Samaritans. To our knowledge, this is the first study looking at the content of online media reports of suicide and the first in the UK looking at a selection of contemporary media output. Of note, the majority of articles included in the study failed to meet the Samaritans' guidelines for the responsible reporting of suicide. The results support findings from the limited number of studies undertaken elsewhere in the world that suggest media reporting of suicide is poorly compliant with available guidelines.<sup>
+<xref rid="R18" ref-type="bibr">18</xref>&#x02013;<xref rid="R21" ref-type="bibr">21</xref>
+</sup>
+</p>
+<p id="P27">Of particular concern is the finding that 69.4% of reports failed to include a reference to a potential source of support for those readers who may be experiencing suicidal thoughts themselves; this was consistent across local and national sources. Lack of responsible information awareness and signposting support undermines suicide prevention efforts and fails to provide an alternative perspective to the often distressing narrative of articles. The finding that most articles omit references to support groups has been replicated in other studies from around the world: just 1% of Indian newspaper sources,<sup>
+<xref rid="R19" ref-type="bibr">19</xref>
+</sup> 3% of US sources<sup>
+<xref rid="R21" ref-type="bibr">21</xref>
+</sup> and 8.6% of Chinese sources<sup>
+<xref rid="R8" ref-type="bibr">8</xref>
+</sup> included a reference to a support group.</p>
+<p id="P28">Our finding that 31% of articles contained an excessive level of detail about methods used to complete a suicide is a significant cause for concern. The experience in other countries supports the idea that publication of suicide methods can perpetuate attempts and trends in methods chosen by others in &#x02018;copycat suicides&#x02019;.<sup>
+<xref rid="R2" ref-type="bibr">2</xref>&#x02013;<xref rid="R5" ref-type="bibr">5</xref>,<xref rid="R22" ref-type="bibr">22</xref>
+</sup> In the course of assessing media reports for this study, the inclusion of details about the blood concentration of cyanide to achieve death, and the exact location and time of suicides by train, as well as details of places where suicides by jumping were completed, were all noted.</p>
+<p id="P29">The finding that 30.1% of articles engaged in speculation about the reason for suicide was also a cause for concern. The journalistic tendency to simplify the reasons behind a suicidal act or engage in undue speculation about the surrounding circumstances can have a damaging impact on the bereaved family<sup>
+<xref rid="R17" ref-type="bibr">17</xref>
+</sup> as well as readers who may over-identify with the person mentioned in the article, potentially increasing the deleterious impact for vulnerable individuals. This tendency to make articles more &#x02018;readable&#x02019; may also be reflected in the fact that 8.7% of articles brushed over the complex realities of suicide, often failing to mention the family left behind or the impact of the suicidal act on others.</p>
+<p id="P30">That being said, only one report included the irresponsible use of statistics and only two reports directed readers towards pro-suicide websites.</p>
+<p id="P31">A qualitative observation was that where a particular fact about a suicide attempt is known, it will usually feature in other articles from other outlets about the same act. For example, very specific details about a method used were usually re-reported in all articles discussing the same event without due regard for the reporting guidelines.</p>
+<sec id="S6">
+<title>Local <italic>v.</italic> national media sources</title>
+<p id="P32">When comparing reporting by national and local media sources, local sources were overall more compliant with guidelines, with significant differences in the use of sensationalist language, dramatic pictures, videos or the content of suicide notes and the use of galleries, as well as the use of additional features of online media. The exact reason for the broadly better compliance with guidelines among local sources is not fully understood, but it may be because local media sources are closer to the subject of the article and local reporters may be more sensitive to the feelings of the bereaved family and local community.</p>
+</sec>
+<sec id="S7">
+<title>Additional features of online media</title>
+<p id="P33">The unique additional features of online media (compared, for example, with newspaper articles or television reports) could also compound their negative impact on readers; 16% of articles included links to other reports of suicide. Our finding that a majority of articles about suicide fail to meet responsible reporting guidelines and that the mean number of guideline breaches is 2.2 per article raises the possibility that the negative impact of irresponsible reporting is likely to be amplified by the inclusion of links to other potentially non-compliant reports.</p>
+<p id="P34">Previous findings that discussion forums can increase suicidality among younger users<sup>
+<xref rid="R23" ref-type="bibr">23</xref>
+</sup> suggest that the addition of comments sections which can facilitate discussion should be avoided with online reports of suicide. Despite this, 17% of analysed reports had a comments section for user-generated content, and concerning comments such as the deceased person being &#x02018;brave&#x02019; or &#x02018;at peace now&#x02019; were frequently a feature of these.</p>
+</sec>
+<sec id="S8">
+<title>Policy considerations</title>
+<p id="P35">There is an evident need to evaluate the reasons for journalistic non-compliance with the existing guidelines of suicide reporting in the UK. Given the increasing use of online media and the apparent poor quality of reporting, there is a need to focus efforts on increasing the compliance of reports with responsible reporting guidelines. Suitable measures should also be established for non-compliant and potentially harmful articles to be flagged for urgent review.</p>
+</sec>
+<sec id="S9">
+<title>Limitations</title>
+<p id="P36">Although a standardised tool was used to identify breaches of media guidelines, judgements about breaches were not cross-checked between researchers. In addition, although the search sought to capture publications over a period of time, this work cannot account for potential seasonal changes in data.</p>
+</sec>
+<sec id="S10">
+<title>Next steps</title>
+<p id="P37">The present study uncovers an urgent need to address the fact that the majority of online articles assessed do not comply with existing guidelines on the responsible reporting of suicide. It highlights a significant public health concern because potentially vulnerable people have access to material which may provoke suicidal behaviours and which does not signpost them to support resources. Given the increasing weight of evidence that media reporting can affect suicide rates, there is an urgent need for the implementation of responsible reporting guidelines in online media articles. We propose that work be done to clarify and publicise the guidelines, and to train and encourage journalists to use them, and that a strong consideration be given to the role of more formal regulation and monitoring.</p>
+</sec>
+</sec>
+</body>
+<back>
+<fn-group>
+<fn fn-type="COI-statement">
+<p>
+<bold>Declaration of interest</bold> None.</p>
+</fn>
+</fn-group>
+<ref-list>
+<title>References</title>
+<ref id="R1">
+<label>1</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<collab>World Health Organization</collab>
+</person-group>
+<source>Preventing Suicide: A Global Imperative</source>.<publisher-name>WHO</publisher-name>,<year>2014</year> (<uri xlink:href="http://apps.who.int/iris/bitstream/10665/131056/1/9789241564779_eng.pdf">http://apps.who.int/iris/bitstream/10665/131056/1/9789241564779_eng.pdf</uri>).
+</mixed-citation>
+</ref>
+<ref id="R2">
+<label>2</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Pirkis</surname>
+<given-names>J</given-names>
+</name>
+<name name-style="western">
+<surname>Blood</surname>
+<given-names>R</given-names>
+</name>
+</person-group>
+<article-title>Suicide and the media. Part I: reportage in nonfictional media</article-title>.<source>Crisis</source>
+<year>2001</year>;<volume>22</volume>:<fpage>146</fpage>&#x02013;<lpage>54</lpage>.
+<pub-id pub-id-type="pmid">11848658</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R3">
+<label>3</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Stack</surname>
+<given-names>S</given-names>
+</name>
+</person-group>
+<article-title>Suicide in the media: a quantitative review of studies based on non-fictional stories</article-title>.<source>Suicide Life Threat Behav</source>
+<year>2005</year>;<volume>35</volume>:<fpage>121</fpage>&#x02013;<lpage>33</lpage>.
+<pub-id pub-id-type="pmid">15843330</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R4">
+<label>4</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Yoshioka</surname>
+<given-names>E</given-names>
+</name>
+<name name-style="western">
+<surname>Hanley</surname>
+<given-names>SJ</given-names>
+</name>
+<name name-style="western">
+<surname>Kawanishi</surname>
+<given-names>Y</given-names>
+</name>
+<name name-style="western">
+<surname>Saijo</surname>
+<given-names>Y</given-names>
+</name>
+</person-group>
+<article-title>Epidemic of charcoal burning suicide in Japan</article-title>.<source>Br J Psychiatry</source>
+<year>2014</year>;<volume>204</volume>:<fpage>274</fpage>&#x02013;<lpage>82</lpage>.
+<pub-id pub-id-type="pmid">24434075</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R5">
+<label>5</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Niederkrotenthaler</surname>
+<given-names>T</given-names>
+</name>
+<name name-style="western">
+<surname>Voracek</surname>
+<given-names>M</given-names>
+</name>
+<name name-style="western">
+<surname>Herberth</surname>
+<given-names>A</given-names>
+</name>
+<name name-style="western">
+<surname>Till</surname>
+<given-names>B</given-names>
+</name>
+<name name-style="western">
+<surname>Strauss</surname>
+<given-names>M</given-names>
+</name>
+<name name-style="western">
+<surname>Etzersdorfer</surname>
+<given-names>E</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>Role of media reports in completed and prevented suicide: Werther <italic>v.</italic> Papageno effects</article-title>.<source>Br J Psychiatry</source>
+<year>2010</year>;<volume>197</volume>:<fpage>234</fpage>&#x02013;<lpage>43</lpage>.
+<pub-id pub-id-type="pmid">20807970</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R6">
+<label>6</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Sisask</surname>
+<given-names>M</given-names>
+</name>
+<name name-style="western">
+<surname>Varnik</surname>
+<given-names>A</given-names>
+</name>
+</person-group>
+<article-title>Media roles in suicide prevention: a systematic review</article-title>.<source>Int J Environ Res Public Health</source>
+<year>2012</year>;<volume>9</volume>:<fpage>123</fpage>&#x02013;<lpage>38</lpage>.
+<pub-id pub-id-type="pmid">22470283</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R7">
+<label>7</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Pirkis</surname>
+<given-names>J</given-names>
+</name>
+<name name-style="western">
+<surname>Machlin</surname>
+<given-names>A</given-names>
+</name>
+</person-group>
+<article-title>Differing perspectives on what is important in media reporting of suicide</article-title>.<source>Br J Psychiatry</source>
+<year>2013</year>;<volume>203</volume>:<fpage>168</fpage>&#x02013;<lpage>9</lpage>.
+<pub-id pub-id-type="pmid">23999479</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R8">
+<label>8</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Fu</surname>
+<given-names>K</given-names>
+</name>
+<name name-style="western">
+<surname>Yip</surname>
+<given-names>P</given-names>
+</name>
+</person-group>
+<article-title>Changes in reporting of suicide news after the promotion of the WHO media recommendations</article-title>.<source>Suicide Life Threat Behav</source>
+<year>2008</year>;<volume>38</volume>:<fpage>631</fpage>&#x02013;<lpage>6</lpage>.
+<pub-id pub-id-type="pmid">19014313</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R9">
+<label>9</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Bohanna</surname>
+<given-names>I</given-names>
+</name>
+<name name-style="western">
+<surname>Wang</surname>
+<given-names>X</given-names>
+</name>
+</person-group>
+<article-title>Media guidelines for the responsible reporting of suicide: a review of effectiveness</article-title>.<source>Crisis</source>
+<year>2012</year>;<volume>33</volume>:<fpage>190</fpage>&#x02013;<lpage>8</lpage>.
+<pub-id pub-id-type="pmid">22713977</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R10">
+<label>10</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<collab>The Press Complaints Commission</collab>
+</person-group>
+<source>Editors' Code of Practice</source>.<publisher-name>PCC</publisher-name>,<year>2011</year> (<uri xlink:href="http://www.pcc.org.uk/assets/696/Code_of_Practice_2012_A4.pdf">http://www.pcc.org.uk/assets/696/Code_of_Practice_2012_A4.pdf</uri>).
+</mixed-citation>
+</ref>
+<ref id="R11">
+<label>11</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Pirkis</surname>
+<given-names>J</given-names>
+</name>
+<name name-style="western">
+<surname>Blood</surname>
+<given-names>RW</given-names>
+</name>
+<name name-style="western">
+<surname>Beautrais</surname>
+<given-names>A</given-names>
+</name>
+<name name-style="western">
+<surname>Burgess</surname>
+<given-names>P</given-names>
+</name>
+<name name-style="western">
+<surname>Skehans</surname>
+<given-names>J</given-names>
+</name>
+</person-group>
+<article-title>Media guidelines on the reporting of suicide</article-title>.<source>Crisis</source>
+<year>2006</year>;<volume>27</volume>:<fpage>82</fpage>&#x02013;<lpage>7</lpage>.
+<pub-id pub-id-type="pmid">16913330</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R12">
+<label>12</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Jones</surname>
+<given-names>P</given-names>
+</name>
+<name name-style="western">
+<surname>Gunnell</surname>
+<given-names>D</given-names>
+</name>
+<name name-style="western">
+<surname>Platt</surname>
+<given-names>S</given-names>
+</name>
+<name name-style="western">
+<surname>Scourfield</surname>
+<given-names>J</given-names>
+</name>
+<name name-style="western">
+<surname>Lloyd</surname>
+<given-names>K</given-names>
+</name>
+<name name-style="western">
+<surname>Huxley</surname>
+<given-names>P</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>Identifying probable suicide clusters in Wales using national mortality data</article-title>.<source>PLoS ONE</source>
+<year>2013</year>;<volume>8</volume>:<fpage>e71713</fpage>.
+<pub-id pub-id-type="pmid">24015189</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R13">
+<label>13</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<collab>Office for National Statistics</collab>
+</person-group>
+<source>Internet Access &#x02013; Households and Individuals: 2014</source>.<publisher-name>ONS</publisher-name>,<day>7</day>
 <month>8</month>
 <year>2014</year> (<uri xlink:href="http://www.ons.gov.uk/peoplepopulationandcommunity/householdcharacteristics/homeinternetandsocialmediausage/bulletins/internetaccesshouseholdsandindividuals/2014-08-07/pdf">http://www.ons.gov.uk/peoplepopulationandcommunity/householdcharacteristics/homeinternetandsocialmediausage/bulletins/internetaccesshouseholdsandindividuals/2014-08-07/pdf</uri>).
-</mixed-citation></ref><ref id="R14"><label>14</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Cheng</surname><given-names>AT</given-names></name><name name-style="western"><surname>Hawton</surname><given-names>K</given-names></name><name name-style="western"><surname>Chen</surname><given-names>TH</given-names></name><name name-style="western"><surname>Yen</surname><given-names>AM</given-names></name><name name-style="western"><surname>Chang</surname><given-names>JC</given-names></name><name name-style="western"><surname>Chong</surname><given-names>MY</given-names></name><etal/></person-group>
-<article-title>The influence of media reporting of a celebrity suicide on suicidal behavior in patients with a history of depressive disorder</article-title>. <source>J Affect Disord</source>
-<year>2007</year>; <volume>103</volume>: <fpage>69</fpage>&#x02013;<lpage>75</lpage>.
-<pub-id pub-id-type="pmid">17313978</pub-id></mixed-citation></ref><ref id="R15"><label>15</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Chen</surname><given-names>YY</given-names></name><name name-style="western"><surname>Tsai</surname><given-names>PC</given-names></name><name name-style="western"><surname>Chen</surname><given-names>PH</given-names></name><name name-style="western"><surname>Fan</surname><given-names>CC</given-names></name><name name-style="western"><surname>Hung</surname><given-names>GC</given-names></name><name name-style="western"><surname>Cheng</surname><given-names>AT</given-names></name></person-group>
-<article-title>Effect of media reporting of the suicide of a singer in Taiwan: the case of Ivy Li</article-title>. <source>Soc Psychiatry Psychiatr Epidemiol</source>
-<year>2010</year>; <volume>45</volume>: <fpage>363</fpage>&#x02013;<lpage>9</lpage>.
-<pub-id pub-id-type="pmid">19468661</pub-id></mixed-citation></ref><ref id="R16"><label>16</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><collab>Samaritans</collab></person-group>
-<source>Media Guidelines for Reporting Suicide</source>. <publisher-name>Samaritans</publisher-name>, <year>2013</year> (<uri xlink:href="http://www.samaritans.org/sites/default/files/kcfinder/files/press/Samaritans%20Media%20Guidelines%202013%20UK.pdf">http://www.samaritans.org/sites/default/files/kcfinder/files/press/Samaritans%20Media%20Guidelines%202013%20UK.pdf</uri>).
-</mixed-citation></ref><ref id="R17"><label>17</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Chapple</surname><given-names>A</given-names></name><name name-style="western"><surname>Ziebland</surname><given-names>S</given-names></name><name name-style="western"><surname>Simkin</surname><given-names>S</given-names></name><name name-style="western"><surname>Hawton</surname><given-names>K</given-names></name></person-group>
-<article-title>How people bereaved by suicide perceive newspaper reporting: qualitative study</article-title>. <source>Br J Psychiatry</source>
-<year>2013</year>; <volume>203</volume>: <fpage>228</fpage>&#x02013;<lpage>32</lpage>.
-<pub-id pub-id-type="pmid">23391729</pub-id></mixed-citation></ref><ref id="R18"><label>18</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Tor</surname><given-names>PC</given-names></name><name name-style="western"><surname>Ng</surname><given-names>BY</given-names></name><name name-style="western"><surname>Ang</surname><given-names>YG</given-names></name></person-group>
-<article-title>The media and suicide</article-title>. <source>Ann Acad Med Singapore</source>
-<year>2008</year>; <volume>37</volume>: <fpage>797</fpage>&#x02013;<lpage>9</lpage>.
-<pub-id pub-id-type="pmid">18989499</pub-id></mixed-citation></ref><ref id="R19"><label>19</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Chandra</surname><given-names>PS</given-names></name><name name-style="western"><surname>Doraiswamy</surname><given-names>P</given-names></name><name name-style="western"><surname>Padmanabh</surname><given-names>A</given-names></name><name name-style="western"><surname>Philip</surname><given-names>M</given-names></name></person-group>
-<article-title>Do newspaper reports of suicides comply with standard suicide reporting guidelines? A study from Bangalore, India</article-title>. <source>Int J Soc Psychiatry</source>
-<year>2004</year>; <volume>60</volume>: <fpage>687</fpage>&#x02013;<lpage>94</lpage>.
-</mixed-citation></ref><ref id="R20"><label>20</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Fu</surname><given-names>KW</given-names></name><name name-style="western"><surname>Chan</surname><given-names>YY</given-names></name><name name-style="western"><surname>Yip</surname><given-names>PS</given-names></name></person-group>
-<article-title>Newspaper reporting of suicides in Hong Kong, Taiwan and Guangzhou: compliance with WHO media guidelines and epidemiological comparisons</article-title>. <source>J Epidemiol Community Health</source>
-<year>2011</year>; <volume>65</volume>: <fpage>928</fpage>&#x02013;<lpage>33</lpage>.
-<pub-id pub-id-type="pmid">20889589</pub-id></mixed-citation></ref><ref id="R21"><label>21</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Tatum</surname><given-names>PT</given-names></name><name name-style="western"><surname>Canetto</surname><given-names>SS</given-names></name><name name-style="western"><surname>Slater</surname><given-names>MD</given-names></name></person-group>
-<article-title>Suicide coverage in U.S. newspapers following the publication of the media guidelines</article-title>. <source>Suicide Life Threat Behav</source>
-<year>2010</year>: <volume>40</volume>: <fpage>524</fpage>&#x02013;<lpage>34</lpage>.
-<pub-id pub-id-type="pmid">21034215</pub-id></mixed-citation></ref><ref id="R22"><label>22</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Lee</surname><given-names>AR</given-names></name><name name-style="western"><surname>Ahn</surname><given-names>MH</given-names></name><name name-style="western"><surname>Lee</surname><given-names>TY</given-names></name><name name-style="western"><surname>Park</surname><given-names>S</given-names></name><name name-style="western"><surname>Hong</surname><given-names>JP</given-names></name></person-group>
-<article-title>Rapid spread of suicide by charcoal burning from 2007 to 2011 in Korea</article-title>. <source>Psychiatry Res</source>
-<year>2014</year>; <volume>219</volume>: <fpage>518</fpage>&#x02013;<lpage>24</lpage>.
-<pub-id pub-id-type="pmid">25048757</pub-id></mixed-citation></ref><ref id="R23"><label>23</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Dunlop</surname><given-names>SM</given-names></name><name name-style="western"><surname>More</surname><given-names>E</given-names></name><name name-style="western"><surname>Romer</surname><given-names>D</given-names></name></person-group>
+</mixed-citation>
+</ref>
+<ref id="R14">
+<label>14</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Cheng</surname>
+<given-names>AT</given-names>
+</name>
+<name name-style="western">
+<surname>Hawton</surname>
+<given-names>K</given-names>
+</name>
+<name name-style="western">
+<surname>Chen</surname>
+<given-names>TH</given-names>
+</name>
+<name name-style="western">
+<surname>Yen</surname>
+<given-names>AM</given-names>
+</name>
+<name name-style="western">
+<surname>Chang</surname>
+<given-names>JC</given-names>
+</name>
+<name name-style="western">
+<surname>Chong</surname>
+<given-names>MY</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>The influence of media reporting of a celebrity suicide on suicidal behavior in patients with a history of depressive disorder</article-title>.<source>J Affect Disord</source>
+<year>2007</year>;<volume>103</volume>:<fpage>69</fpage>&#x02013;<lpage>75</lpage>.
+<pub-id pub-id-type="pmid">17313978</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R15">
+<label>15</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Chen</surname>
+<given-names>YY</given-names>
+</name>
+<name name-style="western">
+<surname>Tsai</surname>
+<given-names>PC</given-names>
+</name>
+<name name-style="western">
+<surname>Chen</surname>
+<given-names>PH</given-names>
+</name>
+<name name-style="western">
+<surname>Fan</surname>
+<given-names>CC</given-names>
+</name>
+<name name-style="western">
+<surname>Hung</surname>
+<given-names>GC</given-names>
+</name>
+<name name-style="western">
+<surname>Cheng</surname>
+<given-names>AT</given-names>
+</name>
+</person-group>
+<article-title>Effect of media reporting of the suicide of a singer in Taiwan: the case of Ivy Li</article-title>.<source>Soc Psychiatry Psychiatr Epidemiol</source>
+<year>2010</year>;<volume>45</volume>:<fpage>363</fpage>&#x02013;<lpage>9</lpage>.
+<pub-id pub-id-type="pmid">19468661</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R16">
+<label>16</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<collab>Samaritans</collab>
+</person-group>
+<source>Media Guidelines for Reporting Suicide</source>.<publisher-name>Samaritans</publisher-name>,<year>2013</year> (<uri xlink:href="http://www.samaritans.org/sites/default/files/kcfinder/files/press/Samaritans%20Media%20Guidelines%202013%20UK.pdf">http://www.samaritans.org/sites/default/files/kcfinder/files/press/Samaritans%20Media%20Guidelines%202013%20UK.pdf</uri>).
+</mixed-citation>
+</ref>
+<ref id="R17">
+<label>17</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Chapple</surname>
+<given-names>A</given-names>
+</name>
+<name name-style="western">
+<surname>Ziebland</surname>
+<given-names>S</given-names>
+</name>
+<name name-style="western">
+<surname>Simkin</surname>
+<given-names>S</given-names>
+</name>
+<name name-style="western">
+<surname>Hawton</surname>
+<given-names>K</given-names>
+</name>
+</person-group>
+<article-title>How people bereaved by suicide perceive newspaper reporting: qualitative study</article-title>.<source>Br J Psychiatry</source>
+<year>2013</year>;<volume>203</volume>:<fpage>228</fpage>&#x02013;<lpage>32</lpage>.
+<pub-id pub-id-type="pmid">23391729</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R18">
+<label>18</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Tor</surname>
+<given-names>PC</given-names>
+</name>
+<name name-style="western">
+<surname>Ng</surname>
+<given-names>BY</given-names>
+</name>
+<name name-style="western">
+<surname>Ang</surname>
+<given-names>YG</given-names>
+</name>
+</person-group>
+<article-title>The media and suicide</article-title>.<source>Ann Acad Med Singapore</source>
+<year>2008</year>;<volume>37</volume>:<fpage>797</fpage>&#x02013;<lpage>9</lpage>.
+<pub-id pub-id-type="pmid">18989499</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R19">
+<label>19</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Chandra</surname>
+<given-names>PS</given-names>
+</name>
+<name name-style="western">
+<surname>Doraiswamy</surname>
+<given-names>P</given-names>
+</name>
+<name name-style="western">
+<surname>Padmanabh</surname>
+<given-names>A</given-names>
+</name>
+<name name-style="western">
+<surname>Philip</surname>
+<given-names>M</given-names>
+</name>
+</person-group>
+<article-title>Do newspaper reports of suicides comply with standard suicide reporting guidelines? A study from Bangalore, India</article-title>.<source>Int J Soc Psychiatry</source>
+<year>2004</year>;<volume>60</volume>:<fpage>687</fpage>&#x02013;<lpage>94</lpage>.
+</mixed-citation>
+</ref>
+<ref id="R20">
+<label>20</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Fu</surname>
+<given-names>KW</given-names>
+</name>
+<name name-style="western">
+<surname>Chan</surname>
+<given-names>YY</given-names>
+</name>
+<name name-style="western">
+<surname>Yip</surname>
+<given-names>PS</given-names>
+</name>
+</person-group>
+<article-title>Newspaper reporting of suicides in Hong Kong, Taiwan and Guangzhou: compliance with WHO media guidelines and epidemiological comparisons</article-title>.<source>J Epidemiol Community Health</source>
+<year>2011</year>;<volume>65</volume>:<fpage>928</fpage>&#x02013;<lpage>33</lpage>.
+<pub-id pub-id-type="pmid">20889589</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R21">
+<label>21</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Tatum</surname>
+<given-names>PT</given-names>
+</name>
+<name name-style="western">
+<surname>Canetto</surname>
+<given-names>SS</given-names>
+</name>
+<name name-style="western">
+<surname>Slater</surname>
+<given-names>MD</given-names>
+</name>
+</person-group>
+<article-title>Suicide coverage in U.S. newspapers following the publication of the media guidelines</article-title>.<source>Suicide Life Threat Behav</source>
+<year>2010</year>:<volume>40</volume>:<fpage>524</fpage>&#x02013;<lpage>34</lpage>.
+<pub-id pub-id-type="pmid">21034215</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R22">
+<label>22</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Lee</surname>
+<given-names>AR</given-names>
+</name>
+<name name-style="western">
+<surname>Ahn</surname>
+<given-names>MH</given-names>
+</name>
+<name name-style="western">
+<surname>Lee</surname>
+<given-names>TY</given-names>
+</name>
+<name name-style="western">
+<surname>Park</surname>
+<given-names>S</given-names>
+</name>
+<name name-style="western">
+<surname>Hong</surname>
+<given-names>JP</given-names>
+</name>
+</person-group>
+<article-title>Rapid spread of suicide by charcoal burning from 2007 to 2011 in Korea</article-title>.<source>Psychiatry Res</source>
+<year>2014</year>;<volume>219</volume>:<fpage>518</fpage>&#x02013;<lpage>24</lpage>.
+<pub-id pub-id-type="pmid">25048757</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R23">
+<label>23</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Dunlop</surname>
+<given-names>SM</given-names>
+</name>
+<name name-style="western">
+<surname>More</surname>
+<given-names>E</given-names>
+</name>
+<name name-style="western">
+<surname>Romer</surname>
+<given-names>D</given-names>
+</name>
+</person-group>
 <article-title>Where do youth learn about suicides on the Internet, and what influence does this have on suicidal ideation?</article-title>
 <source>J Child Psychol Psychiatry</source>
-<year>2011</year>; <volume>52</volume>: <fpage>1073</fpage>&#x02013;<lpage>80</lpage>.
-<pub-id pub-id-type="pmid">21658185</pub-id></mixed-citation></ref></ref-list></back></article>
+<year>2011</year>;<volume>52</volume>:<fpage>1073</fpage>&#x02013;<lpage>80</lpage>.
+<pub-id pub-id-type="pmid">21658185</pub-id>
+</mixed-citation>
+</ref>
+</ref-list>
+</back>
+</article>

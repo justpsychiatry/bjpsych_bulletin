@@ -1,99 +1,1442 @@
-<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
-<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-journalpublishing1.dtd?><?SourceDTD.Version 1.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">BJPsych Bull</journal-id><journal-id journal-id-type="iso-abbrev">BJPsych Bull</journal-id><journal-id journal-id-type="hwp">pbrcpsych</journal-id><journal-title-group><journal-title>BJPsych Bulletin</journal-title></journal-title-group><issn pub-type="ppub">2056-4694</issn><issn pub-type="epub">2056-4708</issn><publisher><publisher-name>Royal College of Psychiatrists</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">5376727</article-id><article-id pub-id-type="doi">10.1192/pb.bp.115.053009</article-id><article-categories><subj-group subj-group-type="heading"><subject>Original Papers</subject></subj-group></article-categories><title-group><article-title>Antipsychotic prescribing of consultant forensic psychiatrists working in different levels of secure care with patients with schizophrenia</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Machin</surname><given-names>Anna</given-names></name><xref ref-type="aff" rid="A1">1</xref><xref ref-type="corresp" rid="cor1"/></contrib><contrib contrib-type="author"><name><surname>McCarthy</surname><given-names>Lucy</given-names></name><xref ref-type="aff" rid="A2">2</xref></contrib></contrib-group><aff id="A1"><label>1</label>East Midlands Training Scheme, Nottingham</aff><aff id="A2"><label>2</label>East Midlands Centre for Forensic Mental Health, Leicester</aff><author-notes><corresp id="cor1">
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article">    <?properties open_access?>    <?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN?>    <?DTDIdentifier.IdentifierType public?>    <?SourceDTD.DTDName JATS-journalpublishing1.dtd?>    <?SourceDTD.Version 1.0?>    <?ConverterInfo.XSLTName jp2nlmx2.xsl?>    <?ConverterInfo.Version 1?>
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="nlm-ta">BJPsych Bull</journal-id>
+            <journal-id journal-id-type="iso-abbrev">BJPsych Bull</journal-id>
+            <journal-id journal-id-type="hwp">pbrcpsych</journal-id>
+            <journal-title-group>
+                <journal-title>BJPsych Bulletin</journal-title>
+            </journal-title-group>
+            <issn pub-type="ppub">2056-4694</issn>
+            <issn pub-type="epub">2056-4708</issn>
+            <publisher>
+                <publisher-name>Royal College of Psychiatrists</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="pmcid">5376727</article-id>
+            <article-id pub-id-type="doi">10.1192/pb.bp.115.053009</article-id>
+            <article-categories>
+                <subj-group subj-group-type="heading">
+                    <subject>Original Papers</subject>
+                </subj-group>
+            </article-categories>
+            <title-group>
+                <article-title>Antipsychotic prescribing of consultant forensic psychiatrists working in different levels of secure care with patients with schizophrenia</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Machin</surname>
+                        <given-names>Anna</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                    <xref ref-type="corresp" rid="cor1" />
+                </contrib>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>McCarthy</surname>
+                        <given-names>Lucy</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A2">2</xref>
+                </contrib>
+            </contrib-group>
+            <aff id="A1">
+                <label>1</label>East Midlands Training Scheme, Nottingham</aff>
+            <aff id="A2">
+                <label>2</label>East Midlands Centre for Forensic Mental Health, Leicester</aff>
+            <author-notes>
+                <corresp id="cor1">
 Correspondence to Anna Machin (<email>anna.machin@nottshc.nhs.uk</email>)
-</corresp><fn><p><bold>Anna Machin</bold>, ST6 forensic psychiatrist, East Midlands Training Scheme, The Wells Road Centre, Nottingham; <bold>Lucy McCarthy</bold>, Senior Research Fellow, East Midlands Centre for Forensic Mental Health, Leicester.</p></fn></author-notes><pub-date pub-type="ppub"><month>4</month><year>2017</year></pub-date><volume>41</volume><issue>2</issue><fpage>103</fpage><lpage>108</lpage><history><date date-type="received"><day>29</day><month>10</month><year>2015</year></date><date date-type="rev-recd"><day>6</day><month>6</month><year>2016</year></date><date date-type="accepted"><day>24</day><month>6</month><year>2016</year></date></history><permissions><copyright-statement>&#x000a9; 2017 The Authors</copyright-statement><copyright-year>2017</copyright-year><license license-type="creative-commons" xlink:href="http://creativecommons.org/licenses/by/4.0"><license-p>This is an open-access article published by the Royal College of Psychiatrists and distributed under the terms of the Creative Commons Attribution License (<uri xlink:href="http://creativecommons.org/licenses/by/4.0">http://creativecommons.org/licenses/by/4.0</uri>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xlink:title="pdf" xlink:href="103.pdf"/><abstract><p id="P1"><bold>Aims and method</bold> To detect any differences in the antipsychotic prescribing practices of consultant forensic psychiatrists working in different levels of secure care with patients diagnosed with schizophrenia, and to identify potential reasons for any differences. Prescribing data were collected from four secure hospitals within one National Health Service trust. A questionnaire was sent to consultant forensic psychiatrists working at those hospitals as well as those working in the trust's community forensic services.</p><p id="P2"><bold>Results</bold> Consultants working in high security prescribed more oral antipsychotics than consultants working in medium and low security, who prescribed more depot antipsychotics, as established via the prescribing data. The questionnaire provided insight regarding the reasons for these preferences.</p><p id="P3"><bold>Clinical implications</bold> There were differences in the antipsychotic prescribing practices of consultant forensic psychiatrists working in different levels of secure care, and, overall, the rate of depot antipsychotic prescribing was lower than might be expected. Although it was positive that the rate of polypharmacy was low when compared with earlier studies, the lower-than-expected rate of depot antipsychotic prescribing has clinical implications.</p></abstract></article-meta></front><body><p id="P4">Schizophrenia is an enduring mental illness characterised by remissions and relapses. Treatment is available in the form of psychosocial interventions but the mainstay of effective management is antipsychotic medication.<sup><xref rid="R1" ref-type="bibr">1</xref>&#x02013;<xref rid="R3" ref-type="bibr">3</xref></sup> Antipsychotic efficacy is reduced by poor adherence and it is estimated that the risk of relapse is 2 to 6 times greater for patients not taking antipsychotic treatment.<sup><xref rid="R1" ref-type="bibr">1</xref></sup></p><p id="P5">Forensic psychiatrists working in secure hospitals are likely to have case-loads with high levels of comorbidity, non-adherence and risk;<sup><xref rid="R4" ref-type="bibr">4</xref>,<xref rid="R5" ref-type="bibr">5</xref></sup> a history of aggression has been found to predict the use of high-dose antipsychotic treatment (total antipsychotic doses totalling greater than 100% maximum <italic>British National Formulary</italic> dose).<sup><xref rid="R1" ref-type="bibr">1</xref></sup></p><p id="P6">Paton <italic>et al</italic><sup><xref rid="R6" ref-type="bibr">6</xref></sup> reported on an in-patient census. Most (97%) of the 53.2% diagnosed with psychosis were prescribed an antipsychotic. Polypharmacy (the prescription of more than one antipsychotic agent) was common. Of those prescribed a regular antipsychotic, 51.6% were prescribed a first-generation agent, 11.3% were prescribed clozapine and 33% were prescribed a depot agent (80% of these patients had a psychotic illness). High-dose prescribing was more common when a depot agent was prescribed.</p><p id="P7">No previous studies have examined the prescribing patterns of forensic psychiatrists working in differing levels of security. It is important to identify such patterns to build on existing knowledge and to identify areas requiring change.</p><sec disp-level="2" id="S1"><title>Aims</title><p id="P8">To detect any differences in the antipsychotic prescribing practices of consultant forensic psychiatrists working in different levels of secure care within a National Health Service (NHS) trust, and to identify potential reasons for any differences. We hypothesised that there would be no significant differences in prescribing patterns in this clinician group.</p></sec><sec sec-type="methods" id="S2"><title>Method</title><sec id="S3"><title>Settings and sample</title><p id="P9">Covering a vast geographical area, the NHS trust studied is one of the largest in England and provides services in a variety of settings. Its secure hospitals feature one high secure hospital, two medium secure hospitals and one low secure hospital. Information on antipsychotic prescribing was collected on all in-patients with schizophrenia in these four hospitals in July 2014. A questionnaire was sent to the 34 consultant forensic psychiatrists based at the hospitals and 3 community-based consultant forensic psychiatrists working within the same trust.</p></sec><sec sec-type="methods" id="S4"><title>Procedure</title><sec id="S5"><title>Prescribing patterns</title><p id="P10">In July 2014, the electronic healthcare records were used to produce a list of all current in-patients at the trust's four secure hospitals. The clinical records (electronic and paper healthcare records, and pharmacy records) were then used to ascertain which of these patients had schizophrenia. Further information was collected about patients with schizophrenia (gender, age, ethnicity, length of stay, antipsychotic medication prescribed), to produce an anonymised data-set detailing the percentage of patients diagnosed with schizophrenia at each hospital, and the proportion of patients with schizophrenia prescribed different types of antipsychotic medication.</p></sec><sec id="S6"><title>Consultant questionnaires</title><p id="P11">Owing to the absence of a validated instrument, a semi-structured self-report questionnaire was developed to assess forensic consultants' attitudes to the prescription of oral and depot antipsychotic medications. The questionnaire was designed to take less than 5 min to complete. Consultants were asked in which level of security they worked and then three further questions:
-<list list-type="order"><list-item><p id="P12">Disregarding the special case of clozapine, when treating a patient with schizophrenia do you have a general preference for either oral or depot antipsychotic medications? (Yes/No)</p></list-item><list-item><p id="P13">Please indicate the strength of any preference on the scale below (0&#x02013;100 anchored Likert scale: 0 &#x02013; oral, 100 &#x02013; depot).</p></list-item><list-item><p id="P14">What are the reasons behind any stated preference? ((a) Improves adherence, (b) Better clinical outcome, (c) More convenient for the patient, (d) More convenient for the clinical team, (d) The next level of security/community team would expect/prefer it).</p></list-item></list>
+                </corresp>
+                <fn>
+                    <p>
+                        <bold>Anna Machin</bold>, ST6 forensic psychiatrist, East Midlands Training Scheme, The Wells Road Centre, Nottingham; <bold>Lucy McCarthy</bold>, Senior Research Fellow, East Midlands Centre for Forensic Mental Health, Leicester.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="ppub">
+                <month>4</month>
+                <year>2017</year>
+            </pub-date>
+            <volume>41</volume>
+            <issue>2</issue>
+            <fpage>103</fpage>
+            <lpage>108</lpage>
+            <history>
+                <date date-type="received">
+                    <day>29</day>
+                    <month>10</month>
+                    <year>2015</year>
+                </date>
+                <date date-type="rev-recd">
+                    <day>6</day>
+                    <month>6</month>
+                    <year>2016</year>
+                </date>
+                <date date-type="accepted">
+                    <day>24</day>
+                    <month>6</month>
+                    <year>2016</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>&#x000a9; 2017 The Authors</copyright-statement>
+                <copyright-year>2017</copyright-year>
+                <license license-type="creative-commons" xlink:href="http://creativecommons.org/licenses/by/4.0">
+                    <license-p>This is an open-access article published by the Royal College of Psychiatrists and distributed under the terms of the Creative Commons Attribution License (<uri xlink:href="http://creativecommons.org/licenses/by/4.0">http://creativecommons.org/licenses/by/4.0</uri>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <self-uri xlink:title="pdf" xlink:href="103.pdf" />
+            <abstract>
+                <p id="P1">
+                    <bold>Aims and method</bold> To detect any differences in the antipsychotic prescribing practices of consultant forensic psychiatrists working in different levels of secure care with patients diagnosed with schizophrenia, and to identify potential reasons for any differences. Prescribing data were collected from four secure hospitals within one National Health Service trust. A questionnaire was sent to consultant forensic psychiatrists working at those hospitals as well as those working in the trust's community forensic services.</p>
+                <p id="P2">
+                    <bold>Results</bold> Consultants working in high security prescribed more oral antipsychotics than consultants working in medium and low security, who prescribed more depot antipsychotics, as established via the prescribing data. The questionnaire provided insight regarding the reasons for these preferences.</p>
+                <p id="P3">
+                    <bold>Clinical implications</bold> There were differences in the antipsychotic prescribing practices of consultant forensic psychiatrists working in different levels of secure care, and, overall, the rate of depot antipsychotic prescribing was lower than might be expected. Although it was positive that the rate of polypharmacy was low when compared with earlier studies, the lower-than-expected rate of depot antipsychotic prescribing has clinical implications.</p>
+            </abstract>
+        </article-meta>
+    </front>
+    <body>
+        <p id="P4">Schizophrenia is an enduring mental illness characterised by remissions and relapses. Treatment is available in the form of psychosocial interventions but the mainstay of effective management is antipsychotic medication.<sup>
+            <xref rid="R1" ref-type="bibr">1</xref>&#x02013;<xref rid="R3" ref-type="bibr">3</xref>
+        </sup> Antipsychotic efficacy is reduced by poor adherence and it is estimated that the risk of relapse is 2 to 6 times greater for patients not taking antipsychotic treatment.<sup>
+        <xref rid="R1" ref-type="bibr">1</xref>
+    </sup>
+</p>
+<p id="P5">Forensic psychiatrists working in secure hospitals are likely to have case-loads with high levels of comorbidity, non-adherence and risk;<sup>
+    <xref rid="R4" ref-type="bibr">4</xref>,    <xref rid="R5" ref-type="bibr">5</xref>
+</sup> a history of aggression has been found to predict the use of high-dose antipsychotic treatment (total antipsychotic doses totalling greater than 100% maximum <italic>British National Formulary</italic> dose).<sup>
+<xref rid="R1" ref-type="bibr">1</xref>
+</sup>
+</p>
+<p id="P6">Paton <italic>et al</italic>
+<sup>
+<xref rid="R6" ref-type="bibr">6</xref>
+</sup> reported on an in-patient census. Most (97%) of the 53.2% diagnosed with psychosis were prescribed an antipsychotic. Polypharmacy (the prescription of more than one antipsychotic agent) was common. Of those prescribed a regular antipsychotic, 51.6% were prescribed a first-generation agent, 11.3% were prescribed clozapine and 33% were prescribed a depot agent (80% of these patients had a psychotic illness). High-dose prescribing was more common when a depot agent was prescribed.</p>
+<p id="P7">No previous studies have examined the prescribing patterns of forensic psychiatrists working in differing levels of security. It is important to identify such patterns to build on existing knowledge and to identify areas requiring change.</p>
+<sec disp-level="2" id="S1">
+<title>Aims</title>
+<p id="P8">To detect any differences in the antipsychotic prescribing practices of consultant forensic psychiatrists working in different levels of secure care within a National Health Service (NHS) trust, and to identify potential reasons for any differences. We hypothesised that there would be no significant differences in prescribing patterns in this clinician group.</p>
+</sec>
+<sec sec-type="methods" id="S2">
+<title>Method</title>
+<sec id="S3">
+<title>Settings and sample</title>
+<p id="P9">Covering a vast geographical area, the NHS trust studied is one of the largest in England and provides services in a variety of settings. Its secure hospitals feature one high secure hospital, two medium secure hospitals and one low secure hospital. Information on antipsychotic prescribing was collected on all in-patients with schizophrenia in these four hospitals in July 2014. A questionnaire was sent to the 34 consultant forensic psychiatrists based at the hospitals and 3 community-based consultant forensic psychiatrists working within the same trust.</p>
+</sec>
+<sec sec-type="methods" id="S4">
+<title>Procedure</title>
+<sec id="S5">
+    <title>Prescribing patterns</title>
+    <p id="P10">In July 2014, the electronic healthcare records were used to produce a list of all current in-patients at the trust's four secure hospitals. The clinical records (electronic and paper healthcare records, and pharmacy records) were then used to ascertain which of these patients had schizophrenia. Further information was collected about patients with schizophrenia (gender, age, ethnicity, length of stay, antipsychotic medication prescribed), to produce an anonymised data-set detailing the percentage of patients diagnosed with schizophrenia at each hospital, and the proportion of patients with schizophrenia prescribed different types of antipsychotic medication.</p>
+</sec>
+<sec id="S6">
+    <title>Consultant questionnaires</title>
+    <p id="P11">Owing to the absence of a validated instrument, a semi-structured self-report questionnaire was developed to assess forensic consultants' attitudes to the prescription of oral and depot antipsychotic medications. The questionnaire was designed to take less than 5 min to complete. Consultants were asked in which level of security they worked and then three further questions:
+        <list list-type="order">
+            <list-item>
+                <p id="P12">Disregarding the special case of clozapine, when treating a patient with schizophrenia do you have a general preference for either oral or depot antipsychotic medications? (Yes/No)</p>
+            </list-item>
+            <list-item>
+                <p id="P13">Please indicate the strength of any preference on the scale below (0&#x02013;100 anchored Likert scale: 0 &#x02013; oral, 100 &#x02013; depot).</p>
+            </list-item>
+            <list-item>
+                <p id="P14">What are the reasons behind any stated preference? ((a) Improves adherence, (b) Better clinical outcome, (c) More convenient for the patient, (d) More convenient for the clinical team, (d) The next level of security/community team would expect/prefer it).</p>
+            </list-item>
+        </list>
 There was also space for a free-text response. The three community consultants were asked two further questions:
-<list list-type="order"><list-item><p id="P15">How important is the route of antipsychotic administration in your considering whether to accept a patient on to your caseload? (0&#x02013;100 anchored Likert scale: 0 &#x02013; very important, 100 &#x02013; not at all important).</p></list-item><list-item><p id="P16">How likely are you to accept a patient currently prescribed an oral antipsychotic (not clozapine)? (0&#x02013;100 anchored Likert scale: 0 &#x02013; very unlikely, 100 &#x02013; very likely).</p></list-item></list>
-The Likert scale is an ordinal psychometric assessment of attitudes or opinions, typically lacking concrete answers to accommodate neutral or undecided feelings. It was selected for this questionnaire owing to the speed and ease of completion, low cost, ease of distribution, and providing results amenable to analysis.</p><p id="P17">The Likert scale has been criticised for failing to measure the true attitudes of respondents, as it gives only 5 to 7 options of choice, and also for the space between each choice in reality possibly not being equidistant. In view of this, and in an attempt to further maximise freedom on behalf of the responder and to avoid railroading respondents into giving polarised responses, the Likert scale was amended to include some characteristics of an analogue scale.</p><p id="P18">The questionnaire was sent, with a cover letter, to all forensic consultants working in the four secure hospitals and in community forensic services in the NHS trust. After 3 months, the questionnaire was sent again to encourage non-responders. All data were supplied anonymously.</p></sec></sec><sec id="S7"><title>Ethical considerations</title><p id="P19">The project proposal was reviewed by the trust's research and innovations department and approved as service evaluation; research ethics approval was therefore not required. Patient anonymity was preserved throughout the study.</p></sec><sec id="S8"><title>Analytic strategy</title><p id="P20">SPSS version 21 (Windows 10) was used for data analysis. Chi-square and ANOVA were used where appropriate. All tests were two-tailed and <italic>P</italic> &#x02a7d; 0.05 was used to determine statistical significance.</p></sec></sec><sec sec-type="results" id="S9"><title>Results</title><sec id="S10"><title>Demographic information</title><p id="P21">In July 2014, there were 556 patients detained at the four secure hospitals; 265 (48%) were diagnosed with schizophrenia. The sample characteristics are summarised in <xref ref-type="table" rid="T1">Table 1</xref>.</p><table-wrap id="T1" orientation="portrait" position="float"><label>Table 1</label><caption><p>Sample characteristics of in-patients at each of the four secure hospitals</p></caption><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" valign="middle" span="1"/><col align="center" valign="middle" span="1"/><col align="center" valign="middle" span="1"/><col align="center" valign="middle" span="1"/><col align="center" valign="middle" span="1"/><col align="center" valign="middle" span="1"/><col align="center" valign="middle" span="1"/></colgroup><thead><tr><th rowspan="1" colspan="1"/><th valign="bottom" rowspan="1" colspan="1">High secure<break/>hospital</th><th valign="bottom" rowspan="1" colspan="1">Medium secure<break/>hospital 1</th><th valign="bottom" rowspan="1" colspan="1">Medium secure<break/>hospital 2</th><th valign="bottom" rowspan="1" colspan="1">Low secure<break/>hospital</th><th valign="bottom" rowspan="1" colspan="1"><italic>P</italic><sup><xref ref-type="table-fn" rid="TFN1">a</xref></sup></th><th rowspan="1" colspan="1"/></tr></thead><tbody><tr><td rowspan="1" colspan="1">Total number</td><td rowspan="1" colspan="1">339</td><td rowspan="1" colspan="1">69</td><td rowspan="1" colspan="1">85</td><td rowspan="1" colspan="1">63</td><td rowspan="1" colspan="1">&#x02013;</td><td rowspan="1" colspan="1"/></tr><tr><td colspan="7" rowspan="1"><hr/></td></tr><tr><td rowspan="1" colspan="1">Schizophrenia, <italic>n</italic> (%)</td><td rowspan="1" colspan="1">139 (41)</td><td rowspan="1" colspan="1">53 (77)</td><td rowspan="1" colspan="1">33 (39)</td><td rowspan="1" colspan="1">40 (63)</td><td rowspan="1" colspan="1"><bold>0.001</bold></td><td rowspan="1" colspan="1">&#x003c7;<sup>2</sup> = 38.52, d.f. = 3</td></tr><tr><td colspan="7" rowspan="1"><hr/></td></tr><tr><td rowspan="1" colspan="1">Ethnicity, <italic>n</italic> (%)</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;White British</td><td rowspan="1" colspan="1">100 (72)</td><td rowspan="1" colspan="1">41 (77)</td><td rowspan="1" colspan="1">21 (64)</td><td rowspan="1" colspan="1">17 (42)</td><td rowspan="1" colspan="1"><bold>0.002</bold></td><td rowspan="1" colspan="1">&#x003c7;<sup>2</sup> = 15.23, d.f. = 3</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;White other</td><td rowspan="1" colspan="1">5 (4)</td><td rowspan="1" colspan="1">0 (0)</td><td rowspan="1" colspan="1">1 (3)</td><td rowspan="1" colspan="1">2 (5)</td><td rowspan="1" colspan="1">0.500</td><td rowspan="1" colspan="1">&#x003c7;<sup>2</sup> = 2.34, d.f. = 3</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Black/Black British</td><td rowspan="1" colspan="1">19 (14)</td><td rowspan="1" colspan="1">3 (6)</td><td rowspan="1" colspan="1">4 (12)</td><td rowspan="1" colspan="1">11 (28)</td><td rowspan="1" colspan="1"><bold>0.026</bold></td><td rowspan="1" colspan="1">&#x003c7;<sup>2</sup> = 9.25, d.f. = 3</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Asian/Asian British</td><td rowspan="1" colspan="1">9 (6)</td><td rowspan="1" colspan="1">5 (9)</td><td rowspan="1" colspan="1">2 (6)</td><td rowspan="1" colspan="1">3 (7)</td><td rowspan="1" colspan="1">0.902</td><td rowspan="1" colspan="1">&#x003c7;<sup>2</sup> = 0.58, d.f. = 3</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Mixed/other ethnicity</td><td rowspan="1" colspan="1">6 (4)</td><td rowspan="1" colspan="1">4 (8)</td><td rowspan="1" colspan="1">5 (15)</td><td rowspan="1" colspan="1">7 (18)</td><td rowspan="1" colspan="1"><bold>0.024</bold></td><td rowspan="1" colspan="1">&#x003c7;<sup>2</sup> = 9.42, d.f. = 3</td></tr><tr><td colspan="7" rowspan="1"><hr/></td></tr><tr><td rowspan="1" colspan="1">Age, years</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Mean (s.d.)</td><td align="left" rowspan="1" colspan="1">40.0 (9.8)</td><td align="left" rowspan="1" colspan="1">36.9 (8.7)</td><td align="left" rowspan="1" colspan="1">36.5 (8.8)</td><td align="left" rowspan="1" colspan="1">38.1 (10.3)</td><td rowspan="1" colspan="1">0.100</td><td rowspan="2" valign="top" colspan="1">ANOVA<break/><italic>F</italic><sub>(3,261)</sub> = 2.10</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Median (range)</td><td align="left" rowspan="1" colspan="1">38.6 (21.9&#x02013;66.3)</td><td align="left" rowspan="1" colspan="1">37.2 (19.6&#x02013;60.0)</td><td align="left" rowspan="1" colspan="1">35.2 (21.8&#x02013;58.2)</td><td align="left" rowspan="1" colspan="1">35.9 (19.8&#x02013;62.0)</td><td rowspan="1" colspan="1">&#x02013;</td></tr><tr><td colspan="7" rowspan="1"><hr/></td></tr><tr><td rowspan="1" colspan="1">Length of stay, years</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Mean (s.d.)</td><td align="left" rowspan="1" colspan="1">6.4 (4.5)</td><td align="left" rowspan="1" colspan="1">2.1 (1.9)</td><td align="left" rowspan="1" colspan="1">1.9 (1.4)</td><td align="left" rowspan="1" colspan="1">3.0 (3.9)</td><td rowspan="1" colspan="1"><bold>0.001</bold></td><td rowspan="2" valign="top" colspan="1">ANOVA<break/><italic>F</italic><sub>(3,261)</sub> = 26.86</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Median (range)</td><td align="left" rowspan="1" colspan="1">5.9 (0.1&#x02013;21.4)</td><td align="left" rowspan="1" colspan="1">1.5 (0.1&#x02013;8.0)</td><td align="left" rowspan="1" colspan="1">1.4 (0.03&#x02013;5.6)</td><td align="left" rowspan="1" colspan="1">1.5 (0.03&#x02013;18.2)</td><td rowspan="1" colspan="1">&#x02013;</td></tr><tr><td colspan="7" rowspan="1"><hr/></td></tr><tr><td rowspan="1" colspan="1">Female patients, <italic>n</italic> (%)<sup><xref ref-type="table-fn" rid="TFN2">b</xref></sup></td><td rowspan="1" colspan="1">5 (3.6)</td><td align="left" rowspan="1" colspan="1">0 (0)</td><td align="left" rowspan="1" colspan="1">1 (3.0)</td><td align="left" rowspan="1" colspan="1">4 (10.0)</td><td rowspan="1" colspan="1">0.093</td><td rowspan="1" colspan="1">&#x003c7;<sup>2</sup> = 0.58, d.f. = 3</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Age, years: mean (s.d.)</td><td align="left" rowspan="1" colspan="1">43.1 (5.9)</td><td rowspan="1" colspan="1">&#x02013;</td><td rowspan="1" colspan="1">&#x02013;</td><td align="left" rowspan="1" colspan="1">41.7 (13.4)</td><td rowspan="1" colspan="1">0.373</td><td rowspan="1" colspan="1">ANOVA <italic>F</italic><sub>(2,7)</sub> = 1.14</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Age, years: median (range)</td><td align="left" rowspan="1" colspan="1">41.1 (36.9&#x02013;54.3)</td><td rowspan="1" colspan="1">&#x02013;</td><td rowspan="1" colspan="1">&#x02013;</td><td align="left" rowspan="1" colspan="1">39.7 (25.7&#x02013;62.0)</td><td rowspan="1" colspan="1">&#x02013;</td><td rowspan="1" colspan="1"/></tr><tr><td colspan="7" rowspan="1"><hr/></td></tr><tr><td valign="bottom" rowspan="1" colspan="1">Length of stay, years:<break/>mean (s.d.)</td><td valign="bottom" align="left" rowspan="1" colspan="1">4.9 (2.4)</td><td valign="bottom" rowspan="1" colspan="1">&#x02013;</td><td valign="bottom" rowspan="1" colspan="1">&#x02013;</td><td align="left" valign="bottom" rowspan="1" colspan="1">1.1 (0.4)</td><td valign="bottom" rowspan="1" colspan="1">0.053</td><td valign="bottom" rowspan="1" colspan="1">ANOVA <italic>F</italic><sub>(2,7)</sub> = 4.62</td></tr><tr><td valign="bottom" rowspan="1" colspan="1">Length of stay, years:<break/>median (range)</td><td valign="bottom" align="left" rowspan="1" colspan="1">6.5 (1.3&#x02013;6.8)</td><td valign="bottom" rowspan="1" colspan="1">&#x02013;</td><td valign="bottom" rowspan="1" colspan="1">&#x02013;</td><td align="left" valign="bottom" rowspan="1" colspan="1">1.1 (0.5&#x02013;1.6)</td><td valign="bottom" rowspan="1" colspan="1">&#x02013;</td><td rowspan="1" colspan="1"/></tr></tbody></table><table-wrap-foot><fn id="TFN1"><label>a.</label><p>Bold denotes significance (<italic>P</italic> &#x02a7d; 0.05).</p></fn><fn id="TFN2"><label>b.</label><p>As medium secure hospital 2 had only 1 female in-patient, means and medians for age and length of stay have not been calculated.</p></fn></table-wrap-foot></table-wrap><p id="P22">Medium secure hospital 1 provides a male-only service. The high secure hospital and medium secure hospital 2 have wards specialising in the care of patients with personality disorder, whereas medium secure hospital 1 and the low secure hospital do not, hence the differences in the rate of schizophrenia. The proportion of patients from Black and minority ethnic (BME) groups was high when compared with the general population<sup><xref rid="R7" ref-type="bibr">7</xref></sup> (29% <italic>v.</italic> 14% respectively). The rate was highest for the low secure hospital (53%). This significant finding mirrors an earlier study<sup><xref rid="R8" ref-type="bibr">8</xref></sup> which found an overrepresentation of BME groups admitted to low secure services across the UK.</p><p id="P23">There was little difference in mean patient age between the four hospitals, and expected differences in the mean lengths of stay.</p></sec><sec id="S11"><title>Pattern of prescribing</title><p id="P24">Of all patients with schizophrenia, 3% (<italic>n</italic> = 8) were not prescribed antipsychotic medication and 12% (<italic>n</italic> = 33) were prescribed antipsychotic medication constituting polypharmacy. The most common polypharmacological combination was clozapine augmented with a second-generation oral antipsychotic. Data regarding the prescription of antipsychotic medication are summarised in <xref ref-type="table" rid="T2">Table 2</xref>.</p><table-wrap id="T2" orientation="portrait" position="float"><label>Table 2</label><caption><p>Antipsychotic prescribing for patients with schizophrenia at the four hospitals</p></caption><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" valign="middle" span="1"/><col align="center" valign="middle" span="1"/><col align="center" valign="middle" span="1"/><col align="center" valign="middle" span="1"/><col align="center" valign="middle" span="1"/><col align="center" valign="middle" span="1"/><col align="center" valign="middle" span="1"/></colgroup><thead><tr><th rowspan="1" colspan="1"/><th rowspan="2" valign="bottom" colspan="1">High secure<break/>hospital</th><th colspan="3" rowspan="1">Medium secure hospitals<hr/></th><th rowspan="2" valign="bottom" colspan="1">Low secure<break/>hospital</th><th rowspan="1" colspan="1"/></tr><tr><th rowspan="1" colspan="1"/><th rowspan="1" colspan="1">1</th><th rowspan="1" colspan="1">2</th><th rowspan="1" colspan="1">Combined</th><th rowspan="1" colspan="1">Total</th></tr></thead><tbody><tr><td rowspan="1" colspan="1">Regular first-generation antipsychotic only, <italic>n</italic> (%)</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">Oral</td><td rowspan="1" colspan="1">6 (4)</td><td rowspan="1" colspan="1">2 (4)</td><td rowspan="1" colspan="1">0 (0)</td><td rowspan="1" colspan="1">2 (2)</td><td rowspan="1" colspan="1">2 (5)</td><td rowspan="1" colspan="1">10 (4)</td></tr><tr><td rowspan="1" colspan="1">Depot</td><td rowspan="1" colspan="1">17 (12)</td><td rowspan="1" colspan="1">7 (13)</td><td rowspan="1" colspan="1">8 (24)</td><td rowspan="1" colspan="1">15 (17)</td><td rowspan="1" colspan="1">9 (22)</td><td rowspan="1" colspan="1">41 (15)</td></tr><tr><td colspan="7" rowspan="1"><hr/></td></tr><tr><td rowspan="1" colspan="1">Regular second-generation antipsychotic only,<sup><xref ref-type="table-fn" rid="TFN3">a</xref></sup>
-<italic>n</italic> (%)</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">Oral</td><td rowspan="1" colspan="1">59 (42)</td><td rowspan="1" colspan="1">8 (15)</td><td rowspan="1" colspan="1">10 (30)</td><td rowspan="1" colspan="1">18 (21)</td><td rowspan="1" colspan="1">11 (27)</td><td rowspan="1" colspan="1">88 (33)</td></tr><tr><td rowspan="1" colspan="1">Depot</td><td rowspan="1" colspan="1">1 (1)</td><td rowspan="1" colspan="1">9 (17)</td><td rowspan="1" colspan="1">0 (0)</td><td rowspan="1" colspan="1">9 (10)</td><td rowspan="1" colspan="1">6 (15)</td><td rowspan="1" colspan="1">16 (6)</td></tr><tr><td colspan="7" rowspan="1"><hr/></td></tr><tr><td rowspan="1" colspan="1">Clozapine only, <italic>n</italic> (%)</td><td rowspan="1" colspan="1">33 (24)</td><td rowspan="1" colspan="1">18 (34)</td><td rowspan="1" colspan="1">10 (30)</td><td rowspan="1" colspan="1">28 (33)</td><td rowspan="1" colspan="1">8 (20)</td><td rowspan="1" colspan="1">69 (26)</td></tr><tr><td colspan="7" rowspan="1"><hr/></td></tr><tr><td rowspan="1" colspan="1">Total, <italic>n</italic></td><td rowspan="1" colspan="1">139</td><td rowspan="1" colspan="1">53</td><td rowspan="1" colspan="1">33</td><td rowspan="1" colspan="1">86</td><td rowspan="1" colspan="1">40</td><td rowspan="1" colspan="1">265</td></tr></tbody></table><table-wrap-foot><fn id="TFN3"><label>a.</label><p>Excluding clozapine.</p></fn></table-wrap-foot></table-wrap><p id="P25">Clozapine was prescribed to 26% of all patients, with the highest prescription rate observed in medium security hospitals (33%).</p><p id="P26">Excluding polypharmacy and clozapine use, more patients were prescribed a second-generation oral agent than a first-generation oral agent (33% <italic>v.</italic> 4%); this was true for all four hospitals. In general, this pattern was reversed for depot agents, with more patients being prescribed a first-generation depot agent than a second-generation depot agent (15% <italic>v.</italic> 6%). 70% of patients with schizophrenia in high security were prescribed an oral antipsychotic only (including clozapine), compared with 56% of patients in medium security and 52% of patients in low security (<xref ref-type="table" rid="T2">Table 2</xref>). It emerged that 13% of patients with schizophrenia in high security were prescribed a depot antipsychotic only, compared with 28% of patients in medium security and 37% of patients in low security. Owing to the relatively small sample sizes, data from the two medium secure hospitals and one low secure hospital were combined for statistical analysis, as shown in <xref ref-type="table" rid="T3">Table 3</xref>.</p><table-wrap id="T3" orientation="portrait" position="float"><label>Table 3</label><caption><p>Oral and depot antipsychotic prescribing for schizophrenia in high security and the other hospitals</p></caption><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" valign="middle" span="1"/><col align="center" valign="middle" span="1"/><col align="center" valign="middle" span="1"/><col align="center" valign="middle" span="1"/></colgroup><thead><tr><th rowspan="1" colspan="1"/><th rowspan="1" colspan="1">High secure hospital</th><th rowspan="1" colspan="1">Other hospitals<sup><xref ref-type="table-fn" rid="TFN4">a</xref></sup></th><th rowspan="1" colspan="1">Total, <italic>n</italic></th></tr></thead><tbody><tr><td rowspan="1" colspan="1">One type of regular oral antipsychotic only, <italic>n</italic> (%)</td><td rowspan="1" colspan="1">98 (70)</td><td rowspan="1" colspan="1">69 (55)</td><td rowspan="1" colspan="1">167</td></tr><tr><td colspan="4" rowspan="1"><hr/></td></tr><tr><td rowspan="1" colspan="1">One type of regular depot antipsychotic only, <italic>n</italic> (%)</td><td rowspan="1" colspan="1">18 (13)</td><td rowspan="1" colspan="1">39 (31)</td><td rowspan="1" colspan="1">57</td></tr><tr><td colspan="4" rowspan="1"><hr/></td></tr><tr><td rowspan="1" colspan="1">Other,<sup><xref ref-type="table-fn" rid="TFN5">b</xref></sup>
-<italic>n</italic> (%)</td><td rowspan="1" colspan="1">23 (17)</td><td rowspan="1" colspan="1">18 (14)</td><td rowspan="1" colspan="1">41</td></tr><tr><td colspan="4" rowspan="1"><hr/></td></tr><tr><td rowspan="1" colspan="1">Total, <italic>n</italic></td><td rowspan="1" colspan="1">139</td><td rowspan="1" colspan="1">126</td><td rowspan="1" colspan="1">265</td></tr></tbody></table><table-wrap-foot><fn id="TFN4"><label>a.</label><p>Medium secure hospital 1, medium secure hospital 2, low secure hospital.</p></fn><fn id="TFN5"><label>b.</label><p>More than one type of antipsychotic prescribed regularly, no regular antipsychotic prescribed.</p></fn></table-wrap-foot></table-wrap><p id="P27">Chi-square testing revealed a significant difference in the rate of prescribing of oral and depot antipsychotic medication between the high secure hospital and the other hospitals (&#x003c7;<sup>2</sup> = 12.78, d.f. = 2, <italic>P</italic> &#x0003c; 0.01). The data suggest that more oral medication was used in high security and more depot medication was used in the other hospitals. <xref ref-type="table" rid="T4">Table 4</xref> shows the route of medication administration for patients with schizophrenia broken down by ethnicity. When medication was prescribed (i.e. excluding the &#x02018;no antipsychotic prescribed&#x02019; category), chi-square analysis showed a statistically significant difference between the ethnic groups (&#x003c7;<sup>2</sup> = 6.90, d.f. = 2, <italic>P</italic> &#x0003c; 0.05); depot antipsychotics appear to be used more frequently for patients from BME groups.</p><table-wrap id="T4" orientation="portrait" position="float"><label>Table 4</label><caption><p>Medication administration for patients with schizophrenia by ethnicity</p></caption><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" valign="middle" span="1"/><col align="left" valign="middle" span="1"/><col align="left" valign="middle" span="1"/><col align="left" valign="middle" span="1"/><col align="left" valign="middle" span="1"/><col align="right" valign="middle" span="1"/></colgroup><thead><tr><th rowspan="1" colspan="1"/><th align="center" rowspan="1" colspan="1">Regular depot<break/>antipsychotic only</th><th align="center" rowspan="1" colspan="1">Regular oral<break/>antipsychotic only</th><th align="center" rowspan="1" colspan="1">Regular depot and<break/>oral antipsychotic</th><th align="center" rowspan="1" colspan="1">No antipsychotic</th><th align="center" rowspan="1" colspan="1">Total</th></tr></thead><tbody><tr><td rowspan="1" colspan="1">BME patients, <italic>n</italic> (%)</td><td rowspan="1" colspan="1">23 (29.5)</td><td rowspan="1" colspan="1">48 (61.5)</td><td rowspan="1" colspan="1">5 (6.4)</td><td rowspan="1" colspan="1">2 (2.6)</td><td rowspan="1" colspan="1">78</td></tr><tr><td colspan="6" rowspan="1"><hr/></td></tr><tr><td rowspan="1" colspan="1">White patients, <italic>n</italic> (%)</td><td rowspan="1" colspan="1">34 (18.2)</td><td rowspan="1" colspan="1">142 (75.9)</td><td rowspan="1" colspan="1">5 (2.7)</td><td rowspan="1" colspan="1">6 (3.2)</td><td rowspan="1" colspan="1">187</td></tr><tr><td colspan="6" rowspan="1"><hr/></td></tr><tr><td rowspan="1" colspan="1">Total</td><td rowspan="1" colspan="1">57</td><td rowspan="1" colspan="1">190</td><td rowspan="1" colspan="1">10</td><td rowspan="1" colspan="1">8</td><td rowspan="1" colspan="1">265</td></tr></tbody></table></table-wrap></sec><sec id="S12"><title>Consultant questionnaires</title><p id="P28">The questionnaire was sent to the 34 consultant forensic psychiatrists based at the four secure hospitals in the trust (19 at the high secure hospital, 10 at the two medium secure hospitals and 5 at the low secure hospital), as well as to the 3 forensic consultants working in community forensic services within the same trust. The overall response rate was 78% (74% high secure, 80% medium secure, 80% low secure and 100% community). Limitations in the data collected leave us unable to comment on any differences (e.g. gender, age, years of experience) between consultants who did and did not respond.</p><p id="P29">Of the hospital-based consultants responding to the questionnaire, 35% expressed a preference for oral medication and 42% expressed a preference for depot medication; 23% did not express a preference. The mean score on the 0&#x02013;100 scale, where 0 indicated a preference for oral and 100 for depot medication, was 37 (s.d. = 20) for respondents from high security and 74 (s.d. = 22) for respondents from other settings (medium security and low security); ANOVA demonstrated a significant difference between the two groups (<italic>F</italic><sub>(1,24)</sub> = 19.759, <italic>P</italic> &#x0003c; 0.01). Thus, those working in high security preferred oral medications and those working in other settings preferred depot medications.</p><p id="P30">Most (89%) expressing a preference for oral medications worked in high security. The following reasons were given: convenience for patient, adherence, safety, less invasive, improved engagement, increased patient responsibility and improved therapeutic relationship. Most (73%) expressing a preference for depot medications worked in medium or low security, and their reasons were: adherence, clinical outcome, expectation from next level of security, reduced side-effects, reduced tension between patient and team, easier risk management in community, &#x02018;mental health review tribunal&#x02019;/&#x02018;Ministry of Justice&#x02019; reassurance, and reduced adverse events.</p><p id="P31">All of the community-based forensic consultants expressed a preference for depot medication; stated reasons included adherence, clinical outcome and convenience for the patient.</p><p id="P32">Community-based forensic consultants were asked two further questions (see Method). It emerged that route of administration was important for consultants when considering whether or not to accept a patient (mean rating for question 1, where 0 was &#x02018;very important&#x02019; and 100 was &#x02018;not at all important&#x02019;, was 31 (s.d. = 17)). Considering question 2, consultants were also likely to accept patients currently prescribed an oral antipsychotic (not clozapine) (mean rating 72 (s.d. = 21), where 0 &#x02013; very unlikely, 100 &#x02013; very likely).</p></sec></sec><sec sec-type="discussion" id="S13"><title>Discussion</title><sec id="S14"><title>Findings</title><p id="P33">This study demonstrates a similar rate of antipsychotic prescribing (97%) as a previous study;<sup><xref rid="R6" ref-type="bibr">6</xref></sup> 3% of patients were not prescribed antipsychotic medication. Consultant psychiatrists may opt not to prescribe antipsychotic medication in the context of a drug-free trial related to diagnostic uncertainty or severe side-effects, or because a patient has refused to take such medication.</p><p id="P34">This study reveals significant differences in the antipsychotic prescribing practices of consultants working in different levels of secure care. Consultants in high security were found to prescribe more oral antipsychotics, and those in medium and low security were found to prescribe more depot antipsychotics. It may be that the likelihood of high secure patients having an extended period of supervised care ahead of them reduces the bearing of adherence on antipsychotic selection.</p><p id="P35">The overall rate of depot antipsychotic prescribing was lower than that found by Paton<sup><xref rid="R6" ref-type="bibr">6</xref></sup> and also lower than that quoted in the Maudsley guidelines.<sup><xref rid="R9" ref-type="bibr">9</xref></sup> Polypharmacy was less prevalent than in Paton's study;<sup><xref rid="R6" ref-type="bibr">6</xref></sup> this finding was welcome but perhaps unsurprising as over a decade later the risks associated with polypharmacy are better understood and many trusts have guidelines restricting polypharmacy. The Care Quality Commission also actively discourages polypharmacy. The most common combination of clozapine augmented by a second-generation oral antipsychotic is in keeping with usual approaches to treatment-resistant schizophrenia.</p><p id="P36">BME patients with schizophrenia were significantly more likely than their White counterparts to be prescribed a depot antipsychotic. This finding builds upon existing research.<sup><xref rid="R10" ref-type="bibr">10</xref>,<xref rid="R11" ref-type="bibr">11</xref></sup></p><p id="P37">Significant differences in the opinions expressed by consultants were found: consultants working in high security preferred oral antipsychotics and consultants working in other settings preferred depot antipsychotics. Overall, 31% of all respondents expressed a preference for oral antipsychotics and 89% of these worked in high security, whereas 48% of respondents expressed a preference for depot antipsychotics and 79% of these worked in medium and low security and the community. Comments from community consultants suggest there is no expectation that patients should be prescribed a depot antipsychotic before they are deemed suitable to be managed by community services.</p><p id="P38">It is noteworthy that the presence of a community forensic team may mean that the area served by the NHS trust in this study is not typical of other areas in England and Wales. Community forensic services are not available countrywide and it may be that general adult psychiatrists accepting patients from secure services hold different views than their forensic colleagues.</p></sec><sec id="S15"><title>Adherence</title><p id="P39">Both consultants preferring oral antipsychotics and those preferring depot antipsychotics listed &#x02018;adherence&#x02019; as a reason for their preference. For patients with schizophrenia, poor adherence can be related to forgetfulness, disorganisation, complexity of regime, cost, lack of insight, ambivalence, poor relationship with therapist, stigma, side-effects and lack of perceived efficacy.<sup><xref rid="R3" ref-type="bibr">3</xref>,<xref rid="R12" ref-type="bibr">12</xref></sup> Higher rates of non-adherence have been reported in patients with schizophrenia prescribed oral medication than those prescribed depot medication<sup><xref rid="R13" ref-type="bibr">13</xref></sup> and patients treated with depot medication have been found more likely to continue medication, and to continue it for longer, than patients treated with oral medication. It has been suggested that improved adherence is likely to lead to better clinical and functional outcomes.<sup><xref rid="R14" ref-type="bibr">14</xref></sup></p><p id="P40">Stone &#x00026; Niz<sup><xref rid="R15" ref-type="bibr">15</xref></sup> found that non-adherent patients with schizophrenia were more likely to enter the criminal justice system and suggest that consideration be given to using depot antipsychotics (or clozapine) as a first-line treatment for offenders with schizophrenia. Arango <italic>et al</italic><sup><xref rid="R16" ref-type="bibr">16</xref></sup> studied patients with schizophrenia and a history of violence. Of those who were violent again, those prescribed oral antipsychotics were violent sooner, and more frequently, than those prescribed depot antipsychotics. The authors link improved adherence to reductions in violence. It may therefore appear counterintuitive that the forensic population studied were prescribed less depot medication than patients in an earlier, mixed population, study<sup><xref rid="R6" ref-type="bibr">6</xref></sup> and the rates quoted in the Maudsley guidelines.<sup><xref rid="R9" ref-type="bibr">9</xref></sup></p></sec><sec id="S16"><title>Efficacy</title><p id="P41">Reviews comparing the efficacy of oral and depot antipsychotics<sup><xref rid="R12" ref-type="bibr">12</xref>,<xref rid="R17" ref-type="bibr">17</xref></sup> report that mirror-image and some large cohort studies have favoured depot preparations but randomised controlled trials (RCTs) have not.</p><p id="P42">Lafeuille <italic>et al</italic><sup><xref rid="R18" ref-type="bibr">18</xref></sup> compared outcomes in patients who relapsed on an oral medication and were then &#x02018;switched&#x02019; to a depot antipsychotic with those who remained on an oral medication. &#x02018;Switched&#x02019; patients had fewer readmissions and fewer emergency presentations. Johnson<sup><xref rid="R19" ref-type="bibr">19</xref></sup> found that 33 months after being discharged from hospital, 40% of patients prescribed depot antipsychotics relapsed, in comparison with 60% of patients prescribed oral antipsychotics. David &#x00026; Adams&#x02019; review<sup><xref rid="R3" ref-type="bibr">3</xref></sup> of non-forensic patients with schizophrenia identified little difference between oral and depot antipsychotics in terms of relapse rates or side-effects, but depot formulations were found superior in bringing about &#x02018;important global change&#x02019;. Leucht <italic>et al</italic><sup><xref rid="R20" ref-type="bibr">20</xref></sup> present a systematic review and meta-analysis of 10 RCTs carried out between 1975 and 2010; there were significantly fewer relapses in out-patients prescribed depot medication than in those prescribed oral medication.</p></sec><sec id="S17"><title>Psychiatrist attitude</title><p id="P43">Haddad <italic>et al</italic><sup><xref rid="R21" ref-type="bibr">21</xref></sup> report that 50% of psychiatrists said that their use of depot antipsychotics had reduced in the previous 5 years, and 23% said that their use had increased (the 5-year time-span included the introduction of second-generation depot agents). Despite 89% opining that depot administration was associated with better adherence, and 98% opining that depot administration was associated with reduced relapse rates, only 4% said that depot was their &#x02018;first choice&#x02019; route of administration for patients requiring long-term treatment. The findings from the current study may go some way in explaining the possible cognitive dissonance demonstrated by Haddad <italic>et al</italic>'s findings, i.e. consultant psychiatrists may consider many things other than adherence when deciding on antipsychotic treatment.</p><p id="P44">Potkin <italic>et al</italic><sup><xref rid="R22" ref-type="bibr">22</xref></sup> reviewed prescriber-patient conversations and found that depot antipsychotics were discussed only half of the time when a patient prescribed an oral antipsychotic wished to discuss a change in medication.</p></sec><sec id="S18"><title>Advantages and disadvantages of depot antipsychotic medication</title><p id="P45">Previous studies have commented on perceived advantages and disadvantages of depot medications.<sup><xref rid="R1" ref-type="bibr">1</xref>,<xref rid="R3" ref-type="bibr">3</xref>,<xref rid="R12" ref-type="bibr">12</xref>&#x02013;<xref rid="R14" ref-type="bibr">14</xref>,<xref rid="R19" ref-type="bibr">19</xref>,<xref rid="R22" ref-type="bibr">22</xref>,<xref rid="R23" ref-type="bibr">23</xref></sup> Advantages have included a more constant plasma level, improved bioavailability, reduced availability of medication for overdose, improved adherence, more time to intervene when non-adherence is identified, reduction in family conflict and reduced treatment costs. Studies assessing patient attitude towards depot medication have revealed generally positive attitudes.<sup><xref rid="R3" ref-type="bibr">3</xref>,<xref rid="R22" ref-type="bibr">22</xref></sup></p><p id="P46">Disadvantages have included concern about side-effects, effect on therapeutic relationship, risk of high-dose prescribing, inappropriateness of use post-neuroleptic malignant syndrome, less flexibility and delayed response (i.e. mental state improvement on initiation, side-effect reduction on discontinuation). Potkin <italic>et al</italic><sup><xref rid="R22" ref-type="bibr">22</xref></sup> found that the usual reason for a patient declining depot medication was needle phobia.</p><p id="P47">This study adds to the existing literature by providing a forensic perspective on the advantages and disadvantages of depot medication.</p></sec><sec id="S19"><title>Limitations</title><p id="P48">This study encountered a number of limitations which restrict the generalisability of the findings to wider forensic and indeed non-forensic settings. These include the small sample size, particularly with regard to the community consultants, the use of a non-validated questionnaire, and not including patients in the private sector (who in 2007 accounted for 35% of patients in England).<sup><xref rid="R24" ref-type="bibr">24</xref></sup></p></sec><sec id="S20"><title>Clinical implications</title><p id="P49">Community teams caring for forensic patients with schizophrenia do not seem to have an expectation that patients should be prescribed a depot antipsychotic medication before they are deemed suitable for their service. It could be argued that given the relatively low rate of depot antipsychotic prescribing found in this study, and the superiority of depot preparations in terms of adherence, readmission and relapse rates, &#x02018;important global change&#x02019; and, notably, risk of violence revealed through this literature review, consultants working with forensic populations should consider taking steps to increase their use of depot antipsychotic medications.</p></sec><sec id="S21"><title>Directions for future research</title><p id="P50">Future research could attempt to evaluate the opinions of a more representative sample of consultant forensic psychiatrists, or the opinions of general adult psychiatrists and non-medical practitioners, particularly nurses,<sup><xref rid="R3" ref-type="bibr">3</xref></sup> who may be expected to receive the handover of patients formerly known to forensic services. It would also be interesting to establish whether or not the perceived effectiveness of different types of antipsychotics influences prescribers' choices. Future research could further explore the finding that BME patients are more likely to be prescribed a depot antipsychotic than their White counterparts. It may also be useful to undertake a follow-up study, where patients stepped down from high or medium security are followed up some time after discharge and any changes in antipsychotic prescription are identified and investigated.</p></sec></sec></body><back><fn-group><fn fn-type="COI-statement"><p><bold>Declaration of interest</bold> None.</p></fn></fn-group><ack><p id="P51">We are grateful to Dr Chris Clark, Dr Simon Gibbon, Dr Najat Khalifa and Sarah Brennan for their help and advice.</p></ack><ref-list><title>References</title><ref id="R1"><label>1</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><collab>Royal College of Psychiatrists</collab></person-group>
-<source>Consensus Statement on High-Dose Antipsychotic Medication (CR190)</source>. <publisher-name>Royal College of Psychiatrists</publisher-name>, <year>2014</year>.
-</mixed-citation></ref><ref id="R2"><label>2</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><collab>National Institute for Health and Clinical Excellence</collab></person-group>
-<source>Psychosis and Schizophrenia in Adults: Treatment and Management (CG178)</source>. <publisher-name>NICE</publisher-name>, <year>2014</year>.
-</mixed-citation></ref><ref id="R3"><label>3</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>David</surname><given-names>AS</given-names></name><name name-style="western"><surname>Adams</surname><given-names>C</given-names></name></person-group>, <article-title>Depot antipsychotic medication in the treatment of patients with schizophrenia: (1) Meta-review; (2) Patient and nurse attitudes</article-title>. <source>Health Technol Assess</source>, <year>2001</year>; <volume>5</volume>: <fpage>34</fpage>.
-</mixed-citation></ref><ref id="R4"><label>4</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Taylor</surname><given-names>PJ</given-names></name><name name-style="western"><surname>Leese</surname><given-names>M</given-names></name><name name-style="western"><surname>Williams</surname><given-names>D</given-names></name><name name-style="western"><surname>Butwell</surname><given-names>M</given-names></name><name name-style="western"><surname>Daly</surname><given-names>R</given-names></name><name name-style="western"><surname>Larkin</surname><given-names>E</given-names></name></person-group>
-<article-title>Mental disorder and violence. A special (high security) hospital study</article-title>. <source>Br J Psychiatry</source>
-<year>1998</year>; <volume>172</volume>: <fpage>218</fpage>&#x02013;<lpage>26</lpage>.
-<pub-id pub-id-type="pmid">9614470</pub-id></mixed-citation></ref><ref id="R5"><label>5</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Lelliot</surname><given-names>P</given-names></name><name name-style="western"><surname>Audini</surname><given-names>B</given-names></name><name name-style="western"><surname>Duffett</surname><given-names>R</given-names></name></person-group>
-<article-title>Survey of patients from an inner-London health authority in medium secure psychiatric care</article-title>. <source>Br J Psychiatry</source>
-<year>2001</year>; <volume>178</volume>: <fpage>62</fpage>&#x02013;<lpage>6</lpage>.
-<pub-id pub-id-type="pmid">11136212</pub-id></mixed-citation></ref><ref id="R6"><label>6</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Paton</surname><given-names>C</given-names></name><name name-style="western"><surname>Lelliott</surname><given-names>P</given-names></name><name name-style="western"><surname>Harrington</surname><given-names>M</given-names></name><name name-style="western"><surname>Okacha</surname><given-names>C</given-names></name><name name-style="western"><surname>Sensky</surname><given-names>T</given-names></name><name name-style="western"><surname>Duffett</surname><given-names>R</given-names></name></person-group>
-<article-title>Patterns of antipsychotic and anticholinergic prescribing for hospital in-patients</article-title>. <source>J Psychopharmacol</source>
-<year>2003</year>; <volume>17</volume>: <fpage>223</fpage>&#x02013;<lpage>9</lpage>.
-<pub-id pub-id-type="pmid">12870571</pub-id></mixed-citation></ref><ref id="R7"><label>7</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><collab>Office for National Statistics</collab></person-group>
-<source>Ethnicity and National Identity in England and Wales: 2011</source>. <publisher-name>ONS</publisher-name>, <year>2012</year>.
-</mixed-citation></ref><ref id="R8"><label>8</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Pereira</surname><given-names>S</given-names></name><name name-style="western"><surname>Dawson</surname><given-names>P</given-names></name><name name-style="western"><surname>Sarsam</surname><given-names>M</given-names></name></person-group>
-<article-title>The National Survey of PICU and Low Secure Services: 1. Patient characteristics</article-title>. <source>J Psychiatr Intens Care</source>
-<year>2006</year>; <volume>2</volume>: <fpage>7</fpage>&#x02013;<lpage>12</lpage>.
-</mixed-citation></ref><ref id="R9"><label>9</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><name name-style="western"><surname>Taylor</surname><given-names>D</given-names></name><name name-style="western"><surname>Paton</surname><given-names>C</given-names></name><name name-style="western"><surname>Kapur</surname><given-names>S</given-names></name></person-group>
-<source>Maudsley Prescribing Guidelines</source> (<edition>11th edition</edition>). <publisher-name>Wiley-Blackwell</publisher-name>, <year>2012</year>.
-</mixed-citation></ref><ref id="R10"><label>10</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Lloyd</surname><given-names>K</given-names></name><name name-style="western"><surname>Moodley</surname><given-names>P</given-names></name></person-group>
-<article-title>Psychotropic medication and ethnicity: an inpatient survey</article-title>. <source>Soc Psychiatry Psychiatr Epidemiol</source>
-<year>1992</year>; <volume>27</volume>: <fpage>95</fpage>&#x02013;<lpage>101</lpage>.
-<pub-id pub-id-type="pmid">1594979</pub-id></mixed-citation></ref><ref id="R11"><label>11</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Connolly</surname><given-names>A</given-names></name><name name-style="western"><surname>Taylor</surname><given-names>D</given-names></name></person-group>
-<article-title>Ethnicity and quality of antipsychotic prescribing among inpatients in South London</article-title>. <source>Br J Psychiatry</source>
-<year>2008</year>; <volume>193</volume>: <fpage>161</fpage>&#x02013;<lpage>2</lpage>.
-<pub-id pub-id-type="pmid">18670004</pub-id></mixed-citation></ref><ref id="R12"><label>12</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Kane</surname><given-names>JM</given-names></name><name name-style="western"><surname>Kishimoto</surname><given-names>T</given-names></name><name name-style="western"><surname>Correll</surname><given-names>CU</given-names></name></person-group>
-<article-title>Assessing the comparative effectiveness of long-acting injectable vs. oral antipsychotic medications in the prevention of relapse provides a case study in comparative effectiveness research in psychiatry</article-title>. <source>J Clin Epidemiol</source>
-<year>2013</year>; <volume>66</volume>: <fpage>S37</fpage>&#x02013;<lpage>41</lpage>.
-<pub-id pub-id-type="pmid">23849151</pub-id></mixed-citation></ref><ref id="R13"><label>13</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Hong</surname><given-names>J</given-names></name><name name-style="western"><surname>Novick</surname><given-names>D</given-names></name><name name-style="western"><surname>Brugnoli</surname><given-names>R</given-names></name><name name-style="western"><surname>Bertsch</surname><given-names>J</given-names></name><name name-style="western"><surname>Haro</surname><given-names>JM</given-names></name></person-group>
-<article-title>Changes in adherence and treatment costs following initiation of oral or depot typical antipsychotics among previously non-adherent patients with schizophrenia</article-title>. <source>Hum Psychopharm Clin</source>
-<year>2013</year>; <volume>28</volume>: <fpage>438</fpage>&#x02013;<lpage>46</lpage>.
-</mixed-citation></ref><ref id="R14"><label>14</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Zhu</surname><given-names>B</given-names></name><name name-style="western"><surname>Ascher-Svanum</surname><given-names>H</given-names></name><name name-style="western"><surname>Shi</surname><given-names>L</given-names></name><name name-style="western"><surname>Faries</surname><given-names>D</given-names></name><name name-style="western"><surname>Montgomery</surname><given-names>W</given-names></name><name name-style="western"><surname>Marder</surname><given-names>SR</given-names></name></person-group>
-<article-title>Time to discontinuation of depot and oral first-generation antipsychotics in the usual care of schizophrenia</article-title>. <source>Psychiatr Serv</source>
-<year>2008</year>; <volume>59</volume>: <fpage>315</fpage>&#x02013;<lpage>17</lpage>.
-<pub-id pub-id-type="pmid">18308914</pub-id></mixed-citation></ref><ref id="R15"><label>15</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Stone</surname><given-names>DC</given-names></name><name name-style="western"><surname>Niz</surname><given-names>DO</given-names></name></person-group>
-<article-title>Treatment considerations in the forensic patient with schizophrenia</article-title>. <source>Curr Pharm Design</source>
-<year>2004</year>; <volume>10</volume>: <fpage>2263</fpage>&#x02013;<lpage>7</lpage>.
-</mixed-citation></ref><ref id="R16"><label>16</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Arango</surname><given-names>C</given-names></name><name name-style="western"><surname>Bombin</surname><given-names>I</given-names></name><name name-style="western"><surname>Gonzalez-Salvador</surname><given-names>T</given-names></name><name name-style="western"><surname>Garcia-Cabeza</surname><given-names>I</given-names></name><name name-style="western"><surname>Bobes</surname><given-names>J</given-names></name></person-group>
-<article-title>Randomised clinical trial comparing oral versus depot formulations of zuclopenthixol in patients with schizophrenia and previous violence</article-title>. <source>Eur Psychiat</source>
-<year>2006</year>; <volume>21</volume>: <fpage>34</fpage>&#x02013;<lpage>40</lpage>.
-</mixed-citation></ref><ref id="R17"><label>17</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Kirson</surname><given-names>NY</given-names></name><name name-style="western"><surname>Weiden</surname><given-names>PJ</given-names></name><name name-style="western"><surname>Yermakov</surname><given-names>S</given-names></name><name name-style="western"><surname>Huang</surname><given-names>W</given-names></name><name name-style="western"><surname>Samuelson</surname><given-names>T</given-names></name><name name-style="western"><surname>Offord</surname><given-names>SJ</given-names></name><etal/></person-group>
-<article-title>Efficacy and effectiveness of depot versus oral antipsychotics in schizophrenia: synthesizing results across different research designs</article-title>. <source>J Clin Psychiat</source>
-<year>2013</year>; <volume>74</volume>: <fpage>568</fpage>&#x02013;<lpage>75</lpage>.
-</mixed-citation></ref><ref id="R18"><label>18</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Lafeuille</surname><given-names>M</given-names></name><name name-style="western"><surname>Lalibert&#x000e9;-Auger</surname><given-names>F</given-names></name><name name-style="western"><surname>Lefebvre</surname><given-names>P</given-names></name><name name-style="western"><surname>Frois</surname><given-names>C</given-names></name><name name-style="western"><surname>Fastenau</surname><given-names>J</given-names></name><name name-style="western"><surname>Duh</surname><given-names>MS</given-names></name></person-group>
-<article-title>Impact of atypical long-acting injectable versus oral antipsychotics on rehospitalization rates and emergency room visits among relapsed schizophrenia patients: a retrospective database analysis</article-title>. <source>BMC Psychiatry</source>
-<year>2013</year>; <volume>13</volume>: <fpage>221</fpage>.
-<pub-id pub-id-type="pmid">24016390</pub-id></mixed-citation></ref><ref id="R19"><label>19</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Johnson</surname><given-names>DAW</given-names></name></person-group>
-<article-title>Observations on the use of long-acting depot neuroleptic injections in the maintenance treatment of schizophrenia</article-title>. <source>J Clin Psychiat</source>
-<year>1984</year>; <volume>45</volume>: <fpage>13</fpage>&#x02013;<lpage>21</lpage>.
-</mixed-citation></ref><ref id="R20"><label>20</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Leucht</surname><given-names>C</given-names></name><name name-style="western"><surname>Heres</surname><given-names>S</given-names></name><name name-style="western"><surname>Kane</surname><given-names>JM</given-names></name><name name-style="western"><surname>Kissling</surname><given-names>W</given-names></name><name name-style="western"><surname>Davis</surname><given-names>JM</given-names></name><name name-style="western"><surname>Leucht</surname><given-names>S</given-names></name></person-group>
-<article-title>Oral versus depot antipsychotic drugs for schizophrenia: a critical systematic review and meta-analysis of randomised long-term trials</article-title>. <source>Schizophr Res</source>
-<year>2011</year>; <volume>127</volume>: <fpage>83</fpage>&#x02013;<lpage>92</lpage>.
-<pub-id pub-id-type="pmid">21257294</pub-id></mixed-citation></ref><ref id="R21"><label>21</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Haddad</surname><given-names>PM</given-names></name><name name-style="western"><surname>Chaudhry</surname><given-names>IB</given-names></name><name name-style="western"><surname>Husain</surname><given-names>N</given-names></name><name name-style="western"><surname>McLaughlin</surname><given-names>S</given-names></name><name name-style="western"><surname>Cunningham</surname><given-names>P</given-names></name><name name-style="western"><surname>David</surname><given-names>AS</given-names></name><etal/></person-group>
-<article-title>Psychiatrists' attitudes to antipsychotic depot injections (i): Preferences and choice</article-title>. <source>Eur Psychiatry</source>
-<year>2008</year>; <volume>23</volume>: <fpage>160</fpage>&#x02013;<lpage>1</lpage>.
-</mixed-citation></ref><ref id="R22"><label>22</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Potkin</surname><given-names>S</given-names></name><name name-style="western"><surname>Bera</surname><given-names>R</given-names></name><name name-style="western"><surname>Zubek</surname><given-names>D</given-names></name><name name-style="western"><surname>Lau</surname><given-names>G</given-names></name></person-group>
-<article-title>Patient and prescriber perspectives on long-acting injectable (LAI) antipsychotics and analysis of in-office discussion regarding LAI treatment for schizophrenia</article-title>. <source>BMC Psychiatry</source>
-<year>2013</year>; <volume>13</volume>: <fpage>261</fpage>.
-<pub-id pub-id-type="pmid">24131801</pub-id></mixed-citation></ref><ref id="R23"><label>23</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Caroli</surname><given-names>F</given-names></name><name name-style="western"><surname>Raymondet</surname><given-names>P</given-names></name><name name-style="western"><surname>Izard</surname><given-names>I</given-names></name><name name-style="western"><surname>Plas</surname><given-names>J</given-names></name><name name-style="western"><surname>Gall</surname><given-names>B</given-names></name><name name-style="western"><surname>Delgado</surname><given-names>A</given-names></name><etal/></person-group>
-<article-title>Opinions of French patients with schizophrenia regarding injectable medication</article-title>. <source>Patient Prefer Adher</source>
-<year>2011</year>; <volume>5</volume>: <fpage>165</fpage>&#x02013;<lpage>71</lpage>.
-</mixed-citation></ref><ref id="R24"><label>24</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><collab>Centre for Mental Health, National Mental Health Development Unit</collab></person-group>
-<source>Pathways to Unlocking Secure Mental Health Care</source>. <publisher-name>Centre for Mental Health</publisher-name>, <year>2011</year>.
-</mixed-citation></ref></ref-list></back></article>
+        <list list-type="order">
+            <list-item>
+                <p id="P15">How important is the route of antipsychotic administration in your considering whether to accept a patient on to your caseload? (0&#x02013;100 anchored Likert scale: 0 &#x02013; very important, 100 &#x02013; not at all important).</p>
+            </list-item>
+            <list-item>
+                <p id="P16">How likely are you to accept a patient currently prescribed an oral antipsychotic (not clozapine)? (0&#x02013;100 anchored Likert scale: 0 &#x02013; very unlikely, 100 &#x02013; very likely).</p>
+            </list-item>
+        </list>
+The Likert scale is an ordinal psychometric assessment of attitudes or opinions, typically lacking concrete answers to accommodate neutral or undecided feelings. It was selected for this questionnaire owing to the speed and ease of completion, low cost, ease of distribution, and providing results amenable to analysis.</p>
+    <p id="P17">The Likert scale has been criticised for failing to measure the true attitudes of respondents, as it gives only 5 to 7 options of choice, and also for the space between each choice in reality possibly not being equidistant. In view of this, and in an attempt to further maximise freedom on behalf of the responder and to avoid railroading respondents into giving polarised responses, the Likert scale was amended to include some characteristics of an analogue scale.</p>
+    <p id="P18">The questionnaire was sent, with a cover letter, to all forensic consultants working in the four secure hospitals and in community forensic services in the NHS trust. After 3 months, the questionnaire was sent again to encourage non-responders. All data were supplied anonymously.</p>
+</sec>
+</sec>
+<sec id="S7">
+<title>Ethical considerations</title>
+<p id="P19">The project proposal was reviewed by the trust's research and innovations department and approved as service evaluation; research ethics approval was therefore not required. Patient anonymity was preserved throughout the study.</p>
+</sec>
+<sec id="S8">
+<title>Analytic strategy</title>
+<p id="P20">SPSS version 21 (Windows 10) was used for data analysis. Chi-square and ANOVA were used where appropriate. All tests were two-tailed and <italic>P</italic> &#x02a7d; 0.05 was used to determine statistical significance.</p>
+</sec>
+</sec>
+<sec sec-type="results" id="S9">
+<title>Results</title>
+<sec id="S10">
+<title>Demographic information</title>
+<p id="P21">In July 2014, there were 556 patients detained at the four secure hospitals; 265 (48%) were diagnosed with schizophrenia. The sample characteristics are summarised in <xref ref-type="table" rid="T1">Table 1</xref>.
+</p>
+<table-wrap id="T1" orientation="portrait" position="float">
+    <label>Table 1</label>
+    <caption>
+        <p>Sample characteristics of in-patients at each of the four secure hospitals</p>
+    </caption>
+    <table frame="hsides" rules="groups">
+        <colgroup span="1">
+            <col align="left" valign="middle" span="1" />
+            <col align="center" valign="middle" span="1" />
+            <col align="center" valign="middle" span="1" />
+            <col align="center" valign="middle" span="1" />
+            <col align="center" valign="middle" span="1" />
+            <col align="center" valign="middle" span="1" />
+            <col align="center" valign="middle" span="1" />
+        </colgroup>
+        <thead>
+            <tr>
+                <th rowspan="1" colspan="1" />
+                <th valign="bottom" rowspan="1" colspan="1">High secure<break />
+hospital</th>
+                <th valign="bottom" rowspan="1" colspan="1">Medium secure<break />
+hospital 1</th>
+                <th valign="bottom" rowspan="1" colspan="1">Medium secure<break />
+hospital 2</th>
+                <th valign="bottom" rowspan="1" colspan="1">Low secure<break />
+hospital</th>
+                <th valign="bottom" rowspan="1" colspan="1">
+                    <italic>P</italic>
+                    <sup>
+                        <xref ref-type="table-fn" rid="TFN1">a</xref>
+                    </sup>
+                </th>
+                <th rowspan="1" colspan="1" />
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td rowspan="1" colspan="1">Total number</td>
+                <td rowspan="1" colspan="1">339</td>
+                <td rowspan="1" colspan="1">69</td>
+                <td rowspan="1" colspan="1">85</td>
+                <td rowspan="1" colspan="1">63</td>
+                <td rowspan="1" colspan="1">&#x02013;</td>
+                <td rowspan="1" colspan="1" />
+            </tr>
+            <tr>
+                <td colspan="7" rowspan="1">
+                    <hr />
+                </td>
+            </tr>
+            <tr>
+                <td rowspan="1" colspan="1">Schizophrenia, <italic>n</italic> (%)
+                </td>
+                <td rowspan="1" colspan="1">139 (41)</td>
+                <td rowspan="1" colspan="1">53 (77)</td>
+                <td rowspan="1" colspan="1">33 (39)</td>
+                <td rowspan="1" colspan="1">40 (63)</td>
+                <td rowspan="1" colspan="1">
+                    <bold>0.001</bold>
+                </td>
+                <td rowspan="1" colspan="1">&#x003c7;<sup>2</sup> = 38.52, d.f. = 3</td>
+            </tr>
+            <tr>
+                <td colspan="7" rowspan="1">
+                    <hr />
+                </td>
+            </tr>
+            <tr>
+                <td rowspan="1" colspan="1">Ethnicity, <italic>n</italic> (%)
+                </td>
+                <td rowspan="1" colspan="1" />
+                <td rowspan="1" colspan="1" />
+                <td rowspan="1" colspan="1" />
+                <td rowspan="1" colspan="1" />
+                <td rowspan="1" colspan="1" />
+                <td rowspan="1" colspan="1" />
+            </tr>
+            <tr>
+                <td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;White British</td>
+                <td rowspan="1" colspan="1">100 (72)</td>
+                <td rowspan="1" colspan="1">41 (77)</td>
+                <td rowspan="1" colspan="1">21 (64)</td>
+                <td rowspan="1" colspan="1">17 (42)</td>
+                <td rowspan="1" colspan="1">
+                    <bold>0.002</bold>
+                </td>
+                <td rowspan="1" colspan="1">&#x003c7;<sup>2</sup> = 15.23, d.f. = 3</td>
+            </tr>
+            <tr>
+                <td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;White other</td>
+                <td rowspan="1" colspan="1">5 (4)</td>
+                <td rowspan="1" colspan="1">0 (0)</td>
+                <td rowspan="1" colspan="1">1 (3)</td>
+                <td rowspan="1" colspan="1">2 (5)</td>
+                <td rowspan="1" colspan="1">0.500</td>
+                <td rowspan="1" colspan="1">&#x003c7;<sup>2</sup> = 2.34, d.f. = 3</td>
+            </tr>
+            <tr>
+                <td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Black/Black British</td>
+                <td rowspan="1" colspan="1">19 (14)</td>
+                <td rowspan="1" colspan="1">3 (6)</td>
+                <td rowspan="1" colspan="1">4 (12)</td>
+                <td rowspan="1" colspan="1">11 (28)</td>
+                <td rowspan="1" colspan="1">
+                    <bold>0.026</bold>
+                </td>
+                <td rowspan="1" colspan="1">&#x003c7;<sup>2</sup> = 9.25, d.f. = 3</td>
+            </tr>
+            <tr>
+                <td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Asian/Asian British</td>
+                <td rowspan="1" colspan="1">9 (6)</td>
+                <td rowspan="1" colspan="1">5 (9)</td>
+                <td rowspan="1" colspan="1">2 (6)</td>
+                <td rowspan="1" colspan="1">3 (7)</td>
+                <td rowspan="1" colspan="1">0.902</td>
+                <td rowspan="1" colspan="1">&#x003c7;<sup>2</sup> = 0.58, d.f. = 3</td>
+            </tr>
+            <tr>
+                <td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Mixed/other ethnicity</td>
+                <td rowspan="1" colspan="1">6 (4)</td>
+                <td rowspan="1" colspan="1">4 (8)</td>
+                <td rowspan="1" colspan="1">5 (15)</td>
+                <td rowspan="1" colspan="1">7 (18)</td>
+                <td rowspan="1" colspan="1">
+                    <bold>0.024</bold>
+                </td>
+                <td rowspan="1" colspan="1">&#x003c7;<sup>2</sup> = 9.42, d.f. = 3</td>
+            </tr>
+            <tr>
+                <td colspan="7" rowspan="1">
+                    <hr />
+                </td>
+            </tr>
+            <tr>
+                <td rowspan="1" colspan="1">Age, years</td>
+                <td rowspan="1" colspan="1" />
+                <td rowspan="1" colspan="1" />
+                <td rowspan="1" colspan="1" />
+                <td rowspan="1" colspan="1" />
+                <td rowspan="1" colspan="1" />
+                <td rowspan="1" colspan="1" />
+            </tr>
+            <tr>
+                <td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Mean (s.d.)</td>
+                <td align="left" rowspan="1" colspan="1">40.0 (9.8)</td>
+                <td align="left" rowspan="1" colspan="1">36.9 (8.7)</td>
+                <td align="left" rowspan="1" colspan="1">36.5 (8.8)</td>
+                <td align="left" rowspan="1" colspan="1">38.1 (10.3)</td>
+                <td rowspan="1" colspan="1">0.100</td>
+                <td rowspan="2" valign="top" colspan="1">ANOVA<break />
+                <italic>F</italic>
+                <sub>(3,261)</sub> = 2.10</td>
+        </tr>
+        <tr>
+            <td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Median (range)</td>
+            <td align="left" rowspan="1" colspan="1">38.6 (21.9&#x02013;66.3)</td>
+            <td align="left" rowspan="1" colspan="1">37.2 (19.6&#x02013;60.0)</td>
+            <td align="left" rowspan="1" colspan="1">35.2 (21.8&#x02013;58.2)</td>
+            <td align="left" rowspan="1" colspan="1">35.9 (19.8&#x02013;62.0)</td>
+            <td rowspan="1" colspan="1">&#x02013;</td>
+        </tr>
+        <tr>
+            <td colspan="7" rowspan="1">
+                <hr />
+            </td>
+        </tr>
+        <tr>
+            <td rowspan="1" colspan="1">Length of stay, years</td>
+            <td rowspan="1" colspan="1" />
+            <td rowspan="1" colspan="1" />
+            <td rowspan="1" colspan="1" />
+            <td rowspan="1" colspan="1" />
+            <td rowspan="1" colspan="1" />
+            <td rowspan="1" colspan="1" />
+        </tr>
+        <tr>
+            <td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Mean (s.d.)</td>
+            <td align="left" rowspan="1" colspan="1">6.4 (4.5)</td>
+            <td align="left" rowspan="1" colspan="1">2.1 (1.9)</td>
+            <td align="left" rowspan="1" colspan="1">1.9 (1.4)</td>
+            <td align="left" rowspan="1" colspan="1">3.0 (3.9)</td>
+            <td rowspan="1" colspan="1">
+                <bold>0.001</bold>
+            </td>
+            <td rowspan="2" valign="top" colspan="1">ANOVA<break />
+            <italic>F</italic>
+            <sub>(3,261)</sub> = 26.86</td>
+    </tr>
+    <tr>
+        <td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Median (range)</td>
+        <td align="left" rowspan="1" colspan="1">5.9 (0.1&#x02013;21.4)</td>
+        <td align="left" rowspan="1" colspan="1">1.5 (0.1&#x02013;8.0)</td>
+        <td align="left" rowspan="1" colspan="1">1.4 (0.03&#x02013;5.6)</td>
+        <td align="left" rowspan="1" colspan="1">1.5 (0.03&#x02013;18.2)</td>
+        <td rowspan="1" colspan="1">&#x02013;</td>
+    </tr>
+    <tr>
+        <td colspan="7" rowspan="1">
+            <hr />
+        </td>
+    </tr>
+    <tr>
+        <td rowspan="1" colspan="1">Female patients, <italic>n</italic> (%)            <sup>
+                <xref ref-type="table-fn" rid="TFN2">b</xref>
+            </sup>
+        </td>
+        <td rowspan="1" colspan="1">5 (3.6)</td>
+        <td align="left" rowspan="1" colspan="1">0 (0)</td>
+        <td align="left" rowspan="1" colspan="1">1 (3.0)</td>
+        <td align="left" rowspan="1" colspan="1">4 (10.0)</td>
+        <td rowspan="1" colspan="1">0.093</td>
+        <td rowspan="1" colspan="1">&#x003c7;<sup>2</sup> = 0.58, d.f. = 3</td>
+    </tr>
+    <tr>
+        <td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Age, years: mean (s.d.)</td>
+        <td align="left" rowspan="1" colspan="1">43.1 (5.9)</td>
+        <td rowspan="1" colspan="1">&#x02013;</td>
+        <td rowspan="1" colspan="1">&#x02013;</td>
+        <td align="left" rowspan="1" colspan="1">41.7 (13.4)</td>
+        <td rowspan="1" colspan="1">0.373</td>
+        <td rowspan="1" colspan="1">ANOVA <italic>F</italic>
+            <sub>(2,7)</sub> = 1.14</td>
+    </tr>
+    <tr>
+        <td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Age, years: median (range)</td>
+        <td align="left" rowspan="1" colspan="1">41.1 (36.9&#x02013;54.3)</td>
+        <td rowspan="1" colspan="1">&#x02013;</td>
+        <td rowspan="1" colspan="1">&#x02013;</td>
+        <td align="left" rowspan="1" colspan="1">39.7 (25.7&#x02013;62.0)</td>
+        <td rowspan="1" colspan="1">&#x02013;</td>
+        <td rowspan="1" colspan="1" />
+    </tr>
+    <tr>
+        <td colspan="7" rowspan="1">
+            <hr />
+        </td>
+    </tr>
+    <tr>
+        <td valign="bottom" rowspan="1" colspan="1">Length of stay, years:<break />
+mean (s.d.)</td>
+        <td valign="bottom" align="left" rowspan="1" colspan="1">4.9 (2.4)</td>
+        <td valign="bottom" rowspan="1" colspan="1">&#x02013;</td>
+        <td valign="bottom" rowspan="1" colspan="1">&#x02013;</td>
+        <td align="left" valign="bottom" rowspan="1" colspan="1">1.1 (0.4)</td>
+        <td valign="bottom" rowspan="1" colspan="1">0.053</td>
+        <td valign="bottom" rowspan="1" colspan="1">ANOVA <italic>F</italic>
+            <sub>(2,7)</sub> = 4.62</td>
+    </tr>
+    <tr>
+        <td valign="bottom" rowspan="1" colspan="1">Length of stay, years:<break />
+median (range)</td>
+        <td valign="bottom" align="left" rowspan="1" colspan="1">6.5 (1.3&#x02013;6.8)</td>
+        <td valign="bottom" rowspan="1" colspan="1">&#x02013;</td>
+        <td valign="bottom" rowspan="1" colspan="1">&#x02013;</td>
+        <td align="left" valign="bottom" rowspan="1" colspan="1">1.1 (0.5&#x02013;1.6)</td>
+        <td valign="bottom" rowspan="1" colspan="1">&#x02013;</td>
+        <td rowspan="1" colspan="1" />
+    </tr>
+</tbody>
+</table>
+<table-wrap-foot>
+<fn id="TFN1">
+    <label>a.</label>
+    <p>Bold denotes significance (<italic>P</italic> &#x02a7d; 0.05).</p>
+</fn>
+<fn id="TFN2">
+    <label>b.</label>
+    <p>As medium secure hospital 2 had only 1 female in-patient, means and medians for age and length of stay have not been calculated.</p>
+</fn>
+</table-wrap-foot>
+</table-wrap>
+<p id="P22">Medium secure hospital 1 provides a male-only service. The high secure hospital and medium secure hospital 2 have wards specialising in the care of patients with personality disorder, whereas medium secure hospital 1 and the low secure hospital do not, hence the differences in the rate of schizophrenia. The proportion of patients from Black and minority ethnic (BME) groups was high when compared with the general population<sup>
+<xref rid="R7" ref-type="bibr">7</xref>
+</sup> (29% <italic>v.</italic> 14% respectively). The rate was highest for the low secure hospital (53%). This significant finding mirrors an earlier study<sup>
+<xref rid="R8" ref-type="bibr">8</xref>
+</sup> which found an overrepresentation of BME groups admitted to low secure services across the UK.</p>
+<p id="P23">There was little difference in mean patient age between the four hospitals, and expected differences in the mean lengths of stay.</p>
+</sec>
+<sec id="S11">
+<title>Pattern of prescribing</title>
+<p id="P24">Of all patients with schizophrenia, 3% (<italic>n</italic> = 8) were not prescribed antipsychotic medication and 12% (<italic>n</italic> = 33) were prescribed antipsychotic medication constituting polypharmacy. The most common polypharmacological combination was clozapine augmented with a second-generation oral antipsychotic. Data regarding the prescription of antipsychotic medication are summarised in <xref ref-type="table" rid="T2">Table 2</xref>.
+</p>
+<table-wrap id="T2" orientation="portrait" position="float">
+<label>Table 2</label>
+<caption>
+<p>Antipsychotic prescribing for patients with schizophrenia at the four hospitals</p>
+</caption>
+<table frame="hsides" rules="groups">
+<colgroup span="1">
+<col align="left" valign="middle" span="1" />
+<col align="center" valign="middle" span="1" />
+<col align="center" valign="middle" span="1" />
+<col align="center" valign="middle" span="1" />
+<col align="center" valign="middle" span="1" />
+<col align="center" valign="middle" span="1" />
+<col align="center" valign="middle" span="1" />
+</colgroup>
+<thead>
+<tr>
+<th rowspan="1" colspan="1" />
+<th rowspan="2" valign="bottom" colspan="1">High secure<break />
+hospital</th>
+<th colspan="3" rowspan="1">Medium secure hospitals<hr />
+</th>
+<th rowspan="2" valign="bottom" colspan="1">Low secure<break />
+hospital</th>
+<th rowspan="1" colspan="1" />
+</tr>
+<tr>
+<th rowspan="1" colspan="1" />
+<th rowspan="1" colspan="1">1</th>
+<th rowspan="1" colspan="1">2</th>
+<th rowspan="1" colspan="1">Combined</th>
+<th rowspan="1" colspan="1">Total</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">Regular first-generation antipsychotic only, <italic>n</italic> (%)
+</td>
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td rowspan="1" colspan="1">Oral</td>
+<td rowspan="1" colspan="1">6 (4)</td>
+<td rowspan="1" colspan="1">2 (4)</td>
+<td rowspan="1" colspan="1">0 (0)</td>
+<td rowspan="1" colspan="1">2 (2)</td>
+<td rowspan="1" colspan="1">2 (5)</td>
+<td rowspan="1" colspan="1">10 (4)</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">Depot</td>
+<td rowspan="1" colspan="1">17 (12)</td>
+<td rowspan="1" colspan="1">7 (13)</td>
+<td rowspan="1" colspan="1">8 (24)</td>
+<td rowspan="1" colspan="1">15 (17)</td>
+<td rowspan="1" colspan="1">9 (22)</td>
+<td rowspan="1" colspan="1">41 (15)</td>
+</tr>
+<tr>
+<td colspan="7" rowspan="1">
+    <hr />
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">Regular second-generation antipsychotic only,<sup>
+    <xref ref-type="table-fn" rid="TFN3">a</xref>
+</sup>
+<italic>n</italic> (%)
+</td>
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td rowspan="1" colspan="1">Oral</td>
+<td rowspan="1" colspan="1">59 (42)</td>
+<td rowspan="1" colspan="1">8 (15)</td>
+<td rowspan="1" colspan="1">10 (30)</td>
+<td rowspan="1" colspan="1">18 (21)</td>
+<td rowspan="1" colspan="1">11 (27)</td>
+<td rowspan="1" colspan="1">88 (33)</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">Depot</td>
+<td rowspan="1" colspan="1">1 (1)</td>
+<td rowspan="1" colspan="1">9 (17)</td>
+<td rowspan="1" colspan="1">0 (0)</td>
+<td rowspan="1" colspan="1">9 (10)</td>
+<td rowspan="1" colspan="1">6 (15)</td>
+<td rowspan="1" colspan="1">16 (6)</td>
+</tr>
+<tr>
+<td colspan="7" rowspan="1">
+<hr />
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">Clozapine only, <italic>n</italic> (%)
+</td>
+<td rowspan="1" colspan="1">33 (24)</td>
+<td rowspan="1" colspan="1">18 (34)</td>
+<td rowspan="1" colspan="1">10 (30)</td>
+<td rowspan="1" colspan="1">28 (33)</td>
+<td rowspan="1" colspan="1">8 (20)</td>
+<td rowspan="1" colspan="1">69 (26)</td>
+</tr>
+<tr>
+<td colspan="7" rowspan="1">
+<hr />
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">Total, <italic>n</italic>
+</td>
+<td rowspan="1" colspan="1">139</td>
+<td rowspan="1" colspan="1">53</td>
+<td rowspan="1" colspan="1">33</td>
+<td rowspan="1" colspan="1">86</td>
+<td rowspan="1" colspan="1">40</td>
+<td rowspan="1" colspan="1">265</td>
+</tr>
+</tbody>
+</table>
+<table-wrap-foot>
+<fn id="TFN3">
+<label>a.</label>
+<p>Excluding clozapine.</p>
+</fn>
+</table-wrap-foot>
+</table-wrap>
+<p id="P25">Clozapine was prescribed to 26% of all patients, with the highest prescription rate observed in medium security hospitals (33%).</p>
+<p id="P26">Excluding polypharmacy and clozapine use, more patients were prescribed a second-generation oral agent than a first-generation oral agent (33% <italic>v.</italic> 4%); this was true for all four hospitals. In general, this pattern was reversed for depot agents, with more patients being prescribed a first-generation depot agent than a second-generation depot agent (15% <italic>v.</italic> 6%). 70% of patients with schizophrenia in high security were prescribed an oral antipsychotic only (including clozapine), compared with 56% of patients in medium security and 52% of patients in low security (<xref ref-type="table" rid="T2">Table 2</xref>). It emerged that 13% of patients with schizophrenia in high security were prescribed a depot antipsychotic only, compared with 28% of patients in medium security and 37% of patients in low security. Owing to the relatively small sample sizes, data from the two medium secure hospitals and one low secure hospital were combined for statistical analysis, as shown in <xref ref-type="table" rid="T3">Table 3</xref>.
+</p>
+<table-wrap id="T3" orientation="portrait" position="float">
+<label>Table 3</label>
+<caption>
+<p>Oral and depot antipsychotic prescribing for schizophrenia in high security and the other hospitals</p>
+</caption>
+<table frame="hsides" rules="groups">
+<colgroup span="1">
+<col align="left" valign="middle" span="1" />
+<col align="center" valign="middle" span="1" />
+<col align="center" valign="middle" span="1" />
+<col align="center" valign="middle" span="1" />
+</colgroup>
+<thead>
+<tr>
+<th rowspan="1" colspan="1" />
+<th rowspan="1" colspan="1">High secure hospital</th>
+<th rowspan="1" colspan="1">Other hospitals<sup>
+<xref ref-type="table-fn" rid="TFN4">a</xref>
+</sup>
+</th>
+<th rowspan="1" colspan="1">Total, <italic>n</italic>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">One type of regular oral antipsychotic only, <italic>n</italic> (%)
+</td>
+<td rowspan="1" colspan="1">98 (70)</td>
+<td rowspan="1" colspan="1">69 (55)</td>
+<td rowspan="1" colspan="1">167</td>
+</tr>
+<tr>
+<td colspan="4" rowspan="1">
+<hr />
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">One type of regular depot antipsychotic only, <italic>n</italic> (%)
+</td>
+<td rowspan="1" colspan="1">18 (13)</td>
+<td rowspan="1" colspan="1">39 (31)</td>
+<td rowspan="1" colspan="1">57</td>
+</tr>
+<tr>
+<td colspan="4" rowspan="1">
+<hr />
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">Other,<sup>
+<xref ref-type="table-fn" rid="TFN5">b</xref>
+</sup>
+<italic>n</italic> (%)
+</td>
+<td rowspan="1" colspan="1">23 (17)</td>
+<td rowspan="1" colspan="1">18 (14)</td>
+<td rowspan="1" colspan="1">41</td>
+</tr>
+<tr>
+<td colspan="4" rowspan="1">
+<hr />
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">Total, <italic>n</italic>
+</td>
+<td rowspan="1" colspan="1">139</td>
+<td rowspan="1" colspan="1">126</td>
+<td rowspan="1" colspan="1">265</td>
+</tr>
+</tbody>
+</table>
+<table-wrap-foot>
+<fn id="TFN4">
+<label>a.</label>
+<p>Medium secure hospital 1, medium secure hospital 2, low secure hospital.</p>
+</fn>
+<fn id="TFN5">
+<label>b.</label>
+<p>More than one type of antipsychotic prescribed regularly, no regular antipsychotic prescribed.</p>
+</fn>
+</table-wrap-foot>
+</table-wrap>
+<p id="P27">Chi-square testing revealed a significant difference in the rate of prescribing of oral and depot antipsychotic medication between the high secure hospital and the other hospitals (&#x003c7;<sup>2</sup> = 12.78, d.f. = 2, <italic>P</italic> &#x0003c; 0.01). The data suggest that more oral medication was used in high security and more depot medication was used in the other hospitals. <xref ref-type="table" rid="T4">Table 4</xref> shows the route of medication administration for patients with schizophrenia broken down by ethnicity. When medication was prescribed (i.e. excluding the &#x02018;no antipsychotic prescribed&#x02019; category), chi-square analysis showed a statistically significant difference between the ethnic groups (&#x003c7;<sup>2</sup> = 6.90, d.f. = 2, <italic>P</italic> &#x0003c; 0.05); depot antipsychotics appear to be used more frequently for patients from BME groups.</p>
+<table-wrap id="T4" orientation="portrait" position="float">
+<label>Table 4</label>
+<caption>
+<p>Medication administration for patients with schizophrenia by ethnicity</p>
+</caption>
+<table frame="hsides" rules="groups">
+<colgroup span="1">
+<col align="left" valign="middle" span="1" />
+<col align="left" valign="middle" span="1" />
+<col align="left" valign="middle" span="1" />
+<col align="left" valign="middle" span="1" />
+<col align="left" valign="middle" span="1" />
+<col align="right" valign="middle" span="1" />
+</colgroup>
+<thead>
+<tr>
+<th rowspan="1" colspan="1" />
+<th align="center" rowspan="1" colspan="1">Regular depot<break />
+antipsychotic only</th>
+<th align="center" rowspan="1" colspan="1">Regular oral<break />
+antipsychotic only</th>
+<th align="center" rowspan="1" colspan="1">Regular depot and<break />
+oral antipsychotic</th>
+<th align="center" rowspan="1" colspan="1">No antipsychotic</th>
+<th align="center" rowspan="1" colspan="1">Total</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">BME patients, <italic>n</italic> (%)
+</td>
+<td rowspan="1" colspan="1">23 (29.5)</td>
+<td rowspan="1" colspan="1">48 (61.5)</td>
+<td rowspan="1" colspan="1">5 (6.4)</td>
+<td rowspan="1" colspan="1">2 (2.6)</td>
+<td rowspan="1" colspan="1">78</td>
+</tr>
+<tr>
+<td colspan="6" rowspan="1">
+<hr />
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">White patients, <italic>n</italic> (%)
+</td>
+<td rowspan="1" colspan="1">34 (18.2)</td>
+<td rowspan="1" colspan="1">142 (75.9)</td>
+<td rowspan="1" colspan="1">5 (2.7)</td>
+<td rowspan="1" colspan="1">6 (3.2)</td>
+<td rowspan="1" colspan="1">187</td>
+</tr>
+<tr>
+<td colspan="6" rowspan="1">
+<hr />
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">Total</td>
+<td rowspan="1" colspan="1">57</td>
+<td rowspan="1" colspan="1">190</td>
+<td rowspan="1" colspan="1">10</td>
+<td rowspan="1" colspan="1">8</td>
+<td rowspan="1" colspan="1">265</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+</sec>
+<sec id="S12">
+<title>Consultant questionnaires</title>
+<p id="P28">The questionnaire was sent to the 34 consultant forensic psychiatrists based at the four secure hospitals in the trust (19 at the high secure hospital, 10 at the two medium secure hospitals and 5 at the low secure hospital), as well as to the 3 forensic consultants working in community forensic services within the same trust. The overall response rate was 78% (74% high secure, 80% medium secure, 80% low secure and 100% community). Limitations in the data collected leave us unable to comment on any differences (e.g. gender, age, years of experience) between consultants who did and did not respond.</p>
+<p id="P29">Of the hospital-based consultants responding to the questionnaire, 35% expressed a preference for oral medication and 42% expressed a preference for depot medication; 23% did not express a preference. The mean score on the 0&#x02013;100 scale, where 0 indicated a preference for oral and 100 for depot medication, was 37 (s.d. = 20) for respondents from high security and 74 (s.d. = 22) for respondents from other settings (medium security and low security); ANOVA demonstrated a significant difference between the two groups (<italic>F</italic>
+<sub>(1,24)</sub> = 19.759, <italic>P</italic> &#x0003c; 0.01). Thus, those working in high security preferred oral medications and those working in other settings preferred depot medications.</p>
+<p id="P30">Most (89%) expressing a preference for oral medications worked in high security. The following reasons were given: convenience for patient, adherence, safety, less invasive, improved engagement, increased patient responsibility and improved therapeutic relationship. Most (73%) expressing a preference for depot medications worked in medium or low security, and their reasons were: adherence, clinical outcome, expectation from next level of security, reduced side-effects, reduced tension between patient and team, easier risk management in community, &#x02018;mental health review tribunal&#x02019;/&#x02018;Ministry of Justice&#x02019; reassurance, and reduced adverse events.</p>
+<p id="P31">All of the community-based forensic consultants expressed a preference for depot medication; stated reasons included adherence, clinical outcome and convenience for the patient.</p>
+<p id="P32">Community-based forensic consultants were asked two further questions (see Method). It emerged that route of administration was important for consultants when considering whether or not to accept a patient (mean rating for question 1, where 0 was &#x02018;very important&#x02019; and 100 was &#x02018;not at all important&#x02019;, was 31 (s.d. = 17)). Considering question 2, consultants were also likely to accept patients currently prescribed an oral antipsychotic (not clozapine) (mean rating 72 (s.d. = 21), where 0 &#x02013; very unlikely, 100 &#x02013; very likely).</p>
+</sec>
+</sec>
+<sec sec-type="discussion" id="S13">
+<title>Discussion</title>
+<sec id="S14">
+<title>Findings</title>
+<p id="P33">This study demonstrates a similar rate of antipsychotic prescribing (97%) as a previous study;<sup>
+<xref rid="R6" ref-type="bibr">6</xref>
+</sup> 3% of patients were not prescribed antipsychotic medication. Consultant psychiatrists may opt not to prescribe antipsychotic medication in the context of a drug-free trial related to diagnostic uncertainty or severe side-effects, or because a patient has refused to take such medication.</p>
+<p id="P34">This study reveals significant differences in the antipsychotic prescribing practices of consultants working in different levels of secure care. Consultants in high security were found to prescribe more oral antipsychotics, and those in medium and low security were found to prescribe more depot antipsychotics. It may be that the likelihood of high secure patients having an extended period of supervised care ahead of them reduces the bearing of adherence on antipsychotic selection.</p>
+<p id="P35">The overall rate of depot antipsychotic prescribing was lower than that found by Paton<sup>
+<xref rid="R6" ref-type="bibr">6</xref>
+</sup> and also lower than that quoted in the Maudsley guidelines.<sup>
+<xref rid="R9" ref-type="bibr">9</xref>
+</sup> Polypharmacy was less prevalent than in Paton's study;<sup>
+<xref rid="R6" ref-type="bibr">6</xref>
+</sup> this finding was welcome but perhaps unsurprising as over a decade later the risks associated with polypharmacy are better understood and many trusts have guidelines restricting polypharmacy. The Care Quality Commission also actively discourages polypharmacy. The most common combination of clozapine augmented by a second-generation oral antipsychotic is in keeping with usual approaches to treatment-resistant schizophrenia.</p>
+<p id="P36">BME patients with schizophrenia were significantly more likely than their White counterparts to be prescribed a depot antipsychotic. This finding builds upon existing research.<sup>
+<xref rid="R10" ref-type="bibr">10</xref>,<xref rid="R11" ref-type="bibr">11</xref>
+</sup>
+</p>
+<p id="P37">Significant differences in the opinions expressed by consultants were found: consultants working in high security preferred oral antipsychotics and consultants working in other settings preferred depot antipsychotics. Overall, 31% of all respondents expressed a preference for oral antipsychotics and 89% of these worked in high security, whereas 48% of respondents expressed a preference for depot antipsychotics and 79% of these worked in medium and low security and the community. Comments from community consultants suggest there is no expectation that patients should be prescribed a depot antipsychotic before they are deemed suitable to be managed by community services.</p>
+<p id="P38">It is noteworthy that the presence of a community forensic team may mean that the area served by the NHS trust in this study is not typical of other areas in England and Wales. Community forensic services are not available countrywide and it may be that general adult psychiatrists accepting patients from secure services hold different views than their forensic colleagues.</p>
+</sec>
+<sec id="S15">
+<title>Adherence</title>
+<p id="P39">Both consultants preferring oral antipsychotics and those preferring depot antipsychotics listed &#x02018;adherence&#x02019; as a reason for their preference. For patients with schizophrenia, poor adherence can be related to forgetfulness, disorganisation, complexity of regime, cost, lack of insight, ambivalence, poor relationship with therapist, stigma, side-effects and lack of perceived efficacy.<sup>
+<xref rid="R3" ref-type="bibr">3</xref>,<xref rid="R12" ref-type="bibr">12</xref>
+</sup> Higher rates of non-adherence have been reported in patients with schizophrenia prescribed oral medication than those prescribed depot medication<sup>
+<xref rid="R13" ref-type="bibr">13</xref>
+</sup> and patients treated with depot medication have been found more likely to continue medication, and to continue it for longer, than patients treated with oral medication. It has been suggested that improved adherence is likely to lead to better clinical and functional outcomes.<sup>
+<xref rid="R14" ref-type="bibr">14</xref>
+</sup>
+</p>
+<p id="P40">Stone &#x00026; Niz<sup>
+<xref rid="R15" ref-type="bibr">15</xref>
+</sup> found that non-adherent patients with schizophrenia were more likely to enter the criminal justice system and suggest that consideration be given to using depot antipsychotics (or clozapine) as a first-line treatment for offenders with schizophrenia. Arango <italic>et al</italic>
+<sup>
+<xref rid="R16" ref-type="bibr">16</xref>
+</sup> studied patients with schizophrenia and a history of violence. Of those who were violent again, those prescribed oral antipsychotics were violent sooner, and more frequently, than those prescribed depot antipsychotics. The authors link improved adherence to reductions in violence. It may therefore appear counterintuitive that the forensic population studied were prescribed less depot medication than patients in an earlier, mixed population, study<sup>
+<xref rid="R6" ref-type="bibr">6</xref>
+</sup> and the rates quoted in the Maudsley guidelines.<sup>
+<xref rid="R9" ref-type="bibr">9</xref>
+</sup>
+</p>
+</sec>
+<sec id="S16">
+<title>Efficacy</title>
+<p id="P41">Reviews comparing the efficacy of oral and depot antipsychotics<sup>
+<xref rid="R12" ref-type="bibr">12</xref>,<xref rid="R17" ref-type="bibr">17</xref>
+</sup> report that mirror-image and some large cohort studies have favoured depot preparations but randomised controlled trials (RCTs) have not.</p>
+<p id="P42">Lafeuille <italic>et al</italic>
+<sup>
+<xref rid="R18" ref-type="bibr">18</xref>
+</sup> compared outcomes in patients who relapsed on an oral medication and were then &#x02018;switched&#x02019; to a depot antipsychotic with those who remained on an oral medication. &#x02018;Switched&#x02019; patients had fewer readmissions and fewer emergency presentations. Johnson<sup>
+<xref rid="R19" ref-type="bibr">19</xref>
+</sup> found that 33 months after being discharged from hospital, 40% of patients prescribed depot antipsychotics relapsed, in comparison with 60% of patients prescribed oral antipsychotics. David &#x00026; Adams&#x02019; review<sup>
+<xref rid="R3" ref-type="bibr">3</xref>
+</sup> of non-forensic patients with schizophrenia identified little difference between oral and depot antipsychotics in terms of relapse rates or side-effects, but depot formulations were found superior in bringing about &#x02018;important global change&#x02019;. Leucht <italic>et al</italic>
+<sup>
+<xref rid="R20" ref-type="bibr">20</xref>
+</sup> present a systematic review and meta-analysis of 10 RCTs carried out between 1975 and 2010; there were significantly fewer relapses in out-patients prescribed depot medication than in those prescribed oral medication.</p>
+</sec>
+<sec id="S17">
+<title>Psychiatrist attitude</title>
+<p id="P43">Haddad <italic>et al</italic>
+<sup>
+<xref rid="R21" ref-type="bibr">21</xref>
+</sup> report that 50% of psychiatrists said that their use of depot antipsychotics had reduced in the previous 5 years, and 23% said that their use had increased (the 5-year time-span included the introduction of second-generation depot agents). Despite 89% opining that depot administration was associated with better adherence, and 98% opining that depot administration was associated with reduced relapse rates, only 4% said that depot was their &#x02018;first choice&#x02019; route of administration for patients requiring long-term treatment. The findings from the current study may go some way in explaining the possible cognitive dissonance demonstrated by Haddad <italic>et al</italic>'s findings, i.e. consultant psychiatrists may consider many things other than adherence when deciding on antipsychotic treatment.</p>
+<p id="P44">Potkin <italic>et al</italic>
+<sup>
+<xref rid="R22" ref-type="bibr">22</xref>
+</sup> reviewed prescriber-patient conversations and found that depot antipsychotics were discussed only half of the time when a patient prescribed an oral antipsychotic wished to discuss a change in medication.</p>
+</sec>
+<sec id="S18">
+<title>Advantages and disadvantages of depot antipsychotic medication</title>
+<p id="P45">Previous studies have commented on perceived advantages and disadvantages of depot medications.<sup>
+<xref rid="R1" ref-type="bibr">1</xref>,<xref rid="R3" ref-type="bibr">3</xref>,<xref rid="R12" ref-type="bibr">12</xref>&#x02013;<xref rid="R14" ref-type="bibr">14</xref>,<xref rid="R19" ref-type="bibr">19</xref>,<xref rid="R22" ref-type="bibr">22</xref>,<xref rid="R23" ref-type="bibr">23</xref>
+</sup> Advantages have included a more constant plasma level, improved bioavailability, reduced availability of medication for overdose, improved adherence, more time to intervene when non-adherence is identified, reduction in family conflict and reduced treatment costs. Studies assessing patient attitude towards depot medication have revealed generally positive attitudes.<sup>
+<xref rid="R3" ref-type="bibr">3</xref>,<xref rid="R22" ref-type="bibr">22</xref>
+</sup>
+</p>
+<p id="P46">Disadvantages have included concern about side-effects, effect on therapeutic relationship, risk of high-dose prescribing, inappropriateness of use post-neuroleptic malignant syndrome, less flexibility and delayed response (i.e. mental state improvement on initiation, side-effect reduction on discontinuation). Potkin <italic>et al</italic>
+<sup>
+<xref rid="R22" ref-type="bibr">22</xref>
+</sup> found that the usual reason for a patient declining depot medication was needle phobia.</p>
+<p id="P47">This study adds to the existing literature by providing a forensic perspective on the advantages and disadvantages of depot medication.</p>
+</sec>
+<sec id="S19">
+<title>Limitations</title>
+<p id="P48">This study encountered a number of limitations which restrict the generalisability of the findings to wider forensic and indeed non-forensic settings. These include the small sample size, particularly with regard to the community consultants, the use of a non-validated questionnaire, and not including patients in the private sector (who in 2007 accounted for 35% of patients in England).<sup>
+<xref rid="R24" ref-type="bibr">24</xref>
+</sup>
+</p>
+</sec>
+<sec id="S20">
+<title>Clinical implications</title>
+<p id="P49">Community teams caring for forensic patients with schizophrenia do not seem to have an expectation that patients should be prescribed a depot antipsychotic medication before they are deemed suitable for their service. It could be argued that given the relatively low rate of depot antipsychotic prescribing found in this study, and the superiority of depot preparations in terms of adherence, readmission and relapse rates, &#x02018;important global change&#x02019; and, notably, risk of violence revealed through this literature review, consultants working with forensic populations should consider taking steps to increase their use of depot antipsychotic medications.</p>
+</sec>
+<sec id="S21">
+<title>Directions for future research</title>
+<p id="P50">Future research could attempt to evaluate the opinions of a more representative sample of consultant forensic psychiatrists, or the opinions of general adult psychiatrists and non-medical practitioners, particularly nurses,<sup>
+<xref rid="R3" ref-type="bibr">3</xref>
+</sup> who may be expected to receive the handover of patients formerly known to forensic services. It would also be interesting to establish whether or not the perceived effectiveness of different types of antipsychotics influences prescribers' choices. Future research could further explore the finding that BME patients are more likely to be prescribed a depot antipsychotic than their White counterparts. It may also be useful to undertake a follow-up study, where patients stepped down from high or medium security are followed up some time after discharge and any changes in antipsychotic prescription are identified and investigated.</p>
+</sec>
+</sec>
+</body>
+<back>
+<fn-group>
+<fn fn-type="COI-statement">
+<p>
+<bold>Declaration of interest</bold> None.</p>
+</fn>
+</fn-group>
+<ack>
+<p id="P51">We are grateful to Dr Chris Clark, Dr Simon Gibbon, Dr Najat Khalifa and Sarah Brennan for their help and advice.</p>
+</ack>
+<ref-list>
+<title>References</title>
+<ref id="R1">
+<label>1</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<collab>Royal College of Psychiatrists</collab>
+</person-group>
+<source>Consensus Statement on High-Dose Antipsychotic Medication (CR190)</source>.<publisher-name>Royal College of Psychiatrists</publisher-name>,<year>2014</year>.
+</mixed-citation>
+</ref>
+<ref id="R2">
+<label>2</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<collab>National Institute for Health and Clinical Excellence</collab>
+</person-group>
+<source>Psychosis and Schizophrenia in Adults: Treatment and Management (CG178)</source>.<publisher-name>NICE</publisher-name>,<year>2014</year>.
+</mixed-citation>
+</ref>
+<ref id="R3">
+<label>3</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>David</surname>
+<given-names>AS</given-names>
+</name>
+<name name-style="western">
+<surname>Adams</surname>
+<given-names>C</given-names>
+</name>
+</person-group>,<article-title>Depot antipsychotic medication in the treatment of patients with schizophrenia: (1) Meta-review; (2) Patient and nurse attitudes</article-title>.<source>Health Technol Assess</source>,<year>2001</year>;<volume>5</volume>:<fpage>34</fpage>.
+</mixed-citation>
+</ref>
+<ref id="R4">
+<label>4</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Taylor</surname>
+<given-names>PJ</given-names>
+</name>
+<name name-style="western">
+<surname>Leese</surname>
+<given-names>M</given-names>
+</name>
+<name name-style="western">
+<surname>Williams</surname>
+<given-names>D</given-names>
+</name>
+<name name-style="western">
+<surname>Butwell</surname>
+<given-names>M</given-names>
+</name>
+<name name-style="western">
+<surname>Daly</surname>
+<given-names>R</given-names>
+</name>
+<name name-style="western">
+<surname>Larkin</surname>
+<given-names>E</given-names>
+</name>
+</person-group>
+<article-title>Mental disorder and violence. A special (high security) hospital study</article-title>.<source>Br J Psychiatry</source>
+<year>1998</year>;<volume>172</volume>:<fpage>218</fpage>&#x02013;<lpage>26</lpage>.
+<pub-id pub-id-type="pmid">9614470</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R5">
+<label>5</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Lelliot</surname>
+<given-names>P</given-names>
+</name>
+<name name-style="western">
+<surname>Audini</surname>
+<given-names>B</given-names>
+</name>
+<name name-style="western">
+<surname>Duffett</surname>
+<given-names>R</given-names>
+</name>
+</person-group>
+<article-title>Survey of patients from an inner-London health authority in medium secure psychiatric care</article-title>.<source>Br J Psychiatry</source>
+<year>2001</year>;<volume>178</volume>:<fpage>62</fpage>&#x02013;<lpage>6</lpage>.
+<pub-id pub-id-type="pmid">11136212</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R6">
+<label>6</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Paton</surname>
+<given-names>C</given-names>
+</name>
+<name name-style="western">
+<surname>Lelliott</surname>
+<given-names>P</given-names>
+</name>
+<name name-style="western">
+<surname>Harrington</surname>
+<given-names>M</given-names>
+</name>
+<name name-style="western">
+<surname>Okacha</surname>
+<given-names>C</given-names>
+</name>
+<name name-style="western">
+<surname>Sensky</surname>
+<given-names>T</given-names>
+</name>
+<name name-style="western">
+<surname>Duffett</surname>
+<given-names>R</given-names>
+</name>
+</person-group>
+<article-title>Patterns of antipsychotic and anticholinergic prescribing for hospital in-patients</article-title>.<source>J Psychopharmacol</source>
+<year>2003</year>;<volume>17</volume>:<fpage>223</fpage>&#x02013;<lpage>9</lpage>.
+<pub-id pub-id-type="pmid">12870571</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R7">
+<label>7</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<collab>Office for National Statistics</collab>
+</person-group>
+<source>Ethnicity and National Identity in England and Wales: 2011</source>.<publisher-name>ONS</publisher-name>,<year>2012</year>.
+</mixed-citation>
+</ref>
+<ref id="R8">
+<label>8</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Pereira</surname>
+<given-names>S</given-names>
+</name>
+<name name-style="western">
+<surname>Dawson</surname>
+<given-names>P</given-names>
+</name>
+<name name-style="western">
+<surname>Sarsam</surname>
+<given-names>M</given-names>
+</name>
+</person-group>
+<article-title>The National Survey of PICU and Low Secure Services: 1. Patient characteristics</article-title>.<source>J Psychiatr Intens Care</source>
+<year>2006</year>;<volume>2</volume>:<fpage>7</fpage>&#x02013;<lpage>12</lpage>.
+</mixed-citation>
+</ref>
+<ref id="R9">
+<label>9</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Taylor</surname>
+<given-names>D</given-names>
+</name>
+<name name-style="western">
+<surname>Paton</surname>
+<given-names>C</given-names>
+</name>
+<name name-style="western">
+<surname>Kapur</surname>
+<given-names>S</given-names>
+</name>
+</person-group>
+<source>Maudsley Prescribing Guidelines</source> (<edition>11th edition</edition>).<publisher-name>Wiley-Blackwell</publisher-name>,<year>2012</year>.
+</mixed-citation>
+</ref>
+<ref id="R10">
+<label>10</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Lloyd</surname>
+<given-names>K</given-names>
+</name>
+<name name-style="western">
+<surname>Moodley</surname>
+<given-names>P</given-names>
+</name>
+</person-group>
+<article-title>Psychotropic medication and ethnicity: an inpatient survey</article-title>.<source>Soc Psychiatry Psychiatr Epidemiol</source>
+<year>1992</year>;<volume>27</volume>:<fpage>95</fpage>&#x02013;<lpage>101</lpage>.
+<pub-id pub-id-type="pmid">1594979</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R11">
+<label>11</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Connolly</surname>
+<given-names>A</given-names>
+</name>
+<name name-style="western">
+<surname>Taylor</surname>
+<given-names>D</given-names>
+</name>
+</person-group>
+<article-title>Ethnicity and quality of antipsychotic prescribing among inpatients in South London</article-title>.<source>Br J Psychiatry</source>
+<year>2008</year>;<volume>193</volume>:<fpage>161</fpage>&#x02013;<lpage>2</lpage>.
+<pub-id pub-id-type="pmid">18670004</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R12">
+<label>12</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Kane</surname>
+<given-names>JM</given-names>
+</name>
+<name name-style="western">
+<surname>Kishimoto</surname>
+<given-names>T</given-names>
+</name>
+<name name-style="western">
+<surname>Correll</surname>
+<given-names>CU</given-names>
+</name>
+</person-group>
+<article-title>Assessing the comparative effectiveness of long-acting injectable vs. oral antipsychotic medications in the prevention of relapse provides a case study in comparative effectiveness research in psychiatry</article-title>.<source>J Clin Epidemiol</source>
+<year>2013</year>;<volume>66</volume>:<fpage>S37</fpage>&#x02013;<lpage>41</lpage>.
+<pub-id pub-id-type="pmid">23849151</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R13">
+<label>13</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Hong</surname>
+<given-names>J</given-names>
+</name>
+<name name-style="western">
+<surname>Novick</surname>
+<given-names>D</given-names>
+</name>
+<name name-style="western">
+<surname>Brugnoli</surname>
+<given-names>R</given-names>
+</name>
+<name name-style="western">
+<surname>Bertsch</surname>
+<given-names>J</given-names>
+</name>
+<name name-style="western">
+<surname>Haro</surname>
+<given-names>JM</given-names>
+</name>
+</person-group>
+<article-title>Changes in adherence and treatment costs following initiation of oral or depot typical antipsychotics among previously non-adherent patients with schizophrenia</article-title>.<source>Hum Psychopharm Clin</source>
+<year>2013</year>;<volume>28</volume>:<fpage>438</fpage>&#x02013;<lpage>46</lpage>.
+</mixed-citation>
+</ref>
+<ref id="R14">
+<label>14</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Zhu</surname>
+<given-names>B</given-names>
+</name>
+<name name-style="western">
+<surname>Ascher-Svanum</surname>
+<given-names>H</given-names>
+</name>
+<name name-style="western">
+<surname>Shi</surname>
+<given-names>L</given-names>
+</name>
+<name name-style="western">
+<surname>Faries</surname>
+<given-names>D</given-names>
+</name>
+<name name-style="western">
+<surname>Montgomery</surname>
+<given-names>W</given-names>
+</name>
+<name name-style="western">
+<surname>Marder</surname>
+<given-names>SR</given-names>
+</name>
+</person-group>
+<article-title>Time to discontinuation of depot and oral first-generation antipsychotics in the usual care of schizophrenia</article-title>.<source>Psychiatr Serv</source>
+<year>2008</year>;<volume>59</volume>:<fpage>315</fpage>&#x02013;<lpage>17</lpage>.
+<pub-id pub-id-type="pmid">18308914</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R15">
+<label>15</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Stone</surname>
+<given-names>DC</given-names>
+</name>
+<name name-style="western">
+<surname>Niz</surname>
+<given-names>DO</given-names>
+</name>
+</person-group>
+<article-title>Treatment considerations in the forensic patient with schizophrenia</article-title>.<source>Curr Pharm Design</source>
+<year>2004</year>;<volume>10</volume>:<fpage>2263</fpage>&#x02013;<lpage>7</lpage>.
+</mixed-citation>
+</ref>
+<ref id="R16">
+<label>16</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Arango</surname>
+<given-names>C</given-names>
+</name>
+<name name-style="western">
+<surname>Bombin</surname>
+<given-names>I</given-names>
+</name>
+<name name-style="western">
+<surname>Gonzalez-Salvador</surname>
+<given-names>T</given-names>
+</name>
+<name name-style="western">
+<surname>Garcia-Cabeza</surname>
+<given-names>I</given-names>
+</name>
+<name name-style="western">
+<surname>Bobes</surname>
+<given-names>J</given-names>
+</name>
+</person-group>
+<article-title>Randomised clinical trial comparing oral versus depot formulations of zuclopenthixol in patients with schizophrenia and previous violence</article-title>.<source>Eur Psychiat</source>
+<year>2006</year>;<volume>21</volume>:<fpage>34</fpage>&#x02013;<lpage>40</lpage>.
+</mixed-citation>
+</ref>
+<ref id="R17">
+<label>17</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Kirson</surname>
+<given-names>NY</given-names>
+</name>
+<name name-style="western">
+<surname>Weiden</surname>
+<given-names>PJ</given-names>
+</name>
+<name name-style="western">
+<surname>Yermakov</surname>
+<given-names>S</given-names>
+</name>
+<name name-style="western">
+<surname>Huang</surname>
+<given-names>W</given-names>
+</name>
+<name name-style="western">
+<surname>Samuelson</surname>
+<given-names>T</given-names>
+</name>
+<name name-style="western">
+<surname>Offord</surname>
+<given-names>SJ</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>Efficacy and effectiveness of depot versus oral antipsychotics in schizophrenia: synthesizing results across different research designs</article-title>.<source>J Clin Psychiat</source>
+<year>2013</year>;<volume>74</volume>:<fpage>568</fpage>&#x02013;<lpage>75</lpage>.
+</mixed-citation>
+</ref>
+<ref id="R18">
+<label>18</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Lafeuille</surname>
+<given-names>M</given-names>
+</name>
+<name name-style="western">
+<surname>Lalibert&#x000e9;-Auger</surname>
+<given-names>F</given-names>
+</name>
+<name name-style="western">
+<surname>Lefebvre</surname>
+<given-names>P</given-names>
+</name>
+<name name-style="western">
+<surname>Frois</surname>
+<given-names>C</given-names>
+</name>
+<name name-style="western">
+<surname>Fastenau</surname>
+<given-names>J</given-names>
+</name>
+<name name-style="western">
+<surname>Duh</surname>
+<given-names>MS</given-names>
+</name>
+</person-group>
+<article-title>Impact of atypical long-acting injectable versus oral antipsychotics on rehospitalization rates and emergency room visits among relapsed schizophrenia patients: a retrospective database analysis</article-title>.<source>BMC Psychiatry</source>
+<year>2013</year>;<volume>13</volume>:<fpage>221</fpage>.
+<pub-id pub-id-type="pmid">24016390</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R19">
+<label>19</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Johnson</surname>
+<given-names>DAW</given-names>
+</name>
+</person-group>
+<article-title>Observations on the use of long-acting depot neuroleptic injections in the maintenance treatment of schizophrenia</article-title>.<source>J Clin Psychiat</source>
+<year>1984</year>;<volume>45</volume>:<fpage>13</fpage>&#x02013;<lpage>21</lpage>.
+</mixed-citation>
+</ref>
+<ref id="R20">
+<label>20</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Leucht</surname>
+<given-names>C</given-names>
+</name>
+<name name-style="western">
+<surname>Heres</surname>
+<given-names>S</given-names>
+</name>
+<name name-style="western">
+<surname>Kane</surname>
+<given-names>JM</given-names>
+</name>
+<name name-style="western">
+<surname>Kissling</surname>
+<given-names>W</given-names>
+</name>
+<name name-style="western">
+<surname>Davis</surname>
+<given-names>JM</given-names>
+</name>
+<name name-style="western">
+<surname>Leucht</surname>
+<given-names>S</given-names>
+</name>
+</person-group>
+<article-title>Oral versus depot antipsychotic drugs for schizophrenia: a critical systematic review and meta-analysis of randomised long-term trials</article-title>.<source>Schizophr Res</source>
+<year>2011</year>;<volume>127</volume>:<fpage>83</fpage>&#x02013;<lpage>92</lpage>.
+<pub-id pub-id-type="pmid">21257294</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R21">
+<label>21</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Haddad</surname>
+<given-names>PM</given-names>
+</name>
+<name name-style="western">
+<surname>Chaudhry</surname>
+<given-names>IB</given-names>
+</name>
+<name name-style="western">
+<surname>Husain</surname>
+<given-names>N</given-names>
+</name>
+<name name-style="western">
+<surname>McLaughlin</surname>
+<given-names>S</given-names>
+</name>
+<name name-style="western">
+<surname>Cunningham</surname>
+<given-names>P</given-names>
+</name>
+<name name-style="western">
+<surname>David</surname>
+<given-names>AS</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>Psychiatrists' attitudes to antipsychotic depot injections (i): Preferences and choice</article-title>.<source>Eur Psychiatry</source>
+<year>2008</year>;<volume>23</volume>:<fpage>160</fpage>&#x02013;<lpage>1</lpage>.
+</mixed-citation>
+</ref>
+<ref id="R22">
+<label>22</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Potkin</surname>
+<given-names>S</given-names>
+</name>
+<name name-style="western">
+<surname>Bera</surname>
+<given-names>R</given-names>
+</name>
+<name name-style="western">
+<surname>Zubek</surname>
+<given-names>D</given-names>
+</name>
+<name name-style="western">
+<surname>Lau</surname>
+<given-names>G</given-names>
+</name>
+</person-group>
+<article-title>Patient and prescriber perspectives on long-acting injectable (LAI) antipsychotics and analysis of in-office discussion regarding LAI treatment for schizophrenia</article-title>.<source>BMC Psychiatry</source>
+<year>2013</year>;<volume>13</volume>:<fpage>261</fpage>.
+<pub-id pub-id-type="pmid">24131801</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R23">
+<label>23</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Caroli</surname>
+<given-names>F</given-names>
+</name>
+<name name-style="western">
+<surname>Raymondet</surname>
+<given-names>P</given-names>
+</name>
+<name name-style="western">
+<surname>Izard</surname>
+<given-names>I</given-names>
+</name>
+<name name-style="western">
+<surname>Plas</surname>
+<given-names>J</given-names>
+</name>
+<name name-style="western">
+<surname>Gall</surname>
+<given-names>B</given-names>
+</name>
+<name name-style="western">
+<surname>Delgado</surname>
+<given-names>A</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>Opinions of French patients with schizophrenia regarding injectable medication</article-title>.<source>Patient Prefer Adher</source>
+<year>2011</year>;<volume>5</volume>:<fpage>165</fpage>&#x02013;<lpage>71</lpage>.
+</mixed-citation>
+</ref>
+<ref id="R24">
+<label>24</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<collab>Centre for Mental Health, National Mental Health Development Unit</collab>
+</person-group>
+<source>Pathways to Unlocking Secure Mental Health Care</source>.<publisher-name>Centre for Mental Health</publisher-name>,<year>2011</year>.
+</mixed-citation>
+</ref>
+</ref-list>
+</back>
+</article>

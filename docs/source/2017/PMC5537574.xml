@@ -1,77 +1,512 @@
-<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
-<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-journalpublishing1.dtd?><?SourceDTD.Version 1.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">BJPsych Bull</journal-id><journal-id journal-id-type="iso-abbrev">BJPsych Bull</journal-id><journal-id journal-id-type="hwp">pbrcpsych</journal-id><journal-title-group><journal-title>BJPsych Bulletin</journal-title></journal-title-group><issn pub-type="ppub">2056-4694</issn><issn pub-type="epub">2056-4708</issn><publisher><publisher-name>Royal College of Psychiatrists</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">5537574</article-id><article-id pub-id-type="doi">10.1192/pb.bp.116.055095</article-id><article-categories><subj-group subj-group-type="heading"><subject>Special Articles</subject></subj-group></article-categories><title-group><article-title>The impact of transforming care on the care and safety of patients with intellectual disabilities and forensic needs</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Taylor</surname><given-names>John L.</given-names></name><xref ref-type="aff" rid="A1">1</xref><xref ref-type="corresp" rid="cor1"/></contrib><contrib contrib-type="author"><name><surname>McKinnon</surname><given-names>Iain</given-names></name><xref ref-type="aff" rid="A2">2</xref></contrib><contrib contrib-type="author"><name><surname>Thorpe</surname><given-names>Ian</given-names></name><xref ref-type="aff" rid="A3">3</xref></contrib><contrib contrib-type="author"><name><surname>Gillmer</surname><given-names>Bruce T.</given-names></name><xref ref-type="aff" rid="A3">3</xref></contrib></contrib-group><aff id="A1"><label>1</label>Northumbria University, UK</aff><aff id="A2"><label>2</label>Newcastle University, UK</aff><aff id="A3"><label>3</label>Northumberland, Tyne and Wear NHS Foundation Trust, UK</aff><author-notes><corresp id="cor1">
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article">    <?properties open_access?>    <?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN?>    <?DTDIdentifier.IdentifierType public?>    <?SourceDTD.DTDName JATS-journalpublishing1.dtd?>    <?SourceDTD.Version 1.0?>    <?ConverterInfo.XSLTName jp2nlmx2.xsl?>    <?ConverterInfo.Version 1?>
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="nlm-ta">BJPsych Bull</journal-id>
+            <journal-id journal-id-type="iso-abbrev">BJPsych Bull</journal-id>
+            <journal-id journal-id-type="hwp">pbrcpsych</journal-id>
+            <journal-title-group>
+                <journal-title>BJPsych Bulletin</journal-title>
+            </journal-title-group>
+            <issn pub-type="ppub">2056-4694</issn>
+            <issn pub-type="epub">2056-4708</issn>
+            <publisher>
+                <publisher-name>Royal College of Psychiatrists</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="pmcid">5537574</article-id>
+            <article-id pub-id-type="doi">10.1192/pb.bp.116.055095</article-id>
+            <article-categories>
+                <subj-group subj-group-type="heading">
+                    <subject>Special Articles</subject>
+                </subj-group>
+            </article-categories>
+            <title-group>
+                <article-title>The impact of transforming care on the care and safety of patients with intellectual disabilities and forensic needs</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Taylor</surname>
+                        <given-names>John L.</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                    <xref ref-type="corresp" rid="cor1" />
+                </contrib>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>McKinnon</surname>
+                        <given-names>Iain</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A2">2</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Thorpe</surname>
+                        <given-names>Ian</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A3">3</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Gillmer</surname>
+                        <given-names>Bruce T.</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A3">3</xref>
+                </contrib>
+            </contrib-group>
+            <aff id="A1">
+                <label>1</label>Northumbria University, UK</aff>
+            <aff id="A2">
+                <label>2</label>Newcastle University, UK</aff>
+            <aff id="A3">
+                <label>3</label>Northumberland, Tyne and Wear NHS Foundation Trust, UK</aff>
+            <author-notes>
+                <corresp id="cor1">
 Correspondence to John L. Taylor (<email>john2.taylor@northumbria.ac.uk</email>)
-</corresp><fn><p><bold>John L. Taylor</bold> is Professor of Clinical Psychology at Northumbria University, UK; <bold>Iain McKinnon</bold> is Honorary Senior Clinical Lecturer at Newcastle University, UK; <bold>Ian Thorpe</bold> is Nurse Consultant, and <bold>Bruce T. Gillmer</bold> is Consultant Clinical Psychologist, Northumberland, Tyne &#x00026; Wear NHS Foundation Trust, UK.</p></fn></author-notes><pub-date pub-type="ppub"><month>8</month><year>2017</year></pub-date><volume>41</volume><issue>4</issue><fpage>205</fpage><lpage>208</lpage><history><date date-type="received"><day>4</day><month>8</month><year>2016</year></date><date date-type="rev-recd"><day>4</day><month>8</month><year>2016</year></date><date date-type="accepted"><day>14</day><month>9</month><year>2016</year></date></history><permissions><copyright-statement>&#x000a9; 2017 The Authors</copyright-statement><copyright-year>2017</copyright-year><license license-type="creative-commons" xlink:href="http://creativecommons.org/licenses/by/4.0"><license-p>This is an open-access article published by the Royal College of Psychiatrists and distributed under the terms of the Creative Commons Attribution License (<uri xlink:href="http://creativecommons.org/licenses/by/4.0">http://creativecommons.org/licenses/by/4.0</uri>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xlink:title="pdf" xlink:href="205.pdf"/><abstract><p id="P1">NHS England recently published a national plan to develop community services for people with intellectual disabilities and autism who display challenging behaviour by using resources from the closure of a large number of hospital beds. An ambitious timescale has been set to implement this plan. The bed closure programme is moving ahead rapidly, but there has been little progress in developing community services to support it. This paper discusses the impact of the gap between policy and practice on the care and safety of patients with intellectual disabilities and forensic needs who form a distinct subgroup of the target population and are being disproportionately affected by this government policy.</p></abstract></article-meta></front><body><sec id="S1"><title>The policy context</title><p id="P2"><italic>Building the Right Support,</italic> a national plan to develop community services and close hospital beds for people with intellectual disabilities and autism who &#x02018;display behaviour that challenges&#x02019; (p. 4), was published last October by NHS England and its local authority partners.<sup><xref rid="R1" ref-type="bibr">1</xref></sup> The genesis of this plan was the Winterbourne View scandal in 2011, which involved the systematic abuse of people with intellectual disabilities in an independent sector hospital unit run by Castlebeck Care in Bristol, England.<sup><xref rid="R2" ref-type="bibr">2</xref></sup> This led to a concordat that committed the Department of Health to a rapid reduction in the number of people with intellectual disabilities and challenging behaviour in hospital beds by mid-2014.<sup><xref rid="R3" ref-type="bibr">3</xref></sup> Under pressure from politicians and stakeholder groups, who claimed that the government had failed to deliver on its concordat promises and that the situation had worsened,<sup><xref rid="R4" ref-type="bibr">4</xref></sup> the chief executive of the National Health Service (NHS) committed to a 2-year intellectual disability hospital closure programme during a parliamentary select committee hearing on services for people with intellectual disabilities and challenging behaviour in early 2015.<sup><xref rid="R5" ref-type="bibr">5</xref></sup></p><p id="P3">The ensuing national plan includes the closure of 45&#x02013;65% of local clinical commissioning group (CCG)-commissioned and 25&#x02013;40% of NHS England national specialist-commissioned in-patient beds by 2018. This is a &#x02018;starting point&#x02019; and commissioners are encouraged to be &#x02018;ambitious in thinking about how much further they can go&#x02019; (p. 6; unless stated otherwise, all quotations in this commentary are from <italic>Building the Right Support</italic> document<sup><xref rid="R1" ref-type="bibr">1</xref></sup>). The rationale for these numbers and timescale is unclear beyond what NHS commissioners and local authorities have told the plan's authors &#x02018;they believe is possible&#x02019;, which was then &#x02018;sense-checked&#x02019; against geographical variations in current in-patient service usage (p. 27). The money saved from these bed closures is to be reinvested in the development of community services (p. 6). The national plan is clear that this transition will involve significant costs. It is stated that commissioners &#x02018;will need to invest in new community support <italic>before</italic> closing inpatient provision&#x02019; (p. 7, italics added). Also required is the &#x02018;temporary double running of services as inpatient facilities continue to be funded whilst new community services are established&#x02019; (p. 44). Local Transforming Care partnerships were tasked with drawing up implementation plans to support a new model of care and to start delivering against these plans by 1 April 2016.</p></sec><sec id="S2"><title>Lack of investment in community services</title><p id="P4">Unfortunately, little progress appears to have been made in agreeing, let alone implementing, new community service models to support the bed closure plans as envisaged in the national plan. The current authors work clinically with patients with intellectual and developmental disabilities who display offending and offending-type behaviours in in-patient and community services across six CCG areas in the north-east of England. As a group we have been closely involved in initiatives to increase hospital discharge rates and reduce readmissions, bed numbers and lengths of stay as well as to support and strengthen community services for people with intellectual disabilities who are at risk of offending. These innovations pre-date the Transforming Care programme and have already led to the closure of two in-patient units and a number of satellite beds in our services (40 beds in total). Despite our engagement and commitment to this transformation process we are concerned about the impact of the national plan, and the manner in which it is being implemented locally on patient care, patient safety and the safety of others.</p><p id="P5">The North East and Cumbria is one of six &#x02018;fast-track areas&#x02019; in the national plan, set up with &#x000a3;2.06 million support from the NHS England Transforming Care programme to &#x02018;help fund transitional costs and speed up implementation&#x02019; (p. 12). Fast-track areas aim to reduce in-patient bed usage by around 50% within 3 years, thereby &#x02018;freeing up tens of millions of pounds which will be invested in community-based support to prevent hospital admissions&#x02019; (p. 13). The North East and Cumbria service model, which aims to deliver a 50% reduction in in-patient admissions, is currently in draft form and the &#x02018;new community model&#x02019; embedded within the overall service model is not due to be considered by the North East and Cumbria Transforming Care Board until September 2016 at the earliest. Once the model is agreed, implementation plans will need to be developed, and resources including people and funds will need to be identified to enable it to be initiated. Judging by the pace of progress to date, this is likely to take considerable time. In the meantime, plans for in-patient bed closures are progressing rapidly, with 31 out of 112 beds (35%) across our medium- and low-secure and locked rehabilitation services currently empty as part of the closure programme.</p></sec><sec id="S3"><title>The effects of Transforming Care</title><p id="P6">The impact on patient care and safety of the drive to close in-patient beds without first having developed or strengthened community services is already beginning to show locally. The population served by these in-patient services, in contrast to the intended target population, is relatively high functioning intellectually (that is, mild/borderline in intellectual disability terms),<sup><xref rid="R6" ref-type="bibr">6</xref></sup> shows high levels of psychiatric comorbidity<sup><xref rid="R7" ref-type="bibr">7</xref></sup> and personality disorder characteristics,<sup><xref rid="R8" ref-type="bibr">8</xref></sup> and generally does not display &#x02018;behaviour that challenges&#x02019;, but outwardly directed high-impact offending behaviour that has resulted in criminal convictions and/or detention under the Mental Health Act 1983 on the basis of &#x02018;abnormally aggressive&#x02019; and/or &#x02018;seriously irresponsible&#x02019; behaviour. Chief among the behaviours that bring these patients into these services are serious violence and aggression, sex offences, damage to property and firesetting.<sup><xref rid="R9" ref-type="bibr">9</xref></sup> The most recent national census data reflect this offending behaviour profile, in that 33% of patients with intellectual disabilities detained under the Mental Health Act in England are subject to Part III criminal sections, and 21% of that group are subject to Ministry of Justice restrictions, meaning that they cannot be discharged without the approval of the Secretary of State or a mental health tribunal.<sup><xref rid="R10" ref-type="bibr">10</xref></sup> Just 17% of in-patients with intellectual disabilities in the census were informal &#x02013; that is, not detained under the Act.</p><p id="P7">The imperative to empty and then close in-patient beds has resulted in pressure being applied on clinical teams through commissioner-led &#x02018;care and treatment reviews&#x02019;<sup><xref rid="R11" ref-type="bibr">11</xref></sup> to provide discharge dates for some forensic patients who continue to present levels of risk that local service providers and community teams are not adequately resourced to manage, or to consider transfers from NHS to independent hospital beds. Some evidence for the movement of patients around the in-patient system &#x02013; possibly to create the illusion of progress &#x02013; comes from a recent update from the NHS England Director of Transformation &#x02013; Learning Disabilities,<sup><xref rid="R12" ref-type="bibr">12</xref></sup> who reported that in April 2016, 20 of the net 100 recorded discharges were in fact transfers to other hospitals, and the destination of a further 20 discharged patients was unknown.</p><p id="P8">There is also concern that owing to the pressure to discharge as quickly as possible to meet the national plan targets, patients' rehabilitation is being hurried and/or truncated, resulting in some people being discharged before they are ready to take on the challenges of living in the wider community, or without the receiving community services being properly prepared to manage the risks these patients continue to present. The high level of clinical complexity and associated forensic risk in this population can require a significant period of assessment, formulation and specialist treatment to help patients develop thinking styles and attitudes, emotional control strategies and lifestyles less compatible with offending behaviour. A carefully considered and planned period of pre-discharge preparation is an important component of the treatment pathway and is essential to facilitating a successful transition from hospital to community care.</p><p id="P9">Another consequence of the current rapid bed closure policy is that people with intellectual disabilities and forensic needs who require urgent hospital treatment are being admitted to generic psychiatric services. This includes patients who have been previously detained in hospital under the Mental Health Act 1983 and discharged on community treatment orders, and who have been subsequently formally recalled to hospital owing to escalating risks of harm to themselves or others. Admission to acute psychiatry units can result in these patients being targeted and exploited by more able patients. In addition, they are unable to access appropriate assessment and treatment as the staff teams in these services have little or no experience of working with this population and lack the specialist skills required.<sup><xref rid="R13" ref-type="bibr">13</xref></sup> This will result in longer periods of in-patient admission for these patients as access to suitable interventions aimed at reducing forensic risks is delayed.</p><p id="P10">One aim of the Transforming Care programme is to prevent people with intellectual disabilities and challenging behaviours from undergoing unnecessary admissions to intellectual disability and mental health in-patient services. Whether an admission is necessary or not is inevitably a matter of judgement. With the requirement for commissioner agreement to admission, there is a real risk of the judgement of clinicians being circumvented. Efforts to prevent admission to hospital by increasing supervision and support to people in community settings to manage emerging risks have paradoxically resulted in situations amounting to <italic>de facto</italic> deprivation of liberty in some cases, where a short informal hospital admission to allow the risks to be assessed and required amendments made to care plans would have been a less restrictive and more clinically effective option.</p></sec><sec id="S4"><title>Discussion and conclusions</title><p id="P11">People with intellectual disabilities who require treatment in hospital for behavioural, psychiatric and forensic problems should have access to the best evidence-based interventions available, delivered by caring staff with positive attitudes and person-centred values, in good-quality, safe environments. It is clear that a disproportionate number of people with intellectual disabilities are detained in hospital under the Mental Health Act<sup><xref rid="R14" ref-type="bibr">14</xref></sup> and, once detained, they have on average longer lengths of stay than detained patients who do not have intellectual disability.<sup><xref rid="R15" ref-type="bibr">15</xref></sup> The <italic>Building the Right Support</italic> national plan aims to address these inequities, albeit based on uncertain evidence and questionable assumptions.</p><p id="P12">There is no credible evidence or analysis presented to support the proposed bed reduction numbers. Between 1988 and 2015 the number of intellectual disability beds in the NHS reduced dramatically, from approximately 33 000 to about 2500.<sup><xref rid="R1" ref-type="bibr">1</xref></sup> It is debatable whether this 90%-plus reduction over the past 30 years has been caused by centrally driven government policy initiatives, for example <italic>Valuing People</italic>,<sup><xref rid="R16" ref-type="bibr">16</xref></sup> or the impact of human services theories, such as social role valorisation,<sup><xref rid="R17" ref-type="bibr">17</xref></sup> on the deinstitutionalisation and community care movements in the 1980s and 90s.<sup><xref rid="R18" ref-type="bibr">18</xref></sup> Either way, looking at the most recent census of in-patient services for people with intellectual disabilities in England,<sup><xref rid="R10" ref-type="bibr">10</xref></sup> 83% were legally detained under the Mental Health Act 1983, with all of the scrutiny and protections this affords via mental health tribunals, hospital managers' hearings and Care Quality Commission inspections. It could be argued therefore that the majority of the remaining intellectual disability in-patient beds represent equipoise in the system and, as such, the current huge diversion of resources into forcing the closure of these remaining beds is unlikely to be successful in the long term.</p><p id="P13">The national plan starts from the supposition that all people with intellectual disabilities &#x02018;should have a home within their community&#x02019; (p. 4). Seemingly underpinning this position is a belief that families and the community are always better for people with intellectual disabilities and that hospital services do not provide safety and sanctuary for some people. For many of our patients with forensic needs, their histories indicate that families and the community can be part of the problem rather than the solution. Putting to one side the fact that communities are generally not keen to embrace people who might have violently or sexually assaulted people in their midst, or set fire to their buildings, people with disabilities frequently experience abuse, aggression and violence in and by the community.<sup><xref rid="R19" ref-type="bibr">19</xref></sup> There are many examples of people like Brent Martin, who was brutally murdered in 2007 by his more able &#x02018;friends&#x02019; in Sunderland 3 months after being discharged from hospital.<sup><xref rid="R20" ref-type="bibr">20</xref></sup></p><p id="P14">A further assumption underpinning the national plan is that hospital admissions should be as short as possible. There is an apparent lack of understanding that the population managed and treated by in-patient forensic intellectual disability services is distinct from the population envisaged within the Transforming Care programme. Patients with significant forensic histories have frequently experienced high levels of abuse, neglect and deprivation. They require time to develop insight into their difficulties in relating to others, acquire skills in regulating their emotions and acknowledge their future support needs. The application of a bed closure policy and as yet unclear community service model that is designed for a very different population carries significant risks of harm for patients with intellectual disabilities and forensic needs, as well as for others. The implementation of that policy without the required and promised investment in and development of community services is especially concerning. Some of the unintended consequences of this approach might include more vulnerable offenders with intellectual disabilities being sent to prison rather than diverted to hospital for appropriate treatment as recommended in the Bradley Report<sup><xref rid="R21" ref-type="bibr">21</xref></sup> While imprisoned, such offenders will likely be targeted by other prisoners because of their disabilities and will remain at risk of re-offending, as they will be unable to access prison offending behaviour programmes <sup><xref rid="R22" ref-type="bibr">22</xref></sup> Finally, it is perhaps ironic that this policy will possibly lead to an increase in the use of independent sector hospital beds for people with intellectual disabilities &#x02013; exactly where this all started.</p></sec></body><back><fn-group><fn fn-type="COI-statement"><p><bold>Declaration of interest</bold> All authors are employed by Northumberland, Tyne and Wear NHS Foundation Trust. The opinions expressed are the authors' own and do not reflect the views of the Trust.</p></fn></fn-group><ref-list><title>References</title><ref id="R1"><label>1</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><collab>NHS England</collab></person-group>
-<source>Building the Right Support</source>. <publisher-name>NHS England</publisher-name>, <year>2015</year> (<uri xlink:href="https//www.england.nhs.uk/wp-content/uploads/2015/10/ld-nat-imp-plan-oct15.pdf">https//www.england.nhs.uk/wp-content/uploads/2015/10/ld-nat-imp-plan-oct15.pdf</uri>).
-</mixed-citation></ref><ref id="R2"><label>2</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><collab>Department of Health</collab></person-group>
-<source>Transforming Care: A National Response to Winterbourne View Hospital</source>. <publisher-name>Department of Health</publisher-name>, <year>2012</year>.
-</mixed-citation></ref><ref id="R3"><label>3</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><collab>Department of Health</collab></person-group>
-<source>DH Winterbourne View Review. Concordat: A Programme of Action</source>. <publisher-name>Department of Health</publisher-name>, <year>2012</year> (<uri xlink:href="https://www-gov.uk/government/uploads/system/uploads/attachment_data/file/213217/Concordat.pdf">https://www-gov.uk/government/uploads/system/uploads/attachment_data/file/213217/Concordat.pdf</uri>).
-</mixed-citation></ref><ref id="R4"><label>4</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><collab>Mencap</collab></person-group>
-<source>Winterbourne View: The Scandal Continues</source>. <publisher-name>Mencap</publisher-name>, <year>2015</year> (<uri xlink:href="http://www.challengingbehaviour.org.uk/learning-disability-files/Winterbourne-View-the-Scandal-Continues.pdf">http://www.challengingbehaviour.org.uk/learning-disability-files/Winterbourne-View-the-Scandal-Continues.pdf</uri>).
-</mixed-citation></ref><ref id="R5"><label>5</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><collab>Public Accounts Committee</collab></person-group>
-<source>Oral Evidence: Care Services for People with Learning Disabilities and Challenging Behaviour (HC 973, Monday 9 February)</source>. <publisher-name>Public Accounts Committee</publisher-name>, <year>2015</year> (<uri xlink:href="http://data.parliament.uk/writtenevidence/committeeevidence.svc/evidencedocument/public-accounts-committee/care-for-people-with-learning-disabilities/oral/18031.pdf">http://data.parliament.uk/writtenevidence/committeeevidence.svc/evidencedocument/public-accounts-committee/care-for-people-with-learning-disabilities/oral/18031.pdf</uri>).
-</mixed-citation></ref><ref id="R6"><label>6</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Hogue</surname><given-names>TE</given-names></name><name name-style="western"><surname>Steptoe</surname><given-names>L</given-names></name><name name-style="western"><surname>Taylor</surname><given-names>JL</given-names></name><name name-style="western"><surname>Lindsay</surname><given-names>WR</given-names></name><name name-style="western"><surname>Mooney</surname><given-names>P</given-names></name><name name-style="western"><surname>Pinkney</surname><given-names>L</given-names></name><etal/></person-group>
-<article-title>A comparison of offenders with intellectual disabilities across three levels of security</article-title>. <source>Crim Behav Ment Health</source>
-<year>2006</year>; <volume>16</volume>: <fpage>13</fpage>&#x02013;<lpage>28</lpage>.
-<pub-id pub-id-type="pmid">16572489</pub-id></mixed-citation></ref><ref id="R7"><label>7</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Alexander</surname><given-names>RT</given-names></name><name name-style="western"><surname>Hiremath</surname><given-names>A</given-names></name><name name-style="western"><surname>Chester</surname><given-names>V</given-names></name><name name-style="western"><surname>Green</surname><given-names>FN</given-names></name><name name-style="western"><surname>Gunaratna</surname><given-names>IJ</given-names></name><name name-style="western"><surname>Hoare</surname><given-names>S</given-names></name></person-group>
-<article-title>Evaluation of treatment outcomes from a medium secure unit for people with intellectual disability</article-title>. <source>Adv Merit Health Intell Disabil</source>
-<year>2011</year>; <volume>5</volume>: <fpage>22</fpage>&#x02013;<lpage>32</lpage>.
-</mixed-citation></ref><ref id="R8"><label>8</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Taylor</surname><given-names>JL</given-names></name><name name-style="western"><surname>Novaco</surname><given-names>RW</given-names></name></person-group>
-<article-title>A brief screening instrument for emotionally unstable and dissocial personality disorder in male offenders with intellectual disabilities</article-title>. <source>Res Develop Disabil</source>
-<year>2013</year>; <volume>34</volume>: <fpage>546</fpage>&#x02013;<lpage>53</lpage>.
-</mixed-citation></ref><ref id="R9"><label>9</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>O'Brien</surname><given-names>G</given-names></name><name name-style="western"><surname>Taylor</surname><given-names>JL</given-names></name><name name-style="western"><surname>Lindsay</surname><given-names>WR</given-names></name><name name-style="western"><surname>Holland</surname><given-names>AJ</given-names></name><name name-style="western"><surname>Carson</surname><given-names>D</given-names></name><name name-style="western"><surname>Price</surname><given-names>K</given-names></name><etal/></person-group>
-<article-title>A multi-centre study of adults with learning disabilities referred to services for antisocial or offending behaviour: demographic, individual, offending and service characteristics</article-title>. <source>J Learn Disabil Offen Behav</source>
-<year>2010</year>; <volume>1</volume>: <fpage>5</fpage>&#x02013;<lpage>15</lpage>.
-</mixed-citation></ref><ref id="R10"><label>10</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><collab>Health and Social Care Information Centre</collab></person-group>
-<source>Learning Disability Census Report</source>. <publisher-name>HSCIC</publisher-name>, <year>2015</year>.
-</mixed-citation></ref><ref id="R11"><label>11</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><collab>NHS England</collab></person-group>
-<source>Care and Treatment Review: Policy and Guidelines</source>. <publisher-name>NHS England</publisher-name>, <year>2015</year>.
-</mixed-citation></ref><ref id="R12"><label>12</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><collab>NHS England</collab></person-group>
-<source>People with a Learning Disability Have a Key Role &#x02013; Dr Julie Higgins</source>. <publisher-name>NHS England</publisher-name>, <year>2016</year> Available at <uri xlink:href="https://www.england.nhs.uk/learningdisabilities/2016/05/26/julie-higgins-3/">https://www.england.nhs.uk/learningdisabilities/2016/05/26/julie-higgins-3/</uri>
+                </corresp>
+                <fn>
+                    <p>
+                        <bold>John L. Taylor</bold> is Professor of Clinical Psychology at Northumbria University, UK; <bold>Iain McKinnon</bold> is Honorary Senior Clinical Lecturer at Newcastle University, UK; <bold>Ian Thorpe</bold> is Nurse Consultant, and <bold>Bruce T. Gillmer</bold> is Consultant Clinical Psychologist, Northumberland, Tyne &#x00026; Wear NHS Foundation Trust, UK.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="ppub">
+                <month>8</month>
+                <year>2017</year>
+            </pub-date>
+            <volume>41</volume>
+            <issue>4</issue>
+            <fpage>205</fpage>
+            <lpage>208</lpage>
+            <history>
+                <date date-type="received">
+                    <day>4</day>
+                    <month>8</month>
+                    <year>2016</year>
+                </date>
+                <date date-type="rev-recd">
+                    <day>4</day>
+                    <month>8</month>
+                    <year>2016</year>
+                </date>
+                <date date-type="accepted">
+                    <day>14</day>
+                    <month>9</month>
+                    <year>2016</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>&#x000a9; 2017 The Authors</copyright-statement>
+                <copyright-year>2017</copyright-year>
+                <license license-type="creative-commons" xlink:href="http://creativecommons.org/licenses/by/4.0">
+                    <license-p>This is an open-access article published by the Royal College of Psychiatrists and distributed under the terms of the Creative Commons Attribution License (<uri xlink:href="http://creativecommons.org/licenses/by/4.0">http://creativecommons.org/licenses/by/4.0</uri>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <self-uri xlink:title="pdf" xlink:href="205.pdf" />
+            <abstract>
+                <p id="P1">NHS England recently published a national plan to develop community services for people with intellectual disabilities and autism who display challenging behaviour by using resources from the closure of a large number of hospital beds. An ambitious timescale has been set to implement this plan. The bed closure programme is moving ahead rapidly, but there has been little progress in developing community services to support it. This paper discusses the impact of the gap between policy and practice on the care and safety of patients with intellectual disabilities and forensic needs who form a distinct subgroup of the target population and are being disproportionately affected by this government policy.</p>
+            </abstract>
+        </article-meta>
+    </front>
+    <body>
+        <sec id="S1">
+            <title>The policy context</title>
+            <p id="P2">
+                <italic>Building the Right Support,</italic> a national plan to develop community services and close hospital beds for people with intellectual disabilities and autism who &#x02018;display behaviour that challenges&#x02019; (p. 4), was published last October by NHS England and its local authority partners.<sup>
+                <xref rid="R1" ref-type="bibr">1</xref>
+            </sup> The genesis of this plan was the Winterbourne View scandal in 2011, which involved the systematic abuse of people with intellectual disabilities in an independent sector hospital unit run by Castlebeck Care in Bristol, England.<sup>
+            <xref rid="R2" ref-type="bibr">2</xref>
+        </sup> This led to a concordat that committed the Department of Health to a rapid reduction in the number of people with intellectual disabilities and challenging behaviour in hospital beds by mid-2014.<sup>
+        <xref rid="R3" ref-type="bibr">3</xref>
+    </sup> Under pressure from politicians and stakeholder groups, who claimed that the government had failed to deliver on its concordat promises and that the situation had worsened,<sup>
+    <xref rid="R4" ref-type="bibr">4</xref>
+</sup> the chief executive of the National Health Service (NHS) committed to a 2-year intellectual disability hospital closure programme during a parliamentary select committee hearing on services for people with intellectual disabilities and challenging behaviour in early 2015.<sup>
+<xref rid="R5" ref-type="bibr">5</xref>
+</sup>
+</p>
+<p id="P3">The ensuing national plan includes the closure of 45&#x02013;65% of local clinical commissioning group (CCG)-commissioned and 25&#x02013;40% of NHS England national specialist-commissioned in-patient beds by 2018. This is a &#x02018;starting point&#x02019; and commissioners are encouraged to be &#x02018;ambitious in thinking about how much further they can go&#x02019; (p. 6; unless stated otherwise, all quotations in this commentary are from <italic>Building the Right Support</italic> document<sup>
+<xref rid="R1" ref-type="bibr">1</xref>
+</sup>). The rationale for these numbers and timescale is unclear beyond what NHS commissioners and local authorities have told the plan's authors &#x02018;they believe is possible&#x02019;, which was then &#x02018;sense-checked&#x02019; against geographical variations in current in-patient service usage (p. 27). The money saved from these bed closures is to be reinvested in the development of community services (p. 6). The national plan is clear that this transition will involve significant costs. It is stated that commissioners &#x02018;will need to invest in new community support <italic>before</italic> closing inpatient provision&#x02019; (p. 7, italics added). Also required is the &#x02018;temporary double running of services as inpatient facilities continue to be funded whilst new community services are established&#x02019; (p. 44). Local Transforming Care partnerships were tasked with drawing up implementation plans to support a new model of care and to start delivering against these plans by 1 April 2016.</p>
+</sec>
+<sec id="S2">
+<title>Lack of investment in community services</title>
+<p id="P4">Unfortunately, little progress appears to have been made in agreeing, let alone implementing, new community service models to support the bed closure plans as envisaged in the national plan. The current authors work clinically with patients with intellectual and developmental disabilities who display offending and offending-type behaviours in in-patient and community services across six CCG areas in the north-east of England. As a group we have been closely involved in initiatives to increase hospital discharge rates and reduce readmissions, bed numbers and lengths of stay as well as to support and strengthen community services for people with intellectual disabilities who are at risk of offending. These innovations pre-date the Transforming Care programme and have already led to the closure of two in-patient units and a number of satellite beds in our services (40 beds in total). Despite our engagement and commitment to this transformation process we are concerned about the impact of the national plan, and the manner in which it is being implemented locally on patient care, patient safety and the safety of others.</p>
+<p id="P5">The North East and Cumbria is one of six &#x02018;fast-track areas&#x02019; in the national plan, set up with &#x000a3;2.06 million support from the NHS England Transforming Care programme to &#x02018;help fund transitional costs and speed up implementation&#x02019; (p. 12). Fast-track areas aim to reduce in-patient bed usage by around 50% within 3 years, thereby &#x02018;freeing up tens of millions of pounds which will be invested in community-based support to prevent hospital admissions&#x02019; (p. 13). The North East and Cumbria service model, which aims to deliver a 50% reduction in in-patient admissions, is currently in draft form and the &#x02018;new community model&#x02019; embedded within the overall service model is not due to be considered by the North East and Cumbria Transforming Care Board until September 2016 at the earliest. Once the model is agreed, implementation plans will need to be developed, and resources including people and funds will need to be identified to enable it to be initiated. Judging by the pace of progress to date, this is likely to take considerable time. In the meantime, plans for in-patient bed closures are progressing rapidly, with 31 out of 112 beds (35%) across our medium- and low-secure and locked rehabilitation services currently empty as part of the closure programme.</p>
+</sec>
+<sec id="S3">
+<title>The effects of Transforming Care</title>
+<p id="P6">The impact on patient care and safety of the drive to close in-patient beds without first having developed or strengthened community services is already beginning to show locally. The population served by these in-patient services, in contrast to the intended target population, is relatively high functioning intellectually (that is, mild/borderline in intellectual disability terms),<sup>
+<xref rid="R6" ref-type="bibr">6</xref>
+</sup> shows high levels of psychiatric comorbidity<sup>
+<xref rid="R7" ref-type="bibr">7</xref>
+</sup> and personality disorder characteristics,<sup>
+<xref rid="R8" ref-type="bibr">8</xref>
+</sup> and generally does not display &#x02018;behaviour that challenges&#x02019;, but outwardly directed high-impact offending behaviour that has resulted in criminal convictions and/or detention under the Mental Health Act 1983 on the basis of &#x02018;abnormally aggressive&#x02019; and/or &#x02018;seriously irresponsible&#x02019; behaviour. Chief among the behaviours that bring these patients into these services are serious violence and aggression, sex offences, damage to property and firesetting.<sup>
+<xref rid="R9" ref-type="bibr">9</xref>
+</sup> The most recent national census data reflect this offending behaviour profile, in that 33% of patients with intellectual disabilities detained under the Mental Health Act in England are subject to Part III criminal sections, and 21% of that group are subject to Ministry of Justice restrictions, meaning that they cannot be discharged without the approval of the Secretary of State or a mental health tribunal.<sup>
+<xref rid="R10" ref-type="bibr">10</xref>
+</sup> Just 17% of in-patients with intellectual disabilities in the census were informal &#x02013; that is, not detained under the Act.</p>
+<p id="P7">The imperative to empty and then close in-patient beds has resulted in pressure being applied on clinical teams through commissioner-led &#x02018;care and treatment reviews&#x02019;<sup>
+<xref rid="R11" ref-type="bibr">11</xref>
+</sup> to provide discharge dates for some forensic patients who continue to present levels of risk that local service providers and community teams are not adequately resourced to manage, or to consider transfers from NHS to independent hospital beds. Some evidence for the movement of patients around the in-patient system &#x02013; possibly to create the illusion of progress &#x02013; comes from a recent update from the NHS England Director of Transformation &#x02013; Learning Disabilities,<sup>
+<xref rid="R12" ref-type="bibr">12</xref>
+</sup> who reported that in April 2016, 20 of the net 100 recorded discharges were in fact transfers to other hospitals, and the destination of a further 20 discharged patients was unknown.</p>
+<p id="P8">There is also concern that owing to the pressure to discharge as quickly as possible to meet the national plan targets, patients' rehabilitation is being hurried and/or truncated, resulting in some people being discharged before they are ready to take on the challenges of living in the wider community, or without the receiving community services being properly prepared to manage the risks these patients continue to present. The high level of clinical complexity and associated forensic risk in this population can require a significant period of assessment, formulation and specialist treatment to help patients develop thinking styles and attitudes, emotional control strategies and lifestyles less compatible with offending behaviour. A carefully considered and planned period of pre-discharge preparation is an important component of the treatment pathway and is essential to facilitating a successful transition from hospital to community care.</p>
+<p id="P9">Another consequence of the current rapid bed closure policy is that people with intellectual disabilities and forensic needs who require urgent hospital treatment are being admitted to generic psychiatric services. This includes patients who have been previously detained in hospital under the Mental Health Act 1983 and discharged on community treatment orders, and who have been subsequently formally recalled to hospital owing to escalating risks of harm to themselves or others. Admission to acute psychiatry units can result in these patients being targeted and exploited by more able patients. In addition, they are unable to access appropriate assessment and treatment as the staff teams in these services have little or no experience of working with this population and lack the specialist skills required.<sup>
+<xref rid="R13" ref-type="bibr">13</xref>
+</sup> This will result in longer periods of in-patient admission for these patients as access to suitable interventions aimed at reducing forensic risks is delayed.</p>
+<p id="P10">One aim of the Transforming Care programme is to prevent people with intellectual disabilities and challenging behaviours from undergoing unnecessary admissions to intellectual disability and mental health in-patient services. Whether an admission is necessary or not is inevitably a matter of judgement. With the requirement for commissioner agreement to admission, there is a real risk of the judgement of clinicians being circumvented. Efforts to prevent admission to hospital by increasing supervision and support to people in community settings to manage emerging risks have paradoxically resulted in situations amounting to <italic>de facto</italic> deprivation of liberty in some cases, where a short informal hospital admission to allow the risks to be assessed and required amendments made to care plans would have been a less restrictive and more clinically effective option.</p>
+</sec>
+<sec id="S4">
+<title>Discussion and conclusions</title>
+<p id="P11">People with intellectual disabilities who require treatment in hospital for behavioural, psychiatric and forensic problems should have access to the best evidence-based interventions available, delivered by caring staff with positive attitudes and person-centred values, in good-quality, safe environments. It is clear that a disproportionate number of people with intellectual disabilities are detained in hospital under the Mental Health Act<sup>
+<xref rid="R14" ref-type="bibr">14</xref>
+</sup> and, once detained, they have on average longer lengths of stay than detained patients who do not have intellectual disability.<sup>
+<xref rid="R15" ref-type="bibr">15</xref>
+</sup> The <italic>Building the Right Support</italic> national plan aims to address these inequities, albeit based on uncertain evidence and questionable assumptions.</p>
+<p id="P12">There is no credible evidence or analysis presented to support the proposed bed reduction numbers. Between 1988 and 2015 the number of intellectual disability beds in the NHS reduced dramatically, from approximately 33 000 to about 2500.<sup>
+<xref rid="R1" ref-type="bibr">1</xref>
+</sup> It is debatable whether this 90%-plus reduction over the past 30 years has been caused by centrally driven government policy initiatives, for example <italic>Valuing People</italic>,<sup>
+<xref rid="R16" ref-type="bibr">16</xref>
+</sup> or the impact of human services theories, such as social role valorisation,<sup>
+<xref rid="R17" ref-type="bibr">17</xref>
+</sup> on the deinstitutionalisation and community care movements in the 1980s and 90s.<sup>
+<xref rid="R18" ref-type="bibr">18</xref>
+</sup> Either way, looking at the most recent census of in-patient services for people with intellectual disabilities in England,<sup>
+<xref rid="R10" ref-type="bibr">10</xref>
+</sup> 83% were legally detained under the Mental Health Act 1983, with all of the scrutiny and protections this affords via mental health tribunals, hospital managers' hearings and Care Quality Commission inspections. It could be argued therefore that the majority of the remaining intellectual disability in-patient beds represent equipoise in the system and, as such, the current huge diversion of resources into forcing the closure of these remaining beds is unlikely to be successful in the long term.</p>
+<p id="P13">The national plan starts from the supposition that all people with intellectual disabilities &#x02018;should have a home within their community&#x02019; (p. 4). Seemingly underpinning this position is a belief that families and the community are always better for people with intellectual disabilities and that hospital services do not provide safety and sanctuary for some people. For many of our patients with forensic needs, their histories indicate that families and the community can be part of the problem rather than the solution. Putting to one side the fact that communities are generally not keen to embrace people who might have violently or sexually assaulted people in their midst, or set fire to their buildings, people with disabilities frequently experience abuse, aggression and violence in and by the community.<sup>
+<xref rid="R19" ref-type="bibr">19</xref>
+</sup> There are many examples of people like Brent Martin, who was brutally murdered in 2007 by his more able &#x02018;friends&#x02019; in Sunderland 3 months after being discharged from hospital.<sup>
+<xref rid="R20" ref-type="bibr">20</xref>
+</sup>
+</p>
+<p id="P14">A further assumption underpinning the national plan is that hospital admissions should be as short as possible. There is an apparent lack of understanding that the population managed and treated by in-patient forensic intellectual disability services is distinct from the population envisaged within the Transforming Care programme. Patients with significant forensic histories have frequently experienced high levels of abuse, neglect and deprivation. They require time to develop insight into their difficulties in relating to others, acquire skills in regulating their emotions and acknowledge their future support needs. The application of a bed closure policy and as yet unclear community service model that is designed for a very different population carries significant risks of harm for patients with intellectual disabilities and forensic needs, as well as for others. The implementation of that policy without the required and promised investment in and development of community services is especially concerning. Some of the unintended consequences of this approach might include more vulnerable offenders with intellectual disabilities being sent to prison rather than diverted to hospital for appropriate treatment as recommended in the Bradley Report<sup>
+<xref rid="R21" ref-type="bibr">21</xref>
+</sup> While imprisoned, such offenders will likely be targeted by other prisoners because of their disabilities and will remain at risk of re-offending, as they will be unable to access prison offending behaviour programmes <sup>
+<xref rid="R22" ref-type="bibr">22</xref>
+</sup> Finally, it is perhaps ironic that this policy will possibly lead to an increase in the use of independent sector hospital beds for people with intellectual disabilities &#x02013; exactly where this all started.</p>
+</sec>
+</body>
+<back>
+<fn-group>
+<fn fn-type="COI-statement">
+<p>
+<bold>Declaration of interest</bold> All authors are employed by Northumberland, Tyne and Wear NHS Foundation Trust. The opinions expressed are the authors' own and do not reflect the views of the Trust.</p>
+</fn>
+</fn-group>
+<ref-list>
+<title>References</title>
+<ref id="R1">
+<label>1</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<collab>NHS England</collab>
+</person-group>
+<source>Building the Right Support</source>.<publisher-name>NHS England</publisher-name>,<year>2015</year> (<uri xlink:href="https//www.england.nhs.uk/wp-content/uploads/2015/10/ld-nat-imp-plan-oct15.pdf">https//www.england.nhs.uk/wp-content/uploads/2015/10/ld-nat-imp-plan-oct15.pdf</uri>).
+</mixed-citation>
+</ref>
+<ref id="R2">
+<label>2</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<collab>Department of Health</collab>
+</person-group>
+<source>Transforming Care: A National Response to Winterbourne View Hospital</source>.<publisher-name>Department of Health</publisher-name>,<year>2012</year>.
+</mixed-citation>
+</ref>
+<ref id="R3">
+<label>3</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<collab>Department of Health</collab>
+</person-group>
+<source>DH Winterbourne View Review. Concordat: A Programme of Action</source>.<publisher-name>Department of Health</publisher-name>,<year>2012</year> (<uri xlink:href="https://www-gov.uk/government/uploads/system/uploads/attachment_data/file/213217/Concordat.pdf">https://www-gov.uk/government/uploads/system/uploads/attachment_data/file/213217/Concordat.pdf</uri>).
+</mixed-citation>
+</ref>
+<ref id="R4">
+<label>4</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<collab>Mencap</collab>
+</person-group>
+<source>Winterbourne View: The Scandal Continues</source>.<publisher-name>Mencap</publisher-name>,<year>2015</year> (<uri xlink:href="http://www.challengingbehaviour.org.uk/learning-disability-files/Winterbourne-View-the-Scandal-Continues.pdf">http://www.challengingbehaviour.org.uk/learning-disability-files/Winterbourne-View-the-Scandal-Continues.pdf</uri>).
+</mixed-citation>
+</ref>
+<ref id="R5">
+<label>5</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<collab>Public Accounts Committee</collab>
+</person-group>
+<source>Oral Evidence: Care Services for People with Learning Disabilities and Challenging Behaviour (HC 973, Monday 9 February)</source>.<publisher-name>Public Accounts Committee</publisher-name>,<year>2015</year> (<uri xlink:href="http://data.parliament.uk/writtenevidence/committeeevidence.svc/evidencedocument/public-accounts-committee/care-for-people-with-learning-disabilities/oral/18031.pdf">http://data.parliament.uk/writtenevidence/committeeevidence.svc/evidencedocument/public-accounts-committee/care-for-people-with-learning-disabilities/oral/18031.pdf</uri>).
+</mixed-citation>
+</ref>
+<ref id="R6">
+<label>6</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Hogue</surname>
+<given-names>TE</given-names>
+</name>
+<name name-style="western">
+<surname>Steptoe</surname>
+<given-names>L</given-names>
+</name>
+<name name-style="western">
+<surname>Taylor</surname>
+<given-names>JL</given-names>
+</name>
+<name name-style="western">
+<surname>Lindsay</surname>
+<given-names>WR</given-names>
+</name>
+<name name-style="western">
+<surname>Mooney</surname>
+<given-names>P</given-names>
+</name>
+<name name-style="western">
+<surname>Pinkney</surname>
+<given-names>L</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>A comparison of offenders with intellectual disabilities across three levels of security</article-title>.<source>Crim Behav Ment Health</source>
+<year>2006</year>;<volume>16</volume>:<fpage>13</fpage>&#x02013;<lpage>28</lpage>.
+<pub-id pub-id-type="pmid">16572489</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R7">
+<label>7</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Alexander</surname>
+<given-names>RT</given-names>
+</name>
+<name name-style="western">
+<surname>Hiremath</surname>
+<given-names>A</given-names>
+</name>
+<name name-style="western">
+<surname>Chester</surname>
+<given-names>V</given-names>
+</name>
+<name name-style="western">
+<surname>Green</surname>
+<given-names>FN</given-names>
+</name>
+<name name-style="western">
+<surname>Gunaratna</surname>
+<given-names>IJ</given-names>
+</name>
+<name name-style="western">
+<surname>Hoare</surname>
+<given-names>S</given-names>
+</name>
+</person-group>
+<article-title>Evaluation of treatment outcomes from a medium secure unit for people with intellectual disability</article-title>.<source>Adv Merit Health Intell Disabil</source>
+<year>2011</year>;<volume>5</volume>:<fpage>22</fpage>&#x02013;<lpage>32</lpage>.
+</mixed-citation>
+</ref>
+<ref id="R8">
+<label>8</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Taylor</surname>
+<given-names>JL</given-names>
+</name>
+<name name-style="western">
+<surname>Novaco</surname>
+<given-names>RW</given-names>
+</name>
+</person-group>
+<article-title>A brief screening instrument for emotionally unstable and dissocial personality disorder in male offenders with intellectual disabilities</article-title>.<source>Res Develop Disabil</source>
+<year>2013</year>;<volume>34</volume>:<fpage>546</fpage>&#x02013;<lpage>53</lpage>.
+</mixed-citation>
+</ref>
+<ref id="R9">
+<label>9</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>O'Brien</surname>
+<given-names>G</given-names>
+</name>
+<name name-style="western">
+<surname>Taylor</surname>
+<given-names>JL</given-names>
+</name>
+<name name-style="western">
+<surname>Lindsay</surname>
+<given-names>WR</given-names>
+</name>
+<name name-style="western">
+<surname>Holland</surname>
+<given-names>AJ</given-names>
+</name>
+<name name-style="western">
+<surname>Carson</surname>
+<given-names>D</given-names>
+</name>
+<name name-style="western">
+<surname>Price</surname>
+<given-names>K</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>A multi-centre study of adults with learning disabilities referred to services for antisocial or offending behaviour: demographic, individual, offending and service characteristics</article-title>.<source>J Learn Disabil Offen Behav</source>
+<year>2010</year>;<volume>1</volume>:<fpage>5</fpage>&#x02013;<lpage>15</lpage>.
+</mixed-citation>
+</ref>
+<ref id="R10">
+<label>10</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<collab>Health and Social Care Information Centre</collab>
+</person-group>
+<source>Learning Disability Census Report</source>.<publisher-name>HSCIC</publisher-name>,<year>2015</year>.
+</mixed-citation>
+</ref>
+<ref id="R11">
+<label>11</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<collab>NHS England</collab>
+</person-group>
+<source>Care and Treatment Review: Policy and Guidelines</source>.<publisher-name>NHS England</publisher-name>,<year>2015</year>.
+</mixed-citation>
+</ref>
+<ref id="R12">
+<label>12</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<collab>NHS England</collab>
+</person-group>
+<source>People with a Learning Disability Have a Key Role &#x02013; Dr Julie Higgins</source>.<publisher-name>NHS England</publisher-name>,<year>2016</year> Available at <uri xlink:href="https://www.england.nhs.uk/learningdisabilities/2016/05/26/julie-higgins-3/">https://www.england.nhs.uk/learningdisabilities/2016/05/26/julie-higgins-3/</uri>
 <comment>(accessed 15 September 2016)</comment>.
-</mixed-citation></ref><ref id="R13"><label>13</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Cumella</surname><given-names>SJ</given-names></name></person-group>
-<article-title>Public policy in intellectual and developmental disability</article-title>. <source>Curr Opin Psychiatr</source>
-<year>2010</year>; <volume>23</volume>: <fpage>417</fpage>&#x02013;<lpage>20</lpage>.
-</mixed-citation></ref><ref id="R14"><label>14</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><collab>Health and Social Care Information Centre</collab></person-group>
-<source>Inpatients Formally Detained in Hospitals under the Mental Health Act 1983, and Patients Subject to Community Treatment: Annual Report, England, 2013/14</source>. <publisher-name>HSCIC</publisher-name>, <year>2014</year>.
-</mixed-citation></ref><ref id="R15"><label>15</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><collab>Care Quality Commission</collab></person-group>
-<source>Count Me in 2010: Results of the 2010 National Census of Inpatients and Patients on Supervised Community Treatment in Mental Health and Learning Disability Services in England and Wales</source>. <publisher-name>CQC</publisher-name>, <year>2011</year>.
-</mixed-citation></ref><ref id="R16"><label>16</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><collab>Department of Health</collab></person-group>
-<source>Valuing People: A New Strategy for Learning Disability for the 21st Century</source>. <publisher-name>Department of Health</publisher-name>, <year>2011</year>.
-</mixed-citation></ref><ref id="R17"><label>17</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Wolfensberger</surname><given-names>W</given-names></name></person-group>
-<article-title>Social role valorization: a proposed new term for the principle of normalization</article-title>. <source>Ment Retard</source>
-<year>1983</year>; <volume>21</volume>: <fpage>234</fpage>&#x02013;<lpage>9</lpage>.
-<pub-id pub-id-type="pmid">6672533</pub-id></mixed-citation></ref><ref id="R18"><label>18</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><name name-style="western"><surname>Mansell</surname><given-names>J</given-names></name><name name-style="western"><surname>Ericsson</surname><given-names>K</given-names></name></person-group>
-<source>Deinstitutionalisation and Community Living: Intellectual Disability Services in Scandinavia, Britain and the USA</source>. <publisher-name>Chapman and Hall</publisher-name>, <year>1996</year>.
-</mixed-citation></ref><ref id="R19"><label>19</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><name name-style="western"><surname>Aiden</surname><given-names>H</given-names></name><name name-style="western"><surname>McCarthy</surname><given-names>A</given-names></name></person-group>
-<source>Current Attitudes Towards Disabled People</source>. <publisher-name>Scope</publisher-name>, <year>2014</year>.
-</mixed-citation></ref><ref id="R20"><label>20</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><collab>Equality and Human Rights Commission</collab></person-group>
-<source>Hidden in Plain Sight: Inquiry into Disability-Related Harassment</source>. <publisher-name>EHRC</publisher-name>, <year>2011</year>.
-</mixed-citation></ref><ref id="R21"><label>21</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><collab>Department of Health</collab></person-group>
-<source>The Bradley Report: Lord Bradley's Review of People with Mental Health Problems or Learning Disabilities in the Criminal Justice System</source>. <publisher-name>Department of Health</publisher-name>, <year>2009</year>.
-</mixed-citation></ref><ref id="R22"><label>22</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><name name-style="western"><surname>Loucks</surname><given-names>N</given-names></name></person-group>
-<source>No One Knows: Offenders with Learning Difficulties and Learning Disabilities. Review of Prevalence and Associated Needs</source>. <publisher-name>Prison Reform Trust</publisher-name>, <year>2006</year>.
-</mixed-citation></ref></ref-list></back></article>
+</mixed-citation>
+</ref>
+<ref id="R13">
+<label>13</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Cumella</surname>
+<given-names>SJ</given-names>
+</name>
+</person-group>
+<article-title>Public policy in intellectual and developmental disability</article-title>.<source>Curr Opin Psychiatr</source>
+<year>2010</year>;<volume>23</volume>:<fpage>417</fpage>&#x02013;<lpage>20</lpage>.
+</mixed-citation>
+</ref>
+<ref id="R14">
+<label>14</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<collab>Health and Social Care Information Centre</collab>
+</person-group>
+<source>Inpatients Formally Detained in Hospitals under the Mental Health Act 1983, and Patients Subject to Community Treatment: Annual Report, England, 2013/14</source>.<publisher-name>HSCIC</publisher-name>,<year>2014</year>.
+</mixed-citation>
+</ref>
+<ref id="R15">
+<label>15</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<collab>Care Quality Commission</collab>
+</person-group>
+<source>Count Me in 2010: Results of the 2010 National Census of Inpatients and Patients on Supervised Community Treatment in Mental Health and Learning Disability Services in England and Wales</source>.<publisher-name>CQC</publisher-name>,<year>2011</year>.
+</mixed-citation>
+</ref>
+<ref id="R16">
+<label>16</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<collab>Department of Health</collab>
+</person-group>
+<source>Valuing People: A New Strategy for Learning Disability for the 21st Century</source>.<publisher-name>Department of Health</publisher-name>,<year>2011</year>.
+</mixed-citation>
+</ref>
+<ref id="R17">
+<label>17</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Wolfensberger</surname>
+<given-names>W</given-names>
+</name>
+</person-group>
+<article-title>Social role valorization: a proposed new term for the principle of normalization</article-title>.<source>Ment Retard</source>
+<year>1983</year>;<volume>21</volume>:<fpage>234</fpage>&#x02013;<lpage>9</lpage>.
+<pub-id pub-id-type="pmid">6672533</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R18">
+<label>18</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Mansell</surname>
+<given-names>J</given-names>
+</name>
+<name name-style="western">
+<surname>Ericsson</surname>
+<given-names>K</given-names>
+</name>
+</person-group>
+<source>Deinstitutionalisation and Community Living: Intellectual Disability Services in Scandinavia, Britain and the USA</source>.<publisher-name>Chapman and Hall</publisher-name>,<year>1996</year>.
+</mixed-citation>
+</ref>
+<ref id="R19">
+<label>19</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Aiden</surname>
+<given-names>H</given-names>
+</name>
+<name name-style="western">
+<surname>McCarthy</surname>
+<given-names>A</given-names>
+</name>
+</person-group>
+<source>Current Attitudes Towards Disabled People</source>.<publisher-name>Scope</publisher-name>,<year>2014</year>.
+</mixed-citation>
+</ref>
+<ref id="R20">
+<label>20</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<collab>Equality and Human Rights Commission</collab>
+</person-group>
+<source>Hidden in Plain Sight: Inquiry into Disability-Related Harassment</source>.<publisher-name>EHRC</publisher-name>,<year>2011</year>.
+</mixed-citation>
+</ref>
+<ref id="R21">
+<label>21</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<collab>Department of Health</collab>
+</person-group>
+<source>The Bradley Report: Lord Bradley's Review of People with Mental Health Problems or Learning Disabilities in the Criminal Justice System</source>.<publisher-name>Department of Health</publisher-name>,<year>2009</year>.
+</mixed-citation>
+</ref>
+<ref id="R22">
+<label>22</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Loucks</surname>
+<given-names>N</given-names>
+</name>
+</person-group>
+<source>No One Knows: Offenders with Learning Difficulties and Learning Disabilities. Review of Prevalence and Associated Needs</source>.<publisher-name>Prison Reform Trust</publisher-name>,<year>2006</year>.
+</mixed-citation>
+</ref>
+</ref-list>
+</back>
+</article>

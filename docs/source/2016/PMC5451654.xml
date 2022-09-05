@@ -1,49 +1,473 @@
-<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
-<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="review-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-journalpublishing1.dtd?><?SourceDTD.Version 1.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">BJPsych Bull</journal-id><journal-id journal-id-type="iso-abbrev">BJPsych Bull</journal-id><journal-id journal-id-type="hwp">pbrcpsych</journal-id><journal-title-group><journal-title>BJPsych Bulletin</journal-title></journal-title-group><issn pub-type="ppub">2056-4694</issn><issn pub-type="epub">2056-4708</issn><publisher><publisher-name>Royal College of Psychiatrists</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">5451654</article-id><article-id pub-id-type="doi">10.1192/pb.bp.116.053660</article-id><article-categories><subj-group subj-group-type="heading"><subject>Current Practice</subject></subj-group></article-categories><title-group><article-title>Personalisation and social care assessment &#x02013; the Care Act 2014</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Barnes</surname><given-names>Deb</given-names></name><xref ref-type="aff" rid="A1">1</xref></contrib><contrib contrib-type="author"><name><surname>Boland</surname><given-names>Billy</given-names></name><xref ref-type="aff" rid="A1">1</xref><xref ref-type="corresp" rid="cor1"/></contrib><contrib contrib-type="author"><name><surname>Linhart</surname><given-names>Kathryn</given-names></name><xref ref-type="aff" rid="A1">1</xref></contrib><contrib contrib-type="author"><name><surname>Wilson</surname><given-names>Katherine</given-names></name><xref ref-type="aff" rid="A1">1</xref></contrib></contrib-group><aff id="A1"><label>1</label>Hertfordshire Partnership NHS Foundation Trust</aff><author-notes><corresp id="cor1">
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="review-article">    <?properties open_access?>    <?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN?>    <?DTDIdentifier.IdentifierType public?>    <?SourceDTD.DTDName JATS-journalpublishing1.dtd?>    <?SourceDTD.Version 1.0?>    <?ConverterInfo.XSLTName jp2nlmx2.xsl?>    <?ConverterInfo.Version 1?>
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="nlm-ta">BJPsych Bull</journal-id>
+            <journal-id journal-id-type="iso-abbrev">BJPsych Bull</journal-id>
+            <journal-id journal-id-type="hwp">pbrcpsych</journal-id>
+            <journal-title-group>
+                <journal-title>BJPsych Bulletin</journal-title>
+            </journal-title-group>
+            <issn pub-type="ppub">2056-4694</issn>
+            <issn pub-type="epub">2056-4708</issn>
+            <publisher>
+                <publisher-name>Royal College of Psychiatrists</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="pmcid">5451654</article-id>
+            <article-id pub-id-type="doi">10.1192/pb.bp.116.053660</article-id>
+            <article-categories>
+                <subj-group subj-group-type="heading">
+                    <subject>Current Practice</subject>
+                </subj-group>
+            </article-categories>
+            <title-group>
+                <article-title>Personalisation and social care assessment &#x02013; the Care Act 2014</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Barnes</surname>
+                        <given-names>Deb</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Boland</surname>
+                        <given-names>Billy</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                    <xref ref-type="corresp" rid="cor1" />
+                </contrib>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Linhart</surname>
+                        <given-names>Kathryn</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Wilson</surname>
+                        <given-names>Katherine</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                </contrib>
+            </contrib-group>
+            <aff id="A1">
+                <label>1</label>Hertfordshire Partnership NHS Foundation Trust</aff>
+            <author-notes>
+                <corresp id="cor1">
 Correspondence to Billy Boland (<email>billy.boland@hpft.nhs.uk</email>)
-</corresp><fn><p><bold>Deb Barnes</bold>, Expert by Experience, <bold>Billy Boland</bold>, Consultant Psychiatrist, <bold>Kathryn Linhart</bold>, Consultant Social Worker, and <bold>Katherine Wilson</bold>, Consultant Social Worker, all at Hertfordshire Partnership University NHS Foundation Trust.</p></fn></author-notes><pub-date pub-type="ppub"><month>6</month><year>2017</year></pub-date><volume>41</volume><issue>3</issue><fpage>176</fpage><lpage>180</lpage><history><date date-type="received"><day>13</day><month>1</month><year>2016</year></date><date date-type="rev-recd"><day>9</day><month>8</month><year>2016</year></date><date date-type="accepted"><day>14</day><month>9</month><year>2016</year></date></history><permissions><copyright-statement>&#x000a9; 2017 The Authors</copyright-statement><copyright-year>2017</copyright-year><license license-type="creative-commons" xlink:href="http://creativecommons.org/licenses/by/4.0"><license-p>This is an open-access article published by the Royal College of Psychiatrists and distributed under the terms of the Creative Commons Attribution License (<uri xlink:href="http://creativecommons.org/licenses/by/4.0">http://creativecommons.org/licenses/by/4.0</uri>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xlink:title="pdf" xlink:href="176.pdf"/><abstract><p id="P1">The Care Act 2014 represents a significant change in legislation in England. For the first time it brings together various aspects of adult social care into a single statute succeeding earlier acts and policy. Given its importance to the lives of service users and carers, clinicians need to have a clear understanding of its implications. We provide an overview of why it was developed, its underlying principles and international comparisons, as well as implications for assessments, interventions and outcomes. The impact on the lives of patients and carers is discussed, as well as dilemmas and challenges the Act presents. While it addresses other important aspects of social care, including safeguarding, Mental Health Act section 117 aftercare and duty of candour, we focus on personalisation because of the opportunities it provides to enhance management plans for people experiencing mental health problems.</p></abstract></article-meta></front><body><sec id="S1"><title>Why was the Care Act 2014 developed?</title><p id="P2">The Care Act 2014 represents the latest evolution in current attitudes to care. It was asserted by Norman Lamb MP, Care and Support Minister in the UK coalition government, as &#x02018;the most significant reform of care and support in more than 60 years&#x02019;.<sup><xref rid="R1" ref-type="bibr">1</xref></sup> Think Local Act Personal (TLAP, a partnership of more than 50 organisations, including the National Health Service (NHS), &#x02018;committed to transforming health and care through personalisation and community-based support&#x02019;(<uri xlink:href="www.thinklocalactpersonal.org.uk/About-us/">www.thinklocalactpersonal.org.uk/About-us/</uri>)) sees it as representing a significant change in legislation, of importance to service users and carers in England and Wales because &#x02018;for the first time it puts them in control of their care and support. It also makes clear what kind of care they should expect&#x02019; (<uri xlink:href="www.thinklocalactpersonal.org.uk/Browse/careact2014/">www.thinklocalactpersonal.org.uk/Browse/careact2014/</uri>).</p><p id="P3">Social care law can be seen to have begun with the National Assistance Act in 1948 that contained provisions for the basis of the modern welfare state. Direct payments as a method of personalisation were introduced in 1996 by the Community Care Act. More recent updates, such as the Carers and Disabled Children Act 2000 and the Health and Social Care Act 2001, broadened and refreshed these approaches. Separately, safeguarding of adults from abuse was dealt with by the Department of Health in <italic>No Secrets</italic>.<sup><xref rid="R2" ref-type="bibr">2</xref></sup> The Care Act 2014 succeeds earlier acts with a single statute. The golden thread running through the Act is the promotion of individual well-being (<xref ref-type="boxed-text" rid="box1">Box 1</xref>):
-<disp-quote><p id="P4">&#x02018;The general duty of a local authority, in exercising a function under this Part in the case of an individual, is to promote that individual's well-being.&#x02019; (Care Act 2014 section 1(1))</p><p id="P5">&#x02018;As a service user who has in the past been a carer to a diverse group of individuals, I feel that had a lot of these changes been made in the past, many people's lives would have transformed sooner rather than later. That being said, we are now moving forward to enable individual lives to be more fulfilled.&#x02019; (Deb Barnes)</p></disp-quote>
-</p><boxed-text id="box1" position="float" orientation="portrait"><p id="P6"><bold>Box 1</bold> Scope: purpose of the Care Act (adapted from the Care Act 2014)</p><list list-type="alpha-lower"><list-item><p id="P7">To reform the law relating to care and support for adults</p></list-item><list-item><p id="P8">To reform the law relating to support for carers</p></list-item><list-item><p id="P9">To make provision about safeguarding adults from abuse or neglect</p></list-item><list-item><p id="P10">To make provision about care standards</p></list-item><list-item><p id="P11">To establish and make provision about Health Education England</p></list-item><list-item><p id="P12">To establish and make provision about the Health Research Authority</p></list-item><list-item><p id="P13">To make provision about integrating care and support with health services</p></list-item></list></boxed-text><boxed-text id="box2" position="float" orientation="portrait"><p id="P14"><bold>Box 2</bold> Care Act specified outcomes</p><p id="P15">The specified outcomes as defined in the Act are:
-<list list-type="alpha-lower"><list-item><p id="P16">managing and maintaining nutrition</p></list-item><list-item><p id="P17">maintaining personal hygiene</p></list-item><list-item><p id="P18">managing toilet needs</p></list-item><list-item><p id="P19">being appropriately clothed</p></list-item><list-item><p id="P20">being able to make use of the adult's home safely</p></list-item><list-item><p id="P21">maintaining a habitable home environment</p></list-item><list-item><p id="P22">developing and maintaining family or other personal relationships</p></list-item><list-item><p id="P23">accessing and engaging in work, training, education or volunteering</p></list-item><list-item><p id="P24">making use of necessary facilities or services in the local community including public transport and recreational facilities or services, and</p></list-item><list-item><p id="P25">carrying out any caring responsibilities the adult has for a child.</p></list-item></list>
-</p></boxed-text></sec><sec id="S2"><title>What are the international comparisons?</title><p id="P26">In establishing the Care Act, a cap on spending for long-term social care was originally proposed to be introduced in April 2016. However, this has now been postponed until at least 2020. In 2014, The King's Fund reviewed international comparisons for health and social care provision.<sup><xref rid="R3" ref-type="bibr">3</xref></sup> It highlights that The Netherlands introduced a &#x02018;universal&#x02019; (i.e. available to all) system of insurance for long-term care in 1968. In the 1990s it introduced caps in response to rising costs, but this led to long waiting lists and the caps were abolished. Latterly, they have raised the threshold to access social care and outlined aspects of care that are expected to be delivered by families. Sweden established the right to tax-funded legislation in 1982/1983, whereas countries including Germany, France, Japan and South Korea all have mandatory long-term care insurance schemes.</p></sec><sec id="S3"><title>Assessment under the Care Act</title><p id="P27">Assessment of needs, both for service users and their carers, is a core aspect of the Care Act. The process is divided into three stages: identifying needs, assessing eligibility and care planning.<sup><xref rid="R4" ref-type="bibr">4</xref></sup> Each of these should be viewed not only as a gateway to support but as an intervention in itself.</p><sec id="S4"><title>Stage 1: identifying needs</title><p id="P28">The Act places a statutory duty on local authorities to provide assessments for any adult, including carers, appearing to have a need for care or support, regardless of the local authority's view of the level of that need or the individual's financial resources (section 9&#x02013;10). It is important to note that in some areas this responsibility may be delegated by the local authority to partner organisations, such as NHS foundation trusts, and that assessment may be carried out by a range of professionals, including healthcare professionals. This assessment should address the person's needs in relation to the specified outcomes as defined in the Care Act (<xref ref-type="boxed-text" rid="box2">Box 2</xref>). It aims to identify the impact of these needs, the person's desired outcomes, and whether the provision of care and support services will be effective in contributing to the achievement of these outcomes (section 9(4), 10(5)). For clarity, we have used the term &#x02018;specified outcome&#x02019; as a technical definition to refer to those outcomes specified in the Care Act (<xref ref-type="boxed-text" rid="box2">Box 2</xref>) and &#x02018;personal outcome&#x02019; to describe all possible outcomes individuals may see as important.</p><p id="P29">It is crucial that the individual, their carer and any other person the individual requests be fully involved in the assessment process. Consideration should also be given to the most appropriate kind of assessment. Options for supported self-assessment, telephone assessment, joint assessment with other agencies or a combined assessment of the needs of, for example, the individual and their carer, may be appropriate (Care Act section 6(3)). In addition, in cases where the individual has significant difficulty in representing themselves at assessment and has no suitable advocate, the local authority is required to provide an independent advocate regardless of the individual's capacity under the Mental Capacity Act 2005.<sup><xref rid="R5" ref-type="bibr">5</xref></sup></p></sec><sec id="S5"><title>Stage 2: assessing eligibility</title><p id="P30">At the eligibility stage, the Care Act replaces previous Fair Access to Care (FACS) guidance on eligibility criteria<sup><xref rid="R6" ref-type="bibr">6</xref>,<xref rid="R7" ref-type="bibr">7</xref></sup> with a national eligibility threshold based on the causes, extent and impact of the individual's needs (~<xref ref-type="boxed-text" rid="box3">Box 3</xref>). It should however be noted that local authorities are able, where considered appropriate, to meet non-eligible needs and may choose to do so, for example, in order to prevent further deterioration.</p><sec id="S6"><title>Well-being, individual personal outcomes and eligibility</title><p id="P31">In order to judge eligibility, impacts and contexts of needs are relevant: individual needs must be considered against the specified outcomes to determine whether or not they can be met, and reasons for this should be understood. Some social needs are not addressed by the Care Act, for example housing and debt. A homeless person would not be eligible purely by virtue of their homelessness, but the reasons for homelessness may make them eligible. For example, becoming homeless solely through relationship breakdown would not be considered potentially eligible. However, homelessness through an inability to manage a tenancy due to the impact of severe mental illness (i.e. impaired &#x02018;ability to maintain a habitable home&#x02019; as defined in the specified outcomes) may well be eligible.</p><p id="P32">Furthermore, the impact on well-being is a personalised assessment and an individual perception, so that two people with the same needs in relation to specific outcomes could end up with a different assessment of eligibility. For example, obsessive-compulsive disorder could manifest in repetitive behaviours which affect an individual's ability to maintain family relationships and employment. These two specified outcomes may be fundamental for one person and significantly affect their well-being. Another person may have very different priorities or personal outcomes that they want to achieve; their well-being is not significantly affected and they would not be eligible.</p><p id="P33">The word &#x02018;significant&#x02019; is not defined in the legislation, rather it is a judgement made by the local authority after considering the person's needs and what is important to them. However, well-being is a broadly defined and holistically assessed concept, relating to areas such as: personal dignity; physical and mental health and emotional well-being; protection from abuse and neglect; control by the individual over day-to-day life; participation in work, education, training or recreation; social and economic well-being; domestic, family and personal relationships; suitability of living accommodation; and the individual's contribution to society.<sup><xref rid="R5" ref-type="bibr">5</xref></sup></p><boxed-text id="box3" position="float" orientation="portrait"><p id="P34"><bold>Box 3</bold> The National Eligibility Threshold (Regulation 2(1)14)<sup><xref rid="R11" ref-type="bibr">11</xref></sup></p><p id="P35">An adult's needs meet the eligibility criteria if &#x02013;
-<list list-type="alpha-lower"><list-item><p id="P36">the adult's needs arise from or are related to a physical or mental impairment or illness;</p></list-item><list-item><p id="P37">as a result of the adult's needs the adult is unable to achieve two or more of the outcomes [&#x02026;] and</p></list-item><list-item><p id="P38">as a consequence there is, or is likely to be, a significant impact on the adult's well-being.</p></list-item></list>
-</p></boxed-text><p id="P39">The key to assessment under the Care Act is understanding what personal outcome (personal aim, wish or goal) the individual is looking for and what their needs are, before considering how these needs can be met. Person-centred assessment focuses on the individual and the difficulty they have in achieving personal outcomes, balanced with their strengths and support network; it does not start with service provision. For example, the assessment does not begin with &#x02018;the person needs residential care&#x02019;, but rather may find that &#x02018;the person is unable to wash, dress and feed themselves. This is having an impact on their personal dignity and their ability to continue to live safely in their own home&#x02019;.</p><p id="P40">The local authority must consider what strengths, resources and capabilities the person has themselves and within their support networks and wider community. This strengths-based approach to assessment and care planning can maximise opportunities for utilising assets found within communities and normative support networks, thereby reducing dependence on service provision by meeting people's needs in more innovative and creative ways.</p></sec></sec><sec id="S7"><title>Stage 3: care planning</title><p id="P41">In developing and delivering preventive approaches to care and support, local authorities should ensure that individuals are not seen as passive recipients of support services, but are actively encouraged and supported to participate and are able to design care and support based around achievement of their goals. All assessments and subsequent care and support plans should be person-centred and genuinely engage the person and people involved in their care throughout.</p><p id="P42">Support plans should consider the broader needs identified by the assessment as well as the personal outcomes associated with the specified outcomes the individual is looking to achieve to maintain or improve their well-being. The person's own capabilities, assets and strengths and the potential for improving their skills, as well as the role of any support from family, friends or others that could help them to achieve what they wish for, should be incorporated into the plan. A person's independence should be maximised across these networks before any statutory service provision is considered to meet the desired personal outcomes.</p><p id="P43">Any person who requires ongoing support and has eligible needs is entitled to have these needs met through a personal budget. The Care Act 2014 has given parity to carers, who are now entitled to have their own eligible needs met through a carer's personal budget. A personal budget is an amount of money allocated for a person's support; this can be managed with or on behalf of the individual by the local authority or a broker, or can be paid to the individual as a direct payment. Person-centred care and support planning means that a person can receive part or all of their personal budget as a direct payment. Direct payments aim to enable a person to exercise the maximum possible choice over how they are supported, who they are supported by and where they are supported. The person must understand how much money is likely to be required to meet their eligible needs and have clear and realistic expectations of what is available locally. People who self-fund are entitled to receive necessary information, advice and support with support planning.</p><p id="P44">The third national TLAP survey<sup><xref rid="R8" ref-type="bibr">8</xref></sup> demonstrated that over three-quarters of personal budget holders reported a positive impact of personal budgets on their lives. People with mental health difficulties were more likely than other groups to report a positive impact on relationships with carers, family and friends. However, older people were less likely than other cohorts to report a positive impact on mental health.</p></sec></sec><sec id="S8"><title>Review</title><p id="P45">Plans may be revised as a scheduled review or in response to changing needs or circumstances. The review should be a positive opportunity to consider whether the plan is enabling the person to meet their needs and achieve their desired personal outcomes. At this point it can be considered whether the support provided is working (be this through a carer, the community, through a direct payment or a commissioned service through a personal budget), whether new personal outcomes need to be defined, or whether any changes need to be made to care and support to achieve improvement.</p></sec><sec id="S9"><title>Responsibilities of professionals</title><p id="P46">The Care Act places a responsibility on the local authority to inform the individual of their eligibility determination and produce a written record of whether any of their needs meet the eligibility criteria, and the reasons for this decision. Where an individual does not have eligible needs, the local authority must also provide information on what support may be available in the wider community, or what preventive measures might be taken to prevent or delay the condition progressing. This will require professionals responsible for eligibility decision-making to clearly evidence the reasons for their decisions and present these in an accessible format for the person concerned.</p></sec><sec id="S10"><title>Implications for service users and carers</title><p id="P47">The Care Act 2014 has changed the ability that a service user or carer has to influence assessment of their own needs and eligibility. Whereas the FACS criteria<sup><xref rid="R7" ref-type="bibr">7</xref></sup> considered the needs of the individual, they did not consider their whole well-being and how this fits into their everyday lives, meaning that some service users may not have completely fitted into the specified categories. The criteria that the Care Act 2014 looks at focus on the individual in context, so that the impact on their well-being cannot now be overlooked or misjudged.</p><p id="P48">This holistic approach is mirrored by the TLAP &#x02018;I&#x02019; statements, which make their markers for change much simpler to understand across a diverse range of individuals (<xref ref-type="boxed-text" rid="box4">Box 4</xref>). These statements complement the Care Act in allowing the individual service user to take control of everything that supports their specific needs and requirements. &#x02018;I&#x02019; statements are presented in the form of first-person statements, for instance, &#x02018;I have the information and support I need in order to remain as independent as possible&#x02019;.</p><disp-quote><p id="P49">&#x02018;A service user or carer can automatically feel comfortable in all the statements as they are very clear and acknowledging. They allow you to take control of everything that supports your needs and requirements. The implications are quite dramatic; you feel worthwhile and not a burden to anyone and it allows you to take greater control of your own personal needs.&#x02019; (Deb Barnes)</p></disp-quote><boxed-text id="box4" position="float" orientation="portrait"><p id="P50"><bold>Box 4</bold> Think Local, Act Personal &#x02018;I&#x02019; statements<sup><xref rid="R9" ref-type="bibr">9</xref></sup></p><list list-type="bullet"><list-item><p id="P51">Information and advice: having the information I need, when I need it</p></list-item><list-item><p id="P52">active and supportive communities: keeping friends, family and place</p></list-item><list-item><p id="P53">flexible integrated care and support: my support my own way</p></list-item><list-item><p id="P54">workforce: my support staff</p></list-item><list-item><p id="P55">risk enablement: feeling in control and safe</p></list-item><list-item><p id="P56">personal budgets and self-funding: my money.</p></list-item></list></boxed-text></sec><sec id="S11"><title>Dilemmas and challenges</title><p id="P57">The Care Act 2014 has introduced some major statutory changes to the way social care is delivered nationally, and as such presents a number of dilemmas and challenges to service users, carers and service providers.</p><sec id="S12"><title>Assessment as intervention</title><p id="P58">Assessment under the Care Act should be an intervention in itself rather than merely a process by which individuals are granted or denied access to funded services. This presents challenges both for local authorities as a whole and for individual professionals in a number of areas, including the necessary provision of reliable and up-to-date information about local services, and management of the time and resources required to ensure that assessments can be completed in a full and holistic manner.</p></sec><sec id="S13"><title>Provision of appropriate and proportionate assessment</title><p id="P59">Assessment under the Care Act 2014 requires local authorities to become more flexible in administering assessments and to develop assessment processes which allow for this both internally and in collaboration with other organisations.</p></sec><sec id="S14"><title>Measurement of efficacy</title><p id="P60">Whereas the Care Act 2014 defines specified outcomes for service users and carers, the way in which these are met will be highly specific to each individual service user and may create challenges in the ways local authorities monitor and measure the efficacy of service delivery.</p></sec><sec id="S15"><title>Provision of services</title><p id="P61">Local authorities are expected under the Care Act to promote and shape the local market so as to achieve diverse provision of care and support in their area. This carries with it budgetary implications with regards to commissioning, funding and fee-setting, which must be considered not only in terms of local authority budgets but also in relation to providers' sustainability.<sup><xref rid="R10" ref-type="bibr">10</xref></sup></p></sec><sec id="S16"><title>Carer support</title><p id="P62">The Care Act broadens previous definitions of the carer role and requires assessment of support needs for anyone who feels that they fulfil this role.<sup><xref rid="R6" ref-type="bibr">6</xref></sup> The challenge for local authorities is to provide sufficient information to all potential carers on their rights to assessment and possible financial support, while managing the potentially increased demand for these assessments and provisions.</p></sec><sec sec-type="conclusions" id="S17"><title>Conclusion</title><p id="P63">Time will tell whether the aspirations of the Care Act are achieved. The emphasis is clear that care should be holistic and empowering; promotion of well-being is at its core. It is hoped that it will develop services that are inclusive, work in a person-centred way, and achieve specific outcomes. The introduction of the Care Act makes this way of working a statutory duty that public services will be measured by. It will be through individual lives and stories that success will be realised.</p></sec></sec></body><back><fn-group><fn fn-type="COI-statement"><p><bold>Declaration of interest</bold> None.</p></fn></fn-group><ref-list><title>References</title><ref id="R1"><label>1</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><name name-style="western"><surname>Lamb</surname><given-names>N</given-names></name></person-group>
-<source>Care Bill becomes Care Act 2014</source>. <publisher-name>Department of Health</publisher-name>, <year>2014</year>.
-</mixed-citation></ref><ref id="R2"><label>2</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><collab>Department of Health</collab></person-group>
-<source>No Secrets: Guidance on Developing and Implementing Multi-Agency Policies and Procedures to Protect Vulnerable Adults from Abuse</source>. <publisher-name>Department of Health</publisher-name>, <year>2000</year>.
-</mixed-citation></ref><ref id="R3"><label>3</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><name name-style="western"><surname>Robertson</surname><given-names>R</given-names></name><name name-style="western"><surname>Gregory</surname><given-names>S</given-names></name><name name-style="western"><surname>Jabbal</surname><given-names>J</given-names></name></person-group>
-<source>The Social Care and Health Systems of Nine Countries</source>. <publisher-name>The King's Fund</publisher-name>, <year>2014</year>.
-</mixed-citation></ref><ref id="R4"><label>4</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Schwer</surname><given-names>B</given-names></name></person-group>
-<article-title>How the Care Act 2014 will shape assessment and support planning &#x02013; a legal opinion</article-title>. <source>Community Care</source>
-<year>2014</year>, <day>27</day>
+                </corresp>
+                <fn>
+                    <p>
+                        <bold>Deb Barnes</bold>, Expert by Experience, <bold>Billy Boland</bold>, Consultant Psychiatrist, <bold>Kathryn Linhart</bold>, Consultant Social Worker, and <bold>Katherine Wilson</bold>, Consultant Social Worker, all at Hertfordshire Partnership University NHS Foundation Trust.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="ppub">
+                <month>6</month>
+                <year>2017</year>
+            </pub-date>
+            <volume>41</volume>
+            <issue>3</issue>
+            <fpage>176</fpage>
+            <lpage>180</lpage>
+            <history>
+                <date date-type="received">
+                    <day>13</day>
+                    <month>1</month>
+                    <year>2016</year>
+                </date>
+                <date date-type="rev-recd">
+                    <day>9</day>
+                    <month>8</month>
+                    <year>2016</year>
+                </date>
+                <date date-type="accepted">
+                    <day>14</day>
+                    <month>9</month>
+                    <year>2016</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>&#x000a9; 2017 The Authors</copyright-statement>
+                <copyright-year>2017</copyright-year>
+                <license license-type="creative-commons" xlink:href="http://creativecommons.org/licenses/by/4.0">
+                    <license-p>This is an open-access article published by the Royal College of Psychiatrists and distributed under the terms of the Creative Commons Attribution License (<uri xlink:href="http://creativecommons.org/licenses/by/4.0">http://creativecommons.org/licenses/by/4.0</uri>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <self-uri xlink:title="pdf" xlink:href="176.pdf" />
+            <abstract>
+                <p id="P1">The Care Act 2014 represents a significant change in legislation in England. For the first time it brings together various aspects of adult social care into a single statute succeeding earlier acts and policy. Given its importance to the lives of service users and carers, clinicians need to have a clear understanding of its implications. We provide an overview of why it was developed, its underlying principles and international comparisons, as well as implications for assessments, interventions and outcomes. The impact on the lives of patients and carers is discussed, as well as dilemmas and challenges the Act presents. While it addresses other important aspects of social care, including safeguarding, Mental Health Act section 117 aftercare and duty of candour, we focus on personalisation because of the opportunities it provides to enhance management plans for people experiencing mental health problems.</p>
+            </abstract>
+        </article-meta>
+    </front>
+    <body>
+        <sec id="S1">
+            <title>Why was the Care Act 2014 developed?</title>
+            <p id="P2">The Care Act 2014 represents the latest evolution in current attitudes to care. It was asserted by Norman Lamb MP, Care and Support Minister in the UK coalition government, as &#x02018;the most significant reform of care and support in more than 60 years&#x02019;.<sup>
+                <xref rid="R1" ref-type="bibr">1</xref>
+            </sup> Think Local Act Personal (TLAP, a partnership of more than 50 organisations, including the National Health Service (NHS), &#x02018;committed to transforming health and care through personalisation and community-based support&#x02019;(<uri xlink:href="www.thinklocalactpersonal.org.uk/About-us/">www.thinklocalactpersonal.org.uk/About-us/</uri>)) sees it as representing a significant change in legislation, of importance to service users and carers in England and Wales because &#x02018;for the first time it puts them in control of their care and support. It also makes clear what kind of care they should expect&#x02019; (<uri xlink:href="www.thinklocalactpersonal.org.uk/Browse/careact2014/">www.thinklocalactpersonal.org.uk/Browse/careact2014/</uri>).
+        </p>
+        <p id="P3">Social care law can be seen to have begun with the National Assistance Act in 1948 that contained provisions for the basis of the modern welfare state. Direct payments as a method of personalisation were introduced in 1996 by the Community Care Act. More recent updates, such as the Carers and Disabled Children Act 2000 and the Health and Social Care Act 2001, broadened and refreshed these approaches. Separately, safeguarding of adults from abuse was dealt with by the Department of Health in <italic>No Secrets</italic>.            <sup>
+                <xref rid="R2" ref-type="bibr">2</xref>
+            </sup> The Care Act 2014 succeeds earlier acts with a single statute. The golden thread running through the Act is the promotion of individual well-being (<xref ref-type="boxed-text" rid="box1">Box 1</xref>):
+            <disp-quote>
+                <p id="P4">&#x02018;The general duty of a local authority, in exercising a function under this Part in the case of an individual, is to promote that individual's well-being.&#x02019; (Care Act 2014 section 1(1))</p>
+                <p id="P5">&#x02018;As a service user who has in the past been a carer to a diverse group of individuals, I feel that had a lot of these changes been made in the past, many people's lives would have transformed sooner rather than later. That being said, we are now moving forward to enable individual lives to be more fulfilled.&#x02019; (Deb Barnes)</p>
+            </disp-quote>
+        </p>
+        <boxed-text id="box1" position="float" orientation="portrait">
+            <p id="P6">
+                <bold>Box 1</bold> Scope: purpose of the Care Act (adapted from the Care Act 2014)</p>
+            <list list-type="alpha-lower">
+                <list-item>
+                    <p id="P7">To reform the law relating to care and support for adults</p>
+                </list-item>
+                <list-item>
+                    <p id="P8">To reform the law relating to support for carers</p>
+                </list-item>
+                <list-item>
+                    <p id="P9">To make provision about safeguarding adults from abuse or neglect</p>
+                </list-item>
+                <list-item>
+                    <p id="P10">To make provision about care standards</p>
+                </list-item>
+                <list-item>
+                    <p id="P11">To establish and make provision about Health Education England</p>
+                </list-item>
+                <list-item>
+                    <p id="P12">To establish and make provision about the Health Research Authority</p>
+                </list-item>
+                <list-item>
+                    <p id="P13">To make provision about integrating care and support with health services</p>
+                </list-item>
+            </list>
+        </boxed-text>
+        <boxed-text id="box2" position="float" orientation="portrait">
+            <p id="P14">
+                <bold>Box 2</bold> Care Act specified outcomes</p>
+            <p id="P15">The specified outcomes as defined in the Act are:
+                <list list-type="alpha-lower">
+                    <list-item>
+                        <p id="P16">managing and maintaining nutrition</p>
+                    </list-item>
+                    <list-item>
+                        <p id="P17">maintaining personal hygiene</p>
+                    </list-item>
+                    <list-item>
+                        <p id="P18">managing toilet needs</p>
+                    </list-item>
+                    <list-item>
+                        <p id="P19">being appropriately clothed</p>
+                    </list-item>
+                    <list-item>
+                        <p id="P20">being able to make use of the adult's home safely</p>
+                    </list-item>
+                    <list-item>
+                        <p id="P21">maintaining a habitable home environment</p>
+                    </list-item>
+                    <list-item>
+                        <p id="P22">developing and maintaining family or other personal relationships</p>
+                    </list-item>
+                    <list-item>
+                        <p id="P23">accessing and engaging in work, training, education or volunteering</p>
+                    </list-item>
+                    <list-item>
+                        <p id="P24">making use of necessary facilities or services in the local community including public transport and recreational facilities or services, and</p>
+                    </list-item>
+                    <list-item>
+                        <p id="P25">carrying out any caring responsibilities the adult has for a child.</p>
+                    </list-item>
+                </list>
+            </p>
+        </boxed-text>
+    </sec>
+    <sec id="S2">
+        <title>What are the international comparisons?</title>
+        <p id="P26">In establishing the Care Act, a cap on spending for long-term social care was originally proposed to be introduced in April 2016. However, this has now been postponed until at least 2020. In 2014, The King's Fund reviewed international comparisons for health and social care provision.<sup>
+            <xref rid="R3" ref-type="bibr">3</xref>
+        </sup> It highlights that The Netherlands introduced a &#x02018;universal&#x02019; (i.e. available to all) system of insurance for long-term care in 1968. In the 1990s it introduced caps in response to rising costs, but this led to long waiting lists and the caps were abolished. Latterly, they have raised the threshold to access social care and outlined aspects of care that are expected to be delivered by families. Sweden established the right to tax-funded legislation in 1982/1983, whereas countries including Germany, France, Japan and South Korea all have mandatory long-term care insurance schemes.</p>
+</sec>
+<sec id="S3">
+    <title>Assessment under the Care Act</title>
+    <p id="P27">Assessment of needs, both for service users and their carers, is a core aspect of the Care Act. The process is divided into three stages: identifying needs, assessing eligibility and care planning.<sup>
+        <xref rid="R4" ref-type="bibr">4</xref>
+    </sup> Each of these should be viewed not only as a gateway to support but as an intervention in itself.</p>
+<sec id="S4">
+    <title>Stage 1: identifying needs</title>
+    <p id="P28">The Act places a statutory duty on local authorities to provide assessments for any adult, including carers, appearing to have a need for care or support, regardless of the local authority's view of the level of that need or the individual's financial resources (section 9&#x02013;10). It is important to note that in some areas this responsibility may be delegated by the local authority to partner organisations, such as NHS foundation trusts, and that assessment may be carried out by a range of professionals, including healthcare professionals. This assessment should address the person's needs in relation to the specified outcomes as defined in the Care Act (<xref ref-type="boxed-text" rid="box2">Box 2</xref>). It aims to identify the impact of these needs, the person's desired outcomes, and whether the provision of care and support services will be effective in contributing to the achievement of these outcomes (section 9(4), 10(5)). For clarity, we have used the term &#x02018;specified outcome&#x02019; as a technical definition to refer to those outcomes specified in the Care Act (<xref ref-type="boxed-text" rid="box2">Box 2</xref>) and &#x02018;personal outcome&#x02019; to describe all possible outcomes individuals may see as important.</p>
+    <p id="P29">It is crucial that the individual, their carer and any other person the individual requests be fully involved in the assessment process. Consideration should also be given to the most appropriate kind of assessment. Options for supported self-assessment, telephone assessment, joint assessment with other agencies or a combined assessment of the needs of, for example, the individual and their carer, may be appropriate (Care Act section 6(3)). In addition, in cases where the individual has significant difficulty in representing themselves at assessment and has no suitable advocate, the local authority is required to provide an independent advocate regardless of the individual's capacity under the Mental Capacity Act 2005.<sup>
+        <xref rid="R5" ref-type="bibr">5</xref>
+    </sup>
+</p>
+</sec>
+<sec id="S5">
+<title>Stage 2: assessing eligibility</title>
+<p id="P30">At the eligibility stage, the Care Act replaces previous Fair Access to Care (FACS) guidance on eligibility criteria<sup>
+    <xref rid="R6" ref-type="bibr">6</xref>,    <xref rid="R7" ref-type="bibr">7</xref>
+</sup> with a national eligibility threshold based on the causes, extent and impact of the individual's needs (~<xref ref-type="boxed-text" rid="box3">Box 3</xref>). It should however be noted that local authorities are able, where considered appropriate, to meet non-eligible needs and may choose to do so, for example, in order to prevent further deterioration.</p>
+<sec id="S6">
+<title>Well-being, individual personal outcomes and eligibility</title>
+<p id="P31">In order to judge eligibility, impacts and contexts of needs are relevant: individual needs must be considered against the specified outcomes to determine whether or not they can be met, and reasons for this should be understood. Some social needs are not addressed by the Care Act, for example housing and debt. A homeless person would not be eligible purely by virtue of their homelessness, but the reasons for homelessness may make them eligible. For example, becoming homeless solely through relationship breakdown would not be considered potentially eligible. However, homelessness through an inability to manage a tenancy due to the impact of severe mental illness (i.e. impaired &#x02018;ability to maintain a habitable home&#x02019; as defined in the specified outcomes) may well be eligible.</p>
+<p id="P32">Furthermore, the impact on well-being is a personalised assessment and an individual perception, so that two people with the same needs in relation to specific outcomes could end up with a different assessment of eligibility. For example, obsessive-compulsive disorder could manifest in repetitive behaviours which affect an individual's ability to maintain family relationships and employment. These two specified outcomes may be fundamental for one person and significantly affect their well-being. Another person may have very different priorities or personal outcomes that they want to achieve; their well-being is not significantly affected and they would not be eligible.</p>
+<p id="P33">The word &#x02018;significant&#x02019; is not defined in the legislation, rather it is a judgement made by the local authority after considering the person's needs and what is important to them. However, well-being is a broadly defined and holistically assessed concept, relating to areas such as: personal dignity; physical and mental health and emotional well-being; protection from abuse and neglect; control by the individual over day-to-day life; participation in work, education, training or recreation; social and economic well-being; domestic, family and personal relationships; suitability of living accommodation; and the individual's contribution to society.<sup>
+    <xref rid="R5" ref-type="bibr">5</xref>
+</sup>
+</p>
+<boxed-text id="box3" position="float" orientation="portrait">
+<p id="P34">
+    <bold>Box 3</bold> The National Eligibility Threshold (Regulation 2(1)14)<sup>
+    <xref rid="R11" ref-type="bibr">11</xref>
+</sup>
+</p>
+<p id="P35">An adult's needs meet the eligibility criteria if &#x02013;
+<list list-type="alpha-lower">
+    <list-item>
+        <p id="P36">the adult's needs arise from or are related to a physical or mental impairment or illness;</p>
+    </list-item>
+    <list-item>
+        <p id="P37">as a result of the adult's needs the adult is unable to achieve two or more of the outcomes [&#x02026;] and</p>
+    </list-item>
+    <list-item>
+        <p id="P38">as a consequence there is, or is likely to be, a significant impact on the adult's well-being.</p>
+    </list-item>
+</list>
+</p>
+</boxed-text>
+<p id="P39">The key to assessment under the Care Act is understanding what personal outcome (personal aim, wish or goal) the individual is looking for and what their needs are, before considering how these needs can be met. Person-centred assessment focuses on the individual and the difficulty they have in achieving personal outcomes, balanced with their strengths and support network; it does not start with service provision. For example, the assessment does not begin with &#x02018;the person needs residential care&#x02019;, but rather may find that &#x02018;the person is unable to wash, dress and feed themselves. This is having an impact on their personal dignity and their ability to continue to live safely in their own home&#x02019;.</p>
+<p id="P40">The local authority must consider what strengths, resources and capabilities the person has themselves and within their support networks and wider community. This strengths-based approach to assessment and care planning can maximise opportunities for utilising assets found within communities and normative support networks, thereby reducing dependence on service provision by meeting people's needs in more innovative and creative ways.</p>
+</sec>
+</sec>
+<sec id="S7">
+<title>Stage 3: care planning</title>
+<p id="P41">In developing and delivering preventive approaches to care and support, local authorities should ensure that individuals are not seen as passive recipients of support services, but are actively encouraged and supported to participate and are able to design care and support based around achievement of their goals. All assessments and subsequent care and support plans should be person-centred and genuinely engage the person and people involved in their care throughout.</p>
+<p id="P42">Support plans should consider the broader needs identified by the assessment as well as the personal outcomes associated with the specified outcomes the individual is looking to achieve to maintain or improve their well-being. The person's own capabilities, assets and strengths and the potential for improving their skills, as well as the role of any support from family, friends or others that could help them to achieve what they wish for, should be incorporated into the plan. A person's independence should be maximised across these networks before any statutory service provision is considered to meet the desired personal outcomes.</p>
+<p id="P43">Any person who requires ongoing support and has eligible needs is entitled to have these needs met through a personal budget. The Care Act 2014 has given parity to carers, who are now entitled to have their own eligible needs met through a carer's personal budget. A personal budget is an amount of money allocated for a person's support; this can be managed with or on behalf of the individual by the local authority or a broker, or can be paid to the individual as a direct payment. Person-centred care and support planning means that a person can receive part or all of their personal budget as a direct payment. Direct payments aim to enable a person to exercise the maximum possible choice over how they are supported, who they are supported by and where they are supported. The person must understand how much money is likely to be required to meet their eligible needs and have clear and realistic expectations of what is available locally. People who self-fund are entitled to receive necessary information, advice and support with support planning.</p>
+<p id="P44">The third national TLAP survey<sup>
+<xref rid="R8" ref-type="bibr">8</xref>
+</sup> demonstrated that over three-quarters of personal budget holders reported a positive impact of personal budgets on their lives. People with mental health difficulties were more likely than other groups to report a positive impact on relationships with carers, family and friends. However, older people were less likely than other cohorts to report a positive impact on mental health.</p>
+</sec>
+</sec>
+<sec id="S8">
+<title>Review</title>
+<p id="P45">Plans may be revised as a scheduled review or in response to changing needs or circumstances. The review should be a positive opportunity to consider whether the plan is enabling the person to meet their needs and achieve their desired personal outcomes. At this point it can be considered whether the support provided is working (be this through a carer, the community, through a direct payment or a commissioned service through a personal budget), whether new personal outcomes need to be defined, or whether any changes need to be made to care and support to achieve improvement.</p>
+</sec>
+<sec id="S9">
+<title>Responsibilities of professionals</title>
+<p id="P46">The Care Act places a responsibility on the local authority to inform the individual of their eligibility determination and produce a written record of whether any of their needs meet the eligibility criteria, and the reasons for this decision. Where an individual does not have eligible needs, the local authority must also provide information on what support may be available in the wider community, or what preventive measures might be taken to prevent or delay the condition progressing. This will require professionals responsible for eligibility decision-making to clearly evidence the reasons for their decisions and present these in an accessible format for the person concerned.</p>
+</sec>
+<sec id="S10">
+<title>Implications for service users and carers</title>
+<p id="P47">The Care Act 2014 has changed the ability that a service user or carer has to influence assessment of their own needs and eligibility. Whereas the FACS criteria<sup>
+<xref rid="R7" ref-type="bibr">7</xref>
+</sup> considered the needs of the individual, they did not consider their whole well-being and how this fits into their everyday lives, meaning that some service users may not have completely fitted into the specified categories. The criteria that the Care Act 2014 looks at focus on the individual in context, so that the impact on their well-being cannot now be overlooked or misjudged.</p>
+<p id="P48">This holistic approach is mirrored by the TLAP &#x02018;I&#x02019; statements, which make their markers for change much simpler to understand across a diverse range of individuals (<xref ref-type="boxed-text" rid="box4">Box 4</xref>). These statements complement the Care Act in allowing the individual service user to take control of everything that supports their specific needs and requirements. &#x02018;I&#x02019; statements are presented in the form of first-person statements, for instance, &#x02018;I have the information and support I need in order to remain as independent as possible&#x02019;.</p>
+<disp-quote>
+<p id="P49">&#x02018;A service user or carer can automatically feel comfortable in all the statements as they are very clear and acknowledging. They allow you to take control of everything that supports your needs and requirements. The implications are quite dramatic; you feel worthwhile and not a burden to anyone and it allows you to take greater control of your own personal needs.&#x02019; (Deb Barnes)</p>
+</disp-quote>
+<boxed-text id="box4" position="float" orientation="portrait">
+<p id="P50">
+<bold>Box 4</bold> Think Local, Act Personal &#x02018;I&#x02019; statements<sup>
+<xref rid="R9" ref-type="bibr">9</xref>
+</sup>
+</p>
+<list list-type="bullet">
+<list-item>
+<p id="P51">Information and advice: having the information I need, when I need it</p>
+</list-item>
+<list-item>
+<p id="P52">active and supportive communities: keeping friends, family and place</p>
+</list-item>
+<list-item>
+<p id="P53">flexible integrated care and support: my support my own way</p>
+</list-item>
+<list-item>
+<p id="P54">workforce: my support staff</p>
+</list-item>
+<list-item>
+<p id="P55">risk enablement: feeling in control and safe</p>
+</list-item>
+<list-item>
+<p id="P56">personal budgets and self-funding: my money.</p>
+</list-item>
+</list>
+</boxed-text>
+</sec>
+<sec id="S11">
+<title>Dilemmas and challenges</title>
+<p id="P57">The Care Act 2014 has introduced some major statutory changes to the way social care is delivered nationally, and as such presents a number of dilemmas and challenges to service users, carers and service providers.</p>
+<sec id="S12">
+<title>Assessment as intervention</title>
+<p id="P58">Assessment under the Care Act should be an intervention in itself rather than merely a process by which individuals are granted or denied access to funded services. This presents challenges both for local authorities as a whole and for individual professionals in a number of areas, including the necessary provision of reliable and up-to-date information about local services, and management of the time and resources required to ensure that assessments can be completed in a full and holistic manner.</p>
+</sec>
+<sec id="S13">
+<title>Provision of appropriate and proportionate assessment</title>
+<p id="P59">Assessment under the Care Act 2014 requires local authorities to become more flexible in administering assessments and to develop assessment processes which allow for this both internally and in collaboration with other organisations.</p>
+</sec>
+<sec id="S14">
+<title>Measurement of efficacy</title>
+<p id="P60">Whereas the Care Act 2014 defines specified outcomes for service users and carers, the way in which these are met will be highly specific to each individual service user and may create challenges in the ways local authorities monitor and measure the efficacy of service delivery.</p>
+</sec>
+<sec id="S15">
+<title>Provision of services</title>
+<p id="P61">Local authorities are expected under the Care Act to promote and shape the local market so as to achieve diverse provision of care and support in their area. This carries with it budgetary implications with regards to commissioning, funding and fee-setting, which must be considered not only in terms of local authority budgets but also in relation to providers' sustainability.<sup>
+<xref rid="R10" ref-type="bibr">10</xref>
+</sup>
+</p>
+</sec>
+<sec id="S16">
+<title>Carer support</title>
+<p id="P62">The Care Act broadens previous definitions of the carer role and requires assessment of support needs for anyone who feels that they fulfil this role.<sup>
+<xref rid="R6" ref-type="bibr">6</xref>
+</sup> The challenge for local authorities is to provide sufficient information to all potential carers on their rights to assessment and possible financial support, while managing the potentially increased demand for these assessments and provisions.</p>
+</sec>
+<sec sec-type="conclusions" id="S17">
+<title>Conclusion</title>
+<p id="P63">Time will tell whether the aspirations of the Care Act are achieved. The emphasis is clear that care should be holistic and empowering; promotion of well-being is at its core. It is hoped that it will develop services that are inclusive, work in a person-centred way, and achieve specific outcomes. The introduction of the Care Act makes this way of working a statutory duty that public services will be measured by. It will be through individual lives and stories that success will be realised.</p>
+</sec>
+</sec>
+</body>
+<back>
+<fn-group>
+<fn fn-type="COI-statement">
+<p>
+<bold>Declaration of interest</bold> None.</p>
+</fn>
+</fn-group>
+<ref-list>
+<title>References</title>
+<ref id="R1">
+<label>1</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Lamb</surname>
+<given-names>N</given-names>
+</name>
+</person-group>
+<source>Care Bill becomes Care Act 2014</source>.<publisher-name>Department of Health</publisher-name>,<year>2014</year>.
+</mixed-citation>
+</ref>
+<ref id="R2">
+<label>2</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<collab>Department of Health</collab>
+</person-group>
+<source>No Secrets: Guidance on Developing and Implementing Multi-Agency Policies and Procedures to Protect Vulnerable Adults from Abuse</source>.<publisher-name>Department of Health</publisher-name>,<year>2000</year>.
+</mixed-citation>
+</ref>
+<ref id="R3">
+<label>3</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Robertson</surname>
+<given-names>R</given-names>
+</name>
+<name name-style="western">
+<surname>Gregory</surname>
+<given-names>S</given-names>
+</name>
+<name name-style="western">
+<surname>Jabbal</surname>
+<given-names>J</given-names>
+</name>
+</person-group>
+<source>The Social Care and Health Systems of Nine Countries</source>.<publisher-name>The King's Fund</publisher-name>,<year>2014</year>.
+</mixed-citation>
+</ref>
+<ref id="R4">
+<label>4</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Schwer</surname>
+<given-names>B</given-names>
+</name>
+</person-group>
+<article-title>How the Care Act 2014 will shape assessment and support planning &#x02013; a legal opinion</article-title>.<source>Community Care</source>
+<year>2014</year>,<day>27</day>
 <month>2</month>.
-</mixed-citation></ref><ref id="R5"><label>5</label><mixed-citation publication-type="web">
-<person-group person-group-type="author"><collab>Department of Health</collab></person-group>
-<source>Care and Support Statutory Guidance Act. Issued under the Care Act 2014</source>. <month>6</month>
+</mixed-citation>
+</ref>
+<ref id="R5">
+<label>5</label>
+<mixed-citation publication-type="web">
+<person-group person-group-type="author">
+<collab>Department of Health</collab>
+</person-group>
+<source>Care and Support Statutory Guidance Act. Issued under the Care Act 2014</source>.<month>6</month>
 <year>2014</year>
 <comment>(updated October 2016)</comment>
 <uri xlink:href="https://www.gov.uk/government/publications/care-act-statutory-guidance/care-and-support-statutory-guidance">https://www.gov.uk/government/publications/care-act-statutory-guidance/care-and-support-statutory-guidance</uri>
-</mixed-citation></ref><ref id="R6"><label>6</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><collab>Department of Health</collab></person-group>
-<source>Prioritising Need in the Context of Putting People First: A Whole System Approach to Eligibility for Social Care. Guidance on Eligibility Criteria for Adult Social Care, England 2010</source>. <publisher-name>Department of Health</publisher-name>, <year>2010</year>.
-</mixed-citation></ref><ref id="R7"><label>7</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><collab>Social Care Institute for Excellence</collab></person-group>
-<source>Fair Access to Care Services (FACS): Prioritising Eligibility for Care and Support</source>. <publisher-name>SCIE</publisher-name>, <year>2013</year>
-</mixed-citation></ref><ref id="R8"><label>8</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><name name-style="western"><surname>Waters</surname><given-names>J</given-names></name><name name-style="western"><surname>Hatton</surname><given-names>C</given-names></name></person-group>
-<source>Third National Personal Budget Survey: Experiences of Personal Budget Holders and Carers across Adult Social Care and Health</source>. In <publisher-name>Control, Lancaster University &#x00026; TLAP</publisher-name>, <year>2014</year>.
-</mixed-citation></ref><ref id="R9"><label>9</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><collab>Think Local Act Personal</collab></person-group>
-<source>Making it Real: Marking Progress towards Personalised, Community Based Support</source>. <publisher-name>TLAP</publisher-name>, <year>2011</year> (<uri xlink:href="http://www.thinklocalactpersonal.org.uk/_assets/NEWMakingItReal.pdf">http://www.thinklocalactpersonal.org.uk/_assets/NEWMakingItReal.pdf</uri>).
-</mixed-citation></ref><ref id="R10"><label>10</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><collab>Local Government Association</collab></person-group>
-<source>Guide to the Care Act 2014 and the Implications for Providers</source>. <publisher-name>Local Government Association</publisher-name>, <year>2015</year>.
-</mixed-citation></ref><ref id="R11"><label>11</label><mixed-citation publication-type="web">
+</mixed-citation>
+</ref>
+<ref id="R6">
+<label>6</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<collab>Department of Health</collab>
+</person-group>
+<source>Prioritising Need in the Context of Putting People First: A Whole System Approach to Eligibility for Social Care. Guidance on Eligibility Criteria for Adult Social Care, England 2010</source>.<publisher-name>Department of Health</publisher-name>,<year>2010</year>.
+</mixed-citation>
+</ref>
+<ref id="R7">
+<label>7</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<collab>Social Care Institute for Excellence</collab>
+</person-group>
+<source>Fair Access to Care Services (FACS): Prioritising Eligibility for Care and Support</source>.<publisher-name>SCIE</publisher-name>,<year>2013</year>
+</mixed-citation>
+</ref>
+<ref id="R8">
+<label>8</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Waters</surname>
+<given-names>J</given-names>
+</name>
+<name name-style="western">
+<surname>Hatton</surname>
+<given-names>C</given-names>
+</name>
+</person-group>
+<source>Third National Personal Budget Survey: Experiences of Personal Budget Holders and Carers across Adult Social Care and Health</source>. In <publisher-name>Control, Lancaster University &#x00026; TLAP</publisher-name>,<year>2014</year>.
+</mixed-citation>
+</ref>
+<ref id="R9">
+<label>9</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<collab>Think Local Act Personal</collab>
+</person-group>
+<source>Making it Real: Marking Progress towards Personalised, Community Based Support</source>.<publisher-name>TLAP</publisher-name>,<year>2011</year> (<uri xlink:href="http://www.thinklocalactpersonal.org.uk/_assets/NEWMakingItReal.pdf">http://www.thinklocalactpersonal.org.uk/_assets/NEWMakingItReal.pdf</uri>).
+</mixed-citation>
+</ref>
+<ref id="R10">
+<label>10</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<collab>Local Government Association</collab>
+</person-group>
+<source>Guide to the Care Act 2014 and the Implications for Providers</source>.<publisher-name>Local Government Association</publisher-name>,<year>2015</year>.
+</mixed-citation>
+</ref>
+<ref id="R11">
+<label>11</label>
+<mixed-citation publication-type="web">
 <source>Care and Support (Eligibility Criteria) Regulations</source>
 <year>2014</year>
 <uri xlink:href="http://www.legislation.gov.uk/ukpga/2014/23/section/13/enacted">http://www.legislation.gov.uk/ukpga/2014/23/section/13/enacted</uri>
-</mixed-citation></ref></ref-list></back></article>
+</mixed-citation>
+</ref>
+</ref-list>
+</back>
+</article>

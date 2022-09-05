@@ -1,197 +1,2205 @@
-<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
-<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="review-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-journalpublishing1.dtd?><?SourceDTD.Version 1.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">BJPsych Bull</journal-id><journal-id journal-id-type="iso-abbrev">BJPsych Bull</journal-id><journal-id journal-id-type="hwp">pbrcpsych</journal-id><journal-title-group><journal-title>BJPsych Bulletin</journal-title></journal-title-group><issn pub-type="ppub">2056-4694</issn><issn pub-type="epub">2056-4708</issn><publisher><publisher-name>Royal College of Psychiatrists</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">5709685</article-id><article-id pub-id-type="doi">10.1192/pb.bp.116.055269</article-id><article-categories><subj-group subj-group-type="heading"><subject>Review Article</subject></subj-group></article-categories><title-group><article-title>Systematic review into factors associated with the recruitment crisis in psychiatry in the UK: students', trainees' and consultants' views</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Choudry</surname><given-names>Abid</given-names></name><xref ref-type="aff" rid="A1">1</xref><xref ref-type="corresp" rid="cor1"/></contrib><contrib contrib-type="author"><name><surname>Farooq</surname><given-names>Saeed</given-names></name><xref ref-type="aff" rid="A2">2</xref><xref ref-type="aff" rid="A3">3</xref></contrib></contrib-group><aff id="A1"><label>1</label>Leicestershire Partnership NHS Trust</aff><aff id="A2"><label>2</label>Keele University</aff><aff id="A3"><label>3</label>South Staffordshire and Shropshire NHS Foundation Trust</aff><author-notes><corresp id="cor1">
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="review-article">    <?properties open_access?>    <?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN?>    <?DTDIdentifier.IdentifierType public?>    <?SourceDTD.DTDName JATS-journalpublishing1.dtd?>    <?SourceDTD.Version 1.0?>    <?ConverterInfo.XSLTName jp2nlmx2.xsl?>    <?ConverterInfo.Version 1?>
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="nlm-ta">BJPsych Bull</journal-id>
+            <journal-id journal-id-type="iso-abbrev">BJPsych Bull</journal-id>
+            <journal-id journal-id-type="hwp">pbrcpsych</journal-id>
+            <journal-title-group>
+                <journal-title>BJPsych Bulletin</journal-title>
+            </journal-title-group>
+            <issn pub-type="ppub">2056-4694</issn>
+            <issn pub-type="epub">2056-4708</issn>
+            <publisher>
+                <publisher-name>Royal College of Psychiatrists</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="pmcid">5709685</article-id>
+            <article-id pub-id-type="doi">10.1192/pb.bp.116.055269</article-id>
+            <article-categories>
+                <subj-group subj-group-type="heading">
+                    <subject>Review Article</subject>
+                </subj-group>
+            </article-categories>
+            <title-group>
+                <article-title>Systematic review into factors associated with the recruitment crisis in psychiatry in the UK: students', trainees' and consultants' views</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Choudry</surname>
+                        <given-names>Abid</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                    <xref ref-type="corresp" rid="cor1" />
+                </contrib>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Farooq</surname>
+                        <given-names>Saeed</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A2">2</xref>
+                    <xref ref-type="aff" rid="A3">3</xref>
+                </contrib>
+            </contrib-group>
+            <aff id="A1">
+                <label>1</label>Leicestershire Partnership NHS Trust</aff>
+            <aff id="A2">
+                <label>2</label>Keele University</aff>
+            <aff id="A3">
+                <label>3</label>South Staffordshire and Shropshire NHS Foundation Trust</aff>
+            <author-notes>
+                <corresp id="cor1">
 Correspondence to Abid Choudry (<email>abidchoudry@doctors.org.uk</email>)
-</corresp><fn><p><bold>Dr Abid Choudry</bold>, ST5, Leicestershire Partnership NHS Trust. <bold>Dr Saeed Farooq</bold>, Clinical Senior Lecturer, Research Institute for Primary Care and Health Sciences, Keele University, and South Staffordshire and Shropshire NHS Foundation Trust.</p></fn></author-notes><pub-date pub-type="ppub"><month>12</month><year>2017</year></pub-date><volume>41</volume><issue>6</issue><fpage>345</fpage><lpage>352</lpage><history><date date-type="received"><day>6</day><month>9</month><year>2016</year></date><date date-type="rev-recd"><day>8</day><month>3</month><year>2017</year></date><date date-type="accepted"><day>11</day><month>4</month><year>2017</year></date></history><permissions><copyright-statement>&#x000a9; 2017 The Authors</copyright-statement><copyright-year>2017</copyright-year><license license-type="creative-commons" xlink:href="http://creativecommons.org/licenses/by/4.0"><license-p>This is an open-access article published by the Royal College of Psychiatrists and distributed under the terms of the Creative Commons Attribution License (<uri xlink:href="http://creativecommons.org/licenses/by/4.0">http://creativecommons.org/licenses/by/4.0</uri>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xlink:title="pdf" xlink:href="345.pdf"/><abstract><p id="P1"><bold>Aims and method</bold> To review the literature to examine the factors that may be affecting recruitment into psychiatry in the UK. We systematically searched four databases to identify studies from 1974 to 2016 and identified 27 papers that met the specified inclusion criteria.</p><p id="P2"><bold>Results</bold> Most papers (<italic>n</italic> = 24) were based on questionnaire surveys. The population in all studies comprised of 1879 psychiatrists, 6733 students and 220 746 trainees. About 4&#x02013;7% of students opt for a career in psychiatry. Enrichment activities helped to attract students more towards psychiatry than just total time spent in the specialty. Job content in terms of the lack of scientific basis, poor prognosis and stigma towards psychiatry, work-related stress and problems with training jobs were common barriers highlighted among students and trainees, affecting recruitment. Job satisfaction and family-friendly status of psychiatry was rated highly by students, with lifestyle factors appearing to be important for trainees who tend to choose psychiatry.</p><p id="P3"><bold>Clinical implications</bold> Negative attitudes and stigma towards psychiatry continue to persist. Teaching and training in psychiatry needs rethinking to improve student experience and recruitment into the specialty.</p></abstract></article-meta></front><body><p id="P4">Psychiatry as a career has been negatively regarded and unpopular among medical students. About 3.6% of British graduates decide on a career in psychiatry whereas about 6% are needed.<sup><xref rid="R1" ref-type="bibr">1</xref></sup> From 2000 to 2011, the absolute number of consultant psychiatrists in England rose from 2904 to 4394 (an increase of 51%), with similar increases in Scotland and Wales, in line with the expansion of the consultant workforce in most secondary care specialties.<sup><xref rid="R1" ref-type="bibr">1</xref></sup> A need for more psychiatric consultant posts has been predicted based on projections of increasing workloads due to the increased population needs.<sup><xref rid="R2" ref-type="bibr">2</xref></sup> A perceived fall in the proportion of UK medical school graduates choosing a postgraduate career in psychiatry, and low competition ratios for first-year core specialist training (CT1) posts in psychiatry,<sup><xref rid="R3" ref-type="bibr">3</xref>&#x02013;<xref rid="R5" ref-type="bibr">5</xref></sup> has led to many questions about the way in which psychiatry is taught at medical school and how psychiatry could be made as an attractive career option.<sup><xref rid="R6" ref-type="bibr">6</xref>&#x02013;<xref rid="R8" ref-type="bibr">8</xref></sup></p><p id="P5">Low recruitment in psychiatry is a global issue, highlighted in a number of publications.<sup><xref rid="R9" ref-type="bibr">9</xref>,<xref rid="R10" ref-type="bibr">10</xref></sup> However, the problem also has country-specific dimensions, as each country has different factors such as the pay scale for the specialty, medical education system and training programmes, which may attract or dissuade medical students from a career in psychiatry. The subject has not been reviewed systematically especially in the context of recruitment in the UK. The review question was: what are the factors that influence recruitment to psychiatry as a career choice and how can this be improved? The aim of this paper is to systematically review the literature from the UK on psychiatry as a career choice. We are specifically interested in identifying the factors that influence the recruitment into psychiatry with emphasis on barriers and facilitators affecting recruitment. A greater understanding of the views ranging from medical students to trainees and consultants working in the UK may enable curriculum developers and recruitment leads to design programmes that attract students and trainees to psychiatry as a career and improve students' attitudes towards psychiatry in the long term.</p><sec sec-type="methods" id="S1"><title>Method</title><p id="P6">We followed the PRISMA statement<sup><xref rid="R11" ref-type="bibr">11</xref></sup> as a guide for conducting the systematic review. The following electronic databases were searched from 1974 onwards: Medline, EMBASE, CINAHL, PsycINFO. These databases were selected in view of the fact that almost all the literature published from the UK would be covered in these databases. Keywords used in the searches included: medical students, trainees, doctors, consultant, attitudes, psychiatry, career, undergraduate psychiatry. Boolean operations and truncations were added to allow for alternative endings in the keyword searches. The search was last updated in August 2016.</p><p id="P7">We included studies that described a UK sample, were published in English in a peer-reviewed journal and provided original data on careers in psychiatry or factors affecting recruitment in psychiatry. We excluded studies that had the primary objective of addressing other issues that were not directly relevant to recruitment in psychiatry but only mentioned their effects on career choice as a secondary effect. Studies which provided data on medical careers in general were included if these provided data relevant to psychiatric careers or recruitment.</p><p id="P8">The electronic search returned 601 relevant abstracts and titles. We screened the titles and abstracts and excluded the studies that were not directly relevant to the objectives of the review. Therefore we excluded the studies that did not describe a UK sample or did not provide the original data. We also excluded the studies that described the recruitment to certain subspecialties and therefore not relevant to the recruitment to psychiatry in general. After screening these titles and abstracts we decided to examine 56 full text papers. Finally, we included 27 papers in the review. Further details are provided in <xref ref-type="fig" rid="F1">Fig. 1</xref>. The studies were conducted in a number of different populations, settings and periods, and also used diverse methodologies varying from surveys to statistics derived from databases. The 30-item Attitudes Towards Psychiatry (ATP-30),<sup><xref rid="R12" ref-type="bibr">12</xref></sup> a validated tool used to assess attitudes of students towards psychiatry, was used in four papers; other papers used different questionnaires to assess attitudes. Due to the diverse methodologies it was inappropriate to pool the data to produce a statistical summary. We therefore describe the main findings and produce a narrative summary of results.</p><fig id="F1" orientation="portrait" position="margin"><label>Fig. 1</label><caption><p>Summary of the abstracts reviewed to identify relevant papers. CAMHS, child and adolescent mental health services.</p></caption><graphic xlink:href="346f1"/></fig></sec><sec sec-type="results" id="S2"><title>Results</title><sec id="S3"><title>Characteristics of included studies</title><p id="P9"><xref ref-type="table" rid="T1">Table 1</xref> shows the characteristics of the 27 studies included in the review. The majority of studies (<italic>n</italic> = 24) were surveys and questionnaire-based studies. The other studies included one database study of doctors entering training posts and two retrospective cohort studies, which looked at which medical school psychiatrists had attended. These reported on medical students (<italic>n</italic> = 12), trainees (<italic>n</italic> = 10), medical students and trainees (<italic>n</italic> = 1), trainees and consultants (<italic>n</italic> = 1) and consultants (<italic>n</italic> = 3). One of these studies looked at data from postgraduate departments in different medical schools, and one study reported on the database of applicants to MMC (Modernising Medical Careers) for training posts.</p><table-wrap id="T1" orientation="portrait" position="float"><label>Table 1</label><caption><p>Study characteristics</p></caption><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" valign="top" span="1"/><col align="left" valign="top" span="1"/><col align="left" valign="top" span="1"/><col align="left" valign="top" span="1"/><col align="left" valign="top" span="1"/></colgroup><thead><tr><th valign="bottom" rowspan="1" colspan="1">Author/year</th><th valign="bottom" rowspan="1" colspan="1">Population</th><th valign="bottom" rowspan="1" colspan="1">Method/design</th><th valign="bottom" rowspan="1" colspan="1">Total<break/>sample, <italic>n</italic></th><th valign="bottom" rowspan="1" colspan="1">M:F ratio, %/<break/>response rate, %</th></tr></thead><tbody><tr><td rowspan="1" colspan="1">Brook, 1976<sup><xref rid="R19" ref-type="bibr">19</xref></sup></td><td rowspan="1" colspan="1">Medical school of origin<break/>for psychiatrists</td><td rowspan="1" colspan="1">Retrospective cohort</td><td rowspan="1" colspan="1">531</td><td rowspan="1" colspan="1">No data provided</td></tr><tr><td colspan="5" rowspan="1"><hr/></td></tr><tr><td rowspan="1" colspan="1">Brook, 1983<sup><xref rid="R21" ref-type="bibr">21</xref></sup></td><td rowspan="1" colspan="1">Medical school of origin<break/>for psychiatrists</td><td rowspan="1" colspan="1">Retrospective cohort</td><td rowspan="1" colspan="1">1229</td><td rowspan="1" colspan="1">No data provided</td></tr><tr><td colspan="5" rowspan="1"><hr/></td></tr><tr><td rowspan="1" colspan="1">Levine <italic>et al</italic>, 1983<sup><xref rid="R24" ref-type="bibr">24</xref></sup></td><td rowspan="1" colspan="1">Medical students</td><td rowspan="1" colspan="1">Survey</td><td rowspan="1" colspan="1">30</td><td rowspan="1" colspan="1">No M:F data/100</td></tr><tr><td colspan="5" rowspan="1"><hr/></td></tr><tr><td rowspan="1" colspan="1">Brook <italic>et al</italic>, 1986<sup><xref rid="R20" ref-type="bibr">20</xref></sup></td><td rowspan="1" colspan="1">Medical students</td><td rowspan="1" colspan="1">Survey</td><td rowspan="1" colspan="1">498</td><td rowspan="1" colspan="1">64:36/40</td></tr><tr><td colspan="5" rowspan="1"><hr/></td></tr><tr><td rowspan="1" colspan="1">Calvert <italic>et al</italic>, 1999<sup><xref rid="R33" ref-type="bibr">33</xref></sup></td><td rowspan="1" colspan="1">Medical students</td><td rowspan="1" colspan="1">Survey</td><td rowspan="1" colspan="1">392</td><td rowspan="1" colspan="1">M:F, no significant<break/>difference/70</td></tr><tr><td colspan="5" rowspan="1"><hr/></td></tr><tr><td rowspan="1" colspan="1">Mcparland <italic>et al</italic>, 2003<sup><xref rid="R30" ref-type="bibr">30</xref></sup></td><td rowspan="1" colspan="1">Medical students</td><td rowspan="1" colspan="1">Cohort study &#x02013; survey</td><td rowspan="1" colspan="1">379</td><td rowspan="1" colspan="1">54:46/84</td></tr><tr><td colspan="5" rowspan="1"><hr/></td></tr><tr><td rowspan="1" colspan="1">Maidment <italic>et al</italic>, 2003<sup><xref rid="R31" ref-type="bibr">31</xref></sup></td><td rowspan="1" colspan="1">Medical students</td><td rowspan="1" colspan="1">Survey</td><td rowspan="1" colspan="1">837</td><td rowspan="1" colspan="1">33.6:66.4/99.6</td></tr><tr><td colspan="5" rowspan="1"><hr/></td></tr><tr><td rowspan="1" colspan="1">Petrides &#x00026; McManus,<break/>2004<sup><xref rid="R23" ref-type="bibr">23</xref></sup></td><td rowspan="1" colspan="1">Medical students</td><td rowspan="1" colspan="1">Cohort study &#x02013; survey</td><td rowspan="1" colspan="1">8283</td><td rowspan="1" colspan="1">Only descriptive data<break/>provided in this paper</td></tr><tr><td colspan="5" rowspan="1"><hr/></td></tr><tr><td rowspan="1" colspan="1">Rajagopal <italic>et al</italic>, 2004<sup><xref rid="R35" ref-type="bibr">35</xref></sup></td><td rowspan="1" colspan="1">Medical students</td><td rowspan="1" colspan="1">Survey</td><td rowspan="1" colspan="1">301</td><td rowspan="1" colspan="1">31.9:68.1/52</td></tr><tr><td colspan="5" rowspan="1"><hr/></td></tr><tr><td rowspan="1" colspan="1">Curtis-Barton &#x00026; Eagles, 2011<sup><xref rid="R25" ref-type="bibr">25</xref></sup></td><td rowspan="1" colspan="1">Medical students</td><td rowspan="1" colspan="1">Survey</td><td rowspan="1" colspan="1">467</td><td rowspan="1" colspan="1">44:64/51</td></tr><tr><td colspan="5" rowspan="1"><hr/></td></tr><tr><td rowspan="1" colspan="1">Budd <italic>et al</italic>, 2011<sup><xref rid="R26" ref-type="bibr">26</xref></sup></td><td rowspan="1" colspan="1">Medical students at 4<break/>different medical schools</td><td rowspan="1" colspan="1">Survey</td><td rowspan="1" colspan="1">905</td><td rowspan="1" colspan="1">36:64/Not provided<break/>clearly reported range<break/>50&#x02013;85% depending on<break/>medical school</td></tr><tr><td colspan="5" rowspan="1"><hr/></td></tr><tr><td rowspan="1" colspan="1">Archdall <italic>et al</italic>, 2013<sup><xref rid="R34" ref-type="bibr">34</xref></sup></td><td rowspan="1" colspan="1">Medical students</td><td rowspan="1" colspan="1">Survey</td><td rowspan="1" colspan="1">15</td><td rowspan="1" colspan="1">30:70/100</td></tr><tr><td colspan="5" rowspan="1"><hr/></td></tr><tr><td rowspan="1" colspan="1">Halder <italic>et al</italic>, 2013<sup><xref rid="R28" ref-type="bibr">28</xref></sup></td><td rowspan="1" colspan="1">Medical students &#x02013;<break/>18 UK medical schools</td><td rowspan="1" colspan="1">Survey</td><td rowspan="1" colspan="1">484</td><td rowspan="1" colspan="1">34:66/None</td></tr><tr><td colspan="5" rowspan="1"><hr/></td></tr><tr><td rowspan="1" colspan="1">Farooq <italic>et al</italic>, 2014<sup><xref rid="R27" ref-type="bibr">27</xref></sup></td><td rowspan="1" colspan="1">Medical students<break/>(only UK data used)</td><td rowspan="1" colspan="1">Survey</td><td rowspan="1" colspan="1">291</td><td rowspan="1" colspan="1">Males 37:63/16</td></tr><tr><td colspan="5" rowspan="1"><hr/></td></tr><tr><td rowspan="1" colspan="1">Maidment <italic>et al</italic>, 2004<sup><xref rid="R31" ref-type="bibr">31</xref></sup></td><td rowspan="1" colspan="1">Trainee doctors</td><td rowspan="1" colspan="1">Survey</td><td rowspan="1" colspan="1">234</td><td rowspan="1" colspan="1">52.1:47.9/67.4</td></tr><tr><td colspan="5" rowspan="1"><hr/></td></tr><tr><td rowspan="1" colspan="1">Goldacre <italic>et al</italic>, 2005<sup><xref rid="R14" ref-type="bibr">14</xref></sup></td><td rowspan="1" colspan="1">Trainee doctors<break/>(graduates from 1974 to<break/>2000, UK medical schools)</td><td rowspan="1" colspan="1">Survey</td><td rowspan="1" colspan="1">21 845 year 1<break/>17 741 year 3</td><td rowspan="1" colspan="1">Year 1 55:45/75<break/>Year 3 56:44/74</td></tr><tr><td colspan="5" rowspan="1"><hr/></td></tr><tr><td rowspan="1" colspan="1">Lambert <italic>et al</italic>, 2006<sup><xref rid="R15" ref-type="bibr">15</xref></sup></td><td rowspan="1" colspan="1">Trainee doctors</td><td rowspan="1" colspan="1">Survey</td><td rowspan="1" colspan="1">572</td><td rowspan="1" colspan="1">No M:F data/74</td></tr><tr><td colspan="5" rowspan="1"><hr/></td></tr><tr><td rowspan="1" colspan="1">Fazel <italic>et al</italic>, 2009<sup><xref rid="R13" ref-type="bibr">13</xref></sup></td><td rowspan="1" colspan="1">Trainee doctors<break/>(all applicants to MMC for<break/>training posts)</td><td rowspan="1" colspan="1">Database analysis</td><td rowspan="1" colspan="1">31 434</td><td rowspan="1" colspan="1">No M:F data</td></tr><tr><td colspan="5" rowspan="1"><hr/></td></tr><tr><td rowspan="1" colspan="1">Barras &#x00026; Harris, 2012<sup><xref rid="R38" ref-type="bibr">38</xref></sup></td><td rowspan="1" colspan="1">Trainee doctors</td><td rowspan="1" colspan="1">Survey</td><td rowspan="1" colspan="1">359</td><td rowspan="1" colspan="1">52.2:47.8/16.1</td></tr><tr><td colspan="5" rowspan="1"><hr/></td></tr><tr><td rowspan="1" colspan="1">Goldacre <italic>et al</italic>, 2012<sup><xref rid="R16" ref-type="bibr">16</xref></sup></td><td rowspan="1" colspan="1">Trainee doctors who had<break/>qualified in 2002, 2005,<break/>2008</td><td rowspan="1" colspan="1">Survey</td><td rowspan="1" colspan="1">9155</td><td rowspan="1" colspan="1">37:63/56</td></tr><tr><td colspan="5" rowspan="1"><hr/></td></tr><tr><td rowspan="1" colspan="1">Goldacre <italic>et al</italic>, 2013<sup><xref rid="R17" ref-type="bibr">17</xref></sup></td><td rowspan="1" colspan="1">Trainee doctors who<break/>qualified between 1974<break/>and 2009</td><td rowspan="1" colspan="1">Survey</td><td rowspan="1" colspan="1">33 974</td><td rowspan="1" colspan="1">Year 1 49:51/65.9<break/>Year 3 51:49/68.6<break/>Year 5 52:48/69.5</td></tr><tr><td colspan="5" rowspan="1"><hr/></td></tr><tr><td rowspan="1" colspan="1">Svirko <italic>et al</italic>, 2013<sup><xref rid="R18" ref-type="bibr">18</xref></sup></td><td rowspan="1" colspan="1">Trainee doctors who qualified<break/>2005, 2008, 2009</td><td rowspan="1" colspan="1">Survey</td><td rowspan="1" colspan="1">9348</td><td rowspan="1" colspan="1">46.9:55.8/52.2</td></tr><tr><td colspan="5" rowspan="1"><hr/></td></tr><tr><td rowspan="1" colspan="1">Collier &#x00026; Moreton, 2013<sup><xref rid="R22" ref-type="bibr">22</xref></sup></td><td rowspan="1" colspan="1">Hospital postgraduate<break/>departments of 19 medical<break/>schools</td><td rowspan="1" colspan="1">Survey</td><td rowspan="1" colspan="1">19 medical<break/>schools</td><td rowspan="1" colspan="1">No M:F data/70</td></tr><tr><td colspan="5" rowspan="1"><hr/></td></tr><tr><td rowspan="1" colspan="1">Woolf <italic>et al</italic>, 2015<sup><xref rid="R37" ref-type="bibr">37</xref></sup></td><td rowspan="1" colspan="1">Medical students and<break/>trainee doctors</td><td rowspan="1" colspan="1">Cohort study &#x02013; survey</td><td rowspan="1" colspan="1">105</td><td rowspan="1" colspan="1">34:66/50</td></tr><tr><td colspan="5" rowspan="1"><hr/></td></tr><tr><td rowspan="1" colspan="1">Korszun <italic>et al</italic>, 2011<sup><xref rid="R36" ref-type="bibr">36</xref></sup></td><td rowspan="1" colspan="1">Trainee doctors, academics,<break/>trust clinicians</td><td rowspan="1" colspan="1">Survey</td><td rowspan="1" colspan="1">309</td><td rowspan="1" colspan="1">61.5:38.5/None</td></tr><tr><td colspan="5" rowspan="1"><hr/></td></tr><tr><td rowspan="1" colspan="1">Dein <italic>et al</italic>, 2007<sup><xref rid="R39" ref-type="bibr">39</xref></sup></td><td rowspan="1" colspan="1">Consultants</td><td rowspan="1" colspan="1">Survey</td><td rowspan="1" colspan="1">72</td><td rowspan="1" colspan="1">68:32/82.7</td></tr><tr><td colspan="5" rowspan="1"><hr/></td></tr><tr><td rowspan="1" colspan="1">Denman <italic>et al</italic>, 2016<sup><xref rid="R32" ref-type="bibr">32</xref></sup></td><td rowspan="1" colspan="1">Consultants and trainees</td><td rowspan="1" colspan="1">Survey</td><td rowspan="1" colspan="1">Consultants: 47<break/>Trainees: 51</td><td rowspan="1" colspan="1">55:45/41.7<break/>(consultants 42%,<break/>trainees 41%)</td></tr></tbody></table><table-wrap-foot><fn id="TFN1"><p>M, male; F, female; MMC, Modernising Medical Careers.</p></fn><fn id="TFN2"><label>a.</label><p>Data not used from this paper just broad findings in review.</p></fn></table-wrap-foot></table-wrap><p id="P10">In survey-based studies response rates varied from 16% to 100%. Mean response rate from the papers which had figures available (<italic>n</italic> = 20) was 63.3%. The population in all studies comprised of 1879 psychiatrists, 6733 students and 220 746 trainees. One database study<sup><xref rid="R13" ref-type="bibr">13</xref></sup> looked at 31 434 trainee doctors, and studies by Goldacre <italic>et al</italic> were aimed at all doctors in training, accounting for large numbers of respondents in the trainee subcategory.<sup><xref rid="R14" ref-type="bibr">14</xref>&#x02013;<xref rid="R18" ref-type="bibr">18</xref></sup></p></sec><sec id="S4"><title>The influence of the medical school and teaching practices</title><p id="P11">Most of the research addressing the influence of the medical school and teaching practices on selecting psychiatry as a career was carried out in the 1970's and 1980's. Two studies by Brook <italic>et al</italic><sup><xref rid="R19" ref-type="bibr">19</xref>,<xref rid="R20" ref-type="bibr">20</xref></sup> looked at the medical school of origin for 531 psychiatrists between 1961 and 1970 and reported no significant relationship between schools that had a professional unit or specific teaching programme and students pursuing psychiatry in the long term. However, it was noted that those schools that produced fewer psychiatrists tended to have either a recently established professional unit or none.<sup><xref rid="R19" ref-type="bibr">19</xref></sup></p><p id="P12">No clear pattern emerged in terms of the type of teaching offered at each university and the impact this had on choice of psychiatry as a career in the long term.<sup><xref rid="R19" ref-type="bibr">19</xref></sup> All four Scottish schools, and Cambridge and Oxford were noted to be higher in terms of producing psychiatrists, attributed possibly to the well-established professional units such as the Maudsley and Bethlem Royal hospitals.<sup><xref rid="R19" ref-type="bibr">19</xref></sup> The personality, charisma and enthusiasm of teachers were associated with an increase in the uptake of psychiatry in the long term.<sup><xref rid="R19" ref-type="bibr">19</xref>,<xref rid="R21" ref-type="bibr">21</xref></sup></p><p id="P13">Brook <italic>et al</italic><sup><xref rid="R21" ref-type="bibr">21</xref></sup> found that the effectiveness of teaching rather that the amount of teaching had an effect on student attitudes and recruitment into psychiatry The attitude of non-psychiatric teachers appeared to be influential with doctors experiencing negative attitudes of other doctors towards psychiatry.<sup><xref rid="R21" ref-type="bibr">21</xref></sup> The two hospitals which ranked top in terms of producing psychiatrists had changed their teaching model. One stressed the importance of psychiatry as being part of general medicine, emphasising the effectiveness of physical therapy, whereas the other placed emphasis on liaison psychiatry and psychotherapy.<sup><xref rid="R21" ref-type="bibr">21</xref></sup></p><p id="P14">More recent work by Collier <italic>et al</italic><sup><xref rid="R22" ref-type="bibr">22</xref></sup> looked into the teaching time allocated for psychiatry in foundation programmes across the country. They found that only 2.3% of teaching was dedicated to psychiatry compared with 44.1% to medical and surgical topics.<sup><xref rid="R22" ref-type="bibr">22</xref></sup> Exposure to psychiatry remained limited with 4 out of 17 hospitals in the survey not having any teaching on psychiatry for medical students.<sup><xref rid="R22" ref-type="bibr">22</xref></sup> Doctors generally led a higher proportion of medicine and surgery teaching sessions (63%) compared with psychiatry (48%).<sup><xref rid="R22" ref-type="bibr">22</xref></sup></p></sec><sec id="S5"><title>Medical students' views of psychiatry and factors affecting career choice</title><p id="P15">Twelve studies examined the factors affecting medical students' career choice and one study looked at both medical students and trainees. Petrides <italic>et al</italic><sup><xref rid="R23" ref-type="bibr">23</xref></sup> studied the theoretical understanding of how different medical specialties are perceived and how choices are made. Psychiatrists were found to have a more artistic approach to medicine, seeing interpreting and responding imaginatively to a range of medical, social, ethical and other problems. This is in keeping with early work by Levine <italic>et al</italic><sup><xref rid="R24" ref-type="bibr">24</xref></sup> who also found that there was a group of students who were &#x02018;psychologically minded&#x02019; and they could be identified and encouraged to make psychiatry as career choice.</p><p id="P16">Budd <italic>et al</italic><sup><xref rid="R26" ref-type="bibr">26</xref></sup> found that job satisfaction (98%, <italic>n</italic> = 128) and family-friendly status of psychiatry (79%, <italic>n</italic> = 103) were important for students who rated psychiatry as one of their top three choices.<sup><xref rid="R26" ref-type="bibr">26</xref></sup> The academic status was significantly less important (48%) for students who placed psychiatry as their top three specialty schools <italic>v.</italic> 63% for those who did not place psychiatry in their top three choice.<sup><xref rid="R26" ref-type="bibr">26</xref></sup></p></sec><sec id="S6"><title>Choice of psychiatry as a career among medical and sixth form students</title><p id="P17">The number of students choosing psychiatry has remained fairly stable at around 4&#x02013;7%.<sup><xref rid="R25" ref-type="bibr">25</xref>&#x02013;<xref rid="R27" ref-type="bibr">27</xref></sup> Three per cent of students from six medical schools placed psychiatry as their first choice, with 18% seriously considering it.<sup><xref rid="R20" ref-type="bibr">20</xref></sup> Halder <italic>et al</italic><sup><xref rid="R28" ref-type="bibr">28</xref></sup> found similar results in 18 medical schools; 16% chose psychiatry as a future career on entering medical school but by the final year only 3% had decided to pursue a career in the subject. These results were replicated by Farooq <italic>et al</italic><sup><xref rid="R27" ref-type="bibr">27</xref></sup> In a survey of sixth form students, Maidment <italic>et al</italic><sup><xref rid="R29" ref-type="bibr">29</xref></sup> reported that 60.9% (<italic>n</italic> = 363) indicated that it would be very likely or they would definitely want to pursue psychiatry as a career. In terms of overall intentions to pursue a career in a specialty, the ratings for psychiatry was similar to general medicine at 12.4% (<italic>n</italic> = 72) <italic>v.</italic> 12.2% (<italic>n</italic> = 69) respectively.<sup><xref rid="R29" ref-type="bibr">29</xref></sup></p></sec><sec id="S7"><title>Effect of undergraduate attachment and education on choosing psychiatry as a career</title><p id="P18">Positive attitudes towards psychiatry and the influence by a teacher during the attachment correlated with an intention to purse psychiatry as a career in the long term.<sup><xref rid="R29" ref-type="bibr">29</xref>&#x02013;<xref rid="R31" ref-type="bibr">31</xref></sup> Three studies highlighted the importance of psychiatric attachment. Student attitudes improved as the attachment progressed.<sup><xref rid="R26" ref-type="bibr">26</xref>,<xref rid="R30" ref-type="bibr">30</xref>,<xref rid="R31" ref-type="bibr">31</xref></sup> Maidment <italic>et al</italic><sup><xref rid="R29" ref-type="bibr">29</xref></sup> found 1.4% of fourth-year medical students expressed a definite intention to pursue which rose to 4.7% after their attachment.<sup><xref rid="R29" ref-type="bibr">29</xref></sup> McParland <italic>et al</italic><sup><xref rid="R30" ref-type="bibr">30</xref></sup> reported that 19% (<italic>n</italic> = 58/309) of students were very attracted to psychiatry or had a definite intention to pursue psychiatry at the start of the placement, which increased to 27% (<italic>n</italic> = 101/373) of students at the end of the attachment. The importance of the undergraduate experience was highlighted by a recent study showing 50% of consultants and 37% of trainees surveyed decided on a career in psychiatry while still at medical school.<sup><xref rid="R32" ref-type="bibr">32</xref></sup></p><p id="P19">Calvert <italic>et al</italic><sup><xref rid="R33" ref-type="bibr">33</xref></sup> looked into the attitudes of medical students towards psychiatry and psychiatric patients at year 1, 3 and 5 in medical school. First-year medical students were more likely to have stereotypical views compared with third- and fifth-year students, and were more likely to agree with statements such as &#x02018;Psychiatry deals with imaginary illness&#x02019; (mean 1.4, s.d. = 0.9, <italic>P</italic> &#x0003c; 0.5).<sup><xref rid="R33" ref-type="bibr">33</xref></sup> Fifth-year students (mean 3.2, s.d. = 1.4) showed lower agreement than third-year medical students (mean 3.6, s.d. = 1.2, <italic>P</italic> &#x0003c; 0.5) with the statement &#x02018;Psychiatry is as a challenging career&#x02019;.<sup><xref rid="R33" ref-type="bibr">33</xref></sup> As they progressed through medical school, students recognised that mental illness has serious morbidity and that people do recover from mental illness,<sup><xref rid="R33" ref-type="bibr">33</xref></sup> showing that attitudes towards psychiatric patients improved with greater clinical experience but possibly became more negative towards psychiatry as a career.</p><p id="P20">Other factors that appeared to affect students positively included enrichment activities, i.e. activities beyond standard teaching and clinical placements led to a significantly increased interest in psychiatry.<sup><xref rid="R28" ref-type="bibr">28</xref></sup> These included research experience in psychiatry (13% <italic>v.</italic> 4% in those not interested in psychiatry, <italic>P</italic> = 0.001), university psychiatry clubs (38% <italic>v.</italic> 11%, <italic>P</italic> &#x0003c; 0.001), psychiatry electives (14% <italic>v.</italic> 1%, <italic>P</italic> &#x0003c; 0.001) and psychiatry special study modules (38% <italic>v.</italic> 16%, <italic>P</italic> &#x0003c; 0.001).<sup><xref rid="R28" ref-type="bibr">28</xref></sup></p><p id="P21">McParland <italic>et al</italic><sup><xref rid="R30" ref-type="bibr">30</xref></sup> identified factors which increased interest in psychiatry, including: influence or encouragement by someone during the attachment (74%, <italic>n</italic> = 282), particularly the influence by consultants (43%, <italic>n</italic> = 163), exposure to interesting and stimulating ideas (29%, <italic>n</italic> = 110), liking someone's approach (27%, <italic>n</italic> = 103), feeling someone believed in their ability (11%, <italic>n</italic> = 41) and having formed close working relationships (9%, <italic>n</italic> = 33).<sup><xref rid="R30" ref-type="bibr">30</xref></sup> Other factors that had a significant impact were: receiving encouragement from the consultants (<italic>n</italic> = 374, <italic>P</italic> &#x0003c; 0.001, <italic>r</italic> = 0.26), seeing patients respond to treatment (<italic>n</italic> = 374, <italic>P</italic> &#x0003c; 0.001, <italic>r</italic> = 0.20) and having a direct role in the involvement of patient care (<italic>n</italic> = 374, <italic>P</italic> &#x0003c; 0.001, <italic>r</italic> = 0.26).<sup><xref rid="R30" ref-type="bibr">30</xref></sup></p></sec><sec id="S8"><title>Factors which did not affect career choice of medical students</title><p id="P22">Seeing patients in different settings or different phases of the illness had no effect on career choice of medical students when deciding their career intentions.<sup><xref rid="R28" ref-type="bibr">28</xref></sup> Interestingly, one study found that the earning potential and status of psychiatry had no effect on selecting psychiatry as a career choice.<sup><xref rid="R26" ref-type="bibr">26</xref></sup> Other factors related to teaching such as quality of rating of small group teaching and lectures,<sup><xref rid="R28" ref-type="bibr">28</xref></sup> the curriculum type used<sup><xref rid="R30" ref-type="bibr">30</xref>,<xref rid="R31" ref-type="bibr">31</xref></sup> and performance at viva examinations and multiple choice questions also had no effect on the career choice.<sup><xref rid="R31" ref-type="bibr">31</xref></sup></p></sec><sec id="S9"><title>Factors discouraging medical students to choose psychiatry as a career</title><p id="P23">Curtis-Barton <italic>et al</italic><sup><xref rid="R25" ref-type="bibr">25</xref></sup> in their survey (<italic>n</italic> = 467) found that the factors discouraging students to pursue a career in psychiatry included: prognosis of patients (62%), perception that there is a lack of evidence in diagnosis (51%), lack of scientific basis (53%) and the amount of bureaucracy and paperwork in the specialty (48%). Other discouraging factors included the stigma towards psychiatry (30%), the standing of the profession among medical colleagues (31%) and comments by other specialists (26%).<sup><xref rid="R25" ref-type="bibr">25</xref>,<xref rid="R34" ref-type="bibr">34</xref></sup> Psychiatry scored the lowest among the specialties as a career choice. Students described psychiatry as boring, unscientific, depressing, stressful, frustrating and &#x02018;not enjoying the rotation&#x02019;.<sup><xref rid="R35" ref-type="bibr">35</xref></sup></p><p id="P24">Many students experienced psychiatry as being different to other specialties. For some this was a reason not to pursue psychiatry as a career but for others it was a positive aspect of the specialty Students felt ward rounds focused on &#x02018;social issues&#x02019; rather than medical conditions. Some found it an &#x02018;emotional burden&#x02019; and others felt that psychiatry could not &#x02018;fix&#x02019; people and no one is being cured.<sup><xref rid="R34" ref-type="bibr">34</xref></sup></p><p id="P25">A survey by Korszun <italic>et al</italic><sup><xref rid="R36" ref-type="bibr">36</xref></sup> examined the views of trainee, academics and clinicians on students not taking up psychiatry. The following factors were identified as deterring the students from psychiatry: negative attitudes towards psychiatrists from other doctors and health professionals (57%), stigmatisation of psychiatry (40%), stigma associated with mental health disorders (39%), poor teaching and role modelling from psychiatrists (37%), psychiatry not seen as medical or scientific enough (26%) and poor morale among psychiatrists (26%).<sup><xref rid="R36" ref-type="bibr">36</xref></sup></p></sec><sec id="S10"><title>Factors affecting trainees' and consultants' choice of psychiatry</title><p id="P26">Fazel <italic>et al</italic><sup><xref rid="R13" ref-type="bibr">13</xref></sup> found that psychiatry was the sixth most popular specialty out of ten specialty groups for trainees applying for training places. A higher proportion of female graduates were shown to choose psychiatry between 1974 (32%) and 1999 (59%).<sup><xref rid="R13" ref-type="bibr">13</xref></sup> However, a more recent survey showed a slight decline in the number of women choosing psychiatry over the last decade, 4.9% (1999) <italic>v.</italic> 4.6 % (2009).<sup><xref rid="R17" ref-type="bibr">17</xref></sup></p><p id="P27">Goldacre <italic>et al</italic><sup><xref rid="R14" ref-type="bibr">14</xref></sup> examined career choices for medical students over the past 40 years. The number of doctors choosing psychiatry as a career has hardly changed and remains around 4&#x02013;5%, which is similar to figures from 1975.<sup><xref rid="R14" ref-type="bibr">14</xref></sup> It was noted that students who went on to work in psychiatry 10 years after graduation, 52% (224 out of 428) had chosen psychiatry in the first year after graduation and 71% (308 out of 434) had chosen it in year 3.<sup><xref rid="R14" ref-type="bibr">14</xref></sup></p><p id="P28">In common with the factors attracting students towards psychiatry, numerous studies identified factors that appear to attract trainees towards psychiatry The major attractions for choosing psychiatry are listed in <xref ref-type="boxed-text" rid="box1">Box 1</xref>. Denman <italic>et al</italic><sup><xref rid="R32" ref-type="bibr">32</xref></sup> found that the most common factor influencing core trainees' (60%) and consultants' (70%) decisions to specialise in psychiatry was emphasis on the patient as a whole.<sup><xref rid="R32" ref-type="bibr">32</xref></sup> Trainees highlighted that mental health was an area of need (53%) and empathy and concerns for people with mental illness (53%) were important reasons for choosing psychiatry.<sup><xref rid="R32" ref-type="bibr">32</xref></sup></p><boxed-text id="box1" position="float" orientation="portrait"><p id="P29"><bold>Box 1</bold> Factors attracting medical students and trainees in pursuing psychiatry as a career</p><sec id="S11"><title>Medical students</title><list list-type="bullet"><list-item><p id="P30">Encouragement by colleagues<sup><xref rid="R24" ref-type="bibr">24</xref>,<xref rid="R26" ref-type="bibr">26</xref>,<xref rid="R30" ref-type="bibr">30</xref>,<xref rid="R31" ref-type="bibr">31</xref></sup></p></list-item><list-item><p id="P31">Influence by someone during the placement<sup><xref rid="R24" ref-type="bibr">24</xref>,<xref rid="R30" ref-type="bibr">30</xref></sup></p></list-item><list-item><p id="P32">Females are more likely to favour a career in psychiatry<sup><xref rid="R24" ref-type="bibr">24</xref>,<xref rid="R27" ref-type="bibr">27</xref>,<xref rid="R30" ref-type="bibr">30</xref></sup></p></list-item><list-item><p id="P33">Family history of mental illness was associated with choosing psychiatry<sup><xref rid="R24" ref-type="bibr">24</xref></sup></p></list-item><list-item><p id="P34">Quality of experience<sup><xref rid="R26" ref-type="bibr">26</xref>,<xref rid="R27" ref-type="bibr">27</xref>,<xref rid="R30" ref-type="bibr">30</xref>,<xref rid="R33" ref-type="bibr">33</xref></sup></p></list-item><list-item><p id="P35">Role models can have a positive impact on students pursuing a career in psychiatry<sup><xref rid="R28" ref-type="bibr">28</xref>,<xref rid="R30" ref-type="bibr">30</xref>,<xref rid="R33" ref-type="bibr">33</xref></sup></p></list-item><list-item><p id="P36">Enrichment activities<sup><xref rid="R27" ref-type="bibr">27</xref>,<xref rid="R28" ref-type="bibr">28</xref></sup></p></list-item></list></sec><sec id="S12"><title>Trainees</title><list list-type="bullet"><list-item><p id="P37">Hours and conditions of work<sup><xref rid="R17" ref-type="bibr">17</xref>,<xref rid="R31" ref-type="bibr">31</xref>,<xref rid="R32" ref-type="bibr">32</xref></sup></p></list-item><list-item><p id="P38">The doctor's personal assessment of their aptitudes and skills,<sup><xref rid="R17" ref-type="bibr">17</xref>,<xref rid="R31" ref-type="bibr">31</xref>,<xref rid="R32" ref-type="bibr">32</xref></sup> for example recognising factors such as using one's intellect to help others<sup><xref rid="R37" ref-type="bibr">37</xref></sup></p></list-item><list-item><p id="P39">Experience of the subject as a student<sup><xref rid="R17" ref-type="bibr">17</xref>,<xref rid="R31" ref-type="bibr">31</xref></sup></p></list-item><list-item><p id="P40">Inclinations before medical school and a positive student experience<sup><xref rid="R17" ref-type="bibr">17</xref>,<xref rid="R37" ref-type="bibr">37</xref></sup></p></list-item><list-item><p id="P41">Attitudes and inclination to psychiatry as a medical student<sup><xref rid="R24" ref-type="bibr">24</xref>,<xref rid="R31" ref-type="bibr">31</xref>,<xref rid="R37" ref-type="bibr">37</xref></sup></p></list-item><list-item><p id="P42">Lifestyle factors<sup><xref rid="R32" ref-type="bibr">32</xref>,<xref rid="R37" ref-type="bibr">37</xref></sup></p></list-item><list-item><p id="P43">Encouragement from consultants and senior doctors<sup><xref rid="R31" ref-type="bibr">31</xref></sup></p></list-item><list-item><p id="P44">Emphasis on the patient as a whole person and empathy/concern for mentally ill people<sup><xref rid="R32" ref-type="bibr">32</xref></sup></p></list-item></list></sec></boxed-text></sec><sec id="S13"><title>Barriers associated with not choosing psychiatry as a long-term career choice for trainees</title><p id="P45">Barras &#x00026; Harris<sup><xref rid="R38" ref-type="bibr">38</xref></sup> explored trainee's experiences (<italic>n</italic> = 359) within psychiatry. Trainee attitudes were grouped into different categories. The attitudes towards psychiatry (12.6%), professional role (12%) and day-to-day working (11.3%) were identified as the main negative factors. Trainees raised concerns with the training programmes in psychiatry, such as problems with the rota and not having enough time with patients.<sup><xref rid="R38" ref-type="bibr">38</xref></sup> Many trainees felt frustrated with the Annual Review of Competence Progression (ARCP) process and workplace-based assessments, as well as the duplication of paperwork being a constant frustration.<sup><xref rid="R38" ref-type="bibr">38</xref></sup></p><p id="P46">The studies identified a number of barriers against choosing psychiatry as a career (<xref ref-type="boxed-text" rid="box2">Box 2</xref>).</p><p id="P47">Trainees felt improvements were needed in terms of training opportunities and felt this could be enhanced by providing a variety of jobs, increasing research opportunities and increasing medical aspects of training.<sup><xref rid="R38" ref-type="bibr">38</xref></sup></p><p id="P48">Work looking into consultant psychiatrists' views into why they chose psychiatry was limited to two papers.<sup><xref rid="R32" ref-type="bibr">32</xref>,<xref rid="R39" ref-type="bibr">39</xref></sup> Dein <italic>et al</italic><sup><xref rid="R39" ref-type="bibr">39</xref></sup> found that the majority of consultants (46%) chose psychiatry as a career soon after leaving medical school, and a recent study surveying consultants in the West Midlands found that 50% had made their choice by graduation from medical school.<sup><xref rid="R32" ref-type="bibr">32</xref></sup> The main reasons cited by consultants for choosing psychiatry as a career included: empathy for those with a mental disorder (36.1%), interface with neuroscience (25%), expectation of better working conditions in psychiatry (20%) and influence of teaching at medical school (19.4%).<sup><xref rid="R39" ref-type="bibr">39</xref></sup> Denman <italic>et al</italic><sup><xref rid="R32" ref-type="bibr">32</xref></sup> highlighted several &#x02018;very important&#x02019; reasons for consultants choosing psychiatry including: career in psychiatry would be intellectually challenging (60%), sense of fulfilment expected from seeing patients improve (47%) and enjoyment of problem-solving (47%). Lifestyle factors such as salary, better working conditions and quality of life were shown to be more important reasons for choosing psychiatry for trainees compared with consultants.<sup><xref rid="R32" ref-type="bibr">32</xref></sup></p><boxed-text id="box2" position="float" orientation="portrait"><p id="P49"><bold>Box 2</bold> Barriers associated with not choosing psychiatry as a career</p><list list-type="bullet"><list-item><p id="P50">Job content (71.7%) (<italic>n</italic> = 71) (including the lack of scientific basis, job not being clinical, poor prognosis)<sup><xref rid="R15" ref-type="bibr">15</xref>,<xref rid="R17" ref-type="bibr">17</xref>,<xref rid="R25" ref-type="bibr">25</xref>,<xref rid="R35" ref-type="bibr">35</xref>,<xref rid="R36" ref-type="bibr">36</xref>,<xref rid="R38" ref-type="bibr">38</xref></sup></p></list-item><list-item><p id="P51">Poor public image of psychiatry<sup><xref rid="R15" ref-type="bibr">15</xref>,<xref rid="R25" ref-type="bibr">25</xref>,<xref rid="R36" ref-type="bibr">36</xref></sup></p></list-item><list-item><p id="P52">Lack of respect towards psychiatry as a specialty by other specialties<sup><xref rid="R15" ref-type="bibr">15</xref>,<xref rid="R25" ref-type="bibr">25</xref>,<xref rid="R36" ref-type="bibr">36</xref></sup></p></list-item><list-item><p id="P53">Work-related stress cited by (49%)<sup><xref rid="R15" ref-type="bibr">15</xref></sup> trainees in psychiatry<sup><xref rid="R38" ref-type="bibr">38</xref></sup></p></list-item><list-item><p id="P54">25&#x02013;50% of trainees leaving psychiatry as a specialty cited lack of resources as one of the main reasons which was significantly more than those rejecting general practice and trauma and orthopaedics<sup><xref rid="R15" ref-type="bibr">15</xref>,<xref rid="R38" ref-type="bibr">38</xref></sup></p></list-item><list-item><p id="P55">25&#x02013;50% of trainees leaving psychiatry<sup><xref rid="R15" ref-type="bibr">15</xref>,<xref rid="R16" ref-type="bibr">16</xref>,<xref rid="R38" ref-type="bibr">38</xref></sup> highlighted:</p><list list-type="alpha-lower"><list-item><p id="P56">lack of adequately supervised training</p></list-item><list-item><p id="P57">lack of evidence base to diagnosis and treatment</p></list-item><list-item><p id="P58">lack of improvement in patients</p></list-item><list-item><p id="P59">work-life balance</p></list-item><list-item><p id="P60">work not clinical enough</p></list-item></list></list-item><list-item><p id="P61">Physical risks involved in the job<sup><xref rid="R15" ref-type="bibr">15</xref></sup></p></list-item><list-item><p id="P62">Sense of eroded professionalism<sup><xref rid="R36" ref-type="bibr">36</xref>,<xref rid="R38" ref-type="bibr">38</xref></sup></p></list-item><list-item><p id="P63">Too much paperwork and duplication<sup><xref rid="R25" ref-type="bibr">25</xref>,<xref rid="R36" ref-type="bibr">36</xref>,<xref rid="R38" ref-type="bibr">38</xref></sup></p></list-item><list-item><p id="P64">Problems with rota and not enough time with patients<sup><xref rid="R38" ref-type="bibr">38</xref></sup></p></list-item><list-item><p id="P65">Trainees leaving the scheme felt frustrated with workplace-based assessments<sup><xref rid="R38" ref-type="bibr">38</xref></sup></p></list-item><list-item><p id="P66">Low morale among workforce<sup><xref rid="R33" ref-type="bibr">33</xref></sup></p></list-item><list-item><p id="P67">Future role of psychiatrists being eroded<sup><xref rid="R33" ref-type="bibr">33</xref></sup></p></list-item></list></boxed-text></sec></sec><sec sec-type="discussion" id="S14"><title>Discussion</title><p id="P68">This is the first systematic review of literature which examined factors that influence the choice of psychiatry as a career in the UK. The main findings are that enrichment activities help to attract students more towards psychiatry than just total time spent in the specialty. Job satisfaction and family-friendly status of psychiatry was rated highly by students who tend to choose psychiatry. Role models and encouragement from consultants may increase the number of students who want to pursue psychiatry as a career. The major factors that appeared to dissuade medical students/trainees from pursuing psychiatry as a career included: an apparent lack of scientific basis of psychiatry and work not being clinical enough, perception that psychiatry is more concerned about social issues, the bureaucracy, paperwork, apparent poor prognosis of patients, stigma towards psychiatry as a specialty, low morale, and onerous workloads as a consultant.</p><p id="P69">We are aware of one previous systematic review that examined medical students' attitudes towards psychiatry internationally.<sup><xref rid="R40" ref-type="bibr">40</xref></sup> In common with our study this systematic review alongside another survey of psychiatrists<sup><xref rid="R36" ref-type="bibr">36</xref></sup> highlighted the stigma towards mental illness as a major barrier influencing negative medical views towards psychiatry.<sup><xref rid="R40" ref-type="bibr">40</xref></sup> Stigma towards psychiatry as a specialty arises from a variety of sources, notably from medical students themselves. In addition, this stigma could arise from ward staff attitudes towards patients and from other doctors in other specialties, which detract students.<sup><xref rid="R13" ref-type="bibr">13</xref>,<xref rid="R25" ref-type="bibr">25</xref>,<xref rid="R34" ref-type="bibr">34</xref></sup></p><p id="P70">Other reviews have looked at one aspect such as the effect of clinical experience of psychiatry on medical students' attitudes towards the specialty.<sup><xref rid="R41" ref-type="bibr">41</xref></sup> Lyons<sup><xref rid="R40" ref-type="bibr">40</xref></sup> highlighted the impact of poor-quality teaching leading to negative attitudes towards psychiatry and highlighted the need to address psychiatry curricula and introduce novel teaching strategies.<sup><xref rid="R40" ref-type="bibr">40</xref></sup> El-Sayeh <italic>et al</italic><sup><xref rid="R42" ref-type="bibr">42</xref></sup> have previously highlighted the importance of teaching and the various methods which could be utilised to try to improve the student experience and in turn help attract students towards psychiatry. The recent survey by Korszun <italic>et al</italic><sup><xref rid="R36" ref-type="bibr">36</xref></sup> highlighted that the number of clinicians compared with academics and trainees agreed that they did not have time to teach medical students (<italic>P</italic> &#x0003c; 0.001). Both clinicians (42%) and academics (47%) felt that teaching medical students did not contribute to their future career prospects compared with 21% of trainees (<italic>P</italic> &#x0003c; 0.001)<sup><xref rid="R36" ref-type="bibr">36</xref></sup> Fewer clinicians considered teaching to be a significant component of their appraisal compared with trainees and academics.<sup><xref rid="R36" ref-type="bibr">36</xref></sup> The combination of poor teaching practices due to lack of resources or commitment and the stigma reinforce the poor image of psychiatry.</p><p id="P71">We feel that the findings of our study support the recommendations made by Mukherjee <italic>et al</italic><sup><xref rid="R43" ref-type="bibr">43</xref></sup> which identify a number of steps to address the crisis in psychiatry recruitment at different nodal points in a medical career, i.e. prior to entry to medical school, during medical education and after graduation.</p><sec id="S15"><title>Improving recruitment</title><p id="P72">This study highlights the need to change the experience of psychiatry at undergraduate and postgraduate level in keeping with work by Shah <italic>et al</italic><sup><xref rid="R44" ref-type="bibr">44</xref></sup> who highlighted early medical experience, influence of seniors and the aspects related to working environment as areas that could be affected positively which in turn could have a positive effect on choosing psychiatry as a career. Kelley <italic>et al</italic><sup><xref rid="R45" ref-type="bibr">45</xref></sup> highlighted the impact of foundation programme experience in psychiatry, with a significantly higher proportion of trainees pursuing a career in psychiatry compared with those without any exposure to psychiatry (14.9% <italic>v.</italic> 1.8%). This correlates with earlier findings by Shah <italic>et al</italic><sup><xref rid="R44" ref-type="bibr">44</xref></sup> that found a significant correlation between those Scottish students considering psychiatry as a career and having held a psychiatry post.<sup><xref rid="R43" ref-type="bibr">43</xref></sup> A recent survey by Denman <italic>et al</italic><sup><xref rid="R32" ref-type="bibr">32</xref></sup> showed that 43% of psychiatry trainees made their decision to specialise in psychiatry during the foundation years, correlating with increased exposure to psychiatry during the foundation years with 80% of trainees in this survey completing a post in psychiatry during the foundation years. Specific enrichment activities beyond standard teaching and clinical placements such as research experience in psychiatry, university psychiatry clubs, summer schools,<sup><xref rid="R46" ref-type="bibr">46</xref></sup> psychiatry electives and psychiatry special study modules appear to be a way in which medical students will gain invaluable experiences and improve their attitudes to psychiatry. These need to be adopted and evaluated in future programmes to enhance recruitment in psychiatry Collier <italic>et al</italic><sup><xref rid="R22" ref-type="bibr">22</xref></sup> found that only 2.3% of teaching was dedicated to psychiatry compared with 44.1% to medical and surgical topics, which does not help the poor image of psychiatry. This and similar issues need to be addressed at institutional level.</p><p id="P73">A number of studies found that psychiatry has a perception that it is not a &#x02018;scientific&#x02019; or &#x02018;medical&#x02019; discipline.<sup><xref rid="R15" ref-type="bibr">15</xref>,<xref rid="R36" ref-type="bibr">36</xref>,<xref rid="R38" ref-type="bibr">38</xref></sup> Medical students and trainees expressed the views about the weakened medical identity of psychiatry. The erosion of the role of the psychiatrist was cited by some psychiatry trainees as a potential factor that would make them consider leaving psychiatry training.<sup><xref rid="R38" ref-type="bibr">38</xref></sup> This unfortunately is not helped by negative comments or &#x02018;bad-mouthing&#x02019; of psychiatry.<sup><xref rid="R36" ref-type="bibr">36</xref>,<xref rid="R47" ref-type="bibr">47</xref></sup></p><p id="P74">Interventions such as anti-stigma films and Medfest<sup><xref rid="R48" ref-type="bibr">48</xref></sup> have been shown to improve medical students' attitudes to psychiatrists, serious mental illness and psychiatry, at least in the short term.<sup><xref rid="R48" ref-type="bibr">48</xref>,<xref rid="R49" ref-type="bibr">49</xref></sup> However, it appears that there is need to reconsider the content of psychiatric training and the undergraduate curriculum. It has been suggested that moving undergraduate teaching from in-patient to general hospital settings such as liaison psychiatry will allow students to see patients with problems that are relevant to medical practice.<sup><xref rid="R47" ref-type="bibr">47</xref></sup> Setting up and evaluating such programmes that have the potential to offer a different and enjoyable experience for medical students and foundation doctors should be a priority to improve the image of and recruitment into psychiatry.</p></sec><sec id="S16"><title>Limitations</title><p id="P75">A limitation of the study is that almost all data are based on surveys and databases. This represents a cross-sectional view on the subject. The lack of any comparisons with other specialties, which may have similar recruitment rates, is particularly concerning. The focus on UK studies is also a limitation but was necessary to understand the factors affecting recruitment in this country We noted with some concern that there are only a few studies that address the positive aspects of psychiatry,<sup><xref rid="R26" ref-type="bibr">26</xref>&#x02013;<xref rid="R28" ref-type="bibr">28</xref>,<xref rid="R30" ref-type="bibr">30</xref>&#x02013;<xref rid="R33" ref-type="bibr">33</xref></sup> which may attract students and trainees towards psychiatry, and how these can be used for improving the recruitment. Future studies need to address this gap in the literature. Finally, we feel that the problems underlying the recruitment in psychiatry perhaps also reflect the lack of parity of esteem. Unless mental health is valued equally with physical health, the misconceptions and distorted perceptions about psychiatry as a discipline in which a medical career can be fruitfully pursued will linger on and will hinder aspiring physicians from considering psychiatry as a career option.</p></sec></sec></body><back><fn-group><fn fn-type="COI-statement"><p><bold>Declaration of interest</bold> None.</p></fn></fn-group><ref-list><title>References</title><ref id="R1"><label>1</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><collab>Centre for Workforce Intelligence</collab></person-group>
-<source>In-depth Review of the Psychiatrist Workforce: Main Report</source>. <publisher-name>CFWI</publisher-name>, <year>2014</year>.
-</mixed-citation></ref><ref id="R2"><label>2</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><collab>Centre for Workforce Intelligence</collab></person-group>
-<source>Shape of the Medical Workforce: Informing Medical Training Numbers</source>. <publisher-name>Centre for Workforce Intelligence</publisher-name>, <year>2011</year>.
-</mixed-citation></ref><ref id="R3"><label>3</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><collab>Royal College of Psychiatrists</collab></person-group>
-<source>Census 2009: Workforce Figures for Psychiatrists</source>. <publisher-name>Royal College of Psychiatrists</publisher-name>, <year>2010</year>.
-</mixed-citation></ref><ref id="R4"><label>4</label><mixed-citation publication-type="web">
-<person-group person-group-type="author"><name name-style="western"><surname>Carr</surname><given-names>A</given-names></name><name name-style="western"><surname>Sullivan</surname><given-names>E</given-names></name><name name-style="western"><surname>Buggle</surname><given-names>S</given-names></name><name name-style="western"><surname>Hamilton</surname><given-names>P</given-names></name></person-group>
-<article-title>Specialty training at ST1 and CT1 in England</article-title>. <source>BMJ Careers</source>
-<year>2011</year>; <day>30</day>
+                </corresp>
+                <fn>
+                    <p>
+                        <bold>Dr Abid Choudry</bold>, ST5, Leicestershire Partnership NHS Trust. <bold>Dr Saeed Farooq</bold>, Clinical Senior Lecturer, Research Institute for Primary Care and Health Sciences, Keele University, and South Staffordshire and Shropshire NHS Foundation Trust.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="ppub">
+                <month>12</month>
+                <year>2017</year>
+            </pub-date>
+            <volume>41</volume>
+            <issue>6</issue>
+            <fpage>345</fpage>
+            <lpage>352</lpage>
+            <history>
+                <date date-type="received">
+                    <day>6</day>
+                    <month>9</month>
+                    <year>2016</year>
+                </date>
+                <date date-type="rev-recd">
+                    <day>8</day>
+                    <month>3</month>
+                    <year>2017</year>
+                </date>
+                <date date-type="accepted">
+                    <day>11</day>
+                    <month>4</month>
+                    <year>2017</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>&#x000a9; 2017 The Authors</copyright-statement>
+                <copyright-year>2017</copyright-year>
+                <license license-type="creative-commons" xlink:href="http://creativecommons.org/licenses/by/4.0">
+                    <license-p>This is an open-access article published by the Royal College of Psychiatrists and distributed under the terms of the Creative Commons Attribution License (<uri xlink:href="http://creativecommons.org/licenses/by/4.0">http://creativecommons.org/licenses/by/4.0</uri>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <self-uri xlink:title="pdf" xlink:href="345.pdf" />
+            <abstract>
+                <p id="P1">
+                    <bold>Aims and method</bold> To review the literature to examine the factors that may be affecting recruitment into psychiatry in the UK. We systematically searched four databases to identify studies from 1974 to 2016 and identified 27 papers that met the specified inclusion criteria.</p>
+                <p id="P2">
+                    <bold>Results</bold> Most papers (<italic>n</italic> = 24) were based on questionnaire surveys. The population in all studies comprised of 1879 psychiatrists, 6733 students and 220 746 trainees. About 4&#x02013;7% of students opt for a career in psychiatry. Enrichment activities helped to attract students more towards psychiatry than just total time spent in the specialty. Job content in terms of the lack of scientific basis, poor prognosis and stigma towards psychiatry, work-related stress and problems with training jobs were common barriers highlighted among students and trainees, affecting recruitment. Job satisfaction and family-friendly status of psychiatry was rated highly by students, with lifestyle factors appearing to be important for trainees who tend to choose psychiatry.</p>
+                <p id="P3">
+                    <bold>Clinical implications</bold> Negative attitudes and stigma towards psychiatry continue to persist. Teaching and training in psychiatry needs rethinking to improve student experience and recruitment into the specialty.</p>
+            </abstract>
+        </article-meta>
+    </front>
+    <body>
+        <p id="P4">Psychiatry as a career has been negatively regarded and unpopular among medical students. About 3.6% of British graduates decide on a career in psychiatry whereas about 6% are needed.<sup>
+            <xref rid="R1" ref-type="bibr">1</xref>
+        </sup> From 2000 to 2011, the absolute number of consultant psychiatrists in England rose from 2904 to 4394 (an increase of 51%), with similar increases in Scotland and Wales, in line with the expansion of the consultant workforce in most secondary care specialties.<sup>
+        <xref rid="R1" ref-type="bibr">1</xref>
+    </sup> A need for more psychiatric consultant posts has been predicted based on projections of increasing workloads due to the increased population needs.<sup>
+    <xref rid="R2" ref-type="bibr">2</xref>
+</sup> A perceived fall in the proportion of UK medical school graduates choosing a postgraduate career in psychiatry, and low competition ratios for first-year core specialist training (CT1) posts in psychiatry,<sup>
+<xref rid="R3" ref-type="bibr">3</xref>&#x02013;<xref rid="R5" ref-type="bibr">5</xref>
+</sup> has led to many questions about the way in which psychiatry is taught at medical school and how psychiatry could be made as an attractive career option.<sup>
+<xref rid="R6" ref-type="bibr">6</xref>&#x02013;<xref rid="R8" ref-type="bibr">8</xref>
+</sup>
+</p>
+<p id="P5">Low recruitment in psychiatry is a global issue, highlighted in a number of publications.<sup>
+<xref rid="R9" ref-type="bibr">9</xref>,<xref rid="R10" ref-type="bibr">10</xref>
+</sup> However, the problem also has country-specific dimensions, as each country has different factors such as the pay scale for the specialty, medical education system and training programmes, which may attract or dissuade medical students from a career in psychiatry. The subject has not been reviewed systematically especially in the context of recruitment in the UK. The review question was: what are the factors that influence recruitment to psychiatry as a career choice and how can this be improved? The aim of this paper is to systematically review the literature from the UK on psychiatry as a career choice. We are specifically interested in identifying the factors that influence the recruitment into psychiatry with emphasis on barriers and facilitators affecting recruitment. A greater understanding of the views ranging from medical students to trainees and consultants working in the UK may enable curriculum developers and recruitment leads to design programmes that attract students and trainees to psychiatry as a career and improve students' attitudes towards psychiatry in the long term.</p>
+<sec sec-type="methods" id="S1">
+<title>Method</title>
+<p id="P6">We followed the PRISMA statement<sup>
+<xref rid="R11" ref-type="bibr">11</xref>
+</sup> as a guide for conducting the systematic review. The following electronic databases were searched from 1974 onwards: Medline, EMBASE, CINAHL, PsycINFO. These databases were selected in view of the fact that almost all the literature published from the UK would be covered in these databases. Keywords used in the searches included: medical students, trainees, doctors, consultant, attitudes, psychiatry, career, undergraduate psychiatry. Boolean operations and truncations were added to allow for alternative endings in the keyword searches. The search was last updated in August 2016.</p>
+<p id="P7">We included studies that described a UK sample, were published in English in a peer-reviewed journal and provided original data on careers in psychiatry or factors affecting recruitment in psychiatry. We excluded studies that had the primary objective of addressing other issues that were not directly relevant to recruitment in psychiatry but only mentioned their effects on career choice as a secondary effect. Studies which provided data on medical careers in general were included if these provided data relevant to psychiatric careers or recruitment.</p>
+<p id="P8">The electronic search returned 601 relevant abstracts and titles. We screened the titles and abstracts and excluded the studies that were not directly relevant to the objectives of the review. Therefore we excluded the studies that did not describe a UK sample or did not provide the original data. We also excluded the studies that described the recruitment to certain subspecialties and therefore not relevant to the recruitment to psychiatry in general. After screening these titles and abstracts we decided to examine 56 full text papers. Finally, we included 27 papers in the review. Further details are provided in <xref ref-type="fig" rid="F1">Fig. 1</xref>. The studies were conducted in a number of different populations, settings and periods, and also used diverse methodologies varying from surveys to statistics derived from databases. The 30-item Attitudes Towards Psychiatry (ATP-30),<sup>
+<xref rid="R12" ref-type="bibr">12</xref>
+</sup> a validated tool used to assess attitudes of students towards psychiatry, was used in four papers; other papers used different questionnaires to assess attitudes. Due to the diverse methodologies it was inappropriate to pool the data to produce a statistical summary. We therefore describe the main findings and produce a narrative summary of results.</p>
+<fig id="F1" orientation="portrait" position="margin">
+<label>Fig. 1</label>
+<caption>
+<p>Summary of the abstracts reviewed to identify relevant papers. CAMHS, child and adolescent mental health services.</p>
+</caption>
+<graphic xlink:href="346f1" />
+</fig>
+</sec>
+<sec sec-type="results" id="S2">
+<title>Results</title>
+<sec id="S3">
+<title>Characteristics of included studies</title>
+<p id="P9">
+<xref ref-type="table" rid="T1">Table 1</xref> shows the characteristics of the 27 studies included in the review. The majority of studies (<italic>n</italic> = 24) were surveys and questionnaire-based studies. The other studies included one database study of doctors entering training posts and two retrospective cohort studies, which looked at which medical school psychiatrists had attended. These reported on medical students (<italic>n</italic> = 12), trainees (<italic>n</italic> = 10), medical students and trainees (<italic>n</italic> = 1), trainees and consultants (<italic>n</italic> = 1) and consultants (<italic>n</italic> = 3). One of these studies looked at data from postgraduate departments in different medical schools, and one study reported on the database of applicants to MMC (Modernising Medical Careers) for training posts.</p>
+<table-wrap id="T1" orientation="portrait" position="float">
+<label>Table 1</label>
+<caption>
+<p>Study characteristics</p>
+</caption>
+<table frame="hsides" rules="groups">
+<colgroup span="1">
+<col align="left" valign="top" span="1" />
+<col align="left" valign="top" span="1" />
+<col align="left" valign="top" span="1" />
+<col align="left" valign="top" span="1" />
+<col align="left" valign="top" span="1" />
+</colgroup>
+<thead>
+<tr>
+<th valign="bottom" rowspan="1" colspan="1">Author/year</th>
+<th valign="bottom" rowspan="1" colspan="1">Population</th>
+<th valign="bottom" rowspan="1" colspan="1">Method/design</th>
+<th valign="bottom" rowspan="1" colspan="1">Total<break />
+sample, <italic>n</italic>
+</th>
+<th valign="bottom" rowspan="1" colspan="1">M:F ratio, %/<break />
+response rate, %</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">Brook, 1976<sup>
+<xref rid="R19" ref-type="bibr">19</xref>
+</sup>
+</td>
+<td rowspan="1" colspan="1">Medical school of origin<break />
+for psychiatrists</td>
+<td rowspan="1" colspan="1">Retrospective cohort</td>
+<td rowspan="1" colspan="1">531</td>
+<td rowspan="1" colspan="1">No data provided</td>
+</tr>
+<tr>
+<td colspan="5" rowspan="1">
+<hr />
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">Brook, 1983<sup>
+<xref rid="R21" ref-type="bibr">21</xref>
+</sup>
+</td>
+<td rowspan="1" colspan="1">Medical school of origin<break />
+for psychiatrists</td>
+<td rowspan="1" colspan="1">Retrospective cohort</td>
+<td rowspan="1" colspan="1">1229</td>
+<td rowspan="1" colspan="1">No data provided</td>
+</tr>
+<tr>
+<td colspan="5" rowspan="1">
+<hr />
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">Levine <italic>et al</italic>, 1983<sup>
+<xref rid="R24" ref-type="bibr">24</xref>
+</sup>
+</td>
+<td rowspan="1" colspan="1">Medical students</td>
+<td rowspan="1" colspan="1">Survey</td>
+<td rowspan="1" colspan="1">30</td>
+<td rowspan="1" colspan="1">No M:F data/100</td>
+</tr>
+<tr>
+<td colspan="5" rowspan="1">
+<hr />
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">Brook <italic>et al</italic>, 1986<sup>
+<xref rid="R20" ref-type="bibr">20</xref>
+</sup>
+</td>
+<td rowspan="1" colspan="1">Medical students</td>
+<td rowspan="1" colspan="1">Survey</td>
+<td rowspan="1" colspan="1">498</td>
+<td rowspan="1" colspan="1">64:36/40</td>
+</tr>
+<tr>
+<td colspan="5" rowspan="1">
+<hr />
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">Calvert <italic>et al</italic>, 1999<sup>
+<xref rid="R33" ref-type="bibr">33</xref>
+</sup>
+</td>
+<td rowspan="1" colspan="1">Medical students</td>
+<td rowspan="1" colspan="1">Survey</td>
+<td rowspan="1" colspan="1">392</td>
+<td rowspan="1" colspan="1">M:F, no significant<break />
+difference/70</td>
+</tr>
+<tr>
+<td colspan="5" rowspan="1">
+<hr />
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">Mcparland <italic>et al</italic>, 2003<sup>
+<xref rid="R30" ref-type="bibr">30</xref>
+</sup>
+</td>
+<td rowspan="1" colspan="1">Medical students</td>
+<td rowspan="1" colspan="1">Cohort study &#x02013; survey</td>
+<td rowspan="1" colspan="1">379</td>
+<td rowspan="1" colspan="1">54:46/84</td>
+</tr>
+<tr>
+<td colspan="5" rowspan="1">
+<hr />
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">Maidment <italic>et al</italic>, 2003<sup>
+<xref rid="R31" ref-type="bibr">31</xref>
+</sup>
+</td>
+<td rowspan="1" colspan="1">Medical students</td>
+<td rowspan="1" colspan="1">Survey</td>
+<td rowspan="1" colspan="1">837</td>
+<td rowspan="1" colspan="1">33.6:66.4/99.6</td>
+</tr>
+<tr>
+<td colspan="5" rowspan="1">
+<hr />
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">Petrides &#x00026; McManus,<break />
+2004<sup>
+<xref rid="R23" ref-type="bibr">23</xref>
+</sup>
+</td>
+<td rowspan="1" colspan="1">Medical students</td>
+<td rowspan="1" colspan="1">Cohort study &#x02013; survey</td>
+<td rowspan="1" colspan="1">8283</td>
+<td rowspan="1" colspan="1">Only descriptive data<break />
+provided in this paper</td>
+</tr>
+<tr>
+<td colspan="5" rowspan="1">
+<hr />
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">Rajagopal <italic>et al</italic>, 2004<sup>
+<xref rid="R35" ref-type="bibr">35</xref>
+</sup>
+</td>
+<td rowspan="1" colspan="1">Medical students</td>
+<td rowspan="1" colspan="1">Survey</td>
+<td rowspan="1" colspan="1">301</td>
+<td rowspan="1" colspan="1">31.9:68.1/52</td>
+</tr>
+<tr>
+<td colspan="5" rowspan="1">
+<hr />
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">Curtis-Barton &#x00026; Eagles, 2011<sup>
+<xref rid="R25" ref-type="bibr">25</xref>
+</sup>
+</td>
+<td rowspan="1" colspan="1">Medical students</td>
+<td rowspan="1" colspan="1">Survey</td>
+<td rowspan="1" colspan="1">467</td>
+<td rowspan="1" colspan="1">44:64/51</td>
+</tr>
+<tr>
+<td colspan="5" rowspan="1">
+<hr />
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">Budd <italic>et al</italic>, 2011<sup>
+<xref rid="R26" ref-type="bibr">26</xref>
+</sup>
+</td>
+<td rowspan="1" colspan="1">Medical students at 4<break />
+different medical schools</td>
+<td rowspan="1" colspan="1">Survey</td>
+<td rowspan="1" colspan="1">905</td>
+<td rowspan="1" colspan="1">36:64/Not provided<break />
+clearly reported range<break />
+50&#x02013;85% depending on<break />
+medical school</td>
+</tr>
+<tr>
+<td colspan="5" rowspan="1">
+<hr />
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">Archdall <italic>et al</italic>, 2013<sup>
+<xref rid="R34" ref-type="bibr">34</xref>
+</sup>
+</td>
+<td rowspan="1" colspan="1">Medical students</td>
+<td rowspan="1" colspan="1">Survey</td>
+<td rowspan="1" colspan="1">15</td>
+<td rowspan="1" colspan="1">30:70/100</td>
+</tr>
+<tr>
+<td colspan="5" rowspan="1">
+<hr />
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">Halder <italic>et al</italic>, 2013<sup>
+<xref rid="R28" ref-type="bibr">28</xref>
+</sup>
+</td>
+<td rowspan="1" colspan="1">Medical students &#x02013;<break />
+18 UK medical schools</td>
+<td rowspan="1" colspan="1">Survey</td>
+<td rowspan="1" colspan="1">484</td>
+<td rowspan="1" colspan="1">34:66/None</td>
+</tr>
+<tr>
+<td colspan="5" rowspan="1">
+<hr />
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">Farooq <italic>et al</italic>, 2014<sup>
+<xref rid="R27" ref-type="bibr">27</xref>
+</sup>
+</td>
+<td rowspan="1" colspan="1">Medical students<break />
+(only UK data used)</td>
+<td rowspan="1" colspan="1">Survey</td>
+<td rowspan="1" colspan="1">291</td>
+<td rowspan="1" colspan="1">Males 37:63/16</td>
+</tr>
+<tr>
+<td colspan="5" rowspan="1">
+<hr />
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">Maidment <italic>et al</italic>, 2004<sup>
+<xref rid="R31" ref-type="bibr">31</xref>
+</sup>
+</td>
+<td rowspan="1" colspan="1">Trainee doctors</td>
+<td rowspan="1" colspan="1">Survey</td>
+<td rowspan="1" colspan="1">234</td>
+<td rowspan="1" colspan="1">52.1:47.9/67.4</td>
+</tr>
+<tr>
+<td colspan="5" rowspan="1">
+<hr />
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">Goldacre <italic>et al</italic>, 2005<sup>
+<xref rid="R14" ref-type="bibr">14</xref>
+</sup>
+</td>
+<td rowspan="1" colspan="1">Trainee doctors<break />
+(graduates from 1974 to<break />
+2000, UK medical schools)</td>
+<td rowspan="1" colspan="1">Survey</td>
+<td rowspan="1" colspan="1">21 845 year 1<break />
+17 741 year 3</td>
+<td rowspan="1" colspan="1">Year 1 55:45/75<break />
+Year 3 56:44/74</td>
+</tr>
+<tr>
+<td colspan="5" rowspan="1">
+<hr />
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">Lambert <italic>et al</italic>, 2006<sup>
+<xref rid="R15" ref-type="bibr">15</xref>
+</sup>
+</td>
+<td rowspan="1" colspan="1">Trainee doctors</td>
+<td rowspan="1" colspan="1">Survey</td>
+<td rowspan="1" colspan="1">572</td>
+<td rowspan="1" colspan="1">No M:F data/74</td>
+</tr>
+<tr>
+<td colspan="5" rowspan="1">
+<hr />
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">Fazel <italic>et al</italic>, 2009<sup>
+<xref rid="R13" ref-type="bibr">13</xref>
+</sup>
+</td>
+<td rowspan="1" colspan="1">Trainee doctors<break />
+(all applicants to MMC for<break />
+training posts)</td>
+<td rowspan="1" colspan="1">Database analysis</td>
+<td rowspan="1" colspan="1">31 434</td>
+<td rowspan="1" colspan="1">No M:F data</td>
+</tr>
+<tr>
+<td colspan="5" rowspan="1">
+<hr />
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">Barras &#x00026; Harris, 2012<sup>
+<xref rid="R38" ref-type="bibr">38</xref>
+</sup>
+</td>
+<td rowspan="1" colspan="1">Trainee doctors</td>
+<td rowspan="1" colspan="1">Survey</td>
+<td rowspan="1" colspan="1">359</td>
+<td rowspan="1" colspan="1">52.2:47.8/16.1</td>
+</tr>
+<tr>
+<td colspan="5" rowspan="1">
+<hr />
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">Goldacre <italic>et al</italic>, 2012<sup>
+<xref rid="R16" ref-type="bibr">16</xref>
+</sup>
+</td>
+<td rowspan="1" colspan="1">Trainee doctors who had<break />
+qualified in 2002, 2005,<break />
+2008</td>
+<td rowspan="1" colspan="1">Survey</td>
+<td rowspan="1" colspan="1">9155</td>
+<td rowspan="1" colspan="1">37:63/56</td>
+</tr>
+<tr>
+<td colspan="5" rowspan="1">
+<hr />
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">Goldacre <italic>et al</italic>, 2013<sup>
+<xref rid="R17" ref-type="bibr">17</xref>
+</sup>
+</td>
+<td rowspan="1" colspan="1">Trainee doctors who<break />
+qualified between 1974<break />
+and 2009</td>
+<td rowspan="1" colspan="1">Survey</td>
+<td rowspan="1" colspan="1">33 974</td>
+<td rowspan="1" colspan="1">Year 1 49:51/65.9<break />
+Year 3 51:49/68.6<break />
+Year 5 52:48/69.5</td>
+</tr>
+<tr>
+<td colspan="5" rowspan="1">
+<hr />
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">Svirko <italic>et al</italic>, 2013<sup>
+<xref rid="R18" ref-type="bibr">18</xref>
+</sup>
+</td>
+<td rowspan="1" colspan="1">Trainee doctors who qualified<break />
+2005, 2008, 2009</td>
+<td rowspan="1" colspan="1">Survey</td>
+<td rowspan="1" colspan="1">9348</td>
+<td rowspan="1" colspan="1">46.9:55.8/52.2</td>
+</tr>
+<tr>
+<td colspan="5" rowspan="1">
+<hr />
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">Collier &#x00026; Moreton, 2013<sup>
+<xref rid="R22" ref-type="bibr">22</xref>
+</sup>
+</td>
+<td rowspan="1" colspan="1">Hospital postgraduate<break />
+departments of 19 medical<break />
+schools</td>
+<td rowspan="1" colspan="1">Survey</td>
+<td rowspan="1" colspan="1">19 medical<break />
+schools</td>
+<td rowspan="1" colspan="1">No M:F data/70</td>
+</tr>
+<tr>
+<td colspan="5" rowspan="1">
+<hr />
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">Woolf <italic>et al</italic>, 2015<sup>
+<xref rid="R37" ref-type="bibr">37</xref>
+</sup>
+</td>
+<td rowspan="1" colspan="1">Medical students and<break />
+trainee doctors</td>
+<td rowspan="1" colspan="1">Cohort study &#x02013; survey</td>
+<td rowspan="1" colspan="1">105</td>
+<td rowspan="1" colspan="1">34:66/50</td>
+</tr>
+<tr>
+<td colspan="5" rowspan="1">
+<hr />
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">Korszun <italic>et al</italic>, 2011<sup>
+<xref rid="R36" ref-type="bibr">36</xref>
+</sup>
+</td>
+<td rowspan="1" colspan="1">Trainee doctors, academics,<break />
+trust clinicians</td>
+<td rowspan="1" colspan="1">Survey</td>
+<td rowspan="1" colspan="1">309</td>
+<td rowspan="1" colspan="1">61.5:38.5/None</td>
+</tr>
+<tr>
+<td colspan="5" rowspan="1">
+<hr />
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">Dein <italic>et al</italic>, 2007<sup>
+<xref rid="R39" ref-type="bibr">39</xref>
+</sup>
+</td>
+<td rowspan="1" colspan="1">Consultants</td>
+<td rowspan="1" colspan="1">Survey</td>
+<td rowspan="1" colspan="1">72</td>
+<td rowspan="1" colspan="1">68:32/82.7</td>
+</tr>
+<tr>
+<td colspan="5" rowspan="1">
+<hr />
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">Denman <italic>et al</italic>, 2016<sup>
+<xref rid="R32" ref-type="bibr">32</xref>
+</sup>
+</td>
+<td rowspan="1" colspan="1">Consultants and trainees</td>
+<td rowspan="1" colspan="1">Survey</td>
+<td rowspan="1" colspan="1">Consultants: 47<break />
+Trainees: 51</td>
+<td rowspan="1" colspan="1">55:45/41.7<break />
+(consultants 42%,<break />
+trainees 41%)</td>
+</tr>
+</tbody>
+</table>
+<table-wrap-foot>
+<fn id="TFN1">
+<p>M, male; F, female; MMC, Modernising Medical Careers.</p>
+</fn>
+<fn id="TFN2">
+<label>a.</label>
+<p>Data not used from this paper just broad findings in review.</p>
+</fn>
+</table-wrap-foot>
+</table-wrap>
+<p id="P10">In survey-based studies response rates varied from 16% to 100%. Mean response rate from the papers which had figures available (<italic>n</italic> = 20) was 63.3%. The population in all studies comprised of 1879 psychiatrists, 6733 students and 220 746 trainees. One database study<sup>
+<xref rid="R13" ref-type="bibr">13</xref>
+</sup> looked at 31 434 trainee doctors, and studies by Goldacre <italic>et al</italic> were aimed at all doctors in training, accounting for large numbers of respondents in the trainee subcategory.<sup>
+<xref rid="R14" ref-type="bibr">14</xref>&#x02013;<xref rid="R18" ref-type="bibr">18</xref>
+</sup>
+</p>
+</sec>
+<sec id="S4">
+<title>The influence of the medical school and teaching practices</title>
+<p id="P11">Most of the research addressing the influence of the medical school and teaching practices on selecting psychiatry as a career was carried out in the 1970's and 1980's. Two studies by Brook <italic>et al</italic>
+<sup>
+<xref rid="R19" ref-type="bibr">19</xref>,<xref rid="R20" ref-type="bibr">20</xref>
+</sup> looked at the medical school of origin for 531 psychiatrists between 1961 and 1970 and reported no significant relationship between schools that had a professional unit or specific teaching programme and students pursuing psychiatry in the long term. However, it was noted that those schools that produced fewer psychiatrists tended to have either a recently established professional unit or none.<sup>
+<xref rid="R19" ref-type="bibr">19</xref>
+</sup>
+</p>
+<p id="P12">No clear pattern emerged in terms of the type of teaching offered at each university and the impact this had on choice of psychiatry as a career in the long term.<sup>
+<xref rid="R19" ref-type="bibr">19</xref>
+</sup> All four Scottish schools, and Cambridge and Oxford were noted to be higher in terms of producing psychiatrists, attributed possibly to the well-established professional units such as the Maudsley and Bethlem Royal hospitals.<sup>
+<xref rid="R19" ref-type="bibr">19</xref>
+</sup> The personality, charisma and enthusiasm of teachers were associated with an increase in the uptake of psychiatry in the long term.<sup>
+<xref rid="R19" ref-type="bibr">19</xref>,<xref rid="R21" ref-type="bibr">21</xref>
+</sup>
+</p>
+<p id="P13">Brook <italic>et al</italic>
+<sup>
+<xref rid="R21" ref-type="bibr">21</xref>
+</sup> found that the effectiveness of teaching rather that the amount of teaching had an effect on student attitudes and recruitment into psychiatry The attitude of non-psychiatric teachers appeared to be influential with doctors experiencing negative attitudes of other doctors towards psychiatry.<sup>
+<xref rid="R21" ref-type="bibr">21</xref>
+</sup> The two hospitals which ranked top in terms of producing psychiatrists had changed their teaching model. One stressed the importance of psychiatry as being part of general medicine, emphasising the effectiveness of physical therapy, whereas the other placed emphasis on liaison psychiatry and psychotherapy.<sup>
+<xref rid="R21" ref-type="bibr">21</xref>
+</sup>
+</p>
+<p id="P14">More recent work by Collier <italic>et al</italic>
+<sup>
+<xref rid="R22" ref-type="bibr">22</xref>
+</sup> looked into the teaching time allocated for psychiatry in foundation programmes across the country. They found that only 2.3% of teaching was dedicated to psychiatry compared with 44.1% to medical and surgical topics.<sup>
+<xref rid="R22" ref-type="bibr">22</xref>
+</sup> Exposure to psychiatry remained limited with 4 out of 17 hospitals in the survey not having any teaching on psychiatry for medical students.<sup>
+<xref rid="R22" ref-type="bibr">22</xref>
+</sup> Doctors generally led a higher proportion of medicine and surgery teaching sessions (63%) compared with psychiatry (48%).<sup>
+<xref rid="R22" ref-type="bibr">22</xref>
+</sup>
+</p>
+</sec>
+<sec id="S5">
+<title>Medical students' views of psychiatry and factors affecting career choice</title>
+<p id="P15">Twelve studies examined the factors affecting medical students' career choice and one study looked at both medical students and trainees. Petrides <italic>et al</italic>
+<sup>
+<xref rid="R23" ref-type="bibr">23</xref>
+</sup> studied the theoretical understanding of how different medical specialties are perceived and how choices are made. Psychiatrists were found to have a more artistic approach to medicine, seeing interpreting and responding imaginatively to a range of medical, social, ethical and other problems. This is in keeping with early work by Levine <italic>et al</italic>
+<sup>
+<xref rid="R24" ref-type="bibr">24</xref>
+</sup> who also found that there was a group of students who were &#x02018;psychologically minded&#x02019; and they could be identified and encouraged to make psychiatry as career choice.</p>
+<p id="P16">Budd <italic>et al</italic>
+<sup>
+<xref rid="R26" ref-type="bibr">26</xref>
+</sup> found that job satisfaction (98%, <italic>n</italic> = 128) and family-friendly status of psychiatry (79%, <italic>n</italic> = 103) were important for students who rated psychiatry as one of their top three choices.<sup>
+<xref rid="R26" ref-type="bibr">26</xref>
+</sup> The academic status was significantly less important (48%) for students who placed psychiatry as their top three specialty schools <italic>v.</italic> 63% for those who did not place psychiatry in their top three choice.<sup>
+<xref rid="R26" ref-type="bibr">26</xref>
+</sup>
+</p>
+</sec>
+<sec id="S6">
+<title>Choice of psychiatry as a career among medical and sixth form students</title>
+<p id="P17">The number of students choosing psychiatry has remained fairly stable at around 4&#x02013;7%.<sup>
+<xref rid="R25" ref-type="bibr">25</xref>&#x02013;<xref rid="R27" ref-type="bibr">27</xref>
+</sup> Three per cent of students from six medical schools placed psychiatry as their first choice, with 18% seriously considering it.<sup>
+<xref rid="R20" ref-type="bibr">20</xref>
+</sup> Halder <italic>et al</italic>
+<sup>
+<xref rid="R28" ref-type="bibr">28</xref>
+</sup> found similar results in 18 medical schools; 16% chose psychiatry as a future career on entering medical school but by the final year only 3% had decided to pursue a career in the subject. These results were replicated by Farooq <italic>et al</italic>
+<sup>
+<xref rid="R27" ref-type="bibr">27</xref>
+</sup> In a survey of sixth form students, Maidment <italic>et al</italic>
+<sup>
+<xref rid="R29" ref-type="bibr">29</xref>
+</sup> reported that 60.9% (<italic>n</italic> = 363) indicated that it would be very likely or they would definitely want to pursue psychiatry as a career. In terms of overall intentions to pursue a career in a specialty, the ratings for psychiatry was similar to general medicine at 12.4% (<italic>n</italic> = 72) <italic>v.</italic> 12.2% (<italic>n</italic> = 69) respectively.<sup>
+<xref rid="R29" ref-type="bibr">29</xref>
+</sup>
+</p>
+</sec>
+<sec id="S7">
+<title>Effect of undergraduate attachment and education on choosing psychiatry as a career</title>
+<p id="P18">Positive attitudes towards psychiatry and the influence by a teacher during the attachment correlated with an intention to purse psychiatry as a career in the long term.<sup>
+<xref rid="R29" ref-type="bibr">29</xref>&#x02013;<xref rid="R31" ref-type="bibr">31</xref>
+</sup> Three studies highlighted the importance of psychiatric attachment. Student attitudes improved as the attachment progressed.<sup>
+<xref rid="R26" ref-type="bibr">26</xref>,<xref rid="R30" ref-type="bibr">30</xref>,<xref rid="R31" ref-type="bibr">31</xref>
+</sup> Maidment <italic>et al</italic>
+<sup>
+<xref rid="R29" ref-type="bibr">29</xref>
+</sup> found 1.4% of fourth-year medical students expressed a definite intention to pursue which rose to 4.7% after their attachment.<sup>
+<xref rid="R29" ref-type="bibr">29</xref>
+</sup> McParland <italic>et al</italic>
+<sup>
+<xref rid="R30" ref-type="bibr">30</xref>
+</sup> reported that 19% (<italic>n</italic> = 58/309) of students were very attracted to psychiatry or had a definite intention to pursue psychiatry at the start of the placement, which increased to 27% (<italic>n</italic> = 101/373) of students at the end of the attachment. The importance of the undergraduate experience was highlighted by a recent study showing 50% of consultants and 37% of trainees surveyed decided on a career in psychiatry while still at medical school.<sup>
+<xref rid="R32" ref-type="bibr">32</xref>
+</sup>
+</p>
+<p id="P19">Calvert <italic>et al</italic>
+<sup>
+<xref rid="R33" ref-type="bibr">33</xref>
+</sup> looked into the attitudes of medical students towards psychiatry and psychiatric patients at year 1, 3 and 5 in medical school. First-year medical students were more likely to have stereotypical views compared with third- and fifth-year students, and were more likely to agree with statements such as &#x02018;Psychiatry deals with imaginary illness&#x02019; (mean 1.4, s.d. = 0.9, <italic>P</italic> &#x0003c; 0.5).<sup>
+<xref rid="R33" ref-type="bibr">33</xref>
+</sup> Fifth-year students (mean 3.2, s.d. = 1.4) showed lower agreement than third-year medical students (mean 3.6, s.d. = 1.2, <italic>P</italic> &#x0003c; 0.5) with the statement &#x02018;Psychiatry is as a challenging career&#x02019;.<sup>
+<xref rid="R33" ref-type="bibr">33</xref>
+</sup> As they progressed through medical school, students recognised that mental illness has serious morbidity and that people do recover from mental illness,<sup>
+<xref rid="R33" ref-type="bibr">33</xref>
+</sup> showing that attitudes towards psychiatric patients improved with greater clinical experience but possibly became more negative towards psychiatry as a career.</p>
+<p id="P20">Other factors that appeared to affect students positively included enrichment activities, i.e. activities beyond standard teaching and clinical placements led to a significantly increased interest in psychiatry.<sup>
+<xref rid="R28" ref-type="bibr">28</xref>
+</sup> These included research experience in psychiatry (13% <italic>v.</italic> 4% in those not interested in psychiatry, <italic>P</italic> = 0.001), university psychiatry clubs (38% <italic>v.</italic> 11%, <italic>P</italic> &#x0003c; 0.001), psychiatry electives (14% <italic>v.</italic> 1%, <italic>P</italic> &#x0003c; 0.001) and psychiatry special study modules (38% <italic>v.</italic> 16%, <italic>P</italic> &#x0003c; 0.001).<sup>
+<xref rid="R28" ref-type="bibr">28</xref>
+</sup>
+</p>
+<p id="P21">McParland <italic>et al</italic>
+<sup>
+<xref rid="R30" ref-type="bibr">30</xref>
+</sup> identified factors which increased interest in psychiatry, including: influence or encouragement by someone during the attachment (74%, <italic>n</italic> = 282), particularly the influence by consultants (43%, <italic>n</italic> = 163), exposure to interesting and stimulating ideas (29%, <italic>n</italic> = 110), liking someone's approach (27%, <italic>n</italic> = 103), feeling someone believed in their ability (11%, <italic>n</italic> = 41) and having formed close working relationships (9%, <italic>n</italic> = 33).<sup>
+<xref rid="R30" ref-type="bibr">30</xref>
+</sup> Other factors that had a significant impact were: receiving encouragement from the consultants (<italic>n</italic> = 374, <italic>P</italic> &#x0003c; 0.001, <italic>r</italic> = 0.26), seeing patients respond to treatment (<italic>n</italic> = 374, <italic>P</italic> &#x0003c; 0.001, <italic>r</italic> = 0.20) and having a direct role in the involvement of patient care (<italic>n</italic> = 374, <italic>P</italic> &#x0003c; 0.001, <italic>r</italic> = 0.26).<sup>
+<xref rid="R30" ref-type="bibr">30</xref>
+</sup>
+</p>
+</sec>
+<sec id="S8">
+<title>Factors which did not affect career choice of medical students</title>
+<p id="P22">Seeing patients in different settings or different phases of the illness had no effect on career choice of medical students when deciding their career intentions.<sup>
+<xref rid="R28" ref-type="bibr">28</xref>
+</sup> Interestingly, one study found that the earning potential and status of psychiatry had no effect on selecting psychiatry as a career choice.<sup>
+<xref rid="R26" ref-type="bibr">26</xref>
+</sup> Other factors related to teaching such as quality of rating of small group teaching and lectures,<sup>
+<xref rid="R28" ref-type="bibr">28</xref>
+</sup> the curriculum type used<sup>
+<xref rid="R30" ref-type="bibr">30</xref>,<xref rid="R31" ref-type="bibr">31</xref>
+</sup> and performance at viva examinations and multiple choice questions also had no effect on the career choice.<sup>
+<xref rid="R31" ref-type="bibr">31</xref>
+</sup>
+</p>
+</sec>
+<sec id="S9">
+<title>Factors discouraging medical students to choose psychiatry as a career</title>
+<p id="P23">Curtis-Barton <italic>et al</italic>
+<sup>
+<xref rid="R25" ref-type="bibr">25</xref>
+</sup> in their survey (<italic>n</italic> = 467) found that the factors discouraging students to pursue a career in psychiatry included: prognosis of patients (62%), perception that there is a lack of evidence in diagnosis (51%), lack of scientific basis (53%) and the amount of bureaucracy and paperwork in the specialty (48%). Other discouraging factors included the stigma towards psychiatry (30%), the standing of the profession among medical colleagues (31%) and comments by other specialists (26%).<sup>
+<xref rid="R25" ref-type="bibr">25</xref>,<xref rid="R34" ref-type="bibr">34</xref>
+</sup> Psychiatry scored the lowest among the specialties as a career choice. Students described psychiatry as boring, unscientific, depressing, stressful, frustrating and &#x02018;not enjoying the rotation&#x02019;.<sup>
+<xref rid="R35" ref-type="bibr">35</xref>
+</sup>
+</p>
+<p id="P24">Many students experienced psychiatry as being different to other specialties. For some this was a reason not to pursue psychiatry as a career but for others it was a positive aspect of the specialty Students felt ward rounds focused on &#x02018;social issues&#x02019; rather than medical conditions. Some found it an &#x02018;emotional burden&#x02019; and others felt that psychiatry could not &#x02018;fix&#x02019; people and no one is being cured.<sup>
+<xref rid="R34" ref-type="bibr">34</xref>
+</sup>
+</p>
+<p id="P25">A survey by Korszun <italic>et al</italic>
+<sup>
+<xref rid="R36" ref-type="bibr">36</xref>
+</sup> examined the views of trainee, academics and clinicians on students not taking up psychiatry. The following factors were identified as deterring the students from psychiatry: negative attitudes towards psychiatrists from other doctors and health professionals (57%), stigmatisation of psychiatry (40%), stigma associated with mental health disorders (39%), poor teaching and role modelling from psychiatrists (37%), psychiatry not seen as medical or scientific enough (26%) and poor morale among psychiatrists (26%).<sup>
+<xref rid="R36" ref-type="bibr">36</xref>
+</sup>
+</p>
+</sec>
+<sec id="S10">
+<title>Factors affecting trainees' and consultants' choice of psychiatry</title>
+<p id="P26">Fazel <italic>et al</italic>
+<sup>
+<xref rid="R13" ref-type="bibr">13</xref>
+</sup> found that psychiatry was the sixth most popular specialty out of ten specialty groups for trainees applying for training places. A higher proportion of female graduates were shown to choose psychiatry between 1974 (32%) and 1999 (59%).<sup>
+<xref rid="R13" ref-type="bibr">13</xref>
+</sup> However, a more recent survey showed a slight decline in the number of women choosing psychiatry over the last decade, 4.9% (1999) <italic>v.</italic> 4.6 % (2009).<sup>
+<xref rid="R17" ref-type="bibr">17</xref>
+</sup>
+</p>
+<p id="P27">Goldacre <italic>et al</italic>
+<sup>
+<xref rid="R14" ref-type="bibr">14</xref>
+</sup> examined career choices for medical students over the past 40 years. The number of doctors choosing psychiatry as a career has hardly changed and remains around 4&#x02013;5%, which is similar to figures from 1975.<sup>
+<xref rid="R14" ref-type="bibr">14</xref>
+</sup> It was noted that students who went on to work in psychiatry 10 years after graduation, 52% (224 out of 428) had chosen psychiatry in the first year after graduation and 71% (308 out of 434) had chosen it in year 3.<sup>
+<xref rid="R14" ref-type="bibr">14</xref>
+</sup>
+</p>
+<p id="P28">In common with the factors attracting students towards psychiatry, numerous studies identified factors that appear to attract trainees towards psychiatry The major attractions for choosing psychiatry are listed in <xref ref-type="boxed-text" rid="box1">Box 1</xref>. Denman <italic>et al</italic>
+<sup>
+<xref rid="R32" ref-type="bibr">32</xref>
+</sup> found that the most common factor influencing core trainees' (60%) and consultants' (70%) decisions to specialise in psychiatry was emphasis on the patient as a whole.<sup>
+<xref rid="R32" ref-type="bibr">32</xref>
+</sup> Trainees highlighted that mental health was an area of need (53%) and empathy and concerns for people with mental illness (53%) were important reasons for choosing psychiatry.<sup>
+<xref rid="R32" ref-type="bibr">32</xref>
+</sup>
+</p>
+<boxed-text id="box1" position="float" orientation="portrait">
+<p id="P29">
+<bold>Box 1</bold> Factors attracting medical students and trainees in pursuing psychiatry as a career</p>
+<sec id="S11">
+<title>Medical students</title>
+<list list-type="bullet">
+<list-item>
+<p id="P30">Encouragement by colleagues<sup>
+<xref rid="R24" ref-type="bibr">24</xref>,<xref rid="R26" ref-type="bibr">26</xref>,<xref rid="R30" ref-type="bibr">30</xref>,<xref rid="R31" ref-type="bibr">31</xref>
+</sup>
+</p>
+</list-item>
+<list-item>
+<p id="P31">Influence by someone during the placement<sup>
+<xref rid="R24" ref-type="bibr">24</xref>,<xref rid="R30" ref-type="bibr">30</xref>
+</sup>
+</p>
+</list-item>
+<list-item>
+<p id="P32">Females are more likely to favour a career in psychiatry<sup>
+<xref rid="R24" ref-type="bibr">24</xref>,<xref rid="R27" ref-type="bibr">27</xref>,<xref rid="R30" ref-type="bibr">30</xref>
+</sup>
+</p>
+</list-item>
+<list-item>
+<p id="P33">Family history of mental illness was associated with choosing psychiatry<sup>
+<xref rid="R24" ref-type="bibr">24</xref>
+</sup>
+</p>
+</list-item>
+<list-item>
+<p id="P34">Quality of experience<sup>
+<xref rid="R26" ref-type="bibr">26</xref>,<xref rid="R27" ref-type="bibr">27</xref>,<xref rid="R30" ref-type="bibr">30</xref>,<xref rid="R33" ref-type="bibr">33</xref>
+</sup>
+</p>
+</list-item>
+<list-item>
+<p id="P35">Role models can have a positive impact on students pursuing a career in psychiatry<sup>
+<xref rid="R28" ref-type="bibr">28</xref>,<xref rid="R30" ref-type="bibr">30</xref>,<xref rid="R33" ref-type="bibr">33</xref>
+</sup>
+</p>
+</list-item>
+<list-item>
+<p id="P36">Enrichment activities<sup>
+<xref rid="R27" ref-type="bibr">27</xref>,<xref rid="R28" ref-type="bibr">28</xref>
+</sup>
+</p>
+</list-item>
+</list>
+</sec>
+<sec id="S12">
+<title>Trainees</title>
+<list list-type="bullet">
+<list-item>
+<p id="P37">Hours and conditions of work<sup>
+<xref rid="R17" ref-type="bibr">17</xref>,<xref rid="R31" ref-type="bibr">31</xref>,<xref rid="R32" ref-type="bibr">32</xref>
+</sup>
+</p>
+</list-item>
+<list-item>
+<p id="P38">The doctor's personal assessment of their aptitudes and skills,<sup>
+<xref rid="R17" ref-type="bibr">17</xref>,<xref rid="R31" ref-type="bibr">31</xref>,<xref rid="R32" ref-type="bibr">32</xref>
+</sup> for example recognising factors such as using one's intellect to help others<sup>
+<xref rid="R37" ref-type="bibr">37</xref>
+</sup>
+</p>
+</list-item>
+<list-item>
+<p id="P39">Experience of the subject as a student<sup>
+<xref rid="R17" ref-type="bibr">17</xref>,<xref rid="R31" ref-type="bibr">31</xref>
+</sup>
+</p>
+</list-item>
+<list-item>
+<p id="P40">Inclinations before medical school and a positive student experience<sup>
+<xref rid="R17" ref-type="bibr">17</xref>,<xref rid="R37" ref-type="bibr">37</xref>
+</sup>
+</p>
+</list-item>
+<list-item>
+<p id="P41">Attitudes and inclination to psychiatry as a medical student<sup>
+<xref rid="R24" ref-type="bibr">24</xref>,<xref rid="R31" ref-type="bibr">31</xref>,<xref rid="R37" ref-type="bibr">37</xref>
+</sup>
+</p>
+</list-item>
+<list-item>
+<p id="P42">Lifestyle factors<sup>
+<xref rid="R32" ref-type="bibr">32</xref>,<xref rid="R37" ref-type="bibr">37</xref>
+</sup>
+</p>
+</list-item>
+<list-item>
+<p id="P43">Encouragement from consultants and senior doctors<sup>
+<xref rid="R31" ref-type="bibr">31</xref>
+</sup>
+</p>
+</list-item>
+<list-item>
+<p id="P44">Emphasis on the patient as a whole person and empathy/concern for mentally ill people<sup>
+<xref rid="R32" ref-type="bibr">32</xref>
+</sup>
+</p>
+</list-item>
+</list>
+</sec>
+</boxed-text>
+</sec>
+<sec id="S13">
+<title>Barriers associated with not choosing psychiatry as a long-term career choice for trainees</title>
+<p id="P45">Barras &#x00026; Harris<sup>
+<xref rid="R38" ref-type="bibr">38</xref>
+</sup> explored trainee's experiences (<italic>n</italic> = 359) within psychiatry. Trainee attitudes were grouped into different categories. The attitudes towards psychiatry (12.6%), professional role (12%) and day-to-day working (11.3%) were identified as the main negative factors. Trainees raised concerns with the training programmes in psychiatry, such as problems with the rota and not having enough time with patients.<sup>
+<xref rid="R38" ref-type="bibr">38</xref>
+</sup> Many trainees felt frustrated with the Annual Review of Competence Progression (ARCP) process and workplace-based assessments, as well as the duplication of paperwork being a constant frustration.<sup>
+<xref rid="R38" ref-type="bibr">38</xref>
+</sup>
+</p>
+<p id="P46">The studies identified a number of barriers against choosing psychiatry as a career (<xref ref-type="boxed-text" rid="box2">Box 2</xref>).
+</p>
+<p id="P47">Trainees felt improvements were needed in terms of training opportunities and felt this could be enhanced by providing a variety of jobs, increasing research opportunities and increasing medical aspects of training.<sup>
+<xref rid="R38" ref-type="bibr">38</xref>
+</sup>
+</p>
+<p id="P48">Work looking into consultant psychiatrists' views into why they chose psychiatry was limited to two papers.<sup>
+<xref rid="R32" ref-type="bibr">32</xref>,<xref rid="R39" ref-type="bibr">39</xref>
+</sup> Dein <italic>et al</italic>
+<sup>
+<xref rid="R39" ref-type="bibr">39</xref>
+</sup> found that the majority of consultants (46%) chose psychiatry as a career soon after leaving medical school, and a recent study surveying consultants in the West Midlands found that 50% had made their choice by graduation from medical school.<sup>
+<xref rid="R32" ref-type="bibr">32</xref>
+</sup> The main reasons cited by consultants for choosing psychiatry as a career included: empathy for those with a mental disorder (36.1%), interface with neuroscience (25%), expectation of better working conditions in psychiatry (20%) and influence of teaching at medical school (19.4%).<sup>
+<xref rid="R39" ref-type="bibr">39</xref>
+</sup> Denman <italic>et al</italic>
+<sup>
+<xref rid="R32" ref-type="bibr">32</xref>
+</sup> highlighted several &#x02018;very important&#x02019; reasons for consultants choosing psychiatry including: career in psychiatry would be intellectually challenging (60%), sense of fulfilment expected from seeing patients improve (47%) and enjoyment of problem-solving (47%). Lifestyle factors such as salary, better working conditions and quality of life were shown to be more important reasons for choosing psychiatry for trainees compared with consultants.<sup>
+<xref rid="R32" ref-type="bibr">32</xref>
+</sup>
+</p>
+<boxed-text id="box2" position="float" orientation="portrait">
+<p id="P49">
+<bold>Box 2</bold> Barriers associated with not choosing psychiatry as a career</p>
+<list list-type="bullet">
+<list-item>
+<p id="P50">Job content (71.7%) (<italic>n</italic> = 71) (including the lack of scientific basis, job not being clinical, poor prognosis)<sup>
+<xref rid="R15" ref-type="bibr">15</xref>,<xref rid="R17" ref-type="bibr">17</xref>,<xref rid="R25" ref-type="bibr">25</xref>,<xref rid="R35" ref-type="bibr">35</xref>,<xref rid="R36" ref-type="bibr">36</xref>,<xref rid="R38" ref-type="bibr">38</xref>
+</sup>
+</p>
+</list-item>
+<list-item>
+<p id="P51">Poor public image of psychiatry<sup>
+<xref rid="R15" ref-type="bibr">15</xref>,<xref rid="R25" ref-type="bibr">25</xref>,<xref rid="R36" ref-type="bibr">36</xref>
+</sup>
+</p>
+</list-item>
+<list-item>
+<p id="P52">Lack of respect towards psychiatry as a specialty by other specialties<sup>
+<xref rid="R15" ref-type="bibr">15</xref>,<xref rid="R25" ref-type="bibr">25</xref>,<xref rid="R36" ref-type="bibr">36</xref>
+</sup>
+</p>
+</list-item>
+<list-item>
+<p id="P53">Work-related stress cited by (49%)<sup>
+<xref rid="R15" ref-type="bibr">15</xref>
+</sup> trainees in psychiatry<sup>
+<xref rid="R38" ref-type="bibr">38</xref>
+</sup>
+</p>
+</list-item>
+<list-item>
+<p id="P54">25&#x02013;50% of trainees leaving psychiatry as a specialty cited lack of resources as one of the main reasons which was significantly more than those rejecting general practice and trauma and orthopaedics<sup>
+<xref rid="R15" ref-type="bibr">15</xref>,<xref rid="R38" ref-type="bibr">38</xref>
+</sup>
+</p>
+</list-item>
+<list-item>
+<p id="P55">25&#x02013;50% of trainees leaving psychiatry<sup>
+<xref rid="R15" ref-type="bibr">15</xref>,<xref rid="R16" ref-type="bibr">16</xref>,<xref rid="R38" ref-type="bibr">38</xref>
+</sup> highlighted:</p>
+<list list-type="alpha-lower">
+<list-item>
+<p id="P56">lack of adequately supervised training</p>
+</list-item>
+<list-item>
+<p id="P57">lack of evidence base to diagnosis and treatment</p>
+</list-item>
+<list-item>
+<p id="P58">lack of improvement in patients</p>
+</list-item>
+<list-item>
+<p id="P59">work-life balance</p>
+</list-item>
+<list-item>
+<p id="P60">work not clinical enough</p>
+</list-item>
+</list>
+</list-item>
+<list-item>
+<p id="P61">Physical risks involved in the job<sup>
+<xref rid="R15" ref-type="bibr">15</xref>
+</sup>
+</p>
+</list-item>
+<list-item>
+<p id="P62">Sense of eroded professionalism<sup>
+<xref rid="R36" ref-type="bibr">36</xref>,<xref rid="R38" ref-type="bibr">38</xref>
+</sup>
+</p>
+</list-item>
+<list-item>
+<p id="P63">Too much paperwork and duplication<sup>
+<xref rid="R25" ref-type="bibr">25</xref>,<xref rid="R36" ref-type="bibr">36</xref>,<xref rid="R38" ref-type="bibr">38</xref>
+</sup>
+</p>
+</list-item>
+<list-item>
+<p id="P64">Problems with rota and not enough time with patients<sup>
+<xref rid="R38" ref-type="bibr">38</xref>
+</sup>
+</p>
+</list-item>
+<list-item>
+<p id="P65">Trainees leaving the scheme felt frustrated with workplace-based assessments<sup>
+<xref rid="R38" ref-type="bibr">38</xref>
+</sup>
+</p>
+</list-item>
+<list-item>
+<p id="P66">Low morale among workforce<sup>
+<xref rid="R33" ref-type="bibr">33</xref>
+</sup>
+</p>
+</list-item>
+<list-item>
+<p id="P67">Future role of psychiatrists being eroded<sup>
+<xref rid="R33" ref-type="bibr">33</xref>
+</sup>
+</p>
+</list-item>
+</list>
+</boxed-text>
+</sec>
+</sec>
+<sec sec-type="discussion" id="S14">
+<title>Discussion</title>
+<p id="P68">This is the first systematic review of literature which examined factors that influence the choice of psychiatry as a career in the UK. The main findings are that enrichment activities help to attract students more towards psychiatry than just total time spent in the specialty. Job satisfaction and family-friendly status of psychiatry was rated highly by students who tend to choose psychiatry. Role models and encouragement from consultants may increase the number of students who want to pursue psychiatry as a career. The major factors that appeared to dissuade medical students/trainees from pursuing psychiatry as a career included: an apparent lack of scientific basis of psychiatry and work not being clinical enough, perception that psychiatry is more concerned about social issues, the bureaucracy, paperwork, apparent poor prognosis of patients, stigma towards psychiatry as a specialty, low morale, and onerous workloads as a consultant.</p>
+<p id="P69">We are aware of one previous systematic review that examined medical students' attitudes towards psychiatry internationally.<sup>
+<xref rid="R40" ref-type="bibr">40</xref>
+</sup> In common with our study this systematic review alongside another survey of psychiatrists<sup>
+<xref rid="R36" ref-type="bibr">36</xref>
+</sup> highlighted the stigma towards mental illness as a major barrier influencing negative medical views towards psychiatry.<sup>
+<xref rid="R40" ref-type="bibr">40</xref>
+</sup> Stigma towards psychiatry as a specialty arises from a variety of sources, notably from medical students themselves. In addition, this stigma could arise from ward staff attitudes towards patients and from other doctors in other specialties, which detract students.<sup>
+<xref rid="R13" ref-type="bibr">13</xref>,<xref rid="R25" ref-type="bibr">25</xref>,<xref rid="R34" ref-type="bibr">34</xref>
+</sup>
+</p>
+<p id="P70">Other reviews have looked at one aspect such as the effect of clinical experience of psychiatry on medical students' attitudes towards the specialty.<sup>
+<xref rid="R41" ref-type="bibr">41</xref>
+</sup> Lyons<sup>
+<xref rid="R40" ref-type="bibr">40</xref>
+</sup> highlighted the impact of poor-quality teaching leading to negative attitudes towards psychiatry and highlighted the need to address psychiatry curricula and introduce novel teaching strategies.<sup>
+<xref rid="R40" ref-type="bibr">40</xref>
+</sup> El-Sayeh <italic>et al</italic>
+<sup>
+<xref rid="R42" ref-type="bibr">42</xref>
+</sup> have previously highlighted the importance of teaching and the various methods which could be utilised to try to improve the student experience and in turn help attract students towards psychiatry. The recent survey by Korszun <italic>et al</italic>
+<sup>
+<xref rid="R36" ref-type="bibr">36</xref>
+</sup> highlighted that the number of clinicians compared with academics and trainees agreed that they did not have time to teach medical students (<italic>P</italic> &#x0003c; 0.001). Both clinicians (42%) and academics (47%) felt that teaching medical students did not contribute to their future career prospects compared with 21% of trainees (<italic>P</italic> &#x0003c; 0.001)<sup>
+<xref rid="R36" ref-type="bibr">36</xref>
+</sup> Fewer clinicians considered teaching to be a significant component of their appraisal compared with trainees and academics.<sup>
+<xref rid="R36" ref-type="bibr">36</xref>
+</sup> The combination of poor teaching practices due to lack of resources or commitment and the stigma reinforce the poor image of psychiatry.</p>
+<p id="P71">We feel that the findings of our study support the recommendations made by Mukherjee <italic>et al</italic>
+<sup>
+<xref rid="R43" ref-type="bibr">43</xref>
+</sup> which identify a number of steps to address the crisis in psychiatry recruitment at different nodal points in a medical career, i.e. prior to entry to medical school, during medical education and after graduation.</p>
+<sec id="S15">
+<title>Improving recruitment</title>
+<p id="P72">This study highlights the need to change the experience of psychiatry at undergraduate and postgraduate level in keeping with work by Shah <italic>et al</italic>
+<sup>
+<xref rid="R44" ref-type="bibr">44</xref>
+</sup> who highlighted early medical experience, influence of seniors and the aspects related to working environment as areas that could be affected positively which in turn could have a positive effect on choosing psychiatry as a career. Kelley <italic>et al</italic>
+<sup>
+<xref rid="R45" ref-type="bibr">45</xref>
+</sup> highlighted the impact of foundation programme experience in psychiatry, with a significantly higher proportion of trainees pursuing a career in psychiatry compared with those without any exposure to psychiatry (14.9% <italic>v.</italic> 1.8%). This correlates with earlier findings by Shah <italic>et al</italic>
+<sup>
+<xref rid="R44" ref-type="bibr">44</xref>
+</sup> that found a significant correlation between those Scottish students considering psychiatry as a career and having held a psychiatry post.<sup>
+<xref rid="R43" ref-type="bibr">43</xref>
+</sup> A recent survey by Denman <italic>et al</italic>
+<sup>
+<xref rid="R32" ref-type="bibr">32</xref>
+</sup> showed that 43% of psychiatry trainees made their decision to specialise in psychiatry during the foundation years, correlating with increased exposure to psychiatry during the foundation years with 80% of trainees in this survey completing a post in psychiatry during the foundation years. Specific enrichment activities beyond standard teaching and clinical placements such as research experience in psychiatry, university psychiatry clubs, summer schools,<sup>
+<xref rid="R46" ref-type="bibr">46</xref>
+</sup> psychiatry electives and psychiatry special study modules appear to be a way in which medical students will gain invaluable experiences and improve their attitudes to psychiatry. These need to be adopted and evaluated in future programmes to enhance recruitment in psychiatry Collier <italic>et al</italic>
+<sup>
+<xref rid="R22" ref-type="bibr">22</xref>
+</sup> found that only 2.3% of teaching was dedicated to psychiatry compared with 44.1% to medical and surgical topics, which does not help the poor image of psychiatry. This and similar issues need to be addressed at institutional level.</p>
+<p id="P73">A number of studies found that psychiatry has a perception that it is not a &#x02018;scientific&#x02019; or &#x02018;medical&#x02019; discipline.<sup>
+<xref rid="R15" ref-type="bibr">15</xref>,<xref rid="R36" ref-type="bibr">36</xref>,<xref rid="R38" ref-type="bibr">38</xref>
+</sup> Medical students and trainees expressed the views about the weakened medical identity of psychiatry. The erosion of the role of the psychiatrist was cited by some psychiatry trainees as a potential factor that would make them consider leaving psychiatry training.<sup>
+<xref rid="R38" ref-type="bibr">38</xref>
+</sup> This unfortunately is not helped by negative comments or &#x02018;bad-mouthing&#x02019; of psychiatry.<sup>
+<xref rid="R36" ref-type="bibr">36</xref>,<xref rid="R47" ref-type="bibr">47</xref>
+</sup>
+</p>
+<p id="P74">Interventions such as anti-stigma films and Medfest<sup>
+<xref rid="R48" ref-type="bibr">48</xref>
+</sup> have been shown to improve medical students' attitudes to psychiatrists, serious mental illness and psychiatry, at least in the short term.<sup>
+<xref rid="R48" ref-type="bibr">48</xref>,<xref rid="R49" ref-type="bibr">49</xref>
+</sup> However, it appears that there is need to reconsider the content of psychiatric training and the undergraduate curriculum. It has been suggested that moving undergraduate teaching from in-patient to general hospital settings such as liaison psychiatry will allow students to see patients with problems that are relevant to medical practice.<sup>
+<xref rid="R47" ref-type="bibr">47</xref>
+</sup> Setting up and evaluating such programmes that have the potential to offer a different and enjoyable experience for medical students and foundation doctors should be a priority to improve the image of and recruitment into psychiatry.</p>
+</sec>
+<sec id="S16">
+<title>Limitations</title>
+<p id="P75">A limitation of the study is that almost all data are based on surveys and databases. This represents a cross-sectional view on the subject. The lack of any comparisons with other specialties, which may have similar recruitment rates, is particularly concerning. The focus on UK studies is also a limitation but was necessary to understand the factors affecting recruitment in this country We noted with some concern that there are only a few studies that address the positive aspects of psychiatry,<sup>
+<xref rid="R26" ref-type="bibr">26</xref>&#x02013;<xref rid="R28" ref-type="bibr">28</xref>,<xref rid="R30" ref-type="bibr">30</xref>&#x02013;<xref rid="R33" ref-type="bibr">33</xref>
+</sup> which may attract students and trainees towards psychiatry, and how these can be used for improving the recruitment. Future studies need to address this gap in the literature. Finally, we feel that the problems underlying the recruitment in psychiatry perhaps also reflect the lack of parity of esteem. Unless mental health is valued equally with physical health, the misconceptions and distorted perceptions about psychiatry as a discipline in which a medical career can be fruitfully pursued will linger on and will hinder aspiring physicians from considering psychiatry as a career option.</p>
+</sec>
+</sec>
+</body>
+<back>
+<fn-group>
+<fn fn-type="COI-statement">
+<p>
+<bold>Declaration of interest</bold> None.</p>
+</fn>
+</fn-group>
+<ref-list>
+<title>References</title>
+<ref id="R1">
+<label>1</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<collab>Centre for Workforce Intelligence</collab>
+</person-group>
+<source>In-depth Review of the Psychiatrist Workforce: Main Report</source>.<publisher-name>CFWI</publisher-name>,<year>2014</year>.
+</mixed-citation>
+</ref>
+<ref id="R2">
+<label>2</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<collab>Centre for Workforce Intelligence</collab>
+</person-group>
+<source>Shape of the Medical Workforce: Informing Medical Training Numbers</source>.<publisher-name>Centre for Workforce Intelligence</publisher-name>,<year>2011</year>.
+</mixed-citation>
+</ref>
+<ref id="R3">
+<label>3</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<collab>Royal College of Psychiatrists</collab>
+</person-group>
+<source>Census 2009: Workforce Figures for Psychiatrists</source>.<publisher-name>Royal College of Psychiatrists</publisher-name>,<year>2010</year>.
+</mixed-citation>
+</ref>
+<ref id="R4">
+<label>4</label>
+<mixed-citation publication-type="web">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Carr</surname>
+<given-names>A</given-names>
+</name>
+<name name-style="western">
+<surname>Sullivan</surname>
+<given-names>E</given-names>
+</name>
+<name name-style="western">
+<surname>Buggle</surname>
+<given-names>S</given-names>
+</name>
+<name name-style="western">
+<surname>Hamilton</surname>
+<given-names>P</given-names>
+</name>
+</person-group>
+<article-title>Specialty training at ST1 and CT1 in England</article-title>.<source>BMJ Careers</source>
+<year>2011</year>;<day>30</day>
 <season>Nov.</season> Available at: <uri xlink:href="http://careers.bmj.com/careers/advice/view-article.html?id=20005662">http://careers.bmj.com/careers/advice/view-article.html?id=20005662</uri>
 <comment>(accessed 27 June 2017)</comment>.
-</mixed-citation></ref><ref id="R5"><label>5</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><collab>Royal College of Psychiatrists</collab></person-group>
-<source>Fill Rate and Competition Ratios for CT1 August 2012 Intake</source>. <publisher-name>Royal College of Psychiatrists</publisher-name>, <year>2012</year> (<uri xlink:href="http://www.rcpsych.ac.uk/trainpsychiatry/nationalrecruitment/fillratesandcompetition.aspx">http://www.rcpsych.ac.uk/trainpsychiatry/nationalrecruitment/fillratesandcompetition.aspx</uri>).
-</mixed-citation></ref><ref id="R6"><label>6</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><name name-style="western"><surname>Brown</surname><given-names>T</given-names></name><name name-style="western"><surname>Eagles</surname><given-names>J</given-names></name></person-group>
-<source>Teaching Psychiatry to Undergraduates</source>. <publisher-name>RCPsych Publications</publisher-name>, <year>2011</year>.
-</mixed-citation></ref><ref id="R7"><label>7</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><name name-style="western"><surname>Gask</surname><given-names>L</given-names></name><name name-style="western"><surname>Coskun</surname><given-names>B</given-names></name><name name-style="western"><surname>Baron</surname><given-names>D</given-names></name></person-group>
-<source>Teaching Psychiatry: Putting Theory into Practice</source>. <publisher-name>Wiley</publisher-name>, <year>2011</year>.
-</mixed-citation></ref><ref id="R8"><label>8</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><collab>Royal College of Psychiatrists</collab></person-group>
-<source>Recruitment Strategy 2011&#x02013;2016</source>. <publisher-name>Royal College of Psychiatrists</publisher-name>, <year>2012</year>.
-</mixed-citation></ref><ref id="R9"><label>9</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Brockington</surname><given-names>IF</given-names></name><name name-style="western"><surname>Mumford</surname><given-names>DB</given-names></name></person-group>
-<article-title>Recruitment into psychiatry</article-title>. <source>Br J Psychiatry</source>
-<year>2002</year>; <volume>180</volume>: <fpage>307</fpage>&#x02013;<lpage>12</lpage>.
-<pub-id pub-id-type="pmid">11925352</pub-id></mixed-citation></ref><ref id="R10"><label>10</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Barkil-Oteo</surname><given-names>A</given-names></name></person-group>
-<article-title>Psychiatry's identity crisis</article-title>. <source>Lancet</source>
-<year>2012</year>; <volume>379</volume>: <fpage>2428</fpage>.
-<pub-id pub-id-type="pmid">22748589</pub-id></mixed-citation></ref><ref id="R11"><label>11</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Moher</surname><given-names>D</given-names></name><name name-style="western"><surname>Liberati</surname><given-names>A</given-names></name><name name-style="western"><surname>Tetzlaff</surname><given-names>J</given-names></name><name name-style="western"><surname>Altman</surname><given-names>DG</given-names></name></person-group>
-<article-title>Preferred reporting items for systematic reviews and meta-analyses: the PRISMA statement</article-title>. <source>Ann Intern Med</source>
-<year>2009</year>; <volume>151</volume>: <fpage>264</fpage>&#x02013;<lpage>9</lpage>.
-<pub-id pub-id-type="pmid">19622511</pub-id></mixed-citation></ref><ref id="R12"><label>12</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Burra</surname><given-names>P</given-names></name><name name-style="western"><surname>Kalin</surname><given-names>R</given-names></name><name name-style="western"><surname>Leichner</surname><given-names>PW</given-names></name><name name-style="western"><surname>Waldron</surname><given-names>JJ</given-names></name><name name-style="western"><surname>Handforth</surname><given-names>JR</given-names></name><name name-style="western"><surname>Jarrett</surname><given-names>FJ</given-names></name><etal/></person-group>
-<article-title>The ATP 30 &#x02013; a scale for measuring medical students' attitudes to psychiatry</article-title>. <source>Med Educ</source>
-<year>1982</year>; <volume>16</volume>: <fpage>31</fpage>&#x02013;<lpage>8</lpage>.
-<pub-id pub-id-type="pmid">7057722</pub-id></mixed-citation></ref><ref id="R13"><label>13</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Fazel</surname><given-names>S</given-names></name><name name-style="western"><surname>Ebmeier</surname><given-names>KP</given-names></name></person-group>
+</mixed-citation>
+</ref>
+<ref id="R5">
+<label>5</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<collab>Royal College of Psychiatrists</collab>
+</person-group>
+<source>Fill Rate and Competition Ratios for CT1 August 2012 Intake</source>.<publisher-name>Royal College of Psychiatrists</publisher-name>,<year>2012</year> (<uri xlink:href="http://www.rcpsych.ac.uk/trainpsychiatry/nationalrecruitment/fillratesandcompetition.aspx">http://www.rcpsych.ac.uk/trainpsychiatry/nationalrecruitment/fillratesandcompetition.aspx</uri>).
+</mixed-citation>
+</ref>
+<ref id="R6">
+<label>6</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Brown</surname>
+<given-names>T</given-names>
+</name>
+<name name-style="western">
+<surname>Eagles</surname>
+<given-names>J</given-names>
+</name>
+</person-group>
+<source>Teaching Psychiatry to Undergraduates</source>.<publisher-name>RCPsych Publications</publisher-name>,<year>2011</year>.
+</mixed-citation>
+</ref>
+<ref id="R7">
+<label>7</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Gask</surname>
+<given-names>L</given-names>
+</name>
+<name name-style="western">
+<surname>Coskun</surname>
+<given-names>B</given-names>
+</name>
+<name name-style="western">
+<surname>Baron</surname>
+<given-names>D</given-names>
+</name>
+</person-group>
+<source>Teaching Psychiatry: Putting Theory into Practice</source>.<publisher-name>Wiley</publisher-name>,<year>2011</year>.
+</mixed-citation>
+</ref>
+<ref id="R8">
+<label>8</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<collab>Royal College of Psychiatrists</collab>
+</person-group>
+<source>Recruitment Strategy 2011&#x02013;2016</source>.<publisher-name>Royal College of Psychiatrists</publisher-name>,<year>2012</year>.
+</mixed-citation>
+</ref>
+<ref id="R9">
+<label>9</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Brockington</surname>
+<given-names>IF</given-names>
+</name>
+<name name-style="western">
+<surname>Mumford</surname>
+<given-names>DB</given-names>
+</name>
+</person-group>
+<article-title>Recruitment into psychiatry</article-title>.<source>Br J Psychiatry</source>
+<year>2002</year>;<volume>180</volume>:<fpage>307</fpage>&#x02013;<lpage>12</lpage>.
+<pub-id pub-id-type="pmid">11925352</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R10">
+<label>10</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Barkil-Oteo</surname>
+<given-names>A</given-names>
+</name>
+</person-group>
+<article-title>Psychiatry's identity crisis</article-title>.<source>Lancet</source>
+<year>2012</year>;<volume>379</volume>:<fpage>2428</fpage>.
+<pub-id pub-id-type="pmid">22748589</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R11">
+<label>11</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Moher</surname>
+<given-names>D</given-names>
+</name>
+<name name-style="western">
+<surname>Liberati</surname>
+<given-names>A</given-names>
+</name>
+<name name-style="western">
+<surname>Tetzlaff</surname>
+<given-names>J</given-names>
+</name>
+<name name-style="western">
+<surname>Altman</surname>
+<given-names>DG</given-names>
+</name>
+</person-group>
+<article-title>Preferred reporting items for systematic reviews and meta-analyses: the PRISMA statement</article-title>.<source>Ann Intern Med</source>
+<year>2009</year>;<volume>151</volume>:<fpage>264</fpage>&#x02013;<lpage>9</lpage>.
+<pub-id pub-id-type="pmid">19622511</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R12">
+<label>12</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Burra</surname>
+<given-names>P</given-names>
+</name>
+<name name-style="western">
+<surname>Kalin</surname>
+<given-names>R</given-names>
+</name>
+<name name-style="western">
+<surname>Leichner</surname>
+<given-names>PW</given-names>
+</name>
+<name name-style="western">
+<surname>Waldron</surname>
+<given-names>JJ</given-names>
+</name>
+<name name-style="western">
+<surname>Handforth</surname>
+<given-names>JR</given-names>
+</name>
+<name name-style="western">
+<surname>Jarrett</surname>
+<given-names>FJ</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>The ATP 30 &#x02013; a scale for measuring medical students' attitudes to psychiatry</article-title>.<source>Med Educ</source>
+<year>1982</year>;<volume>16</volume>:<fpage>31</fpage>&#x02013;<lpage>8</lpage>.
+<pub-id pub-id-type="pmid">7057722</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R13">
+<label>13</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Fazel</surname>
+<given-names>S</given-names>
+</name>
+<name name-style="western">
+<surname>Ebmeier</surname>
+<given-names>KP</given-names>
+</name>
+</person-group>
 <article-title>Specialty choice in UK junior doctors: is psychiatry the least popular specialty for UK and international medical graduates?</article-title>
 <source>BMC Med Educ</source>
-<year>2009</year>; <volume>9</volume>: <fpage>77</fpage>.
-<pub-id pub-id-type="pmid">20034389</pub-id></mixed-citation></ref><ref id="R14"><label>14</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Goldacre</surname><given-names>MJ</given-names></name><name name-style="western"><surname>Turner</surname><given-names>G</given-names></name><name name-style="western"><surname>Fazel</surname><given-names>S</given-names></name><name name-style="western"><surname>Lambert</surname><given-names>T</given-names></name></person-group>
-<article-title>Career choices for psychiatry: national surveys of graduates of 1974&#x02013;2000 from UK medical schools</article-title>. <source>Br J Psychiatry</source>
-<year>2005</year>; <volume>186</volume>: <fpage>158</fpage>&#x02013;<lpage>64</lpage>.
-<pub-id pub-id-type="pmid">15684241</pub-id></mixed-citation></ref><ref id="R15"><label>15</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Lambert</surname><given-names>TW</given-names></name><name name-style="western"><surname>Turner</surname><given-names>G</given-names></name><name name-style="western"><surname>Fazel</surname><given-names>S</given-names></name><name name-style="western"><surname>Goldacre</surname><given-names>MJ</given-names></name></person-group>
-<article-title>Reasons why some UK medical graduates who initially choose psychiatry do not pursue it as a long-term career</article-title>. <source>Psychol Med</source>
-<year>2006</year>; <volume>36</volume>: <fpage>679</fpage>&#x02013;<lpage>84</lpage>.
-<pub-id pub-id-type="pmid">16426488</pub-id></mixed-citation></ref><ref id="R16"><label>16</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Goldacre</surname><given-names>MJ</given-names></name><name name-style="western"><surname>Goldacre</surname><given-names>R</given-names></name><name name-style="western"><surname>Lambert</surname><given-names>TW</given-names></name></person-group>
-<article-title>Doctors who considered but did not pursue specific clinical specialties as careers: questionnaire surveys</article-title>. <source>J R Soc Med</source>
-<year>2012</year>; <volume>105</volume>: <fpage>166</fpage>&#x02013;<lpage>76</lpage>.
-<pub-id pub-id-type="pmid">22532656</pub-id></mixed-citation></ref><ref id="R17"><label>17</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Goldacre</surname><given-names>MJ</given-names></name><name name-style="western"><surname>Fazel</surname><given-names>S</given-names></name><name name-style="western"><surname>Smith</surname><given-names>F</given-names></name><name name-style="western"><surname>Lambert</surname><given-names>T</given-names></name></person-group>
-<article-title>Choice and rejection of psychiatry as a career: surveys of UK medical graduates from 1974 to 2009</article-title>. <source>Br J Psychiatry</source>
-<year>2013</year>; <volume>202</volume>: <fpage>228</fpage>&#x02013;<lpage>34</lpage>.
-<pub-id pub-id-type="pmid">23099446</pub-id></mixed-citation></ref><ref id="R18"><label>18</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Svirko</surname><given-names>E</given-names></name><name name-style="western"><surname>Goldacre</surname><given-names>MJ</given-names></name><name name-style="western"><surname>Lambert</surname><given-names>T</given-names></name></person-group>
-<article-title>Career choices of the United Kingdom medical graduates of 2005, 2008 and 2009: questionnaire surveys</article-title>. <source>Med Teach</source>
-<year>2013</year>; <volume>35</volume>: <fpage>365</fpage>&#x02013;<lpage>75</lpage>.
-<pub-id pub-id-type="pmid">23360485</pub-id></mixed-citation></ref><ref id="R19"><label>19</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Brook</surname><given-names>PE</given-names></name></person-group>
-<article-title>Where do psychiatrists come from? The influence of United Kingdom medical schools on the choice of psychiatry as a career</article-title>. <source>Br J Psychiatry</source>
-<year>1976</year>; <volume>128</volume>: <fpage>313</fpage>&#x02013;<lpage>7</lpage>.
-<pub-id pub-id-type="pmid">1260230</pub-id></mixed-citation></ref><ref id="R20"><label>20</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Brook</surname><given-names>P</given-names></name><name name-style="western"><surname>Ingleby</surname><given-names>D</given-names></name><name name-style="western"><surname>Wakeford</surname><given-names>RE</given-names></name></person-group>
-<article-title>Students' attitudes to psychiatry: a study of first-and final-year clinical students' attitudes in six medical schools</article-title>. <source>J Psychiatr Educ</source>
-<year>1986</year>; <volume>3</volume>: <fpage>151</fpage>&#x02013;<lpage>69</lpage>.
-</mixed-citation></ref><ref id="R21"><label>21</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Brook</surname><given-names>P</given-names></name></person-group>
-<article-title>Who's for psychiatry? United Kingdom medical schools and career choice of psychiatry 1961&#x02013;75</article-title>. <source>Br J Psychiatry</source>
-<year>1983</year>; <volume>142</volume>: <fpage>361</fpage>&#x02013;<lpage>5</lpage>.
-<pub-id pub-id-type="pmid">6850174</pub-id></mixed-citation></ref><ref id="R22"><label>22</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Collier</surname><given-names>A</given-names></name><name name-style="western"><surname>Moreton</surname><given-names>A</given-names></name></person-group>
-<article-title>Does access to role models influence future career choice? Impact of psychiatry teaching on recently graduated doctors in the United Kingdom</article-title>. <source>Acad Psychiatry</source>
-<year>2013</year>; <volume>37</volume>: <fpage>408</fpage>&#x02013;<lpage>11</lpage>.
-<pub-id pub-id-type="pmid">24097138</pub-id></mixed-citation></ref><ref id="R23"><label>23</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Petrides</surname><given-names>KV</given-names></name><name name-style="western"><surname>McManus</surname><given-names>IC</given-names></name></person-group>
-<article-title>Mapping medical careers: questionnaire assessment of career preferences in medical school applicants and final-year students</article-title>. <source>BMC Med Educ</source>
-<year>2004</year>; <volume>4</volume>: <fpage>18</fpage>.
-<pub-id pub-id-type="pmid">15461786</pub-id></mixed-citation></ref><ref id="R24"><label>24</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Levine</surname><given-names>SP</given-names></name><name name-style="western"><surname>Barzansky</surname><given-names>B</given-names></name><name name-style="western"><surname>Blumberg</surname><given-names>P</given-names></name><name name-style="western"><surname>Flaherty</surname><given-names>JA</given-names></name></person-group>
+<year>2009</year>;<volume>9</volume>:<fpage>77</fpage>.
+<pub-id pub-id-type="pmid">20034389</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R14">
+<label>14</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Goldacre</surname>
+<given-names>MJ</given-names>
+</name>
+<name name-style="western">
+<surname>Turner</surname>
+<given-names>G</given-names>
+</name>
+<name name-style="western">
+<surname>Fazel</surname>
+<given-names>S</given-names>
+</name>
+<name name-style="western">
+<surname>Lambert</surname>
+<given-names>T</given-names>
+</name>
+</person-group>
+<article-title>Career choices for psychiatry: national surveys of graduates of 1974&#x02013;2000 from UK medical schools</article-title>.<source>Br J Psychiatry</source>
+<year>2005</year>;<volume>186</volume>:<fpage>158</fpage>&#x02013;<lpage>64</lpage>.
+<pub-id pub-id-type="pmid">15684241</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R15">
+<label>15</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Lambert</surname>
+<given-names>TW</given-names>
+</name>
+<name name-style="western">
+<surname>Turner</surname>
+<given-names>G</given-names>
+</name>
+<name name-style="western">
+<surname>Fazel</surname>
+<given-names>S</given-names>
+</name>
+<name name-style="western">
+<surname>Goldacre</surname>
+<given-names>MJ</given-names>
+</name>
+</person-group>
+<article-title>Reasons why some UK medical graduates who initially choose psychiatry do not pursue it as a long-term career</article-title>.<source>Psychol Med</source>
+<year>2006</year>;<volume>36</volume>:<fpage>679</fpage>&#x02013;<lpage>84</lpage>.
+<pub-id pub-id-type="pmid">16426488</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R16">
+<label>16</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Goldacre</surname>
+<given-names>MJ</given-names>
+</name>
+<name name-style="western">
+<surname>Goldacre</surname>
+<given-names>R</given-names>
+</name>
+<name name-style="western">
+<surname>Lambert</surname>
+<given-names>TW</given-names>
+</name>
+</person-group>
+<article-title>Doctors who considered but did not pursue specific clinical specialties as careers: questionnaire surveys</article-title>.<source>J R Soc Med</source>
+<year>2012</year>;<volume>105</volume>:<fpage>166</fpage>&#x02013;<lpage>76</lpage>.
+<pub-id pub-id-type="pmid">22532656</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R17">
+<label>17</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Goldacre</surname>
+<given-names>MJ</given-names>
+</name>
+<name name-style="western">
+<surname>Fazel</surname>
+<given-names>S</given-names>
+</name>
+<name name-style="western">
+<surname>Smith</surname>
+<given-names>F</given-names>
+</name>
+<name name-style="western">
+<surname>Lambert</surname>
+<given-names>T</given-names>
+</name>
+</person-group>
+<article-title>Choice and rejection of psychiatry as a career: surveys of UK medical graduates from 1974 to 2009</article-title>.<source>Br J Psychiatry</source>
+<year>2013</year>;<volume>202</volume>:<fpage>228</fpage>&#x02013;<lpage>34</lpage>.
+<pub-id pub-id-type="pmid">23099446</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R18">
+<label>18</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Svirko</surname>
+<given-names>E</given-names>
+</name>
+<name name-style="western">
+<surname>Goldacre</surname>
+<given-names>MJ</given-names>
+</name>
+<name name-style="western">
+<surname>Lambert</surname>
+<given-names>T</given-names>
+</name>
+</person-group>
+<article-title>Career choices of the United Kingdom medical graduates of 2005, 2008 and 2009: questionnaire surveys</article-title>.<source>Med Teach</source>
+<year>2013</year>;<volume>35</volume>:<fpage>365</fpage>&#x02013;<lpage>75</lpage>.
+<pub-id pub-id-type="pmid">23360485</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R19">
+<label>19</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Brook</surname>
+<given-names>PE</given-names>
+</name>
+</person-group>
+<article-title>Where do psychiatrists come from? The influence of United Kingdom medical schools on the choice of psychiatry as a career</article-title>.<source>Br J Psychiatry</source>
+<year>1976</year>;<volume>128</volume>:<fpage>313</fpage>&#x02013;<lpage>7</lpage>.
+<pub-id pub-id-type="pmid">1260230</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R20">
+<label>20</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Brook</surname>
+<given-names>P</given-names>
+</name>
+<name name-style="western">
+<surname>Ingleby</surname>
+<given-names>D</given-names>
+</name>
+<name name-style="western">
+<surname>Wakeford</surname>
+<given-names>RE</given-names>
+</name>
+</person-group>
+<article-title>Students' attitudes to psychiatry: a study of first-and final-year clinical students' attitudes in six medical schools</article-title>.<source>J Psychiatr Educ</source>
+<year>1986</year>;<volume>3</volume>:<fpage>151</fpage>&#x02013;<lpage>69</lpage>.
+</mixed-citation>
+</ref>
+<ref id="R21">
+<label>21</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Brook</surname>
+<given-names>P</given-names>
+</name>
+</person-group>
+<article-title>Who's for psychiatry? United Kingdom medical schools and career choice of psychiatry 1961&#x02013;75</article-title>.<source>Br J Psychiatry</source>
+<year>1983</year>;<volume>142</volume>:<fpage>361</fpage>&#x02013;<lpage>5</lpage>.
+<pub-id pub-id-type="pmid">6850174</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R22">
+<label>22</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Collier</surname>
+<given-names>A</given-names>
+</name>
+<name name-style="western">
+<surname>Moreton</surname>
+<given-names>A</given-names>
+</name>
+</person-group>
+<article-title>Does access to role models influence future career choice? Impact of psychiatry teaching on recently graduated doctors in the United Kingdom</article-title>.<source>Acad Psychiatry</source>
+<year>2013</year>;<volume>37</volume>:<fpage>408</fpage>&#x02013;<lpage>11</lpage>.
+<pub-id pub-id-type="pmid">24097138</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R23">
+<label>23</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Petrides</surname>
+<given-names>KV</given-names>
+</name>
+<name name-style="western">
+<surname>McManus</surname>
+<given-names>IC</given-names>
+</name>
+</person-group>
+<article-title>Mapping medical careers: questionnaire assessment of career preferences in medical school applicants and final-year students</article-title>.<source>BMC Med Educ</source>
+<year>2004</year>;<volume>4</volume>:<fpage>18</fpage>.
+<pub-id pub-id-type="pmid">15461786</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R24">
+<label>24</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Levine</surname>
+<given-names>SP</given-names>
+</name>
+<name name-style="western">
+<surname>Barzansky</surname>
+<given-names>B</given-names>
+</name>
+<name name-style="western">
+<surname>Blumberg</surname>
+<given-names>P</given-names>
+</name>
+<name name-style="western">
+<surname>Flaherty</surname>
+<given-names>JA</given-names>
+</name>
+</person-group>
 <article-title>Can psychiatrists be recruited in medical school?</article-title>
 <source>J Psychiatr Educ</source>
-<year>1983</year>; <volume>7</volume>: <fpage>240</fpage>&#x02013;<lpage>8</lpage>.
-</mixed-citation></ref><ref id="R25"><label>25</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Curtis-Barton</surname><given-names>MT</given-names></name><name name-style="western"><surname>Eagles</surname><given-names>JM</given-names></name></person-group>
-<article-title>Factors that discourage medical students from pursuing a career in psychiatry</article-title>. <source>Psychiatrist</source>
-<year>2011</year>; <volume>35</volume>: <fpage>425</fpage>&#x02013;<lpage>9</lpage>.
-</mixed-citation></ref><ref id="R26"><label>26</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Budd</surname><given-names>S</given-names></name><name name-style="western"><surname>Kelley</surname><given-names>R</given-names></name><name name-style="western"><surname>Day</surname><given-names>R</given-names></name><name name-style="western"><surname>Variend</surname><given-names>H</given-names></name><name name-style="western"><surname>Dogra</surname><given-names>N</given-names></name></person-group>
-<article-title>Student attitudes to psychiatry and their clinical placements</article-title>. <source>Med Teach</source>
-<year>2011</year>; <volume>33</volume>: <fpage>e586</fpage>&#x02013;<lpage>92</lpage>.
-<pub-id pub-id-type="pmid">22022911</pub-id></mixed-citation></ref><ref id="R27"><label>27</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Farooq</surname><given-names>K</given-names></name><name name-style="western"><surname>Lydall</surname><given-names>GJ</given-names></name><name name-style="western"><surname>Malik</surname><given-names>A</given-names></name><name name-style="western"><surname>Ndetei</surname><given-names>DM</given-names></name><name name-style="western"><surname>Bhugra</surname><given-names>D</given-names></name></person-group>
-<article-title>Why medical students choose psychiatry &#x02013; a 20 country cross-sectional survey</article-title>. <source>BMC Med Educ</source>
-<year>2014</year>; <volume>14</volume>: <fpage>12</fpage>.
-<pub-id pub-id-type="pmid">24422951</pub-id></mixed-citation></ref><ref id="R28"><label>28</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Halder</surname><given-names>N</given-names></name><name name-style="western"><surname>Hadjidemetriou</surname><given-names>C</given-names></name><name name-style="western"><surname>Pearson</surname><given-names>R</given-names></name><name name-style="western"><surname>Farooq</surname><given-names>K</given-names></name><name name-style="western"><surname>Lydall</surname><given-names>GJ</given-names></name><name name-style="western"><surname>Malik</surname><given-names>A</given-names></name><etal/></person-group>
-<article-title>Student career choice in psychiatry: findings from 18 UK medical schools</article-title>. <source>Int Rev Psychiatry</source>
-<year>2013</year>; <volume>25</volume>: <fpage>438</fpage>&#x02013;<lpage>44</lpage>.
-<pub-id pub-id-type="pmid">24032499</pub-id></mixed-citation></ref><ref id="R29"><label>29</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Maidment</surname><given-names>R</given-names></name><name name-style="western"><surname>Livingston</surname><given-names>G</given-names></name><name name-style="western"><surname>Katona</surname><given-names>M</given-names></name><name name-style="western"><surname>Whitaker</surname><given-names>E</given-names></name><name name-style="western"><surname>Katona</surname><given-names>C</given-names></name></person-group>
-<article-title>Carry on shrinking: career intentions and attitudes to psychiatry of prospective medical students</article-title>. <source>Psychiatrist</source>
-<year>2003</year>; <volume>27</volume>: <fpage>30</fpage>&#x02013;<lpage>2</lpage>.
-</mixed-citation></ref><ref id="R30"><label>30</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>McParland</surname><given-names>M</given-names></name><name name-style="western"><surname>Noble</surname><given-names>LM</given-names></name><name name-style="western"><surname>Livingston</surname><given-names>G</given-names></name><name name-style="western"><surname>McManus</surname><given-names>C</given-names></name></person-group>
-<article-title>The effect of a psychiatric attachment on students' attitudes to and intention to pursue psychiatry as a career</article-title>. <source>Med Educ</source>
-<year>2003</year>; <volume>37</volume>: <fpage>447</fpage>&#x02013;<lpage>54</lpage>.
-<pub-id pub-id-type="pmid">12709187</pub-id></mixed-citation></ref><ref id="R31"><label>31</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Maidment</surname><given-names>R</given-names></name><name name-style="western"><surname>Livingston</surname><given-names>G</given-names></name><name name-style="western"><surname>Katona</surname><given-names>C</given-names></name><name name-style="western"><surname>McParland</surname><given-names>M</given-names></name><name name-style="western"><surname>Noble</surname><given-names>L</given-names></name></person-group>
-<article-title>Change in attitudes to psychiatry and intention to pursue psychiatry as a career in newly qualified doctors: a follow-up of two cohorts of medical students</article-title>. <source>Med Teach</source>
-<year>2004</year>; <volume>26</volume>: <fpage>565</fpage>&#x02013;<lpage>9</lpage>.
-<pub-id pub-id-type="pmid">15763837</pub-id></mixed-citation></ref><ref id="R32"><label>32</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Denman</surname><given-names>M</given-names></name><name name-style="western"><surname>Oyebode</surname><given-names>F</given-names></name><name name-style="western"><surname>Greening</surname><given-names>J</given-names></name></person-group>
-<article-title>Reasons for choosing to specialise in psychiatry: differences between core psychiatry trainees and consultant psychiatrists</article-title>. <source>BJPsych Bull</source>
-<year>2016</year>; <volume>40</volume>: <fpage>19</fpage>&#x02013;<lpage>23</lpage>.
-<pub-id pub-id-type="pmid">26958354</pub-id></mixed-citation></ref><ref id="R33"><label>33</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Calvert</surname><given-names>SH</given-names></name><name name-style="western"><surname>Sharpe</surname><given-names>M</given-names></name><name name-style="western"><surname>Power</surname><given-names>M</given-names></name><name name-style="western"><surname>Lawrie</surname><given-names>SM</given-names></name></person-group>
+<year>1983</year>;<volume>7</volume>:<fpage>240</fpage>&#x02013;<lpage>8</lpage>.
+</mixed-citation>
+</ref>
+<ref id="R25">
+<label>25</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Curtis-Barton</surname>
+<given-names>MT</given-names>
+</name>
+<name name-style="western">
+<surname>Eagles</surname>
+<given-names>JM</given-names>
+</name>
+</person-group>
+<article-title>Factors that discourage medical students from pursuing a career in psychiatry</article-title>.<source>Psychiatrist</source>
+<year>2011</year>;<volume>35</volume>:<fpage>425</fpage>&#x02013;<lpage>9</lpage>.
+</mixed-citation>
+</ref>
+<ref id="R26">
+<label>26</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Budd</surname>
+<given-names>S</given-names>
+</name>
+<name name-style="western">
+<surname>Kelley</surname>
+<given-names>R</given-names>
+</name>
+<name name-style="western">
+<surname>Day</surname>
+<given-names>R</given-names>
+</name>
+<name name-style="western">
+<surname>Variend</surname>
+<given-names>H</given-names>
+</name>
+<name name-style="western">
+<surname>Dogra</surname>
+<given-names>N</given-names>
+</name>
+</person-group>
+<article-title>Student attitudes to psychiatry and their clinical placements</article-title>.<source>Med Teach</source>
+<year>2011</year>;<volume>33</volume>:<fpage>e586</fpage>&#x02013;<lpage>92</lpage>.
+<pub-id pub-id-type="pmid">22022911</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R27">
+<label>27</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Farooq</surname>
+<given-names>K</given-names>
+</name>
+<name name-style="western">
+<surname>Lydall</surname>
+<given-names>GJ</given-names>
+</name>
+<name name-style="western">
+<surname>Malik</surname>
+<given-names>A</given-names>
+</name>
+<name name-style="western">
+<surname>Ndetei</surname>
+<given-names>DM</given-names>
+</name>
+<name name-style="western">
+<surname>Bhugra</surname>
+<given-names>D</given-names>
+</name>
+</person-group>
+<article-title>Why medical students choose psychiatry &#x02013; a 20 country cross-sectional survey</article-title>.<source>BMC Med Educ</source>
+<year>2014</year>;<volume>14</volume>:<fpage>12</fpage>.
+<pub-id pub-id-type="pmid">24422951</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R28">
+<label>28</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Halder</surname>
+<given-names>N</given-names>
+</name>
+<name name-style="western">
+<surname>Hadjidemetriou</surname>
+<given-names>C</given-names>
+</name>
+<name name-style="western">
+<surname>Pearson</surname>
+<given-names>R</given-names>
+</name>
+<name name-style="western">
+<surname>Farooq</surname>
+<given-names>K</given-names>
+</name>
+<name name-style="western">
+<surname>Lydall</surname>
+<given-names>GJ</given-names>
+</name>
+<name name-style="western">
+<surname>Malik</surname>
+<given-names>A</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>Student career choice in psychiatry: findings from 18 UK medical schools</article-title>.<source>Int Rev Psychiatry</source>
+<year>2013</year>;<volume>25</volume>:<fpage>438</fpage>&#x02013;<lpage>44</lpage>.
+<pub-id pub-id-type="pmid">24032499</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R29">
+<label>29</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Maidment</surname>
+<given-names>R</given-names>
+</name>
+<name name-style="western">
+<surname>Livingston</surname>
+<given-names>G</given-names>
+</name>
+<name name-style="western">
+<surname>Katona</surname>
+<given-names>M</given-names>
+</name>
+<name name-style="western">
+<surname>Whitaker</surname>
+<given-names>E</given-names>
+</name>
+<name name-style="western">
+<surname>Katona</surname>
+<given-names>C</given-names>
+</name>
+</person-group>
+<article-title>Carry on shrinking: career intentions and attitudes to psychiatry of prospective medical students</article-title>.<source>Psychiatrist</source>
+<year>2003</year>;<volume>27</volume>:<fpage>30</fpage>&#x02013;<lpage>2</lpage>.
+</mixed-citation>
+</ref>
+<ref id="R30">
+<label>30</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>McParland</surname>
+<given-names>M</given-names>
+</name>
+<name name-style="western">
+<surname>Noble</surname>
+<given-names>LM</given-names>
+</name>
+<name name-style="western">
+<surname>Livingston</surname>
+<given-names>G</given-names>
+</name>
+<name name-style="western">
+<surname>McManus</surname>
+<given-names>C</given-names>
+</name>
+</person-group>
+<article-title>The effect of a psychiatric attachment on students' attitudes to and intention to pursue psychiatry as a career</article-title>.<source>Med Educ</source>
+<year>2003</year>;<volume>37</volume>:<fpage>447</fpage>&#x02013;<lpage>54</lpage>.
+<pub-id pub-id-type="pmid">12709187</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R31">
+<label>31</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Maidment</surname>
+<given-names>R</given-names>
+</name>
+<name name-style="western">
+<surname>Livingston</surname>
+<given-names>G</given-names>
+</name>
+<name name-style="western">
+<surname>Katona</surname>
+<given-names>C</given-names>
+</name>
+<name name-style="western">
+<surname>McParland</surname>
+<given-names>M</given-names>
+</name>
+<name name-style="western">
+<surname>Noble</surname>
+<given-names>L</given-names>
+</name>
+</person-group>
+<article-title>Change in attitudes to psychiatry and intention to pursue psychiatry as a career in newly qualified doctors: a follow-up of two cohorts of medical students</article-title>.<source>Med Teach</source>
+<year>2004</year>;<volume>26</volume>:<fpage>565</fpage>&#x02013;<lpage>9</lpage>.
+<pub-id pub-id-type="pmid">15763837</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R32">
+<label>32</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Denman</surname>
+<given-names>M</given-names>
+</name>
+<name name-style="western">
+<surname>Oyebode</surname>
+<given-names>F</given-names>
+</name>
+<name name-style="western">
+<surname>Greening</surname>
+<given-names>J</given-names>
+</name>
+</person-group>
+<article-title>Reasons for choosing to specialise in psychiatry: differences between core psychiatry trainees and consultant psychiatrists</article-title>.<source>BJPsych Bull</source>
+<year>2016</year>;<volume>40</volume>:<fpage>19</fpage>&#x02013;<lpage>23</lpage>.
+<pub-id pub-id-type="pmid">26958354</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R33">
+<label>33</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Calvert</surname>
+<given-names>SH</given-names>
+</name>
+<name name-style="western">
+<surname>Sharpe</surname>
+<given-names>M</given-names>
+</name>
+<name name-style="western">
+<surname>Power</surname>
+<given-names>M</given-names>
+</name>
+<name name-style="western">
+<surname>Lawrie</surname>
+<given-names>SM</given-names>
+</name>
+</person-group>
 <article-title>Does undergraduate education have an effect on Edinburgh medical students' attitudes to psychiatry and psychiatric patients?</article-title>
 <source>J Nerv Merit Dis</source>
-<year>1999</year>; <volume>187</volume>: <fpage>757</fpage>&#x02013;<lpage>61</lpage>.
-</mixed-citation></ref><ref id="R34"><label>34</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Archdall</surname><given-names>C</given-names></name><name name-style="western"><surname>Atapattu</surname><given-names>T</given-names></name><name name-style="western"><surname>Anderson</surname><given-names>E</given-names></name></person-group>
-<article-title>Qualitative study of medical students' experiences of a psychiatric attachment</article-title>. <source>Psychiatrist</source>
-<year>2013</year>; <volume>37</volume>: <fpage>21</fpage>&#x02013;<lpage>4</lpage>.
-</mixed-citation></ref><ref id="R35"><label>35</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Rajagopal</surname><given-names>S</given-names></name><name name-style="western"><surname>Rehill</surname><given-names>KS</given-names></name><name name-style="western"><surname>Godfrey</surname><given-names>E</given-names></name></person-group>
-<article-title>Psychiatry as a career choice compared with other specialties: a survey of medical students</article-title>. <source>Psychiatrist</source>
-<year>2004</year>; <volume>28</volume>: <fpage>444</fpage>&#x02013;<lpage>6</lpage>.
-</mixed-citation></ref><ref id="R36"><label>36</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Korszun</surname><given-names>A</given-names></name><name name-style="western"><surname>Dharmaindra</surname><given-names>N</given-names></name><name name-style="western"><surname>Koravangattu</surname><given-names>V</given-names></name><name name-style="western"><surname>Bhui</surname><given-names>K</given-names></name></person-group>
-<article-title>Teaching medical students and recruitment to psychiatry: attitudes of psychiatric clinicians, academics and trainees</article-title>. <source>Psychiatrist</source>
-<year>2011</year>; <volume>35</volume>: <fpage>350</fpage>&#x02013;<lpage>3</lpage>.
-</mixed-citation></ref><ref id="R37"><label>37</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Woolf</surname><given-names>K</given-names></name><name name-style="western"><surname>Elton</surname><given-names>C</given-names></name><name name-style="western"><surname>Newport</surname><given-names>M</given-names></name></person-group>
-<article-title>The specialty choices of graduates from Brighton and Sussex Medical School: a longitudinal cohort study</article-title>. <source>BMC Med Educ</source>
-<year>2015</year>; <volume>15</volume>: <fpage>46</fpage>.
-<pub-id pub-id-type="pmid">25889968</pub-id></mixed-citation></ref><ref id="R38"><label>38</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Barras</surname><given-names>C</given-names></name><name name-style="western"><surname>Harris</surname><given-names>J</given-names></name></person-group>
-<article-title>Psychiatry recruited you, but will it retain you? Survey of trainees' opinions</article-title>. <source>Psychiatrist</source>
-<year>2012</year>; <volume>36</volume>: <fpage>71</fpage>&#x02013;<lpage>7</lpage>.
-</mixed-citation></ref><ref id="R39"><label>39</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Dein</surname><given-names>K</given-names></name><name name-style="western"><surname>Livingston</surname><given-names>G</given-names></name><name name-style="western"><surname>Bench</surname><given-names>C</given-names></name></person-group>
-<article-title>&#x02018;Why did I become a psychiatrist?&#x02019;: survey of consultant psychiatrists</article-title>. <source>Psychiatrist</source>
-<year>2007</year>; <volume>31</volume>: <fpage>227</fpage>&#x02013;<lpage>30</lpage>.
-</mixed-citation></ref><ref id="R40"><label>40</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Lyons</surname><given-names>Z</given-names></name></person-group>
-<article-title>Attitudes of medical students toward psychiatry and psychiatry as a career: a systematic review</article-title>. <source>Acad Psychiatry</source>
-<year>2013</year>; <volume>37</volume>: <fpage>150</fpage>&#x02013;<lpage>7</lpage>.
-<pub-id pub-id-type="pmid">23632923</pub-id></mixed-citation></ref><ref id="R41"><label>41</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Qureshi</surname><given-names>H</given-names></name><name name-style="western"><surname>Carney</surname><given-names>S</given-names></name><name name-style="western"><surname>Iversen</surname><given-names>A</given-names></name></person-group>
-<article-title>Narrative review of the impact of clinical psychiatry attachments on attitudes to psychiatry</article-title>. <source>Psychiatrist</source>
-<year>2013</year>; <volume>37</volume>: <fpage>104</fpage>&#x02013;<lpage>10</lpage>.
-</mixed-citation></ref><ref id="R42"><label>42</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>El-Sayeh</surname><given-names>HG</given-names></name><name name-style="western"><surname>Budd</surname><given-names>S</given-names></name><name name-style="western"><surname>Waller</surname><given-names>R</given-names></name><name name-style="western"><surname>Holmes</surname><given-names>J</given-names></name></person-group>
-<article-title>How to win the hearts and minds of students in psychiatry</article-title>. <source>Advan Psychiatr Treat</source>
-<year>2006</year>; <volume>12</volume>: <fpage>182</fpage>&#x02013;<lpage>92</lpage>.
-</mixed-citation></ref><ref id="R43"><label>43</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Mukherjee</surname><given-names>K</given-names></name><name name-style="western"><surname>Maier</surname><given-names>M</given-names></name><name name-style="western"><surname>Wessely</surname><given-names>S</given-names></name></person-group>
-<article-title>UK crisis in recruitment into psychiatric training</article-title>. <source>Psychiatrist</source>
-<year>2013</year>; <volume>37</volume>: <fpage>210</fpage>&#x02013;<lpage>4</lpage>.
-</mixed-citation></ref><ref id="R44"><label>44</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><name name-style="western"><surname>Shah</surname><given-names>P</given-names></name><name name-style="western"><surname>Brown</surname><given-names>T</given-names></name><name name-style="western"><surname>Eagles</surname><given-names>J</given-names></name></person-group>
-<article-title>Choosing psychiatry: factors influencing career choice among foundation doctors in Scotland</article-title>. In <source>Teaching Psychiatry to Undergraduates</source> (eds <person-group person-group-type="editor"><name name-style="western"><surname>Brown</surname><given-names>T</given-names></name><name name-style="western"><surname>Eagles</surname><given-names>J</given-names></name></person-group>): <fpage>255</fpage>&#x02013;<lpage>63</lpage>. <publisher-name>RCPsych Publications</publisher-name>, <year>2011</year>.
-</mixed-citation></ref><ref id="R45"><label>45</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Kelley</surname><given-names>TA</given-names></name><name name-style="western"><surname>Brown</surname><given-names>J</given-names></name><name name-style="western"><surname>Carney</surname><given-names>S</given-names></name></person-group>
-<article-title>Foundation Programme psychiatry placement and doctors' decision to pursue a career in psychiatry</article-title>. <source>Psychiatrist</source>
-<year>2013</year>; <volume>37</volume>: <fpage>30</fpage>&#x02013;<lpage>2</lpage>.
-</mixed-citation></ref><ref id="R46"><label>46</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Greening</surname><given-names>J</given-names></name><name name-style="western"><surname>Tarn</surname><given-names>M</given-names></name><name name-style="western"><surname>Purkis</surname><given-names>J</given-names></name></person-group>
-<article-title>How to run a psychiatry summer school</article-title>. <source>Psychiatrist</source>
-<year>2013</year>; <volume>37</volume>: <fpage>65</fpage>&#x02013;<lpage>71</lpage>.
-</mixed-citation></ref><ref id="R47"><label>47</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Ajaz</surname><given-names>A</given-names></name><name name-style="western"><surname>David</surname><given-names>R</given-names></name><name name-style="western"><surname>Brown</surname><given-names>D</given-names></name><name name-style="western"><surname>Smuk</surname><given-names>M</given-names></name><name name-style="western"><surname>Korszun</surname><given-names>A</given-names></name></person-group>
-<article-title>BASH: badmouthing, attitudes and stigmatisation in healthcare as experienced by medical students</article-title>. <source>BJPsych Bull</source>
-<year>2016</year>; <volume>40</volume>: <fpage>97</fpage>&#x02013;<lpage>102</lpage>.
-<pub-id pub-id-type="pmid">27087996</pub-id></mixed-citation></ref><ref id="R48"><label>48</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Ahmed</surname><given-names>K</given-names></name><name name-style="western"><surname>Bennett</surname><given-names>DM</given-names></name><name name-style="western"><surname>Halder</surname><given-names>N</given-names></name><name name-style="western"><surname>Byrne</surname><given-names>P</given-names></name></person-group>
-<article-title>Medfest: the effect of a national medical film festival on attendees' attitudes to psychiatry and psychiatrists and medical students' attitudes to a career in psychiatry</article-title>. <source>Acad Psychiatry</source>
-<year>2015</year>; <volume>39</volume>: <fpage>335</fpage>&#x02013;<lpage>8</lpage>.
-<pub-id pub-id-type="pmid">25034954</pub-id></mixed-citation></ref><ref id="R49"><label>49</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Kerby</surname><given-names>J</given-names></name><name name-style="western"><surname>Calton</surname><given-names>T</given-names></name><name name-style="western"><surname>Dimambro</surname><given-names>B</given-names></name><name name-style="western"><surname>Flood</surname><given-names>C</given-names></name><name name-style="western"><surname>Glazebrook</surname><given-names>C</given-names></name></person-group>
-<article-title>Anti-stigma films and medical students' attitudes towards mental illness and psychiatry: randomised controlled trial</article-title>. <source>Psychiatrist</source>
-<year>2008</year>; <volume>32</volume>: <fpage>345</fpage>&#x02013;<lpage>9</lpage>.
-</mixed-citation></ref></ref-list></back></article>
+<year>1999</year>;<volume>187</volume>:<fpage>757</fpage>&#x02013;<lpage>61</lpage>.
+</mixed-citation>
+</ref>
+<ref id="R34">
+<label>34</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Archdall</surname>
+<given-names>C</given-names>
+</name>
+<name name-style="western">
+<surname>Atapattu</surname>
+<given-names>T</given-names>
+</name>
+<name name-style="western">
+<surname>Anderson</surname>
+<given-names>E</given-names>
+</name>
+</person-group>
+<article-title>Qualitative study of medical students' experiences of a psychiatric attachment</article-title>.<source>Psychiatrist</source>
+<year>2013</year>;<volume>37</volume>:<fpage>21</fpage>&#x02013;<lpage>4</lpage>.
+</mixed-citation>
+</ref>
+<ref id="R35">
+<label>35</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Rajagopal</surname>
+<given-names>S</given-names>
+</name>
+<name name-style="western">
+<surname>Rehill</surname>
+<given-names>KS</given-names>
+</name>
+<name name-style="western">
+<surname>Godfrey</surname>
+<given-names>E</given-names>
+</name>
+</person-group>
+<article-title>Psychiatry as a career choice compared with other specialties: a survey of medical students</article-title>.<source>Psychiatrist</source>
+<year>2004</year>;<volume>28</volume>:<fpage>444</fpage>&#x02013;<lpage>6</lpage>.
+</mixed-citation>
+</ref>
+<ref id="R36">
+<label>36</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Korszun</surname>
+<given-names>A</given-names>
+</name>
+<name name-style="western">
+<surname>Dharmaindra</surname>
+<given-names>N</given-names>
+</name>
+<name name-style="western">
+<surname>Koravangattu</surname>
+<given-names>V</given-names>
+</name>
+<name name-style="western">
+<surname>Bhui</surname>
+<given-names>K</given-names>
+</name>
+</person-group>
+<article-title>Teaching medical students and recruitment to psychiatry: attitudes of psychiatric clinicians, academics and trainees</article-title>.<source>Psychiatrist</source>
+<year>2011</year>;<volume>35</volume>:<fpage>350</fpage>&#x02013;<lpage>3</lpage>.
+</mixed-citation>
+</ref>
+<ref id="R37">
+<label>37</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Woolf</surname>
+<given-names>K</given-names>
+</name>
+<name name-style="western">
+<surname>Elton</surname>
+<given-names>C</given-names>
+</name>
+<name name-style="western">
+<surname>Newport</surname>
+<given-names>M</given-names>
+</name>
+</person-group>
+<article-title>The specialty choices of graduates from Brighton and Sussex Medical School: a longitudinal cohort study</article-title>.<source>BMC Med Educ</source>
+<year>2015</year>;<volume>15</volume>:<fpage>46</fpage>.
+<pub-id pub-id-type="pmid">25889968</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R38">
+<label>38</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Barras</surname>
+<given-names>C</given-names>
+</name>
+<name name-style="western">
+<surname>Harris</surname>
+<given-names>J</given-names>
+</name>
+</person-group>
+<article-title>Psychiatry recruited you, but will it retain you? Survey of trainees' opinions</article-title>.<source>Psychiatrist</source>
+<year>2012</year>;<volume>36</volume>:<fpage>71</fpage>&#x02013;<lpage>7</lpage>.
+</mixed-citation>
+</ref>
+<ref id="R39">
+<label>39</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Dein</surname>
+<given-names>K</given-names>
+</name>
+<name name-style="western">
+<surname>Livingston</surname>
+<given-names>G</given-names>
+</name>
+<name name-style="western">
+<surname>Bench</surname>
+<given-names>C</given-names>
+</name>
+</person-group>
+<article-title>&#x02018;Why did I become a psychiatrist?&#x02019;: survey of consultant psychiatrists</article-title>.<source>Psychiatrist</source>
+<year>2007</year>;<volume>31</volume>:<fpage>227</fpage>&#x02013;<lpage>30</lpage>.
+</mixed-citation>
+</ref>
+<ref id="R40">
+<label>40</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Lyons</surname>
+<given-names>Z</given-names>
+</name>
+</person-group>
+<article-title>Attitudes of medical students toward psychiatry and psychiatry as a career: a systematic review</article-title>.<source>Acad Psychiatry</source>
+<year>2013</year>;<volume>37</volume>:<fpage>150</fpage>&#x02013;<lpage>7</lpage>.
+<pub-id pub-id-type="pmid">23632923</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R41">
+<label>41</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Qureshi</surname>
+<given-names>H</given-names>
+</name>
+<name name-style="western">
+<surname>Carney</surname>
+<given-names>S</given-names>
+</name>
+<name name-style="western">
+<surname>Iversen</surname>
+<given-names>A</given-names>
+</name>
+</person-group>
+<article-title>Narrative review of the impact of clinical psychiatry attachments on attitudes to psychiatry</article-title>.<source>Psychiatrist</source>
+<year>2013</year>;<volume>37</volume>:<fpage>104</fpage>&#x02013;<lpage>10</lpage>.
+</mixed-citation>
+</ref>
+<ref id="R42">
+<label>42</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>El-Sayeh</surname>
+<given-names>HG</given-names>
+</name>
+<name name-style="western">
+<surname>Budd</surname>
+<given-names>S</given-names>
+</name>
+<name name-style="western">
+<surname>Waller</surname>
+<given-names>R</given-names>
+</name>
+<name name-style="western">
+<surname>Holmes</surname>
+<given-names>J</given-names>
+</name>
+</person-group>
+<article-title>How to win the hearts and minds of students in psychiatry</article-title>.<source>Advan Psychiatr Treat</source>
+<year>2006</year>;<volume>12</volume>:<fpage>182</fpage>&#x02013;<lpage>92</lpage>.
+</mixed-citation>
+</ref>
+<ref id="R43">
+<label>43</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Mukherjee</surname>
+<given-names>K</given-names>
+</name>
+<name name-style="western">
+<surname>Maier</surname>
+<given-names>M</given-names>
+</name>
+<name name-style="western">
+<surname>Wessely</surname>
+<given-names>S</given-names>
+</name>
+</person-group>
+<article-title>UK crisis in recruitment into psychiatric training</article-title>.<source>Psychiatrist</source>
+<year>2013</year>;<volume>37</volume>:<fpage>210</fpage>&#x02013;<lpage>4</lpage>.
+</mixed-citation>
+</ref>
+<ref id="R44">
+<label>44</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Shah</surname>
+<given-names>P</given-names>
+</name>
+<name name-style="western">
+<surname>Brown</surname>
+<given-names>T</given-names>
+</name>
+<name name-style="western">
+<surname>Eagles</surname>
+<given-names>J</given-names>
+</name>
+</person-group>
+<article-title>Choosing psychiatry: factors influencing career choice among foundation doctors in Scotland</article-title>. In <source>Teaching Psychiatry to Undergraduates</source> (eds <person-group person-group-type="editor">
+<name name-style="western">
+<surname>Brown</surname>
+<given-names>T</given-names>
+</name>
+<name name-style="western">
+<surname>Eagles</surname>
+<given-names>J</given-names>
+</name>
+</person-group>):<fpage>255</fpage>&#x02013;<lpage>63</lpage>.<publisher-name>RCPsych Publications</publisher-name>,<year>2011</year>.
+</mixed-citation>
+</ref>
+<ref id="R45">
+<label>45</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Kelley</surname>
+<given-names>TA</given-names>
+</name>
+<name name-style="western">
+<surname>Brown</surname>
+<given-names>J</given-names>
+</name>
+<name name-style="western">
+<surname>Carney</surname>
+<given-names>S</given-names>
+</name>
+</person-group>
+<article-title>Foundation Programme psychiatry placement and doctors' decision to pursue a career in psychiatry</article-title>.<source>Psychiatrist</source>
+<year>2013</year>;<volume>37</volume>:<fpage>30</fpage>&#x02013;<lpage>2</lpage>.
+</mixed-citation>
+</ref>
+<ref id="R46">
+<label>46</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Greening</surname>
+<given-names>J</given-names>
+</name>
+<name name-style="western">
+<surname>Tarn</surname>
+<given-names>M</given-names>
+</name>
+<name name-style="western">
+<surname>Purkis</surname>
+<given-names>J</given-names>
+</name>
+</person-group>
+<article-title>How to run a psychiatry summer school</article-title>.<source>Psychiatrist</source>
+<year>2013</year>;<volume>37</volume>:<fpage>65</fpage>&#x02013;<lpage>71</lpage>.
+</mixed-citation>
+</ref>
+<ref id="R47">
+<label>47</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Ajaz</surname>
+<given-names>A</given-names>
+</name>
+<name name-style="western">
+<surname>David</surname>
+<given-names>R</given-names>
+</name>
+<name name-style="western">
+<surname>Brown</surname>
+<given-names>D</given-names>
+</name>
+<name name-style="western">
+<surname>Smuk</surname>
+<given-names>M</given-names>
+</name>
+<name name-style="western">
+<surname>Korszun</surname>
+<given-names>A</given-names>
+</name>
+</person-group>
+<article-title>BASH: badmouthing, attitudes and stigmatisation in healthcare as experienced by medical students</article-title>.<source>BJPsych Bull</source>
+<year>2016</year>;<volume>40</volume>:<fpage>97</fpage>&#x02013;<lpage>102</lpage>.
+<pub-id pub-id-type="pmid">27087996</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R48">
+<label>48</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Ahmed</surname>
+<given-names>K</given-names>
+</name>
+<name name-style="western">
+<surname>Bennett</surname>
+<given-names>DM</given-names>
+</name>
+<name name-style="western">
+<surname>Halder</surname>
+<given-names>N</given-names>
+</name>
+<name name-style="western">
+<surname>Byrne</surname>
+<given-names>P</given-names>
+</name>
+</person-group>
+<article-title>Medfest: the effect of a national medical film festival on attendees' attitudes to psychiatry and psychiatrists and medical students' attitudes to a career in psychiatry</article-title>.<source>Acad Psychiatry</source>
+<year>2015</year>;<volume>39</volume>:<fpage>335</fpage>&#x02013;<lpage>8</lpage>.
+<pub-id pub-id-type="pmid">25034954</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R49">
+<label>49</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Kerby</surname>
+<given-names>J</given-names>
+</name>
+<name name-style="western">
+<surname>Calton</surname>
+<given-names>T</given-names>
+</name>
+<name name-style="western">
+<surname>Dimambro</surname>
+<given-names>B</given-names>
+</name>
+<name name-style="western">
+<surname>Flood</surname>
+<given-names>C</given-names>
+</name>
+<name name-style="western">
+<surname>Glazebrook</surname>
+<given-names>C</given-names>
+</name>
+</person-group>
+<article-title>Anti-stigma films and medical students' attitudes towards mental illness and psychiatry: randomised controlled trial</article-title>.<source>Psychiatrist</source>
+<year>2008</year>;<volume>32</volume>:<fpage>345</fpage>&#x02013;<lpage>9</lpage>.
+</mixed-citation>
+</ref>
+</ref-list>
+</back>
+</article>

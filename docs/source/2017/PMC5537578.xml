@@ -1,157 +1,1640 @@
-<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
-<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-journalpublishing1.dtd?><?SourceDTD.Version 1.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">BJPsych Bull</journal-id><journal-id journal-id-type="iso-abbrev">BJPsych Bull</journal-id><journal-id journal-id-type="hwp">pbrcpsych</journal-id><journal-title-group><journal-title>BJPsych Bulletin</journal-title></journal-title-group><issn pub-type="ppub">2056-4694</issn><issn pub-type="epub">2056-4708</issn><publisher><publisher-name>Royal College of Psychiatrists</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">5537578</article-id><article-id pub-id-type="doi">10.1192/pb.bp.116.053819</article-id><article-categories><subj-group subj-group-type="heading"><subject>Education &#x00026; Training</subject></subj-group></article-categories><title-group><article-title>Shared decision-making in medication management: development of a training intervention</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Stead</surname><given-names>Ute</given-names></name><xref ref-type="aff" rid="A1">1</xref><xref ref-type="corresp" rid="cor1"/></contrib><contrib contrib-type="author"><name><surname>Morant</surname><given-names>Nicola</given-names></name><xref ref-type="aff" rid="A2">2</xref></contrib><contrib contrib-type="author"><name><surname>Ramon</surname><given-names>Shulamit</given-names></name><xref ref-type="aff" rid="A3">3</xref></contrib></contrib-group><aff id="A1"><label>1</label>Cambridgeshire and Peterborough NHS Foundation Trust, Cambridge</aff><aff id="A2"><label>2</label>University College London, London</aff><aff id="A3"><label>3</label>University of Hertfordshire, Hatfield</aff><author-notes><corresp id="cor1">
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article">    <?properties open_access?>    <?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN?>    <?DTDIdentifier.IdentifierType public?>    <?SourceDTD.DTDName JATS-journalpublishing1.dtd?>    <?SourceDTD.Version 1.0?>    <?ConverterInfo.XSLTName jp2nlmx2.xsl?>    <?ConverterInfo.Version 1?>
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="nlm-ta">BJPsych Bull</journal-id>
+            <journal-id journal-id-type="iso-abbrev">BJPsych Bull</journal-id>
+            <journal-id journal-id-type="hwp">pbrcpsych</journal-id>
+            <journal-title-group>
+                <journal-title>BJPsych Bulletin</journal-title>
+            </journal-title-group>
+            <issn pub-type="ppub">2056-4694</issn>
+            <issn pub-type="epub">2056-4708</issn>
+            <publisher>
+                <publisher-name>Royal College of Psychiatrists</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="pmcid">5537578</article-id>
+            <article-id pub-id-type="doi">10.1192/pb.bp.116.053819</article-id>
+            <article-categories>
+                <subj-group subj-group-type="heading">
+                    <subject>Education &#x00026; Training</subject>
+                </subj-group>
+            </article-categories>
+            <title-group>
+                <article-title>Shared decision-making in medication management: development of a training intervention</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Stead</surname>
+                        <given-names>Ute</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                    <xref ref-type="corresp" rid="cor1" />
+                </contrib>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Morant</surname>
+                        <given-names>Nicola</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A2">2</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Ramon</surname>
+                        <given-names>Shulamit</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A3">3</xref>
+                </contrib>
+            </contrib-group>
+            <aff id="A1">
+                <label>1</label>Cambridgeshire and Peterborough NHS Foundation Trust, Cambridge</aff>
+            <aff id="A2">
+                <label>2</label>University College London, London</aff>
+            <aff id="A3">
+                <label>3</label>University of Hertfordshire, Hatfield</aff>
+            <author-notes>
+                <corresp id="cor1">
 Correspondence to Ute Stead (<email>utestead@doctors.org.uk</email>)
-</corresp><fn><p><bold>Ute Stead</bold> is a Specialty Doctor in Psychiatry at Cambridgeshire and Peterborough NHS Foundation Trust. <bold>Nicola Morant</bold> is an independent research consultant and Lecturer in Qualitative Mental Health Research in the Division of Psychiatry, University College London. <bold>Shulamit Ramon</bold> is the Mental Health Recovery Research Lead at the University of Hertfordshire.</p></fn></author-notes><pub-date pub-type="ppub"><month>8</month><year>2017</year></pub-date><volume>41</volume><issue>4</issue><fpage>221</fpage><lpage>227</lpage><history><date date-type="received"><day>10</day><month>2</month><year>2016</year></date><date date-type="rev-recd"><day>29</day><month>9</month><year>2016</year></date><date date-type="accepted"><day>13</day><month>10</month><year>2016</year></date></history><permissions><copyright-statement>&#x000a9; 2017 The Authors</copyright-statement><copyright-year>2017</copyright-year><license license-type="creative-commons" xlink:href="http://creativecommons.org/licenses/by/4.0"><license-p>This is an open-access article published by the Royal College of Psychiatrists and distributed under the terms of the Creative Commons Attribution License (<uri xlink:href="http://creativecommons.org/licenses/by/4.0">http://creativecommons.org/licenses/by/4.0</uri>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xlink:title="pdf" xlink:href="221.pdf"/><abstract><p id="P1">Shared decision-making is a collaborative process in which clinicians and patients make treatment decisions together. Although it is considered essential to patient-centred care, the adoption of shared decision-making into routine clinical practice has been slow, and there is a need to increase implementation. This paper describes the development and delivery of a training intervention to promote shared decision-making in medication management in mental health as part of the Shared Involvement in Medication Management Education (ShIMME) project. Three stakeholder groups (service users, care coordinators and psychiatrists) received training in shared decision-making, and their feedback was evaluated. The programme was mostly well received, with all groups rating interaction with peers as the best aspect of the training. This small-scale pilot shows that it is feasible to deliver training in shared decision-making to several key stakeholders. Larger studies will be required to assess the effectiveness of such training.</p></abstract><funding-group><award-group id="funding-1"><funding-source>National Institute for Health Research</funding-source><funding-source>Research for Patient Benefit (RfPB) Programme</funding-source><award-id>PB-PG-0909-20054</award-id></award-group></funding-group></article-meta></front><body><p id="P2">Shared decision-making is a collaborative process in which clinicians and patients make treatment decisions in partnership. Both partners bring valuable contributions to this process: patients share their experiences, values and preferences, and clinicians support patients in clarifying these, as well as providing clinical expertise and evidence-based information about treatment options. Jointly, they aim to reach an agreement on the best way to proceed.<sup><xref rid="R1" ref-type="bibr">1</xref>&#x02013;<xref rid="R3" ref-type="bibr">3</xref></sup></p><p id="P3">Shared decision-making is considered particularly relevant for preference-sensitive decisions, where there are several reasonable treatment options and evidence does not support a clear best choice. Different options require the balancing of possible benefits against potentially significant adverse or as yet unknown effects.<sup><xref rid="R3" ref-type="bibr">3</xref>&#x02013;<xref rid="R5" ref-type="bibr">5</xref></sup> Most medication decisions in mental health fall into this category, which makes psychiatric medication management an important area for shared decision-making.<sup><xref rid="R6" ref-type="bibr">6</xref></sup></p><p id="P4">There are good reasons for encouraging adoption of shared decision-making in mental health. Many patients wish for greater participation in treatment decisions.<sup><xref rid="R7" ref-type="bibr">7</xref></sup> In chronic conditions, where long-term healthcare decisions are required, studies have shown that shared decision-making improves satisfaction, adherence and well-being.<sup><xref rid="R8" ref-type="bibr">8</xref></sup> Shared decision-making is at the core of recovery principles which promote autonomy and self-management skills, as well as being considered essential for delivering patient-centred care.<sup><xref rid="R9" ref-type="bibr">9</xref></sup> National and international government initiatives,<sup><xref rid="R1" ref-type="bibr">1</xref>,<xref rid="R10" ref-type="bibr">10</xref>&#x02013;<xref rid="R13" ref-type="bibr">13</xref></sup> such as the UK Health and Social Care Act 2012 and the US Patient Protection and Affordable Care Act 2010, endorse shared decision-making, as do professional bodies<sup><xref rid="R14" ref-type="bibr">14</xref>&#x02013;<xref rid="R16" ref-type="bibr">16</xref></sup> and practice guidelines.<sup><xref rid="R17" ref-type="bibr">17</xref>&#x02013;<xref rid="R21" ref-type="bibr">21</xref></sup> Shared decision-making is an expected element of all NHS care (Health and Social Care Act 2012, s. 23, 26). Although there is evidence of its benefits, and many patients want greater involvement,<sup><xref rid="R7" ref-type="bibr">7</xref></sup> the adoption of shared decision-making into routine clinical practice continues to be slow,<sup><xref rid="R22" ref-type="bibr">22</xref>,<xref rid="R23" ref-type="bibr">23</xref></sup> especially in mental health <sup><xref rid="R24" ref-type="bibr">24</xref></sup></p><p id="P5">A range of interventions has been developed to promote implementation of shared decision-making, predominantly in physical health.<sup><xref rid="R25" ref-type="bibr">25</xref>&#x02013;<xref rid="R28" ref-type="bibr">28</xref></sup> Although this is an evolving area, relatively few interventions focus specifically on treatment decisions in mental health.<sup><xref rid="R6" ref-type="bibr">6</xref>,<xref rid="R29" ref-type="bibr">29</xref>&#x02013;<xref rid="R3" ref-type="bibr">33</xref></sup> Evidence is sparse regarding the effectiveness of such interventions in general,<sup><xref rid="R23" ref-type="bibr">23</xref>,<xref rid="R25" ref-type="bibr">25</xref></sup> and in mental health settings in particular,<sup><xref rid="R33" ref-type="bibr">33</xref></sup> although some promising results have been reported. These include a study of in-patients with schizophrenia or schizoaffective disorder who received five sessions of shared decision-making training;<sup><xref rid="R29" ref-type="bibr">29</xref></sup> a multifaceted programme based on shared decision-making concepts for primary care physicians treating patients with depression;<sup><xref rid="R30" ref-type="bibr">30</xref></sup> a peer-run Decision Support Centre in the waiting area of a psychiatric medication clinic;<sup><xref rid="R31" ref-type="bibr">31</xref></sup> and online resources supporting shared decision-making.<sup><xref rid="R32" ref-type="bibr">32</xref></sup> The limited evidence available points towards interventions being more effective when involving healthcare professionals and patients together, rather than only targeting one group.<sup><xref rid="R23" ref-type="bibr">23</xref></sup></p><p id="P6">The Shared Involvement in Medication Management Education (ShIMME) project was set up to promote shared decision-making of service users (the term &#x02018;service users&#x02019; was used in the ShIMME project and has been retained here) in medication decisions by delivering a specially developed training programme to three key stakeholder groups: service users, care coordinators and psychiatrists. (In the context of the ShIMME project &#x02018;care coordinator&#x02019; refers to psychiatric nurses, social workers, occupational therapists, psychologists, support workers, peer workers and students training in these disciplines.) To our knowledge this is the first UK-based project to deliver and evaluate such an intervention that targets multiple stakeholders simultaneously.</p><p id="P7">The project was a partnership between Cambridgeshire and Peterborough NHS Foundation Trust (CPFT) and Anglia Ruskin University. Reflecting the strong collaborative ethos, service users were active team members jointly with academic researchers, mental health practitioners and other professionals working within CPFT.</p><p id="P8">This paper describes the stages of the ShIMME project: consultations about shared decision-making, development and implementation of a pilot intervention, and evaluation of feedback. It is one of several articles relating to the project.<sup><xref rid="R34" ref-type="bibr">34</xref>&#x02013;<xref rid="R36" ref-type="bibr">36</xref></sup></p><sec sec-type="methods" id="S1"><title>Method</title><sec id="S2"><title>Consultation phase</title><p id="P9">The initial phase of the project involved a literature review and consultation with local stakeholders about the process of shared decision-making. Data were collected via focus groups with practitioners and users of adult mental health services in CPFT. Four focus groups were conducted with service users (<italic>n</italic> = 27), two with psychiatrists (<italic>n</italic> = 4), one with community psychiatric nurses (CPNs, <italic>n</italic> = 10), and one with care coordinators other than CPNs (<italic>n</italic> = 8). Four individual telephone interviews were also conducted with psychiatrists. Discussion was generated in response to open questions about current practice in medication management, how decisions should ideally be made, perceived barriers to and facilitators of shared decision-making, and how shared decision-making training should be conducted. Consultation groups lasted around 90 min and were audio recorded. The anonymised transcripts were analysed using thematic analysis,<sup><xref rid="R37" ref-type="bibr">37</xref></sup> conducted with NVivo software (<uri xlink:href="www.qsrinternational.com">www.qsrinternational.com</uri>). This involved a detailed exploration of transcript texts by two team members who worked in collaboration to iteratively develop themes.</p><p id="P10">The following themes about shared decision-making in medication management, which are presented in more detail elsewhere,<sup><xref rid="R34" ref-type="bibr">34</xref></sup> emerged from this analysis and fed into the development of the training programmes.</p><list list-type="order"><list-item><p id="P11">Ongoing respectful, trusting, open and honest relationships are paramount &#x02013; service users' concerns and experiences need to be heard and taken seriously.</p></list-item><list-item><p id="P12">Differences of power in the consultation can be complex and a barrier to shared decision-making &#x02013; clinicians can underestimate the effect this has.</p></list-item><list-item><p id="P13">Access to reliable, user-friendly information is essential, including information about reducing or coming off medication and adverse effects of medication.</p></list-item><list-item><p id="P14">All available treatment options should be considered, including non-pharmacological treatments.</p></list-item><list-item><p id="P15">The process of shared decision-making needs to be flexible, taking into account preferences and situations which may change over time. Acute stages of illness or crisis situations were identified as times when shared decision-making would be likely to be more problematic.</p></list-item><list-item><p id="P16">Broader stakeholders (beyond service user and prescribe!<sup><xref rid="R1" ref-type="bibr">1</xref></sup>) have important roles in the shared decision-making process (e.g. other professionals, carers).</p></list-item><list-item><p id="P17">There is currently significant variation in medication management and the extent to which this involves shared decision-making.</p></list-item></list></sec><sec id="S3"><title>Training intervention: design</title><p id="P18">A multidisciplinary working group including service users, academic researchers, psychiatrists, a mental health nurse and a pharmacist met regularly to develop the training intervention. The results of the consultations, literature review and examples of existing practice fed into the development.</p><p id="P19">Training was designed to be delivered to service users, care coordinators and psychiatrists in parallel but separate groups. The aim was to optimise the impact of the intervention by delivering it simultaneously to key stakeholders who are actively involved in medication management, while addressing the specific training needs and concerns of each group. Each group was facilitated by a service user trainer, and either a psychiatrist (for service user and psychiatrist groups) or a mental health nurse (for care coordinator groups), allowing participants to learn from two relevant perspectives.</p><p id="P20">The programme employed a range of interactive learning methods. These included specially commissioned video material showing different clinical scenarios, small group exercises, general group discussions, use of testimonials and role plays. The resource materials and hand-outs covered a diverse range of views and approaches, to raise awareness and stimulate discussion. All participants had access to the public section of the project website (<uri xlink:href="www.shimme.arcusglobal.com">www.shimme.arcusglobal.com</uri>) as well as a secure discussion forum for their group.</p><p id="P21">The training programmes for the three stakeholder groups covered the same core content:
-<list list-type="bullet"><list-item><p id="P22">background to the project</p></list-item><list-item><p id="P23">key components of shared decision-making in the clinical encounter and rationale for promoting shared decision-making</p></list-item><list-item><p id="P24">barriers to and facilitators of shared decision-making</p></list-item><list-item><p id="P25">awareness of the effects of power imbalances in psychiatric consultations</p></list-item><list-item><p id="P26">developing collaborative relationships</p></list-item><list-item><p id="P27">importance of clarifying personal preferences, values and experiences in shared decision-making</p></list-item><list-item><p id="P28">the concept of a &#x02018;meeting of two experts&#x02019; in the clinical encounter, with personal experience and clinical expertise complementing each other<sup><xref rid="R38" ref-type="bibr">38</xref></sup></p></list-item><list-item><p id="P29">accessing and appraising information about medication, including examples of decision aids</p></list-item><list-item><p id="P30">raising awareness of adjuncts or alternatives to medication</p></list-item><list-item><p id="P31">addressing issues around coming off or reducing medication</p></list-item><list-item><p id="P32">trialling of versions of three paper-based tools developed for supporting and recording the shared decision-making process</p></list-item><list-item><p id="P33">information about useful websites.</p></list-item></list>
-</p><p id="P34">In addition to the core content, the service user groups focused on:
-<list list-type="bullet"><list-item><p id="P35">practising setting personal goals and identifying preferences</p></list-item><list-item><p id="P36">making use of a personal well-being plan and self-help resources</p></list-item><list-item><p id="P37">looking beyond medication to enhance well-being, drawing on Deegan's work on &#x02018;personal medicine&#x02019;<sup><xref rid="R39" ref-type="bibr">39</xref></sup></p></list-item><list-item><p id="P38">introduction to assertiveness</p></list-item><list-item><p id="P39">how to access information about medication, including a talk by a National Health Service (NHS) trust mental health pharmacist, who was available for further discussion afterwards</p></list-item><list-item><p id="P40">supported &#x02018;hands-on&#x02019; experience exploring relevant websites.</p></list-item></list>
-</p><p id="P41">Besides the core content, the care coordinator training focused on adopting the role of a &#x02018;shared decision-making coach&#x02019;, supporting service users to play a more active part in the shared decision-making process <sup><xref rid="R35" ref-type="bibr">35</xref></sup> The programme for psychiatrists focused on competencies and resources that support embedding shared decision-making into routine clinical practice while acknowledging real-life challenges.</p></sec><sec id="S4"><title>Training intervention: delivery</title><p id="P42">All training group participants were recruited from CPFT community mental health services: service users from the rehabilitation and recovery pathways; and professionals from these services and from assertive outreach teams. Service users were invited to participate by their care coordinators and psychiatrists and care coordinators were approached by team managers. In total, 47 service users, 12 psychiatrists and 35 care coordinators took part in the training.</p><p id="P43">Training was held in three different locations to reduce travelling for participants. Service users were reimbursed for travelling costs and received a fee (&#x000a3;40) for completing an evaluation before and after the programme.</p><p id="P44">The training was delivered in small group settings (2&#x02013;12 participants), with each cohort completing their course of training together. An atmosphere of trust, acceptance and respect was encouraged. Participants had the opportunity for informal interaction before and after sessions as well as during breaks. Facilitators and project team members could be contacted between sessions for additional support.</p><p id="P45">Service user training groups were structured into four 2h sessions, meeting fortnightly After the training, two follow-up sessions were offered for ongoing support. Care coordinators met three times, at monthly intervals, for 1.5 h. Psychiatrists had two 2 h sessions, one month apart, with an online self-study component. For organisational reasons one multidisciplinary team of clinicians received their training together in a single day.</p></sec><sec id="S5"><title>Evaluation</title><p id="P46">The experience and impact of the training intervention was evaluated by collecting quantitative and qualitative data anonymously from participants at different stages of the project.</p><p id="P47">After providing baseline data, participants and facilitators completed a short questionnaire after each session, and participants completed a longer one immediately after the final training session. The questionnaires explored what the participants had hoped to learn from the programme, their views on its content and impact, and feedback on particular sessions, practical aspects, teaching methods and support materials.</p><p id="P48">Analysis of quantitative and qualitative data examining the impact of the intervention at a 12-month follow-up, as well as an economic analysis, will be reported on separately.</p></sec></sec><sec sec-type="results" id="S6"><title>Results</title><p id="P49">Although care coordinators and psychiatrists were mostly trained in separate groups, their demographic and feedback data are reported as one group of clinicians. Demographic and attendance data for service users and clinicians are shown in <xref ref-type="table" rid="T1">Table 1</xref> and <xref ref-type="table" rid="T2">Table 2</xref>.</p><table-wrap id="T1" orientation="portrait" position="float"><label>Table 1</label><caption><p>Demographic characteristics of participants</p></caption><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" valign="middle" span="1"/><col align="center" valign="middle" span="1"/><col align="center" valign="middle" span="1"/></colgroup><thead><tr><th rowspan="1" colspan="1"/><th valign="top" rowspan="1" colspan="1">Service users<break/>(<italic>n</italic> = 47)<break/><italic>n</italic> (%)</th><th valign="top" rowspan="1" colspan="1">Clinicians<break/>(<italic>n</italic> = 47)<break/><italic>n</italic> (%)</th></tr></thead><tbody><tr><td rowspan="1" colspan="1">Female</td><td rowspan="1" colspan="1">22 (47)</td><td rowspan="1" colspan="1">33 (70)</td></tr><tr><td colspan="3" rowspan="1"><hr/></td></tr><tr><td rowspan="1" colspan="1">Male</td><td rowspan="1" colspan="1">25 (53)</td><td rowspan="1" colspan="1">14 (30)</td></tr><tr><td colspan="3" rowspan="1"><hr/></td></tr><tr><td rowspan="1" colspan="1">Mean age, years</td><td rowspan="1" colspan="1">48</td><td rowspan="1" colspan="1">45</td></tr><tr><td colspan="3" rowspan="1"><hr/></td></tr><tr><td rowspan="1" colspan="1">Ethnicity</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;White</td><td rowspan="1" colspan="1">42 (89)</td><td rowspan="1" colspan="1">37 (79)</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Black</td><td rowspan="1" colspan="1">1 (2)</td><td rowspan="1" colspan="1">1 (2)</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Asian</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">4(9)</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Other</td><td rowspan="1" colspan="1">3 (6)</td><td rowspan="1" colspan="1">2 (4)</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;No data</td><td rowspan="1" colspan="1">1 (2)</td><td rowspan="1" colspan="1">3 (6)</td></tr><tr><td colspan="3" rowspan="1"><hr/></td></tr><tr><td rowspan="1" colspan="1">Education</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Tertiary/further</td><td rowspan="1" colspan="1">30 (64)</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Secondary</td><td rowspan="1" colspan="1">14 (30)</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Primary or less</td><td rowspan="1" colspan="1">1 (2)</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;No data</td><td rowspan="1" colspan="1">2 (4)</td><td rowspan="1" colspan="1"/></tr><tr><td colspan="3" rowspan="1"><hr/></td></tr><tr><td rowspan="1" colspan="1">Employment<sup><xref ref-type="table-fn" rid="TFN16">a</xref></sup></td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Paid/self-employed</td><td rowspan="1" colspan="1">3 (6)</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Voluntary employment</td><td rowspan="1" colspan="1">7 (14)</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Unemployed</td><td rowspan="1" colspan="1">25 (50)</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Student (including part-time)</td><td rowspan="1" colspan="1">4 (8)</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Age-related retirement</td><td rowspan="1" colspan="1">4 (8)</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Other</td><td rowspan="1" colspan="1">7 (14)</td><td rowspan="1" colspan="1"/></tr><tr><td colspan="3" rowspan="1"><hr/></td></tr><tr><td rowspan="1" colspan="1">Professional background of clinicians</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;CPN/nurse</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">11 (23)</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Occupational therapist</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">9 (19)</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Clinical psychologist</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">2 (4)</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Social worker</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">2 (4)</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Support time and recovery worker</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">6 (13)</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Peer support worker</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">2 (4)</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Team leader/deputy manager</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">3 (6)</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Psychiatrist</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">12 (26)</td></tr></tbody></table><table-wrap-foot><fn id="TFN15"><p>CPN, community psychiatric nurse.</p></fn><fn id="TFN16"><label>a.</label><p>More than one answer possible.</p></fn></table-wrap-foot></table-wrap><table-wrap id="T2" orientation="portrait" position="float"><label>Table 2</label><caption><p>Session attendance</p></caption><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" valign="top" span="1"/><col align="left" valign="top" span="1"/><col align="left" valign="top" span="1"/><col align="left" valign="top" span="1"/></colgroup><thead><tr><th rowspan="1" colspan="1"/><th valign="middle" rowspan="1" colspan="1">Patients</th><th valign="middle" rowspan="1" colspan="1">Care coordinators</th><th valign="middle" rowspan="1" colspan="1">Psychiatrists</th></tr></thead><tbody><tr><td rowspan="1" colspan="1">Sessions offered</td><td rowspan="1" colspan="1">4 &#x000d7; 2 h</td><td rowspan="1" colspan="1">3 &#x000d7; 1.5 h</td><td rowspan="1" colspan="1">2 &#x000d7; 2 h</td></tr><tr><td colspan="4" rowspan="1"><hr/></td></tr><tr><td rowspan="1" colspan="1">Cohorts training delivered to</td><td rowspan="1" colspan="1">6</td><td rowspan="1" colspan="1">2 + 1 (team training day)</td><td rowspan="1" colspan="1">2 + 1 (team training day)</td></tr><tr><td colspan="4" rowspan="1"><hr/></td></tr><tr><td rowspan="1" colspan="1">Attendance</td><td rowspan="1" colspan="1">37 (79%) attended at least<break/>3 sessions of 4</td><td rowspan="1" colspan="1">20 of 21 (95%) attended at least<break/>2 sessions of 3<break/>14 attended team training day</td><td rowspan="1" colspan="1">6 of 10 (60%) attended both<break/>training sessions<break/>2 attended team training day</td></tr></tbody></table></table-wrap><p id="P50">The mean length of contact with mental health services for service users was 17 years. The most common reported diagnoses were schizophrenia, schizoaffective disorder or psychosis (<italic>n</italic> = 28, 60%), followed by depression (<italic>n</italic> = 12, 26%), bipolar affective disorder (<italic>n</italic> = 9, 19%), personality disorder (<italic>n</italic> = 5,11%), anxiety (<italic>n</italic> = 4, 9%) and post-traumatic stress disorder (<italic>n</italic> = 4, 9%). Some participants reported multiple diagnoses. The majority of service users received state benefits (<italic>n</italic> = 43, 92%), with <italic>n</italic> = 39 (83%) on a disability living allowance.</p><p id="P51">Immediate post-programme feedback was given by 61 (65%) participants: 33 (70%) service users and 28 (60%) clinicians, including 22 (63%) care coordinators and 6 (50%) psychiatrists. Before starting the programme, service users mostly hoped to learn about ways to cope with their symptoms not solely focused on medication, to understand their medication better and to negotiate decisions. Clinicians were particularly interested in improving their practice, learning about the model and process of shared decision-making, availability of support materials, and sharing experiences with colleagues.</p><p id="P52">Expectations of the programme were largely met in both groups, with the majority of participants expressing a positive view about its content. In all groups, the opportunity for discussion and exchange of views with peers was highlighted as the best aspect of the programme. In addition, service users valued the clarity of the information conveyed, access to resources and the prospect of greater collaboration in consultations. Clinicians also appreciated access to resources and the information given, as well as the opportunity to reflect on their own practice, particularly in the case of psychiatrists.</p><p id="P53">There was little negative feedback. Just over half of service users (<italic>n</italic> = 17, 52%) and the majority of clinicians (<italic>n</italic> = 20, 71%) did not identify any aspects of the programme as being &#x02018;least satisfactory&#x02019;. Some service users mentioned dissatisfaction with practical aspects or teaching methods, and a few referred to difficulties reading all the paperwork/understanding everything. A small number of psychiatrists expressed concerns about a perceived bias against their profession. Most participants felt the training was pitched at the right level. Use of the project website was variable, with about half of service users visiting it outside sessions. Most psychiatrists visited the website, but only a few care coordinators did. The online forum was not used by any of the groups.</p><p id="P54">Most clinicians rated the training programme as relevant to their clinical practice, but fewer expected that what they had learned would shape their future practice. Over half of service users expected or were at least hopeful that the programme would affect future practice.</p><p id="P55">A summary of the post-programme feedback is given in <xref ref-type="table" rid="T3">Table 3</xref>.</p><table-wrap id="T3" orientation="portrait" position="float"><label>Table 3</label><caption><p>Summary of feedback</p></caption><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" valign="top" span="1"/><col align="left" valign="top" span="1"/><col align="left" valign="top" span="1"/></colgroup><thead><tr><th rowspan="1" colspan="1"/><th valign="middle" rowspan="1" colspan="1">Service users (<italic>n</italic> = 33)</th><th valign="middle" rowspan="1" colspan="1">Clinicians (<italic>n</italic> = 28)</th></tr></thead><tbody><tr><td rowspan="1" colspan="1">Most important<break/>things<break/>participants<break/>hoped to learn<sup><xref ref-type="table-fn" rid="TFN18">a</xref></sup></td><td rowspan="1" colspan="1"><list list-type="bullet"><list-item><p>Lifestyle changes/coping with symptoms/alternatives to medication</p></list-item><list-item><p>Understanding medication</p></list-item><list-item><p>Medication management/SDM/negotiating decisions</p></list-item><list-item><p>Sharing experiences</p></list-item><list-item><p>Understanding side-effects of medication</p></list-item><list-item><p>Assertiveness/confidence with professionals</p></list-item><list-item><p>Info about project/research</p></list-item><list-item><p>Reducing/coming off medication</p></list-item></list></td><td rowspan="1" colspan="1"><list list-type="bullet"><list-item><p>Improving practice</p></list-item><list-item><p>Learning about SDM model and process</p></list-item><list-item><p>Support materials/tools for SDM</p></list-item><list-item><p>Sharing ideas and practice</p></list-item><list-item><p>Information about medication, including side-effects and coming off</p></list-item><list-item><p>Learning about the project</p></list-item><list-item><p>Gaining confidence in discussions with service users</p></list-item><list-item><p>Understanding service user perspective</p></list-item></list></td></tr><tr><td colspan="3" rowspan="1"><hr/></td></tr><tr><td rowspan="1" colspan="1">Views on<break/>content of the<break/>programme</td><td rowspan="1" colspan="1"><list list-type="bullet"><list-item><p>Positive views 28 (85%): interesting, helpful, informative, empowering, encouraging, learned a lot</p></list-item><list-item><p>Other comments 4 (12%): SDM needs to be implemented from consultant psychiatrist downwards/did not learn that much concrete</p></list-item></list></td><td rowspan="1" colspan="1"><list list-type="bullet"><list-item><p>Positive views 21 (75%) 18 (82%) care coordinators, 3 (50%) psychiatrists: very good, good, interesting, informative, well-balanced</p></list-item><list-item><p>Other comments 4 (14%): repetitive, some prejudice against psychiatrists</p></list-item></list></td></tr><tr><td colspan="3" rowspan="1"><hr/></td></tr><tr><td rowspan="1" colspan="1">Best aspects<break/>of programme<sup><xref ref-type="table-fn" rid="TFN18">a</xref></sup></td><td rowspan="1" colspan="1"><list list-type="bullet"><list-item><p>Meeting others, exchanging views and experiences, supportive environment</p></list-item><list-item><p>Information conveyed, new ideas and access to resources</p></list-item><list-item><p>Learning to be involved in my medication management, feeling confident my views will be listened to</p></list-item></list></td><td rowspan="1" colspan="1"><list list-type="bullet"><list-item><p>Interaction with others, chance to discuss implementation of SDM</p></list-item><list-item><p>Direction regarding resources/tools to support SDM, information</p></list-item><list-item><p>Concept of SDM</p></list-item><list-item><p>Gaining confidence in promoting SDM/putting SDM into practice</p></list-item><list-item><p>Reflecting on own practice</p></list-item><list-item><p>Getting service user perspective</p></list-item></list></td></tr><tr><td colspan="3" rowspan="1"><hr/></td></tr><tr><td rowspan="1" colspan="1">Least satisfactory aspects<sup><xref ref-type="table-fn" rid="TFN18">a</xref></sup></td><td rowspan="1" colspan="1"><list list-type="bullet"><list-item><p>Practical aspects, teaching methods</p></list-item><list-item><p>Not understanding everything, not able to read all paperwork</p></list-item><list-item><p>Parts boring, same</p></list-item></list></td><td rowspan="1" colspan="1"><list list-type="bullet"><list-item><p>Practical aspects, teaching methods</p></list-item><list-item><p>Perceived bias against psychiatrists</p></list-item><list-item><p>Did not improve personal knowledge of medication</p></list-item><list-item><p>Content</p></list-item></list></td></tr><tr><td colspan="3" rowspan="1"><hr/></td></tr><tr><td rowspan="1" colspan="1">Training pitch<break/>at right level</td><td rowspan="1" colspan="1">32 (97%)</td><td rowspan="1" colspan="1">20 (71%): 17 (77%) care coordinators, 3 (50%) psychiatrists</td></tr><tr><td colspan="3" rowspan="1"><hr/></td></tr><tr><td rowspan="1" colspan="1">Use of project<break/>website</td><td rowspan="1" colspan="1">17 (52%)</td><td rowspan="1" colspan="1">11 (39%): 6 (27%) care coordinators, 5 (83%) psychiatrists</td></tr><tr><td colspan="3" rowspan="1"><hr/></td></tr><tr><td rowspan="1" colspan="1">Relevance of<break/>training<break/>programme and<break/>impact on future<break/>practice</td><td rowspan="1" colspan="1"><list list-type="bullet"><list-item><p>Expecting impact: 12 (36%)</p></list-item><list-item><p>Hopeful of impact: 7 (21%)</p></list-item><list-item><p>Doubtful/unsure: 5 (15%)</p></list-item><list-item><p>Relevant for others: 2 (6%)</p></list-item></list></td><td rowspan="1" colspan="1"><list list-type="bullet"><list-item><p>Relevant: 23 (82%)</p></list-item><list-item><p>Impact on own practice in future: yes 16 (57%), no 1 (4%), hopeful/probably 2 (7%)</p></list-item></list></td></tr></tbody></table><table-wrap-foot><fn id="TFN17"><p>SDM, shared decision-making.</p></fn><fn id="TFN18"><label>a.</label><p>Listed in order of frequency.</p></fn></table-wrap-foot></table-wrap></sec><sec sec-type="discussion" id="S7"><title>Discussion</title><p id="P56">The ShIMME project was a small-scale exploratory project with an emphasis on service users co-leading in all aspects, while aiming to ensure the views of all key stakeholders were integrated into the development and delivery of the training intervention.</p><p id="P57">The training programme was well received overall, demonstrating the feasibility of providing group-based training in shared decision-making to service users and practitioners in NHS community settings. In this case, service user participants were drawn from the rehabilitation and recovery pathways which serve people with chronic and often severe mental health problems. Demographic data from participants indicated high levels of chronicity and disability. The positive feedback, good attendance and engagement from this group suggest that taking part in shared decision-making training is possible and worthwhile for people experiencing a range of mental health challenges.</p><p id="P58">Feedback indicated that service user participants were interested in being actively involved in managing their mental health, including gaining a better understanding of medication and exploring a range of other strategies to foster well-being. Clinicians showed an interest in improving their practice by learning about shared decision-making.</p><p id="P59">Members of all the stakeholder groups gave positive feedback about the group-based training, allowing for the exchange of ideas and experiences with peers. This was also reflected in facilitator comments about the supportive atmosphere and participants' enjoyment of meeting with each other in the service user groups. Interaction with peers seemed to be an important aspect of the whole programme.</p><p id="P60">There may also be advantages in service users and clinicians attending joint training groups, allowing participants from different backgrounds to work together on an equal basis and to gain a better understanding of others' perspectives without the pressures and structures of the clinical encounter. The involvement of carers and important others might bring further benefits.</p><p id="P61">The feedback about the content, approach and pitch of the teaching within the group of psychiatrists was not quite as positive as in the other groups. The reasons for this are likely to be multifaceted and would warrant further exploration, with possible adjustments of the programme. Away to enhance acceptability and engagement would be to encourage more psychiatrists to become involved in shared decision-making training and development of tools.<sup><xref rid="R28" ref-type="bibr">28</xref></sup> Use of the project website was limited, in particular by care coordinators and service users. Technical difficulties with the website might have contributed to this, but comments during sessions indicated that some participants, particularly service users, had low IT confidence and limited internet access outside the training sessions. Future training programmes will need to provide non-digital resources, as well as supporting access and use of IT resources.</p><p id="P62">The project team developed three paper-based tools to support the process of shared decision-making, which were trialled in training groups and repeatedly revised. Although useful, these would need to be integrated into the existing electronic records system to be truly effective in promoting, supporting and documenting the process of shared decision-making without significantly affecting consultation time. At present this remains a challenge, but there have been some promising recent developments.<sup><xref rid="R40" ref-type="bibr">40</xref></sup></p><p id="P63">Both groups of clinicians considered the training relevant to their clinical practice, although they appeared uncertain whether the programme would influence their future practice. This might be due to concerns about additional barriers to implementation or aspects of the training itself. Despite their positive feedback about the programme, service users were also cautious about its impact. This might reflect the perception that they have little influence in making significant changes to their healthcare delivery or doubts about positive initiatives being translated into clinical practice.</p><p id="P64">While this pilot programme had the limitations of a modest number of participants, not all of whom provided feedback, the consultation data from local stakeholders, the development of the training programme and the feedback from participants were all encouraging. Drawing on experiences from this project, CPFT has been working towards implementing shared decision-making across the trust by embedding shared decision-making into its procedures, raising awareness and offering training to practitioners across the trust (<uri xlink:href="www.promise.global/sdm.html">www.promise.global/sdm.html</uri>). The associated Recovery College (<uri xlink:href="www.cpft.nhs.uk/about-us/recovery-college-east.htm">www.cpft.nhs.uk/about-us/recovery-college-east.htm</uri>), which is open to service users, family, friends and staff, also included training in shared decision-making. The pilot project benefitted from a supportive environment within the trust, and the success of implementation in other organisations would depend on their own local conditions.</p><p id="P65">The complexity and difficulty of implementing shared decision-making in a mental health setting should not be underestimated.<sup><xref rid="R36" ref-type="bibr">36</xref>,<xref rid="R41" ref-type="bibr">41</xref></sup> For it to truly become a routine part of clinical practice, changes in attitudes and behaviours are necessary among all parties involved, as well as the wider society.<sup><xref rid="R36" ref-type="bibr">36</xref>,<xref rid="R42" ref-type="bibr">42</xref></sup> Psychiatrists are well placed to take on a leadership role in promoting shared decision-making within health services and should also be pivotal in explaining the benefits of increased patient autonomy and responsibility to the general community.</p></sec></body><back><fn-group><fn fn-type="COI-statement"><p><bold>Declaration of interest</bold> All authors were involved in the management of the ShIMME project. S.R. was the principal investigator and project manager; N.M. was employed by the project as the qualitative research advisor; and U.S. co-led service user groups in Cambridge and is employed by Cambridgeshire and Peterborough NHS Foundation Trust.</p></fn><fn fn-type="financial-disclosure"><p><bold>Funding</bold></p><p>This project was funded by the <funding-source>National Institute for Health Research</funding-source>, <funding-source>Research for Patient Benefit (RfPB) Programme</funding-source> (<award-id specific-use="grant">PB-PG-0909-20054</award-id>). Views expressed are those of the authors and do not necessarily represent those of the NHS, the NIHR or the Department of Health.</p></fn></fn-group><ack><p id="P66">We thank all ShIMME project team members, service users and practitioners, as well as Dr Fiona Blake, Sheena Mooney, Mary Jane O'Sullivan and others for critically reviewing the manuscript. We are grateful to Prof. Matthew Large for his contributions as part of the <italic>BJPsych Bulletin</italic> Author Mentoring Scheme.</p></ack><ref-list><title>References</title><ref id="R1"><label>1</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><name name-style="western"><surname>Coulter</surname><given-names>A</given-names></name><name name-style="western"><surname>Collins</surname><given-names>A</given-names></name></person-group>
-<source>Making Shared Decision-Making a Reality</source>. <publisher-name>The King's Fund</publisher-name>, <year>2011</year>.
-</mixed-citation></ref><ref id="R2"><label>2</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Politi</surname><given-names>M</given-names></name><name name-style="western"><surname>Dizon</surname><given-names>D</given-names></name><name name-style="western"><surname>Frosch</surname><given-names>D</given-names></name><name name-style="western"><surname>Kuzemchak</surname><given-names>M</given-names></name><name name-style="western"><surname>Stiggelbout</surname><given-names>A</given-names></name></person-group>
-<article-title>Importance of clarifying patients' desired role in shared decision making to match their level of engagement with their preferences</article-title>. <source>BMJ</source>
-<year>2013</year>; <volume>347</volume>: <fpage>f7066</fpage>.
-<pub-id pub-id-type="pmid">24297974</pub-id></mixed-citation></ref><ref id="R3"><label>3</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Charles</surname><given-names>C</given-names></name><name name-style="western"><surname>Gafni</surname><given-names>A</given-names></name><name name-style="western"><surname>Whelan</surname><given-names>T</given-names></name></person-group>
-<article-title>Shared decision-making in the medical encounter: what does it mean? (or it takes at least two to tango)</article-title>. <source>Soc Sci Med</source>
-<year>1997</year>; <volume>44</volume>: <fpage>681</fpage>&#x02013;<lpage>92</lpage>.
-<pub-id pub-id-type="pmid">9032835</pub-id></mixed-citation></ref><ref id="R4"><label>4</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Charles</surname><given-names>C</given-names></name><name name-style="western"><surname>Whelan</surname><given-names>T</given-names></name><name name-style="western"><surname>Gafni</surname><given-names>A</given-names></name></person-group>
+                </corresp>
+                <fn>
+                    <p>
+                        <bold>Ute Stead</bold> is a Specialty Doctor in Psychiatry at Cambridgeshire and Peterborough NHS Foundation Trust. <bold>Nicola Morant</bold> is an independent research consultant and Lecturer in Qualitative Mental Health Research in the Division of Psychiatry, University College London. <bold>Shulamit Ramon</bold> is the Mental Health Recovery Research Lead at the University of Hertfordshire.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="ppub">
+                <month>8</month>
+                <year>2017</year>
+            </pub-date>
+            <volume>41</volume>
+            <issue>4</issue>
+            <fpage>221</fpage>
+            <lpage>227</lpage>
+            <history>
+                <date date-type="received">
+                    <day>10</day>
+                    <month>2</month>
+                    <year>2016</year>
+                </date>
+                <date date-type="rev-recd">
+                    <day>29</day>
+                    <month>9</month>
+                    <year>2016</year>
+                </date>
+                <date date-type="accepted">
+                    <day>13</day>
+                    <month>10</month>
+                    <year>2016</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>&#x000a9; 2017 The Authors</copyright-statement>
+                <copyright-year>2017</copyright-year>
+                <license license-type="creative-commons" xlink:href="http://creativecommons.org/licenses/by/4.0">
+                    <license-p>This is an open-access article published by the Royal College of Psychiatrists and distributed under the terms of the Creative Commons Attribution License (<uri xlink:href="http://creativecommons.org/licenses/by/4.0">http://creativecommons.org/licenses/by/4.0</uri>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <self-uri xlink:title="pdf" xlink:href="221.pdf" />
+            <abstract>
+                <p id="P1">Shared decision-making is a collaborative process in which clinicians and patients make treatment decisions together. Although it is considered essential to patient-centred care, the adoption of shared decision-making into routine clinical practice has been slow, and there is a need to increase implementation. This paper describes the development and delivery of a training intervention to promote shared decision-making in medication management in mental health as part of the Shared Involvement in Medication Management Education (ShIMME) project. Three stakeholder groups (service users, care coordinators and psychiatrists) received training in shared decision-making, and their feedback was evaluated. The programme was mostly well received, with all groups rating interaction with peers as the best aspect of the training. This small-scale pilot shows that it is feasible to deliver training in shared decision-making to several key stakeholders. Larger studies will be required to assess the effectiveness of such training.</p>
+            </abstract>
+            <funding-group>
+                <award-group id="funding-1">
+                    <funding-source>National Institute for Health Research</funding-source>
+                    <funding-source>Research for Patient Benefit (RfPB) Programme</funding-source>
+                    <award-id>PB-PG-0909-20054</award-id>
+                </award-group>
+            </funding-group>
+        </article-meta>
+    </front>
+    <body>
+        <p id="P2">Shared decision-making is a collaborative process in which clinicians and patients make treatment decisions in partnership. Both partners bring valuable contributions to this process: patients share their experiences, values and preferences, and clinicians support patients in clarifying these, as well as providing clinical expertise and evidence-based information about treatment options. Jointly, they aim to reach an agreement on the best way to proceed.<sup>
+            <xref rid="R1" ref-type="bibr">1</xref>&#x02013;<xref rid="R3" ref-type="bibr">3</xref>
+        </sup>
+    </p>
+    <p id="P3">Shared decision-making is considered particularly relevant for preference-sensitive decisions, where there are several reasonable treatment options and evidence does not support a clear best choice. Different options require the balancing of possible benefits against potentially significant adverse or as yet unknown effects.<sup>
+        <xref rid="R3" ref-type="bibr">3</xref>&#x02013;<xref rid="R5" ref-type="bibr">5</xref>
+    </sup> Most medication decisions in mental health fall into this category, which makes psychiatric medication management an important area for shared decision-making.<sup>
+    <xref rid="R6" ref-type="bibr">6</xref>
+</sup>
+</p>
+<p id="P4">There are good reasons for encouraging adoption of shared decision-making in mental health. Many patients wish for greater participation in treatment decisions.<sup>
+<xref rid="R7" ref-type="bibr">7</xref>
+</sup> In chronic conditions, where long-term healthcare decisions are required, studies have shown that shared decision-making improves satisfaction, adherence and well-being.<sup>
+<xref rid="R8" ref-type="bibr">8</xref>
+</sup> Shared decision-making is at the core of recovery principles which promote autonomy and self-management skills, as well as being considered essential for delivering patient-centred care.<sup>
+<xref rid="R9" ref-type="bibr">9</xref>
+</sup> National and international government initiatives,<sup>
+<xref rid="R1" ref-type="bibr">1</xref>,<xref rid="R10" ref-type="bibr">10</xref>&#x02013;<xref rid="R13" ref-type="bibr">13</xref>
+</sup> such as the UK Health and Social Care Act 2012 and the US Patient Protection and Affordable Care Act 2010, endorse shared decision-making, as do professional bodies<sup>
+<xref rid="R14" ref-type="bibr">14</xref>&#x02013;<xref rid="R16" ref-type="bibr">16</xref>
+</sup> and practice guidelines.<sup>
+<xref rid="R17" ref-type="bibr">17</xref>&#x02013;<xref rid="R21" ref-type="bibr">21</xref>
+</sup> Shared decision-making is an expected element of all NHS care (Health and Social Care Act 2012, s. 23, 26). Although there is evidence of its benefits, and many patients want greater involvement,<sup>
+<xref rid="R7" ref-type="bibr">7</xref>
+</sup> the adoption of shared decision-making into routine clinical practice continues to be slow,<sup>
+<xref rid="R22" ref-type="bibr">22</xref>,<xref rid="R23" ref-type="bibr">23</xref>
+</sup> especially in mental health <sup>
+<xref rid="R24" ref-type="bibr">24</xref>
+</sup>
+</p>
+<p id="P5">A range of interventions has been developed to promote implementation of shared decision-making, predominantly in physical health.<sup>
+<xref rid="R25" ref-type="bibr">25</xref>&#x02013;<xref rid="R28" ref-type="bibr">28</xref>
+</sup> Although this is an evolving area, relatively few interventions focus specifically on treatment decisions in mental health.<sup>
+<xref rid="R6" ref-type="bibr">6</xref>,<xref rid="R29" ref-type="bibr">29</xref>&#x02013;<xref rid="R3" ref-type="bibr">33</xref>
+</sup> Evidence is sparse regarding the effectiveness of such interventions in general,<sup>
+<xref rid="R23" ref-type="bibr">23</xref>,<xref rid="R25" ref-type="bibr">25</xref>
+</sup> and in mental health settings in particular,<sup>
+<xref rid="R33" ref-type="bibr">33</xref>
+</sup> although some promising results have been reported. These include a study of in-patients with schizophrenia or schizoaffective disorder who received five sessions of shared decision-making training;<sup>
+<xref rid="R29" ref-type="bibr">29</xref>
+</sup> a multifaceted programme based on shared decision-making concepts for primary care physicians treating patients with depression;<sup>
+<xref rid="R30" ref-type="bibr">30</xref>
+</sup> a peer-run Decision Support Centre in the waiting area of a psychiatric medication clinic;<sup>
+<xref rid="R31" ref-type="bibr">31</xref>
+</sup> and online resources supporting shared decision-making.<sup>
+<xref rid="R32" ref-type="bibr">32</xref>
+</sup> The limited evidence available points towards interventions being more effective when involving healthcare professionals and patients together, rather than only targeting one group.<sup>
+<xref rid="R23" ref-type="bibr">23</xref>
+</sup>
+</p>
+<p id="P6">The Shared Involvement in Medication Management Education (ShIMME) project was set up to promote shared decision-making of service users (the term &#x02018;service users&#x02019; was used in the ShIMME project and has been retained here) in medication decisions by delivering a specially developed training programme to three key stakeholder groups: service users, care coordinators and psychiatrists. (In the context of the ShIMME project &#x02018;care coordinator&#x02019; refers to psychiatric nurses, social workers, occupational therapists, psychologists, support workers, peer workers and students training in these disciplines.) To our knowledge this is the first UK-based project to deliver and evaluate such an intervention that targets multiple stakeholders simultaneously.</p>
+<p id="P7">The project was a partnership between Cambridgeshire and Peterborough NHS Foundation Trust (CPFT) and Anglia Ruskin University. Reflecting the strong collaborative ethos, service users were active team members jointly with academic researchers, mental health practitioners and other professionals working within CPFT.</p>
+<p id="P8">This paper describes the stages of the ShIMME project: consultations about shared decision-making, development and implementation of a pilot intervention, and evaluation of feedback. It is one of several articles relating to the project.<sup>
+<xref rid="R34" ref-type="bibr">34</xref>&#x02013;<xref rid="R36" ref-type="bibr">36</xref>
+</sup>
+</p>
+<sec sec-type="methods" id="S1">
+<title>Method</title>
+<sec id="S2">
+<title>Consultation phase</title>
+<p id="P9">The initial phase of the project involved a literature review and consultation with local stakeholders about the process of shared decision-making. Data were collected via focus groups with practitioners and users of adult mental health services in CPFT. Four focus groups were conducted with service users (<italic>n</italic> = 27), two with psychiatrists (<italic>n</italic> = 4), one with community psychiatric nurses (CPNs, <italic>n</italic> = 10), and one with care coordinators other than CPNs (<italic>n</italic> = 8). Four individual telephone interviews were also conducted with psychiatrists. Discussion was generated in response to open questions about current practice in medication management, how decisions should ideally be made, perceived barriers to and facilitators of shared decision-making, and how shared decision-making training should be conducted. Consultation groups lasted around 90 min and were audio recorded. The anonymised transcripts were analysed using thematic analysis,<sup>
+<xref rid="R37" ref-type="bibr">37</xref>
+</sup> conducted with NVivo software (<uri xlink:href="www.qsrinternational.com">www.qsrinternational.com</uri>). This involved a detailed exploration of transcript texts by two team members who worked in collaboration to iteratively develop themes.</p>
+<p id="P10">The following themes about shared decision-making in medication management, which are presented in more detail elsewhere,<sup>
+<xref rid="R34" ref-type="bibr">34</xref>
+</sup> emerged from this analysis and fed into the development of the training programmes.</p>
+<list list-type="order">
+<list-item>
+<p id="P11">Ongoing respectful, trusting, open and honest relationships are paramount &#x02013; service users' concerns and experiences need to be heard and taken seriously.</p>
+</list-item>
+<list-item>
+<p id="P12">Differences of power in the consultation can be complex and a barrier to shared decision-making &#x02013; clinicians can underestimate the effect this has.</p>
+</list-item>
+<list-item>
+<p id="P13">Access to reliable, user-friendly information is essential, including information about reducing or coming off medication and adverse effects of medication.</p>
+</list-item>
+<list-item>
+<p id="P14">All available treatment options should be considered, including non-pharmacological treatments.</p>
+</list-item>
+<list-item>
+<p id="P15">The process of shared decision-making needs to be flexible, taking into account preferences and situations which may change over time. Acute stages of illness or crisis situations were identified as times when shared decision-making would be likely to be more problematic.</p>
+</list-item>
+<list-item>
+<p id="P16">Broader stakeholders (beyond service user and prescribe!<sup>
+<xref rid="R1" ref-type="bibr">1</xref>
+</sup>) have important roles in the shared decision-making process (e.g. other professionals, carers).</p>
+</list-item>
+<list-item>
+<p id="P17">There is currently significant variation in medication management and the extent to which this involves shared decision-making.</p>
+</list-item>
+</list>
+</sec>
+<sec id="S3">
+<title>Training intervention: design</title>
+<p id="P18">A multidisciplinary working group including service users, academic researchers, psychiatrists, a mental health nurse and a pharmacist met regularly to develop the training intervention. The results of the consultations, literature review and examples of existing practice fed into the development.</p>
+<p id="P19">Training was designed to be delivered to service users, care coordinators and psychiatrists in parallel but separate groups. The aim was to optimise the impact of the intervention by delivering it simultaneously to key stakeholders who are actively involved in medication management, while addressing the specific training needs and concerns of each group. Each group was facilitated by a service user trainer, and either a psychiatrist (for service user and psychiatrist groups) or a mental health nurse (for care coordinator groups), allowing participants to learn from two relevant perspectives.</p>
+<p id="P20">The programme employed a range of interactive learning methods. These included specially commissioned video material showing different clinical scenarios, small group exercises, general group discussions, use of testimonials and role plays. The resource materials and hand-outs covered a diverse range of views and approaches, to raise awareness and stimulate discussion. All participants had access to the public section of the project website (<uri xlink:href="www.shimme.arcusglobal.com">www.shimme.arcusglobal.com</uri>) as well as a secure discussion forum for their group.</p>
+<p id="P21">The training programmes for the three stakeholder groups covered the same core content:
+<list list-type="bullet">
+<list-item>
+<p id="P22">background to the project</p>
+</list-item>
+<list-item>
+<p id="P23">key components of shared decision-making in the clinical encounter and rationale for promoting shared decision-making</p>
+</list-item>
+<list-item>
+<p id="P24">barriers to and facilitators of shared decision-making</p>
+</list-item>
+<list-item>
+<p id="P25">awareness of the effects of power imbalances in psychiatric consultations</p>
+</list-item>
+<list-item>
+<p id="P26">developing collaborative relationships</p>
+</list-item>
+<list-item>
+<p id="P27">importance of clarifying personal preferences, values and experiences in shared decision-making</p>
+</list-item>
+<list-item>
+<p id="P28">the concept of a &#x02018;meeting of two experts&#x02019; in the clinical encounter, with personal experience and clinical expertise complementing each other<sup>
+<xref rid="R38" ref-type="bibr">38</xref>
+</sup>
+</p>
+</list-item>
+<list-item>
+<p id="P29">accessing and appraising information about medication, including examples of decision aids</p>
+</list-item>
+<list-item>
+<p id="P30">raising awareness of adjuncts or alternatives to medication</p>
+</list-item>
+<list-item>
+<p id="P31">addressing issues around coming off or reducing medication</p>
+</list-item>
+<list-item>
+<p id="P32">trialling of versions of three paper-based tools developed for supporting and recording the shared decision-making process</p>
+</list-item>
+<list-item>
+<p id="P33">information about useful websites.</p>
+</list-item>
+</list>
+</p>
+<p id="P34">In addition to the core content, the service user groups focused on:
+<list list-type="bullet">
+<list-item>
+<p id="P35">practising setting personal goals and identifying preferences</p>
+</list-item>
+<list-item>
+<p id="P36">making use of a personal well-being plan and self-help resources</p>
+</list-item>
+<list-item>
+<p id="P37">looking beyond medication to enhance well-being, drawing on Deegan's work on &#x02018;personal medicine&#x02019;<sup>
+<xref rid="R39" ref-type="bibr">39</xref>
+</sup>
+</p>
+</list-item>
+<list-item>
+<p id="P38">introduction to assertiveness</p>
+</list-item>
+<list-item>
+<p id="P39">how to access information about medication, including a talk by a National Health Service (NHS) trust mental health pharmacist, who was available for further discussion afterwards</p>
+</list-item>
+<list-item>
+<p id="P40">supported &#x02018;hands-on&#x02019; experience exploring relevant websites.</p>
+</list-item>
+</list>
+</p>
+<p id="P41">Besides the core content, the care coordinator training focused on adopting the role of a &#x02018;shared decision-making coach&#x02019;, supporting service users to play a more active part in the shared decision-making process <sup>
+<xref rid="R35" ref-type="bibr">35</xref>
+</sup> The programme for psychiatrists focused on competencies and resources that support embedding shared decision-making into routine clinical practice while acknowledging real-life challenges.</p>
+</sec>
+<sec id="S4">
+<title>Training intervention: delivery</title>
+<p id="P42">All training group participants were recruited from CPFT community mental health services: service users from the rehabilitation and recovery pathways; and professionals from these services and from assertive outreach teams. Service users were invited to participate by their care coordinators and psychiatrists and care coordinators were approached by team managers. In total, 47 service users, 12 psychiatrists and 35 care coordinators took part in the training.</p>
+<p id="P43">Training was held in three different locations to reduce travelling for participants. Service users were reimbursed for travelling costs and received a fee (&#x000a3;40) for completing an evaluation before and after the programme.</p>
+<p id="P44">The training was delivered in small group settings (2&#x02013;12 participants), with each cohort completing their course of training together. An atmosphere of trust, acceptance and respect was encouraged. Participants had the opportunity for informal interaction before and after sessions as well as during breaks. Facilitators and project team members could be contacted between sessions for additional support.</p>
+<p id="P45">Service user training groups were structured into four 2h sessions, meeting fortnightly After the training, two follow-up sessions were offered for ongoing support. Care coordinators met three times, at monthly intervals, for 1.5 h. Psychiatrists had two 2 h sessions, one month apart, with an online self-study component. For organisational reasons one multidisciplinary team of clinicians received their training together in a single day.</p>
+</sec>
+<sec id="S5">
+<title>Evaluation</title>
+<p id="P46">The experience and impact of the training intervention was evaluated by collecting quantitative and qualitative data anonymously from participants at different stages of the project.</p>
+<p id="P47">After providing baseline data, participants and facilitators completed a short questionnaire after each session, and participants completed a longer one immediately after the final training session. The questionnaires explored what the participants had hoped to learn from the programme, their views on its content and impact, and feedback on particular sessions, practical aspects, teaching methods and support materials.</p>
+<p id="P48">Analysis of quantitative and qualitative data examining the impact of the intervention at a 12-month follow-up, as well as an economic analysis, will be reported on separately.</p>
+</sec>
+</sec>
+<sec sec-type="results" id="S6">
+<title>Results</title>
+<p id="P49">Although care coordinators and psychiatrists were mostly trained in separate groups, their demographic and feedback data are reported as one group of clinicians. Demographic and attendance data for service users and clinicians are shown in <xref ref-type="table" rid="T1">Table 1</xref> and <xref ref-type="table" rid="T2">Table 2</xref>.
+</p>
+<table-wrap id="T1" orientation="portrait" position="float">
+<label>Table 1</label>
+<caption>
+<p>Demographic characteristics of participants</p>
+</caption>
+<table frame="hsides" rules="groups">
+<colgroup span="1">
+<col align="left" valign="middle" span="1" />
+<col align="center" valign="middle" span="1" />
+<col align="center" valign="middle" span="1" />
+</colgroup>
+<thead>
+<tr>
+<th rowspan="1" colspan="1" />
+<th valign="top" rowspan="1" colspan="1">Service users<break />
+(<italic>n</italic> = 47)<break />
+<italic>n</italic> (%)
+</th>
+<th valign="top" rowspan="1" colspan="1">Clinicians<break />
+(<italic>n</italic> = 47)<break />
+<italic>n</italic> (%)
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">Female</td>
+<td rowspan="1" colspan="1">22 (47)</td>
+<td rowspan="1" colspan="1">33 (70)</td>
+</tr>
+<tr>
+<td colspan="3" rowspan="1">
+<hr />
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">Male</td>
+<td rowspan="1" colspan="1">25 (53)</td>
+<td rowspan="1" colspan="1">14 (30)</td>
+</tr>
+<tr>
+<td colspan="3" rowspan="1">
+<hr />
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">Mean age, years</td>
+<td rowspan="1" colspan="1">48</td>
+<td rowspan="1" colspan="1">45</td>
+</tr>
+<tr>
+<td colspan="3" rowspan="1">
+<hr />
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">Ethnicity</td>
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;White</td>
+<td rowspan="1" colspan="1">42 (89)</td>
+<td rowspan="1" colspan="1">37 (79)</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Black</td>
+<td rowspan="1" colspan="1">1 (2)</td>
+<td rowspan="1" colspan="1">1 (2)</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Asian</td>
+<td rowspan="1" colspan="1">0</td>
+<td rowspan="1" colspan="1">4(9)</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Other</td>
+<td rowspan="1" colspan="1">3 (6)</td>
+<td rowspan="1" colspan="1">2 (4)</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;No data</td>
+<td rowspan="1" colspan="1">1 (2)</td>
+<td rowspan="1" colspan="1">3 (6)</td>
+</tr>
+<tr>
+<td colspan="3" rowspan="1">
+<hr />
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">Education</td>
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Tertiary/further</td>
+<td rowspan="1" colspan="1">30 (64)</td>
+<td rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Secondary</td>
+<td rowspan="1" colspan="1">14 (30)</td>
+<td rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Primary or less</td>
+<td rowspan="1" colspan="1">1 (2)</td>
+<td rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;No data</td>
+<td rowspan="1" colspan="1">2 (4)</td>
+<td rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td colspan="3" rowspan="1">
+<hr />
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">Employment<sup>
+<xref ref-type="table-fn" rid="TFN16">a</xref>
+</sup>
+</td>
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Paid/self-employed</td>
+<td rowspan="1" colspan="1">3 (6)</td>
+<td rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Voluntary employment</td>
+<td rowspan="1" colspan="1">7 (14)</td>
+<td rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Unemployed</td>
+<td rowspan="1" colspan="1">25 (50)</td>
+<td rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Student (including part-time)</td>
+<td rowspan="1" colspan="1">4 (8)</td>
+<td rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Age-related retirement</td>
+<td rowspan="1" colspan="1">4 (8)</td>
+<td rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Other</td>
+<td rowspan="1" colspan="1">7 (14)</td>
+<td rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td colspan="3" rowspan="1">
+<hr />
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">Professional background of clinicians</td>
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;CPN/nurse</td>
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1">11 (23)</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Occupational therapist</td>
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1">9 (19)</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Clinical psychologist</td>
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1">2 (4)</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Social worker</td>
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1">2 (4)</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Support time and recovery worker</td>
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1">6 (13)</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Peer support worker</td>
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1">2 (4)</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Team leader/deputy manager</td>
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1">3 (6)</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Psychiatrist</td>
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1">12 (26)</td>
+</tr>
+</tbody>
+</table>
+<table-wrap-foot>
+<fn id="TFN15">
+<p>CPN, community psychiatric nurse.</p>
+</fn>
+<fn id="TFN16">
+<label>a.</label>
+<p>More than one answer possible.</p>
+</fn>
+</table-wrap-foot>
+</table-wrap>
+<table-wrap id="T2" orientation="portrait" position="float">
+<label>Table 2</label>
+<caption>
+<p>Session attendance</p>
+</caption>
+<table frame="hsides" rules="groups">
+<colgroup span="1">
+<col align="left" valign="top" span="1" />
+<col align="left" valign="top" span="1" />
+<col align="left" valign="top" span="1" />
+<col align="left" valign="top" span="1" />
+</colgroup>
+<thead>
+<tr>
+<th rowspan="1" colspan="1" />
+<th valign="middle" rowspan="1" colspan="1">Patients</th>
+<th valign="middle" rowspan="1" colspan="1">Care coordinators</th>
+<th valign="middle" rowspan="1" colspan="1">Psychiatrists</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">Sessions offered</td>
+<td rowspan="1" colspan="1">4 &#x000d7; 2 h</td>
+<td rowspan="1" colspan="1">3 &#x000d7; 1.5 h</td>
+<td rowspan="1" colspan="1">2 &#x000d7; 2 h</td>
+</tr>
+<tr>
+<td colspan="4" rowspan="1">
+<hr />
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">Cohorts training delivered to</td>
+<td rowspan="1" colspan="1">6</td>
+<td rowspan="1" colspan="1">2 + 1 (team training day)</td>
+<td rowspan="1" colspan="1">2 + 1 (team training day)</td>
+</tr>
+<tr>
+<td colspan="4" rowspan="1">
+<hr />
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">Attendance</td>
+<td rowspan="1" colspan="1">37 (79%) attended at least<break />
+3 sessions of 4</td>
+<td rowspan="1" colspan="1">20 of 21 (95%) attended at least<break />
+2 sessions of 3<break />
+14 attended team training day</td>
+<td rowspan="1" colspan="1">6 of 10 (60%) attended both<break />
+training sessions<break />
+2 attended team training day</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<p id="P50">The mean length of contact with mental health services for service users was 17 years. The most common reported diagnoses were schizophrenia, schizoaffective disorder or psychosis (<italic>n</italic> = 28, 60%), followed by depression (<italic>n</italic> = 12, 26%), bipolar affective disorder (<italic>n</italic> = 9, 19%), personality disorder (<italic>n</italic> = 5,11%), anxiety (<italic>n</italic> = 4, 9%) and post-traumatic stress disorder (<italic>n</italic> = 4, 9%). Some participants reported multiple diagnoses. The majority of service users received state benefits (<italic>n</italic> = 43, 92%), with <italic>n</italic> = 39 (83%) on a disability living allowance.</p>
+<p id="P51">Immediate post-programme feedback was given by 61 (65%) participants: 33 (70%) service users and 28 (60%) clinicians, including 22 (63%) care coordinators and 6 (50%) psychiatrists. Before starting the programme, service users mostly hoped to learn about ways to cope with their symptoms not solely focused on medication, to understand their medication better and to negotiate decisions. Clinicians were particularly interested in improving their practice, learning about the model and process of shared decision-making, availability of support materials, and sharing experiences with colleagues.</p>
+<p id="P52">Expectations of the programme were largely met in both groups, with the majority of participants expressing a positive view about its content. In all groups, the opportunity for discussion and exchange of views with peers was highlighted as the best aspect of the programme. In addition, service users valued the clarity of the information conveyed, access to resources and the prospect of greater collaboration in consultations. Clinicians also appreciated access to resources and the information given, as well as the opportunity to reflect on their own practice, particularly in the case of psychiatrists.</p>
+<p id="P53">There was little negative feedback. Just over half of service users (<italic>n</italic> = 17, 52%) and the majority of clinicians (<italic>n</italic> = 20, 71%) did not identify any aspects of the programme as being &#x02018;least satisfactory&#x02019;. Some service users mentioned dissatisfaction with practical aspects or teaching methods, and a few referred to difficulties reading all the paperwork/understanding everything. A small number of psychiatrists expressed concerns about a perceived bias against their profession. Most participants felt the training was pitched at the right level. Use of the project website was variable, with about half of service users visiting it outside sessions. Most psychiatrists visited the website, but only a few care coordinators did. The online forum was not used by any of the groups.</p>
+<p id="P54">Most clinicians rated the training programme as relevant to their clinical practice, but fewer expected that what they had learned would shape their future practice. Over half of service users expected or were at least hopeful that the programme would affect future practice.</p>
+<p id="P55">A summary of the post-programme feedback is given in <xref ref-type="table" rid="T3">Table 3</xref>.
+</p>
+<table-wrap id="T3" orientation="portrait" position="float">
+<label>Table 3</label>
+<caption>
+<p>Summary of feedback</p>
+</caption>
+<table frame="hsides" rules="groups">
+<colgroup span="1">
+<col align="left" valign="top" span="1" />
+<col align="left" valign="top" span="1" />
+<col align="left" valign="top" span="1" />
+</colgroup>
+<thead>
+<tr>
+<th rowspan="1" colspan="1" />
+<th valign="middle" rowspan="1" colspan="1">Service users (<italic>n</italic> = 33)</th>
+<th valign="middle" rowspan="1" colspan="1">Clinicians (<italic>n</italic> = 28)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">Most important<break />
+things<break />
+participants<break />
+hoped to learn<sup>
+<xref ref-type="table-fn" rid="TFN18">a</xref>
+</sup>
+</td>
+<td rowspan="1" colspan="1">
+<list list-type="bullet">
+<list-item>
+<p>Lifestyle changes/coping with symptoms/alternatives to medication</p>
+</list-item>
+<list-item>
+<p>Understanding medication</p>
+</list-item>
+<list-item>
+<p>Medication management/SDM/negotiating decisions</p>
+</list-item>
+<list-item>
+<p>Sharing experiences</p>
+</list-item>
+<list-item>
+<p>Understanding side-effects of medication</p>
+</list-item>
+<list-item>
+<p>Assertiveness/confidence with professionals</p>
+</list-item>
+<list-item>
+<p>Info about project/research</p>
+</list-item>
+<list-item>
+<p>Reducing/coming off medication</p>
+</list-item>
+</list>
+</td>
+<td rowspan="1" colspan="1">
+<list list-type="bullet">
+<list-item>
+<p>Improving practice</p>
+</list-item>
+<list-item>
+<p>Learning about SDM model and process</p>
+</list-item>
+<list-item>
+<p>Support materials/tools for SDM</p>
+</list-item>
+<list-item>
+<p>Sharing ideas and practice</p>
+</list-item>
+<list-item>
+<p>Information about medication, including side-effects and coming off</p>
+</list-item>
+<list-item>
+<p>Learning about the project</p>
+</list-item>
+<list-item>
+<p>Gaining confidence in discussions with service users</p>
+</list-item>
+<list-item>
+<p>Understanding service user perspective</p>
+</list-item>
+</list>
+</td>
+</tr>
+<tr>
+<td colspan="3" rowspan="1">
+<hr />
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">Views on<break />
+content of the<break />
+programme</td>
+<td rowspan="1" colspan="1">
+<list list-type="bullet">
+<list-item>
+<p>Positive views 28 (85%): interesting, helpful, informative, empowering, encouraging, learned a lot</p>
+</list-item>
+<list-item>
+<p>Other comments 4 (12%): SDM needs to be implemented from consultant psychiatrist downwards/did not learn that much concrete</p>
+</list-item>
+</list>
+</td>
+<td rowspan="1" colspan="1">
+<list list-type="bullet">
+<list-item>
+<p>Positive views 21 (75%) 18 (82%) care coordinators, 3 (50%) psychiatrists: very good, good, interesting, informative, well-balanced</p>
+</list-item>
+<list-item>
+<p>Other comments 4 (14%): repetitive, some prejudice against psychiatrists</p>
+</list-item>
+</list>
+</td>
+</tr>
+<tr>
+<td colspan="3" rowspan="1">
+<hr />
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">Best aspects<break />
+of programme<sup>
+<xref ref-type="table-fn" rid="TFN18">a</xref>
+</sup>
+</td>
+<td rowspan="1" colspan="1">
+<list list-type="bullet">
+<list-item>
+<p>Meeting others, exchanging views and experiences, supportive environment</p>
+</list-item>
+<list-item>
+<p>Information conveyed, new ideas and access to resources</p>
+</list-item>
+<list-item>
+<p>Learning to be involved in my medication management, feeling confident my views will be listened to</p>
+</list-item>
+</list>
+</td>
+<td rowspan="1" colspan="1">
+<list list-type="bullet">
+<list-item>
+<p>Interaction with others, chance to discuss implementation of SDM</p>
+</list-item>
+<list-item>
+<p>Direction regarding resources/tools to support SDM, information</p>
+</list-item>
+<list-item>
+<p>Concept of SDM</p>
+</list-item>
+<list-item>
+<p>Gaining confidence in promoting SDM/putting SDM into practice</p>
+</list-item>
+<list-item>
+<p>Reflecting on own practice</p>
+</list-item>
+<list-item>
+<p>Getting service user perspective</p>
+</list-item>
+</list>
+</td>
+</tr>
+<tr>
+<td colspan="3" rowspan="1">
+<hr />
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">Least satisfactory aspects<sup>
+<xref ref-type="table-fn" rid="TFN18">a</xref>
+</sup>
+</td>
+<td rowspan="1" colspan="1">
+<list list-type="bullet">
+<list-item>
+<p>Practical aspects, teaching methods</p>
+</list-item>
+<list-item>
+<p>Not understanding everything, not able to read all paperwork</p>
+</list-item>
+<list-item>
+<p>Parts boring, same</p>
+</list-item>
+</list>
+</td>
+<td rowspan="1" colspan="1">
+<list list-type="bullet">
+<list-item>
+<p>Practical aspects, teaching methods</p>
+</list-item>
+<list-item>
+<p>Perceived bias against psychiatrists</p>
+</list-item>
+<list-item>
+<p>Did not improve personal knowledge of medication</p>
+</list-item>
+<list-item>
+<p>Content</p>
+</list-item>
+</list>
+</td>
+</tr>
+<tr>
+<td colspan="3" rowspan="1">
+<hr />
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">Training pitch<break />
+at right level</td>
+<td rowspan="1" colspan="1">32 (97%)</td>
+<td rowspan="1" colspan="1">20 (71%): 17 (77%) care coordinators, 3 (50%) psychiatrists</td>
+</tr>
+<tr>
+<td colspan="3" rowspan="1">
+<hr />
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">Use of project<break />
+website</td>
+<td rowspan="1" colspan="1">17 (52%)</td>
+<td rowspan="1" colspan="1">11 (39%): 6 (27%) care coordinators, 5 (83%) psychiatrists</td>
+</tr>
+<tr>
+<td colspan="3" rowspan="1">
+<hr />
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">Relevance of<break />
+training<break />
+programme and<break />
+impact on future<break />
+practice</td>
+<td rowspan="1" colspan="1">
+<list list-type="bullet">
+<list-item>
+<p>Expecting impact: 12 (36%)</p>
+</list-item>
+<list-item>
+<p>Hopeful of impact: 7 (21%)</p>
+</list-item>
+<list-item>
+<p>Doubtful/unsure: 5 (15%)</p>
+</list-item>
+<list-item>
+<p>Relevant for others: 2 (6%)</p>
+</list-item>
+</list>
+</td>
+<td rowspan="1" colspan="1">
+<list list-type="bullet">
+<list-item>
+<p>Relevant: 23 (82%)</p>
+</list-item>
+<list-item>
+<p>Impact on own practice in future: yes 16 (57%), no 1 (4%), hopeful/probably 2 (7%)</p>
+</list-item>
+</list>
+</td>
+</tr>
+</tbody>
+</table>
+<table-wrap-foot>
+<fn id="TFN17">
+<p>SDM, shared decision-making.</p>
+</fn>
+<fn id="TFN18">
+<label>a.</label>
+<p>Listed in order of frequency.</p>
+</fn>
+</table-wrap-foot>
+</table-wrap>
+</sec>
+<sec sec-type="discussion" id="S7">
+<title>Discussion</title>
+<p id="P56">The ShIMME project was a small-scale exploratory project with an emphasis on service users co-leading in all aspects, while aiming to ensure the views of all key stakeholders were integrated into the development and delivery of the training intervention.</p>
+<p id="P57">The training programme was well received overall, demonstrating the feasibility of providing group-based training in shared decision-making to service users and practitioners in NHS community settings. In this case, service user participants were drawn from the rehabilitation and recovery pathways which serve people with chronic and often severe mental health problems. Demographic data from participants indicated high levels of chronicity and disability. The positive feedback, good attendance and engagement from this group suggest that taking part in shared decision-making training is possible and worthwhile for people experiencing a range of mental health challenges.</p>
+<p id="P58">Feedback indicated that service user participants were interested in being actively involved in managing their mental health, including gaining a better understanding of medication and exploring a range of other strategies to foster well-being. Clinicians showed an interest in improving their practice by learning about shared decision-making.</p>
+<p id="P59">Members of all the stakeholder groups gave positive feedback about the group-based training, allowing for the exchange of ideas and experiences with peers. This was also reflected in facilitator comments about the supportive atmosphere and participants' enjoyment of meeting with each other in the service user groups. Interaction with peers seemed to be an important aspect of the whole programme.</p>
+<p id="P60">There may also be advantages in service users and clinicians attending joint training groups, allowing participants from different backgrounds to work together on an equal basis and to gain a better understanding of others' perspectives without the pressures and structures of the clinical encounter. The involvement of carers and important others might bring further benefits.</p>
+<p id="P61">The feedback about the content, approach and pitch of the teaching within the group of psychiatrists was not quite as positive as in the other groups. The reasons for this are likely to be multifaceted and would warrant further exploration, with possible adjustments of the programme. Away to enhance acceptability and engagement would be to encourage more psychiatrists to become involved in shared decision-making training and development of tools.<sup>
+<xref rid="R28" ref-type="bibr">28</xref>
+</sup> Use of the project website was limited, in particular by care coordinators and service users. Technical difficulties with the website might have contributed to this, but comments during sessions indicated that some participants, particularly service users, had low IT confidence and limited internet access outside the training sessions. Future training programmes will need to provide non-digital resources, as well as supporting access and use of IT resources.</p>
+<p id="P62">The project team developed three paper-based tools to support the process of shared decision-making, which were trialled in training groups and repeatedly revised. Although useful, these would need to be integrated into the existing electronic records system to be truly effective in promoting, supporting and documenting the process of shared decision-making without significantly affecting consultation time. At present this remains a challenge, but there have been some promising recent developments.<sup>
+<xref rid="R40" ref-type="bibr">40</xref>
+</sup>
+</p>
+<p id="P63">Both groups of clinicians considered the training relevant to their clinical practice, although they appeared uncertain whether the programme would influence their future practice. This might be due to concerns about additional barriers to implementation or aspects of the training itself. Despite their positive feedback about the programme, service users were also cautious about its impact. This might reflect the perception that they have little influence in making significant changes to their healthcare delivery or doubts about positive initiatives being translated into clinical practice.</p>
+<p id="P64">While this pilot programme had the limitations of a modest number of participants, not all of whom provided feedback, the consultation data from local stakeholders, the development of the training programme and the feedback from participants were all encouraging. Drawing on experiences from this project, CPFT has been working towards implementing shared decision-making across the trust by embedding shared decision-making into its procedures, raising awareness and offering training to practitioners across the trust (<uri xlink:href="www.promise.global/sdm.html">www.promise.global/sdm.html</uri>). The associated Recovery College (<uri xlink:href="www.cpft.nhs.uk/about-us/recovery-college-east.htm">www.cpft.nhs.uk/about-us/recovery-college-east.htm</uri>), which is open to service users, family, friends and staff, also included training in shared decision-making. The pilot project benefitted from a supportive environment within the trust, and the success of implementation in other organisations would depend on their own local conditions.</p>
+<p id="P65">The complexity and difficulty of implementing shared decision-making in a mental health setting should not be underestimated.<sup>
+<xref rid="R36" ref-type="bibr">36</xref>,<xref rid="R41" ref-type="bibr">41</xref>
+</sup> For it to truly become a routine part of clinical practice, changes in attitudes and behaviours are necessary among all parties involved, as well as the wider society.<sup>
+<xref rid="R36" ref-type="bibr">36</xref>,<xref rid="R42" ref-type="bibr">42</xref>
+</sup> Psychiatrists are well placed to take on a leadership role in promoting shared decision-making within health services and should also be pivotal in explaining the benefits of increased patient autonomy and responsibility to the general community.</p>
+</sec>
+</body>
+<back>
+<fn-group>
+<fn fn-type="COI-statement">
+<p>
+<bold>Declaration of interest</bold> All authors were involved in the management of the ShIMME project. S.R. was the principal investigator and project manager; N.M. was employed by the project as the qualitative research advisor; and U.S. co-led service user groups in Cambridge and is employed by Cambridgeshire and Peterborough NHS Foundation Trust.</p>
+</fn>
+<fn fn-type="financial-disclosure">
+<p>
+<bold>Funding</bold>
+</p>
+<p>This project was funded by the <funding-source>National Institute for Health Research</funding-source>,<funding-source>Research for Patient Benefit (RfPB) Programme</funding-source> (<award-id specific-use="grant">PB-PG-0909-20054</award-id>). Views expressed are those of the authors and do not necessarily represent those of the NHS, the NIHR or the Department of Health.</p>
+</fn>
+</fn-group>
+<ack>
+<p id="P66">We thank all ShIMME project team members, service users and practitioners, as well as Dr Fiona Blake, Sheena Mooney, Mary Jane O'Sullivan and others for critically reviewing the manuscript. We are grateful to Prof. Matthew Large for his contributions as part of the <italic>BJPsych Bulletin</italic> Author Mentoring Scheme.</p>
+</ack>
+<ref-list>
+<title>References</title>
+<ref id="R1">
+<label>1</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Coulter</surname>
+<given-names>A</given-names>
+</name>
+<name name-style="western">
+<surname>Collins</surname>
+<given-names>A</given-names>
+</name>
+</person-group>
+<source>Making Shared Decision-Making a Reality</source>.<publisher-name>The King's Fund</publisher-name>,<year>2011</year>.
+</mixed-citation>
+</ref>
+<ref id="R2">
+<label>2</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Politi</surname>
+<given-names>M</given-names>
+</name>
+<name name-style="western">
+<surname>Dizon</surname>
+<given-names>D</given-names>
+</name>
+<name name-style="western">
+<surname>Frosch</surname>
+<given-names>D</given-names>
+</name>
+<name name-style="western">
+<surname>Kuzemchak</surname>
+<given-names>M</given-names>
+</name>
+<name name-style="western">
+<surname>Stiggelbout</surname>
+<given-names>A</given-names>
+</name>
+</person-group>
+<article-title>Importance of clarifying patients' desired role in shared decision making to match their level of engagement with their preferences</article-title>.<source>BMJ</source>
+<year>2013</year>;<volume>347</volume>:<fpage>f7066</fpage>.
+<pub-id pub-id-type="pmid">24297974</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R3">
+<label>3</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Charles</surname>
+<given-names>C</given-names>
+</name>
+<name name-style="western">
+<surname>Gafni</surname>
+<given-names>A</given-names>
+</name>
+<name name-style="western">
+<surname>Whelan</surname>
+<given-names>T</given-names>
+</name>
+</person-group>
+<article-title>Shared decision-making in the medical encounter: what does it mean? (or it takes at least two to tango)</article-title>.<source>Soc Sci Med</source>
+<year>1997</year>;<volume>44</volume>:<fpage>681</fpage>&#x02013;<lpage>92</lpage>.
+<pub-id pub-id-type="pmid">9032835</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R4">
+<label>4</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Charles</surname>
+<given-names>C</given-names>
+</name>
+<name name-style="western">
+<surname>Whelan</surname>
+<given-names>T</given-names>
+</name>
+<name name-style="western">
+<surname>Gafni</surname>
+<given-names>A</given-names>
+</name>
+</person-group>
 <article-title>What do we mean by partnership in making decisions about treatment?</article-title>
 <source>BMJ</source>
-<year>1999</year>; <volume>319</volume>: <fpage>780</fpage>&#x02013;<lpage>2</lpage>.
-<pub-id pub-id-type="pmid">10488014</pub-id></mixed-citation></ref><ref id="R5"><label>5</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><collab>The Dartmouth Atlas of Health Care</collab></person-group>
-<source>Preference-Sensitive Care</source>. <publisher-name>The Dartmouth Institute</publisher-name> Available at <uri xlink:href="http://www.dartmouthatlas.org/keyissues/issue.aspx?con=2938">http://www.dartmouthatlas.org/keyissues/issue.aspx?con=2938</uri>
+<year>1999</year>;<volume>319</volume>:<fpage>780</fpage>&#x02013;<lpage>2</lpage>.
+<pub-id pub-id-type="pmid">10488014</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R5">
+<label>5</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<collab>The Dartmouth Atlas of Health Care</collab>
+</person-group>
+<source>Preference-Sensitive Care</source>.<publisher-name>The Dartmouth Institute</publisher-name> Available at <uri xlink:href="http://www.dartmouthatlas.org/keyissues/issue.aspx?con=2938">http://www.dartmouthatlas.org/keyissues/issue.aspx?con=2938</uri>
 <comment>(accessed 28 July 2016)</comment>.
-</mixed-citation></ref><ref id="R6"><label>6</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Deegan</surname><given-names>P</given-names></name></person-group>
-<article-title>A web application to support recovery and shared decision making in psychiatric medication clinics</article-title>. <source>Psychiatr Rehabil</source> J <year>2010</year>; <volume>34</volume>: <fpage>23</fpage>&#x02013;<lpage>8</lpage>.
-</mixed-citation></ref><ref id="R7"><label>7</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Adams</surname><given-names>J</given-names></name><name name-style="western"><surname>Drake</surname><given-names>R</given-names></name><name name-style="western"><surname>Wolford</surname><given-names>G</given-names></name></person-group>
-<article-title>Shared decision-making preferences of people with severe mental illness</article-title>. <source>Psychiatr Serv</source>
-<year>2007</year>; <volume>58</volume>:<fpage>1219</fpage>&#x02013;<lpage>21</lpage>.
-<pub-id pub-id-type="pmid">17766569</pub-id></mixed-citation></ref><ref id="R8"><label>8</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Joosten</surname><given-names>E</given-names></name><name name-style="western"><surname>DeFuentes-Merillas</surname><given-names>L</given-names></name><name name-style="western"><surname>de Weert</surname><given-names>G</given-names></name><name name-style="western"><surname>Sensky</surname><given-names>T</given-names></name><name name-style="western"><surname>van der Staak</surname><given-names>C</given-names></name><name name-style="western"><surname>de Jong</surname><given-names>C</given-names></name></person-group>
-<article-title>Systematic review of the effects of shared decision-making on patient satisfaction, treatment adherence and health status</article-title>. <source>Psychother Psychosom</source>
-<year>2008</year>; <volume>77</volume>: <fpage>219</fpage>&#x02013;<lpage>26</lpage>.
-<pub-id pub-id-type="pmid">18418028</pub-id></mixed-citation></ref><ref id="R9"><label>9</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Barry</surname><given-names>M</given-names></name><name name-style="western"><surname>Edgman-Levitan</surname><given-names>S</given-names></name></person-group>
-<article-title>Shared decision making &#x02013; the pinnacle of patient-centred care</article-title>. <source>N Engl J Med</source>
-<year>2012</year>; <volume>366</volume>: <fpage>780</fpage>&#x02013;<lpage>1</lpage>.
-<pub-id pub-id-type="pmid">22375967</pub-id></mixed-citation></ref><ref id="R10"><label>10</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><collab>Department of Health</collab></person-group>
-<source>No Health without Mental Health: A Cross Government Mental Health Outcomes Strategy for People of All Ages</source>. <publisher-name>Department of Health</publisher-name>, <year>2011</year>.
-</mixed-citation></ref><ref id="R11"><label>11</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><collab>Department of Health</collab></person-group>
-<source>Equity and Excellence: Liberating the NHS</source>. <publisher-name>Department of Health</publisher-name>, <year>2010</year>.
-</mixed-citation></ref><ref id="R12"><label>12</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><collab>Institute of Medicine</collab></person-group>
-<source>Crossing the Quality Chasm: A New Health System for the 21st Century</source>. <publisher-name>IOM</publisher-name>, <year>2001</year>.
-</mixed-citation></ref><ref id="R13"><label>13</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><collab>Salzburg Global Seminar</collab></person-group>
-<source>The Salzburg Statement on Shared Decision Making</source>. <publisher-name>Salzburg Global Seminar</publisher-name>, <year>2010</year> (<uri xlink:href="http://www.salzburgglobal.org/fileadmin/user_upload/Documents/2010-2019/2010/477/Salzburg_Global_Shared_Decision_Making_Statement_2013_design_.pdf">http://www.salzburgglobal.org/fileadmin/user_upload/Documents/2010-2019/2010/477/Salzburg_Global_Shared_Decision_Making_Statement_2013_design_.pdf</uri>).
-</mixed-citation></ref><ref id="R14"><label>14</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><collab>General Medical Council</collab></person-group>
-<source>Prescribing Guidance: Consent</source>. <publisher-name>GMC</publisher-name>, <year>2013</year>.
-</mixed-citation></ref><ref id="R15"><label>15</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><collab>General Medical Council</collab></person-group>
-<source>Good Medical Practice</source>. <publisher-name>GMC</publisher-name>, <year>2013</year>.
-</mixed-citation></ref><ref id="R16"><label>16</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><name name-style="western"><surname>Chaplin</surname><given-names>R</given-names></name><name name-style="western"><surname>Quirk</surname><given-names>A</given-names></name></person-group>
-<source>How Patient-Centred Are You? Shared Decision-Making in Psychiatric Practice</source>. <publisher-name>Royal College of Psychiatrists</publisher-name>, <year>2015</year>.
-</mixed-citation></ref><ref id="R17"><label>17</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><collab>National Institute for Health and Care Excellence</collab></person-group>
-<source>Medicine Adherence</source>. <publisher-name>NICE</publisher-name>, <year>2009</year>.
-</mixed-citation></ref><ref id="R18"><label>18</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><collab>National Institute for Health and Care Excellence</collab></person-group>
-<source>Patient Experience in Adult NHS Services: Improving the Experience of Care for People using Adult NHS Services</source>. <publisher-name>NICE</publisher-name>, <year>2012</year>.
-</mixed-citation></ref><ref id="R19"><label>19</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><collab>National Institute for Health and Care Excellence</collab></person-group>
-<source>Medicine Optimisation: The Safe and Effective Use of Medicines to Enable the Best Possible Outcomes</source>. <publisher-name>NICE</publisher-name>, <year>2015</year>.
-</mixed-citation></ref><ref id="R20"><label>20</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><collab>National Institute for Health and Care Excellence</collab></person-group>
-<source>Service User Experience in Adult Mental Health: Improving the Experience of Care for People using Adult NHS Mental Health Services</source>. <publisher-name>NICE</publisher-name>, <year>2011</year>.
-</mixed-citation></ref><ref id="R21"><label>21</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><collab>Department of Health</collab></person-group>
-<source>Mental Health Act 1983: Code of Practice</source>. <publisher-name>TSO (The Stationery Office)</publisher-name>, <year>2015</year>.
-</mixed-citation></ref><ref id="R22"><label>22</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Joseph-Williams</surname><given-names>N</given-names></name><name name-style="western"><surname>Edwards</surname><given-names>A</given-names></name><name name-style="western"><surname>Elwyn</surname><given-names>G</given-names></name></person-group>
-<article-title>Power imbalance prevents shared decision making</article-title>. <source>BMJ</source>
-<year>2014</year>; <volume>348</volume>: <fpage>g3178</fpage>.
-<pub-id pub-id-type="pmid">25134115</pub-id></mixed-citation></ref><ref id="R23"><label>23</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Legare</surname><given-names>F</given-names></name><name name-style="western"><surname>Stacey</surname><given-names>D</given-names></name><name name-style="western"><surname>Turcotte</surname><given-names>S</given-names></name><name name-style="western"><surname>Cossi</surname><given-names>M</given-names></name><name name-style="western"><surname>Kryworuchko</surname><given-names>J</given-names></name><name name-style="western"><surname>Graham</surname><given-names>I</given-names></name><etal/></person-group>
-<article-title>Interventions for improving the adoption of shared decision making by healthcare professionals</article-title>. <source>Cochrane Database Syst Rev</source>
-<year>2014</year>; <volume>9</volume>: <comment>CD006732</comment>.
-</mixed-citation></ref><ref id="R24"><label>24</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><collab>Royal College of Psychiatrists</collab></person-group>
-<source>Report of the Second Round of the National Audit of Schizophrenia (NAS) 2014</source>. <publisher-name>Healthcare Quality Improvement Partnership</publisher-name>, <year>2014</year>.
-</mixed-citation></ref><ref id="R25"><label>25</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><collab>Advancing Quality Alliance</collab></person-group>
-<source>Shared Decision Making and Self-Management Support: AQuA Collaborative Programme 2013/14</source>. <publisher-name>AQuA</publisher-name>, <year>2014</year>.
-</mixed-citation></ref><ref id="R26"><label>26</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><collab>The Health Foundation</collab></person-group>
-<source>The MAGIC Programme: Evaluation</source>. <publisher-name>The Health Foundation</publisher-name>, <year>2013</year>.
-</mixed-citation></ref><ref id="R27"><label>27</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><collab>The Health Foundation</collab></person-group>
-<source>Implementing Shared Decision Making</source>. <publisher-name>The Heath Foundation</publisher-name>, <year>2013</year>.
-</mixed-citation></ref><ref id="R28"><label>28</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Lloyd</surname><given-names>A</given-names></name><name name-style="western"><surname>Joseph-Williams</surname><given-names>N</given-names></name><name name-style="western"><surname>Edwards</surname><given-names>A</given-names></name><name name-style="western"><surname>Rix</surname><given-names>A</given-names></name><name name-style="western"><surname>Elwyn</surname><given-names>G</given-names></name></person-group>
-<article-title>Patchy &#x02018;coherence&#x02019;: using normalization process theory to evaluate a multi-faceted shared decision making implementation program (MAGIC)</article-title>. <source>Implementation Science</source>
-<year>2013</year>; <volume>8</volume>:<fpage>102</fpage>.
-<pub-id pub-id-type="pmid">24006959</pub-id></mixed-citation></ref><ref id="R29"><label>29</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Hamann</surname><given-names>J</given-names></name><name name-style="western"><surname>Mendel</surname><given-names>R</given-names></name><name name-style="western"><surname>Meier</surname><given-names>A</given-names></name><name name-style="western"><surname>Asani</surname><given-names>F</given-names></name><name name-style="western"><surname>Pausch</surname><given-names>E</given-names></name><name name-style="western"><surname>Leucht</surname><given-names>S</given-names></name><etal/></person-group>
-<article-title>&#x02018;How to speak to your psychiatrist&#x02019;: shared decision-making training for inpatients with schizophrenia</article-title>. <source>Psychiatr Serv</source>
-<year>2011</year>; <volume>62</volume>: <fpage>1218</fpage>&#x02013;<lpage>21</lpage>.
-<pub-id pub-id-type="pmid">21969650</pub-id></mixed-citation></ref><ref id="R30"><label>30</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Loh</surname><given-names>A</given-names></name><name name-style="western"><surname>Simon</surname><given-names>D</given-names></name><name name-style="western"><surname>Wills</surname><given-names>C</given-names></name><name name-style="western"><surname>Kriston</surname><given-names>L</given-names></name><name name-style="western"><surname>Niebling</surname><given-names>W</given-names></name><name name-style="western"><surname>Haerter</surname><given-names>M</given-names></name></person-group>
-<article-title>The effect of a shared decision-making intervention in primary care of depression: a duster-randomized controlled trial</article-title>. <source>Patient Educ Couns</source>
-<year>2007</year>; <volume>67</volume>: <fpage>324</fpage>&#x02013;<lpage>32</lpage>.
-<pub-id pub-id-type="pmid">17509808</pub-id></mixed-citation></ref><ref id="R31"><label>31</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Deegan</surname><given-names>P</given-names></name><name name-style="western"><surname>Rapp</surname><given-names>C</given-names></name><name name-style="western"><surname>Holter</surname><given-names>M</given-names></name><name name-style="western"><surname>Riefer</surname><given-names>M</given-names></name></person-group>
-<article-title>A Programme to support shared decision making in an outpatient medication clinic</article-title>. <source>Psychiatr Serv</source>
-<year>2008</year>; <volume>59</volume>: <fpage>603</fpage>&#x02013;<lpage>5</lpage>.
-<pub-id pub-id-type="pmid">18511580</pub-id></mixed-citation></ref><ref id="R32"><label>32</label><mixed-citation publication-type="web">
-<person-group person-group-type="author"><collab>Substance Abuse and Mental Health Services Administration</collab></person-group>
-<source>Shared Decision Making Decision Aid</source> (<uri xlink:href="http://media.samhsa.gov/consumersurvivor/sdm/StartHere.html">http://media.samhsa.gov/consumersurvivor/sdm/StartHere.html</uri>). <comment>Accessed 28 July 2016</comment>.
-</mixed-citation></ref><ref id="R33"><label>33</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Duncan</surname><given-names>E</given-names></name><name name-style="western"><surname>Best</surname><given-names>C</given-names></name><name name-style="western"><surname>Hagen</surname><given-names>S</given-names></name></person-group>
-<article-title>Shared decision making interventions for people with mental health conditions</article-title>. <source>Cochrane Database Syst Rev</source>
-<year>2010</year>; <volume>1</volume>: <comment>CD007297</comment>.
-</mixed-citation></ref><ref id="R34"><label>34</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><name name-style="western"><surname>Kaminskiy</surname><given-names>E</given-names></name><name name-style="western"><surname>Ramon</surname><given-names>S</given-names></name><name name-style="western"><surname>Morant</surname><given-names>N</given-names></name></person-group>
-<article-title>Exploring shared decision making for psychiatric medication management</article-title>. In <source>Modern Mental Health: Critical Perspectives on Psychiatric Practice</source> (ed. <person-group person-group-type="editor"><name name-style="western"><surname>Walker</surname><given-names>S</given-names></name></person-group>): pp. <fpage>33</fpage>&#x02013;<lpage>48</lpage>. <publisher-name>Critical Publishing</publisher-name>, <year>2013</year>.
-</mixed-citation></ref><ref id="R35"><label>35</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>O'Sullivan</surname><given-names>MJ</given-names></name><name name-style="western"><surname>Rae</surname><given-names>S</given-names></name></person-group>
-<article-title>Shared decision making in psychiatric medicines management</article-title>. <source>Ment Health Pract</source>
-<year>2014</year>; <volume>17</volume>:<fpage>16</fpage>&#x02013;<lpage>22</lpage>.
-</mixed-citation></ref><ref id="R36"><label>36</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Morant</surname><given-names>N</given-names></name><name name-style="western"><surname>Kaminskiy</surname><given-names>E</given-names></name><name name-style="western"><surname>Ramon</surname><given-names>S</given-names></name></person-group>
-<article-title>Shared decision making for psychiatric medication management: beyond the micro-social</article-title>. <source>Health Expectations</source>
-<year>2015</year>; <comment>doi: 10.1111/hex12392</comment>.
-</mixed-citation></ref><ref id="R37"><label>37</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Braun</surname><given-names>V</given-names></name><name name-style="western"><surname>Clarke</surname><given-names>V</given-names></name></person-group>
-<article-title>Using thematic analysis in psychology</article-title>. <source>Qual Res Psychol</source>
-<year>2006</year>; <volume>3</volume>: <fpage>77</fpage>&#x02013;<lpage>101</lpage>.
-</mixed-citation></ref><ref id="R38"><label>38</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Deegan</surname><given-names>P</given-names></name><name name-style="western"><surname>Drake</surname><given-names>R</given-names></name></person-group>
-<article-title>Shared decision making and medication management in the recovery process</article-title>. <source>Psychiatr Serv</source>
-<year>2006</year>; <volume>57</volume>:<fpage>1636</fpage>&#x02013;<lpage>9</lpage>.
-<pub-id pub-id-type="pmid">17085613</pub-id></mixed-citation></ref><ref id="R39"><label>39</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Deegan</surname><given-names>P</given-names></name></person-group>
-<article-title>The importance of personal medicine: a qualitative study of resilience in people with psychiatric disabilities</article-title>. <source>Scand J Public Health</source>
-<year>2005</year>; <volume>33</volume> (<issue>suppl 66</issue>): <fpage>29</fpage>&#x02013;<lpage>35</lpage>.
-</mixed-citation></ref><ref id="R40"><label>40</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Lenert</surname><given-names>L</given-names></name><name name-style="western"><surname>Dunlea</surname><given-names>R</given-names></name><name name-style="western"><surname>Del Fiol</surname><given-names>G</given-names></name><name name-style="western"><surname>Kelly Hall</surname><given-names>L</given-names></name></person-group>
-<article-title>A model to support shared decision making in electronic health records systems</article-title>. <source>Med Decis Making</source>
-<year>2014</year>; <volume>34</volume>: <fpage>987</fpage>&#x02013;<lpage>95</lpage>.
-<pub-id pub-id-type="pmid">25224366</pub-id></mixed-citation></ref><ref id="R41"><label>41</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Farelly</surname><given-names>S</given-names></name><name name-style="western"><surname>Lester</surname><given-names>H</given-names></name><name name-style="western"><surname>Rose</surname><given-names>D</given-names></name><name name-style="western"><surname>Birchwood</surname><given-names>M</given-names></name><name name-style="western"><surname>Marshall</surname><given-names>M</given-names></name><name name-style="western"><surname>Waheed</surname><given-names>W</given-names></name><etal/></person-group>
-<article-title>Barriers to shared decision making in mental health care: qualitative study of the Joint Crisis Plan for psychosis</article-title>. <source>Health Expectations</source>
-<year>2015</year>; <comment>doi: 10.1111/hex.12368</comment>.
-</mixed-citation></ref><ref id="R42"><label>42</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Marshall</surname><given-names>M</given-names></name><name name-style="western"><surname>Bibby</surname><given-names>J</given-names></name></person-group>
-<article-title>Supporting patients to make the best decisions</article-title>. <source>BMJ</source>
-<year>2011</year>; <volume>342</volume>: <fpage>d2117</fpage>.
-<pub-id pub-id-type="pmid">21474512</pub-id></mixed-citation></ref></ref-list></back></article>
+</mixed-citation>
+</ref>
+<ref id="R6">
+<label>6</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Deegan</surname>
+<given-names>P</given-names>
+</name>
+</person-group>
+<article-title>A web application to support recovery and shared decision making in psychiatric medication clinics</article-title>.<source>Psychiatr Rehabil</source> J <year>2010</year>;<volume>34</volume>:<fpage>23</fpage>&#x02013;<lpage>8</lpage>.
+</mixed-citation>
+</ref>
+<ref id="R7">
+<label>7</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Adams</surname>
+<given-names>J</given-names>
+</name>
+<name name-style="western">
+<surname>Drake</surname>
+<given-names>R</given-names>
+</name>
+<name name-style="western">
+<surname>Wolford</surname>
+<given-names>G</given-names>
+</name>
+</person-group>
+<article-title>Shared decision-making preferences of people with severe mental illness</article-title>.<source>Psychiatr Serv</source>
+<year>2007</year>;<volume>58</volume>:<fpage>1219</fpage>&#x02013;<lpage>21</lpage>.
+<pub-id pub-id-type="pmid">17766569</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R8">
+<label>8</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Joosten</surname>
+<given-names>E</given-names>
+</name>
+<name name-style="western">
+<surname>DeFuentes-Merillas</surname>
+<given-names>L</given-names>
+</name>
+<name name-style="western">
+<surname>de Weert</surname>
+<given-names>G</given-names>
+</name>
+<name name-style="western">
+<surname>Sensky</surname>
+<given-names>T</given-names>
+</name>
+<name name-style="western">
+<surname>van der Staak</surname>
+<given-names>C</given-names>
+</name>
+<name name-style="western">
+<surname>de Jong</surname>
+<given-names>C</given-names>
+</name>
+</person-group>
+<article-title>Systematic review of the effects of shared decision-making on patient satisfaction, treatment adherence and health status</article-title>.<source>Psychother Psychosom</source>
+<year>2008</year>;<volume>77</volume>:<fpage>219</fpage>&#x02013;<lpage>26</lpage>.
+<pub-id pub-id-type="pmid">18418028</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R9">
+<label>9</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Barry</surname>
+<given-names>M</given-names>
+</name>
+<name name-style="western">
+<surname>Edgman-Levitan</surname>
+<given-names>S</given-names>
+</name>
+</person-group>
+<article-title>Shared decision making &#x02013; the pinnacle of patient-centred care</article-title>.<source>N Engl J Med</source>
+<year>2012</year>;<volume>366</volume>:<fpage>780</fpage>&#x02013;<lpage>1</lpage>.
+<pub-id pub-id-type="pmid">22375967</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R10">
+<label>10</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<collab>Department of Health</collab>
+</person-group>
+<source>No Health without Mental Health: A Cross Government Mental Health Outcomes Strategy for People of All Ages</source>.<publisher-name>Department of Health</publisher-name>,<year>2011</year>.
+</mixed-citation>
+</ref>
+<ref id="R11">
+<label>11</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<collab>Department of Health</collab>
+</person-group>
+<source>Equity and Excellence: Liberating the NHS</source>.<publisher-name>Department of Health</publisher-name>,<year>2010</year>.
+</mixed-citation>
+</ref>
+<ref id="R12">
+<label>12</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<collab>Institute of Medicine</collab>
+</person-group>
+<source>Crossing the Quality Chasm: A New Health System for the 21st Century</source>.<publisher-name>IOM</publisher-name>,<year>2001</year>.
+</mixed-citation>
+</ref>
+<ref id="R13">
+<label>13</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<collab>Salzburg Global Seminar</collab>
+</person-group>
+<source>The Salzburg Statement on Shared Decision Making</source>.<publisher-name>Salzburg Global Seminar</publisher-name>,<year>2010</year> (<uri xlink:href="http://www.salzburgglobal.org/fileadmin/user_upload/Documents/2010-2019/2010/477/Salzburg_Global_Shared_Decision_Making_Statement_2013_design_.pdf">http://www.salzburgglobal.org/fileadmin/user_upload/Documents/2010-2019/2010/477/Salzburg_Global_Shared_Decision_Making_Statement_2013_design_.pdf</uri>).
+</mixed-citation>
+</ref>
+<ref id="R14">
+<label>14</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<collab>General Medical Council</collab>
+</person-group>
+<source>Prescribing Guidance: Consent</source>.<publisher-name>GMC</publisher-name>,<year>2013</year>.
+</mixed-citation>
+</ref>
+<ref id="R15">
+<label>15</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<collab>General Medical Council</collab>
+</person-group>
+<source>Good Medical Practice</source>.<publisher-name>GMC</publisher-name>,<year>2013</year>.
+</mixed-citation>
+</ref>
+<ref id="R16">
+<label>16</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Chaplin</surname>
+<given-names>R</given-names>
+</name>
+<name name-style="western">
+<surname>Quirk</surname>
+<given-names>A</given-names>
+</name>
+</person-group>
+<source>How Patient-Centred Are You? Shared Decision-Making in Psychiatric Practice</source>.<publisher-name>Royal College of Psychiatrists</publisher-name>,<year>2015</year>.
+</mixed-citation>
+</ref>
+<ref id="R17">
+<label>17</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<collab>National Institute for Health and Care Excellence</collab>
+</person-group>
+<source>Medicine Adherence</source>.<publisher-name>NICE</publisher-name>,<year>2009</year>.
+</mixed-citation>
+</ref>
+<ref id="R18">
+<label>18</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<collab>National Institute for Health and Care Excellence</collab>
+</person-group>
+<source>Patient Experience in Adult NHS Services: Improving the Experience of Care for People using Adult NHS Services</source>.<publisher-name>NICE</publisher-name>,<year>2012</year>.
+</mixed-citation>
+</ref>
+<ref id="R19">
+<label>19</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<collab>National Institute for Health and Care Excellence</collab>
+</person-group>
+<source>Medicine Optimisation: The Safe and Effective Use of Medicines to Enable the Best Possible Outcomes</source>.<publisher-name>NICE</publisher-name>,<year>2015</year>.
+</mixed-citation>
+</ref>
+<ref id="R20">
+<label>20</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<collab>National Institute for Health and Care Excellence</collab>
+</person-group>
+<source>Service User Experience in Adult Mental Health: Improving the Experience of Care for People using Adult NHS Mental Health Services</source>.<publisher-name>NICE</publisher-name>,<year>2011</year>.
+</mixed-citation>
+</ref>
+<ref id="R21">
+<label>21</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<collab>Department of Health</collab>
+</person-group>
+<source>Mental Health Act 1983: Code of Practice</source>.<publisher-name>TSO (The Stationery Office)</publisher-name>,<year>2015</year>.
+</mixed-citation>
+</ref>
+<ref id="R22">
+<label>22</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Joseph-Williams</surname>
+<given-names>N</given-names>
+</name>
+<name name-style="western">
+<surname>Edwards</surname>
+<given-names>A</given-names>
+</name>
+<name name-style="western">
+<surname>Elwyn</surname>
+<given-names>G</given-names>
+</name>
+</person-group>
+<article-title>Power imbalance prevents shared decision making</article-title>.<source>BMJ</source>
+<year>2014</year>;<volume>348</volume>:<fpage>g3178</fpage>.
+<pub-id pub-id-type="pmid">25134115</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R23">
+<label>23</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Legare</surname>
+<given-names>F</given-names>
+</name>
+<name name-style="western">
+<surname>Stacey</surname>
+<given-names>D</given-names>
+</name>
+<name name-style="western">
+<surname>Turcotte</surname>
+<given-names>S</given-names>
+</name>
+<name name-style="western">
+<surname>Cossi</surname>
+<given-names>M</given-names>
+</name>
+<name name-style="western">
+<surname>Kryworuchko</surname>
+<given-names>J</given-names>
+</name>
+<name name-style="western">
+<surname>Graham</surname>
+<given-names>I</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>Interventions for improving the adoption of shared decision making by healthcare professionals</article-title>.<source>Cochrane Database Syst Rev</source>
+<year>2014</year>;<volume>9</volume>:<comment>CD006732</comment>.
+</mixed-citation>
+</ref>
+<ref id="R24">
+<label>24</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<collab>Royal College of Psychiatrists</collab>
+</person-group>
+<source>Report of the Second Round of the National Audit of Schizophrenia (NAS) 2014</source>.<publisher-name>Healthcare Quality Improvement Partnership</publisher-name>,<year>2014</year>.
+</mixed-citation>
+</ref>
+<ref id="R25">
+<label>25</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<collab>Advancing Quality Alliance</collab>
+</person-group>
+<source>Shared Decision Making and Self-Management Support: AQuA Collaborative Programme 2013/14</source>.<publisher-name>AQuA</publisher-name>,<year>2014</year>.
+</mixed-citation>
+</ref>
+<ref id="R26">
+<label>26</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<collab>The Health Foundation</collab>
+</person-group>
+<source>The MAGIC Programme: Evaluation</source>.<publisher-name>The Health Foundation</publisher-name>,<year>2013</year>.
+</mixed-citation>
+</ref>
+<ref id="R27">
+<label>27</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<collab>The Health Foundation</collab>
+</person-group>
+<source>Implementing Shared Decision Making</source>.<publisher-name>The Heath Foundation</publisher-name>,<year>2013</year>.
+</mixed-citation>
+</ref>
+<ref id="R28">
+<label>28</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Lloyd</surname>
+<given-names>A</given-names>
+</name>
+<name name-style="western">
+<surname>Joseph-Williams</surname>
+<given-names>N</given-names>
+</name>
+<name name-style="western">
+<surname>Edwards</surname>
+<given-names>A</given-names>
+</name>
+<name name-style="western">
+<surname>Rix</surname>
+<given-names>A</given-names>
+</name>
+<name name-style="western">
+<surname>Elwyn</surname>
+<given-names>G</given-names>
+</name>
+</person-group>
+<article-title>Patchy &#x02018;coherence&#x02019;: using normalization process theory to evaluate a multi-faceted shared decision making implementation program (MAGIC)</article-title>.<source>Implementation Science</source>
+<year>2013</year>;<volume>8</volume>:<fpage>102</fpage>.
+<pub-id pub-id-type="pmid">24006959</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R29">
+<label>29</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Hamann</surname>
+<given-names>J</given-names>
+</name>
+<name name-style="western">
+<surname>Mendel</surname>
+<given-names>R</given-names>
+</name>
+<name name-style="western">
+<surname>Meier</surname>
+<given-names>A</given-names>
+</name>
+<name name-style="western">
+<surname>Asani</surname>
+<given-names>F</given-names>
+</name>
+<name name-style="western">
+<surname>Pausch</surname>
+<given-names>E</given-names>
+</name>
+<name name-style="western">
+<surname>Leucht</surname>
+<given-names>S</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>&#x02018;How to speak to your psychiatrist&#x02019;: shared decision-making training for inpatients with schizophrenia</article-title>.<source>Psychiatr Serv</source>
+<year>2011</year>;<volume>62</volume>:<fpage>1218</fpage>&#x02013;<lpage>21</lpage>.
+<pub-id pub-id-type="pmid">21969650</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R30">
+<label>30</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Loh</surname>
+<given-names>A</given-names>
+</name>
+<name name-style="western">
+<surname>Simon</surname>
+<given-names>D</given-names>
+</name>
+<name name-style="western">
+<surname>Wills</surname>
+<given-names>C</given-names>
+</name>
+<name name-style="western">
+<surname>Kriston</surname>
+<given-names>L</given-names>
+</name>
+<name name-style="western">
+<surname>Niebling</surname>
+<given-names>W</given-names>
+</name>
+<name name-style="western">
+<surname>Haerter</surname>
+<given-names>M</given-names>
+</name>
+</person-group>
+<article-title>The effect of a shared decision-making intervention in primary care of depression: a duster-randomized controlled trial</article-title>.<source>Patient Educ Couns</source>
+<year>2007</year>;<volume>67</volume>:<fpage>324</fpage>&#x02013;<lpage>32</lpage>.
+<pub-id pub-id-type="pmid">17509808</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R31">
+<label>31</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Deegan</surname>
+<given-names>P</given-names>
+</name>
+<name name-style="western">
+<surname>Rapp</surname>
+<given-names>C</given-names>
+</name>
+<name name-style="western">
+<surname>Holter</surname>
+<given-names>M</given-names>
+</name>
+<name name-style="western">
+<surname>Riefer</surname>
+<given-names>M</given-names>
+</name>
+</person-group>
+<article-title>A Programme to support shared decision making in an outpatient medication clinic</article-title>.<source>Psychiatr Serv</source>
+<year>2008</year>;<volume>59</volume>:<fpage>603</fpage>&#x02013;<lpage>5</lpage>.
+<pub-id pub-id-type="pmid">18511580</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R32">
+<label>32</label>
+<mixed-citation publication-type="web">
+<person-group person-group-type="author">
+<collab>Substance Abuse and Mental Health Services Administration</collab>
+</person-group>
+<source>Shared Decision Making Decision Aid</source> (<uri xlink:href="http://media.samhsa.gov/consumersurvivor/sdm/StartHere.html">http://media.samhsa.gov/consumersurvivor/sdm/StartHere.html</uri>).<comment>Accessed 28 July 2016</comment>.
+</mixed-citation>
+</ref>
+<ref id="R33">
+<label>33</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Duncan</surname>
+<given-names>E</given-names>
+</name>
+<name name-style="western">
+<surname>Best</surname>
+<given-names>C</given-names>
+</name>
+<name name-style="western">
+<surname>Hagen</surname>
+<given-names>S</given-names>
+</name>
+</person-group>
+<article-title>Shared decision making interventions for people with mental health conditions</article-title>.<source>Cochrane Database Syst Rev</source>
+<year>2010</year>;<volume>1</volume>:<comment>CD007297</comment>.
+</mixed-citation>
+</ref>
+<ref id="R34">
+<label>34</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Kaminskiy</surname>
+<given-names>E</given-names>
+</name>
+<name name-style="western">
+<surname>Ramon</surname>
+<given-names>S</given-names>
+</name>
+<name name-style="western">
+<surname>Morant</surname>
+<given-names>N</given-names>
+</name>
+</person-group>
+<article-title>Exploring shared decision making for psychiatric medication management</article-title>. In <source>Modern Mental Health: Critical Perspectives on Psychiatric Practice</source> (ed. <person-group person-group-type="editor">
+<name name-style="western">
+<surname>Walker</surname>
+<given-names>S</given-names>
+</name>
+</person-group>): pp. <fpage>33</fpage>&#x02013;<lpage>48</lpage>.<publisher-name>Critical Publishing</publisher-name>,<year>2013</year>.
+</mixed-citation>
+</ref>
+<ref id="R35">
+<label>35</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>O'Sullivan</surname>
+<given-names>MJ</given-names>
+</name>
+<name name-style="western">
+<surname>Rae</surname>
+<given-names>S</given-names>
+</name>
+</person-group>
+<article-title>Shared decision making in psychiatric medicines management</article-title>.<source>Ment Health Pract</source>
+<year>2014</year>;<volume>17</volume>:<fpage>16</fpage>&#x02013;<lpage>22</lpage>.
+</mixed-citation>
+</ref>
+<ref id="R36">
+<label>36</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Morant</surname>
+<given-names>N</given-names>
+</name>
+<name name-style="western">
+<surname>Kaminskiy</surname>
+<given-names>E</given-names>
+</name>
+<name name-style="western">
+<surname>Ramon</surname>
+<given-names>S</given-names>
+</name>
+</person-group>
+<article-title>Shared decision making for psychiatric medication management: beyond the micro-social</article-title>.<source>Health Expectations</source>
+<year>2015</year>;<comment>doi: 10.1111/hex12392</comment>.
+</mixed-citation>
+</ref>
+<ref id="R37">
+<label>37</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Braun</surname>
+<given-names>V</given-names>
+</name>
+<name name-style="western">
+<surname>Clarke</surname>
+<given-names>V</given-names>
+</name>
+</person-group>
+<article-title>Using thematic analysis in psychology</article-title>.<source>Qual Res Psychol</source>
+<year>2006</year>;<volume>3</volume>:<fpage>77</fpage>&#x02013;<lpage>101</lpage>.
+</mixed-citation>
+</ref>
+<ref id="R38">
+<label>38</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Deegan</surname>
+<given-names>P</given-names>
+</name>
+<name name-style="western">
+<surname>Drake</surname>
+<given-names>R</given-names>
+</name>
+</person-group>
+<article-title>Shared decision making and medication management in the recovery process</article-title>.<source>Psychiatr Serv</source>
+<year>2006</year>;<volume>57</volume>:<fpage>1636</fpage>&#x02013;<lpage>9</lpage>.
+<pub-id pub-id-type="pmid">17085613</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R39">
+<label>39</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Deegan</surname>
+<given-names>P</given-names>
+</name>
+</person-group>
+<article-title>The importance of personal medicine: a qualitative study of resilience in people with psychiatric disabilities</article-title>.<source>Scand J Public Health</source>
+<year>2005</year>;<volume>33</volume> (<issue>suppl 66</issue>):<fpage>29</fpage>&#x02013;<lpage>35</lpage>.
+</mixed-citation>
+</ref>
+<ref id="R40">
+<label>40</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Lenert</surname>
+<given-names>L</given-names>
+</name>
+<name name-style="western">
+<surname>Dunlea</surname>
+<given-names>R</given-names>
+</name>
+<name name-style="western">
+<surname>Del Fiol</surname>
+<given-names>G</given-names>
+</name>
+<name name-style="western">
+<surname>Kelly Hall</surname>
+<given-names>L</given-names>
+</name>
+</person-group>
+<article-title>A model to support shared decision making in electronic health records systems</article-title>.<source>Med Decis Making</source>
+<year>2014</year>;<volume>34</volume>:<fpage>987</fpage>&#x02013;<lpage>95</lpage>.
+<pub-id pub-id-type="pmid">25224366</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R41">
+<label>41</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Farelly</surname>
+<given-names>S</given-names>
+</name>
+<name name-style="western">
+<surname>Lester</surname>
+<given-names>H</given-names>
+</name>
+<name name-style="western">
+<surname>Rose</surname>
+<given-names>D</given-names>
+</name>
+<name name-style="western">
+<surname>Birchwood</surname>
+<given-names>M</given-names>
+</name>
+<name name-style="western">
+<surname>Marshall</surname>
+<given-names>M</given-names>
+</name>
+<name name-style="western">
+<surname>Waheed</surname>
+<given-names>W</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>Barriers to shared decision making in mental health care: qualitative study of the Joint Crisis Plan for psychosis</article-title>.<source>Health Expectations</source>
+<year>2015</year>;<comment>doi: 10.1111/hex.12368</comment>.
+</mixed-citation>
+</ref>
+<ref id="R42">
+<label>42</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Marshall</surname>
+<given-names>M</given-names>
+</name>
+<name name-style="western">
+<surname>Bibby</surname>
+<given-names>J</given-names>
+</name>
+</person-group>
+<article-title>Supporting patients to make the best decisions</article-title>.<source>BMJ</source>
+<year>2011</year>;<volume>342</volume>:<fpage>d2117</fpage>.
+<pub-id pub-id-type="pmid">21474512</pub-id>
+</mixed-citation>
+</ref>
+</ref-list>
+</back>
+</article>

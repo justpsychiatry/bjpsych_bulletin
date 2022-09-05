@@ -1,2 +1,103 @@
-<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
-<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="book-review"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-journalpublishing1.dtd?><?SourceDTD.Version 1.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">BJPsych Bull</journal-id><journal-id journal-id-type="iso-abbrev">BJPsych Bull</journal-id><journal-id journal-id-type="hwp">pbrcpsych</journal-id><journal-title-group><journal-title>BJPsych Bulletin</journal-title></journal-title-group><issn pub-type="ppub">2056-4694</issn><issn pub-type="epub">2056-4708</issn><publisher><publisher-name>Royal College of Psychiatrists</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">5537586</article-id><article-id pub-id-type="doi">10.1192/pb.bp.115.052803</article-id><article-categories><subj-group subj-group-type="heading"><subject>Columns</subject><subj-group subj-group-type="heading"><subject>Reviews</subject></subj-group></subj-group></article-categories><title-group><article-title>Handbook on Obsessive-Compulsive and Related Disorders</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Drummond</surname><given-names>Lynne M.</given-names></name></contrib></contrib-group><author-notes><fn><p><bold>Lynne M. Drummond</bold>, Consultant Psychiatrist and Clinical Lead, National and Trustwide Services for OCD/BDD, South West London and St George's NHS Trust, London, UK; email: <email>lynnemd@sgul.ac.uk</email></p></fn></author-notes><pub-date pub-type="ppub"><month>8</month><year>2017</year></pub-date><volume>41</volume><issue>4</issue><fpage seq="a">239</fpage><lpage>239</lpage><product><source><bold>Handbook on Obsessive-Compulsive and Related Disorders</bold></source><comment> Edited by </comment><x>&#x000a0;</x><name><surname>Phillips</surname><given-names>K. A.</given-names></name><comment> and </comment><x>&#x000a0;</x><name><surname>Stein</surname><given-names>D. J.</given-names></name><x>&#x000a0;</x><publisher-name>American Psychiatric Association Publishing</publisher-name><comment>, </comment><x>&#x000a0;</x><year>2015</year><comment>, </comment><x>&#x000a0;</x><comment>&#x000a3;41.40</comment><x>. </x><comment>, </comment><x>&#x000a0;</x><comment>pb, 300 pp</comment><comment>. ISBN: </comment><x>&#x000a0;</x><isbn>9781585624898</isbn><x>. </x></product><permissions><copyright-statement>&#x000a9; 2017 The Author</copyright-statement><copyright-year>2017</copyright-year><license license-type="creative-commons" xlink:href="http://creativecommons.org/licenses/by/4.0"><license-p>This is an open-access article published by the Royal College of Psychiatrists and distributed under the terms of the Creative Commons Attribution License (<uri xlink:href="http://creativecommons.Org/licenses/by/4.0">http://creativecommons.Org/licenses/by/4.0</uri>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xlink:title="pdf" xlink:href="239.pdf"/></article-meta></front><body><p id="P1">This multi-author book examines the disorders categorised in DSM-5 as obsessive-compulsive and related disorders (OCaRDs) and also covers two other related disorders: illness anxiety and obsessive-compulsive personality disorders. The text is written by experts in the field, many of whom were instrumental in developing the concept of OCaRDs in DSM-5. Unlike many multi-author publications, this is brief and to the point. Each of the chapters is arranged in a structured format which includes a general introduction; diagnostic criteria and symptomatology; epidemiology; comorbidity; course and prognosis; psychosocial impairment; developmental considerations; gender-related issues; cultural aspects of phenomenology; assessment and differential diagnosis; aetiology and pathophysiology; treatment (somatic as well as cognitive and behavioural) and a summary of key points at the end. Most chapters also contain illustrative case vignettes which demonstrate the disorders and their potential severity.</p><p id="P2">This excellent title should be on the bookshelf of every psychiatrist, whether working with adults or children. Mental health workers, managers and commissioners often overlook common conditions such as obsessive-compulsive disorder and body dysmorphic disorder, regarding them as less severe and important than conditions such as schizophrenia. This work describes the hugely detrimental effects these conditions can have on the individual's mortality, morbidity and social functioning. It also considers newly defined disorders, such as hoarding and skin-picking disorders. These conditions are poorly understood and have generally not been researched extensively. They do, however, appear to be widespread and often have extreme consequences on the individual's mental and physical well-being. For example, hoarding disorder, which was previously often classified as obsessive-compulsive disorder or else obsessive-compulsive personality disorder, may affect up to 6% of the adult population. Excessive hoarding can lead to death due to fire risk or the falling of large numbers of possessions resulting in an avalanche. It also frequently coexists with self-neglect and &#x02013; owing to the extreme shame &#x02013; social isolation. Nevertheless, few community mental health teams in the UK offer comprehensive treatment for hoarding disorders. Some enlightened councils have developed hoarding protocols incorporating housing agencies, social services, and mental and physical health services but overall these are patchy and rare.</p><p id="P3">Hopefully, heightened awareness will lead to systematic research and a better understanding of the disorders and their treatment, as well as the development of effective services. This handbook would be a perfect introduction to these areas for a busy practitioner seeking brief but authoritative information.</p></body></article>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="book-review">    <?properties open_access?>    <?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN?>    <?DTDIdentifier.IdentifierType public?>    <?SourceDTD.DTDName JATS-journalpublishing1.dtd?>    <?SourceDTD.Version 1.0?>    <?ConverterInfo.XSLTName jp2nlmx2.xsl?>    <?ConverterInfo.Version 1?>
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="nlm-ta">BJPsych Bull</journal-id>
+            <journal-id journal-id-type="iso-abbrev">BJPsych Bull</journal-id>
+            <journal-id journal-id-type="hwp">pbrcpsych</journal-id>
+            <journal-title-group>
+                <journal-title>BJPsych Bulletin</journal-title>
+            </journal-title-group>
+            <issn pub-type="ppub">2056-4694</issn>
+            <issn pub-type="epub">2056-4708</issn>
+            <publisher>
+                <publisher-name>Royal College of Psychiatrists</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="pmcid">5537586</article-id>
+            <article-id pub-id-type="doi">10.1192/pb.bp.115.052803</article-id>
+            <article-categories>
+                <subj-group subj-group-type="heading">
+                    <subject>Columns</subject>
+                    <subj-group subj-group-type="heading">
+                        <subject>Reviews</subject>
+                    </subj-group>
+                </subj-group>
+            </article-categories>
+            <title-group>
+                <article-title>Handbook on Obsessive-Compulsive and Related Disorders</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Drummond</surname>
+                        <given-names>Lynne M.</given-names>
+                    </name>
+                </contrib>
+            </contrib-group>
+            <author-notes>
+                <fn>
+                    <p>
+                        <bold>Lynne M. Drummond</bold>, Consultant Psychiatrist and Clinical Lead, National and Trustwide Services for OCD/BDD, South West London and St George's NHS Trust, London, UK; email: <email>lynnemd@sgul.ac.uk</email>
+                    </p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="ppub">
+                <month>8</month>
+                <year>2017</year>
+            </pub-date>
+            <volume>41</volume>
+            <issue>4</issue>
+            <fpage seq="a">239</fpage>
+            <lpage>239</lpage>
+            <product>
+                <source>
+                    <bold>Handbook on Obsessive-Compulsive and Related Disorders</bold>
+                </source>
+                <comment> Edited by </comment>
+                <x>&#x000a0;</x>
+                <name>
+                    <surname>Phillips</surname>
+                    <given-names>K. A.</given-names>
+                </name>
+                <comment> and </comment>
+                <x>&#x000a0;</x>
+                <name>
+                    <surname>Stein</surname>
+                    <given-names>D. J.</given-names>
+                </name>
+                <x>&#x000a0;</x>
+                <publisher-name>American Psychiatric Association Publishing</publisher-name>
+                <comment>, </comment>
+                <x>&#x000a0;</x>
+                <year>2015</year>
+                <comment>, </comment>
+                <x>&#x000a0;</x>
+                <comment>&#x000a3;41.40</comment>
+                <x>. </x>
+                <comment>, </comment>
+                <x>&#x000a0;</x>
+                <comment>pb, 300 pp</comment>
+                <comment>. ISBN: </comment>
+                <x>&#x000a0;</x>
+                <isbn>9781585624898</isbn>
+                <x>. </x>
+            </product>
+            <permissions>
+                <copyright-statement>&#x000a9; 2017 The Author</copyright-statement>
+                <copyright-year>2017</copyright-year>
+                <license license-type="creative-commons" xlink:href="http://creativecommons.org/licenses/by/4.0">
+                    <license-p>This is an open-access article published by the Royal College of Psychiatrists and distributed under the terms of the Creative Commons Attribution License (<uri xlink:href="http://creativecommons.Org/licenses/by/4.0">http://creativecommons.Org/licenses/by/4.0</uri>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <self-uri xlink:title="pdf" xlink:href="239.pdf" />
+        </article-meta>
+    </front>
+    <body>
+        <p id="P1">This multi-author book examines the disorders categorised in DSM-5 as obsessive-compulsive and related disorders (OCaRDs) and also covers two other related disorders: illness anxiety and obsessive-compulsive personality disorders. The text is written by experts in the field, many of whom were instrumental in developing the concept of OCaRDs in DSM-5. Unlike many multi-author publications, this is brief and to the point. Each of the chapters is arranged in a structured format which includes a general introduction; diagnostic criteria and symptomatology; epidemiology; comorbidity; course and prognosis; psychosocial impairment; developmental considerations; gender-related issues; cultural aspects of phenomenology; assessment and differential diagnosis; aetiology and pathophysiology; treatment (somatic as well as cognitive and behavioural) and a summary of key points at the end. Most chapters also contain illustrative case vignettes which demonstrate the disorders and their potential severity.</p>
+        <p id="P2">This excellent title should be on the bookshelf of every psychiatrist, whether working with adults or children. Mental health workers, managers and commissioners often overlook common conditions such as obsessive-compulsive disorder and body dysmorphic disorder, regarding them as less severe and important than conditions such as schizophrenia. This work describes the hugely detrimental effects these conditions can have on the individual's mortality, morbidity and social functioning. It also considers newly defined disorders, such as hoarding and skin-picking disorders. These conditions are poorly understood and have generally not been researched extensively. They do, however, appear to be widespread and often have extreme consequences on the individual's mental and physical well-being. For example, hoarding disorder, which was previously often classified as obsessive-compulsive disorder or else obsessive-compulsive personality disorder, may affect up to 6% of the adult population. Excessive hoarding can lead to death due to fire risk or the falling of large numbers of possessions resulting in an avalanche. It also frequently coexists with self-neglect and &#x02013; owing to the extreme shame &#x02013; social isolation. Nevertheless, few community mental health teams in the UK offer comprehensive treatment for hoarding disorders. Some enlightened councils have developed hoarding protocols incorporating housing agencies, social services, and mental and physical health services but overall these are patchy and rare.</p>
+        <p id="P3">Hopefully, heightened awareness will lead to systematic research and a better understanding of the disorders and their treatment, as well as the development of effective services. This handbook would be a perfect introduction to these areas for a busy practitioner seeking brief but authoritative information.</p>
+    </body>
+</article>

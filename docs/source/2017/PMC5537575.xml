@@ -1,58 +1,393 @@
-<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
-<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-journalpublishing1.dtd?><?SourceDTD.Version 1.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">BJPsych Bull</journal-id><journal-id journal-id-type="iso-abbrev">BJPsych Bull</journal-id><journal-id journal-id-type="hwp">pbrcpsych</journal-id><journal-title-group><journal-title>BJPsych Bulletin</journal-title></journal-title-group><issn pub-type="ppub">2056-4694</issn><issn pub-type="epub">2056-4708</issn><publisher><publisher-name>Royal College of Psychiatrists</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">5537575</article-id><article-id pub-id-type="doi">10.1192/pb.bp.116.054585</article-id><article-categories><subj-group subj-group-type="heading"><subject>Special Articles</subject></subj-group></article-categories><title-group><article-title>Prevent: what is pre-criminal space?</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Goldberg</surname><given-names>David</given-names></name><xref ref-type="aff" rid="A1">1</xref></contrib><contrib contrib-type="author"><name><surname>Jadhav</surname><given-names>Sushrut</given-names></name><xref ref-type="aff" rid="A1">1</xref><xref ref-type="corresp" rid="cor1"/></contrib><contrib contrib-type="author"><name><surname>Younis</surname><given-names>Tarek</given-names></name><xref ref-type="aff" rid="A2">2</xref></contrib></contrib-group><aff id="A1"><label>1</label>University College London, London, UK</aff><aff id="A2"><label>2</label>Universit&#x000e9; du Qu&#x000e9;bec &#x000e0; Montr&#x000e9;al, Montreal, Canada</aff><author-notes><corresp id="cor1">
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article">    <?properties open_access?>    <?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN?>    <?DTDIdentifier.IdentifierType public?>    <?SourceDTD.DTDName JATS-journalpublishing1.dtd?>    <?SourceDTD.Version 1.0?>    <?ConverterInfo.XSLTName jp2nlmx2.xsl?>    <?ConverterInfo.Version 1?>
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="nlm-ta">BJPsych Bull</journal-id>
+            <journal-id journal-id-type="iso-abbrev">BJPsych Bull</journal-id>
+            <journal-id journal-id-type="hwp">pbrcpsych</journal-id>
+            <journal-title-group>
+                <journal-title>BJPsych Bulletin</journal-title>
+            </journal-title-group>
+            <issn pub-type="ppub">2056-4694</issn>
+            <issn pub-type="epub">2056-4708</issn>
+            <publisher>
+                <publisher-name>Royal College of Psychiatrists</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="pmcid">5537575</article-id>
+            <article-id pub-id-type="doi">10.1192/pb.bp.116.054585</article-id>
+            <article-categories>
+                <subj-group subj-group-type="heading">
+                    <subject>Special Articles</subject>
+                </subj-group>
+            </article-categories>
+            <title-group>
+                <article-title>Prevent: what is pre-criminal space?</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Goldberg</surname>
+                        <given-names>David</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Jadhav</surname>
+                        <given-names>Sushrut</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                    <xref ref-type="corresp" rid="cor1" />
+                </contrib>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Younis</surname>
+                        <given-names>Tarek</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A2">2</xref>
+                </contrib>
+            </contrib-group>
+            <aff id="A1">
+                <label>1</label>University College London, London, UK</aff>
+            <aff id="A2">
+                <label>2</label>Universit&#x000e9; du Qu&#x000e9;bec &#x000e0; Montr&#x000e9;al, Montreal, Canada</aff>
+            <author-notes>
+                <corresp id="cor1">
 Correspondence to Sushrut Jadhav (<email>s.jadhav@ucl.ac.uk</email>)
-</corresp><fn><p><bold>David Goldberg</bold> is a Visiting Researcher in the Division of Psychiatry, University College London, and medical anthropologist, London, UK. <bold>Sushrut Jadhav</bold> is a consultant psychiatrist, Camden &#x00026; Islington NHS Foundation Trust, London, and Clinical Senior Lecturer in Cross-cultural Psychiatry, University College London, UK. <bold>Tarek Younis</bold> is a PhD/PsyD candidate at Universit&#x000e9; du Qu&#x000e9;bec &#x000e0; Montr&#x000e9;al, Canada, and consultant for the Montr&#x000e9;al police regarding Arab/Muslim community issues.</p></fn></author-notes><pub-date pub-type="ppub"><month>8</month><year>2017</year></pub-date><volume>41</volume><issue>4</issue><fpage>208</fpage><lpage>211</lpage><history><date date-type="received"><day>29</day><month>3</month><year>2016</year></date><date date-type="rev-recd"><day>25</day><month>6</month><year>2016</year></date><date date-type="accepted"><day>31</day><month>8</month><year>2016</year></date></history><permissions><copyright-statement>&#x000a9; 2017 The Authors</copyright-statement><copyright-year>2017</copyright-year><license license-type="creative-commons" xlink:href="http://creativecommons.org/licenses/by/4.0"><license-p>This is an open-access article published by the Royal College of Psychiatrists and distributed under the terms of the Creative Commons Attribution License (<uri xlink:href="http://creativecommons.org/licenses/by/4.0">http://creativecommons.org/licenses/by/4.0</uri>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xlink:title="pdf" xlink:href="208.pdf"/><abstract><p id="P1">Prevent is a UK-wide programme within the government's anti-terrorism strategy aimed at stopping individuals from supporting or taking part in terrorist activities. NHS England's Prevent Training and Competencies Framework requires health professionals to understand the concept of pre-criminal space. This article examines pre-criminal space, a new term which refers to a period of time during which a person is referred to a specific Prevent-related safeguarding panel, Channel. It is unclear what the concept of pre-criminal space adds to the Prevent programme. The term should be either clarified or removed from the Framework.</p></abstract></article-meta></front><body><p id="P2">The Prevent Training and Competencies Framework<sup><xref rid="R1" ref-type="bibr">1</xref></sup> begins thus:
-<disp-quote><p id="P3">&#x02018;Prevent is part of the Government's counter-terrorism strategy CONTEST and aims to stop people becoming terrorists or supporting terrorism; as such it is described as the only long term solution to the threat we face from terrorism. Prevent focuses on all forms of terrorism and operates in a pre-criminal space, providing support and redirection to vulnerable individuals at risk of being groomed in to terrorist activity before any crimes are committed. Radicalisation is comparable to other forms of exploitation; it is therefore a safeguarding issue staff working in the health sector must be aware of. [&#x02026; ] Staff must be able to recognise signs of radicalisation and be confident in referring individuals who can then receive support in the pre-criminal space.&#x02019; (p. 5)</p></disp-quote>
-The Framework is cascaded down the National Health Service (NHS) hierarchies in England to ensure that all front-line staff in the NHS receive mandatory training in the Prevent process. NHS staff refer patients considered vulnerable to radicalisation to local Prevent leads and onward to Prevent case managers and the Channel panel. The Channel acts as a multi-agency panel along the lines of other safeguarding panels in England.</p><p id="P4">This Training and Competency Framework follows from the <italic>Prevent Duty Guidance</italic>,<sup><xref rid="R2" ref-type="bibr">2</xref></sup> the <italic>Channel Duty Guidance</italic><sup><xref rid="R3" ref-type="bibr">3</xref></sup> and the <italic>Channel: Vulnerability Assessment Framework</italic><sup><xref rid="R4" ref-type="bibr">4</xref></sup> produced by the government following <italic>CONTEST: The United Kingdom's Strategy for Countering Terrorism</italic><sup><xref rid="R5" ref-type="bibr">5</xref></sup> and the Counter-Terrorism and Security Act 2015. The Framework does not name these documents but mentions two other documents which focus on multi-agency working. The first, <italic>Safeguarding Children and Young People</italic>,<sup><xref rid="R6" ref-type="bibr">6</xref></sup> details the roles and competencies for healthcare staff when working with other professionals to safeguard children and young people. The second, <italic>Building Partnerships, Staying Safe</italic>,<sup><xref rid="R7" ref-type="bibr">7</xref></sup> stresses the importance of effective interprofessional working.</p><p id="P5">The focus of the Framework is on training. Among the competencies listed within is to understand the concept of pre-criminal space. This article examines this term using publicly accessible government documents and internet searches performed on Google and Google Scholar. It is a textual analysis, read in the context of other government documents,<sup><xref rid="R8" ref-type="bibr">8</xref></sup> which presumes that what is read may not necessarily be what the authors initially intended. Meanings applied to words, particularly new compound words, gain significance over time and use.<sup><xref rid="R9" ref-type="bibr">9</xref></sup> One of the presumptions of this method is that textual analysis may not relate directly to what is happening in practice.</p><sec id="S1"><title>Pre-criminal space in the NHS England Framework</title><p id="P6">&#x02018;Pre-criminal space&#x02019; appears four times in the Framework document, including twice in the introduction:
-<list list-type="order"><list-item><p id="P7">&#x02018;Prevent focuses on all forms of terrorism and operates in a pre-criminal space&#x02019; (p. 5)</p></list-item><list-item><p id="P8">&#x02018;&#x02026; individuals [ &#x02026; ] can then receive support in the pre-criminal space&#x02019; (p. 5)</p></list-item><list-item><p id="P9">&#x02018;&#x02026; aware[ness that] [ &#x02026; ] the health sector contribution operates in pre-criminal space&#x02019; (p. 8)</p></list-item><list-item><p id="P10">&#x02018;Understand [ &#x02026; ] the concept of pre-criminal space&#x02019; (p. 10).</p></list-item></list>
-The meaning of &#x02018;pre-criminal space&#x02019; can be deduced from these quotes. &#x02018;Prevent focuses on all forms of terrorism and operates in a pre-criminal space&#x02019; suggests that pre-criminal space may relate to specific physical spaces and times where professionals &#x02018;operate&#x02019; or act within the aims of the Prevent programme. The statement that &#x02018;individuals [ &#x02026; ] can then receive support in the pre-criminal space&#x02019; suggests that the professional activity involved is &#x02018;support&#x02019;. What constitutes &#x02018;support&#x02019; is detailed in the <italic>Channel Duty Guidance</italic>.<sup><xref rid="R3" ref-type="bibr">3</xref></sup> The fact that &#x02018;the health sector contribution operates in pre-criminal space&#x02019; implies that other health sector activities may not operate in the pre-criminal space. In what way NHS activity in this &#x02018;space&#x02019; is different from that in other space is not stated anywhere. The need for health professionals to understand &#x02018;the concept of pre-criminal space&#x02019; suggests that there is an important difference between what pre-criminal space is and what it is not. Read in the context of Prevent<sup><xref rid="R2" ref-type="bibr">2</xref></sup> and <italic>Channel Duty Guidance</italic>,<sup><xref rid="R3" ref-type="bibr">3</xref></sup> pre-criminal space is likely to start on acceptance of a referral of a person within the Channel panel, or perhaps on referral or discussion of the possibility of referral by NHS staff to Channel personnel. Thus, pre-criminal space has temporal and spatial aspects. As the time and space is decided by negotiation with and between professionals, the term also has inter-professional dimensions. This is supported by Framework naming documents that focus on effective multidisciplinary work rather than the Prevent and Channel Duty guidelines.<sup><xref rid="R6" ref-type="bibr">6</xref>,<xref rid="R7" ref-type="bibr">7</xref></sup></p><p id="P11">The Framework document views the Prevent programme as part of the wider safeguarding agenda. However, there is one important difference compared with other safeguarding panels: the coordinator of the Channel process, the Channel Police Practitioner (CPP), is a police officer or is employed by the police (ref. <xref rid="R3" ref-type="bibr">3</xref>, para. 30). Thus, unlike other safeguarding procedures, the police have a central coordinating function.</p></sec><sec id="S2"><title>Coining of &#x02018;pre-criminal space&#x02019;</title><p id="P12">The term pre-criminal space is new. It was introduced by this Framework and cascaded to all trusts by NHS England. The term does not occur in non-NHS Prevent documents or in CONTEST. References to pre-criminal space since the term was introduced are largely found in trust documentation and NHS PowerPoint presentations, together with some journalist reports and blogs. For instance, the <italic>Telegraph</italic> comments on the police use of the term and possible repercussions on state-Muslim relations.<sup><xref rid="R10" ref-type="bibr">10</xref></sup></p><p id="P13">All NHS trusts in England are mandated to enact the Framework document and produce policy or guidance documents. None of these documents define pre-criminal space any further. Many use pre-criminal space with quotation marks, a few prefacing the term with &#x02018;so-called&#x02019;. The usual statement is a reiteration of &#x02018;Prevent operates in the pre-criminal space&#x02019;. Occasionally the hyphen is replaced by a space between &#x02018;pre&#x02019; and &#x02018;criminal&#x02019; but the words are never placed directly together. The most detailed definition we have found comes from a glossary in a Prevent document from Mersey Care NHS Trust, beginning with a precautionary note: &#x02018;These definitions relate to PREVENT and are not always authoritative in any wider context.&#x02019; &#x02018;Pre-Criminal Activity/Space&#x02019; is explained by focusing on &#x02018;multi-agency working to ensure that individuals are diverted away before any crime is committed&#x02019;.<sup><xref rid="R11" ref-type="bibr">11</xref></sup> This definition merges &#x02018;space&#x02019; with multi-agency activity.</p></sec><sec id="S3"><title>Denotation and connotation</title><p id="P14">So far we have argued that pre-criminal space refers to the time when a person is engaged by the Channel panel and related professionals. It denotes the time, space and interprofessional activity involved in planning, coordinating support and possibly monitoring in the NHS England Prevent programme. What is unclear is whether the Channel process and panel meetings are in any way different from other multi-agency activities. This may be deduced by examining possible connotations of the term based on participants' understanding of language use in its social context.</p><p id="P15">Pre-criminal space consists of three terms: &#x02018;pre&#x02019; meaning before, &#x02018;criminal&#x02019; as a person who has committed a crime or repeated crimes, and &#x02018;space&#x02019; as a continuous physical area. &#x02018;Pre&#x02019; appears to modify the second term, &#x02018;criminal&#x02019;, rather than space. Hyphens are not usually used after prefixes such as &#x02018;pre&#x02019;, unless the resulting meaning becomes ambiguous, for example &#x02018;pre-order&#x02019; rather than &#x02018;preorder&#x02019;. Thus, the use of the hyphen both gives a separation between pre-crime and crime and creates the link. The term implies that the &#x02018;space&#x02019; is pre-criminal, not the individual. While the use of the term &#x02018;space&#x02019; suggests a physical space, such as a meeting room, there are no references to where the vulnerable person is to be supported. &#x02018;Space&#x02019; in this context is used as a relational concept, common in expressions such as &#x02018;I need space to think&#x02019;, meaning &#x02018;I need a place for myself, away from certain social relationships&#x02019;.</p></sec><sec id="S4"><title>The derivation of pre-criminal space</title><p id="P16">The etymology of the term is significant to the discussion. &#x02018;Pre-crime&#x02019; and &#x02018;space&#x02019;, as separate words, suggest they are potentially independent concepts. The term &#x02018;precrime&#x02019; was said to be coined by science fiction writer Philip K. Dick in his short story <italic>Minority Report</italic>.<sup><xref rid="R12" ref-type="bibr">12</xref></sup> The drama is based on the concept that crime has not occurred yet but will occur in future unless measures are taken. The belief that crime can be prevented by identification and intervention has a long history. In the 19th century, Lambroso's theory of criminal atavism famously purported to identify future criminals by their abnormal physical appearance. In recent years, criminologists use the term pre-crime to criticise the move to criminalise people prior to the committing of crime.<sup><xref rid="R13" ref-type="bibr">13</xref></sup> More recently, the term &#x02018;pre-criminal space&#x02019; has been used in the US security industry in relation to Islamic fundamentalist terrorism.<sup><xref rid="R14" ref-type="bibr">14</xref></sup> We find no evidence that the concept of &#x02018;space&#x02019; in pre-criminal space derives from academic theorising about space. Depending on context, however, space connotes elements of time as well as physical or abstract forms of space. Space in pre-criminal space can thus gain different metaphoric associations depending on the immediate social context. Pre-criminal space may describe the physical space where &#x02018;support&#x02019; is planned, &#x02018;operated&#x02019; or monitored. It may also relate to the time that the person is subject to the Channel panel process, or to differences in the social rules of interprofessional interaction, as compared with different safeguarding panel discussions. Finally, it may refer to differing social identities of the person referred to the Channel panel and the professionals involved.</p></sec><sec id="S5"><title>Rhetoric</title><p id="P17">The Framework provides an abbreviated and reasoned argument in support of the Prevent programme and the involvement of health professionals. Like all arguments, it persuades through the use of the metaphoric qualities which words gain in use. There are two sets of metaphors within the Framework, one pertinent to NHS professionals and the other to the police. The health metaphors are borrowed from structural engineering, with vulnerability and support suggesting the diathesis-stress model. The person is weakened from external assault or internal deficiency; structural support is provided from outside so the individual can withstand potential assaults or threats. Even the WRAP acronym (Workshops to Raise Awareness of Prevent) suggests physical bodily protection against external threat. The criminal justice terms (i.e. radicalisation, extremism, CONTEST, counter-terrorism, strategy) suggest a heightened spatial metaphor, polarisation and direction of movement. The creation of the term pre-criminal space may be an attempt to bridge the health and police use of metaphor: the health metaphor aiming for stability and predictability, while the criminal justice metaphor focuses on adaptability. The lack of effective definition of pre-criminal space allows for evolving inter-agency norms during the Channel process to vary with context.</p><p id="P18">If new concepts emerge by visual analogy,<sup><xref rid="R15" ref-type="bibr">15</xref></sup> pre-criminal space can be seen as an extension of crime prevention. It can be visualised as a system of continuous and contained passages. Prior to the vent (derived from the Latin root, as in <italic>prevent),</italic> professionals direct radicals, people who have an attractive or repulsive charge or energy, past the vent and into the channel. As the radicals pass along the vent their charge or energy becomes less strong and the radical no longer moves towards the extreme.</p><p id="P19">If the term pre-criminal space mobilises healthcare professionals and Channel partners towards a crime prevention role of health intervention, pre-criminal space has the potential to act as a form of &#x02018;excitable speech&#x02019; to alert listeners to the threat of terrorism.<sup><xref rid="R16" ref-type="bibr">16</xref></sup> The rhetorical use of the term pre-criminal space during the Channel process could be perceived as an attempt to persuade professionals to disclose information or make decisions they would otherwise not make in other safeguarding forums and in comparable circumstances.</p></sec><sec id="S6"><title>Opinion</title><p id="P20">The Training and Competency Framework is an action plan, laying out who does what, when and with whom. For the implementation of Prevent, terms need to be defined to such a degree that the participants can understand the concepts involved. Indeed, the Framework itself asks NHS staff to understand the concept of pre-criminal space (p. 10). Pre-criminal space clearly denotes a period of time in the Prevent process without adding further meaning and keeping open the opportunity for the term's possible rhetorical use in Channel meetings.</p><p id="P21">One synonym for pre-criminal space is crime prevention. This raises the possibility of changing the wording of the Framework to replace this obscure and newly coined term with &#x02018;crime prevention&#x02019;. Alternatively, discussion and clarification of the concept of pre-criminal space would allow it to define the participants' relationships as the crime prevention activity proceeds. Further multidisciplinaiy research linking NHS documents to practice may enable the Prevent guidance and framework to be linked with practice. When the time comes for the Prevent framework to be updated (although no such date is given in the document), we recommend that the term should be clarified or removed.</p></sec></body><back><fn-group><fn fn-type="COI-statement"><p><bold>Declaration of interest</bold> None.</p></fn></fn-group><ack><p id="P22">We thank the Newton International Fellowship, supported by the Royal Society, the British Academy, and the Academy of Medical Sciences.</p></ack><ref-list><title>References</title><ref id="R1"><label>1</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><collab>NHS England Nursing Directorate Adult Safeguarding</collab></person-group>
-<source>NHS England &#x02013; Prevent Training and Competencies Framework</source>. <publisher-name>NHS England</publisher-name>, <year>2015</year>.
-</mixed-citation></ref><ref id="R2"><label>2</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><collab>HM Government</collab></person-group>
-<source>Prevent Duty Guidance: Guidance for Specified Authorities in England and Wales on the Duty in the Counter-Terrorism and Security Act 2015 to Have Due Regard to the Need to Prevent People from Being Drawn into Terrorism</source>. <publisher-name>HM Government</publisher-name>, <year>2015</year>.
-</mixed-citation></ref><ref id="R3"><label>3</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><collab>HM Government</collab></person-group>
-<source>Channel Duty Guidance: Protecting Vulnerable People from Being Drawn into Terrorism</source>. <publisher-name>HM Government</publisher-name>, <year>2015</year>.
-</mixed-citation></ref><ref id="R4"><label>4</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><collab>HM Government</collab></person-group>
-<source>Channel: Vulnerability Assessment Framework</source>. <publisher-name>HM Government</publisher-name>, <year>2012</year>.
-</mixed-citation></ref><ref id="R5"><label>5</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><collab>HM Government</collab></person-group>
-<source>CONTEST: The United Kingdom's Strategy for Countering Terrorism: Annual Report for 2014</source>. <publisher-name>HM Stationery Office</publisher-name>, <year>2015</year>.
-</mixed-citation></ref><ref id="R6"><label>6</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><collab>Royal College of Paediatrics and Child Health</collab></person-group>
-<source>Safeguarding Children and Young People: Roles and Competences for Health Care Staff (Intercollegiate Document</source>, <edition>3rd edn</edition>). <publisher-name>RCPCH</publisher-name>, <year>2014</year>.
-</mixed-citation></ref><ref id="R7"><label>7</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><collab>Department of Health</collab></person-group>
-<source>Building Partnerships, Staying Safe: The Health Sector Contribution to HM Government's Prevent Strategy: Guidance for Healthcare Workers</source>. <publisher-name>Central Office of Information</publisher-name>, <year>2011</year>.
-</mixed-citation></ref><ref id="R8"><label>8</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><name name-style="western"><surname>Fairclough</surname><given-names>N</given-names></name></person-group>
-<source>Critical Discourse Analysis: The Critical Study of Language</source>. <publisher-name>Routledge</publisher-name>, <year>2010</year>.
-</mixed-citation></ref><ref id="R9"><label>9</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><name name-style="western"><surname>Iser</surname><given-names>W</given-names></name></person-group>
-<source>The Act of Reading: A Theory of Aesthetic Response</source>. <publisher-name>Johns Hopkins University Press</publisher-name>, <year>1980</year>.
-</mixed-citation></ref><ref id="R10"><label>10</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Russell</surname><given-names>J</given-names></name></person-group>
-<article-title>Making an opinion illegal is not going to stop terrorism</article-title>. <source>Telegraph</source>
-<year>2015</year>; <day>13</day>
+                </corresp>
+                <fn>
+                    <p>
+                        <bold>David Goldberg</bold> is a Visiting Researcher in the Division of Psychiatry, University College London, and medical anthropologist, London, UK. <bold>Sushrut Jadhav</bold> is a consultant psychiatrist, Camden &#x00026; Islington NHS Foundation Trust, London, and Clinical Senior Lecturer in Cross-cultural Psychiatry, University College London, UK. <bold>Tarek Younis</bold> is a PhD/PsyD candidate at Universit&#x000e9; du Qu&#x000e9;bec &#x000e0; Montr&#x000e9;al, Canada, and consultant for the Montr&#x000e9;al police regarding Arab/Muslim community issues.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="ppub">
+                <month>8</month>
+                <year>2017</year>
+            </pub-date>
+            <volume>41</volume>
+            <issue>4</issue>
+            <fpage>208</fpage>
+            <lpage>211</lpage>
+            <history>
+                <date date-type="received">
+                    <day>29</day>
+                    <month>3</month>
+                    <year>2016</year>
+                </date>
+                <date date-type="rev-recd">
+                    <day>25</day>
+                    <month>6</month>
+                    <year>2016</year>
+                </date>
+                <date date-type="accepted">
+                    <day>31</day>
+                    <month>8</month>
+                    <year>2016</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>&#x000a9; 2017 The Authors</copyright-statement>
+                <copyright-year>2017</copyright-year>
+                <license license-type="creative-commons" xlink:href="http://creativecommons.org/licenses/by/4.0">
+                    <license-p>This is an open-access article published by the Royal College of Psychiatrists and distributed under the terms of the Creative Commons Attribution License (<uri xlink:href="http://creativecommons.org/licenses/by/4.0">http://creativecommons.org/licenses/by/4.0</uri>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <self-uri xlink:title="pdf" xlink:href="208.pdf" />
+            <abstract>
+                <p id="P1">Prevent is a UK-wide programme within the government's anti-terrorism strategy aimed at stopping individuals from supporting or taking part in terrorist activities. NHS England's Prevent Training and Competencies Framework requires health professionals to understand the concept of pre-criminal space. This article examines pre-criminal space, a new term which refers to a period of time during which a person is referred to a specific Prevent-related safeguarding panel, Channel. It is unclear what the concept of pre-criminal space adds to the Prevent programme. The term should be either clarified or removed from the Framework.</p>
+            </abstract>
+        </article-meta>
+    </front>
+    <body>
+        <p id="P2">The Prevent Training and Competencies Framework<sup>
+            <xref rid="R1" ref-type="bibr">1</xref>
+        </sup> begins thus:
+        <disp-quote>
+            <p id="P3">&#x02018;Prevent is part of the Government's counter-terrorism strategy CONTEST and aims to stop people becoming terrorists or supporting terrorism; as such it is described as the only long term solution to the threat we face from terrorism. Prevent focuses on all forms of terrorism and operates in a pre-criminal space, providing support and redirection to vulnerable individuals at risk of being groomed in to terrorist activity before any crimes are committed. Radicalisation is comparable to other forms of exploitation; it is therefore a safeguarding issue staff working in the health sector must be aware of. [&#x02026; ] Staff must be able to recognise signs of radicalisation and be confident in referring individuals who can then receive support in the pre-criminal space.&#x02019; (p. 5)</p>
+        </disp-quote>
+The Framework is cascaded down the National Health Service (NHS) hierarchies in England to ensure that all front-line staff in the NHS receive mandatory training in the Prevent process. NHS staff refer patients considered vulnerable to radicalisation to local Prevent leads and onward to Prevent case managers and the Channel panel. The Channel acts as a multi-agency panel along the lines of other safeguarding panels in England.</p>
+    <p id="P4">This Training and Competency Framework follows from the <italic>Prevent Duty Guidance</italic>,        <sup>
+            <xref rid="R2" ref-type="bibr">2</xref>
+        </sup> the <italic>Channel Duty Guidance</italic>
+        <sup>
+            <xref rid="R3" ref-type="bibr">3</xref>
+        </sup> and the <italic>Channel: Vulnerability Assessment Framework</italic>
+        <sup>
+            <xref rid="R4" ref-type="bibr">4</xref>
+        </sup> produced by the government following <italic>CONTEST: The United Kingdom's Strategy for Countering Terrorism</italic>
+        <sup>
+            <xref rid="R5" ref-type="bibr">5</xref>
+        </sup> and the Counter-Terrorism and Security Act 2015. The Framework does not name these documents but mentions two other documents which focus on multi-agency working. The first, <italic>Safeguarding Children and Young People</italic>,        <sup>
+            <xref rid="R6" ref-type="bibr">6</xref>
+        </sup> details the roles and competencies for healthcare staff when working with other professionals to safeguard children and young people. The second, <italic>Building Partnerships, Staying Safe</italic>,        <sup>
+            <xref rid="R7" ref-type="bibr">7</xref>
+        </sup> stresses the importance of effective interprofessional working.</p>
+    <p id="P5">The focus of the Framework is on training. Among the competencies listed within is to understand the concept of pre-criminal space. This article examines this term using publicly accessible government documents and internet searches performed on Google and Google Scholar. It is a textual analysis, read in the context of other government documents,<sup>
+        <xref rid="R8" ref-type="bibr">8</xref>
+    </sup> which presumes that what is read may not necessarily be what the authors initially intended. Meanings applied to words, particularly new compound words, gain significance over time and use.<sup>
+    <xref rid="R9" ref-type="bibr">9</xref>
+</sup> One of the presumptions of this method is that textual analysis may not relate directly to what is happening in practice.</p>
+<sec id="S1">
+<title>Pre-criminal space in the NHS England Framework</title>
+<p id="P6">&#x02018;Pre-criminal space&#x02019; appears four times in the Framework document, including twice in the introduction:
+    <list list-type="order">
+        <list-item>
+            <p id="P7">&#x02018;Prevent focuses on all forms of terrorism and operates in a pre-criminal space&#x02019; (p. 5)</p>
+        </list-item>
+        <list-item>
+            <p id="P8">&#x02018;&#x02026; individuals [ &#x02026; ] can then receive support in the pre-criminal space&#x02019; (p. 5)</p>
+        </list-item>
+        <list-item>
+            <p id="P9">&#x02018;&#x02026; aware[ness that] [ &#x02026; ] the health sector contribution operates in pre-criminal space&#x02019; (p. 8)</p>
+        </list-item>
+        <list-item>
+            <p id="P10">&#x02018;Understand [ &#x02026; ] the concept of pre-criminal space&#x02019; (p. 10).</p>
+        </list-item>
+    </list>
+The meaning of &#x02018;pre-criminal space&#x02019; can be deduced from these quotes. &#x02018;Prevent focuses on all forms of terrorism and operates in a pre-criminal space&#x02019; suggests that pre-criminal space may relate to specific physical spaces and times where professionals &#x02018;operate&#x02019; or act within the aims of the Prevent programme. The statement that &#x02018;individuals [ &#x02026; ] can then receive support in the pre-criminal space&#x02019; suggests that the professional activity involved is &#x02018;support&#x02019;. What constitutes &#x02018;support&#x02019; is detailed in the <italic>Channel Duty Guidance</italic>.    <sup>
+        <xref rid="R3" ref-type="bibr">3</xref>
+    </sup> The fact that &#x02018;the health sector contribution operates in pre-criminal space&#x02019; implies that other health sector activities may not operate in the pre-criminal space. In what way NHS activity in this &#x02018;space&#x02019; is different from that in other space is not stated anywhere. The need for health professionals to understand &#x02018;the concept of pre-criminal space&#x02019; suggests that there is an important difference between what pre-criminal space is and what it is not. Read in the context of Prevent<sup>
+    <xref rid="R2" ref-type="bibr">2</xref>
+</sup> and <italic>Channel Duty Guidance</italic>,<sup>
+    <xref rid="R3" ref-type="bibr">3</xref>
+</sup> pre-criminal space is likely to start on acceptance of a referral of a person within the Channel panel, or perhaps on referral or discussion of the possibility of referral by NHS staff to Channel personnel. Thus, pre-criminal space has temporal and spatial aspects. As the time and space is decided by negotiation with and between professionals, the term also has inter-professional dimensions. This is supported by Framework naming documents that focus on effective multidisciplinary work rather than the Prevent and Channel Duty guidelines.<sup>
+<xref rid="R6" ref-type="bibr">6</xref>,<xref rid="R7" ref-type="bibr">7</xref>
+</sup>
+</p>
+<p id="P11">The Framework document views the Prevent programme as part of the wider safeguarding agenda. However, there is one important difference compared with other safeguarding panels: the coordinator of the Channel process, the Channel Police Practitioner (CPP), is a police officer or is employed by the police (ref. <xref rid="R3" ref-type="bibr">3</xref>, para. 30). Thus, unlike other safeguarding procedures, the police have a central coordinating function.</p>
+</sec>
+<sec id="S2">
+<title>Coining of &#x02018;pre-criminal space&#x02019;</title>
+<p id="P12">The term pre-criminal space is new. It was introduced by this Framework and cascaded to all trusts by NHS England. The term does not occur in non-NHS Prevent documents or in CONTEST. References to pre-criminal space since the term was introduced are largely found in trust documentation and NHS PowerPoint presentations, together with some journalist reports and blogs. For instance, the <italic>Telegraph</italic> comments on the police use of the term and possible repercussions on state-Muslim relations.<sup>
+<xref rid="R10" ref-type="bibr">10</xref>
+</sup>
+</p>
+<p id="P13">All NHS trusts in England are mandated to enact the Framework document and produce policy or guidance documents. None of these documents define pre-criminal space any further. Many use pre-criminal space with quotation marks, a few prefacing the term with &#x02018;so-called&#x02019;. The usual statement is a reiteration of &#x02018;Prevent operates in the pre-criminal space&#x02019;. Occasionally the hyphen is replaced by a space between &#x02018;pre&#x02019; and &#x02018;criminal&#x02019; but the words are never placed directly together. The most detailed definition we have found comes from a glossary in a Prevent document from Mersey Care NHS Trust, beginning with a precautionary note: &#x02018;These definitions relate to PREVENT and are not always authoritative in any wider context.&#x02019; &#x02018;Pre-Criminal Activity/Space&#x02019; is explained by focusing on &#x02018;multi-agency working to ensure that individuals are diverted away before any crime is committed&#x02019;.<sup>
+<xref rid="R11" ref-type="bibr">11</xref>
+</sup> This definition merges &#x02018;space&#x02019; with multi-agency activity.</p>
+</sec>
+<sec id="S3">
+<title>Denotation and connotation</title>
+<p id="P14">So far we have argued that pre-criminal space refers to the time when a person is engaged by the Channel panel and related professionals. It denotes the time, space and interprofessional activity involved in planning, coordinating support and possibly monitoring in the NHS England Prevent programme. What is unclear is whether the Channel process and panel meetings are in any way different from other multi-agency activities. This may be deduced by examining possible connotations of the term based on participants' understanding of language use in its social context.</p>
+<p id="P15">Pre-criminal space consists of three terms: &#x02018;pre&#x02019; meaning before, &#x02018;criminal&#x02019; as a person who has committed a crime or repeated crimes, and &#x02018;space&#x02019; as a continuous physical area. &#x02018;Pre&#x02019; appears to modify the second term, &#x02018;criminal&#x02019;, rather than space. Hyphens are not usually used after prefixes such as &#x02018;pre&#x02019;, unless the resulting meaning becomes ambiguous, for example &#x02018;pre-order&#x02019; rather than &#x02018;preorder&#x02019;. Thus, the use of the hyphen both gives a separation between pre-crime and crime and creates the link. The term implies that the &#x02018;space&#x02019; is pre-criminal, not the individual. While the use of the term &#x02018;space&#x02019; suggests a physical space, such as a meeting room, there are no references to where the vulnerable person is to be supported. &#x02018;Space&#x02019; in this context is used as a relational concept, common in expressions such as &#x02018;I need space to think&#x02019;, meaning &#x02018;I need a place for myself, away from certain social relationships&#x02019;.</p>
+</sec>
+<sec id="S4">
+<title>The derivation of pre-criminal space</title>
+<p id="P16">The etymology of the term is significant to the discussion. &#x02018;Pre-crime&#x02019; and &#x02018;space&#x02019;, as separate words, suggest they are potentially independent concepts. The term &#x02018;precrime&#x02019; was said to be coined by science fiction writer Philip K. Dick in his short story <italic>Minority Report</italic>.<sup>
+<xref rid="R12" ref-type="bibr">12</xref>
+</sup> The drama is based on the concept that crime has not occurred yet but will occur in future unless measures are taken. The belief that crime can be prevented by identification and intervention has a long history. In the 19th century, Lambroso's theory of criminal atavism famously purported to identify future criminals by their abnormal physical appearance. In recent years, criminologists use the term pre-crime to criticise the move to criminalise people prior to the committing of crime.<sup>
+<xref rid="R13" ref-type="bibr">13</xref>
+</sup> More recently, the term &#x02018;pre-criminal space&#x02019; has been used in the US security industry in relation to Islamic fundamentalist terrorism.<sup>
+<xref rid="R14" ref-type="bibr">14</xref>
+</sup> We find no evidence that the concept of &#x02018;space&#x02019; in pre-criminal space derives from academic theorising about space. Depending on context, however, space connotes elements of time as well as physical or abstract forms of space. Space in pre-criminal space can thus gain different metaphoric associations depending on the immediate social context. Pre-criminal space may describe the physical space where &#x02018;support&#x02019; is planned, &#x02018;operated&#x02019; or monitored. It may also relate to the time that the person is subject to the Channel panel process, or to differences in the social rules of interprofessional interaction, as compared with different safeguarding panel discussions. Finally, it may refer to differing social identities of the person referred to the Channel panel and the professionals involved.</p>
+</sec>
+<sec id="S5">
+<title>Rhetoric</title>
+<p id="P17">The Framework provides an abbreviated and reasoned argument in support of the Prevent programme and the involvement of health professionals. Like all arguments, it persuades through the use of the metaphoric qualities which words gain in use. There are two sets of metaphors within the Framework, one pertinent to NHS professionals and the other to the police. The health metaphors are borrowed from structural engineering, with vulnerability and support suggesting the diathesis-stress model. The person is weakened from external assault or internal deficiency; structural support is provided from outside so the individual can withstand potential assaults or threats. Even the WRAP acronym (Workshops to Raise Awareness of Prevent) suggests physical bodily protection against external threat. The criminal justice terms (i.e. radicalisation, extremism, CONTEST, counter-terrorism, strategy) suggest a heightened spatial metaphor, polarisation and direction of movement. The creation of the term pre-criminal space may be an attempt to bridge the health and police use of metaphor: the health metaphor aiming for stability and predictability, while the criminal justice metaphor focuses on adaptability. The lack of effective definition of pre-criminal space allows for evolving inter-agency norms during the Channel process to vary with context.</p>
+<p id="P18">If new concepts emerge by visual analogy,<sup>
+<xref rid="R15" ref-type="bibr">15</xref>
+</sup> pre-criminal space can be seen as an extension of crime prevention. It can be visualised as a system of continuous and contained passages. Prior to the vent (derived from the Latin root, as in <italic>prevent),</italic> professionals direct radicals, people who have an attractive or repulsive charge or energy, past the vent and into the channel. As the radicals pass along the vent their charge or energy becomes less strong and the radical no longer moves towards the extreme.</p>
+<p id="P19">If the term pre-criminal space mobilises healthcare professionals and Channel partners towards a crime prevention role of health intervention, pre-criminal space has the potential to act as a form of &#x02018;excitable speech&#x02019; to alert listeners to the threat of terrorism.<sup>
+<xref rid="R16" ref-type="bibr">16</xref>
+</sup> The rhetorical use of the term pre-criminal space during the Channel process could be perceived as an attempt to persuade professionals to disclose information or make decisions they would otherwise not make in other safeguarding forums and in comparable circumstances.</p>
+</sec>
+<sec id="S6">
+<title>Opinion</title>
+<p id="P20">The Training and Competency Framework is an action plan, laying out who does what, when and with whom. For the implementation of Prevent, terms need to be defined to such a degree that the participants can understand the concepts involved. Indeed, the Framework itself asks NHS staff to understand the concept of pre-criminal space (p. 10). Pre-criminal space clearly denotes a period of time in the Prevent process without adding further meaning and keeping open the opportunity for the term's possible rhetorical use in Channel meetings.</p>
+<p id="P21">One synonym for pre-criminal space is crime prevention. This raises the possibility of changing the wording of the Framework to replace this obscure and newly coined term with &#x02018;crime prevention&#x02019;. Alternatively, discussion and clarification of the concept of pre-criminal space would allow it to define the participants' relationships as the crime prevention activity proceeds. Further multidisciplinaiy research linking NHS documents to practice may enable the Prevent guidance and framework to be linked with practice. When the time comes for the Prevent framework to be updated (although no such date is given in the document), we recommend that the term should be clarified or removed.</p>
+</sec>
+</body>
+<back>
+<fn-group>
+<fn fn-type="COI-statement">
+<p>
+<bold>Declaration of interest</bold> None.</p>
+</fn>
+</fn-group>
+<ack>
+<p id="P22">We thank the Newton International Fellowship, supported by the Royal Society, the British Academy, and the Academy of Medical Sciences.</p>
+</ack>
+<ref-list>
+<title>References</title>
+<ref id="R1">
+<label>1</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<collab>NHS England Nursing Directorate Adult Safeguarding</collab>
+</person-group>
+<source>NHS England &#x02013; Prevent Training and Competencies Framework</source>.<publisher-name>NHS England</publisher-name>,<year>2015</year>.
+</mixed-citation>
+</ref>
+<ref id="R2">
+<label>2</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<collab>HM Government</collab>
+</person-group>
+<source>Prevent Duty Guidance: Guidance for Specified Authorities in England and Wales on the Duty in the Counter-Terrorism and Security Act 2015 to Have Due Regard to the Need to Prevent People from Being Drawn into Terrorism</source>.<publisher-name>HM Government</publisher-name>,<year>2015</year>.
+</mixed-citation>
+</ref>
+<ref id="R3">
+<label>3</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<collab>HM Government</collab>
+</person-group>
+<source>Channel Duty Guidance: Protecting Vulnerable People from Being Drawn into Terrorism</source>.<publisher-name>HM Government</publisher-name>,<year>2015</year>.
+</mixed-citation>
+</ref>
+<ref id="R4">
+<label>4</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<collab>HM Government</collab>
+</person-group>
+<source>Channel: Vulnerability Assessment Framework</source>.<publisher-name>HM Government</publisher-name>,<year>2012</year>.
+</mixed-citation>
+</ref>
+<ref id="R5">
+<label>5</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<collab>HM Government</collab>
+</person-group>
+<source>CONTEST: The United Kingdom's Strategy for Countering Terrorism: Annual Report for 2014</source>.<publisher-name>HM Stationery Office</publisher-name>,<year>2015</year>.
+</mixed-citation>
+</ref>
+<ref id="R6">
+<label>6</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<collab>Royal College of Paediatrics and Child Health</collab>
+</person-group>
+<source>Safeguarding Children and Young People: Roles and Competences for Health Care Staff (Intercollegiate Document</source>,<edition>3rd edn</edition>).<publisher-name>RCPCH</publisher-name>,<year>2014</year>.
+</mixed-citation>
+</ref>
+<ref id="R7">
+<label>7</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<collab>Department of Health</collab>
+</person-group>
+<source>Building Partnerships, Staying Safe: The Health Sector Contribution to HM Government's Prevent Strategy: Guidance for Healthcare Workers</source>.<publisher-name>Central Office of Information</publisher-name>,<year>2011</year>.
+</mixed-citation>
+</ref>
+<ref id="R8">
+<label>8</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Fairclough</surname>
+<given-names>N</given-names>
+</name>
+</person-group>
+<source>Critical Discourse Analysis: The Critical Study of Language</source>.<publisher-name>Routledge</publisher-name>,<year>2010</year>.
+</mixed-citation>
+</ref>
+<ref id="R9">
+<label>9</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Iser</surname>
+<given-names>W</given-names>
+</name>
+</person-group>
+<source>The Act of Reading: A Theory of Aesthetic Response</source>.<publisher-name>Johns Hopkins University Press</publisher-name>,<year>1980</year>.
+</mixed-citation>
+</ref>
+<ref id="R10">
+<label>10</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Russell</surname>
+<given-names>J</given-names>
+</name>
+</person-group>
+<article-title>Making an opinion illegal is not going to stop terrorism</article-title>.<source>Telegraph</source>
+<year>2015</year>;<day>13</day>
 <month>5</month>.
-</mixed-citation></ref><ref id="R11"><label>11</label><mixed-citation publication-type="book">
-<article-title>Safeguarding Adult Lead, Prevent Lead</article-title>. <source>Prevent (version 2)</source>. <publisher-name>Mersey Care NHS Trust</publisher-name>, <year>2015</year>.
-</mixed-citation></ref><ref id="R12"><label>12</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><name name-style="western"><surname>Dick</surname><given-names>PK</given-names></name></person-group>
-<source>Minority Report</source>. <publisher-name>Gollancz</publisher-name>, <year>2002</year>.
-</mixed-citation></ref><ref id="R13"><label>13</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Zedner</surname><given-names>L</given-names></name></person-group>
-<article-title>Pre-crime and pre-punishment: a health warning</article-title>. <source>CJM</source>
-<year>2010</year>; <volume>81</volume>: <fpage>24</fpage>&#x02013;<lpage>5</lpage>.
-</mixed-citation></ref><ref id="R14"><label>14</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><name name-style="western"><surname>Weine</surname><given-names>S</given-names></name><name name-style="western"><surname>Cohen</surname><given-names>J</given-names></name><name name-style="western"><surname>Brannegan</surname><given-names>D</given-names></name></person-group>
-<source>Moving Beyond Motive-Based Categories of Targeted Violence</source>. <publisher-name>Argonne National Lab (ANL)</publisher-name>, <year>2015</year>.
-</mixed-citation></ref><ref id="R15"><label>15</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><name name-style="western"><surname>Hesse</surname><given-names>M</given-names></name></person-group>
-<source>Models and Analogies in Science (revised, ed.)</source>. <publisher-name>Notre Dame University Press</publisher-name>, <year>1966</year>.
-</mixed-citation></ref><ref id="R16"><label>16</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><name name-style="western"><surname>Butler</surname><given-names>J</given-names></name></person-group>
-<source>Excitable Speech: A Politics of the Performative</source>. <publisher-name>Routledge</publisher-name>, <year>1997</year>.
-</mixed-citation></ref></ref-list></back></article>
+</mixed-citation>
+</ref>
+<ref id="R11">
+<label>11</label>
+<mixed-citation publication-type="book">
+<article-title>Safeguarding Adult Lead, Prevent Lead</article-title>.<source>Prevent (version 2)</source>.<publisher-name>Mersey Care NHS Trust</publisher-name>,<year>2015</year>.
+</mixed-citation>
+</ref>
+<ref id="R12">
+<label>12</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Dick</surname>
+<given-names>PK</given-names>
+</name>
+</person-group>
+<source>Minority Report</source>.<publisher-name>Gollancz</publisher-name>,<year>2002</year>.
+</mixed-citation>
+</ref>
+<ref id="R13">
+<label>13</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Zedner</surname>
+<given-names>L</given-names>
+</name>
+</person-group>
+<article-title>Pre-crime and pre-punishment: a health warning</article-title>.<source>CJM</source>
+<year>2010</year>;<volume>81</volume>:<fpage>24</fpage>&#x02013;<lpage>5</lpage>.
+</mixed-citation>
+</ref>
+<ref id="R14">
+<label>14</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Weine</surname>
+<given-names>S</given-names>
+</name>
+<name name-style="western">
+<surname>Cohen</surname>
+<given-names>J</given-names>
+</name>
+<name name-style="western">
+<surname>Brannegan</surname>
+<given-names>D</given-names>
+</name>
+</person-group>
+<source>Moving Beyond Motive-Based Categories of Targeted Violence</source>.<publisher-name>Argonne National Lab (ANL)</publisher-name>,<year>2015</year>.
+</mixed-citation>
+</ref>
+<ref id="R15">
+<label>15</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Hesse</surname>
+<given-names>M</given-names>
+</name>
+</person-group>
+<source>Models and Analogies in Science (revised, ed.)</source>.<publisher-name>Notre Dame University Press</publisher-name>,<year>1966</year>.
+</mixed-citation>
+</ref>
+<ref id="R16">
+<label>16</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Butler</surname>
+<given-names>J</given-names>
+</name>
+</person-group>
+<source>Excitable Speech: A Politics of the Performative</source>.<publisher-name>Routledge</publisher-name>,<year>1997</year>.
+</mixed-citation>
+</ref>
+</ref-list>
+</back>
+</article>

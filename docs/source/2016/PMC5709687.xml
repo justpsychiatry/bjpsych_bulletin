@@ -1,82 +1,1208 @@
-<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
-<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="review-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-journalpublishing1.dtd?><?SourceDTD.Version 1.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">BJPsych Bull</journal-id><journal-id journal-id-type="iso-abbrev">BJPsych Bull</journal-id><journal-id journal-id-type="hwp">pbrcpsych</journal-id><journal-title-group><journal-title>BJPsych Bulletin</journal-title></journal-title-group><issn pub-type="ppub">2056-4694</issn><issn pub-type="epub">2056-4708</issn><publisher><publisher-name>Royal College of Psychiatrists</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">5709687</article-id><article-id pub-id-type="doi">10.1192/pb.bp.116.055509</article-id><article-categories><subj-group subj-group-type="heading"><subject>Current Practice</subject></subj-group></article-categories><title-group><article-title>Measuring relational security in forensic mental health services</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Chester</surname><given-names>Verity</given-names></name><xref ref-type="aff" rid="A1">1</xref><xref ref-type="corresp" rid="cor1"/></contrib><contrib contrib-type="author"><name><surname>Alexander</surname><given-names>Regi T.</given-names></name><xref ref-type="aff" rid="A1">1</xref><xref ref-type="aff" rid="A2">2</xref></contrib><contrib contrib-type="author"><name><surname>Morgan</surname><given-names>Wendy</given-names></name><xref ref-type="aff" rid="A3">3</xref></contrib></contrib-group><aff id="A1"><label>1</label>Department of Psychiatry, Partnerships in Care Learning Disability Services</aff><aff id="A2"><label>2</label>Leicestershire Partnership NHS Trust</aff><aff id="A3"><label>3</label>Department of Psychology, Social Work and Allied Health Sciences, Glasgow Caledonian University</aff><author-notes><corresp id="cor1">
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="review-article">    <?properties open_access?>    <?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN?>    <?DTDIdentifier.IdentifierType public?>    <?SourceDTD.DTDName JATS-journalpublishing1.dtd?>    <?SourceDTD.Version 1.0?>    <?ConverterInfo.XSLTName jp2nlmx2.xsl?>    <?ConverterInfo.Version 1?>
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="nlm-ta">BJPsych Bull</journal-id>
+            <journal-id journal-id-type="iso-abbrev">BJPsych Bull</journal-id>
+            <journal-id journal-id-type="hwp">pbrcpsych</journal-id>
+            <journal-title-group>
+                <journal-title>BJPsych Bulletin</journal-title>
+            </journal-title-group>
+            <issn pub-type="ppub">2056-4694</issn>
+            <issn pub-type="epub">2056-4708</issn>
+            <publisher>
+                <publisher-name>Royal College of Psychiatrists</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="pmcid">5709687</article-id>
+            <article-id pub-id-type="doi">10.1192/pb.bp.116.055509</article-id>
+            <article-categories>
+                <subj-group subj-group-type="heading">
+                    <subject>Current Practice</subject>
+                </subj-group>
+            </article-categories>
+            <title-group>
+                <article-title>Measuring relational security in forensic mental health services</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Chester</surname>
+                        <given-names>Verity</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                    <xref ref-type="corresp" rid="cor1" />
+                </contrib>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Alexander</surname>
+                        <given-names>Regi T.</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                    <xref ref-type="aff" rid="A2">2</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Morgan</surname>
+                        <given-names>Wendy</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A3">3</xref>
+                </contrib>
+            </contrib-group>
+            <aff id="A1">
+                <label>1</label>Department of Psychiatry, Partnerships in Care Learning Disability Services</aff>
+            <aff id="A2">
+                <label>2</label>Leicestershire Partnership NHS Trust</aff>
+            <aff id="A3">
+                <label>3</label>Department of Psychology, Social Work and Allied Health Sciences, Glasgow Caledonian University</aff>
+            <author-notes>
+                <corresp id="cor1">
 Correspondence to Verity Chester (<email>VerityChester@priorygroup.com</email>)
-</corresp><fn><p><bold>Verity Chester</bold>, research and projects associate, Department of Psychiatry, Partnerships in Care Learning Disability Services. <bold>Regi T. Alexander</bold>, consultant psychiatrist, Department of Psychiatry, Partnerships in Care Learning Disability Services, and Research Lead Consultant, Leicestershire Partnership NHS Trust. <bold>Wendy Morgan</bold>, senior lecturer, Department of Psychology, Social Work and Allied Health Sciences, Glasgow Caledonian University.</p></fn></author-notes><pub-date pub-type="ppub"><month>12</month><year>2017</year></pub-date><volume>41</volume><issue>6</issue><fpage>358</fpage><lpage>363</lpage><history><date date-type="received"><day>7</day><month>10</month><year>2016</year></date><date date-type="rev-recd"><day>17</day><month>3</month><year>2017</year></date><date date-type="accepted"><day>27</day><month>3</month><year>2017</year></date></history><permissions><copyright-statement>&#x000a9; 2017 The Authors</copyright-statement><copyright-year>2017</copyright-year><license license-type="creative-commons" xlink:href="http://creativecommons.org/licenses/by/4.0"><license-p>This is an open-access article published by the Royal College of Psychiatrists and distributed under the terms of the Creative Commons Attribution License (<uri xlink:href="http://creativecommons.org/licenses/by/4.0">http://creativecommons.org/licenses/by/4.0</uri>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xlink:title="pdf" xlink:href="358.pdf"/><abstract><p id="P1"><bold>Aims and method</bold> Relational security is an important component of care and risk assessment in mental health services, but the utility of available measures remains under-researched. This study analysed the psychometric properties of two relational security tools, the See Think Act (STA) scale and the Relational Security Explorer (RSE).</p><p id="P2"><bold>Results</bold> The STA scale had good internal consistency and could highlight differences between occupational groups, whereas the RSE did not perform well as a psychometric measure.</p><p id="P3"><bold>Clinical implications</bold> The measures provide unique and complimentary perspectives on the quality of relational security within secure services, but have some limitations. Use of the RSE should be restricted to its intended purpose; to guide team discussions about relational security, and services should refrain from collecting and aggregating this data. Until further research validates their use, relational security measurement should be multidimensional and form part of a wider process of service quality assessment.</p></abstract></article-meta></front><body><p id="P4">Serious incident investigations in forensic mental health services have been linked to relational security breakdowns.<sup><xref rid="R1" ref-type="bibr">1</xref></sup> However, relational security has been described as the &#x02018;poor relation&#x02019;<sup><xref rid="R2" ref-type="bibr">2</xref></sup> when compared with physical or procedural security. This is most likely due to definition difficulties. Chester &#x00026; Morgan<sup><xref rid="R3" ref-type="bibr">3</xref></sup> noted that numerous conceptualisations of relational security exist, all referencing different phenomena, such as &#x02018;therapeutic relationships&#x02019; and &#x02018;boundaries&#x02019;, without describing how such concepts can affect security.<sup><xref rid="R3" ref-type="bibr">3</xref></sup> The authors noted that the most practically useful definitions emphasise exactly how relational issues affect security, in two stages: (1) staff knowledge of patients and therapeutic relationships; and (2) how patient knowledge and therapeutic relationships are used to foresee potential and manage actual security incidents, for example: &#x02018;The professional relationships between staff and patients so that &#x02026; the staff to get to know &#x02026; their patients, their moods and problems, to facilitate interventions before these become major problems, or lead to incidents of a security nature&#x02019; (p. 171).<sup><xref rid="R4" ref-type="bibr">4</xref></sup> As such, relational security is intrinsically linked to short- and long-term assessment and management of risk in mental health and forensic services.</p><p id="P5">Relational security is therefore a service quality indicator of interest within forensic and general mental health services. Its measurement should allow practitioners to explore background causes and respond accordingly with appropriate interventions. Due to the definitional complexities, there are subsequent challenges to measurement. Previously available tools only measure partial aspects of relational security or individual patient needs.<sup><xref rid="R3" ref-type="bibr">3</xref></sup> However, two tools have been developed in recent years, the Relational Security Explorer<sup><xref rid="R5" ref-type="bibr">5</xref></sup> and the See Think Act scale.<sup><xref rid="R2" ref-type="bibr">2</xref></sup> As limited research has examined the clinical utility of these measures, the present study examines their psychometric properties to support the aim of relational security measurement.</p><sec sec-type="methods" id="S1"><title>Method</title><sec id="S2"><title>Design</title><p id="P6">The study employed a within-participants (reliability testing) and between-participants (assessing the measures' ability to identify differences between occupational groups according to the variables level of security, ward gender and length of experience working in secure services) cross-sectional questionnaire design.</p></sec><sec sec-type="subjects" id="S3"><title>Participants</title><p id="P7">Participants were recruited from a forensic service for people with intellectual disability. As guidance recommends that relational security implementation should involve all occupational groups working within secure services,<sup><xref rid="R6" ref-type="bibr">6</xref></sup> the study invited all staff who have contact with patients as part of their role to take part in the study (<italic>n</italic> = 216), and of these 41% (<italic>n</italic> = 89) responded. The majority of the participants were female (63%), and the average length of service working in secure services was 6 years (range 0.12&#x02013;20). The majority of participants were from the nursing department (57%), followed by occupational therapy (16%), psychology (9%), social work (6%), psychiatry (2%) and housekeeping (8%), and two participants identified their occupation as &#x02018;other&#x02019;. The level of security in which respondents worked in at the time of the study was medium (23.6%), low (27%) and locked rehabilitation (16.9%). There are no national data available which describe the demographics of the forensic mental health workforce, although the reported characteristics reflected the socio-demographic and occupational breakdown of the study service and the broader mental health workforce as a whole,<sup><xref rid="R7" ref-type="bibr">7</xref></sup> being predominantly female and with nursing staff comprising the largest department followed by other members of the multidisciplinary team. As participants responded anonymously, it was not possible to undertake any analyses comparing participants with non-responders.</p></sec><sec id="S4"><title>Measures</title><sec id="S5"><title>See Think Act (STA) scale<sup><xref rid="R2" ref-type="bibr">2</xref></sup></title><p id="P8">The STA scale is the first attempt to create a direct measure of relational security. The 28 items were developed from the Department of Health conceptualisation of relational security,<sup><xref rid="R6" ref-type="bibr">6</xref></sup> and reflect relational security scenarios (e.g. &#x02018;We speak up if we think we can see that a colleague has been put in a difficult position that could weaken security&#x02019;). Individual staff members complete the questionnaire in relation to the ward they work on, and select how closely their ward team resembles provided statements on a 4-point Likert scale, with scores of 3 &#x02018;Just like our team&#x02019;, 2 &#x02018;Quite like our team&#x02019;, 1 &#x02018;A little like our team&#x02019; and 0 &#x02018;Not like our team&#x02019;. A principal components analysis confirmed a four-component structure of the measure: Therapeutic Risk Management, Pro-Social Team Culture, Boundaries and Patient Focus.<sup><xref rid="R2" ref-type="bibr">2</xref></sup> Initial examinations indicated good convergent validity with related measures (e.g. EssenCES<sup><xref rid="R8" ref-type="bibr">8</xref></sup>), and internally consistent subscales.<sup><xref rid="R2" ref-type="bibr">2</xref></sup> There is currently no normative data available for the STA scale.</p></sec><sec id="S6"><title>The Relational Security Explorer (RSE)<sup><xref rid="R5" ref-type="bibr">5</xref></sup></title><p id="P9">The RSE is a tool designed to help clinical teams working within secure settings to communicate and assess their competence in relational security. The tool requires users to provide a numerical score of their team's confidence in eight areas of relational security: Therapy, Boundaries, Patient Mix, Patient Dynamic, Personal World, Physical Environment, Visitors and Outward Connections on a scale ranging from 1 (no confidence) to 10 (extremely confident). The RSE was not developed as a psychometric measure; however, the tool requests clinical teams to provide a numerical score of their confidence in each of the eight areas. In doing so, the tool lends itself for use as an outcomes measure and, anecdotally, the authors are aware of service's collecting and analysing this data, despite it not being validated for this purpose. This is in line with the suggestion that when numerical indices and cut-off points are available, clinical decisions tend to be reduced to those numbers.<sup><xref rid="R9" ref-type="bibr">9</xref></sup> Participants were asked to complete the RSE on an individual, rather than a team basis, to investigate the tool performance as an outcomes measure.</p></sec></sec><sec sec-type="methods" id="S7"><title>Procedure</title><p id="P10">The researcher arranged one-to-one meetings with staff eligible for the research, at which informed consent was sought. Once obtained, staff members were asked to complete and return the questionnaires. A debrief form was provided for participants, which detailed further information about the study.</p></sec><sec id="S8"><title>Ethics</title><p id="P11">Ethical approval was obtained from the London Metropolitan University Research Ethics Review Panel. The National Research Ethics Service Committee for the East of England &#x02013; Norfolk was also approached for ethical review of the project, who advised that as the relational security measures were being used in routine clinical practice within the study service, the study does not require National Health Service ethical approval.<sup><xref rid="R10" ref-type="bibr">10</xref>,<xref rid="R11" ref-type="bibr">11</xref></sup></p></sec><sec id="S9"><title>Data analysis</title><p id="P12">Prior to analysis, assumption testing for parametric tests was completed. The assumption of homogeneity of variance was violated, and the data were negatively skewed, violating the assumption of normal distribution. Transformations of the data were attempted, but this did not reduce the skew. A number of cases appeared as outliers for all outcome variables, and notably, these cases were all from the housekeeping department. Data were therefore examined using non-parametric methods. This point was discussed with our statistician, who assured us that the loss of power associated with the non-parametric tests was small.</p><p id="P13">Therefore, internal consistency was examined using Spearman's Rho correlation to calculate the Corrected Item-Total Correlation (CITC) coefficient values for subscales of the STA and the RSE. Convergent validity was analysed by correlating subscales of the STA scale and the RSE using Spearman's Rho. The Sidak adjustment was used to adjust for multiple comparisons.</p><p id="P14">Non-parametric statistical tests were used to examine the association between scores on the STA and the RSE, and the variables requested in the demographic questionnaire (length of experience working in secure services, the ward and level of security worked on, the gender of the patients on their ward, and staff department/occupational discipline). Analysis between individual wards and staff occupational discipline could not be completed due to small and unequal numbers between the groups. To examine the association between level of security and the subscales of the two measures, the Kruskal-Wallis test was used. The Wilcoxon Mann-Whitney <italic>U</italic>-test was used to examine the association between gender of patients and the subscales. To examine the association between length of experience working in secure services and the subscales, Spearman's Rho correlation was used.</p></sec></sec><sec sec-type="results" id="S10"><title>Results</title><sec id="S11"><title>Internal consistency</title><p id="P15">Internal consistency was assessed using CITC coefficients. A CITC value above 0.5 is considered high, but if less than 0.3, items within a subscale may be measuring more than one construct. All RSE subscales exceeded the CITC 0.30 cut-off, although there was some variation, with the Personal World subscale having the highest internal consistency at 0.80, and the Physical Environment subscale the lowest at 0.49. All the STA subscales had CITC scores over 0.9. <xref ref-type="table" rid="T1">Table 1</xref> displays the CITC coefficient values for each subscale of the two measures.</p><table-wrap id="T1" orientation="portrait" position="float"><label>Table 1</label><caption><p>Corrected Item-Total Correlation (CITC)</p></caption><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" valign="middle" span="1"/><col align="center" valign="middle" span="1"/></colgroup><thead><tr><th rowspan="1" colspan="1">Measure</th><th rowspan="1" colspan="1">CITC</th></tr></thead><tbody><tr><td rowspan="1" colspan="1">Relational Security Explorer</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Therapy</td><td rowspan="1" colspan="1">0.66</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Boundaries</td><td rowspan="1" colspan="1">0.61</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Patient Mix</td><td rowspan="1" colspan="1">0.57</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Patient Dynamic</td><td rowspan="1" colspan="1">0.65</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Personal World</td><td rowspan="1" colspan="1">0.80</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Physical Environment</td><td rowspan="1" colspan="1">0.49</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Visitors</td><td rowspan="1" colspan="1">0.62</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Outward Connections</td><td rowspan="1" colspan="1">0.68</td></tr><tr><td colspan="2" rowspan="1"><hr/></td></tr><tr><td rowspan="1" colspan="1">See Think Act scale</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Therapeutic Risk Management</td><td rowspan="1" colspan="1">0.90</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Pro-Social Team Culture</td><td rowspan="1" colspan="1">0.96</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Boundaries</td><td rowspan="1" colspan="1">0.92</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Patient Focus</td><td rowspan="1" colspan="1">0.92</td></tr></tbody></table></table-wrap></sec><sec id="S12"><title>Convergent validity between measures</title><p id="P16">There was little convergent validity between the subscales of the two measures. All four subscales of the STA scale correlated significantly with each other, whereas subscales of the RSE did not. The Spearman's Rho values are detailed in <xref ref-type="table" rid="T2">Table 2</xref>.</p><table-wrap id="T2" orientation="portrait" position="float"><label>Table 2</label><caption><p>Correlations matrix of the subscales of See Think Act scale and Relational Security Explorer</p></caption><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" valign="top" span="1"/><col align="left" valign="top" span="1"/><col align="left" valign="top" span="1"/><col align="left" valign="top" span="1"/><col align="left" valign="top" span="1"/><col align="left" valign="top" span="1"/><col align="left" valign="top" span="1"/><col align="left" valign="top" span="1"/><col align="left" valign="top" span="1"/><col align="left" valign="top" span="1"/><col align="left" valign="top" span="1"/><col align="left" valign="top" span="1"/><col align="left" valign="top" span="1"/></colgroup><thead><tr><th rowspan="1" colspan="1"/><th colspan="4" align="center" valign="bottom" rowspan="1">See Think Act scale<hr/></th><th colspan="8" align="center" valign="bottom" rowspan="1">Relational Security Explorer<hr/></th></tr><tr><th valign="bottom" rowspan="1" colspan="1">Measure</th><th align="center" valign="bottom" rowspan="1" colspan="1">Therapeutic<break/>Risk<break/>Management</th><th align="center" valign="bottom" rowspan="1" colspan="1">Pro Social<break/>Team<break/>Culture</th><th align="center" valign="bottom" rowspan="1" colspan="1">Boundaries</th><th align="center" valign="bottom" rowspan="1" colspan="1">Patient<break/>Focus</th><th align="center" valign="bottom" rowspan="1" colspan="1">Therapy</th><th align="center" valign="bottom" rowspan="1" colspan="1">Boundaries</th><th align="center" valign="bottom" rowspan="1" colspan="1">Patient<break/>Mix</th><th align="center" valign="bottom" rowspan="1" colspan="1">Patient<break/>Dynamic</th><th align="center" valign="bottom" rowspan="1" colspan="1">Personal<break/>World</th><th align="center" valign="bottom" rowspan="1" colspan="1">Physical<break/>Environment</th><th align="center" valign="bottom" rowspan="1" colspan="1">Outward<break/>Connections</th><th align="center" valign="bottom" rowspan="1" colspan="1">Visitors</th></tr></thead><tbody><tr><td rowspan="1" colspan="1">See Think Act scale</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Therapeutic Risk<break/>&#x000a0;&#x000a0;&#x000a0;&#x000a0;Management</td><td rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Pro Social Team Culture</td><td rowspan="1" colspan="1">0.808<xref ref-type="table-fn" rid="TFN1">**</xref></td><td rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Boundaries</td><td rowspan="1" colspan="1">0.780<xref ref-type="table-fn" rid="TFN1">**</xref></td><td rowspan="1" colspan="1">0.878<xref ref-type="table-fn" rid="TFN1">**</xref></td><td rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">Patient Focus</td><td rowspan="1" colspan="1">0.812<xref ref-type="table-fn" rid="TFN1">**</xref></td><td rowspan="1" colspan="1">0.846<xref ref-type="table-fn" rid="TFN1">**</xref></td><td rowspan="1" colspan="1">0.795<xref ref-type="table-fn" rid="TFN1">**</xref></td><td rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td colspan="13" rowspan="1"><hr/></td></tr><tr><td rowspan="1" colspan="1">Relational Security<break/>Explorer</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Therapy</td><td rowspan="1" colspan="1">0.424</td><td rowspan="1" colspan="1">0.436</td><td rowspan="1" colspan="1">0.344</td><td rowspan="1" colspan="1">0.413</td><td rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Boundaries</td><td rowspan="1" colspan="1">0.470</td><td rowspan="1" colspan="1">0.411</td><td rowspan="1" colspan="1">0.367</td><td rowspan="1" colspan="1">0.341</td><td rowspan="1" colspan="1">0.469<xref ref-type="table-fn" rid="TFN1">**</xref></td><td rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Patient Mix</td><td rowspan="1" colspan="1">0.444</td><td rowspan="1" colspan="1">0.468</td><td rowspan="1" colspan="1">0.582<xref ref-type="table-fn" rid="TFN1">**</xref></td><td rowspan="1" colspan="1">0.401</td><td rowspan="1" colspan="1">0.338</td><td rowspan="1" colspan="1">0.293</td><td rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Patient Dynamic</td><td rowspan="1" colspan="1">0.453</td><td rowspan="1" colspan="1">0.482</td><td rowspan="1" colspan="1">0.457</td><td rowspan="1" colspan="1">0.401</td><td rowspan="1" colspan="1">0.515<xref ref-type="table-fn" rid="TFN1">**</xref></td><td rowspan="1" colspan="1">0.300</td><td rowspan="1" colspan="1">0.668<xref ref-type="table-fn" rid="TFN1">**</xref></td><td rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Personal World</td><td rowspan="1" colspan="1">0.485</td><td rowspan="1" colspan="1">0.487</td><td rowspan="1" colspan="1">0.391</td><td rowspan="1" colspan="1">0.465</td><td rowspan="1" colspan="1">0.588<xref ref-type="table-fn" rid="TFN1">**</xref></td><td rowspan="1" colspan="1">0.439<xref ref-type="table-fn" rid="TFN1">**</xref></td><td rowspan="1" colspan="1">0.319</td><td rowspan="1" colspan="1">0.447<xref ref-type="table-fn" rid="TFN1">**</xref></td><td rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Physical Environment</td><td rowspan="1" colspan="1">0.091</td><td rowspan="1" colspan="1">0.182</td><td rowspan="1" colspan="1">0.247</td><td rowspan="1" colspan="1">0.246</td><td rowspan="1" colspan="1">0.251</td><td rowspan="1" colspan="1">0.249</td><td rowspan="1" colspan="1">0.110</td><td rowspan="1" colspan="1">0.173</td><td rowspan="1" colspan="1">0.239</td><td rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Outward Connections</td><td rowspan="1" colspan="1">0.320</td><td rowspan="1" colspan="1">0.236</td><td rowspan="1" colspan="1">0.171</td><td rowspan="1" colspan="1">0.278</td><td rowspan="1" colspan="1">0.273</td><td rowspan="1" colspan="1">0.266</td><td rowspan="1" colspan="1">0.297</td><td rowspan="1" colspan="1">0.300</td><td rowspan="1" colspan="1">0.556<xref ref-type="table-fn" rid="TFN1">**</xref></td><td rowspan="1" colspan="1">0.186</td><td rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Visitors</td><td rowspan="1" colspan="1">0.301</td><td rowspan="1" colspan="1">0.262</td><td rowspan="1" colspan="1">0.211</td><td rowspan="1" colspan="1">0.247</td><td rowspan="1" colspan="1">0.207</td><td rowspan="1" colspan="1">0.237</td><td rowspan="1" colspan="1">0.267</td><td rowspan="1" colspan="1">0.235</td><td rowspan="1" colspan="1">0.573<xref ref-type="table-fn" rid="TFN1">**</xref></td><td rowspan="1" colspan="1">0.145</td><td rowspan="1" colspan="1">0.565<xref ref-type="table-fn" rid="TFN1">**</xref></td><td rowspan="1" colspan="1">1</td></tr></tbody></table><table-wrap-foot><fn id="TFN1"><label>**</label><p>Correlation is significant at the 0.01 level.</p></fn></table-wrap-foot></table-wrap></sec><sec id="S13"><title>Between-groups analysis</title><sec id="S14"><title>Level of security</title><p id="P17">Significant differences in scores on the two measures were found between staff working in different levels of security Staff working on medium secure wards tended to have the lowest scores on both measures, followed by staff on low secure wards, with the highest scores on rehabilitation wards. On the STA scale, this reached statistical significance on the Therapeutic Risk Management (<italic>P</italic>&#x0003c; 0.001), Boundaries (<italic>P</italic> = 0.012) and Patient Focus (<italic>P</italic> = 0.034) subscales. There were also significant differences on the RSE, on the Patient Mix (<italic>P</italic>&#x0003c; 0.001), Patient Dynamic (<italic>P</italic> = 0.008) and Personal World (<italic>P</italic> = 0.011) subscales. Descriptive data for this variable are presented in <xref ref-type="table" rid="T3">Table 3</xref>.</p><table-wrap id="T3" orientation="portrait" position="float"><label>Table 3</label><caption><p>Descriptive statistics for level of security on the See Think Act scale and Relational Security Explorer</p></caption><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" valign="middle" span="1"/><col align="left" valign="middle" span="1"/><col align="left" valign="middle" span="1"/><col align="left" valign="middle" span="1"/></colgroup><thead><tr><th rowspan="1" colspan="1"/><th colspan="3" align="center" valign="bottom" rowspan="1">Level of security, mean (s.d.)<hr/></th></tr><tr><th valign="bottom" rowspan="1" colspan="1">Measure</th><th align="center" valign="bottom" rowspan="1" colspan="1">Medium<break/><italic>n</italic> = 13</th><th align="center" valign="bottom" rowspan="1" colspan="1">Low<break/><italic>n</italic> = 17</th><th align="center" valign="bottom" rowspan="1" colspan="1">Rehabilitation<break/><italic>n</italic> = 14</th></tr></thead><tbody><tr><td rowspan="1" colspan="1">See Think Act scale<sup><xref ref-type="table-fn" rid="TFN2">a</xref></sup></td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Therapeutic Risk Management</td><td rowspan="1" colspan="1">2.34 (0.44)</td><td rowspan="1" colspan="1">2.54 (0.39)</td><td rowspan="1" colspan="1">2.8 (0.25)</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Pro-Social Team Culture</td><td rowspan="1" colspan="1">2.34 (0.49)</td><td rowspan="1" colspan="1">2.52 (0.48)</td><td rowspan="1" colspan="1">2.68 (0.41)</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Boundaries</td><td rowspan="1" colspan="1">2.5 (0.43)</td><td rowspan="1" colspan="1">2.64 (0.41)</td><td rowspan="1" colspan="1">2.83 (0.31)</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Patient Focus</td><td rowspan="1" colspan="1">2.5 (0.45)</td><td rowspan="1" colspan="1">2.76 (0.49)</td><td rowspan="1" colspan="1">2.76 (0.34)</td></tr><tr><td colspan="4" rowspan="1"><hr/></td></tr><tr><td rowspan="1" colspan="1">Relational Security Explorer<sup><xref ref-type="table-fn" rid="TFN3">b</xref></sup></td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Therapy</td><td rowspan="1" colspan="1">7.46 (1.61)</td><td rowspan="1" colspan="1">7.47 (0.26)</td><td rowspan="1" colspan="1">8.07 (1.61)</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Boundaries</td><td rowspan="1" colspan="1">7.85 (1.21)</td><td rowspan="1" colspan="1">8.3 (0.26)</td><td rowspan="1" colspan="1">8.3 (1.21)</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Patient Mix</td><td rowspan="1" colspan="1">7.54 (0.97)</td><td rowspan="1" colspan="1">7.1 (1.56)</td><td rowspan="1" colspan="1">8.71 (0.61)</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Patient Dynamic</td><td rowspan="1" colspan="1">7.15 (1.34)</td><td rowspan="1" colspan="1">7.1 (1.34)</td><td rowspan="1" colspan="1">8.3 (0.83)</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Personal World</td><td rowspan="1" colspan="1">7.31 (1.7)</td><td rowspan="1" colspan="1">7.41 (1.18)</td><td rowspan="1" colspan="1">8.5 (1.09)</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Physical Environment</td><td rowspan="1" colspan="1">7.23 (1.7)</td><td rowspan="1" colspan="1">7.88 (1.4)</td><td rowspan="1" colspan="1">8.07 (1.33)</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Visitors</td><td rowspan="1" colspan="1">7.0 (1.09)</td><td rowspan="1" colspan="1">7.0 (1.12)</td><td rowspan="1" colspan="1">7.64 (1.98)</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Outward Connections</td><td rowspan="1" colspan="1">7.23 (1.36)</td><td rowspan="1" colspan="1">7.17 (1.74)</td><td rowspan="1" colspan="1">8.07 (1.59)</td></tr></tbody></table><table-wrap-foot><fn id="TFN2"><label>a.</label><p>The scale for the See Think Act scale is 0&#x02013;3.</p></fn><fn id="TFN3"><label>b.</label><p>The scale for the Relational Security Explorer is 1&#x02013;9.</p></fn></table-wrap-foot></table-wrap></sec><sec id="S15"><title>Ward gender</title><p id="P18">There were no differences in STA scale scores between staff working on wards caring for male patients, as compared to female patients. However, on the RSE, staff working with male patients reported higher scores on the Patient Dynamic (<italic>P</italic> = 0.024) subscale, compared with staff working with female patients.</p></sec><sec id="S16"><title>Length of experience working in secure services</title><p id="P19">There was no correlation between the number of years staff had been working in secure services, and their confidence in relational security, on the STA scale or the RSE.</p></sec></sec></sec><sec sec-type="discussion" id="S17"><title>Discussion</title><p id="P20">Serious incidents within forensic mental health services can be linked to breakdowns of relational security.<sup><xref rid="R1" ref-type="bibr">1</xref></sup> Available measures should therefore provide insight into the quality of relational security within services, direct exploration of strengths and weaknesses, and prompt timely, appropriate interventions before an incident occurs. Furthermore, tools should be accessible to all occupation groups.<sup><xref rid="R6" ref-type="bibr">6</xref></sup> This study therefore evaluated the psychometric properties of the STA and the RSE, including internal consistency, convergent validity and their ability to highlight differences between groups.</p><p id="P21">Study limitations include a relatively small sample size, and participants being drawn from a single service, which limit generalisability. It is categorised as a preliminary study for these reasons. However, the study reports interesting findings in relation to the specific tools examined and the wider task of measuring relational security by investigating the perspectives of staff members across occupational professions and levels of security. The study setting, a secure intellectual disability service, may be viewed as a strength, as previous studies have been completed only within generic forensic psychiatric services, and as a weakness, due to the extent of the study findings generalising to non-intellectual disability services. Research comparing patient characteristics between mainstream forensic and specialist intellectual disability services is scarce, however there are a number of notable differences between the two populations which may have an effect on relational security. These include communication difficulties which could affect the development of therapeutic relationships, increased levels of behavioural incidents,<sup><xref rid="R12" ref-type="bibr">12</xref></sup> and higher assessed risk on structured clinical judgement tools.<sup><xref rid="R13" ref-type="bibr">13</xref>&#x02013;<xref rid="R15" ref-type="bibr">15</xref></sup> That said, the present research reports many findings which echo those of previous research.<sup><xref rid="R2" ref-type="bibr">2</xref></sup></p><p id="P22">Test&#x02013;re-test reliability was not examined in the present research, although it may be an interesting area for further study. At present, the stability of relational security levels are unclear, and it may not be realistic or relevant to expect stability over time, as relational security is a fundamentally a dynamic concept.</p><p id="P23">The internal consistency aspect of reliability was examined, with the STA scale demonstrating high levels in accordance with previous research.<sup><xref rid="R2" ref-type="bibr">2</xref></sup> Its subscales correlated significantly, suggesting they are statistically related concepts. Internal consistency for the RSE was adequate but its subscales did not all correlate significantly, possibly indicating that some of the concepts measured are statistically unrelated. Although the RSE and the STA both aim to measure relational security, convergent validity was low. Collectively, these findings suggest that the RSE does not perform as well as the STA as a psychometric outcome measure. This raises questions regarding the practice of collecting and analysing data from the RSE, despite not being validated for this purpose. Lodewijks <italic>et al</italic><sup><xref rid="R9" ref-type="bibr">9</xref></sup> explicitly advise against the use of numerical indices and cut-off points, due to clinicians' tendency to reduce clinical decisions to numbers if they are available.</p><p id="P24">Particular subscales of the two measures were able to detect differences between groups in relational security confidence, thus facilitating the comparison of wards and staff disciplines within a service, potentially between services comparisons, and directing intervention as necessary. Significant findings were reported between wards of different levels of security, with relational security confidence lowest on medium secure wards, increasing on low secure wards, and highest on rehabilitation wards. Tighe &#x00026; Gudjonsson<sup><xref rid="R2" ref-type="bibr">2</xref></sup> also reported this effect, as well as authors investigating social climate in secure settings.<sup><xref rid="R16" ref-type="bibr">16</xref>,<xref rid="R17" ref-type="bibr">17</xref></sup> A possible explanation for this is that medium secure wards represent the beginning of the care pathway accepting newly admitted patients and, as such, staff have had less opportunity to develop the knowledge of patients and therapeutic relationships necessary to achieve good relational security. As patients progress through the low secure and rehabilitation stages of the care pathway, this provides an opportunity for the components necessary to relational security to develop.</p><p id="P25">The study also compared relational security confidence between staff working with male and female patients. This was examined as authors have documented difficulties in building therapeutic relationships with women, due to their clinical complexity.<sup><xref rid="R18" ref-type="bibr">18</xref>,<xref rid="R19" ref-type="bibr">19</xref></sup> However, there were few differences between these two groups on the subscales of the two measures, although staff working with male patients reported higher scores on the Patient Dynamic (<italic>P</italic> = 0.024) subscale of the RSE.<sup><xref rid="R5" ref-type="bibr">5</xref></sup></p><p id="P26">It was expected that staff with more experience working within secure services would be more confident in their judgements of relational security, but there were no significant associations. However, relational security relies on knowledge of patients and therapeutic relationships, within a dynamic environment. For example, if a new patient is admitted to a ward, all staff, regardless of experience will begin to develop their knowledge and their therapeutic relationships with this patient at the same time. Furthermore, if an experienced staff member is asked to move onto a different ward, they will know little about the patients on that ward and have to develop new knowledge and therapeutic relationships. In this sense, all staff members, regardless of experience, are repeatedly beginning and developing their knowledge of individual patients and new therapeutic relationships.</p><p id="P27">Housekeeping staff felt less confident in relational security, as compared to all other departments. This is probably due to the measures tapping into areas of clinical practice that housekeeping staff would not be involved in, and the comparable lack of training offered to this group. However, guidance recommends that relational security implementation should involve all occupational groups working within secure services.<sup><xref rid="R6" ref-type="bibr">6</xref></sup> As housekeeping staff are a daily presence on forensic wards, they are equally as vulnerable to relational security issues and in a position to witness threats to security. Further research should investigate ways to support all occupational groups with relational security.</p><sec id="S18"><title>Measuring relational security: further considerations</title><p id="P28">Some points are of note when interpreting data obtained from relational security measures. Initial assumption testing indicated negatively skewed data, suggesting that most participants rated their confidence in relational security at the top end of each measures' respective scale. This could indicate that staff working in this particular service are highly confident in their relational security practice. However, it is unclear how confidence scores relate to the actual quality of relational security within a ward, for example is a highly confident team an experienced team or a complacent team? It could also indicate positive responding, as essentially, measures are asking individuals to rate themselves in an aspect of their role in which they are expected to be competent. Introducing some negatively worded items could improve this.</p><p id="P29">High scoring may also be due to the way the two tools conceptualise relational security. Both measures are based on the STA conceptualisation of relational security,<sup><xref rid="R6" ref-type="bibr">6</xref></sup> which places much of the responsibility onto staff and teams, thus neglecting the &#x02018;quantitative&#x02019; aspects of relational security, for example &#x02018;staff-to-patient ratio and amount of time spent in face-to-face contact&#x02019; (p. 434)<sup><xref rid="R20" ref-type="bibr">20</xref></sup> and the supportive role and responsibility of service management. For example, to achieve quality therapeutic relationships with patients, ward staff and teams need to be stable, with minimum staff ward moves, turnover and absenteeism,<sup><xref rid="R3" ref-type="bibr">3</xref></sup> factors outside of staff members' control. Incorporating items reflecting such aspects of relational security could provide a more comprehensive picture.</p><p id="P30">Normative data are not currently available for either of the two measures, which limits the interpretability of the results. Both measures are designed to be used by staff members in relation to one specific ward. However, many employees work across multiple wards in secure services, with 27% respondents in this sample working across wards. These participants were typically from occupational departments other than nursing, such as psychology, psychiatry, social work and occupational therapy.</p></sec><sec sec-type="conclusions" id="S19"><title>Conclusions</title><p id="P31">The increased attention relational security is receiving within the forensic field is a welcome advance. There is growing awareness around the importance of this concept, and resources aiming to raise awareness and support the implementation of relational security are widely available.<sup><xref rid="R21" ref-type="bibr">21</xref></sup> However, until recently there have been few mechanisms to assess the quality of relational security within services. The results of this study suggest that the STA scale and the RSE hold unique and complimentary roles attempting to support relational security. The RSE did not perform well as a psychometric measure, and therefore its use should be limited to its intended purpose &#x02013; as a tool to guide team discussions about relational security &#x02013; and services should refrain from using the RSE as an outcomes measure. However, deciding on a numerical score of relational security confidence may serve a function within the context of a team discussion, for example, if one team member feels the ward should score highly, whereas another member feels the ward should be given a lower score, this could suggest team splitting and form a basis for discussion. At present, the STA scale is best placed to provide insight into the quality of their relational security, while taking into account the aforementioned issues when interpreting the data.</p><p id="P32">Further research is needed in all areas of relational security: definition, implementation and measurement. This research should examine the relationship between relational security and negative outcomes, such as institutional aggression or serious incidents. Future studies should evaluate the clinical utility of the RSE, examine the psychometric properties and provide normative data for the STA. Until more is known about relational security, the approach to implementing and measuring it should be multidimensional,<sup><xref rid="R22" ref-type="bibr">22</xref></sup> i.e. incorporating staff, patient and service management perspectives.</p></sec></sec></body><back><fn-group><fn fn-type="COI-statement"><p><bold>Declaration of interest</bold> None.</p></fn></fn-group><ack><p id="P33">The authors are grateful to Paul Bassett for his help with statistical analysis.</p></ack><ref-list><title>References</title><ref id="R1"><label>1</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><name name-style="western"><surname>Allen</surname><given-names>E</given-names></name></person-group>
-<source>See Think Act: Relational Security in Secure Mental Health Services</source>. <publisher-name>Department of Health</publisher-name>, <year>2010</year>.
-</mixed-citation></ref><ref id="R2"><label>2</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Tighe</surname><given-names>J</given-names></name><name name-style="western"><surname>Gudjonsson</surname><given-names>GH</given-names></name></person-group>
-<article-title>See, Think, Act Scale: preliminary development and validation of a measure of relational security in medium- and low-secure units</article-title>. <source>J Forens Psychiatry Psychol</source>
-<year>2012</year>; <volume>23</volume>: <fpage>184</fpage>&#x02013;<lpage>99</lpage>.
-</mixed-citation></ref><ref id="R3"><label>3</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Chester</surname><given-names>V</given-names></name><name name-style="western"><surname>Morgan</surname><given-names>W</given-names></name></person-group>
-<article-title>Relational security within secure services: summary of findings from a literature review</article-title>. <source>Quality Network for Forensic Mental Health Services Newsletter</source>
-<year>2012</year>; <month>9</month>: <fpage>10</fpage>&#x02013;<lpage>4</lpage>.
-</mixed-citation></ref><ref id="R4"><label>4</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Dale</surname><given-names>C</given-names></name><name name-style="western"><surname>Storey</surname><given-names>L</given-names></name></person-group>
+                </corresp>
+                <fn>
+                    <p>
+                        <bold>Verity Chester</bold>, research and projects associate, Department of Psychiatry, Partnerships in Care Learning Disability Services. <bold>Regi T. Alexander</bold>, consultant psychiatrist, Department of Psychiatry, Partnerships in Care Learning Disability Services, and Research Lead Consultant, Leicestershire Partnership NHS Trust. <bold>Wendy Morgan</bold>, senior lecturer, Department of Psychology, Social Work and Allied Health Sciences, Glasgow Caledonian University.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="ppub">
+                <month>12</month>
+                <year>2017</year>
+            </pub-date>
+            <volume>41</volume>
+            <issue>6</issue>
+            <fpage>358</fpage>
+            <lpage>363</lpage>
+            <history>
+                <date date-type="received">
+                    <day>7</day>
+                    <month>10</month>
+                    <year>2016</year>
+                </date>
+                <date date-type="rev-recd">
+                    <day>17</day>
+                    <month>3</month>
+                    <year>2017</year>
+                </date>
+                <date date-type="accepted">
+                    <day>27</day>
+                    <month>3</month>
+                    <year>2017</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>&#x000a9; 2017 The Authors</copyright-statement>
+                <copyright-year>2017</copyright-year>
+                <license license-type="creative-commons" xlink:href="http://creativecommons.org/licenses/by/4.0">
+                    <license-p>This is an open-access article published by the Royal College of Psychiatrists and distributed under the terms of the Creative Commons Attribution License (<uri xlink:href="http://creativecommons.org/licenses/by/4.0">http://creativecommons.org/licenses/by/4.0</uri>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <self-uri xlink:title="pdf" xlink:href="358.pdf" />
+            <abstract>
+                <p id="P1">
+                    <bold>Aims and method</bold> Relational security is an important component of care and risk assessment in mental health services, but the utility of available measures remains under-researched. This study analysed the psychometric properties of two relational security tools, the See Think Act (STA) scale and the Relational Security Explorer (RSE).</p>
+                <p id="P2">
+                    <bold>Results</bold> The STA scale had good internal consistency and could highlight differences between occupational groups, whereas the RSE did not perform well as a psychometric measure.</p>
+                <p id="P3">
+                    <bold>Clinical implications</bold> The measures provide unique and complimentary perspectives on the quality of relational security within secure services, but have some limitations. Use of the RSE should be restricted to its intended purpose; to guide team discussions about relational security, and services should refrain from collecting and aggregating this data. Until further research validates their use, relational security measurement should be multidimensional and form part of a wider process of service quality assessment.</p>
+            </abstract>
+        </article-meta>
+    </front>
+    <body>
+        <p id="P4">Serious incident investigations in forensic mental health services have been linked to relational security breakdowns.<sup>
+            <xref rid="R1" ref-type="bibr">1</xref>
+        </sup> However, relational security has been described as the &#x02018;poor relation&#x02019;<sup>
+        <xref rid="R2" ref-type="bibr">2</xref>
+    </sup> when compared with physical or procedural security. This is most likely due to definition difficulties. Chester &#x00026; Morgan<sup>
+    <xref rid="R3" ref-type="bibr">3</xref>
+</sup> noted that numerous conceptualisations of relational security exist, all referencing different phenomena, such as &#x02018;therapeutic relationships&#x02019; and &#x02018;boundaries&#x02019;, without describing how such concepts can affect security.<sup>
+<xref rid="R3" ref-type="bibr">3</xref>
+</sup> The authors noted that the most practically useful definitions emphasise exactly how relational issues affect security, in two stages: (1) staff knowledge of patients and therapeutic relationships; and (2) how patient knowledge and therapeutic relationships are used to foresee potential and manage actual security incidents, for example: &#x02018;The professional relationships between staff and patients so that &#x02026; the staff to get to know &#x02026; their patients, their moods and problems, to facilitate interventions before these become major problems, or lead to incidents of a security nature&#x02019; (p. 171).<sup>
+<xref rid="R4" ref-type="bibr">4</xref>
+</sup> As such, relational security is intrinsically linked to short- and long-term assessment and management of risk in mental health and forensic services.</p>
+<p id="P5">Relational security is therefore a service quality indicator of interest within forensic and general mental health services. Its measurement should allow practitioners to explore background causes and respond accordingly with appropriate interventions. Due to the definitional complexities, there are subsequent challenges to measurement. Previously available tools only measure partial aspects of relational security or individual patient needs.<sup>
+<xref rid="R3" ref-type="bibr">3</xref>
+</sup> However, two tools have been developed in recent years, the Relational Security Explorer<sup>
+<xref rid="R5" ref-type="bibr">5</xref>
+</sup> and the See Think Act scale.<sup>
+<xref rid="R2" ref-type="bibr">2</xref>
+</sup> As limited research has examined the clinical utility of these measures, the present study examines their psychometric properties to support the aim of relational security measurement.</p>
+<sec sec-type="methods" id="S1">
+<title>Method</title>
+<sec id="S2">
+<title>Design</title>
+<p id="P6">The study employed a within-participants (reliability testing) and between-participants (assessing the measures' ability to identify differences between occupational groups according to the variables level of security, ward gender and length of experience working in secure services) cross-sectional questionnaire design.</p>
+</sec>
+<sec sec-type="subjects" id="S3">
+<title>Participants</title>
+<p id="P7">Participants were recruited from a forensic service for people with intellectual disability. As guidance recommends that relational security implementation should involve all occupational groups working within secure services,<sup>
+<xref rid="R6" ref-type="bibr">6</xref>
+</sup> the study invited all staff who have contact with patients as part of their role to take part in the study (<italic>n</italic> = 216), and of these 41% (<italic>n</italic> = 89) responded. The majority of the participants were female (63%), and the average length of service working in secure services was 6 years (range 0.12&#x02013;20). The majority of participants were from the nursing department (57%), followed by occupational therapy (16%), psychology (9%), social work (6%), psychiatry (2%) and housekeeping (8%), and two participants identified their occupation as &#x02018;other&#x02019;. The level of security in which respondents worked in at the time of the study was medium (23.6%), low (27%) and locked rehabilitation (16.9%). There are no national data available which describe the demographics of the forensic mental health workforce, although the reported characteristics reflected the socio-demographic and occupational breakdown of the study service and the broader mental health workforce as a whole,<sup>
+<xref rid="R7" ref-type="bibr">7</xref>
+</sup> being predominantly female and with nursing staff comprising the largest department followed by other members of the multidisciplinary team. As participants responded anonymously, it was not possible to undertake any analyses comparing participants with non-responders.</p>
+</sec>
+<sec id="S4">
+<title>Measures</title>
+<sec id="S5">
+<title>See Think Act (STA) scale<sup>
+<xref rid="R2" ref-type="bibr">2</xref>
+</sup>
+</title>
+<p id="P8">The STA scale is the first attempt to create a direct measure of relational security. The 28 items were developed from the Department of Health conceptualisation of relational security,<sup>
+<xref rid="R6" ref-type="bibr">6</xref>
+</sup> and reflect relational security scenarios (e.g. &#x02018;We speak up if we think we can see that a colleague has been put in a difficult position that could weaken security&#x02019;). Individual staff members complete the questionnaire in relation to the ward they work on, and select how closely their ward team resembles provided statements on a 4-point Likert scale, with scores of 3 &#x02018;Just like our team&#x02019;, 2 &#x02018;Quite like our team&#x02019;, 1 &#x02018;A little like our team&#x02019; and 0 &#x02018;Not like our team&#x02019;. A principal components analysis confirmed a four-component structure of the measure: Therapeutic Risk Management, Pro-Social Team Culture, Boundaries and Patient Focus.<sup>
+<xref rid="R2" ref-type="bibr">2</xref>
+</sup> Initial examinations indicated good convergent validity with related measures (e.g. EssenCES<sup>
+<xref rid="R8" ref-type="bibr">8</xref>
+</sup>), and internally consistent subscales.<sup>
+<xref rid="R2" ref-type="bibr">2</xref>
+</sup> There is currently no normative data available for the STA scale.</p>
+</sec>
+<sec id="S6">
+<title>The Relational Security Explorer (RSE)<sup>
+<xref rid="R5" ref-type="bibr">5</xref>
+</sup>
+</title>
+<p id="P9">The RSE is a tool designed to help clinical teams working within secure settings to communicate and assess their competence in relational security. The tool requires users to provide a numerical score of their team's confidence in eight areas of relational security: Therapy, Boundaries, Patient Mix, Patient Dynamic, Personal World, Physical Environment, Visitors and Outward Connections on a scale ranging from 1 (no confidence) to 10 (extremely confident). The RSE was not developed as a psychometric measure; however, the tool requests clinical teams to provide a numerical score of their confidence in each of the eight areas. In doing so, the tool lends itself for use as an outcomes measure and, anecdotally, the authors are aware of service's collecting and analysing this data, despite it not being validated for this purpose. This is in line with the suggestion that when numerical indices and cut-off points are available, clinical decisions tend to be reduced to those numbers.<sup>
+<xref rid="R9" ref-type="bibr">9</xref>
+</sup> Participants were asked to complete the RSE on an individual, rather than a team basis, to investigate the tool performance as an outcomes measure.</p>
+</sec>
+</sec>
+<sec sec-type="methods" id="S7">
+<title>Procedure</title>
+<p id="P10">The researcher arranged one-to-one meetings with staff eligible for the research, at which informed consent was sought. Once obtained, staff members were asked to complete and return the questionnaires. A debrief form was provided for participants, which detailed further information about the study.</p>
+</sec>
+<sec id="S8">
+<title>Ethics</title>
+<p id="P11">Ethical approval was obtained from the London Metropolitan University Research Ethics Review Panel. The National Research Ethics Service Committee for the East of England &#x02013; Norfolk was also approached for ethical review of the project, who advised that as the relational security measures were being used in routine clinical practice within the study service, the study does not require National Health Service ethical approval.<sup>
+<xref rid="R10" ref-type="bibr">10</xref>,<xref rid="R11" ref-type="bibr">11</xref>
+</sup>
+</p>
+</sec>
+<sec id="S9">
+<title>Data analysis</title>
+<p id="P12">Prior to analysis, assumption testing for parametric tests was completed. The assumption of homogeneity of variance was violated, and the data were negatively skewed, violating the assumption of normal distribution. Transformations of the data were attempted, but this did not reduce the skew. A number of cases appeared as outliers for all outcome variables, and notably, these cases were all from the housekeeping department. Data were therefore examined using non-parametric methods. This point was discussed with our statistician, who assured us that the loss of power associated with the non-parametric tests was small.</p>
+<p id="P13">Therefore, internal consistency was examined using Spearman's Rho correlation to calculate the Corrected Item-Total Correlation (CITC) coefficient values for subscales of the STA and the RSE. Convergent validity was analysed by correlating subscales of the STA scale and the RSE using Spearman's Rho. The Sidak adjustment was used to adjust for multiple comparisons.</p>
+<p id="P14">Non-parametric statistical tests were used to examine the association between scores on the STA and the RSE, and the variables requested in the demographic questionnaire (length of experience working in secure services, the ward and level of security worked on, the gender of the patients on their ward, and staff department/occupational discipline). Analysis between individual wards and staff occupational discipline could not be completed due to small and unequal numbers between the groups. To examine the association between level of security and the subscales of the two measures, the Kruskal-Wallis test was used. The Wilcoxon Mann-Whitney <italic>U</italic>-test was used to examine the association between gender of patients and the subscales. To examine the association between length of experience working in secure services and the subscales, Spearman's Rho correlation was used.</p>
+</sec>
+</sec>
+<sec sec-type="results" id="S10">
+<title>Results</title>
+<sec id="S11">
+<title>Internal consistency</title>
+<p id="P15">Internal consistency was assessed using CITC coefficients. A CITC value above 0.5 is considered high, but if less than 0.3, items within a subscale may be measuring more than one construct. All RSE subscales exceeded the CITC 0.30 cut-off, although there was some variation, with the Personal World subscale having the highest internal consistency at 0.80, and the Physical Environment subscale the lowest at 0.49. All the STA subscales had CITC scores over 0.9. <xref ref-type="table" rid="T1">Table 1</xref> displays the CITC coefficient values for each subscale of the two measures.</p>
+<table-wrap id="T1" orientation="portrait" position="float">
+<label>Table 1</label>
+<caption>
+<p>Corrected Item-Total Correlation (CITC)</p>
+</caption>
+<table frame="hsides" rules="groups">
+<colgroup span="1">
+<col align="left" valign="middle" span="1" />
+<col align="center" valign="middle" span="1" />
+</colgroup>
+<thead>
+<tr>
+<th rowspan="1" colspan="1">Measure</th>
+<th rowspan="1" colspan="1">CITC</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">Relational Security Explorer</td>
+<td rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Therapy</td>
+<td rowspan="1" colspan="1">0.66</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Boundaries</td>
+<td rowspan="1" colspan="1">0.61</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Patient Mix</td>
+<td rowspan="1" colspan="1">0.57</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Patient Dynamic</td>
+<td rowspan="1" colspan="1">0.65</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Personal World</td>
+<td rowspan="1" colspan="1">0.80</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Physical Environment</td>
+<td rowspan="1" colspan="1">0.49</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Visitors</td>
+<td rowspan="1" colspan="1">0.62</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Outward Connections</td>
+<td rowspan="1" colspan="1">0.68</td>
+</tr>
+<tr>
+<td colspan="2" rowspan="1">
+<hr />
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">See Think Act scale</td>
+<td rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Therapeutic Risk Management</td>
+<td rowspan="1" colspan="1">0.90</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Pro-Social Team Culture</td>
+<td rowspan="1" colspan="1">0.96</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Boundaries</td>
+<td rowspan="1" colspan="1">0.92</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Patient Focus</td>
+<td rowspan="1" colspan="1">0.92</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+</sec>
+<sec id="S12">
+<title>Convergent validity between measures</title>
+<p id="P16">There was little convergent validity between the subscales of the two measures. All four subscales of the STA scale correlated significantly with each other, whereas subscales of the RSE did not. The Spearman's Rho values are detailed in <xref ref-type="table" rid="T2">Table 2</xref>.
+</p>
+<table-wrap id="T2" orientation="portrait" position="float">
+<label>Table 2</label>
+<caption>
+<p>Correlations matrix of the subscales of See Think Act scale and Relational Security Explorer</p>
+</caption>
+<table frame="hsides" rules="groups">
+<colgroup span="1">
+<col align="left" valign="top" span="1" />
+<col align="left" valign="top" span="1" />
+<col align="left" valign="top" span="1" />
+<col align="left" valign="top" span="1" />
+<col align="left" valign="top" span="1" />
+<col align="left" valign="top" span="1" />
+<col align="left" valign="top" span="1" />
+<col align="left" valign="top" span="1" />
+<col align="left" valign="top" span="1" />
+<col align="left" valign="top" span="1" />
+<col align="left" valign="top" span="1" />
+<col align="left" valign="top" span="1" />
+<col align="left" valign="top" span="1" />
+</colgroup>
+<thead>
+<tr>
+<th rowspan="1" colspan="1" />
+<th colspan="4" align="center" valign="bottom" rowspan="1">See Think Act scale<hr />
+</th>
+<th colspan="8" align="center" valign="bottom" rowspan="1">Relational Security Explorer<hr />
+</th>
+</tr>
+<tr>
+<th valign="bottom" rowspan="1" colspan="1">Measure</th>
+<th align="center" valign="bottom" rowspan="1" colspan="1">Therapeutic<break />
+Risk<break />
+Management</th>
+<th align="center" valign="bottom" rowspan="1" colspan="1">Pro Social<break />
+Team<break />
+Culture</th>
+<th align="center" valign="bottom" rowspan="1" colspan="1">Boundaries</th>
+<th align="center" valign="bottom" rowspan="1" colspan="1">Patient<break />
+Focus</th>
+<th align="center" valign="bottom" rowspan="1" colspan="1">Therapy</th>
+<th align="center" valign="bottom" rowspan="1" colspan="1">Boundaries</th>
+<th align="center" valign="bottom" rowspan="1" colspan="1">Patient<break />
+Mix</th>
+<th align="center" valign="bottom" rowspan="1" colspan="1">Patient<break />
+Dynamic</th>
+<th align="center" valign="bottom" rowspan="1" colspan="1">Personal<break />
+World</th>
+<th align="center" valign="bottom" rowspan="1" colspan="1">Physical<break />
+Environment</th>
+<th align="center" valign="bottom" rowspan="1" colspan="1">Outward<break />
+Connections</th>
+<th align="center" valign="bottom" rowspan="1" colspan="1">Visitors</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">See Think Act scale</td>
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Therapeutic Risk<break />
+&#x000a0;&#x000a0;&#x000a0;&#x000a0;Management</td>
+<td rowspan="1" colspan="1">1</td>
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Pro Social Team Culture</td>
+<td rowspan="1" colspan="1">0.808<xref ref-type="table-fn" rid="TFN1">**</xref>
+</td>
+<td rowspan="1" colspan="1">1</td>
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Boundaries</td>
+<td rowspan="1" colspan="1">0.780<xref ref-type="table-fn" rid="TFN1">**</xref>
+</td>
+<td rowspan="1" colspan="1">0.878<xref ref-type="table-fn" rid="TFN1">**</xref>
+</td>
+<td rowspan="1" colspan="1">1</td>
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td rowspan="1" colspan="1">Patient Focus</td>
+<td rowspan="1" colspan="1">0.812<xref ref-type="table-fn" rid="TFN1">**</xref>
+</td>
+<td rowspan="1" colspan="1">0.846<xref ref-type="table-fn" rid="TFN1">**</xref>
+</td>
+<td rowspan="1" colspan="1">0.795<xref ref-type="table-fn" rid="TFN1">**</xref>
+</td>
+<td rowspan="1" colspan="1">1</td>
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td colspan="13" rowspan="1">
+<hr />
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">Relational Security<break />
+Explorer</td>
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Therapy</td>
+<td rowspan="1" colspan="1">0.424</td>
+<td rowspan="1" colspan="1">0.436</td>
+<td rowspan="1" colspan="1">0.344</td>
+<td rowspan="1" colspan="1">0.413</td>
+<td rowspan="1" colspan="1">1</td>
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Boundaries</td>
+<td rowspan="1" colspan="1">0.470</td>
+<td rowspan="1" colspan="1">0.411</td>
+<td rowspan="1" colspan="1">0.367</td>
+<td rowspan="1" colspan="1">0.341</td>
+<td rowspan="1" colspan="1">0.469<xref ref-type="table-fn" rid="TFN1">**</xref>
+</td>
+<td rowspan="1" colspan="1">1</td>
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Patient Mix</td>
+<td rowspan="1" colspan="1">0.444</td>
+<td rowspan="1" colspan="1">0.468</td>
+<td rowspan="1" colspan="1">0.582<xref ref-type="table-fn" rid="TFN1">**</xref>
+</td>
+<td rowspan="1" colspan="1">0.401</td>
+<td rowspan="1" colspan="1">0.338</td>
+<td rowspan="1" colspan="1">0.293</td>
+<td rowspan="1" colspan="1">1</td>
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Patient Dynamic</td>
+<td rowspan="1" colspan="1">0.453</td>
+<td rowspan="1" colspan="1">0.482</td>
+<td rowspan="1" colspan="1">0.457</td>
+<td rowspan="1" colspan="1">0.401</td>
+<td rowspan="1" colspan="1">0.515<xref ref-type="table-fn" rid="TFN1">**</xref>
+</td>
+<td rowspan="1" colspan="1">0.300</td>
+<td rowspan="1" colspan="1">0.668<xref ref-type="table-fn" rid="TFN1">**</xref>
+</td>
+<td rowspan="1" colspan="1">1</td>
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Personal World</td>
+<td rowspan="1" colspan="1">0.485</td>
+<td rowspan="1" colspan="1">0.487</td>
+<td rowspan="1" colspan="1">0.391</td>
+<td rowspan="1" colspan="1">0.465</td>
+<td rowspan="1" colspan="1">0.588<xref ref-type="table-fn" rid="TFN1">**</xref>
+</td>
+<td rowspan="1" colspan="1">0.439<xref ref-type="table-fn" rid="TFN1">**</xref>
+</td>
+<td rowspan="1" colspan="1">0.319</td>
+<td rowspan="1" colspan="1">0.447<xref ref-type="table-fn" rid="TFN1">**</xref>
+</td>
+<td rowspan="1" colspan="1">1</td>
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Physical Environment</td>
+<td rowspan="1" colspan="1">0.091</td>
+<td rowspan="1" colspan="1">0.182</td>
+<td rowspan="1" colspan="1">0.247</td>
+<td rowspan="1" colspan="1">0.246</td>
+<td rowspan="1" colspan="1">0.251</td>
+<td rowspan="1" colspan="1">0.249</td>
+<td rowspan="1" colspan="1">0.110</td>
+<td rowspan="1" colspan="1">0.173</td>
+<td rowspan="1" colspan="1">0.239</td>
+<td rowspan="1" colspan="1">1</td>
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Outward Connections</td>
+<td rowspan="1" colspan="1">0.320</td>
+<td rowspan="1" colspan="1">0.236</td>
+<td rowspan="1" colspan="1">0.171</td>
+<td rowspan="1" colspan="1">0.278</td>
+<td rowspan="1" colspan="1">0.273</td>
+<td rowspan="1" colspan="1">0.266</td>
+<td rowspan="1" colspan="1">0.297</td>
+<td rowspan="1" colspan="1">0.300</td>
+<td rowspan="1" colspan="1">0.556<xref ref-type="table-fn" rid="TFN1">**</xref>
+</td>
+<td rowspan="1" colspan="1">0.186</td>
+<td rowspan="1" colspan="1">1</td>
+<td rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Visitors</td>
+<td rowspan="1" colspan="1">0.301</td>
+<td rowspan="1" colspan="1">0.262</td>
+<td rowspan="1" colspan="1">0.211</td>
+<td rowspan="1" colspan="1">0.247</td>
+<td rowspan="1" colspan="1">0.207</td>
+<td rowspan="1" colspan="1">0.237</td>
+<td rowspan="1" colspan="1">0.267</td>
+<td rowspan="1" colspan="1">0.235</td>
+<td rowspan="1" colspan="1">0.573<xref ref-type="table-fn" rid="TFN1">**</xref>
+</td>
+<td rowspan="1" colspan="1">0.145</td>
+<td rowspan="1" colspan="1">0.565<xref ref-type="table-fn" rid="TFN1">**</xref>
+</td>
+<td rowspan="1" colspan="1">1</td>
+</tr>
+</tbody>
+</table>
+<table-wrap-foot>
+<fn id="TFN1">
+<label>**</label>
+<p>Correlation is significant at the 0.01 level.</p>
+</fn>
+</table-wrap-foot>
+</table-wrap>
+</sec>
+<sec id="S13">
+<title>Between-groups analysis</title>
+<sec id="S14">
+<title>Level of security</title>
+<p id="P17">Significant differences in scores on the two measures were found between staff working in different levels of security Staff working on medium secure wards tended to have the lowest scores on both measures, followed by staff on low secure wards, with the highest scores on rehabilitation wards. On the STA scale, this reached statistical significance on the Therapeutic Risk Management (<italic>P</italic>&#x0003c; 0.001), Boundaries (<italic>P</italic> = 0.012) and Patient Focus (<italic>P</italic> = 0.034) subscales. There were also significant differences on the RSE, on the Patient Mix (<italic>P</italic>&#x0003c; 0.001), Patient Dynamic (<italic>P</italic> = 0.008) and Personal World (<italic>P</italic> = 0.011) subscales. Descriptive data for this variable are presented in <xref ref-type="table" rid="T3">Table 3</xref>.
+</p>
+<table-wrap id="T3" orientation="portrait" position="float">
+<label>Table 3</label>
+<caption>
+<p>Descriptive statistics for level of security on the See Think Act scale and Relational Security Explorer</p>
+</caption>
+<table frame="hsides" rules="groups">
+<colgroup span="1">
+<col align="left" valign="middle" span="1" />
+<col align="left" valign="middle" span="1" />
+<col align="left" valign="middle" span="1" />
+<col align="left" valign="middle" span="1" />
+</colgroup>
+<thead>
+<tr>
+<th rowspan="1" colspan="1" />
+<th colspan="3" align="center" valign="bottom" rowspan="1">Level of security, mean (s.d.)<hr />
+</th>
+</tr>
+<tr>
+<th valign="bottom" rowspan="1" colspan="1">Measure</th>
+<th align="center" valign="bottom" rowspan="1" colspan="1">Medium<break />
+<italic>n</italic> = 13</th>
+<th align="center" valign="bottom" rowspan="1" colspan="1">Low<break />
+<italic>n</italic> = 17</th>
+<th align="center" valign="bottom" rowspan="1" colspan="1">Rehabilitation<break />
+<italic>n</italic> = 14</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">See Think Act scale<sup>
+<xref ref-type="table-fn" rid="TFN2">a</xref>
+</sup>
+</td>
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Therapeutic Risk Management</td>
+<td rowspan="1" colspan="1">2.34 (0.44)</td>
+<td rowspan="1" colspan="1">2.54 (0.39)</td>
+<td rowspan="1" colspan="1">2.8 (0.25)</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Pro-Social Team Culture</td>
+<td rowspan="1" colspan="1">2.34 (0.49)</td>
+<td rowspan="1" colspan="1">2.52 (0.48)</td>
+<td rowspan="1" colspan="1">2.68 (0.41)</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Boundaries</td>
+<td rowspan="1" colspan="1">2.5 (0.43)</td>
+<td rowspan="1" colspan="1">2.64 (0.41)</td>
+<td rowspan="1" colspan="1">2.83 (0.31)</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Patient Focus</td>
+<td rowspan="1" colspan="1">2.5 (0.45)</td>
+<td rowspan="1" colspan="1">2.76 (0.49)</td>
+<td rowspan="1" colspan="1">2.76 (0.34)</td>
+</tr>
+<tr>
+<td colspan="4" rowspan="1">
+<hr />
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">Relational Security Explorer<sup>
+<xref ref-type="table-fn" rid="TFN3">b</xref>
+</sup>
+</td>
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+<td rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Therapy</td>
+<td rowspan="1" colspan="1">7.46 (1.61)</td>
+<td rowspan="1" colspan="1">7.47 (0.26)</td>
+<td rowspan="1" colspan="1">8.07 (1.61)</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Boundaries</td>
+<td rowspan="1" colspan="1">7.85 (1.21)</td>
+<td rowspan="1" colspan="1">8.3 (0.26)</td>
+<td rowspan="1" colspan="1">8.3 (1.21)</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Patient Mix</td>
+<td rowspan="1" colspan="1">7.54 (0.97)</td>
+<td rowspan="1" colspan="1">7.1 (1.56)</td>
+<td rowspan="1" colspan="1">8.71 (0.61)</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Patient Dynamic</td>
+<td rowspan="1" colspan="1">7.15 (1.34)</td>
+<td rowspan="1" colspan="1">7.1 (1.34)</td>
+<td rowspan="1" colspan="1">8.3 (0.83)</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Personal World</td>
+<td rowspan="1" colspan="1">7.31 (1.7)</td>
+<td rowspan="1" colspan="1">7.41 (1.18)</td>
+<td rowspan="1" colspan="1">8.5 (1.09)</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Physical Environment</td>
+<td rowspan="1" colspan="1">7.23 (1.7)</td>
+<td rowspan="1" colspan="1">7.88 (1.4)</td>
+<td rowspan="1" colspan="1">8.07 (1.33)</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Visitors</td>
+<td rowspan="1" colspan="1">7.0 (1.09)</td>
+<td rowspan="1" colspan="1">7.0 (1.12)</td>
+<td rowspan="1" colspan="1">7.64 (1.98)</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Outward Connections</td>
+<td rowspan="1" colspan="1">7.23 (1.36)</td>
+<td rowspan="1" colspan="1">7.17 (1.74)</td>
+<td rowspan="1" colspan="1">8.07 (1.59)</td>
+</tr>
+</tbody>
+</table>
+<table-wrap-foot>
+<fn id="TFN2">
+<label>a.</label>
+<p>The scale for the See Think Act scale is 0&#x02013;3.</p>
+</fn>
+<fn id="TFN3">
+<label>b.</label>
+<p>The scale for the Relational Security Explorer is 1&#x02013;9.</p>
+</fn>
+</table-wrap-foot>
+</table-wrap>
+</sec>
+<sec id="S15">
+<title>Ward gender</title>
+<p id="P18">There were no differences in STA scale scores between staff working on wards caring for male patients, as compared to female patients. However, on the RSE, staff working with male patients reported higher scores on the Patient Dynamic (<italic>P</italic> = 0.024) subscale, compared with staff working with female patients.</p>
+</sec>
+<sec id="S16">
+<title>Length of experience working in secure services</title>
+<p id="P19">There was no correlation between the number of years staff had been working in secure services, and their confidence in relational security, on the STA scale or the RSE.</p>
+</sec>
+</sec>
+</sec>
+<sec sec-type="discussion" id="S17">
+<title>Discussion</title>
+<p id="P20">Serious incidents within forensic mental health services can be linked to breakdowns of relational security.<sup>
+<xref rid="R1" ref-type="bibr">1</xref>
+</sup> Available measures should therefore provide insight into the quality of relational security within services, direct exploration of strengths and weaknesses, and prompt timely, appropriate interventions before an incident occurs. Furthermore, tools should be accessible to all occupation groups.<sup>
+<xref rid="R6" ref-type="bibr">6</xref>
+</sup> This study therefore evaluated the psychometric properties of the STA and the RSE, including internal consistency, convergent validity and their ability to highlight differences between groups.</p>
+<p id="P21">Study limitations include a relatively small sample size, and participants being drawn from a single service, which limit generalisability. It is categorised as a preliminary study for these reasons. However, the study reports interesting findings in relation to the specific tools examined and the wider task of measuring relational security by investigating the perspectives of staff members across occupational professions and levels of security. The study setting, a secure intellectual disability service, may be viewed as a strength, as previous studies have been completed only within generic forensic psychiatric services, and as a weakness, due to the extent of the study findings generalising to non-intellectual disability services. Research comparing patient characteristics between mainstream forensic and specialist intellectual disability services is scarce, however there are a number of notable differences between the two populations which may have an effect on relational security. These include communication difficulties which could affect the development of therapeutic relationships, increased levels of behavioural incidents,<sup>
+<xref rid="R12" ref-type="bibr">12</xref>
+</sup> and higher assessed risk on structured clinical judgement tools.<sup>
+<xref rid="R13" ref-type="bibr">13</xref>&#x02013;<xref rid="R15" ref-type="bibr">15</xref>
+</sup> That said, the present research reports many findings which echo those of previous research.<sup>
+<xref rid="R2" ref-type="bibr">2</xref>
+</sup>
+</p>
+<p id="P22">Test&#x02013;re-test reliability was not examined in the present research, although it may be an interesting area for further study. At present, the stability of relational security levels are unclear, and it may not be realistic or relevant to expect stability over time, as relational security is a fundamentally a dynamic concept.</p>
+<p id="P23">The internal consistency aspect of reliability was examined, with the STA scale demonstrating high levels in accordance with previous research.<sup>
+<xref rid="R2" ref-type="bibr">2</xref>
+</sup> Its subscales correlated significantly, suggesting they are statistically related concepts. Internal consistency for the RSE was adequate but its subscales did not all correlate significantly, possibly indicating that some of the concepts measured are statistically unrelated. Although the RSE and the STA both aim to measure relational security, convergent validity was low. Collectively, these findings suggest that the RSE does not perform as well as the STA as a psychometric outcome measure. This raises questions regarding the practice of collecting and analysing data from the RSE, despite not being validated for this purpose. Lodewijks <italic>et al</italic>
+<sup>
+<xref rid="R9" ref-type="bibr">9</xref>
+</sup> explicitly advise against the use of numerical indices and cut-off points, due to clinicians' tendency to reduce clinical decisions to numbers if they are available.</p>
+<p id="P24">Particular subscales of the two measures were able to detect differences between groups in relational security confidence, thus facilitating the comparison of wards and staff disciplines within a service, potentially between services comparisons, and directing intervention as necessary. Significant findings were reported between wards of different levels of security, with relational security confidence lowest on medium secure wards, increasing on low secure wards, and highest on rehabilitation wards. Tighe &#x00026; Gudjonsson<sup>
+<xref rid="R2" ref-type="bibr">2</xref>
+</sup> also reported this effect, as well as authors investigating social climate in secure settings.<sup>
+<xref rid="R16" ref-type="bibr">16</xref>,<xref rid="R17" ref-type="bibr">17</xref>
+</sup> A possible explanation for this is that medium secure wards represent the beginning of the care pathway accepting newly admitted patients and, as such, staff have had less opportunity to develop the knowledge of patients and therapeutic relationships necessary to achieve good relational security. As patients progress through the low secure and rehabilitation stages of the care pathway, this provides an opportunity for the components necessary to relational security to develop.</p>
+<p id="P25">The study also compared relational security confidence between staff working with male and female patients. This was examined as authors have documented difficulties in building therapeutic relationships with women, due to their clinical complexity.<sup>
+<xref rid="R18" ref-type="bibr">18</xref>,<xref rid="R19" ref-type="bibr">19</xref>
+</sup> However, there were few differences between these two groups on the subscales of the two measures, although staff working with male patients reported higher scores on the Patient Dynamic (<italic>P</italic> = 0.024) subscale of the RSE.<sup>
+<xref rid="R5" ref-type="bibr">5</xref>
+</sup>
+</p>
+<p id="P26">It was expected that staff with more experience working within secure services would be more confident in their judgements of relational security, but there were no significant associations. However, relational security relies on knowledge of patients and therapeutic relationships, within a dynamic environment. For example, if a new patient is admitted to a ward, all staff, regardless of experience will begin to develop their knowledge and their therapeutic relationships with this patient at the same time. Furthermore, if an experienced staff member is asked to move onto a different ward, they will know little about the patients on that ward and have to develop new knowledge and therapeutic relationships. In this sense, all staff members, regardless of experience, are repeatedly beginning and developing their knowledge of individual patients and new therapeutic relationships.</p>
+<p id="P27">Housekeeping staff felt less confident in relational security, as compared to all other departments. This is probably due to the measures tapping into areas of clinical practice that housekeeping staff would not be involved in, and the comparable lack of training offered to this group. However, guidance recommends that relational security implementation should involve all occupational groups working within secure services.<sup>
+<xref rid="R6" ref-type="bibr">6</xref>
+</sup> As housekeeping staff are a daily presence on forensic wards, they are equally as vulnerable to relational security issues and in a position to witness threats to security. Further research should investigate ways to support all occupational groups with relational security.</p>
+<sec id="S18">
+<title>Measuring relational security: further considerations</title>
+<p id="P28">Some points are of note when interpreting data obtained from relational security measures. Initial assumption testing indicated negatively skewed data, suggesting that most participants rated their confidence in relational security at the top end of each measures' respective scale. This could indicate that staff working in this particular service are highly confident in their relational security practice. However, it is unclear how confidence scores relate to the actual quality of relational security within a ward, for example is a highly confident team an experienced team or a complacent team? It could also indicate positive responding, as essentially, measures are asking individuals to rate themselves in an aspect of their role in which they are expected to be competent. Introducing some negatively worded items could improve this.</p>
+<p id="P29">High scoring may also be due to the way the two tools conceptualise relational security. Both measures are based on the STA conceptualisation of relational security,<sup>
+<xref rid="R6" ref-type="bibr">6</xref>
+</sup> which places much of the responsibility onto staff and teams, thus neglecting the &#x02018;quantitative&#x02019; aspects of relational security, for example &#x02018;staff-to-patient ratio and amount of time spent in face-to-face contact&#x02019; (p. 434)<sup>
+<xref rid="R20" ref-type="bibr">20</xref>
+</sup> and the supportive role and responsibility of service management. For example, to achieve quality therapeutic relationships with patients, ward staff and teams need to be stable, with minimum staff ward moves, turnover and absenteeism,<sup>
+<xref rid="R3" ref-type="bibr">3</xref>
+</sup> factors outside of staff members' control. Incorporating items reflecting such aspects of relational security could provide a more comprehensive picture.</p>
+<p id="P30">Normative data are not currently available for either of the two measures, which limits the interpretability of the results. Both measures are designed to be used by staff members in relation to one specific ward. However, many employees work across multiple wards in secure services, with 27% respondents in this sample working across wards. These participants were typically from occupational departments other than nursing, such as psychology, psychiatry, social work and occupational therapy.</p>
+</sec>
+<sec sec-type="conclusions" id="S19">
+<title>Conclusions</title>
+<p id="P31">The increased attention relational security is receiving within the forensic field is a welcome advance. There is growing awareness around the importance of this concept, and resources aiming to raise awareness and support the implementation of relational security are widely available.<sup>
+<xref rid="R21" ref-type="bibr">21</xref>
+</sup> However, until recently there have been few mechanisms to assess the quality of relational security within services. The results of this study suggest that the STA scale and the RSE hold unique and complimentary roles attempting to support relational security. The RSE did not perform well as a psychometric measure, and therefore its use should be limited to its intended purpose &#x02013; as a tool to guide team discussions about relational security &#x02013; and services should refrain from using the RSE as an outcomes measure. However, deciding on a numerical score of relational security confidence may serve a function within the context of a team discussion, for example, if one team member feels the ward should score highly, whereas another member feels the ward should be given a lower score, this could suggest team splitting and form a basis for discussion. At present, the STA scale is best placed to provide insight into the quality of their relational security, while taking into account the aforementioned issues when interpreting the data.</p>
+<p id="P32">Further research is needed in all areas of relational security: definition, implementation and measurement. This research should examine the relationship between relational security and negative outcomes, such as institutional aggression or serious incidents. Future studies should evaluate the clinical utility of the RSE, examine the psychometric properties and provide normative data for the STA. Until more is known about relational security, the approach to implementing and measuring it should be multidimensional,<sup>
+<xref rid="R22" ref-type="bibr">22</xref>
+</sup> i.e. incorporating staff, patient and service management perspectives.</p>
+</sec>
+</sec>
+</body>
+<back>
+<fn-group>
+<fn fn-type="COI-statement">
+<p>
+<bold>Declaration of interest</bold> None.</p>
+</fn>
+</fn-group>
+<ack>
+<p id="P33">The authors are grateful to Paul Bassett for his help with statistical analysis.</p>
+</ack>
+<ref-list>
+<title>References</title>
+<ref id="R1">
+<label>1</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Allen</surname>
+<given-names>E</given-names>
+</name>
+</person-group>
+<source>See Think Act: Relational Security in Secure Mental Health Services</source>.<publisher-name>Department of Health</publisher-name>,<year>2010</year>.
+</mixed-citation>
+</ref>
+<ref id="R2">
+<label>2</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Tighe</surname>
+<given-names>J</given-names>
+</name>
+<name name-style="western">
+<surname>Gudjonsson</surname>
+<given-names>GH</given-names>
+</name>
+</person-group>
+<article-title>See, Think, Act Scale: preliminary development and validation of a measure of relational security in medium- and low-secure units</article-title>.<source>J Forens Psychiatry Psychol</source>
+<year>2012</year>;<volume>23</volume>:<fpage>184</fpage>&#x02013;<lpage>99</lpage>.
+</mixed-citation>
+</ref>
+<ref id="R3">
+<label>3</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Chester</surname>
+<given-names>V</given-names>
+</name>
+<name name-style="western">
+<surname>Morgan</surname>
+<given-names>W</given-names>
+</name>
+</person-group>
+<article-title>Relational security within secure services: summary of findings from a literature review</article-title>.<source>Quality Network for Forensic Mental Health Services Newsletter</source>
+<year>2012</year>;<month>9</month>:<fpage>10</fpage>&#x02013;<lpage>4</lpage>.
+</mixed-citation>
+</ref>
+<ref id="R4">
+<label>4</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Dale</surname>
+<given-names>C</given-names>
+</name>
+<name name-style="western">
+<surname>Storey</surname>
+<given-names>L</given-names>
+</name>
+</person-group>
 <article-title>High, medium and low security care: does the type of care make any difference to the role of the forensic mental health nurse?</article-title>
 <source>Res Nurs</source>
-<year>2004</year>; <volume>9</volume>: <fpage>168</fpage>&#x02013;<lpage>84</lpage>.
-</mixed-citation></ref><ref id="R5"><label>5</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><collab>Department of Health</collab></person-group>
-<source>Relational Security Explorer</source>. <publisher-name>Department of Health</publisher-name>, <year>2010</year>.
-</mixed-citation></ref><ref id="R6"><label>6</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><collab>Department of Health</collab></person-group>
-<source>Your Guide to Relational Security: See, Think, Act</source>. <publisher-name>Department of Health</publisher-name>, <year>2010</year>.
-</mixed-citation></ref><ref id="R7"><label>7</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><name name-style="western"><surname>Johnson</surname><given-names>S</given-names></name><name name-style="western"><surname>Wood</surname><given-names>S</given-names></name><name name-style="western"><surname>Paul</surname><given-names>M</given-names></name><name name-style="western"><surname>Osborn</surname><given-names>D</given-names></name><name name-style="western"><surname>Wearn</surname><given-names>E</given-names></name><name name-style="western"><surname>Lloyd-Evans</surname><given-names>B</given-names></name><etal/></person-group>
-<source>Inpatient Mental Health Staff Morale: A National Investigation</source>. <publisher-name>National Institute for Health Research</publisher-name>, <year>2011</year>.
-</mixed-citation></ref><ref id="R8"><label>8</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Schalast</surname><given-names>N</given-names></name><name name-style="western"><surname>Redies</surname><given-names>M</given-names></name><name name-style="western"><surname>Collins</surname><given-names>M</given-names></name><name name-style="western"><surname>Stacey</surname><given-names>J</given-names></name><name name-style="western"><surname>Howells</surname><given-names>K</given-names></name></person-group>
-<article-title>EssenCES, a short questionnaire for assessing the social climate of forensic psychiatric wards</article-title>. <source>Crim Behav Ment Health</source>
-<year>2008</year>; <volume>18</volume>: <fpage>49</fpage>&#x02013;<lpage>58</lpage>.
-<pub-id pub-id-type="pmid">18229876</pub-id></mixed-citation></ref><ref id="R9"><label>9</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Lodewijks</surname><given-names>HPB</given-names></name><name name-style="western"><surname>Doreleijers</surname><given-names>TAH</given-names></name><name name-style="western"><surname>De Ruiter</surname><given-names>C</given-names></name></person-group>
-<article-title>Savry risk assessment in violent dutch adolescents: relation to sentencing and recidivism</article-title>. <source>Crim Justice Behav</source>
-<year>2008</year>; <volume>35</volume>: <fpage>696</fpage>&#x02013;<lpage>709</lpage>.
-</mixed-citation></ref><ref id="R10"><label>10</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><collab>NHS Health Research Authority</collab></person-group>
-<source>Defining Research</source>. <publisher-name>NHS Health Research Authority</publisher-name>, <year>2016</year>.
-</mixed-citation></ref><ref id="R11"><label>11</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><collab>Department of Health</collab></person-group>
-<source>Research Governance Framework for Health and Social Care</source>. <publisher-name>NHS Health Service Authority</publisher-name>, <year>2005</year>.
-</mixed-citation></ref><ref id="R12"><label>12</label><mixed-citation publication-type="other">
-<person-group person-group-type="author"><collab>NHS Benchmarking Network</collab></person-group>
-<source>Use of Restraint in Mental Health, CAMHS and LD Phase 2 Data Collection: Participant Feedback</source>. <year>2015</year>.
-</mixed-citation></ref><ref id="R13"><label>13</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Alexander</surname><given-names>RT</given-names></name><name name-style="western"><surname>Chester</surname><given-names>V</given-names></name><name name-style="western"><surname>Gray</surname><given-names>NS</given-names></name><name name-style="western"><surname>Snowden</surname><given-names>RJ</given-names></name></person-group>
-<article-title>Patients with personality disorders and intellectual disability &#x02013; closer to personality disorders or intellectual disability? A three-way comparison</article-title>. <source>J Forens Psychiatry Psychol</source>
-<year>2012</year>; <volume>23</volume>: <fpage>435</fpage>&#x02013;<lpage>51</lpage>.
-</mixed-citation></ref><ref id="R14"><label>14</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Morrissey</surname><given-names>C</given-names></name><name name-style="western"><surname>Beeley</surname><given-names>C</given-names></name><name name-style="western"><surname>Milton</surname><given-names>J</given-names></name></person-group>
-<article-title>Longitudinal HCR-20 scores in a high-secure psychiatric hospital</article-title>. <source>Crim Behav Ment Heal</source>
-<year>2014</year>; <volume>24</volume>: <fpage>169</fpage>&#x02013;<lpage>80</lpage>.
-</mixed-citation></ref><ref id="R15"><label>15</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Fitzgerald</surname><given-names>S</given-names></name><name name-style="western"><surname>Gray</surname><given-names>NS</given-names></name><name name-style="western"><surname>Alexander</surname><given-names>RT</given-names></name><name name-style="western"><surname>Bagshaw</surname><given-names>R</given-names></name><name name-style="western"><surname>Chesterman</surname><given-names>P</given-names></name><name name-style="western"><surname>Huckle</surname><given-names>P</given-names></name><etal/></person-group>
-<article-title>Predicting institutional violence in offenders with intellectual disabilities: the predictive efficacy of the VRAG and the HCR-20</article-title>. <source>J Appl Res Intellect Disabil</source>
-<year>2013</year>; <volume>26</volume>: <fpage>384</fpage>&#x02013;<lpage>93</lpage>.
-<pub-id pub-id-type="pmid">23925961</pub-id></mixed-citation></ref><ref id="R16"><label>16</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Quinn</surname><given-names>M</given-names></name><name name-style="western"><surname>Thomas</surname><given-names>C</given-names></name><name name-style="western"><surname>Chester</surname><given-names>V</given-names></name></person-group>
-<article-title>The Essen Climate Evaluation Schema measure of social climate in a secure service for people with intellectual disabilities</article-title>. <source>Adv Ment Heal Intellect Disabil</source>
-<year>2012</year>; <volume>6</volume>: <fpage>171</fpage>&#x02013;<lpage>8</lpage>.
-</mixed-citation></ref><ref id="R17"><label>17</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Langdon</surname><given-names>PE</given-names></name><name name-style="western"><surname>Swift</surname><given-names>A</given-names></name><name name-style="western"><surname>Budd</surname><given-names>R</given-names></name></person-group>
-<article-title>Social climate within secure inpatient services for people with intellectual disabilities</article-title>. <source>J Intellect Disabil Res</source>
-<year>2006</year>; <volume>50</volume>(<issue>Pt 11</issue>): <fpage>828</fpage>&#x02013;<lpage>36</lpage>.
-<pub-id pub-id-type="pmid">16999782</pub-id></mixed-citation></ref><ref id="R18"><label>18</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><name name-style="western"><surname>Aiyegbusi</surname><given-names>A</given-names></name></person-group>
-<article-title>Thinking under fire&#x02014;the challenge for forensic mental health nurses working with women in secure care</article-title>. In <source>Working Therapeutically with Women in Secure Mental Health Settings</source> (ed <person-group person-group-type="editor"><name name-style="western"><surname>Jeffcote</surname><given-names>N</given-names></name></person-group>): <fpage>108</fpage>&#x02013;<lpage>19</lpage>. <publisher-name>Jessica Kingsley</publisher-name>, <year>2004</year>.
-</mixed-citation></ref><ref id="R19"><label>19</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><name name-style="western"><surname>Chester</surname><given-names>V</given-names></name><name name-style="western"><surname>Alexander</surname><given-names>RT</given-names></name></person-group>
-<article-title>Women with intellectual disabilities and forensic involvement</article-title>. In <source>The Wiley Handbook on Offenders with Intellectual and Developmental Disabilities</source> (eds <person-group person-group-type="editor"><name name-style="western"><surname>Lindsay</surname><given-names>WR</given-names></name><name name-style="western"><surname>Taylor</surname><given-names>JL</given-names></name></person-group>). <publisher-name>John Wiley and Sons</publisher-name>, <comment>in press</comment>.
-</mixed-citation></ref><ref id="R20"><label>20</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Kennedy</surname><given-names>HG</given-names></name></person-group>
-<article-title>Therapeutic uses of security: mapping forensic mental health services by stratifying risk</article-title>. <source>Adv Psychiatr Treat</source>
-<year>2002</year>; <volume>8</volume>: <fpage>433</fpage>&#x02013;<lpage>43</lpage>.
-</mixed-citation></ref><ref id="R21"><label>21</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><name name-style="western"><surname>Allen</surname><given-names>E</given-names></name></person-group>
-<source>Your Guide to Relational Security: See Think Act</source> (<edition>2nd edn</edition>). <publisher-name>Royal College of Psychiatrists Quality Network for Forensic Mental Health Services</publisher-name>, <year>2016</year>.
-</mixed-citation></ref><ref id="R22"><label>22</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><name name-style="western"><surname>Parry-Crooke</surname><given-names>G</given-names></name><name name-style="western"><surname>Stafford</surname><given-names>P</given-names></name></person-group>
-<source>My Life: In Safe Hands? Dedicated Women's Medium Secure Services in England</source>. <publisher-name>London Metropolitan University</publisher-name>, <year>2009</year>.
-</mixed-citation></ref></ref-list></back></article>
+<year>2004</year>;<volume>9</volume>:<fpage>168</fpage>&#x02013;<lpage>84</lpage>.
+</mixed-citation>
+</ref>
+<ref id="R5">
+<label>5</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<collab>Department of Health</collab>
+</person-group>
+<source>Relational Security Explorer</source>.<publisher-name>Department of Health</publisher-name>,<year>2010</year>.
+</mixed-citation>
+</ref>
+<ref id="R6">
+<label>6</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<collab>Department of Health</collab>
+</person-group>
+<source>Your Guide to Relational Security: See, Think, Act</source>.<publisher-name>Department of Health</publisher-name>,<year>2010</year>.
+</mixed-citation>
+</ref>
+<ref id="R7">
+<label>7</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Johnson</surname>
+<given-names>S</given-names>
+</name>
+<name name-style="western">
+<surname>Wood</surname>
+<given-names>S</given-names>
+</name>
+<name name-style="western">
+<surname>Paul</surname>
+<given-names>M</given-names>
+</name>
+<name name-style="western">
+<surname>Osborn</surname>
+<given-names>D</given-names>
+</name>
+<name name-style="western">
+<surname>Wearn</surname>
+<given-names>E</given-names>
+</name>
+<name name-style="western">
+<surname>Lloyd-Evans</surname>
+<given-names>B</given-names>
+</name>
+<etal />
+</person-group>
+<source>Inpatient Mental Health Staff Morale: A National Investigation</source>.<publisher-name>National Institute for Health Research</publisher-name>,<year>2011</year>.
+</mixed-citation>
+</ref>
+<ref id="R8">
+<label>8</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Schalast</surname>
+<given-names>N</given-names>
+</name>
+<name name-style="western">
+<surname>Redies</surname>
+<given-names>M</given-names>
+</name>
+<name name-style="western">
+<surname>Collins</surname>
+<given-names>M</given-names>
+</name>
+<name name-style="western">
+<surname>Stacey</surname>
+<given-names>J</given-names>
+</name>
+<name name-style="western">
+<surname>Howells</surname>
+<given-names>K</given-names>
+</name>
+</person-group>
+<article-title>EssenCES, a short questionnaire for assessing the social climate of forensic psychiatric wards</article-title>.<source>Crim Behav Ment Health</source>
+<year>2008</year>;<volume>18</volume>:<fpage>49</fpage>&#x02013;<lpage>58</lpage>.
+<pub-id pub-id-type="pmid">18229876</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R9">
+<label>9</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Lodewijks</surname>
+<given-names>HPB</given-names>
+</name>
+<name name-style="western">
+<surname>Doreleijers</surname>
+<given-names>TAH</given-names>
+</name>
+<name name-style="western">
+<surname>De Ruiter</surname>
+<given-names>C</given-names>
+</name>
+</person-group>
+<article-title>Savry risk assessment in violent dutch adolescents: relation to sentencing and recidivism</article-title>.<source>Crim Justice Behav</source>
+<year>2008</year>;<volume>35</volume>:<fpage>696</fpage>&#x02013;<lpage>709</lpage>.
+</mixed-citation>
+</ref>
+<ref id="R10">
+<label>10</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<collab>NHS Health Research Authority</collab>
+</person-group>
+<source>Defining Research</source>.<publisher-name>NHS Health Research Authority</publisher-name>,<year>2016</year>.
+</mixed-citation>
+</ref>
+<ref id="R11">
+<label>11</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<collab>Department of Health</collab>
+</person-group>
+<source>Research Governance Framework for Health and Social Care</source>.<publisher-name>NHS Health Service Authority</publisher-name>,<year>2005</year>.
+</mixed-citation>
+</ref>
+<ref id="R12">
+<label>12</label>
+<mixed-citation publication-type="other">
+<person-group person-group-type="author">
+<collab>NHS Benchmarking Network</collab>
+</person-group>
+<source>Use of Restraint in Mental Health, CAMHS and LD Phase 2 Data Collection: Participant Feedback</source>.<year>2015</year>.
+</mixed-citation>
+</ref>
+<ref id="R13">
+<label>13</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Alexander</surname>
+<given-names>RT</given-names>
+</name>
+<name name-style="western">
+<surname>Chester</surname>
+<given-names>V</given-names>
+</name>
+<name name-style="western">
+<surname>Gray</surname>
+<given-names>NS</given-names>
+</name>
+<name name-style="western">
+<surname>Snowden</surname>
+<given-names>RJ</given-names>
+</name>
+</person-group>
+<article-title>Patients with personality disorders and intellectual disability &#x02013; closer to personality disorders or intellectual disability? A three-way comparison</article-title>.<source>J Forens Psychiatry Psychol</source>
+<year>2012</year>;<volume>23</volume>:<fpage>435</fpage>&#x02013;<lpage>51</lpage>.
+</mixed-citation>
+</ref>
+<ref id="R14">
+<label>14</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Morrissey</surname>
+<given-names>C</given-names>
+</name>
+<name name-style="western">
+<surname>Beeley</surname>
+<given-names>C</given-names>
+</name>
+<name name-style="western">
+<surname>Milton</surname>
+<given-names>J</given-names>
+</name>
+</person-group>
+<article-title>Longitudinal HCR-20 scores in a high-secure psychiatric hospital</article-title>.<source>Crim Behav Ment Heal</source>
+<year>2014</year>;<volume>24</volume>:<fpage>169</fpage>&#x02013;<lpage>80</lpage>.
+</mixed-citation>
+</ref>
+<ref id="R15">
+<label>15</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Fitzgerald</surname>
+<given-names>S</given-names>
+</name>
+<name name-style="western">
+<surname>Gray</surname>
+<given-names>NS</given-names>
+</name>
+<name name-style="western">
+<surname>Alexander</surname>
+<given-names>RT</given-names>
+</name>
+<name name-style="western">
+<surname>Bagshaw</surname>
+<given-names>R</given-names>
+</name>
+<name name-style="western">
+<surname>Chesterman</surname>
+<given-names>P</given-names>
+</name>
+<name name-style="western">
+<surname>Huckle</surname>
+<given-names>P</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>Predicting institutional violence in offenders with intellectual disabilities: the predictive efficacy of the VRAG and the HCR-20</article-title>.<source>J Appl Res Intellect Disabil</source>
+<year>2013</year>;<volume>26</volume>:<fpage>384</fpage>&#x02013;<lpage>93</lpage>.
+<pub-id pub-id-type="pmid">23925961</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R16">
+<label>16</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Quinn</surname>
+<given-names>M</given-names>
+</name>
+<name name-style="western">
+<surname>Thomas</surname>
+<given-names>C</given-names>
+</name>
+<name name-style="western">
+<surname>Chester</surname>
+<given-names>V</given-names>
+</name>
+</person-group>
+<article-title>The Essen Climate Evaluation Schema measure of social climate in a secure service for people with intellectual disabilities</article-title>.<source>Adv Ment Heal Intellect Disabil</source>
+<year>2012</year>;<volume>6</volume>:<fpage>171</fpage>&#x02013;<lpage>8</lpage>.
+</mixed-citation>
+</ref>
+<ref id="R17">
+<label>17</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Langdon</surname>
+<given-names>PE</given-names>
+</name>
+<name name-style="western">
+<surname>Swift</surname>
+<given-names>A</given-names>
+</name>
+<name name-style="western">
+<surname>Budd</surname>
+<given-names>R</given-names>
+</name>
+</person-group>
+<article-title>Social climate within secure inpatient services for people with intellectual disabilities</article-title>.<source>J Intellect Disabil Res</source>
+<year>2006</year>;<volume>50</volume>(<issue>Pt 11</issue>):<fpage>828</fpage>&#x02013;<lpage>36</lpage>.
+<pub-id pub-id-type="pmid">16999782</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R18">
+<label>18</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Aiyegbusi</surname>
+<given-names>A</given-names>
+</name>
+</person-group>
+<article-title>Thinking under fire&#x02014;the challenge for forensic mental health nurses working with women in secure care</article-title>. In <source>Working Therapeutically with Women in Secure Mental Health Settings</source> (ed <person-group person-group-type="editor">
+<name name-style="western">
+<surname>Jeffcote</surname>
+<given-names>N</given-names>
+</name>
+</person-group>):<fpage>108</fpage>&#x02013;<lpage>19</lpage>.<publisher-name>Jessica Kingsley</publisher-name>,<year>2004</year>.
+</mixed-citation>
+</ref>
+<ref id="R19">
+<label>19</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Chester</surname>
+<given-names>V</given-names>
+</name>
+<name name-style="western">
+<surname>Alexander</surname>
+<given-names>RT</given-names>
+</name>
+</person-group>
+<article-title>Women with intellectual disabilities and forensic involvement</article-title>. In <source>The Wiley Handbook on Offenders with Intellectual and Developmental Disabilities</source> (eds <person-group person-group-type="editor">
+<name name-style="western">
+<surname>Lindsay</surname>
+<given-names>WR</given-names>
+</name>
+<name name-style="western">
+<surname>Taylor</surname>
+<given-names>JL</given-names>
+</name>
+</person-group>).<publisher-name>John Wiley and Sons</publisher-name>,<comment>in press</comment>.
+</mixed-citation>
+</ref>
+<ref id="R20">
+<label>20</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Kennedy</surname>
+<given-names>HG</given-names>
+</name>
+</person-group>
+<article-title>Therapeutic uses of security: mapping forensic mental health services by stratifying risk</article-title>.<source>Adv Psychiatr Treat</source>
+<year>2002</year>;<volume>8</volume>:<fpage>433</fpage>&#x02013;<lpage>43</lpage>.
+</mixed-citation>
+</ref>
+<ref id="R21">
+<label>21</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Allen</surname>
+<given-names>E</given-names>
+</name>
+</person-group>
+<source>Your Guide to Relational Security: See Think Act</source> (<edition>2nd edn</edition>).<publisher-name>Royal College of Psychiatrists Quality Network for Forensic Mental Health Services</publisher-name>,<year>2016</year>.
+</mixed-citation>
+</ref>
+<ref id="R22">
+<label>22</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Parry-Crooke</surname>
+<given-names>G</given-names>
+</name>
+<name name-style="western">
+<surname>Stafford</surname>
+<given-names>P</given-names>
+</name>
+</person-group>
+<source>My Life: In Safe Hands? Dedicated Women's Medium Secure Services in England</source>.<publisher-name>London Metropolitan University</publisher-name>,<year>2009</year>.
+</mixed-citation>
+</ref>
+</ref-list>
+</back>
+</article>

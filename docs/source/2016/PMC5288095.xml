@@ -1,39 +1,412 @@
-<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
-<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-journalpublishing1.dtd?><?SourceDTD.Version 1.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">BJPsych Bull</journal-id><journal-id journal-id-type="iso-abbrev">BJPsych Bull</journal-id><journal-id journal-id-type="hwp">pbrcpsych</journal-id><journal-title-group><journal-title>BJPsych Bulletin</journal-title></journal-title-group><issn pub-type="ppub">2056-4694</issn><issn pub-type="epub">2056-4708</issn><publisher><publisher-name>Royal College of Psychiatrists</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">5288095</article-id><article-id pub-id-type="doi">10.1192/pb.bp.115.052092</article-id><article-categories><subj-group subj-group-type="heading"><subject>Education &#x00026; Training</subject></subj-group></article-categories><title-group><article-title>The most important things I have learnt in my career as a psychiatrist</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Leff</surname><given-names>Julian</given-names></name><xref ref-type="aff" rid="A1">1</xref><xref ref-type="corresp" rid="cor1"/></contrib></contrib-group><aff id="A1"><label>1</label>Institute of Psychiatry, Psychology and Neuroscience, King's College London</aff><author-notes><corresp id="cor1">
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article">    <?properties open_access?>    <?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN?>    <?DTDIdentifier.IdentifierType public?>    <?SourceDTD.DTDName JATS-journalpublishing1.dtd?>    <?SourceDTD.Version 1.0?>    <?ConverterInfo.XSLTName jp2nlmx2.xsl?>    <?ConverterInfo.Version 1?>
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="nlm-ta">BJPsych Bull</journal-id>
+            <journal-id journal-id-type="iso-abbrev">BJPsych Bull</journal-id>
+            <journal-id journal-id-type="hwp">pbrcpsych</journal-id>
+            <journal-title-group>
+                <journal-title>BJPsych Bulletin</journal-title>
+            </journal-title-group>
+            <issn pub-type="ppub">2056-4694</issn>
+            <issn pub-type="epub">2056-4708</issn>
+            <publisher>
+                <publisher-name>Royal College of Psychiatrists</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="pmcid">5288095</article-id>
+            <article-id pub-id-type="doi">10.1192/pb.bp.115.052092</article-id>
+            <article-categories>
+                <subj-group subj-group-type="heading">
+                    <subject>Education &#x00026; Training</subject>
+                </subj-group>
+            </article-categories>
+            <title-group>
+                <article-title>The most important things I have learnt in my career as a psychiatrist</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Leff</surname>
+                        <given-names>Julian</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                    <xref ref-type="corresp" rid="cor1" />
+                </contrib>
+            </contrib-group>
+            <aff id="A1">
+                <label>1</label>Institute of Psychiatry, Psychology and Neuroscience, King's College London</aff>
+            <author-notes>
+                <corresp id="cor1">
 Correspondence to Julian Leff (<email>julian.leff@kcl.ac.uk</email>)
-</corresp><fn><p><bold>Julian Leff</bold> is an Honorary Professor at University College London and the University of Cape Town, and Emeritus Professor at the Institute of Psychiatry, King's College London.</p></fn></author-notes><pub-date pub-type="ppub"><month>2</month><year>2017</year></pub-date><volume>41</volume><issue>1</issue><fpage>51</fpage><lpage>55</lpage><history><date date-type="received"><day>13</day><month>7</month><year>2015</year></date><date date-type="rev-recd"><day>26</day><month>10</month><year>2015</year></date><date date-type="accepted"><day>24</day><month>2</month><year>2016</year></date></history><permissions><copyright-statement>&#x000a9; 2017 The Author</copyright-statement><copyright-year>2017</copyright-year><license license-type="creative-commons" xlink:href="http://creativecommons.org/licenses/by/4.0"><license-p>This is an open-access article published by the Royal College of Psychiatrists and distributed under the terms of the Creative Commons Attribution License (<uri xlink:href="http://creativecommons.org/licenses/by/4.0">http://creativecommons.org/licenses/by/4.0</uri>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xlink:title="pdf" xlink:href="51.pdf"/><abstract><p id="P1">This paper is something of a patchwork, incorporating many issues that have intrigued me during 34 years of research. I have included the importance of maintaining a solid base in clinical work, alongside research activities, and being alert to the possibility of a somatic condition contributing to psychiatric symptoms. I stress the value of careful observation of patients, their response to treatments and reasons for dropping out. In addition, I have included 14 more lessons, learned from my experience of research, which I hope will be of use to those readers who aspire to become researchers.</p></abstract></article-meta></front><body><p id="P2">I was attracted to psychiatry by my experience as a medical student at University College Hospital. Students on the psychiatry firm were expected to take on a psychotherapy patient, supervised by one of the senior therapists. This was the first time in my medical training that I felt valued as a clinician and treated as a responsible adult. (There is an important lesson here for improving the very low recruitment of medical students to psychiatry.)</p><p id="P3">Having graduated as a doctor I was keen to begin my study of psychiatry and sought advice from Sir Martin Roth, president of the Royal College of Psychiatrists at that time. He was adamant that I had to obtain the Membership of the Royal College of Physicians before applying for training in psychiatry. This was daunting as the Physicians' exam had a very low pass rate. I spent 3 arduous years as house officer in hospitals in London's East End before passing the exam. However, in a strange way it felt like coming home. This was because my father and his family lived in a house in the East End, at least until it was completely destroyed by a German bomb. By working with East Enders I learned to appreciate the fortitude and strength of people in the lowest stratum of society, and I never forgot that.</p><p id="P4">Throughout my career I always continued with clinical work alongside my role as director of two research teams, holding weekly out-patient clinics and having consultant responsibility for half an acute admission ward at the Maudsley Hospital and later at Friern Hospital. In addition, I supervised community mental health teams for their work with families. In this paper I will present the important things I have learned from both my clinical and my research activities.</p><p id="P5">Becoming a Fellow of the Royal College of Physicians (FRCP), I applied to the Maudsley training scheme and was accepted. When I met the other trainees in my intake, I found to my chagrin that only half of them had passed the Physicians' exam. There was one occasion in my psychiatric practice when my medical expertise proved its value. An out-patient in my clinic was complaining of anxiety and breathlessness, specifically when leaving her home and being in crowds. Naturally, I diagnosed a phobic condition and prescribed an anxiolytic. As she was about to leave the clinic, she said, &#x02018;By the way, doctor, I have a rash on my legs&#x02019;. I asked her to show it to me and immediately recognised the raised purplish bumps of erythema nodosum. I referred her to the medical specialists who took over the treatment of her medical condition and cured her of her breathlessness.</p><sec disp-level="2" id="S1"><title>Lesson 1: always bear in mind the possibility of an underlying medical condition</title><p id="P6">There is an expanding literature on comorbidity between psychiatric and medical conditions that partly contributes to the high mortality rate in psychiatric patients.</p></sec><sec disp-level="2" sec-type="subjects" id="S2"><title>Lesson 2: make careful observations on patients and their response to treatments</title><p id="P7">Observant clinicians remain curious about puzzling aspects of everyday psychiatry, and this attitude can stimulate research projects which have the potential to lead to breakthroughs in psychiatric treatments. For example, my concern about the failure of antipsychotic medication to suppress auditory hallucinations in one in four patients led me to develop avatar therapy,<sup><xref rid="R1" ref-type="bibr">1</xref></sup> a novel and effective treatment for this debilitating condition.</p></sec><sec disp-level="2" sec-type="subjects" id="S3"><title>Lesson 3: always listen carefully to the patient's narrative</title><p id="P8">Do not dismiss the patient's belief about the cause and nature of their illness. It has been shown that the greater the disparity between the patient's and the physician's understanding of the patient's illness, the less likely the patient is to adhere to the prescribed treatment. The same caveat applies to the family carers' beliefs about the patient's illness, even if they depart widely from your own understanding. UK psychologists were the first to adapt Beck's cognitive therapy for depression to treat psychosis (CBTp). My experience of working with family carers of people with schizophrenia taught me that many low expressed emotion family carers had developed effective coping strategies for dealing with the patient's difficult behaviour, for example, distraction, reality testing and time out, which closely resembled CBTp. If professionals had listened to these family carers, and given credence to their narratives, they would have introduced CBTp much earlier, saving considerable suffering. While CBTp alleviates the anxiety of patients with persecutory auditory hallucinations, it has little impact on their frequency or volume, as opposed to avatar therapy.<sup><xref rid="R1" ref-type="bibr">1</xref></sup></p></sec><sec disp-level="2" id="S4"><title>Lesson 4: the value of qualitative studies</title><p id="P9">Qualitative studies provide information of a different nature to quantitative studies, such as patients' experience of novel therapies, but they are of equal importance. Quantitative and qualitative studies are not in competition, but complement each other and are very informative when employed in tandem. An example is the current large-scale replication study of the value of avatar therapy.<sup><xref rid="R2" ref-type="bibr">2</xref></sup> Standard quantitative measures of the participants' assessment of the power and malignancy of their persecutory voices are augmented by the participants' accounts of their experience of standing up to the avatar they have created as a proxy for their persecutor.</p></sec><sec disp-level="2" id="S5"><title>Lesson 5: it is all too easy to become fascinated with esoteric research and to allow its demands to divert you away from basic clinical work</title><p id="P10">Working with patients is the crucible that generates the questions that inspire research projects. I cannot emphasise enough the importance of maintaining contact with everyday psychiatric patients, and not being lured exclusively by the glamour of exotic conditions. When I was granted a chair, I was the only professor in the Institute of Psychiatry (now Institute of Psychiatry, Psychology and Neuroscience (IoPPN), King's College London) who held clinics for local patients. Happily, that situation has now changed.</p><p id="P11">My research career began in earnest in 1968 when I was offered a position in John Wing's Medical Research Council Social Psychiatry Unit at the Institute of Psychiatry. I spent 34 years as a researcher, focusing mainly, but not exclusively, on psychosis. Many of the important lessons I learned were as a result of my research experiences, and it is these I wish to share with you, in the hope that they will inspire you to undertake your own research projects. There are so many unanswered questions in psychiatry that we need many more researchers to tackle these. Sir Aubrey Lewis, who founded the Institute of Psychiatry, was dedicated to promoting research and insisted that trainees conduct their own research project in order to pass their final exam. Sadly this requirement lapsed after Sir Aubrey retired.</p></sec><sec disp-level="2" id="S6"><title>Lesson 6: formulating a question</title><p id="P12">Junior colleagues would often approach me, eyes shining with excitement, saying that they wanted to do research &#x02018;with a capital R&#x02019;. I would then ask them what they would like to do their research on and would be met by a baffled silence, clearly expecting me to spell out a project for them. If a topic engages your curiosity, you need to do some hard thinking and formulate a question that you want to answer. A well-constructed question can be developed into a series of hypotheses, which will determine the trajectory of your research project. A well-designed research study will always generate new unanswered questions that will then form the basis for the next study. The results of a research project you did not expect are as important as those you anticipated, and should lead you on to a new study. Consider the following sequence.</p><p id="P13">When Christine Vaughn joined the Social Psychiatry Unit, she decided that she wanted to embark on a PhD to replicate the findings of Brown, Birley and Wing that high expressed emotion in family carers significantly predicted relapse of schizophrenia.<sup><xref rid="R3" ref-type="bibr">3</xref></sup> This pioneering study was surprisingly neglected by the psychiatric community, probably because of the prevailing adherence to biological explanations for schizophrenia. Christine and I decided that a replication would attract the attention these findings deserved.</p><p id="P14">We discussed collaborating on this project and I suggested that it would add value to the research if we included a group of patients with depressive disorder to ascertain whether expressed emotion was a specific predictor for schizophrenia or whether it would predict relapse of depression as well. In the event it turned out to be a more potent predictor for relapse of depression than for relapse of schizophrenia, as shown by Jill Hooley in her PhD in the USA.<sup><xref rid="R4" ref-type="bibr">4</xref></sup> In addition, our study replicated the protective effects of medication and low contact with the carer against the stress of high expressed emotion that the earlier study had revealed. This stimulated me to consider the possibility of intervening in high expressed emotion families to lower expressed emotion and contact between the patient and the family carers. There were two compelling reasons for this: primarily, to determine the direction of causality (do high expressed emotion attitudes cause relapse of schizophrenia or does the patient's disturbed behaviour provoke high expressed emotion attitudes?); and also to determine whether our family interventions could improve the outcome of schizophrenia.</p><p id="P15">For this project I assembled a team of therapists with different areas of expertise: a cognitive-behavioural therapist with experience of working with groups, a psychodynamic psychiatrist, a psychiatrist from Germany who was a trained psychoanalyst and myself as an eclectic therapist with no strong adherence to any one theory of family functioning. The therapy used by this heterogeneous team was remarkably effective, succeeding in reducing the patients' relapse rate over 9 months from 50% to less than 10%.<sup><xref rid="R5" ref-type="bibr">5</xref></sup> The success of this trial led to two more randomised controlled trials (RCTs), including a cost-benefit study. The accumulation of this evidence plus ten replications in different countries led the National Institute for Health and Clinical Excellence (NICE) to recommend that family carers of a patient with schizophrenia must have professional input. This outcome justified the 15 years it took to complete the sequence of RCTs.</p></sec><sec disp-level="2" id="S7"><title>Lesson 7: the danger of linear thinking</title><p id="P16">Linear thinking results from the idea that causal action flows in one direction only, from cause to effect, from producer to produced, analogous to a series of billiard balls in motion. The issue of linear thinking in the social sciences, including psychiatry, merits some discussion.</p><p id="P17">Linear thinking forms the basis of almost all biological research in psychiatry. It has a long history, having been first formulated by the Greek philosophers Anaximander and Plato. In the modern era, Von Bertalanffy was the first to challenge linear thinking.<sup><xref rid="R6" ref-type="bibr">6</xref></sup> He stated that we must think in terms of systems of elements in mutual interaction. At that time, the development of cybernetics promoted systems thinking. The process of feedback whereby missiles could monitor and correct their trajectory was recognised as analogous to the biological system's capacity to maintain and organise itself in nature. This formulation was seen as very relevant to the process of family therapy. The family theorist Gregory Bateson wrote: &#x02018;I think that cybernetics is the biggest bite out of the Tree of Knowledge that mankind has taken in the last 2000 years&#x02019;.<sup><xref rid="R7" ref-type="bibr">7</xref></sup> It is ironic that a technology developed to destroy human beings should contribute to our understanding of family relationships.</p><p id="P18">Homeostasis is a concept fundamental to systems theory. It is achieved by negative feedback loops, which stabilise the system by reducing deviation between goal and performance (cf. missiles). By contrast, positive feedback loops reinforce or amplify deviations, producing novelty and instability and an increase in the complexity of the system, leading to new properties. Applying this understanding to social relationships, which are of central importance to psychiatry, feedback represents the direct perceptual report of the effect of one's behaviour on others, for example, the perception of a smile in response to one's own smile.</p><p id="P19">Robert Dubin considers that the difficulty of avoiding linear thinking stems from our propensity to look for isolatable one-way causes.<sup><xref rid="R8" ref-type="bibr">8</xref></sup> Feedback processes can easily be overlooked, not only because the linear perspective is the dominant mode, but also because they tend to be unnoticed owing to their very pervasiveness.</p><p id="P20">Earlier I stated that one compelling reason for working with high expressed emotion families was, I quote myself, &#x02018;to determine the direction of causality&#x02019;. You will now recognise this as a prime example of linear thinking. In actuality I was aware that there were multiplex interactions between patients and their family carers, but this was too complex to investigate at that time.</p><p id="P21">Now I will give you some practical advice on initiating research and carrying it through to publication.</p></sec><sec disp-level="2" id="S8"><title>Lesson 8: searching the literature</title><p id="P22">Electronic databases have made this much simpler and more efficient. Decide on the criteria for your search, and be overinclusive rather than underinclusive (obviously, irrelevant papers can be deleted without needing to read them). Summarise what has been established. This requires a critical attitude to research by others, however eminent they may be. Weigh up the evidence and come to a conclusion. This may be that the question you formulated has been adequately answered, in which case, back to the drawing board!</p></sec><sec disp-level="2" id="S9"><title>Lesson 9: focus on a single topic</title><p id="P23">Avoid being too ambitious. If your initial project produces useful results, you can always extend it. Seek advice from experienced colleagues. They can warn you about pitfalls in your chosen area of research.</p></sec><sec disp-level="2" id="S10"><title>Lesson 10: applying for funding</title><p id="P24">When applying for funding, choose the funding body carefully, paying close attention to their mission statement. It is often worthwhile beginning with a pilot study which can be mounted with minimal or no costs. For instance, determining whether your catchment area will provide sufficient patients for your study. This will show potential funders that you are a serious contender.</p></sec><sec disp-level="2" id="S11"><title>Lesson 11: anticipate the concerns of the ethics and research and development committees</title><p id="P25">Gaining approval from these committees is now an obligatory hurdle to surmount. There are a number of actions you can take to improve your chances of being approved. Anticipate objections from committee members, and be prepared to be able to counter them. In my recent trial of avatar therapy, I anticipated that there would be anxiety in the committee about patients' response to being faced with their persecutor in the shape of the avatar. Therefore, with the aid of my IT specialist, we constructed a bright red &#x02018;stress button&#x02019; which the patient could press in case of high anxiety or for any other reason. This switched off the avatar image on the monitor, which was replaced by an image of a tropical beach with <italic>The Four Seasons</italic> by Vivaldi playing in the background. In the event, only 2 patients out of 18 pressed the stress button, and both were able to continue with the session after reassurance.</p></sec><sec disp-level="2" id="S12"><title>Lesson 12: appreciate the value of user-researchers</title><p id="P26">Involve service users in your study. They should certainly be asked to read the instructions for potential participants, and to suggest changes to the wording. Users can be recruited to play a more important role in your study. The IoPPN has established a list of user-researchers. These are users who have largely recovered from a psychiatric illness and are willing and able to be trained in research procedures. For example, in my avatar therapy trial, I employed a user-researcher who had heard voices himself 8 years previously and was now completely well. I trained him in the assessment tools and he achieved high interrater reliability with me, enabling him to undertake the role of an independent assessor, for which of course he was paid. The employment of users will be greatly appreciated by the ethical committee. If you do appoint a user-researcher, they must be included as an author.</p></sec><sec disp-level="2" id="S13"><title>Lesson 13: team building</title><p id="P27">If you are ambitious and wish to undertake a major study you will need a team, preferably multidisciplinary in nature. Diversity of professional expertise is an asset, as we experienced in our development of working with families. Consult a statistician early on in designing the study. Statisticians are understandably grumpy if they are asked at the last minute to conduct the data analysis without having given any prior input. Develop a cohesive group and deal with rivalry. The media often depict research as a gentlemanly pursuit of the truth. That is a fallacy. There are glittering prizes to be won through research, and the world of research is as competitive and cut-throat as multinational capitalism.</p><p id="P28">Be fair to junior members of the team. Encourage and support them and give them experience in presenting and appropriate representation in publications. In mid-career I left the Maudsley to take charge of a dysfunctional research group working in a traditional psychiatric hospital. It had been managed by two absentee directors and was in a state of anarchy, with one member of staff suing the directors. The aggrieved staff member left and I had to dismiss another member of staff. I knew my intervention would be resented so introduced a Friday lunch-time picnic in the extensive grounds of the old psychiatric hospital, followed by a game of croquet on the lawn next to the former medical superintendent's villa. I reasoned that being able to knock my balls around would diffuse aggression, and so it did.</p><p id="P29">There were two reasons for my leaving the Maudsley to work in Friern, a typical 19th-century asylum. One was to emerge from the shadow cast by John Wing, the director of the Medical Research Council Social Psychiatry Unit. Although John left me to pursue my own research interests, he was nearing retirement and I knew that to stand a chance of taking over the directorship of the Unit, I would have to prove that I was capable of mounting important research independently from him. The other reason was the split in the profession of psychiatry between the academics and psychiatrists working in provincial hospitals; the latter felt overburdened by their workload and disregarded by the academics, whom they saw as existing in a &#x02018;cloud 9&#x02019; environment, protected from the realities of jobbing psychiatry. Given that in that era the great majority of psychiatrists were working in antiquated buildings, with insufficient support from psychologists, occupational therapists and other ancillary staff, I felt that I needed to experience the reality of life in an asylum.</p><p id="P30">It felt to me like another world. The Italianate Gothic frontage was forbidding, as was the original plaque designating the building as the West Sussex Pauper Lunatic Asylum. The entrance corridor was a third of a mile long. At that time it was the longest hospital corridor in Europe. It had windows throughout its length, but they were so low I could only see through them by stooping uncomfortably. At the end of the corridor was a faint glimmer of light from the world outside. Despite the gloom that descended on me, in time I began to appreciate the good qualities of Friern. It was set in extensive grounds, which included a football field and a 9-hole golf course, on which I never saw anyone playing. There was a chapel and a synagogue, and a factory outlet where low-cost clothes were available. Although the main gate was always open, very few patients ventured out into the street. Patients wandered around the grounds unhindered and sexual liaisons were undoubtedly formed, as one of the long-stay patients in my care regularly developed gonorrhoea. I began to appreciate how easy it would be to become accustomed to the environment of the asylum and to forget the existence of the outside world.</p></sec><sec disp-level="2" sec-type="subjects" id="S14"><title>Lesson 14: the staff in an institution are often more institutionalised than the patients</title><p id="P31">Not long after I moved to Friern Hospital the Regional Health Authority decided to close Friern and Claybury hospitals in accord with the government policy of that time. I realised that this was a unique opportunity to evaluate this policy. I succeeded in obtaining funding from the Regional Health Authority, later supplemented by funding from the Department of Health. This enabled me to form a group of researchers under the title of TAPS: The Team for the Assessment of Psychiatric Services. Friern Hospital had been opened in 1851 with 1000 beds. The number of patients grew exponentially, reaching 2500 in the 1940s. The discharges of many patients between 1940 and the beginning of the TAPS programme had reduced the number of long-stay patients to 800.</p><p id="P32">The first step in the TAPS project was to conduct a comprehensive assessment of the symptoms and the problem behaviours of all the remaining patients in the two hospitals who did not have dementia. Complete data on all 700 patients were collected by the team, a mammoth undertaking. A 5-year follow-up was conducted on this group of patients, of whom only a tiny number were lost to the study, thanks to the efforts of the excellent administrative assistant who made regular checks on the patients' locations in the community. Meanwhile, an extraneous researcher, not a TAPS member, carried out a survey of all the nursing staff looking after the remaining patients, asking them to estimate the number of patients who could be resettled in the community. The total percentage estimated by the nursing staff was one-third. If this was accurate, the possibility of closing the two hospitals within the 10-year limit set by the managers was negligible. However, the TAPS team had already begun asking individual patients for their preferences when the hospitals closed: one-third wanted to leave the hospital and live in the community, one-third opted to stay in the hospital and one-third were uncertain. In the event, all the patients considered suitable to live in the sheltered homes in the community by the resettlement teams adapted well to life in the outside world, and when asked where they would prefer to live a year later, 84% wanted to stay where they were.<sup><xref rid="R9" ref-type="bibr">9</xref></sup></p><p id="P33">Friern hospital did close on time 10 years after the decanting began.The Claybury closure was delayed because the consultants there went on strike against the closure decision, but the strike collapsed after 6 months and the closure went ahead. So psychiatrists can be as institutionalised as nursing staff.</p></sec><sec disp-level="2" id="S15"><title>Lesson 15: presenting at conferences</title><p id="P34">Always try out your presentations with a sympathetic audience and take note of their criticisms and comments. The golden rule for slides is &#x02018;never put more on a slide than you can get on a T-shirt&#x02019;. I am often amazed at seeing experienced researchers cramming a slide with illegible lists of data and <italic>P</italic>-values and then saying to the audience, &#x02018;You probably won't be able to read this but what it shows is &#x02026; &#x02019; &#x02013; if it can't be read, don't show it!</p></sec><sec disp-level="2" sec-type="results" id="S16"><title>Lesson 16: writing up the results</title><p id="P35">Avoid the pall of conventional scientific writing. Break through the conventional anonymity of the passive voice. Humanise your writing to make it attractive to the reader. Keep the language simple and avoid too many technical terms. Always spell out abbreviations the first time they appear in a paper, including the abstract. Pay special attention to the clarity and layout of tables and figures &#x02013; ensure that they are essential for the understanding of your results. Editors dislike large numbers of tables and figures since they occupy space that could be used to publish another paper. Avoid duplicating results in the text as well as in tabular form.</p></sec><sec disp-level="2" id="S17"><title>Lesson 17: submission to a journal</title><p id="P36">Choose the journal carefully, surveying past issues for the types of papers published. Always read instructions to authors with great care and observe them, particularly the word limit &#x02013; if you exceed this, your paper will bounce back rapidly. Find out the proportion of submissions accepted, if possible. Always treat the reviewers' comments seriously and couch your responses respectfully, even if you think the reviewers are idiots. Don't give up at the first rejection, but look for alternative journals. There are so many journals being published now that there is considerable overlap in their remit. If you are inexperienced, do not be too ambitious in choosing a journal with a high impact factor. I sent my recent paper on avatar therapy serially to <italic>Nature, New Scientist</italic> and <italic>Archives of General Psychiatry</italic>, all of which rejected it without sending it for review. So much for hubris! It was eventually published in the <italic>British Journal of Psychiatry</italic>. I was mollified when following a press conference the paper went global.</p></sec><sec disp-level="2" id="S18"><title>Maintaining safety</title><p id="P37">I am interpolating this issue, not to raise your anxieties, but to convey the important advice I received from a senior colleague early in my clinical career. What he said was &#x02018;never let the patient get between you and the exit door of your clinic&#x02019;. A colleague and friend of mine at the Maudsley Hospital was unaware of this advice and preceded the patient into his clinic; the patient then stabbed him in the back with a pair of scissors. Fortunately, the wound was superficial.</p></sec><sec id="S19"><title>Finale</title><p id="P38">Do not be put off by the hard work and inevitable disappointments. They are more than compensated for by the intellectual excitement generated by research and the knowledge that you are improving the lives of your patients.</p></sec></body><back><fn-group><fn fn-type="COI-statement"><p><bold>Declaration of interest</bold> None.</p></fn></fn-group><ref-list><title>References</title><ref id="R1"><label>1</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Leff</surname><given-names>J</given-names></name><name name-style="western"><surname>Williams</surname><given-names>G</given-names></name><name name-style="western"><surname>Huckvale</surname><given-names>M</given-names></name><name name-style="western"><surname>Arbuthnot</surname><given-names>M</given-names></name><name name-style="western"><surname>Leff</surname><given-names>AP</given-names></name></person-group>
+                </corresp>
+                <fn>
+                    <p>
+                        <bold>Julian Leff</bold> is an Honorary Professor at University College London and the University of Cape Town, and Emeritus Professor at the Institute of Psychiatry, King's College London.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="ppub">
+                <month>2</month>
+                <year>2017</year>
+            </pub-date>
+            <volume>41</volume>
+            <issue>1</issue>
+            <fpage>51</fpage>
+            <lpage>55</lpage>
+            <history>
+                <date date-type="received">
+                    <day>13</day>
+                    <month>7</month>
+                    <year>2015</year>
+                </date>
+                <date date-type="rev-recd">
+                    <day>26</day>
+                    <month>10</month>
+                    <year>2015</year>
+                </date>
+                <date date-type="accepted">
+                    <day>24</day>
+                    <month>2</month>
+                    <year>2016</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>&#x000a9; 2017 The Author</copyright-statement>
+                <copyright-year>2017</copyright-year>
+                <license license-type="creative-commons" xlink:href="http://creativecommons.org/licenses/by/4.0">
+                    <license-p>This is an open-access article published by the Royal College of Psychiatrists and distributed under the terms of the Creative Commons Attribution License (<uri xlink:href="http://creativecommons.org/licenses/by/4.0">http://creativecommons.org/licenses/by/4.0</uri>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <self-uri xlink:title="pdf" xlink:href="51.pdf" />
+            <abstract>
+                <p id="P1">This paper is something of a patchwork, incorporating many issues that have intrigued me during 34 years of research. I have included the importance of maintaining a solid base in clinical work, alongside research activities, and being alert to the possibility of a somatic condition contributing to psychiatric symptoms. I stress the value of careful observation of patients, their response to treatments and reasons for dropping out. In addition, I have included 14 more lessons, learned from my experience of research, which I hope will be of use to those readers who aspire to become researchers.</p>
+            </abstract>
+        </article-meta>
+    </front>
+    <body>
+        <p id="P2">I was attracted to psychiatry by my experience as a medical student at University College Hospital. Students on the psychiatry firm were expected to take on a psychotherapy patient, supervised by one of the senior therapists. This was the first time in my medical training that I felt valued as a clinician and treated as a responsible adult. (There is an important lesson here for improving the very low recruitment of medical students to psychiatry.)</p>
+        <p id="P3">Having graduated as a doctor I was keen to begin my study of psychiatry and sought advice from Sir Martin Roth, president of the Royal College of Psychiatrists at that time. He was adamant that I had to obtain the Membership of the Royal College of Physicians before applying for training in psychiatry. This was daunting as the Physicians' exam had a very low pass rate. I spent 3 arduous years as house officer in hospitals in London's East End before passing the exam. However, in a strange way it felt like coming home. This was because my father and his family lived in a house in the East End, at least until it was completely destroyed by a German bomb. By working with East Enders I learned to appreciate the fortitude and strength of people in the lowest stratum of society, and I never forgot that.</p>
+        <p id="P4">Throughout my career I always continued with clinical work alongside my role as director of two research teams, holding weekly out-patient clinics and having consultant responsibility for half an acute admission ward at the Maudsley Hospital and later at Friern Hospital. In addition, I supervised community mental health teams for their work with families. In this paper I will present the important things I have learned from both my clinical and my research activities.</p>
+        <p id="P5">Becoming a Fellow of the Royal College of Physicians (FRCP), I applied to the Maudsley training scheme and was accepted. When I met the other trainees in my intake, I found to my chagrin that only half of them had passed the Physicians' exam. There was one occasion in my psychiatric practice when my medical expertise proved its value. An out-patient in my clinic was complaining of anxiety and breathlessness, specifically when leaving her home and being in crowds. Naturally, I diagnosed a phobic condition and prescribed an anxiolytic. As she was about to leave the clinic, she said, &#x02018;By the way, doctor, I have a rash on my legs&#x02019;. I asked her to show it to me and immediately recognised the raised purplish bumps of erythema nodosum. I referred her to the medical specialists who took over the treatment of her medical condition and cured her of her breathlessness.</p>
+        <sec disp-level="2" id="S1">
+            <title>Lesson 1: always bear in mind the possibility of an underlying medical condition</title>
+            <p id="P6">There is an expanding literature on comorbidity between psychiatric and medical conditions that partly contributes to the high mortality rate in psychiatric patients.</p>
+        </sec>
+        <sec disp-level="2" sec-type="subjects" id="S2">
+            <title>Lesson 2: make careful observations on patients and their response to treatments</title>
+            <p id="P7">Observant clinicians remain curious about puzzling aspects of everyday psychiatry, and this attitude can stimulate research projects which have the potential to lead to breakthroughs in psychiatric treatments. For example, my concern about the failure of antipsychotic medication to suppress auditory hallucinations in one in four patients led me to develop avatar therapy,<sup>
+                <xref rid="R1" ref-type="bibr">1</xref>
+            </sup> a novel and effective treatment for this debilitating condition.</p>
+    </sec>
+    <sec disp-level="2" sec-type="subjects" id="S3">
+        <title>Lesson 3: always listen carefully to the patient's narrative</title>
+        <p id="P8">Do not dismiss the patient's belief about the cause and nature of their illness. It has been shown that the greater the disparity between the patient's and the physician's understanding of the patient's illness, the less likely the patient is to adhere to the prescribed treatment. The same caveat applies to the family carers' beliefs about the patient's illness, even if they depart widely from your own understanding. UK psychologists were the first to adapt Beck's cognitive therapy for depression to treat psychosis (CBTp). My experience of working with family carers of people with schizophrenia taught me that many low expressed emotion family carers had developed effective coping strategies for dealing with the patient's difficult behaviour, for example, distraction, reality testing and time out, which closely resembled CBTp. If professionals had listened to these family carers, and given credence to their narratives, they would have introduced CBTp much earlier, saving considerable suffering. While CBTp alleviates the anxiety of patients with persecutory auditory hallucinations, it has little impact on their frequency or volume, as opposed to avatar therapy.<sup>
+            <xref rid="R1" ref-type="bibr">1</xref>
+        </sup>
+    </p>
+</sec>
+<sec disp-level="2" id="S4">
+    <title>Lesson 4: the value of qualitative studies</title>
+    <p id="P9">Qualitative studies provide information of a different nature to quantitative studies, such as patients' experience of novel therapies, but they are of equal importance. Quantitative and qualitative studies are not in competition, but complement each other and are very informative when employed in tandem. An example is the current large-scale replication study of the value of avatar therapy.<sup>
+        <xref rid="R2" ref-type="bibr">2</xref>
+    </sup> Standard quantitative measures of the participants' assessment of the power and malignancy of their persecutory voices are augmented by the participants' accounts of their experience of standing up to the avatar they have created as a proxy for their persecutor.</p>
+</sec>
+<sec disp-level="2" id="S5">
+<title>Lesson 5: it is all too easy to become fascinated with esoteric research and to allow its demands to divert you away from basic clinical work</title>
+<p id="P10">Working with patients is the crucible that generates the questions that inspire research projects. I cannot emphasise enough the importance of maintaining contact with everyday psychiatric patients, and not being lured exclusively by the glamour of exotic conditions. When I was granted a chair, I was the only professor in the Institute of Psychiatry (now Institute of Psychiatry, Psychology and Neuroscience (IoPPN), King's College London) who held clinics for local patients. Happily, that situation has now changed.</p>
+<p id="P11">My research career began in earnest in 1968 when I was offered a position in John Wing's Medical Research Council Social Psychiatry Unit at the Institute of Psychiatry. I spent 34 years as a researcher, focusing mainly, but not exclusively, on psychosis. Many of the important lessons I learned were as a result of my research experiences, and it is these I wish to share with you, in the hope that they will inspire you to undertake your own research projects. There are so many unanswered questions in psychiatry that we need many more researchers to tackle these. Sir Aubrey Lewis, who founded the Institute of Psychiatry, was dedicated to promoting research and insisted that trainees conduct their own research project in order to pass their final exam. Sadly this requirement lapsed after Sir Aubrey retired.</p>
+</sec>
+<sec disp-level="2" id="S6">
+<title>Lesson 6: formulating a question</title>
+<p id="P12">Junior colleagues would often approach me, eyes shining with excitement, saying that they wanted to do research &#x02018;with a capital R&#x02019;. I would then ask them what they would like to do their research on and would be met by a baffled silence, clearly expecting me to spell out a project for them. If a topic engages your curiosity, you need to do some hard thinking and formulate a question that you want to answer. A well-constructed question can be developed into a series of hypotheses, which will determine the trajectory of your research project. A well-designed research study will always generate new unanswered questions that will then form the basis for the next study. The results of a research project you did not expect are as important as those you anticipated, and should lead you on to a new study. Consider the following sequence.</p>
+<p id="P13">When Christine Vaughn joined the Social Psychiatry Unit, she decided that she wanted to embark on a PhD to replicate the findings of Brown, Birley and Wing that high expressed emotion in family carers significantly predicted relapse of schizophrenia.<sup>
+    <xref rid="R3" ref-type="bibr">3</xref>
+</sup> This pioneering study was surprisingly neglected by the psychiatric community, probably because of the prevailing adherence to biological explanations for schizophrenia. Christine and I decided that a replication would attract the attention these findings deserved.</p>
+<p id="P14">We discussed collaborating on this project and I suggested that it would add value to the research if we included a group of patients with depressive disorder to ascertain whether expressed emotion was a specific predictor for schizophrenia or whether it would predict relapse of depression as well. In the event it turned out to be a more potent predictor for relapse of depression than for relapse of schizophrenia, as shown by Jill Hooley in her PhD in the USA.<sup>
+<xref rid="R4" ref-type="bibr">4</xref>
+</sup> In addition, our study replicated the protective effects of medication and low contact with the carer against the stress of high expressed emotion that the earlier study had revealed. This stimulated me to consider the possibility of intervening in high expressed emotion families to lower expressed emotion and contact between the patient and the family carers. There were two compelling reasons for this: primarily, to determine the direction of causality (do high expressed emotion attitudes cause relapse of schizophrenia or does the patient's disturbed behaviour provoke high expressed emotion attitudes?); and also to determine whether our family interventions could improve the outcome of schizophrenia.</p>
+<p id="P15">For this project I assembled a team of therapists with different areas of expertise: a cognitive-behavioural therapist with experience of working with groups, a psychodynamic psychiatrist, a psychiatrist from Germany who was a trained psychoanalyst and myself as an eclectic therapist with no strong adherence to any one theory of family functioning. The therapy used by this heterogeneous team was remarkably effective, succeeding in reducing the patients' relapse rate over 9 months from 50% to less than 10%.<sup>
+<xref rid="R5" ref-type="bibr">5</xref>
+</sup> The success of this trial led to two more randomised controlled trials (RCTs), including a cost-benefit study. The accumulation of this evidence plus ten replications in different countries led the National Institute for Health and Clinical Excellence (NICE) to recommend that family carers of a patient with schizophrenia must have professional input. This outcome justified the 15 years it took to complete the sequence of RCTs.</p>
+</sec>
+<sec disp-level="2" id="S7">
+<title>Lesson 7: the danger of linear thinking</title>
+<p id="P16">Linear thinking results from the idea that causal action flows in one direction only, from cause to effect, from producer to produced, analogous to a series of billiard balls in motion. The issue of linear thinking in the social sciences, including psychiatry, merits some discussion.</p>
+<p id="P17">Linear thinking forms the basis of almost all biological research in psychiatry. It has a long history, having been first formulated by the Greek philosophers Anaximander and Plato. In the modern era, Von Bertalanffy was the first to challenge linear thinking.<sup>
+<xref rid="R6" ref-type="bibr">6</xref>
+</sup> He stated that we must think in terms of systems of elements in mutual interaction. At that time, the development of cybernetics promoted systems thinking. The process of feedback whereby missiles could monitor and correct their trajectory was recognised as analogous to the biological system's capacity to maintain and organise itself in nature. This formulation was seen as very relevant to the process of family therapy. The family theorist Gregory Bateson wrote: &#x02018;I think that cybernetics is the biggest bite out of the Tree of Knowledge that mankind has taken in the last 2000 years&#x02019;.<sup>
+<xref rid="R7" ref-type="bibr">7</xref>
+</sup> It is ironic that a technology developed to destroy human beings should contribute to our understanding of family relationships.</p>
+<p id="P18">Homeostasis is a concept fundamental to systems theory. It is achieved by negative feedback loops, which stabilise the system by reducing deviation between goal and performance (cf. missiles). By contrast, positive feedback loops reinforce or amplify deviations, producing novelty and instability and an increase in the complexity of the system, leading to new properties. Applying this understanding to social relationships, which are of central importance to psychiatry, feedback represents the direct perceptual report of the effect of one's behaviour on others, for example, the perception of a smile in response to one's own smile.</p>
+<p id="P19">Robert Dubin considers that the difficulty of avoiding linear thinking stems from our propensity to look for isolatable one-way causes.<sup>
+<xref rid="R8" ref-type="bibr">8</xref>
+</sup> Feedback processes can easily be overlooked, not only because the linear perspective is the dominant mode, but also because they tend to be unnoticed owing to their very pervasiveness.</p>
+<p id="P20">Earlier I stated that one compelling reason for working with high expressed emotion families was, I quote myself, &#x02018;to determine the direction of causality&#x02019;. You will now recognise this as a prime example of linear thinking. In actuality I was aware that there were multiplex interactions between patients and their family carers, but this was too complex to investigate at that time.</p>
+<p id="P21">Now I will give you some practical advice on initiating research and carrying it through to publication.</p>
+</sec>
+<sec disp-level="2" id="S8">
+<title>Lesson 8: searching the literature</title>
+<p id="P22">Electronic databases have made this much simpler and more efficient. Decide on the criteria for your search, and be overinclusive rather than underinclusive (obviously, irrelevant papers can be deleted without needing to read them). Summarise what has been established. This requires a critical attitude to research by others, however eminent they may be. Weigh up the evidence and come to a conclusion. This may be that the question you formulated has been adequately answered, in which case, back to the drawing board!</p>
+</sec>
+<sec disp-level="2" id="S9">
+<title>Lesson 9: focus on a single topic</title>
+<p id="P23">Avoid being too ambitious. If your initial project produces useful results, you can always extend it. Seek advice from experienced colleagues. They can warn you about pitfalls in your chosen area of research.</p>
+</sec>
+<sec disp-level="2" id="S10">
+<title>Lesson 10: applying for funding</title>
+<p id="P24">When applying for funding, choose the funding body carefully, paying close attention to their mission statement. It is often worthwhile beginning with a pilot study which can be mounted with minimal or no costs. For instance, determining whether your catchment area will provide sufficient patients for your study. This will show potential funders that you are a serious contender.</p>
+</sec>
+<sec disp-level="2" id="S11">
+<title>Lesson 11: anticipate the concerns of the ethics and research and development committees</title>
+<p id="P25">Gaining approval from these committees is now an obligatory hurdle to surmount. There are a number of actions you can take to improve your chances of being approved. Anticipate objections from committee members, and be prepared to be able to counter them. In my recent trial of avatar therapy, I anticipated that there would be anxiety in the committee about patients' response to being faced with their persecutor in the shape of the avatar. Therefore, with the aid of my IT specialist, we constructed a bright red &#x02018;stress button&#x02019; which the patient could press in case of high anxiety or for any other reason. This switched off the avatar image on the monitor, which was replaced by an image of a tropical beach with <italic>The Four Seasons</italic> by Vivaldi playing in the background. In the event, only 2 patients out of 18 pressed the stress button, and both were able to continue with the session after reassurance.</p>
+</sec>
+<sec disp-level="2" id="S12">
+<title>Lesson 12: appreciate the value of user-researchers</title>
+<p id="P26">Involve service users in your study. They should certainly be asked to read the instructions for potential participants, and to suggest changes to the wording. Users can be recruited to play a more important role in your study. The IoPPN has established a list of user-researchers. These are users who have largely recovered from a psychiatric illness and are willing and able to be trained in research procedures. For example, in my avatar therapy trial, I employed a user-researcher who had heard voices himself 8 years previously and was now completely well. I trained him in the assessment tools and he achieved high interrater reliability with me, enabling him to undertake the role of an independent assessor, for which of course he was paid. The employment of users will be greatly appreciated by the ethical committee. If you do appoint a user-researcher, they must be included as an author.</p>
+</sec>
+<sec disp-level="2" id="S13">
+<title>Lesson 13: team building</title>
+<p id="P27">If you are ambitious and wish to undertake a major study you will need a team, preferably multidisciplinary in nature. Diversity of professional expertise is an asset, as we experienced in our development of working with families. Consult a statistician early on in designing the study. Statisticians are understandably grumpy if they are asked at the last minute to conduct the data analysis without having given any prior input. Develop a cohesive group and deal with rivalry. The media often depict research as a gentlemanly pursuit of the truth. That is a fallacy. There are glittering prizes to be won through research, and the world of research is as competitive and cut-throat as multinational capitalism.</p>
+<p id="P28">Be fair to junior members of the team. Encourage and support them and give them experience in presenting and appropriate representation in publications. In mid-career I left the Maudsley to take charge of a dysfunctional research group working in a traditional psychiatric hospital. It had been managed by two absentee directors and was in a state of anarchy, with one member of staff suing the directors. The aggrieved staff member left and I had to dismiss another member of staff. I knew my intervention would be resented so introduced a Friday lunch-time picnic in the extensive grounds of the old psychiatric hospital, followed by a game of croquet on the lawn next to the former medical superintendent's villa. I reasoned that being able to knock my balls around would diffuse aggression, and so it did.</p>
+<p id="P29">There were two reasons for my leaving the Maudsley to work in Friern, a typical 19th-century asylum. One was to emerge from the shadow cast by John Wing, the director of the Medical Research Council Social Psychiatry Unit. Although John left me to pursue my own research interests, he was nearing retirement and I knew that to stand a chance of taking over the directorship of the Unit, I would have to prove that I was capable of mounting important research independently from him. The other reason was the split in the profession of psychiatry between the academics and psychiatrists working in provincial hospitals; the latter felt overburdened by their workload and disregarded by the academics, whom they saw as existing in a &#x02018;cloud 9&#x02019; environment, protected from the realities of jobbing psychiatry. Given that in that era the great majority of psychiatrists were working in antiquated buildings, with insufficient support from psychologists, occupational therapists and other ancillary staff, I felt that I needed to experience the reality of life in an asylum.</p>
+<p id="P30">It felt to me like another world. The Italianate Gothic frontage was forbidding, as was the original plaque designating the building as the West Sussex Pauper Lunatic Asylum. The entrance corridor was a third of a mile long. At that time it was the longest hospital corridor in Europe. It had windows throughout its length, but they were so low I could only see through them by stooping uncomfortably. At the end of the corridor was a faint glimmer of light from the world outside. Despite the gloom that descended on me, in time I began to appreciate the good qualities of Friern. It was set in extensive grounds, which included a football field and a 9-hole golf course, on which I never saw anyone playing. There was a chapel and a synagogue, and a factory outlet where low-cost clothes were available. Although the main gate was always open, very few patients ventured out into the street. Patients wandered around the grounds unhindered and sexual liaisons were undoubtedly formed, as one of the long-stay patients in my care regularly developed gonorrhoea. I began to appreciate how easy it would be to become accustomed to the environment of the asylum and to forget the existence of the outside world.</p>
+</sec>
+<sec disp-level="2" sec-type="subjects" id="S14">
+<title>Lesson 14: the staff in an institution are often more institutionalised than the patients</title>
+<p id="P31">Not long after I moved to Friern Hospital the Regional Health Authority decided to close Friern and Claybury hospitals in accord with the government policy of that time. I realised that this was a unique opportunity to evaluate this policy. I succeeded in obtaining funding from the Regional Health Authority, later supplemented by funding from the Department of Health. This enabled me to form a group of researchers under the title of TAPS: The Team for the Assessment of Psychiatric Services. Friern Hospital had been opened in 1851 with 1000 beds. The number of patients grew exponentially, reaching 2500 in the 1940s. The discharges of many patients between 1940 and the beginning of the TAPS programme had reduced the number of long-stay patients to 800.</p>
+<p id="P32">The first step in the TAPS project was to conduct a comprehensive assessment of the symptoms and the problem behaviours of all the remaining patients in the two hospitals who did not have dementia. Complete data on all 700 patients were collected by the team, a mammoth undertaking. A 5-year follow-up was conducted on this group of patients, of whom only a tiny number were lost to the study, thanks to the efforts of the excellent administrative assistant who made regular checks on the patients' locations in the community. Meanwhile, an extraneous researcher, not a TAPS member, carried out a survey of all the nursing staff looking after the remaining patients, asking them to estimate the number of patients who could be resettled in the community. The total percentage estimated by the nursing staff was one-third. If this was accurate, the possibility of closing the two hospitals within the 10-year limit set by the managers was negligible. However, the TAPS team had already begun asking individual patients for their preferences when the hospitals closed: one-third wanted to leave the hospital and live in the community, one-third opted to stay in the hospital and one-third were uncertain. In the event, all the patients considered suitable to live in the sheltered homes in the community by the resettlement teams adapted well to life in the outside world, and when asked where they would prefer to live a year later, 84% wanted to stay where they were.<sup>
+<xref rid="R9" ref-type="bibr">9</xref>
+</sup>
+</p>
+<p id="P33">Friern hospital did close on time 10 years after the decanting began.The Claybury closure was delayed because the consultants there went on strike against the closure decision, but the strike collapsed after 6 months and the closure went ahead. So psychiatrists can be as institutionalised as nursing staff.</p>
+</sec>
+<sec disp-level="2" id="S15">
+<title>Lesson 15: presenting at conferences</title>
+<p id="P34">Always try out your presentations with a sympathetic audience and take note of their criticisms and comments. The golden rule for slides is &#x02018;never put more on a slide than you can get on a T-shirt&#x02019;. I am often amazed at seeing experienced researchers cramming a slide with illegible lists of data and <italic>P</italic>-values and then saying to the audience, &#x02018;You probably won't be able to read this but what it shows is &#x02026; &#x02019; &#x02013; if it can't be read, don't show it!</p>
+</sec>
+<sec disp-level="2" sec-type="results" id="S16">
+<title>Lesson 16: writing up the results</title>
+<p id="P35">Avoid the pall of conventional scientific writing. Break through the conventional anonymity of the passive voice. Humanise your writing to make it attractive to the reader. Keep the language simple and avoid too many technical terms. Always spell out abbreviations the first time they appear in a paper, including the abstract. Pay special attention to the clarity and layout of tables and figures &#x02013; ensure that they are essential for the understanding of your results. Editors dislike large numbers of tables and figures since they occupy space that could be used to publish another paper. Avoid duplicating results in the text as well as in tabular form.</p>
+</sec>
+<sec disp-level="2" id="S17">
+<title>Lesson 17: submission to a journal</title>
+<p id="P36">Choose the journal carefully, surveying past issues for the types of papers published. Always read instructions to authors with great care and observe them, particularly the word limit &#x02013; if you exceed this, your paper will bounce back rapidly. Find out the proportion of submissions accepted, if possible. Always treat the reviewers' comments seriously and couch your responses respectfully, even if you think the reviewers are idiots. Don't give up at the first rejection, but look for alternative journals. There are so many journals being published now that there is considerable overlap in their remit. If you are inexperienced, do not be too ambitious in choosing a journal with a high impact factor. I sent my recent paper on avatar therapy serially to <italic>Nature, New Scientist</italic> and <italic>Archives of General Psychiatry</italic>, all of which rejected it without sending it for review. So much for hubris! It was eventually published in the <italic>British Journal of Psychiatry</italic>. I was mollified when following a press conference the paper went global.</p>
+</sec>
+<sec disp-level="2" id="S18">
+<title>Maintaining safety</title>
+<p id="P37">I am interpolating this issue, not to raise your anxieties, but to convey the important advice I received from a senior colleague early in my clinical career. What he said was &#x02018;never let the patient get between you and the exit door of your clinic&#x02019;. A colleague and friend of mine at the Maudsley Hospital was unaware of this advice and preceded the patient into his clinic; the patient then stabbed him in the back with a pair of scissors. Fortunately, the wound was superficial.</p>
+</sec>
+<sec id="S19">
+<title>Finale</title>
+<p id="P38">Do not be put off by the hard work and inevitable disappointments. They are more than compensated for by the intellectual excitement generated by research and the knowledge that you are improving the lives of your patients.</p>
+</sec>
+</body>
+<back>
+<fn-group>
+<fn fn-type="COI-statement">
+<p>
+<bold>Declaration of interest</bold> None.</p>
+</fn>
+</fn-group>
+<ref-list>
+<title>References</title>
+<ref id="R1">
+<label>1</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Leff</surname>
+<given-names>J</given-names>
+</name>
+<name name-style="western">
+<surname>Williams</surname>
+<given-names>G</given-names>
+</name>
+<name name-style="western">
+<surname>Huckvale</surname>
+<given-names>M</given-names>
+</name>
+<name name-style="western">
+<surname>Arbuthnot</surname>
+<given-names>M</given-names>
+</name>
+<name name-style="western">
+<surname>Leff</surname>
+<given-names>AP</given-names>
+</name>
+</person-group>
 <article-title>Avatar therapy for persecutory auditory hallucinations: what is it and how does it work?</article-title>
 <source>Psychosis</source>
-<year>2014</year>; <volume>6</volume>: <fpage>166</fpage>&#x02013;<lpage>76</lpage>.
-<pub-id pub-id-type="pmid">24999369</pub-id></mixed-citation></ref><ref id="R2"><label>2</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Craig</surname><given-names>TK</given-names></name><name name-style="western"><surname>Rus-Calafell</surname><given-names>M</given-names></name><name name-style="western"><surname>Ward</surname><given-names>T</given-names></name><name name-style="western"><surname>Fornells-Ambrojo</surname><given-names>M</given-names></name><name name-style="western"><surname>McCrone</surname><given-names>P</given-names></name><name name-style="western"><surname>Emsley</surname><given-names>R</given-names></name><etal/></person-group>
-<article-title>The effects of an Audio Visual Assisted Therapy Aid for Refractory auditory hallucinations (AVATAR therapy): study protocol for a randomised controlled trial</article-title>. <source>Trials</source>
-<year>2015</year>; <volume>16</volume>: <fpage>349</fpage>.
-<pub-id pub-id-type="pmid">26269098</pub-id></mixed-citation></ref><ref id="R3"><label>3</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Brown</surname><given-names>GW</given-names></name><name name-style="western"><surname>Birley</surname><given-names>JL</given-names></name><name name-style="western"><surname>Wing</surname><given-names>JK</given-names></name></person-group>
-<article-title>Influence of family life on the course of schizophrenic disorders: a replication</article-title>. <source>Br J Psychiatry</source>
-<year>1972</year>; <volume>121</volume>: <fpage>241</fpage>&#x02013;<lpage>58</lpage>.
-<pub-id pub-id-type="pmid">5073778</pub-id></mixed-citation></ref><ref id="R4"><label>4</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Hooley</surname><given-names>JM</given-names></name><name name-style="western"><surname>Orley</surname><given-names>J</given-names></name><name name-style="western"><surname>Teasdale</surname><given-names>JD</given-names></name></person-group>
-<article-title>Levels of expressed emotion and relapse in depressed patients</article-title>. <source>Br J Psychiatry</source>
-<year>1986</year>; <volume>148</volume>: <fpage>642</fpage>&#x02013;<lpage>7</lpage>.
-<pub-id pub-id-type="pmid">3779242</pub-id></mixed-citation></ref><ref id="R5"><label>5</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Leff</surname><given-names>J</given-names></name><name name-style="western"><surname>Kuipers</surname><given-names>L</given-names></name><name name-style="western"><surname>Berkowitz</surname><given-names>R</given-names></name><name name-style="western"><surname>Eberlein-Vries</surname><given-names>R</given-names></name><name name-style="western"><surname>Sturgeon</surname><given-names>D</given-names></name></person-group>
-<article-title>A controlled trial of social intervention in the families of schizophrenic patients</article-title>. <source>Br J Psychiatry</source>
-<year>1982</year>; <volume>141</volume>: <fpage>121</fpage>&#x02013;<lpage>34</lpage>.
-<pub-id pub-id-type="pmid">7116051</pub-id></mixed-citation></ref><ref id="R6"><label>6</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><name name-style="western"><surname>Von Bertalanffy</surname><given-names>L</given-names></name></person-group>
-<source>General System Theory: Foundations, Development, Applications</source>. <publisher-name>George Braziller</publisher-name>, <year>1968</year>.
-</mixed-citation></ref><ref id="R7"><label>7</label><mixed-citation publication-type="book">
-<person-group person-group-type="author"><name name-style="western"><surname>Bateson</surname><given-names>G</given-names></name></person-group>
-<article-title>From Versailles to Cybernetics</article-title> in <source>Steps to an Ecology of Mind</source>. <publisher-name>University of Chicago Press</publisher-name>, <year>1972</year>.
-</mixed-citation></ref><ref id="R8"><label>8</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Dubin</surname><given-names>R</given-names></name></person-group>
-<article-title>Causality and social systems analysis</article-title>. <source>Int J Gen Syst</source>
-<year>1975</year>; <volume>2</volume>: <fpage>107</fpage>&#x02013;<lpage>13</lpage>.
-</mixed-citation></ref><ref id="R9"><label>9</label><mixed-citation publication-type="journal">
-<person-group person-group-type="author"><name name-style="western"><surname>Leff</surname><given-names>J</given-names></name><name name-style="western"><surname>Trieman</surname><given-names>N</given-names></name></person-group>
-<article-title>Long-stay patients discharged from psychiatric hospitals. Social and clinical outcomes after five years in the community. The TAPS Project 46</article-title>. <source>Br J Psychiatry</source>
-<year>2000</year>; <volume>176</volume>: <fpage>217</fpage>&#x02013;<lpage>23</lpage>.
-<pub-id pub-id-type="pmid">10755067</pub-id></mixed-citation></ref></ref-list></back></article>
+<year>2014</year>;<volume>6</volume>:<fpage>166</fpage>&#x02013;<lpage>76</lpage>.
+<pub-id pub-id-type="pmid">24999369</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R2">
+<label>2</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Craig</surname>
+<given-names>TK</given-names>
+</name>
+<name name-style="western">
+<surname>Rus-Calafell</surname>
+<given-names>M</given-names>
+</name>
+<name name-style="western">
+<surname>Ward</surname>
+<given-names>T</given-names>
+</name>
+<name name-style="western">
+<surname>Fornells-Ambrojo</surname>
+<given-names>M</given-names>
+</name>
+<name name-style="western">
+<surname>McCrone</surname>
+<given-names>P</given-names>
+</name>
+<name name-style="western">
+<surname>Emsley</surname>
+<given-names>R</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>The effects of an Audio Visual Assisted Therapy Aid for Refractory auditory hallucinations (AVATAR therapy): study protocol for a randomised controlled trial</article-title>.<source>Trials</source>
+<year>2015</year>;<volume>16</volume>:<fpage>349</fpage>.
+<pub-id pub-id-type="pmid">26269098</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R3">
+<label>3</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Brown</surname>
+<given-names>GW</given-names>
+</name>
+<name name-style="western">
+<surname>Birley</surname>
+<given-names>JL</given-names>
+</name>
+<name name-style="western">
+<surname>Wing</surname>
+<given-names>JK</given-names>
+</name>
+</person-group>
+<article-title>Influence of family life on the course of schizophrenic disorders: a replication</article-title>.<source>Br J Psychiatry</source>
+<year>1972</year>;<volume>121</volume>:<fpage>241</fpage>&#x02013;<lpage>58</lpage>.
+<pub-id pub-id-type="pmid">5073778</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R4">
+<label>4</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Hooley</surname>
+<given-names>JM</given-names>
+</name>
+<name name-style="western">
+<surname>Orley</surname>
+<given-names>J</given-names>
+</name>
+<name name-style="western">
+<surname>Teasdale</surname>
+<given-names>JD</given-names>
+</name>
+</person-group>
+<article-title>Levels of expressed emotion and relapse in depressed patients</article-title>.<source>Br J Psychiatry</source>
+<year>1986</year>;<volume>148</volume>:<fpage>642</fpage>&#x02013;<lpage>7</lpage>.
+<pub-id pub-id-type="pmid">3779242</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R5">
+<label>5</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Leff</surname>
+<given-names>J</given-names>
+</name>
+<name name-style="western">
+<surname>Kuipers</surname>
+<given-names>L</given-names>
+</name>
+<name name-style="western">
+<surname>Berkowitz</surname>
+<given-names>R</given-names>
+</name>
+<name name-style="western">
+<surname>Eberlein-Vries</surname>
+<given-names>R</given-names>
+</name>
+<name name-style="western">
+<surname>Sturgeon</surname>
+<given-names>D</given-names>
+</name>
+</person-group>
+<article-title>A controlled trial of social intervention in the families of schizophrenic patients</article-title>.<source>Br J Psychiatry</source>
+<year>1982</year>;<volume>141</volume>:<fpage>121</fpage>&#x02013;<lpage>34</lpage>.
+<pub-id pub-id-type="pmid">7116051</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R6">
+<label>6</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Von Bertalanffy</surname>
+<given-names>L</given-names>
+</name>
+</person-group>
+<source>General System Theory: Foundations, Development, Applications</source>.<publisher-name>George Braziller</publisher-name>,<year>1968</year>.
+</mixed-citation>
+</ref>
+<ref id="R7">
+<label>7</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Bateson</surname>
+<given-names>G</given-names>
+</name>
+</person-group>
+<article-title>From Versailles to Cybernetics</article-title> in <source>Steps to an Ecology of Mind</source>.<publisher-name>University of Chicago Press</publisher-name>,<year>1972</year>.
+</mixed-citation>
+</ref>
+<ref id="R8">
+<label>8</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Dubin</surname>
+<given-names>R</given-names>
+</name>
+</person-group>
+<article-title>Causality and social systems analysis</article-title>.<source>Int J Gen Syst</source>
+<year>1975</year>;<volume>2</volume>:<fpage>107</fpage>&#x02013;<lpage>13</lpage>.
+</mixed-citation>
+</ref>
+<ref id="R9">
+<label>9</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Leff</surname>
+<given-names>J</given-names>
+</name>
+<name name-style="western">
+<surname>Trieman</surname>
+<given-names>N</given-names>
+</name>
+</person-group>
+<article-title>Long-stay patients discharged from psychiatric hospitals. Social and clinical outcomes after five years in the community. The TAPS Project 46</article-title>.<source>Br J Psychiatry</source>
+<year>2000</year>;<volume>176</volume>:<fpage>217</fpage>&#x02013;<lpage>23</lpage>.
+<pub-id pub-id-type="pmid">10755067</pub-id>
+</mixed-citation>
+</ref>
+</ref-list>
+</back>
+</article>

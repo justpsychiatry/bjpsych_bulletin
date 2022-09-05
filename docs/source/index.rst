@@ -31,7 +31,6 @@ Contents
    :glob:
    :maxdepth: 1
 
-   ./2023/index.rst
    ./2022/index.rst
    ./2021/index.rst
    ./2020/index.rst
