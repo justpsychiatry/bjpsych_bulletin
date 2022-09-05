@@ -40,12 +40,12 @@ effects other than the induction of cerebral seizure activity. It was
 recognised soon after the introduction of ECT that the stimulus could
 affect the heart, usually causing a bradycardia resulting from the
 electrical stimulation of the motor nucleus of the vagus nerve and
-nucleus ambiguus, within the medulla oblongata.\ :sup:`(n.d.a)` This
+nucleus ambiguus, within the medulla oblongata. :sup:`(n.d.a)` This
 bradycardia can be severe and as long ago as 1978 the American
 Psychiatric Association (APA) stated that the bradycardia might even be
-prolonged enough to cause cardiac arrest.\ :sup:`(n.d.b)` Although no
+prolonged enough to cause cardiac arrest. :sup:`(n.d.b)` Although no
 references were given to support this concern, asystole and cardiac
-arrest have been reported since.\ :sup:`(n.d.c)` The APA recommended the
+arrest have been reported since. :sup:`(n.d.c)` The APA recommended the
 routine intravenous administration of an anticholinergic drug to reduce
 the risk of severe bradycardia, but this never became routine
 anaesthetic practice in the UK. The Royal College of Psychiatrists
@@ -53,32 +53,32 @@ recognises that ‘severe bradycardia can usually but not invariably be
 prevented by pre-treatment with anticholinergic agents’ and that such
 vagolytic drugs are sometimes used to attenuate bradycardia, but it does
 not specifically recommend the routine administration of an
-anticholinergic drug.\ :sup:`(n.d.d)`
+anticholinergic drug. :sup:`(n.d.d)`
 
 Evidence from case reports has been taken to mean that severe
 bradycardia is more likely after subconvulsive electrical stimulation;
 that is, stimulation that does not lead to generalised cerebral seizure
-activity.\ :sup:`(n.d.a),(n.d.b),(n.d.d)` This is because seizure
+activity. :sup:`(n.d.a),(n.d.b),(n.d.d)` This is because seizure
 activity has an opposite effect on the heart, leading to tachycardia,
-whereas in subconvulsive stimulation the vagal effect is
-unopposed.\ :sup:`(n.d.a)` Subconvulsive stimulation was uncommon in
-traditional ECT practice because fixed, high doses of electrical charge
-were delivered. Contemporary ECT machines can deliver adjustable doses
-and it is now recommended that the dose is titrated for the individual
-patient, particularly for bilateral ECT.\ :sup:`(n.d.d)` The convulsive
-dose depends on the seizure threshold for the individual patient. This
-is measured empirically by stimulation with repeated, increasing doses
-of electrical charge at the start of the course of ECT. In contemporary
+whereas in subconvulsive stimulation the vagal effect is unopposed.
+:sup:`(n.d.a)` Subconvulsive stimulation was uncommon in traditional ECT
+practice because fixed, high doses of electrical charge were delivered.
+Contemporary ECT machines can deliver adjustable doses and it is now
+recommended that the dose is titrated for the individual patient,
+particularly for bilateral ECT. :sup:`(n.d.d)` The convulsive dose
+depends on the seizure threshold for the individual patient. This is
+measured empirically by stimulation with repeated, increasing doses of
+electrical charge at the start of the course of ECT. In contemporary
 practice, the vast majority of patients receive at least one
 subconvulsive stimulation at their first treatment in a course of ECT.
 The APA now notes that not all anaesthetists routinely use
 anticholinergic drugs, but also states that the bradycardia after
 subconvulsive stimulation is of ‘graver’ concern, and that many
 anaesthetists routinely administer such agents at treatments in which
-the measurement of seizure threshold is planned.\ :sup:`(n.d.e)` Some
-ECT practitioners simply do not undertake empirical measurement of the
-seizure threshold in patients with a known history of cardiac
-disease.\ :sup:`(n.d.f)`
+the measurement of seizure threshold is planned. :sup:`(n.d.e)` Some ECT
+practitioners simply do not undertake empirical measurement of the
+seizure threshold in patients with a known history of cardiac disease.
+:sup:`(n.d.f)`
 
 We aimed to investigate the prevalence of asystole during empirical
 measurement of seizure threshold in the absence of anticholinergic
@@ -130,7 +130,7 @@ the paper record ran at 25 mm/s.
 
 The point when bradycardia becomes asystole is arbitrary. The criterion
 that 5 s (125 mm on the paper record) without a QRS complex constitutes
-asystole is taken from a previous report.\ :sup:`(n.d.g)` Its authors
+asystole is taken from a previous report. :sup:`(n.d.g)` Its authors
 also conducted a secondary analysis of patients in whom the asystole
 lasted as long as 7 s and so we also considered a secondary analysis
 with this definition of asystole. The analysis of the paper records was
@@ -146,19 +146,19 @@ time was agreed between these raters; patient details remained masked to
 L.M., and C.M. was shown only the paper record and any other clinical or
 treatment information was masked. The results were analysed using
 Microsoft Office Excel 2007 and StatsDirect Version 2.7.9 for Windows.
-As the inter-subject variance (between different patients) was Fig.
-1Numbers of patients in the sample receiving one or more ECT
-stimulations. Fig. 2ECG with electrical stimulus artefact followed by a
+As the inter-subject variance (between different patients) was Fig. 1
+Numbers of patients in the sample receiving one or more ECT
+stimulations. Fig. 2 ECG with electrical stimulus artefact followed by a
 period of asystole. likely to be higher than the intra-subject variance
 (multiple stimulations in one patient), each electrical stimulation was
 considered as an independent measure. Convulsive and subconvulsive
 stimulations were compared using Fisher’s exact test and the ‘exact’ or
 ‘Clobber-Pearson’ method was used to calculate 95% confidence intervals
-of proportions.\ :sup:`(n.d.h)` The episodes of asystole in different
+of proportions. :sup:`(n.d.h)` The episodes of asystole in different
 stimulations were compared using paired *t*-tests.
 
 It is the policy of NHS Scotland to withhold from publication data that
-may identify individual patients.\ :sup:`(n.d.i)` This report respects
+may identify individual patients. :sup:`(n.d.i)` This report respects
 this principle.
 
 .. _S2:
@@ -238,61 +238,63 @@ therefore the longest period of asystole noted.
   after a second subconvulsive stimulus (*P* = 0.04, 95% CI –1.72 to
   –0.04). We then compared the first and second stimulations in all
   patients who had two or more stimulations, regardless of whether they
-  experienced Table 1Demographic of the study sampleAsystoleNo
-  asystoleWhole sampleTotal *n*\ 84250Demographics , , , Male, *n* (%)1
-  (12.5)12 (28.6)13 (26.0) , , , Female, *n* (%)7 (87.5)30 (71.4)37
-  (74.0) , , , Age, mean (s.d. range): years69.9 (54.0–85.7)55.1
-  (38.8–71.3)57.4 (40.5–74.3)\ *Diagnosis*\ Depression, *n*
-  (%) , , , Unspecified2 (25.0)4 (9.5)6 (12.0) , , , Mild1 (12.5)01
-  (2.0) , , , Moderate06 (14.3)6 (12.0) , , , Severe without psychosis1
-  (12.5)11 (26.2)12 (24.0) , , , Severe with psychosis4 (50.0)10
-  (23.8)14 (28.0)Bipolar affective disorder, *n* (%) , , , Moderate01
-  (2.4)1 (2.0) , , , Severe without psychosis04 (9.5)4
-  (8.0) , , , Severe with psychosis02 (4.8)2 (4.0)Schizophrenia02 (4.8)2
-  (4.0)Schizophrenia02 (4.8)2 (4.0)Schizophrenia + severe depression01
-  (2.4)1 (2.0)Severe depression with psychosis + Alzheimer’s disease01
-  (2.4)1 (2.0)Psychotropic drugs, *n* (%) , , , No1 (12.5)3 (7.1)4
-  (8.0) , , , Single1 (12.5)7 (16.7)8 (16.0) , , , Multiple6 (75.0)32
-  (76.2)38 (76.0)History of cardiovascular diseaes, *n* (%)2 (25.0)10
-  (23.8)\ `a <#TFN2>`__\ 12 (24.0)Beta-blocker prescribed, *n* (%)1
-  (12.5)4 (9.5)5 (10.0)Anaesthetic agent, *n* (%) , , , Propofol3
-  (37.5)9 (21.4)12 (24.0) , , , Etomidate5 (62.5)33 (78.6)38 (76.0)Type
-  of ECT, *n* (%) , , , Bilateral8 (100.0)39 (92.9)47 (94.0) , , , Right
-  unilateral03 (7.1)3 (6.0) [2]_ [3]_ Table 2Asystole in convulsive and
-  subconvulsive stimuliCerebral seizure activity inducedNo cerebral
-  seizure activity inducedStimulationConvulsive
+  experienced Table 1 Demographic of the study sample Asystole No
+  asystole Whole sample Total *n* 8 42 50 Demographics  , , , Male, *n*
+  (%) 1 (12.5) 12 (28.6) 13 (26.0)  , , , Female, *n* (%) 7 (87.5) 30
+  (71.4) 37 (74.0)  , , , Age, mean (s.d. range): years 69.9 (54.0–85.7)
+  55.1 (38.8–71.3) 57.4 (40.5–74.3) *Diagnosis* Depression, *n* (%)
+   , , , Unspecified 2 (25.0) 4 (9.5) 6 (12.0)  , , , Mild 1 (12.5) 0 1
+  (2.0)  , , , Moderate 0 6 (14.3) 6 (12.0)  , , , Severe without
+  psychosis 1 (12.5) 11 (26.2) 12 (24.0)  , , , Severe with psychosis 4
+  (50.0) 10 (23.8) 14 (28.0) Bipolar affective disorder, *n* (%)
+   , , , Moderate 0 1 (2.4) 1 (2.0)  , , , Severe without psychosis 0 4
+  (9.5) 4 (8.0)  , , , Severe with psychosis 0 2 (4.8) 2 (4.0)
+  Schizophrenia 0 2 (4.8) 2 (4.0) Schizophrenia 0 2 (4.8) 2 (4.0)
+  Schizophrenia + severe depression 0 1 (2.4) 1 (2.0) Severe depression
+  with psychosis + Alzheimer’s disease 0 1 (2.4) 1 (2.0) Psychotropic
+  drugs, *n* (%)  , , , No 1 (12.5) 3 (7.1) 4 (8.0)  , , , Single 1
+  (12.5) 7 (16.7) 8 (16.0)  , , , Multiple 6 (75.0) 32 (76.2) 38 (76.0)
+  History of cardiovascular diseaes, *n* (%) 2 (25.0) 10
+  (23.8)\ `a <#TFN2>`__ 12 (24.0) Beta-blocker prescribed, *n* (%) 1
+  (12.5) 4 (9.5) 5 (10.0) Anaesthetic agent, *n* (%)  , , , Propofol 3
+  (37.5) 9 (21.4) 12 (24.0)  , , , Etomidate 5 (62.5) 33 (78.6) 38
+  (76.0) Type of ECT, *n* (%)  , , , Bilateral 8 (100.0) 39 (92.9) 47
+  (94.0)  , , , Right unilateral 0 3 (7.1) 3 (6.0)  [2]_  [3]_ Table 2
+  Asystole in convulsive and subconvulsive stimuli Cerebral seizure
+  activity induced No cerebral seizure activity induced Stimulation
+  Convulsive
 | stimulations
-| *n*\ Time to first
+| *n* Time to first
 | QRS, median
-| (range)\ `a <#TFN3>`__\ Asystole
-| *n*\ Proportion
-| (95% CI)Subconvulsive
+| (range)\ `a <#TFN3>`__ Asystole
+| *n* Proportion
+| (95% CI) Subconvulsive
 | stimulations
-| *n*\ Time to first
+| *n* Time to first
 | QRS, median
-| (range)\ `a <#TFN3>`__\ Asystole
-| *n*\ Proportion
-| (95% CI)1st32.36
-| (0.88–3.00)00.00
-| (0–0.71)46
-| (+1 off-page)\ `b <#TFN4>`__\ 1.32
-| (0.04–4.84)00.00
-| (0–0.08)2nd201.18
-| (0.04–7.08)20.10
-| (0.01–0.32)271.48
-| (0.04–9.12)40.15
-| (0.04–0.34)3rd21
-| (+1 unreadable)\ `c <#TFN5>`__\ 1.88
-| (0.04–6.96)30.14
-| (0.03–0.36)51.36
-| (0.56–3.84)00.00
-| (0–0.52)4th41.52
-| (0.04–4.44)00.00
-| (0–0.6)10.5600.01
-| (0–0.98)5th0000.0010.9600.01
-| (0–0.98)\ **Total480.10**
-| **(0.03-0.23)1240.03**
-| **(0.01-0.08)**\  [4]_ [5]_ [6]_ seizure activity (again using a
+| (range)\ `a <#TFN3>`__ Asystole
+| *n* Proportion
+| (95% CI) 1st 3 2.36
+| (0.88–3.00) 0 0.00
+| (0–0.71) 46
+| (+1 off-page)\ `b <#TFN4>`__ 1.32
+| (0.04–4.84) 0 0.00
+| (0–0.08) 2nd 20 1.18
+| (0.04–7.08) 2 0.10
+| (0.01–0.32) 27 1.48
+| (0.04–9.12) 4 0.15
+| (0.04–0.34) 3rd 21
+| (+1 unreadable)\ `c <#TFN5>`__ 1.88
+| (0.04–6.96) 3 0.14
+| (0.03–0.36) 5 1.36
+| (0.56–3.84) 0 0.00
+| (0–0.52) 4th 4 1.52
+| (0.04–4.44) 0 0.00
+| (0–0.6) 1 0.56 0 0.01
+| (0–0.98) 5th 0 0 0 0.00 1 0.96 0 0.01
+| (0–0.98) **Total** **48** **0.10**
+| **(0.03-0.23)** **124** **0.03**
+| **(0.01-0.08)**  [4]_  [5]_  [6]_ seizure activity (again using a
   paired *t*-test), and again found that the mean time to first QRS
   post-stimulation was significantly longer after a second stimulation
   (*P* = 0.03, 95% CI –1.09 to –0.05). We also compared the time to the
@@ -336,8 +338,8 @@ influencing the risk of asystole and the effect seen at previous
 stimulations may be due to small sample size. Further studies with a
 larger sample size would help to delineate this.
 
-Our results support those of Burd & Kettl,\ :sup:`(n.d.g)` who found
-that although asystole was common in elderly patients undergoing ECT
+Our results support those of Burd & Kettl, :sup:`(n.d.g)` who found that
+although asystole was common in elderly patients undergoing ECT
 (364/1146, 40.1%), routine use of atropine was unnecessary because brief
 asystole was not associated with adverse outcome. Burd & Kettl studied
 patients throughout ECT treatment courses, not just during stimulus
@@ -348,7 +350,7 @@ definition of 7 s without a QRS complex. However, in our sample there
 were only 2 episodes of asystole which exceeded 7 s (1 in a convulsive
 stimulation and 1 in which no convulsion was stimulated) and so no
 statistical analysis of these episodes could be performed. In 1996,
-McCall *et al*\ :sup:`(n.d.j)` used an even more conservative definition
+McCall *et al* :sup:`(n.d.j)` used an even more conservative definition
 of asystole (10 s of ECG electrical silence) in an attempt to capture
 only pathological asystolic events. Using this cut-off there were no
 patients in our study who experienced asystole, again supporting the

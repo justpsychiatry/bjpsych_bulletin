@@ -94,7 +94,7 @@ acquire spatial memories, hippocampal synaptic plasticity was likely
 compromised in these mice. Zhang et al. (2021) found a marked deficit in
 long-term potentiation (LTP) of the CA3:CA1 synaptic response that was
 rescued by systemic PTP1B inhibition or genetic ablation of PTP1B
-specifically in glutamatergic neurons (`Figure 1A <#F1>`__). Bath
+specifically in glutamatergic neurons ( `Figure 1A <#F1>`__ ). Bath
 application of the NMDA receptor blockers MK801 or
 D-2-amino-5-phosphonopentanoate to wild-type hippocampal brain sections
 phenocopied the deficit in LTP seen in hAPP-J20 mice and reversed the
@@ -235,7 +235,7 @@ learning deficits caused by subanesthetic doses of ketamine, whereas
 PTP1B activation in non-glutamatergic neurons is responsible for the
 hyperlocomotion effect of ketamine. Moreover, this study suggests that
 PTP1B activation is a consequence of silencing NMDA receptors with
-ketamine (`Figure 1B <#F1>`__).
+ketamine ( `Figure 1B <#F1>`__ ).
 
 Intriguingly, a genetic manipulation that removed the endogenous
 inhibitor of PTP1B (i.e., LMO4) in glutamatergic neurons also produced a
@@ -261,8 +261,8 @@ deficits were also partly correlated to defective endocannabinoid
 mobilization in response to the trkB receptor agonist
 7,8-dihydroxyflavone (Qin et al., 2021). Glutamatergic neuron-specific
 ablation of PTP1B prevented ketamine’s effect to reduce trkB-dependent
-endocannabinoid mobilization from layer 2/3 pyramidal neurons (`Figure
-1B <#F1>`__). In light of the report showing that presynaptic NMDA
+endocannabinoid mobilization from layer 2/3 pyramidal neurons ( `Figure
+1B <#F1>`__ ). In light of the report showing that presynaptic NMDA
 receptors regulate brain-derived neurotrophic factor release to modulate
 post-synaptic trkB signaling (Park et al., 2014), it will be important
 to determine how PTP1B at the presynaptic site affects this process in
@@ -272,12 +272,12 @@ Together, these recent studies reveal novel aspects of NMDA receptor
 signaling affected by PTP1B in two preclinical models of neurological
 disorders: Alzheimer’s disease and schizophrenia. In the hAPP-J20 model
 of Alzheimer’s disease, PTP1B hyperactivity impairs presynaptic NMDA
-receptor-dependent LTP at the CA3:CA1 hippocampal synapse (`Figure
-1A <#F1>`__). In a model of schizophrenia, the NMDA receptor antagonist
+receptor-dependent LTP at the CA3:CA1 hippocampal synapse ( `Figure
+1A <#F1>`__ ). In a model of schizophrenia, the NMDA receptor antagonist
 ketamine causes dis-inhibition of PTP1B that impairs trkB-dependent
 endocannabinoid mobilization in post-synaptic neurons of the medial
-prefrontal cortex (`Figure 1B <#F1>`__). Importantly, these studies also
-show the therapeutic potential of PTP1B inhibitors to treat these
+prefrontal cortex ( `Figure 1B <#F1>`__ ). Importantly, these studies
+also show the therapeutic potential of PTP1B inhibitors to treat these
 disorders.
 
 *This work was supported by grants from the Heart and Stroke Foundation
