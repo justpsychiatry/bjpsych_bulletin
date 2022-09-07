@@ -85,9 +85,6 @@ html_show_copyright = True
 
 rst_epilog = """
 
- :journal-title(full): bjpsy
- 
-:issn(epub): 1223-182
 
  .. admonition:: Copyright Notice
  
