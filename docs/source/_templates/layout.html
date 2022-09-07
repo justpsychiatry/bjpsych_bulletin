@@ -1,0 +1,10 @@
+{% extends "!layout.html" %}
+{% block rootrellink %}
+{% set script_files = script_files + ["_static/gcse.js"] %}
+<li><a href="https://justpsychiatry.co.uk/projects/bjpsych-bull/">Index</a> &raquo;</li>
+    {{ super() }}
+{% endblock %}
+{% block extrahead %}
+{% set script_files = script_files + ["_static/{% set %} tag:.js"] %}
+    {{ super() }}
+{% endblock %}
