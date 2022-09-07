@@ -2,11 +2,7 @@
 The effects of COVID-19 on self-harm in UK prisons
 ==================================================
 
-Thomas Hewson
-Russell Green
-Andrew Shepherd
-Jake Hard
-Jennifer Shaw 
+:authors: Thomas Hewson, Russell Green, Andrew Shepherd, Jake Hard, Jennifer Shaw 
 :correspondence: Dr Thomas Hewson (tomhewson@doctors.org.uk)
 :Date: 2020-7-16
 
@@ -29,6 +25,7 @@ Jennifer Shaw
   :description: The British Journal of Psychiatry.
   :keywords: plaintext, markup language
 """
+
 .. contents::
    :depth: 3
 ..
@@ -242,6 +239,7 @@ https://doi.org/10.1192/bjb.2020.83.
    .. rubric:: 
 
    click here to view supplementary material
+
 
 **Thomas Hewson** is an Academic Foundation Doctor at Manchester
 University NHS Foundation Trust, Manchester, UK. **Russell Green** is

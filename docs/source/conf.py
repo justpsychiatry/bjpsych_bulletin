@@ -85,6 +85,10 @@ html_show_copyright = True
 
 rst_epilog = """
 
+ :journal-title(full): bjpsy
+ 
+:issn(epub): 1223-182
+
  .. admonition:: Copyright Notice
  
      Articles published from BJPsych Bulletin are open-access, published under the terms of creative commons  Attribution licence (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted re-use, distribution, and reproduction in any medium, provided the original work is properly cited.
