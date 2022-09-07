@@ -6,8 +6,8 @@ Thomas Hewson
 Russell Green
 Andrew Shepherd
 Jake Hard
-Jennifer ShawCorrespondence to Dr Thomas Hewson
-(tomhewson@doctors.org.uk)
+Jennifer Shaw 
+:correspondence: Dr Thomas Hewson (tomhewson@doctors.org.uk)
 :Date: 2020-7-16
 
 :Abstract:
@@ -17,7 +17,18 @@ Jennifer ShawCorrespondence to Dr Thomas Hewson
    and consider strategies for improving the prevention and management
    of self-harm in prisons as we emerge from the pandemic.
 
-
+.. meta::
+  :journal-id-nlm-ta: BJPsych Bull
+  :journal-iso-abbrev: BJPsych Bull
+  :journal-publisher-id: BJB
+  :journal-title(full): BJPsych Bulletin 
+  :issn(print): 2056-4694 
+  :issn(epub): 2056-4708 
+  :publisher: Cambridge University Press 
+  :publisher’s Location: Cambridge, UK 
+  :description: The British Journal of Psychiatry.
+  :keywords: plaintext, markup language
+"""
 .. contents::
    :depth: 3
 ..

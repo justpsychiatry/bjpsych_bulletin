@@ -101,18 +101,17 @@ hoverxref_roles = [
 
 
 rst_prolog = """
-
 .. meta::
-    :Journal-ID NLM-TA: BJPsych Bull
-    :Journal iso-abbrev: BJPsych Bull
-    :Journal publisher-id: BJB
-    :Journal Title (Full): BJPsych Bulletin 
-    :ISSN(print): 2056-4694 
-    :ISSN(epub): 2056-4708 
-    :Publisher: Cambridge University Press 
-    :Publisher’s Location: Cambridge, UK 
-   :description: The British Journal of Psychiatry.
-   :keywords: plaintext, markup language
+  :journal-id-nlm-ta: BJPsych Bull
+  :journal-iso-abbrev: BJPsych Bull
+  :journal-publisher-id: BJB
+  :journal-title(full): BJPsych Bulletin 
+  :issn(print): 2056-4694 
+  :issn(epub): 2056-4708 
+  :publisher: Cambridge University Press 
+  :publisher’s Location: Cambridge, UK 
+  :description: The British Journal of Psychiatry.
+  :keywords: plaintext, markup language
 """
 
 # -- Options for EPUB output
