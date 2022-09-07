@@ -80,6 +80,7 @@ bibtex_reference_style = 'author_year'
 sitemap_filename = "bjpsychmap.xml"
 sitemap_url_scheme = "{link}"
 hoverxref_auto_ref = True
+html_show_copyright = True
 
 
 rst_epilog = """
@@ -97,6 +98,22 @@ hoverxref_roles = [
     'abbr',
     'ref',
 ]
+
+
+rst_prolog = """
+
+.. meta::
+    :Journal-ID NLM-TA: BJPsych Bull
+    :Journal iso-abbrev: BJPsych Bull
+    :Journal publisher-id: BJB
+    :Journal Title (Full): BJPsych Bulletin 
+    :ISSN(print): 2056-4694 
+    :ISSN(epub): 2056-4708 
+    :Publisher: Cambridge University Press 
+    :Publisher’s Location: Cambridge, UK 
+   :description: The British Journal of Psychiatry.
+   :keywords: plaintext, markup language
+"""
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
