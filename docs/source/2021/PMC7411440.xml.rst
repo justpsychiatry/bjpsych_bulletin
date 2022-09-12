@@ -2,8 +2,14 @@
 The effects of COVID-19 on self-harm in UK prisons
 ==================================================
 
-:authors: Thomas Hewson, Russell Green, Andrew Shepherd, Jake Hard, Jennifer Shaw 
-:correspondence: Dr Thomas Hewson (tomhewson@doctors.org.uk)
+
+
+Thomas Hewson
+Russell Green
+Andrew Shepherd
+Jake Hard
+Jennifer ShawCorrespondence to Dr Thomas Hewson
+(tomhewson@doctors.org.uk)
 :Date: 2020-7-16
 
 :Abstract:
@@ -13,18 +19,6 @@ The effects of COVID-19 on self-harm in UK prisons
    and consider strategies for improving the prevention and management
    of self-harm in prisons as we emerge from the pandemic.
 
-.. meta::
-  :journal-id-nlm-ta: BJPsych Bull
-  :journal-iso-abbrev: BJPsych Bull
-  :journal-publisher-id: BJB
-  :journal-title(full): BJPsych Bulletin 
-  :issn(print): 2056-4694 
-  :issn(epub): 2056-4708 
-  :publisher: Cambridge University Press 
-  :publisher’s Location: Cambridge, UK 
-  :description: The British Journal of Psychiatry.
-  :keywords: plaintext, markup language
-"""
 
 .. contents::
    :depth: 3
@@ -32,74 +26,73 @@ The effects of COVID-19 on self-harm in UK prisons
 
 The frequency and severity of self-harm have been increasing within UK
 prisons over recent years, with rates far exceeding those observed in
-the general population.\ :sup:`(n.d.a)` We postulated that the
-coronavirus pandemic could adversely affect the mental health of
-prisoners and further increase rates of self-harm, given the rapid
-changes and reductions to prison regimes and the negative psychological
-effects of quarantine.\ :sup:`(n.d.b)` However, internal reports from
-Safer Custody Units in 31 prisons where healthcare is provided by CareUK
-(R. Green, personal communication, 2020) have revealed fewer
-implementations of ACCT (assessment, care in custody and teamwork)
-processes since lockdown; these processes initiate care plans for
-prisoners at risk of self-harm or suicide. Across the 31 prisons, there
-were 1079 ACCTs implemented in February 2020, compared with 828 in April
-2020, a relative reduction of just under 25%. Furthermore, a closer
-analysis of eight of these prisons revealed overall reductions in
-recorded incidents of self-harm, decreasing by a third from 324 in
-February 2020 to 214 in April 2020. There are many possible reasons for
-these apparent reductions, with important lessons to be learned.
+the general population.\ :sup:`1` We postulated that the coronavirus
+pandemic could adversely affect the mental health of prisoners and
+further increase rates of self-harm, given the rapid changes and
+reductions to prison regimes and the negative psychological effects of
+quarantine.\ :sup:`2` However, internal reports from Safer Custody Units
+in 31 prisons where healthcare is provided by CareUK (R. Green, personal
+communication, 2020) have revealed fewer implementations of ACCT
+(assessment, care in custody and teamwork) processes since lockdown;
+these processes initiate care plans for prisoners at risk of self-harm
+or suicide. Across the 31 prisons, there were 1079 ACCTs implemented in
+February 2020, compared with 828 in April 2020, a relative reduction of
+just under 25%. Furthermore, a closer analysis of eight of these prisons
+revealed overall reductions in recorded incidents of self-harm,
+decreasing by a third from 324 in February 2020 to 214 in April 2020.
+There are many possible reasons for these apparent reductions, with
+important lessons to be learned.
 
 The accurate recording and maintenance of ACCT processes is a legal
-requirement stipulated in Prison Service Instructions,\ :sup:`(n.d.c)`
+requirement stipulated in Prison Service Instructions,\ :sup:`3`
 supporting the reliability of the above figures. However, minor acts of
 self-harm may be more likely to be missed or unrecorded during the
 pandemic owing to potentially reduced face-to-face contact with
 prisoners and staffing issues. There have been national reports of fewer
-Accident & Emergency attendances for various health
-problems,\ :sup:`(n.d.d)` raising the possibility that prisoners have
-similarly been less likely to seek healthcare interventions for
-self-harm throughout the lockdown. A reduction in ACCTs is also not
-synonymous with reductions in self-harming behaviour, as multiple
-factors, including staff discretion, affect ACCT implementation;
-furthermore, Humber et al found that ACCTs were more likely to be opened
-following identification of risk factors for self-harm or suicide,
-rather than following an act of self-harming behaviour.\ :sup:`(n.d.e)`
-The data are, however, mirrored by internal reports of recent reductions
-in prison violence and referrals to mental health teams, as well as
-fewer calls to see prisoners already known to mental health services (R.
-Green, personal communication, 2020). These data may not be
-representative of all prisons, owing to individual differences between
-establishments, but those included encompassed all security levels and
-prisoners of varying age, gender and sentence type.
+Accident & Emergency attendances for various health problems,\ :sup:`4`
+raising the possibility that prisoners have similarly been less likely
+to seek healthcare interventions for self-harm throughout the lockdown.
+A reduction in ACCTs is also not synonymous with reductions in
+self-harming behaviour, as multiple factors, including staff discretion,
+affect ACCT implementation; furthermore, Humber et al found that ACCTs
+were more likely to be opened following identification of risk factors
+for self-harm or suicide, rather than following an act of self-harming
+behaviour.\ :sup:`5` The data are, however, mirrored by internal reports
+of recent reductions in prison violence and referrals to mental health
+teams, as well as fewer calls to see prisoners already known to mental
+health services (R. Green, personal communication, 2020). These data may
+not be representative of all prisons, owing to individual differences
+between establishments, but those included encompassed all security
+levels and prisoners of varying age, gender and sentence type.
 
 Assuming that self-harm rates have dropped, why might that be and what
 can we learn for future self-harm risk management? First, although
 numerous negative psychological consequences are associated with
-confinement and social isolation,\ :sup:`(n.d.b)` spending increased
-time in cells has probably reduced prisoners’ exposure to negative and
+confinement and social isolation,\ :sup:`2` spending increased time in
+cells has probably reduced prisoners’ exposure to negative and
 intimidating behaviours, such as bullying, threats and violence from
 other inmates. This could increase their overall sense of safety and
 security. Previously, prisoners may have resorted to self-harm to
 express their safety concerns, occasionally using this behaviour as a
 last-resort measure to seek transfer to segregation or another
-prison.\ :sup:`(n.d.f)` Furthermore, conflicts with other inmates can
-cause significant emotional distress, and the most frequently cited
-reason for self-harm is emotional dysregulation.\ :sup:`(n.d.g)`
-Prisoners may be less likely to experience such tensions in the context
-of reduced peer contact.
+prison.\ :sup:`6` Furthermore, conflicts with other inmates can cause
+significant emotional distress, and the most frequently cited reason for
+self-harm is emotional dysregulation.\ :sup:`7` Prisoners may be less
+likely to experience such tensions in the context of reduced peer
+contact.
 
 Anecdotally, drug use has recently decreased within prisons, probably
 owing to suspension of prison visits and enhanced difficulties in
 trafficking illicit substances into custodial settings. There are
 multiple links between drug use and self-harm, although it is difficult
-to establish causality.\ :sup:`(n.d.h)` For example, prisoners may harm
+to establish causality.\ :sup:`8` For example, prisoners may harm
 themselves while intoxicated because they have less conscious control of
 their actions, or while withdrawing because of unpleasant physical
 symptoms. Substance misuse is linked to the aetiology, perpetuation and
 relapse of various mental disorders, including psychosis, which are
 associated with increased rates of self-harm and violence. Stress,
 anxiety and depression may be induced by problems such as accumulation
-of debt, extortion and violence arising from drug use.\ :sup:`(n.d.h)`
+of debt, extortion and violence arising from drug use.\ :sup:`8`
 Prisoners may self-harm to communicate distress about these difficulties
 or to seek escape from them.
 
@@ -119,13 +112,13 @@ feel more valued, having witnessed various measures being implemented to
 protect their health. Increased societal cohesion has been observed
 during prior public health crises, with less differentiation between
 societal groups and more focus on ‘coming together’ and responding
-collectively to tackle emergent issues;\ :sup:`(n.d.i)` anecdotally,
-this same cohesion has been observed within prisons. Prisoners may also
-feel better connected to wider society owing to increased communication
-about external affairs throughout the pandemic. Feeling part of a group
-is associated with increased self-esteem; particularly among young
-people, self-harm can be used to achieve a sense of belonging when this
-is felt to be lacking.\ :sup:`(n.d.g)`
+collectively to tackle emergent issues;\ :sup:`9` anecdotally, this same
+cohesion has been observed within prisons. Prisoners may also feel
+better connected to wider society owing to increased communication about
+external affairs throughout the pandemic. Feeling part of a group is
+associated with increased self-esteem; particularly among young people,
+self-harm can be used to achieve a sense of belonging when this is felt
+to be lacking.\ :sup:`7`
 
 The pandemic has created more of a ‘level playing field’ within prisons,
 as many of the previously extended rewards for good behaviour are no
@@ -142,9 +135,9 @@ inferior to fellow inmates.
 
 Although prison visits are temporarily suspended, approximately half of
 English and Welsh prisons have provided secure phone handsets to
-risk-assessed prisoners,\ :sup:`(n.d.j)` and some have been trialling
-virtual family conversations through video platforms; therefore, contact
-with family and friends may have actually increased for some prisoners,
+risk-assessed prisoners,\ :sup:`10` and some have been trialling virtual
+family conversations through video platforms; therefore, contact with
+family and friends may have actually increased for some prisoners,
 albeit through electronic methods. Such contact can provide much-needed
 emotional support and act as a protective factor against suicide and
 self-harm. Increased communication may also alleviate concerns about
@@ -156,63 +149,61 @@ contact with family and friends may be unchanged for these individuals.
 
 Interestingly, suicide rates among the general population have initially
 dropped during the immediate aftermath of prior national
-disasters.\ :sup:`(n.d.k)` This has been attributed to evolving social
+disasters.\ :sup:`11` This has been attributed to evolving social
 connectedness and a renewed sense of vigour and purpose, which may shift
 a person's focus to surviving. Worryingly, this has previously often
 represented a ‘honeymoon period’, with subsequent increases in
-suicidality among the general population;\ :sup:`(n.d.k)` the same may
-occur with rates of prisoner self-harm. Although there are several
-possible reasons self-harm may have recently decreased in prisons, there
-are also multiple mechanisms by which COVID-19 could have profound
-negative effects on prisoners’ mental health. It is likely that prisons
-will maintain current reverse cohorting and shielding measures for some
-time; this is essential to protect against ‘explosive outbreaks’ of the
-virus, but it further heightens the need for vigilant monitoring of
-mental well-being, given that prolonged quarantine is associated with
-poorer psychological outcomes.\ :sup:`(n.d.b)` Reasons for engaging in
-self-harm vary widely between prisoners, and changes to prison regimes
-will likely affect different prisoners differently, depending on
-individual coping styles, personalities and the presence of pre-existing
-mental health problems. Prisons must be mindful of these differences and
-potential future challenges to pre-emptively plan strategies for
-preventing and treating any future increase in suicidal and self-harming
-behaviours. Potential difficulties could arise if social distancing
-measures are eased more quickly in wider society, as this dissonance
-could reduce prisoners’ sense of ‘social connectedness’ with outside
-communities and worsen feelings of isolation. Where possible, prisons
-should coordinate their pandemic responses with external society,
-ensuring clear communication to prisoners throughout the process.
+suicidality among the general population;\ :sup:`11` the same may occur
+with rates of prisoner self-harm. Although there are several possible
+reasons self-harm may have recently decreased in prisons, there are also
+multiple mechanisms by which COVID-19 could have profound negative
+effects on prisoners’ mental health. It is likely that prisons will
+maintain current reverse cohorting and shielding measures for some time;
+this is essential to protect against ‘explosive outbreaks’ of the virus,
+but it further heightens the need for vigilant monitoring of mental
+well-being, given that prolonged quarantine is associated with poorer
+psychological outcomes.\ :sup:`2` Reasons for engaging in self-harm vary
+widely between prisoners, and changes to prison regimes will likely
+affect different prisoners differently, depending on individual coping
+styles, personalities and the presence of pre-existing mental health
+problems. Prisons must be mindful of these differences and potential
+future challenges to pre-emptively plan strategies for preventing and
+treating any future increase in suicidal and self-harming behaviours.
+Potential difficulties could arise if social distancing measures are
+eased more quickly in wider society, as this dissonance could reduce
+prisoners’ sense of ‘social connectedness’ with outside communities and
+worsen feelings of isolation. Where possible, prisons should coordinate
+their pandemic responses with external society, ensuring clear
+communication to prisoners throughout the process.
 
 Multiple measures already exist within prisons to prevent and
 effectively manage self-harm; examples include ACCT processes, mental
 health screening and support services, peer support schemes such as
 ‘Listeners’, and various initiatives for promoting staff understanding
-of self-harm and positive prisoner–staff
-relationships.\ :sup:`(n.d.l),(n.d.m)` Assuming that the recent
-reductions in recorded incidents of self-harm and initiations of ACCT
-processes equate with actual reductions in self-harm in prisons, we must
-consider what can be learned from the pandemic to improve prisoner
-safety post COVID-19. The data highlight a need for mental health to be
-addressed in the prison as a ‘social whole’, with an enhanced focus on
-preventive social measures to reduce self-harm and creating therapeutic
-environments; the importance of a whole-prison approach, and of
-environmental stressors, has been identified
-previously.\ :sup:`(n.d.l),(n.d.m)` A recent rapid evidence assessment
+of self-harm and positive prisoner–staff relationships.\ :sup:`12,13`
+Assuming that the recent reductions in recorded incidents of self-harm
+and initiations of ACCT processes equate with actual reductions in
+self-harm in prisons, we must consider what can be learned from the
+pandemic to improve prisoner safety post COVID-19. The data highlight a
+need for mental health to be addressed in the prison as a ‘social
+whole’, with an enhanced focus on preventive social measures to reduce
+self-harm and creating therapeutic environments; the importance of a
+whole-prison approach, and of environmental stressors, has been
+identified previously.\ :sup:`12,13` A recent rapid evidence assessment
 identified a lack of research on protective factors for self-harm in
-prisons;\ :sup:`(n.d.m)` consequently, researchers, prison staff and
-inmates need to work together to identify factors helping to reduce
-self-harm in recent months and how these could be sustained in the
-future. For example, prisons could consider continuing increased
-provision of certain ‘privileges’, such as telephone and video
-communications with external support networks, and must continue
-implementing strategies to reduce bullying, violence and substance
-misuse. The increased forms of communication available to prisoners and
-methods for facilitating in-cell activities should also continue post
-COVID-19. Importantly, staff must remain alert to any potential future
-deteriorations in mental health and increases in self-harm throughout
-the pandemic, ensuring that the negative psychological effects of
-quarantine are reduced wherever possible, while protection from
-coronavirus is maintained.
+prisons;\ :sup:`13` consequently, researchers, prison staff and inmates
+need to work together to identify factors helping to reduce self-harm in
+recent months and how these could be sustained in the future. For
+example, prisons could consider continuing increased provision of
+certain ‘privileges’, such as telephone and video communications with
+external support networks, and must continue implementing strategies to
+reduce bullying, violence and substance misuse. The increased forms of
+communication available to prisoners and methods for facilitating
+in-cell activities should also continue post COVID-19. Importantly,
+staff must remain alert to any potential future deteriorations in mental
+health and increases in self-harm throughout the pandemic, ensuring that
+the negative psychological effects of quarantine are reduced wherever
+possible, while protection from coronavirus is maintained.
 
 We thank Juliet Lyon CBE (Chair of Independent Advisory Panel on Deaths
 in Custody) and Jenny Talbot OBE (Director of the Care not Custody
@@ -240,7 +231,6 @@ https://doi.org/10.1192/bjb.2020.83.
 
    click here to view supplementary material
 
-
 **Thomas Hewson** is an Academic Foundation Doctor at Manchester
 University NHS Foundation Trust, Manchester, UK. **Russell Green** is
 National Lead Psychiatrist Health in Justice at CareUK Healthcare
@@ -255,71 +245,3 @@ Independent Advisory Panel on Deaths in Custody, London, UK.
 
 All authors were involved in the planning and creation of content for
 the editorial, and all authors reviewed the final manuscript.
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-ref1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-ref2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-ref3
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-ref4
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-ref5
-
-      n.d.e.
-
-   .. container:: csl-entry
-      :name: ref-ref6
-
-      n.d.f.
-
-   .. container:: csl-entry
-      :name: ref-ref7
-
-      n.d.g.
-
-   .. container:: csl-entry
-      :name: ref-ref8
-
-      n.d.h.
-
-   .. container:: csl-entry
-      :name: ref-ref9
-
-      n.d.i.
-
-   .. container:: csl-entry
-      :name: ref-ref10
-
-      n.d.j.
-
-   .. container:: csl-entry
-      :name: ref-ref11
-
-      n.d.k.
-
-   .. container:: csl-entry
-      :name: ref-ref12
-
-      n.d.l.
-
-   .. container:: csl-entry
-      :name: ref-ref13
-
-      n.d.m.

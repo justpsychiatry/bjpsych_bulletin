@@ -2,6 +2,8 @@
 The outcomes of home treatment for schizophrenia
 ================================================
 
+
+
 Hannah Chu Han Huang
 Mark Taylor
 Alasdair CarmichaelCorrespondence to M. Taylor (marktaylor2@nhs.net)
@@ -53,32 +55,31 @@ Background
 ==========
 
 Crisis resolution and home treatment (CRHT) teams have been recommended
-in mental health for many years,(n.d.a) with intensive 24 h home
-treatment being seen as an alternative to hospital admission. A
-randomised control trial reported by Johnson *et al*\ (n.d.a) showed a
-reduction in the number of hospital admissions as well as a decrease in
-the cost to the service(n.d.b) with CRHT. There have been positive
-experiences for patients or consumers of CRHT,(n.d.c) although reports
-have also highlighted some dissatisfaction, namely that too many staff
-members are involved and the contacts are short-lived.(n.d.d)
+in mental health for many years,1 with intensive 24 h home treatment
+being seen as an alternative to hospital admission. A randomised control
+trial reported by Johnson *et al*\ 1 showed a reduction in the number of
+hospital admissions as well as a decrease in the cost to the service2
+with CRHT. There have been positive experiences for patients or
+consumers of CRHT,3 although reports have also highlighted some
+dissatisfaction, namely that too many staff members are involved and the
+contacts are short-lived.4
 
-The Edinburgh CRHT is called the Intensive Home Treatment Team
-(IHTT)(n.d.c) and has two main points of entry into treatment – referral
-from the community (either from primary or secondary care) and from
-in-patient units to facilitate early discharge from hospital (but no
+The Edinburgh CRHT is called the Intensive Home Treatment Team (IHTT)3
+and has two main points of entry into treatment – referral from the
+community (either from primary or secondary care) and from in-patient
+units to facilitate early discharge from hospital (but no
 self-referral). Edinburgh has well developed community mental health
 teams but no specific first episode or early intervention programme for
 adult psychosis; therefore, as far as is known, all acutely relapsing
 patients with schizophrenia and psychosis are referred to the IHTT.
 
 Coping with schizophrenia and related psychoses remains a challenge, and
-globally(n.d.e) schizophrenia contributes 7.4% of all lost years of life
-to all disabilities. Relapse of schizophrenia, sadly, is common, with
-only about 20% of patients having only one episode of
-psychosis.(n.d.f)\ :sup:`,`\ (n.d.g) Predictors of relapse include
-medication non-adherence and comorbid substance
-misuse,(n.d.f)\ :sup:`,`\ (n.d.g) and relapse is considered a time of
-increased risk of suicide in schizophrenia.(n.d.h)
+globally5 schizophrenia contributes 7.4% of all lost years of life to
+all disabilities. Relapse of schizophrenia, sadly, is common, with only
+about 20% of patients having only one episode of
+psychosis.6\ :sup:`,`\ 7 Predictors of relapse include medication
+non-adherence and comorbid substance misuse,6\ :sup:`,`\ 7 and relapse
+is considered a time of increased risk of suicide in schizophrenia.8
 
 .. _sec1-2:
 
@@ -112,22 +113,21 @@ criteria. Ethical approval for the study was provided by the University
 of Edinburgh, UK.
 
 IHTT records the severity of the presenting mental disorder using the
-Clinical Global Impression Scale(n.d.i) (CGI) at the time of referral to
-IHTT. The CGI objectively assesses the global severity of illness and
-change in clinical condition over time.(n.d.i) CGI-S is rated on the
-following seven-point scale: 1, normal/not at all ill; 2, borderline
-mentally ill; 3, mildly ill; 4, moderately ill; 5, markedly ill; 6,
-severely ill; 7, among the most extremely ill patients. CGI-I is
-similarly rated on a seven-point scale: ‘compared with the patient's
-condition at admission, this patient's condition is’ 1, very much
-improved: 2, much improved; 3, minimally improved; 4, no change; 5,
-minimally worse; 6, much worse; 7, very much worse. IHTT clinicians
-noted the improvement or lack thereof in the presenting condition via
-the CGI-Improvement (CGI-I) score at the point of discharge from IHTT.
-This was routinely rated for every patient during his or her care with
-the team by an adequately trained clinician, although the pattern of
-staff shift working meant that the CGI and CGI-I for an individual
-patient were not always rated by the same clinician.
+Clinical Global Impression Scale9 (CGI) at the time of referral to IHTT.
+The CGI objectively assesses the global severity of illness and change
+in clinical condition over time.9 CGI-S is rated on the following
+seven-point scale: 1, normal/not at all ill; 2, borderline mentally ill;
+3, mildly ill; 4, moderately ill; 5, markedly ill; 6, severely ill; 7,
+among the most extremely ill patients. CGI-I is similarly rated on a
+seven-point scale: ‘compared with the patient's condition at admission,
+this patient's condition is’ 1, very much improved: 2, much improved; 3,
+minimally improved; 4, no change; 5, minimally worse; 6, much worse; 7,
+very much worse. IHTT clinicians noted the improvement or lack thereof
+in the presenting condition via the CGI-Improvement (CGI-I) score at the
+point of discharge from IHTT. This was routinely rated for every patient
+during his or her care with the team by an adequately trained clinician,
+although the pattern of staff shift working meant that the CGI and CGI-I
+for an individual patient were not always rated by the same clinician.
 
 Other data collected for each patient included demographic details and
 relevant clinical details (see Supplementary Appendix 1 available at
@@ -325,20 +325,19 @@ hospital care.
 
 The total CGI score diminished by 1.05 for the whole sample, and a
 one-point shift in CGI is usually regarded as a clinically significant
-change.(n.d.i) Since CGI has been shown(n.d.j) to be an effective method
-of mapping illness severity, with reliability equivalent to that of more
-complex scales such as Positive and Negative Symptom Scale (PANSS), we
-can conclude from our results that the Edinburgh IHTT service, on
-average, can help reduce the severity of schizophrenia and related
-disorders. The CGI score of those people discharged home from IHTT
-improved by 2.03 compared with those being transferred to hospital from
-IHTT, implying an association between hospital admission and a worsening
-CGI score, and adding to the face validity of this measure. A study from
-Taiwan(n.d.k) also showed that patients with schizophrenia treated with
-community home care case management had a significant reduction in the
-frequency of hospital admission, and a systematic review(n.d.l) from
-2017 showed that home-based intervention improves patients’ quality of
-life and autonomy.
+change.9 Since CGI has been shown10 to be an effective method of mapping
+illness severity, with reliability equivalent to that of more complex
+scales such as Positive and Negative Symptom Scale (PANSS), we can
+conclude from our results that the Edinburgh IHTT service, on average,
+can help reduce the severity of schizophrenia and related disorders. The
+CGI score of those people discharged home from IHTT improved by 2.03
+compared with those being transferred to hospital from IHTT, implying an
+association between hospital admission and a worsening CGI score, and
+adding to the face validity of this measure. A study from Taiwan11 also
+showed that patients with schizophrenia treated with community home care
+case management had a significant reduction in the frequency of hospital
+admission, and a systematic review12 from 2017 showed that home-based
+intervention improves patients’ quality of life and autonomy.
 
 Twenty-four per cent of patients were admitted to hospital from IHTT,
 and the average CGI score at entry to IHTT of those who were eventually
@@ -350,45 +349,45 @@ account in this study.
 
 Of note, the gender ratio of the patient population in our study was
 almost 1:1, whereas usually one would expect a ratio of 1.4:1 in a
-population of patients with a diagnosis of schizophrenia.(n.d.e) This
-may have been due to our inclusion criteria being not just schizophrenia
-but also its related disorders. Additionally, amongst the five deaths in
-our patient population over the 5-year period there was only one
-suicide, which is theoretically lower than expected for this city-wide
-population.(n.d.h) Beyond this, however, we have no reason to regard our
-study population as unrepresentative, given the lack of local
-alternative acute care pathways.
+population of patients with a diagnosis of schizophrenia.5 This may have
+been due to our inclusion criteria being not just schizophrenia but also
+its related disorders. Additionally, amongst the five deaths in our
+patient population over the 5-year period there was only one suicide,
+which is theoretically lower than expected for this city-wide
+population.8 Beyond this, however, we have no reason to regard our study
+population as unrepresentative, given the lack of local alternative
+acute care pathways.
 
 The mean number of medications a patient was taking was 2.1, with 21% of
 patients prescribed four or more medications. This replicates work
-elsewhere in the UK,(n.d.m) indicating that polypharmacy in this complex
+elsewhere in the UK,13 indicating that polypharmacy in this complex
 disorder is often the ‘real world’ norm, despite a paucity of supportive
-evidence on added efficacy.(n.d.n)\ :sup:`,`\ (n.d.o) Polypharmacy is
-also generally associated with an increased burden of adverse
-side-effects.(n.d.p) Our results show that people who were taking no
-medication, or were non-adherent with their medications, were more
-likely to be admitted to hospital than those taking medication.
-Interestingly, patients taking four or more medications demonstrated the
-most improvement, as measured by CGI-I.
+evidence on added efficacy.14\ :sup:`,`\ 15 Polypharmacy is also
+generally associated with an increased burden of adverse side-effects.16
+Our results show that people who were taking no medication, or were
+non-adherent with their medications, were more likely to be admitted to
+hospital than those taking medication. Interestingly, patients taking
+four or more medications demonstrated the most improvement, as measured
+by CGI-I.
 
 Our results showed that 9% of the patient population in this study were
 taking no medication or were non-adherent with medication according to
 recorded clinician ratings, although medication non-adherence rates in
-wider community samples are closer to 50%.(n.d.q) This discrepancy may
-have been due to many factors, including simple forgetfulness, a
-reluctance of the patient to acknowledge non-adherence, and a failure to
-enquire about it in a consistent manner.
+wider community samples are closer to 50%.17 This discrepancy may have
+been due to many factors, including simple forgetfulness, a reluctance
+of the patient to acknowledge non-adherence, and a failure to enquire
+about it in a consistent manner.
 
-Drug and alcohol misuse are common in people with schizophrenia,(n.d.r)
-and our results show a higher proportion of people with schizophrenia
+Drug and alcohol misuse are common in people with schizophrenia,18 and
+our results show a higher proportion of people with schizophrenia
 misusing drugs than alcohol (`Table 4 <#tab04>`__), suggesting a
 correlation between drug use, rather than alcohol misuse, and
-schizophrenia. Menezes *et al*\ (n.d.s) analysed drug and alcohol
-problems among 171 individuals with severe mental illness in South
-London, finding that 36% had a 1-year prevalence rate for any substance
-problem, compared with alcohol at 32% and drugs at 16%, contrary to our
-findings. This comorbidity has been shown previously to contribute to
-the premature mortality of those with schizophrenia.(n.d.t)
+schizophrenia. Menezes *et al*\ 19 analysed drug and alcohol problems
+among 171 individuals with severe mental illness in South London,
+finding that 36% had a 1-year prevalence rate for any substance problem,
+compared with alcohol at 32% and drugs at 16%, contrary to our findings.
+This comorbidity has been shown previously to contribute to the
+premature mortality of those with schizophrenia.20
 
 .. _sec4-1:
 
@@ -399,9 +398,9 @@ There were various limitations to this study. First, the patient
 population was from one IHTT only; therefore, the results may not be
 applicable to all IHTTs or CRHTs. Furthermore, this was an observational
 study, so comparative conclusions should not be made. Although CGI has
-been shown to be a good measure of observer rated clinical
-outcomes,(n.d.j) it remains open to potential bias. Finally, data
-collection errors may possibly have occurred without our knowledge.
+been shown to be a good measure of observer rated clinical outcomes,10
+it remains open to potential bias. Finally, data collection errors may
+possibly have occurred without our knowledge.
 
 .. _sec4-2:
 
@@ -420,8 +419,7 @@ Polypharmacy appears to be standard medical practice for people with
 schizophrenia, despite a lack of supportive evidence of added efficacy.
 Drug and alcohol misuse are common in people with psychotic illness,
 with higher rates than in the general population, arguably contributing
-to the significant morbidity and mortality seen with this
-condition.(n.d.s)
+to the significant morbidity and mortality seen with this condition.19
 
 We thank Dr Kader, Julie, Trish and all other IHTT staff, as well as
 Nicoletta Adamo.
@@ -446,109 +444,6 @@ http://dx.doi.org/10.1192/bjb.2018.56.
    .. rubric:: 
 
    click here to view supplementary material
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-ref1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-ref2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-ref3
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-ref4
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-ref5
-
-      n.d.e.
-
-   .. container:: csl-entry
-      :name: ref-ref6
-
-      n.d.f.
-
-   .. container:: csl-entry
-      :name: ref-ref7
-
-      n.d.g.
-
-   .. container:: csl-entry
-      :name: ref-ref8
-
-      n.d.h.
-
-   .. container:: csl-entry
-      :name: ref-ref9
-
-      n.d.i.
-
-   .. container:: csl-entry
-      :name: ref-ref10
-
-      n.d.j.
-
-   .. container:: csl-entry
-      :name: ref-ref11
-
-      n.d.k.
-
-   .. container:: csl-entry
-      :name: ref-ref12
-
-      n.d.l.
-
-   .. container:: csl-entry
-      :name: ref-ref13
-
-      n.d.m.
-
-   .. container:: csl-entry
-      :name: ref-ref14
-
-      n.d.n.
-
-   .. container:: csl-entry
-      :name: ref-ref15
-
-      n.d.o.
-
-   .. container:: csl-entry
-      :name: ref-ref16
-
-      n.d.p.
-
-   .. container:: csl-entry
-      :name: ref-ref17
-
-      n.d.q.
-
-   .. container:: csl-entry
-      :name: ref-ref18
-
-      n.d.r.
-
-   .. container:: csl-entry
-      :name: ref-ref19
-
-      n.d.s.
-
-   .. container:: csl-entry
-      :name: ref-ref20
-
-      n.d.t.
 
 .. [1]
    FGA, first-generation antipsychotic; SGA, second generation

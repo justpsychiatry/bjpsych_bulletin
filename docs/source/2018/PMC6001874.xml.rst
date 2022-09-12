@@ -2,6 +2,8 @@
 Antidepressants in paediatric depression: do not look back in anger but around in awareness
 ===========================================================================================
 
+
+
 David A. Brent
 Robert D. Gibbons
 Paul Wilkinson
@@ -48,18 +50,18 @@ the relative efficacy and tolerability of antidepressants for paediatric
 depression, and the accompanying editorial that appeared in the Lancet.
 The meta-analysis provides useful information for researchers and
 practitioners, but undervalues the benefits of antidepressants and
-over-weights the risks.(n.d.a) The accompanying editorial takes this
-bias as its point of departure, fuelled by righteous indignation about
-the deceptive reporting and publication practices of some industry-led
-studies.(n.d.b) While this anger is justified, we believe that it should
-not preclude the reporting of benefits from the use of antidepressants
-in depressed youth, when supported by data.
+over-weights the risks.1 The accompanying editorial takes this bias as
+its point of departure, fuelled by righteous indignation about the
+deceptive reporting and publication practices of some industry-led
+studies.2 While this anger is justified, we believe that it should not
+preclude the reporting of benefits from the use of antidepressants in
+depressed youth, when supported by data.
 
 Cipriani and colleagues have contributed a carefully and transparently
 conducted NMA of the comparative efficacy and tolerability (defined as
 discontinuation of the drug) of antidepressants for paediatric major
-depression.(n.d.a) This meta-analysis examined 34 randomised clinical
-trials (RCTs) that encompassed 5260 participants and tested 14 different
+depression.1 This meta-analysis examined 34 randomised clinical trials
+(RCTs) that encompassed 5260 participants and tested 14 different
 antidepressants. In the overall NMA, fluoxetine was the only agent found
 to be significantly more effective than placebo in reducing depressive
 symptoms (*d*  =  −0.51, 95% CI −0.99 to −0.03). Fluoxetine was no
@@ -98,8 +100,7 @@ the muster of NMA, this effect is robust enough. The authors do not
 offer a bar above which these data are expected to pass. Moreover, the
 authors support the use of evidence-based psychotherapy for the
 treatment of paediatric depression, although it has a much smaller
-effect on paediatric depression than does fluoxetine
-(*d* = 0.29).(n.d.c)
+effect on paediatric depression than does fluoxetine (*d* = 0.29).3
 
 The authors raised appropriate suspicion about studies conducted by
 industry, yet, in the case of fluoxetine, they raise the reverse concern
@@ -109,24 +110,23 @@ exaggerated treatment effect’. These concerns are not grounded in facts.
 First, the National Institute of Mental Health (NIMH)-sponsored
 Treatment of Adolescent Depression Study (TADS) was one of the largest
 placebo-controlled paediatric depression trials, involving 423 young
-people.(n.d.d) Second, since both published and unpublished studies with
-small samples were included, findings are just as likely to yield a Type
-II error as to result in a spurious positive finding. Third, other
-studies of paediatric and adult depression have found that the effect
-size is lower, and the placebo effect higher, when a greater number of
-sites is involved, as is more common in industry-sponsored
-studies.(n.d.e)\ :sup:`–`\ (n.d.f) In fact, a paper co-authored by the
-lead author examining trends in clinical trials of antipsychotics
-observed that ‘effect sizes were reduced by industry sponsorship and
-increasing placebo response, not decreasing drug response’, and
-recommended that ‘drug development may benefit from *smaller samples but
-better-selected patients*\ ’ (italics ours).(n.d.g) We would argue that
-‘smaller samples’ of ‘better-selected patients’ would be considered to
-be a positive design feature in antidepressant RCTs for paediatric
-depression as well. Finally, re-analyses of the fluoxetine trials for
-paediatric depression using patient-level data have found efficacy in
-the reduction of depression comparable to that reported in
-adults.(n.d.h)
+people.4 Second, since both published and unpublished studies with small
+samples were included, findings are just as likely to yield a Type II
+error as to result in a spurious positive finding. Third, other studies
+of paediatric and adult depression have found that the effect size is
+lower, and the placebo effect higher, when a greater number of sites is
+involved, as is more common in industry-sponsored studies.5\ :sup:`–`\ 7
+In fact, a paper co-authored by the lead author examining trends in
+clinical trials of antipsychotics observed that ‘effect sizes were
+reduced by industry sponsorship and increasing placebo response, not
+decreasing drug response’, and recommended that ‘drug development may
+benefit from *smaller samples but better-selected patients*\ ’ (italics
+ours).8 We would argue that ‘smaller samples’ of ‘better-selected
+patients’ would be considered to be a positive design feature in
+antidepressant RCTs for paediatric depression as well. Finally,
+re-analyses of the fluoxetine trials for paediatric depression using
+patient-level data have found efficacy in the reduction of depression
+comparable to that reported in adults.9
 
 The authors found that both sertraline and escitalopram had significant
 effects on the reduction in depressive symptoms on pairwise
@@ -142,7 +142,7 @@ serotonin–noradrenaline reuptake inhibitors (SNRIs) and tricyclic
 antidepressants (TCAs). Inspection of the data suggests that SSRIs would
 show a more favourable effect on depressive symptoms and better
 tolerance compared with TCAs, which is a message found in previous
-meta-analyses, but worth repeating.(n.d.i)
+meta-analyses, but worth repeating.10
 
 The authors state that the risk–benefit profile is not favourable for
 antidepressants. Part of this argument is based on wide confidence
@@ -168,20 +168,20 @@ in the majority of these studies was based on spontaneous report, rather
 than systematic assessment. One study that compared the rate of events
 by spontaneous reporting and systematic assessment found that
 spontaneous reporting of suicidal events underestimated the rate of
-events by a factor of 2.5.(n.d.j) Moreover, patients on medication,
-perhaps owing to side-effects, might be more likely to report suicidal
-events, thus biasing conclusions based on these methods. In one of the
-few placebo-controlled trials that utilised systematic assessment of
+events by a factor of 2.5.11 Moreover, patients on medication, perhaps
+owing to side-effects, might be more likely to report suicidal events,
+thus biasing conclusions based on these methods. In one of the few
+placebo-controlled trials that utilised systematic assessment of
 suicidal events, no difference was found between duloxetine, fluoxetine
-and placebo in the frequency of suicidal events.(n.d.k) Second, there
-are inherent limitations in clinical trials, since those patients most
+and placebo in the frequency of suicidal events.12 Second, there are
+inherent limitations in clinical trials, since those patients most
 likely to be treated with an antidepressant are least likely to be
 enrolled into an RCT. For example, a recent suicide attempt is an
 exclusion for almost all paediatric depression pharmacotherapy RCTs. In
 a study of the relationship between a suicide attempt and initiation of
 antidepressant treatment in one large healthcare system, a suicide
 attempt was a common precipitant for *starting* an antidepressant in
-adolescents and in adults.(n.d.l) Moreover, in these youth, the rate of
+adolescents and in adults.13 Moreover, in these youth, the rate of
 suicide attempts was highest *prior* to the initiation of treatment,
 suggesting that antidepressants are protective against suicidal
 behaviour, even in young people. Although causal inferences cannot be
@@ -190,19 +190,18 @@ of larger size, representativeness, longer duration of treatment, and
 ability to link treatment to suicide, not just to suicidal events. While
 not incontrovertible, there are many observational studies showing
 strong inverse associations between prescription and sales rates of
-SSRIs and suicide, including suicide in
-adolescents.(n.d.m)\ :sup:`–`\ (n.d.n) Conversely, after the Black Box
-Warning, there has been at least a temporary decline in antidepressant
-prescriptions in the United States, Canada and The Netherlands,
-accompanied by an uptick in adolescent
-suicides.(n.d.o)\ :sup:`,`\ (n.d.p) If antidepressants were strongly
-associated with suicide, one would expect that a decline in
-antidepressant prescriptions would be accompanied by a corresponding
-decline in suicide, rather than the exact opposite.
+SSRIs and suicide, including suicide in adolescents.14\ :sup:`–`\ 16
+Conversely, after the Black Box Warning, there has been at least a
+temporary decline in antidepressant prescriptions in the United States,
+Canada and The Netherlands, accompanied by an uptick in adolescent
+suicides.17\ :sup:`,`\ 18 If antidepressants were strongly associated
+with suicide, one would expect that a decline in antidepressant
+prescriptions would be accompanied by a corresponding decline in
+suicide, rather than the exact opposite.
 
 This carefully conducted meta-analysis was accompanied by an editorial
 that was a polemic against the use of antidepressants, entitled
-‘Antidepressants fail, but no cause for therapeutic gloom’.(n.d.b) The
+‘Antidepressants fail, but no cause for therapeutic gloom’.2 The
 editorialist asserted that the extant literature greatly exaggerates the
 benefits of antidepressants and downplays their risks, owing to the poor
 data quality and selective reporting of results. He recommended that
@@ -227,27 +226,26 @@ failure to publish and disclose data. However, the largest single
 clinical trial of antidepressants in paediatric depression, TADS, was
 not sponsored by industry, but by NIMH. This study showed a higher rate
 of response and better functioning in those assigned to fluoxetine
-versus those assigned to placebo.(n.d.d)\ :sup:`,`\ (n.d.q) While the
-editorialist raised the question of whether association implies
-causality, a blinded placebo-controlled trial has long been considered
-the gold standard for causal inferences. The editorialist also suggests
-that supportive therapy is likely to be more effective, and less
-harmful, than fluoxetine. However, the placebo condition in TADS
-involved supportive management, and resulted in a response rate of only
-35% *v.* 61% for those treated with fluoxetine.(n.d.d) Although there
-were more spontaneously reported suicidal events (which includes
-thoughts without acts) in those treated with fluoxetine than in those
-treated with placebo, the response rate after 12 weeks of treatment was
-much higher in those treated with fluoxetine, and absolute risk
-differences were several-fold higher for efficacy than for suicidal
-events.(n.d.r)\ :sup:`,`\ (n.d.s) Moreover, a comparison of another
-version of cognitive–behavioural therapy (CBT) with supportive treatment
-found that CBT was much more efficacious.(n.d.t) Therefore, results of
-the TADS trial and other published data completely refute the
-editorialist's assertions that industry sponsorship of some studies
-automatically dilutes the efficacy reports of medication, including
-fluoxetine, that causality cannot be inferred from an RCT, and that
-supportive care would be superior to treatment with fluoxetine.
+versus those assigned to placebo.4\ :sup:`,`\ 19 While the editorialist
+raised the question of whether association implies causality, a blinded
+placebo-controlled trial has long been considered the gold standard for
+causal inferences. The editorialist also suggests that supportive
+therapy is likely to be more effective, and less harmful, than
+fluoxetine. However, the placebo condition in TADS involved supportive
+management, and resulted in a response rate of only 35% *v.* 61% for
+those treated with fluoxetine.4 Although there were more spontaneously
+reported suicidal events (which includes thoughts without acts) in those
+treated with fluoxetine than in those treated with placebo, the response
+rate after 12 weeks of treatment was much higher in those treated with
+fluoxetine, and absolute risk differences were several-fold higher for
+efficacy than for suicidal events.20\ :sup:`,`\ 21 Moreover, a
+comparison of another version of cognitive–behavioural therapy (CBT)
+with supportive treatment found that CBT was much more efficacious.22
+Therefore, results of the TADS trial and other published data completely
+refute the editorialist's assertions that industry sponsorship of some
+studies automatically dilutes the efficacy reports of medication,
+including fluoxetine, that causality cannot be inferred from an RCT, and
+that supportive care would be superior to treatment with fluoxetine.
 
 What is a clinician to make of this meta-analysis and editorial? We
 believe that the findings from the meta-analysis support current
@@ -255,30 +253,29 @@ clinical guidelines. In the UK, National Institute for Health and Care
 Excellence (NICE) guidelines advise the first-line use of an
 evidence-based psychotherapy such as interpersonal therapy or CBT, and,
 if the patient does not respond, to then consider adding
-pharmacotherapy, namely, fluoxetine.(n.d.u) We continue to support this
+pharmacotherapy, namely, fluoxetine.23 We continue to support this
 approach. Also, as per NICE guidelines, in cases of severe, chronic or
 treatment-resistant depression, there is evidence to support starting
 with a combination of psychotherapy and pharmacotherapy, which has been
 shown to be superior to medication monotherapy for treatment-resistant
-depression.(n.d.u)\ :sup:`–`\ (n.d.v) Despite the 0% rate of suicidal
-events in the placebo cells for venlafaxine studies, we agree that
-caution is indicated in the use of this agent, insofar as SSRIs are just
-as effective for treatment-resistant depression as venlafaxine, but
-their use results in fewer side-effects, and lower levels of suicidal
-ideation and events.(n.d.j)\ :sup:`,`\ (n.d.w) Moreover, these
-meta-analyses are consistent with the view that other antidepressants,
-such as sertraline and escitalopram, are reasonable and effective
-alternatives should patients have a history of not responding to an
-adequate trial of fluoxetine. The risk–benefit ratio for use of
-antidepressants in paediatric depression is relatively favourable, with
-about 11 times more young people responding to an antidepressant than
-developing suicidal events.(n.d.e) Moreover, the shadow cast by the
-Black Box Warning should not discourage the clinician from using
-antidepressants for the treatment of anxiety and obsessive–compulsive
-disorders, as treatment of these conditions with SSRIs is more likely to
-result in a clinical response, and less likely to result in a suicidal
-event, compared with antidepressant treatment of paediatric
-depression.(n.d.e)\ :sup:`,`\ (n.d.x)
+depression.23\ :sup:`–`\ 25 Despite the 0% rate of suicidal events in
+the placebo cells for venlafaxine studies, we agree that caution is
+indicated in the use of this agent, insofar as SSRIs are just as
+effective for treatment-resistant depression as venlafaxine, but their
+use results in fewer side-effects, and lower levels of suicidal ideation
+and events.11\ :sup:`,`\ 26 Moreover, these meta-analyses are consistent
+with the view that other antidepressants, such as sertraline and
+escitalopram, are reasonable and effective alternatives should patients
+have a history of not responding to an adequate trial of fluoxetine. The
+risk–benefit ratio for use of antidepressants in paediatric depression
+is relatively favourable, with about 11 times more young people
+responding to an antidepressant than developing suicidal events.5
+Moreover, the shadow cast by the Black Box Warning should not discourage
+the clinician from using antidepressants for the treatment of anxiety
+and obsessive–compulsive disorders, as treatment of these conditions
+with SSRIs is more likely to result in a clinical response, and less
+likely to result in a suicidal event, compared with antidepressant
+treatment of paediatric depression.5\ :sup:`,`\ 27
 
 Our job as responsible scientists and clinicians is to inform patients
 and families about the risks and benefits of each intervention, with
@@ -289,7 +286,7 @@ scientific obfuscation and deception, but we should not paint all
 studies and findings with the same broad brush. Instead, let us consider
 the wise words of the blind, but insightful, author James Thurber, who
 advised us to ‘not look back in anger, or forward in fear, but around in
-awareness’.(n.d.y)
+awareness’.28
 
 This editorial was supported by grant MH108039 (to D.A.B.) from the
 NIMH.
@@ -304,131 +301,3 @@ Cambridge, and Cambridgeshire and Peterborough NHS Foundation Trust,
 Cambridge, UK; Bernadka Dubicka, MD, Institute of Brain, Behaviour and
 Mental Health, University of Manchester, UK, and Lancashire Care
 Foundation Trust, Preston, UK.
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-ref1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-ref2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-ref3
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-ref4
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-ref5
-
-      n.d.e.
-
-   .. container:: csl-entry
-      :name: ref-ref7
-
-      n.d.f.
-
-   .. container:: csl-entry
-      :name: ref-ref8
-
-      n.d.g.
-
-   .. container:: csl-entry
-      :name: ref-ref9
-
-      n.d.h.
-
-   .. container:: csl-entry
-      :name: ref-ref10
-
-      n.d.i.
-
-   .. container:: csl-entry
-      :name: ref-ref11
-
-      n.d.j.
-
-   .. container:: csl-entry
-      :name: ref-ref12
-
-      n.d.k.
-
-   .. container:: csl-entry
-      :name: ref-ref13
-
-      n.d.l.
-
-   .. container:: csl-entry
-      :name: ref-ref14
-
-      n.d.m.
-
-   .. container:: csl-entry
-      :name: ref-ref16
-
-      n.d.n.
-
-   .. container:: csl-entry
-      :name: ref-ref17
-
-      n.d.o.
-
-   .. container:: csl-entry
-      :name: ref-ref18
-
-      n.d.p.
-
-   .. container:: csl-entry
-      :name: ref-ref19
-
-      n.d.q.
-
-   .. container:: csl-entry
-      :name: ref-ref20
-
-      n.d.r.
-
-   .. container:: csl-entry
-      :name: ref-ref21
-
-      n.d.s.
-
-   .. container:: csl-entry
-      :name: ref-ref22
-
-      n.d.t.
-
-   .. container:: csl-entry
-      :name: ref-ref23
-
-      n.d.u.
-
-   .. container:: csl-entry
-      :name: ref-ref25
-
-      n.d.v.
-
-   .. container:: csl-entry
-      :name: ref-ref26
-
-      n.d.w.
-
-   .. container:: csl-entry
-      :name: ref-ref27
-
-      n.d.x.
-
-   .. container:: csl-entry
-      :name: ref-ref28
-
-      n.d.y.

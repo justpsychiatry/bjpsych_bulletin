@@ -2,6 +2,8 @@
 Men in eating disorder units: a service evaluation survey regarding mixed gender accommodation rules in an eating disorder setting
 ==================================================================================================================================
 
+
+
 Akira Fukutomi
 Frances Connan
 Anthony P. Winston
@@ -47,9 +49,9 @@ Pia GhoshCorrespondence to Dr Akira Fukutomi (fukutomiakira@gmail.com)
 
 In 2010, the Department of Health (DoH) set guidelines for all hospitals
 to eliminate mixed gender wards to preserve privacy and dignity for
-patients.(n.d.a) In specialist eating disorder services, all-male wards
-do not exist due to the low prevalence of the disorder in males compared
-with females. This leads to the paradoxical situation where men have
+patients.1 In specialist eating disorder services, all-male wards do not
+exist due to the low prevalence of the disorder in males compared with
+females. This leads to the paradoxical situation where men have
 difficulty accessing an eating disorder bed under these DoH guidelines.
 Some hospital trusts have modified their accommodation or procedures in
 light of Care Quality Commission (CQC) guidelines set by the DoH to
@@ -60,14 +62,14 @@ gender accommodation rules.
 Anecdotally, there has been positive feedback from having men in eating
 disorder wards: they provide a less competitive atmosphere, a different
 perspective in group treatments and reduce the institutional nature of
-the environment. A survey performed by Mezey *et al*\ (n.d.b) in a
-medium secure forensic setting found similar results, where most female
+the environment. A survey performed by Mezey *et al*\ 2 in a medium
+secure forensic setting found similar results, where most female
 patients preferred to be among male patients. A small qualitative study
 interviewed male in-patients with eating disorders and one participant
 said that eating disorder is ‘gender-excluding as a disorder’ and
 ‘reasons why you get there are probably slightly different but in the
-end all roads lead to Rome’,(n.d.c) suggesting that the same treatment
-applies to both genders. There has yet to be any evaluation of patient
+end all roads lead to Rome’,3 suggesting that the same treatment applies
+to both genders. There has yet to be any evaluation of patient
 perceptions on mixed versus single gender environments in an eating
 disorder setting. We therefore collaborated with National Health Service
 England to conduct a service evaluation survey, gathering information
@@ -242,8 +244,8 @@ thoughts behind segregating the genders, such as having to dress
 differently or having separate lounges, were not deemed very important
 by the patients. Unfortunately we confirmed that a handful of units have
 closed to male admissions due to interpretation of DoH regulations.
-Drawing parallels from the study by Mezey *et al*,(n.d.b) it may be that
-due to the long-stay nature of the ward and treatment duration, having a
+Drawing parallels from the study by Mezey *et al*,2 it may be that due
+to the long-stay nature of the ward and treatment duration, having a
 sense of normality and the reduction in competitiveness by having a
 mixed gender unit helps to provide a more therapeutic setting. This
 survey suggests that both professionals and patients believe that eating
@@ -301,21 +303,3 @@ http://dx.doi.org/10.1192/bjb.2018.51.
    .. rubric:: 
 
    click here to view supplementary material
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-ref1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-ref2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-ref3
-
-      n.d.c.

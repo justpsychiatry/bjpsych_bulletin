@@ -2,6 +2,8 @@
 Weekend new patient reviews in psychiatry: evaluation of activity over 3 months
 ===============================================================================
 
+
+
 Michael Rutherford
 Mark PotterCorrespondence to Michael Rutherford
 (michael.rutherford@swlstg-tr.nhs.uk)  [1]_
@@ -36,7 +38,7 @@ deliver senior-led care throughout weekends and bank holidays. This
 7-day working is felt to be potentially beneficial for patient care and
 has been started by many acute specialties. The Academy of Medical Royal
 Colleges released a report in 2013 outlining how this could be achieved
-for different specialties, including psychiatry. :sup:`(n.d.a)` They
+for different specialties, including psychiatry. :sup:`1` They
 recommended that 21–30% of psychiatric in-patients would benefit from a
 daily consultant-led review; mainly those who have been newly admitted
 or are clinically unstable. They stated that all new admissions,
@@ -383,7 +385,7 @@ prevented difficulties in coordinating with social care and other
 agencies during the weekend. The system used by the Trust enabled it to
 provide senior medical input 7 days a week in acute services without
 disrupting weekday working or leading to any of the other concerns
-raised by some authors. :sup:`(n.d.b)`
+raised by some authors. :sup:`2`
 
 .. _S4:
 
@@ -391,7 +393,7 @@ Conclusions
 -----------
 
 There has been increasing emphasis on providing more senior weekend
-medical input across all specialties. :sup:`(n.d.a)` In psychiatry, the
+medical input across all specialties. :sup:`1` In psychiatry, the
 recommendations were mainly in terms of newly admitted patients.
 
 Weekend reviews of newly admitted patients by higher trainees, with
@@ -402,29 +404,11 @@ a core trainee. This would not be considered appropriate in any other
 medical specialty. If we are to be committed to parity of esteem in
 healthcare, then it is reasonable for patients admitted to psychiatric
 wards to be reviewed by a senior clinician within 24 h, as they would in
-any other hospital. :sup:`(n.d.c)` This is particularly pertinent as the
+any other hospital. :sup:`3` This is particularly pertinent as the
 higher trainees provided some intervention in most patients, modifying
 medications in just under half of those admitted. It may be valuable to
 determine how this compares with patients reviewed during medical or
 surgical post-take rounds.
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-R1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-R2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-R3
-
-      n.d.c.
 
 .. [1]
    **Dr Michael Rutherford**, Specialist Trainee 6, South West London

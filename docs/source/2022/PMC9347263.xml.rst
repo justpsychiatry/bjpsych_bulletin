@@ -2,6 +2,8 @@
 The recording of mental health consultations by patients: clinical, ethical and legal considerations
 ====================================================================================================
 
+
+
 Thomas Hewson
 Seri Abraham
 Nathan Randles
@@ -40,20 +42,19 @@ Recording consultations is increasingly accessible for patients as
 smartphones and electronic devices with recording capabilities have
 become ubiquitous in modern society. The integration of these devices
 into healthcare has been accelerated by the COVID-19 pandemic, which
-prompted a global upsurge in the use of telemedicine.\ :sup:`(n.d.a)`
-Many digital platforms that are used for online consultations, including
-Zoom and Microsoft Teams, have in-built recording functions.
+prompted a global upsurge in the use of telemedicine.\ :sup:`1` Many
+digital platforms that are used for online consultations, including Zoom
+and Microsoft Teams, have in-built recording functions.
 
 Several reasons have been suggested for why patients record healthcare
 consultations. These include enhancing their understanding of healthcare
 information, replaying clinical encounters, sharing these with others
-and for therapeutic purposes.\ :sup:`(n.d.b)` Some patients hold digital
+and for therapeutic purposes.\ :sup:`2` Some patients hold digital
 copies of consultations to evidence the care received and to support any
-future complains or litigation;\ :sup:`(n.d.b)` this may particularly be
-the case if patients have had prior negative healthcare experiences or
-lost trust in healthcare providers. For some patients, digital
-recordings provide a sense of ownership over their health
-information.\ :sup:`(n.d.b)`
+future complains or litigation;\ :sup:`2` this may particularly be the
+case if patients have had prior negative healthcare experiences or lost
+trust in healthcare providers. For some patients, digital recordings
+provide a sense of ownership over their health information.\ :sup:`2`
 
 .. _sec2:
 
@@ -64,9 +65,9 @@ The General Medical Council (GMC) recommends that doctors make
 arrangements, wherever practical, to support patients in understanding
 and retaining health information; such support is described to include
 accommodating a patient's wish to record relevant
-conversations.\ :sup:`(n.d.c)` They clearly state that doctors must
-obtain patients’ consent to conduct visual or audio recordings of
-them.\ :sup:`(n.d.d)` However, the GMC currently does not provide formal
+conversations.\ :sup:`3` They clearly state that doctors must obtain
+patients’ consent to conduct visual or audio recordings of
+them.\ :sup:`4` However, the GMC currently does not provide formal
 guidance on the management of other circumstances in which patients
 record healthcare interactions. For example, should clinicians encourage
 patients to record them for reasons other than understanding and
@@ -75,25 +76,25 @@ retaining information?
 The Medical Defence Union (MDU), Medical Protection Society (MPS) and
 British Medical Association (BMA) advise that patients do not require
 the doctor's permission to record their healthcare
-consultations.\ :sup:`(n.d.e)–(n.d.f)` This is because information
-disclosed during a consultation is confidential to the patient, not the
-doctor, and a recording is therefore not a breach of confidentiality in
-itself. Similarly, where recordings are made entirely for personal
-reasons, they are unlikely to engage the Data Protection Act. The MPS
-further advises that a doctor's duty of care should prevail over any
-reluctance to engage in filming by patients.\ :sup:`(n.d.g)`
+consultations.\ :sup:`5–7` This is because information disclosed during
+a consultation is confidential to the patient, not the doctor, and a
+recording is therefore not a breach of confidentiality in itself.
+Similarly, where recordings are made entirely for personal reasons, they
+are unlikely to engage the Data Protection Act. The MPS further advises
+that a doctor's duty of care should prevail over any reluctance to
+engage in filming by patients.\ :sup:`6`
 
 Although patients can record healthcare consultations, it is less clear
 how the recorded material can be utilised. The MPS declares that, since
 ‘the content of the recording is confidential to the patient, not the
 doctor’ this means that ‘the patient can do what they wish with
-it’.\ :sup:`(n.d.g)` However, the BMA advises that healthcare staff can
-request the removal of recorded materials posted online;\ :sup:`(n.d.f)`
+it’.\ :sup:`6` However, the BMA advises that healthcare staff can
+request the removal of recorded materials posted online;\ :sup:`7`
 furthermore, refusal of this request could result in litigation owing to
 misuse of the professional's private information. Depending on the
 nature of the posting, it could potentially violate the Protection from
 Harassment Act 1997, the Malicious Communications Act 1988 or the
-Communications Act 2003.\ :sup:`(n.d.f)`
+Communications Act 2003.\ :sup:`7`
 
 Interestingly, none of the above organisations specifically refer to the
 mental health or mental capacity of the patient making the recording,
@@ -108,8 +109,8 @@ The Mental Health Act Code of Practice applies to patients detained
 under the Mental Health Act 1983. It states that ‘when patients are
 admitted, staff should assess the risk and appropriateness of patients
 having access to mobile phones and other electronic devices and this
-should be detailed in the patient's care plan’.\ :sup:`(n.d.h)` It does
-not directly comment on the use of devices for recording healthcare
+should be detailed in the patient's care plan’.\ :sup:`8` It does not
+directly comment on the use of devices for recording healthcare
 encounters; nonetheless, it seems reasonable to apply the principles of
 the above statement to this situation. The terms ‘risk’ and
 ‘appropriateness’ suggest that professionals should consider the safety
@@ -156,7 +157,7 @@ mental illness.
 Recorded consultations also potentially offer more accurate, detailed
 and undisputable accounts of healthcare interactions than those that are
 formally documented, especially for lengthy clinical encounters where
-clinicians must summarise vast amounts of information.\ :sup:`(n.d.g)`
+clinicians must summarise vast amounts of information.\ :sup:`6`
 Consultations recorded over time may help patients to chart their
 progress and response to care.
 
@@ -203,7 +204,7 @@ mental capacity to record their healthcare encounter; consequently, the
 healthcare professional would have a professional and legal duty to act
 in their best interests. Healthcare professionals must remember that
 mental capacity is assumed until proven otherwise, and unwise decisions
-do not equate to the loss of mental capacity.\ :sup:`(n.d.i)`
+do not equate to the loss of mental capacity.\ :sup:`9`
 
 Clinicians should be mindful of the content of healthcare consultations
 and patients’ reactions to this. Discussing sensitive topics such as
@@ -234,25 +235,24 @@ Healthcare professionals must protect the safety, dignity and privacy of
 all patients. A common concern is that healthcare recordings may include
 the voice, image or details of other patients in the vicinity of the
 recording. This could potentially breach their privacy rights under
-Article 8 of the European Convention on Human
-Rights.\ :sup:`(n.d.f),(n.d.j)` The increased use of single bedrooms in
-mental health units lessens this risk; however, in-patient mental health
-wards are often louder than other environments and professionals should
-consider whether other patients are visible or audible in the
-background. In such circumstances, it seems best practice that the
-patient is offered an alternative environment for the consultation to be
-recorded in. If this is not feasible, the recording may need to be
-prevented to preserve the confidentiality and privacy of other patients.
-The proximity of colleagues to the recording should also be considered
-to protect their privacy and to avoid indirectly compromising patient
-confidentiality, such as by capturing a colleague's discussions relating
-to others.
+Article 8 of the European Convention on Human Rights.\ :sup:`7,10` The
+increased use of single bedrooms in mental health units lessens this
+risk; however, in-patient mental health wards are often louder than
+other environments and professionals should consider whether other
+patients are visible or audible in the background. In such
+circumstances, it seems best practice that the patient is offered an
+alternative environment for the consultation to be recorded in. If this
+is not feasible, the recording may need to be prevented to preserve the
+confidentiality and privacy of other patients. The proximity of
+colleagues to the recording should also be considered to protect their
+privacy and to avoid indirectly compromising patient confidentiality,
+such as by capturing a colleague's discussions relating to others.
 
 The content of healthcare conversations can include details of third
-parties whose confidentiality should be protected.\ :sup:`(n.d.k)` For
-this reason, when patients request access to their medical records,
-content relating to external persons is usually omitted before granting
-access.\ :sup:`(n.d.k)` A similar process should apply to recorded
+parties whose confidentiality should be protected.\ :sup:`11` For this
+reason, when patients request access to their medical records, content
+relating to external persons is usually omitted before granting
+access.\ :sup:`11` A similar process should apply to recorded
 consultations, with the doctor ensuring that the recorded material does
 not breach the confidentiality of others.
 
@@ -264,13 +264,13 @@ Further ethical and legal considerations
 Owing to the nature of mental illness, some patients lack the mental
 capacity to make decisions regarding their care. For example,
 approximately 40–60% of psychiatric in-patients have been estimated to
-lack capacity regarding treatment decisions.\ :sup:`(n.d.l),(n.d.m)`
-This means that recorded consultations may not accurately reflect a
-patient's desires and opinions, especially if these change throughout
-the course of the person's illness or if treatment is being provided
-against their wishes (under the principles of the Mental Capacity Act or
-the Mental Health Act). These factors should be considered when
-interpreting prior recordings made by patients.
+lack capacity regarding treatment decisions.\ :sup:`12,13` This means
+that recorded consultations may not accurately reflect a patient's
+desires and opinions, especially if these change throughout the course
+of the person's illness or if treatment is being provided against their
+wishes (under the principles of the Mental Capacity Act or the Mental
+Health Act). These factors should be considered when interpreting prior
+recordings made by patients.
 
 .. _sec8:
 
@@ -278,23 +278,23 @@ Covert recording
 ================
 
 Studies have estimated that 26–40% of healthcare recordings by patients
-are made covertly.\ :sup:`(n.d.n)` Reasons for this behaviour include
+are made covertly.\ :sup:`14` Reasons for this behaviour include
 distrust in the healthcare system, lack of knowledge regarding policies
 for ‘open’ recording and fear of recordings being prevented by
-clinicians.\ :sup:`(n.d.n)–(n.d.o)` Covert recordings have been used in
-disciplinary proceedings by the GMC,\ :sup:`(n.d.e),(n.d.p)` although
-the BMA highlights that most recordings support the actions of
-doctors.\ :sup:`(n.d.f)` To reduce covert methods, some authors have
-suggested that clinicians should encourage patients to visibly record
-their healthcare interactions.\ :sup:`(n.d.n),(n.d.q)` This could build
-trust, encourage shared decision-making and promote an open and honest
-culture within organisations. This also provides an opportunity for
-patients and clinicians to work together to maximise the benefits and
-reduce the risks of any recording, while ensuring that important
-non-verbal interactions are captured in any media. The practice of
-clinicians encouraging healthcare recordings likely requires
-organisational support and a clear organisational framework to support
-and govern this activity.
+clinicians.\ :sup:`14–16` Covert recordings have been used in
+disciplinary proceedings by the GMC,\ :sup:`5,17` although the BMA
+highlights that most recordings support the actions of
+doctors.\ :sup:`7` To reduce covert methods, some authors have suggested
+that clinicians should encourage patients to visibly record their
+healthcare interactions.\ :sup:`14,15` This could build trust, encourage
+shared decision-making and promote an open and honest culture within
+organisations. This also provides an opportunity for patients and
+clinicians to work together to maximise the benefits and reduce the
+risks of any recording, while ensuring that important non-verbal
+interactions are captured in any media. The practice of clinicians
+encouraging healthcare recordings likely requires organisational support
+and a clear organisational framework to support and govern this
+activity.
 
 .. _sec9:
 
@@ -312,14 +312,14 @@ healthcare. In the UK, children aged 13 years and above are typically
 deemed to have the mental capacity to access personal health records and
 accept or refuse parental access to these; however, there is no strict
 age threshold, and some children achieve mental capacity earlier than
-others.\ :sup:`(n.d.r),(n.d.s)` Children with the relevant mental
-capacity should be permitted to record their consultations and to give
-or deny their parents permission to do so. The healthcare professional
-must also consider any safeguarding concerns or relationship dynamics
-that could influence third party recordings and their clinical
-assessment. For example, children could less freely report difficulties
-at home if their parents are filming healthcare encounters. For patients
-with neurodegenerative conditions or chronic mental illness, early
+others.\ :sup:`18,19` Children with the relevant mental capacity should
+be permitted to record their consultations and to give or deny their
+parents permission to do so. The healthcare professional must also
+consider any safeguarding concerns or relationship dynamics that could
+influence third party recordings and their clinical assessment. For
+example, children could less freely report difficulties at home if their
+parents are filming healthcare encounters. For patients with
+neurodegenerative conditions or chronic mental illness, early
 discussions about their healthcare preferences and other's involvement
 in their care could aid decision-making about recording consultations if
 and when mental capacity is reduced in the future. A potential benefit
@@ -409,101 +409,3 @@ Declaration of interests
 ========================
 
 None.
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-ref1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-ref2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-ref3
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-ref4
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-ref5
-
-      n.d.e.
-
-   .. container:: csl-entry
-      :name: ref-ref6
-
-      n.d.g.
-
-   .. container:: csl-entry
-      :name: ref-ref7
-
-      n.d.f.
-
-   .. container:: csl-entry
-      :name: ref-ref8
-
-      n.d.h.
-
-   .. container:: csl-entry
-      :name: ref-ref9
-
-      n.d.i.
-
-   .. container:: csl-entry
-      :name: ref-ref10
-
-      n.d.j.
-
-   .. container:: csl-entry
-      :name: ref-ref11
-
-      n.d.k.
-
-   .. container:: csl-entry
-      :name: ref-ref12
-
-      n.d.l.
-
-   .. container:: csl-entry
-      :name: ref-ref13
-
-      n.d.m.
-
-   .. container:: csl-entry
-      :name: ref-ref14
-
-      n.d.n.
-
-   .. container:: csl-entry
-      :name: ref-ref15
-
-      n.d.q.
-
-   .. container:: csl-entry
-      :name: ref-ref16
-
-      n.d.o.
-
-   .. container:: csl-entry
-      :name: ref-ref17
-
-      n.d.p.
-
-   .. container:: csl-entry
-      :name: ref-ref18
-
-      n.d.r.
-
-   .. container:: csl-entry
-      :name: ref-ref19
-
-      n.d.s.

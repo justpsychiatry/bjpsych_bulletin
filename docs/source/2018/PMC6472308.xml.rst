@@ -2,6 +2,8 @@
 Follow-up study of 6.5 years of admissions to a UK female medium secure forensic psychiatry unit
 ================================================================================================
 
+
+
 John Tully
 Alessandra Cappai
 John Lally
@@ -49,10 +51,10 @@ Maria FotiadouCorrespondence to John Tully (john.tully@kcl.ac.uk)
 
 Forensic psychiatry services are low-volume, high-cost services which
 seek to balance clinical treatment for public protection with caring for
-vulnerable patient groups.(n.d.a) In the UK, forensic psychiatric
-in-patient care is organised into three levels: high, medium and low
-secure facilities.(n.d.b) Patients are admitted to a specified level of
-security based on forensic history, level of risk to self or others, and
+vulnerable patient groups.1 In the UK, forensic psychiatric in-patient
+care is organised into three levels: high, medium and low secure
+facilities.2 Patients are admitted to a specified level of security
+based on forensic history, level of risk to self or others, and
 diagnosis of a mental disorder. On discharge from in-patient services,
 many patients are subject to conditions under a Community Treatment
 Order (CTO), or ‘restrictions’ under Section 41 of the Mental Health
@@ -67,16 +69,15 @@ roles of forensic services. It is therefore essential that services be
 aware of factors involved in reoffending and readmission.
 
 In the past decade, there has been a six-fold increase in the number of
-women admitted to medium secure forensic psychiatry services
-(MSUs(n.d.c)). Approximately 12–15% of medium secure beds in the UK are
-occupied by women.(n.d.b)\ :sup:`,`\ (n.d.d)\ :sup:`,`\ (n.d.e) Despite
-this, there remains a paucity of demographic and clinical data on female
-MSU patients, particularly in relation to progress after discharge.
-Using a longitudinal cohort design, we assessed clinical risk assessment
-follow-up data and quality of life, using validated measures, in a
-female MSU sample. We also sought to identify clinical and demographic
-factors associated with reoffending and readmission rates following
-hospital discharge.
+women admitted to medium secure forensic psychiatry services (MSUs3).
+Approximately 12–15% of medium secure beds in the UK are occupied by
+women.2\ :sup:`,`\ 4\ :sup:`,`\ 5 Despite this, there remains a paucity
+of demographic and clinical data on female MSU patients, particularly in
+relation to progress after discharge. Using a longitudinal cohort
+design, we assessed clinical risk assessment follow-up data and quality
+of life, using validated measures, in a female MSU sample. We also
+sought to identify clinical and demographic factors associated with
+reoffending and readmission rates following hospital discharge.
 
 .. _sec1:
 
@@ -108,21 +109,21 @@ We examined the electronic clinical records of all patients.
 Demographic, clinical and risk assessment data are collected routinely
 at admission and throughout the course of admission. Standard risk
 assessment during MSU admission in the UK includes the Historical
-Clinical Risk Management-20 (HCR-20(n.d.f)), Health of the Nation
-Outcome Scale (HoNOS), and Health of the Nation Outcome Scales for Users
-of Secure and Forensic Services (HoNOS-Secure(n.d.g)). The predictive
-validity for violence of the HCR-20 has been established in female
-patients in medium secure settings,(n.d.h) and HoNOS has previously been
-used to identify clinical improvements following admission to female
-MSUs.(n.d.i) All patients were assessed using these scales at the time
-of their admission, or shortly after. All patients were reassessed using
-the HCR-20, HoNOS and HoNOS-Secure scales between April and October
-2015. Readmission and reoffending rates following initial discharge were
-collated, based on SLaM data. Quality of life was measured using the
-World Health Organization Quality of Life Scale, brief version
-(WHOQOL-BREF(n.d.j)), which has been validated in large international
-samples, including those with mental illness.(n.d.k) One assessment was
-obtained for each patient, close to or soon after discharge.
+Clinical Risk Management-20 (HCR-206), Health of the Nation Outcome
+Scale (HoNOS), and Health of the Nation Outcome Scales for Users of
+Secure and Forensic Services (HoNOS-Secure7). The predictive validity
+for violence of the HCR-20 has been established in female patients in
+medium secure settings,8 and HoNOS has previously been used to identify
+clinical improvements following admission to female MSUs.9 All patients
+were assessed using these scales at the time of their admission, or
+shortly after. All patients were reassessed using the HCR-20, HoNOS and
+HoNOS-Secure scales between April and October 2015. Readmission and
+reoffending rates following initial discharge were collated, based on
+SLaM data. Quality of life was measured using the World Health
+Organization Quality of Life Scale, brief version (WHOQOL-BREF10), which
+has been validated in large international samples, including those with
+mental illness.11 One assessment was obtained for each patient, close to
+or soon after discharge.
 
 .. _sec1-3:
 
@@ -178,14 +179,14 @@ HoNOS-Secure scales. There were significant improvements on each of
 these scales at follow-up. Quality of life outcomes on WHOQOL-BREF were
 ‘good’ (60–69) for physical (mean 66.2), social (mean 64.3) and
 environmental domains (mean 67), which compared favourably with
-international samples of individuals with mental illness.(n.d.k) The
-mean score for psychological health (mean 58.9) was ‘acceptable’
-(50–59), which was comparable to that of patients with psychotic
-disorders in international samples.(n.d.k) Table 1HCR-20, HoNOS and
-HoNOS-Secure scales: mean differences between initial assessment and
-follow-up assessmentInitial assessment mean scoreFollow-up assessment
-mean scoreMean differences.d.95% CI\ *t*\ d.f.Sig. (2-tailed)HCR
-clinical items6.323.342.973.441.78–4.155.10634<0.001HCR risk
+international samples of individuals with mental illness.11 The mean
+score for psychological health (mean 58.9) was ‘acceptable’ (50–59),
+which was comparable to that of patients with psychotic disorders in
+international samples.11 Table 1HCR-20, HoNOS and HoNOS-Secure scales:
+mean differences between initial assessment and follow-up
+assessmentInitial assessment mean scoreFollow-up assessment mean
+scoreMean differences.d.95% CI\ *t*\ d.f.Sig. (2-tailed)HCR clinical
+items6.323.342.973.441.78–4.155.10634<0.001HCR risk
 items5.914.131.773.080.73–2.823.462350.001HoNOS
 scale15.077.717.3516.302.07–12.642.818380.008HoNOS-Secure
 scale15.154.3010.8420.874.07–17.613.244380.002
@@ -225,69 +226,67 @@ outcomes. Reduction in clinical and risk items on HCR-20 suggests both
 clinical improvement for patients and reduction in risk of future
 violent offending in the community. Overall quality of life measures
 (WHOQOL-BREF) were grossly comparable to a population of individuals
-with mental health problems.(n.d.k) Quality of life is an important
-outcome for patients and their family following discharge. Lower scores
-on physical and psychological domains were a concern, although this is
+with mental health problems.11 Quality of life is an important outcome
+for patients and their family following discharge. Lower scores on
+physical and psychological domains were a concern, although this is
 perhaps to be expected given the complexity of our population.
 
 As with previous studies, we found that a longer hospital stay was
 associated with a lower rate of reoffending. While forensic services
-have been criticised for longer periods of stay in hospital,(n.d.l) it
-has also been argued that this is necessary for patient recovery and
-public protection.(n.d.m) Our findings provide support for this
-hypothesis, and are in keeping with results from a previous large-scale
-study showing that a longer in-patient stay was protective against
-reoffending following discharge.(n.d.d) The use of restrictions in
-forensic services is also controversial, but has also been shown to be
-associated with reduced reoffending following discharge.(n.d.d) This was
-also the case in our sample. These results suggest that longer stays in
-hospital and judicious use of restrictions on discharge are necessary to
-prevent reoffending in this patient group.
+have been criticised for longer periods of stay in hospital,12 it has
+also been argued that this is necessary for patient recovery and public
+protection.13 Our findings provide support for this hypothesis, and are
+in keeping with results from a previous large-scale study showing that a
+longer in-patient stay was protective against reoffending following
+discharge.4 The use of restrictions in forensic services is also
+controversial, but has also been shown to be associated with reduced
+reoffending following discharge.4 This was also the case in our sample.
+These results suggest that longer stays in hospital and judicious use of
+restrictions on discharge are necessary to prevent reoffending in this
+patient group.
 
 In our sample, alcohol and drug use were also associated with increased
 reoffending. The largest study of reoffending following discharge from
 MSU settings did not identify this association, demonstrating only an
-association between alcohol use and arson.(n.d.d) However, this
-association may also be due to distinct clinical characteristics of our
-sample and warrants further exploration.
+association between alcohol use and arson.4 However, this association
+may also be due to distinct clinical characteristics of our sample and
+warrants further exploration.
 
 Our sample's demographic characteristics were similar to those of
 previous studies which have examined female MSU
-patients.(n.d.d)\ :sup:`,`\ (n.d.e)\ :sup:`,`\ (n.d.i)\ :sup:`,`\ (n.d.n)
-There were high rates of abuse and neglect, alcohol and substance misuse
-and self-harm, emphasising that this is a vulnerable group, and
-supporting the view that there is a need for specialised MSU services
-for women.(n.d.b)\ :sup:`,`\ (n.d.i) There were higher rates of
-psychotic disorders than in previous samples, and lower rates of
-personality disorders.(n.d.d) This may be due to a tendency in some
-settings to diagnose personality disorder, rather than psychosis, on the
-basis of the presence of self-harm, impulsive behaviour and substance
-misuse, an issue that has been identified as a concern in clinical
-guidelines.(n.d.o) Our exclusively urban sample may also contribute to
-the discrepancy.
+patients.4\ :sup:`,`\ 5\ :sup:`,`\ 9\ :sup:`,`\ 14 There were high rates
+of abuse and neglect, alcohol and substance misuse and self-harm,
+emphasising that this is a vulnerable group, and supporting the view
+that there is a need for specialised MSU services for
+women.2\ :sup:`,`\ 9 There were higher rates of psychotic disorders than
+in previous samples, and lower rates of personality disorders.4 This may
+be due to a tendency in some settings to diagnose personality disorder,
+rather than psychosis, on the basis of the presence of self-harm,
+impulsive behaviour and substance misuse, an issue that has been
+identified as a concern in clinical guidelines.15 Our exclusively urban
+sample may also contribute to the discrepancy.
 
 There was a high representation of ethnic minorities within our female
 forensic service. Black women admitted to MSUs have previously been
 shown to be more likely to have diagnoses of psychotic disorder or drug
 misuse, and to be less likely to be diagnosed with depression, alcohol
-misuse and borderline personality disorder than White women.(n.d.n) In
-the current study, ethnicity was also associated with different clinical
+misuse and borderline personality disorder than White women.14 In the
+current study, ethnicity was also associated with different clinical
 profiles in our patient group. Owing to our small sample size, we
 limited our categorisation of ethnicity to White and non-White. In
 keeping with previous research, non-White ethnicity was associated with
 increased rates of schizophrenia spectrum disorders, while White
-ethnicity was associated with increased rates of personality
-disorder.(n.d.n) This tentatively supports the hypothesis that there is
-a deficit in adequately providing appropriate non-forensic services to
-non-White women with psychotic disorders, leading to escalation to
-offending and admission to forensic services. Also in keeping with
-previous studies,(n.d.n) White ethnicity was associated with increased
-alcohol misuse. However, in contrast to previous findings, White
-ethnicity in our sample was also associated with increased drug misuse.
-This suggests a potential shift in clinical characteristics of White
-female patients being admitted to medium secure settings. Inferences are
-limited, however, by our small sample size and exclusively urban
-population.
+ethnicity was associated with increased rates of personality disorder.14
+This tentatively supports the hypothesis that there is a deficit in
+adequately providing appropriate non-forensic services to non-White
+women with psychotic disorders, leading to escalation to offending and
+admission to forensic services. Also in keeping with previous studies,14
+White ethnicity was associated with increased alcohol misuse. However,
+in contrast to previous findings, White ethnicity in our sample was also
+associated with increased drug misuse. This suggests a potential shift
+in clinical characteristics of White female patients being admitted to
+medium secure settings. Inferences are limited, however, by our small
+sample size and exclusively urban population.
 
 The study was limited mainly by a relatively small sample size, although
 this needs to be considered in relation to the relatively small female
@@ -316,81 +315,3 @@ South London and Maudsley NHS Foundation Trust, UK and Department of
 Psychiatry, Royal College of Surgeons in Ireland, Ireland; and **Maria
 Fotiadou** is a consultant forensic psychiatrist at River House MSU,
 Bethlem Royal Hospital, South London and Maudsley Foundation Trust, UK.
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-ref1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-ref2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-ref3
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-ref4
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-ref5
-
-      n.d.e.
-
-   .. container:: csl-entry
-      :name: ref-ref6
-
-      n.d.f.
-
-   .. container:: csl-entry
-      :name: ref-ref7
-
-      n.d.g.
-
-   .. container:: csl-entry
-      :name: ref-ref8
-
-      n.d.h.
-
-   .. container:: csl-entry
-      :name: ref-ref9
-
-      n.d.i.
-
-   .. container:: csl-entry
-      :name: ref-ref10
-
-      n.d.j.
-
-   .. container:: csl-entry
-      :name: ref-ref11
-
-      n.d.k.
-
-   .. container:: csl-entry
-      :name: ref-ref12
-
-      n.d.l.
-
-   .. container:: csl-entry
-      :name: ref-ref13
-
-      n.d.m.
-
-   .. container:: csl-entry
-      :name: ref-ref14
-
-      n.d.n.
-
-   .. container:: csl-entry
-      :name: ref-ref15
-
-      n.d.o.

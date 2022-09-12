@@ -2,6 +2,8 @@
 Sutures benefit not only wounds
 ===============================
 
+
+
 Ann Maria Albert
 Karel Wildschut
 Marinos Chatzopoulos
@@ -13,9 +15,9 @@ Johanna Selway
    :depth: 3
 ..
 
-We compliment Buick and colleagues(n.d.a) for their innovative venture.
-We want to stress that the benefits of in-house management of minor
-wounds are far more than financial.
+We compliment Buick and colleagues1 for their innovative venture. We
+want to stress that the benefits of in-house management of minor wounds
+are far more than financial.
 
 .. _sec1:
 
@@ -85,18 +87,18 @@ accompanied to A&E by caring professionals and receiving restorative
 care and attention there – while appropriate and wholesomely good –
 might feel rewarding. It has the potential to evoke a rescuer-to-rescued
 reciprocal role, or perhaps a caring-to-cared for role, but at
-substantial personal cost.(n.d.b)\ :sup:`–`\ (n.d.c)
+substantial personal cost.2\ :sup:`–`\ 4
 
 For many patients, the same situation can indeed feel disempowering and
 punishing when they are not given a choice in how we care for them in
 the aftermath of self-harm. The National Institute for Health and Care
 Excellence emphasises the need for people to be fully involved with
-decision-making about their treatment and care.(n.d.d)
+decision-making about their treatment and care.5
 
 In the same context, it is possible for the patient to experience a more
 direct reward. If the social reinforcement of self-harm is rewarding
 enough, the individual may inflict more severe pain in order to continue
-receiving that positive reinforcement from their environment.(n.d.e)
+receiving that positive reinforcement from their environment.6
 
 .. _sec6:
 
@@ -122,31 +124,3 @@ It would be helpful for the College to take a stand and advise the
 mental health trusts about the minimum services that need to be
 provided, to ensure that junior doctors have the necessary skills and
 enable them to provide the services that they are competent to deliver.
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-ref1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-ref2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-ref4
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-ref5
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-ref6
-
-      n.d.e.

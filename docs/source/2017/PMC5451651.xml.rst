@@ -2,6 +2,8 @@
 Drug information update. Unconventional treatment strategies for schizophrenia: polypharmacy and heroic dosing
 ==============================================================================================================
 
+
+
 Bret A. Moore
 Debbi A. Morrissette
 Jonathan M. Meyer
@@ -24,18 +26,18 @@ Stephen M. StahlCorrespondence to Stephen M. Stahl
 ..
 
 Schizophrenia is one of the most challenging psychiatric disorders faced
-by clinicians today, affecting roughly 1% of the population.
-:sup:`(n.d.a)` Many out-patient clinics and virtually all in-patient
-facilities manage these often complex clinical cases. Since the
-introduction of the first-generation antipsychotics (FGA) and subsequent
-development of the dopamine hypothesis, blockade of dopamine 2
-(D\ :sub:`2`) receptors has been the primary goal of pharmacological
-intervention. Even with the development and proliferation of the
-second-generation antipsychotics (SGA), D\ :sub:`2` blockade remains
-central to effective control of positive symptoms whereas serotonin 2A
-(5-HT\ :sub:`2A`) plays an important but secondary role in the
-modulation of dopamine, theoretically improving negative symptoms while
-reducing the risk of extrapyramidal symptoms. :sup:`(n.d.b)`
+by clinicians today, affecting roughly 1% of the population. :sup:`1`
+Many out-patient clinics and virtually all in-patient facilities manage
+these often complex clinical cases. Since the introduction of the
+first-generation antipsychotics (FGA) and subsequent development of the
+dopamine hypothesis, blockade of dopamine 2 (D\ :sub:`2`) receptors has
+been the primary goal of pharmacological intervention. Even with the
+development and proliferation of the second-generation antipsychotics
+(SGA), D\ :sub:`2` blockade remains central to effective control of
+positive symptoms whereas serotonin 2A (5-HT\ :sub:`2A`) plays an
+important but secondary role in the modulation of dopamine,
+theoretically improving negative symptoms while reducing the risk of
+extrapyramidal symptoms. :sup:`2`
 
 The term ‘dopamine hypothesis’ of schizophrenia is slowly being phased
 out, as more sophisticated imaging studies have identified the nature of
@@ -45,12 +47,12 @@ into the dorsal sensorimotor portion, the central associative striatum,
 and the ventral limbic striatum. Recently it has been found that the
 best correlation between positive symptoms of psychosis in schizophrenia
 and levels of D\ :sub:`2` activity is in the rostral caudate, a portion
-of the central associative striatum. :sup:`(n.d.c), (n.d.d)` We thus
-have *in vivo* confirmation of excessive D\ :sub:`2` neurotransmission
-and the relationship to the positive symptoms of schizophrenia. In the
-limbic striatum low dopamine release is directly related to the severity
-of negative symptoms; the lower the dopamine levels, the greater the
-negative symptom severity. :sup:`(n.d.c)`
+of the central associative striatum. :sup:`3, 4` We thus have *in vivo*
+confirmation of excessive D\ :sub:`2` neurotransmission and the
+relationship to the positive symptoms of schizophrenia. In the limbic
+striatum low dopamine release is directly related to the severity of
+negative symptoms; the lower the dopamine levels, the greater the
+negative symptom severity. :sup:`3`
 
 While the goal of treatment is normalisation of D\ :sub:`2`
 neurotransmission in the striatum, a subset of patients do not respond
@@ -58,11 +60,10 @@ to traditional treatment algorithms which include antipsychotic
 monotherapy at dosing levels defined in registrational trials.
 Consequently, many patients continue to exhibit uncontrolled positive
 and negative symptoms as well as manifesting aggressive and impulsive
-behaviours. :sup:`(n.d.e)` It has been argued that ‘unconventional’
-strategies for better management of treatment-resistant psychosis should
-be employed. :sup:`(n.d.f)–(n.d.g)` The two primary methods we discuss
-in the following pages include antipsychotic polypharmacy and high-dose
-monotherapy.
+behaviours. :sup:`5` It has been argued that ‘unconventional’ strategies
+for better management of treatment-resistant psychosis should be
+employed. :sup:`6–8` The two primary methods we discuss in the following
+pages include antipsychotic polypharmacy and high-dose monotherapy.
 
 .. _S1:
 
@@ -71,32 +72,30 @@ Why do standard treatments sometimes fail?
 
 To effectively treat the positive symptoms of schizophrenia it is
 important to achieve at least 60% striatal D\ :sub:`2` blockade with
-antipsychotics. :sup:`(n.d.h)` The exception is clozapine, which has
-been shown to have some antipsychotic effect at as little as 20%
-blockade. :sup:`(n.d.i)` Beyond 80% D\ :sub:`2` occupancy, risk of
-extrapyramidal side-effects (EPS) increases, leading to non-adherence
-and treatment failure. Therefore, the ‘sweet spot’ of D\ :sub:`2`
-receptor blockade for most patients is between 60 and 80%.
-:sup:`(n.d.f)` However, in some treatment-resistant cases, particularly
-when aggression and impulsivity are of concern, moving beyond 80% may be
-necessary. :sup:`(n.d.f),(n.d.g),(n.d.j)–(n.d.k)` Moreover, there is
-significant evidence from the literature that a substantial portion of
-patients tolerate plasma antipsychotic levels consistent with >80%
-D\ :sub:`2` occupancy.
+antipsychotics. :sup:`9` The exception is clozapine, which has been
+shown to have some antipsychotic effect at as little as 20% blockade.
+:sup:`10` Beyond 80% D\ :sub:`2` occupancy, risk of extrapyramidal
+side-effects (EPS) increases, leading to non-adherence and treatment
+failure. Therefore, the ‘sweet spot’ of D\ :sub:`2` receptor blockade
+for most patients is between 60 and 80%. :sup:`6` However, in some
+treatment-resistant cases, particularly when aggression and impulsivity
+are of concern, moving beyond 80% may be necessary. :sup:`6,8,11–14`
+Moreover, there is significant evidence from the literature that a
+substantial portion of patients tolerate plasma antipsychotic levels
+consistent with >80% D\ :sub:`2` occupancy.
 
 One of the early imaging studies from 1997 noted that a large fraction
 of patients stabilised on low-dose oral haloperidol had plasma levels
-associated with >80% D\ :sub:`2` occupancy; :sup:`(n.d.l)` however,
-prior clinical studies found that even at a plasma haloperidol level of
-6 ng/ml (predicted 90% D\ :sub:`2` occupancy), only 30% experienced
-adverse effects. :sup:`(n.d.m)` A similar pattern is seen with
-risperidone. The pivotal trials studied doses of 10 mg and 16 mg, which
-correlate with a plasma active moiety level of 70 ng/ml and 112 ng/ml,
-respectively. :sup:`(n.d.n)` The plasma level of 70 ng/ml would
-correspond to a D\ :sub:`2` occupancy of 85%; :sup:`(n.d.k)` however,
-despite this high level of predicted D\ :sub:`2` occupancy, the
-proportion of patients on 10 mg who required anti-Parkinsonian treatment
-was only 31%. :sup:`(n.d.o)`
+associated with >80% D\ :sub:`2` occupancy; :sup:`12` however, prior
+clinical studies found that even at a plasma haloperidol level of 6
+ng/ml (predicted 90% D\ :sub:`2` occupancy), only 30% experienced
+adverse effects. :sup:`13` A similar pattern is seen with risperidone.
+The pivotal trials studied doses of 10 mg and 16 mg, which correlate
+with a plasma active moiety level of 70 ng/ml and 112 ng/ml,
+respectively. :sup:`15` The plasma level of 70 ng/ml would correspond to
+a D\ :sub:`2` occupancy of 85%; :sup:`14` however, despite this high
+level of predicted D\ :sub:`2` occupancy, the proportion of patients on
+10 mg who required anti-Parkinsonian treatment was only 31%. :sup:`16`
 
 .. _S2:
 
@@ -123,17 +122,17 @@ postreceptor effects, and chemical communication. Pharmacodynamic
 treatment failure with regard to antipsychotics is the inability to
 provide significant amelioration of psychotic symptoms in spite of
 achieving plasma levels associated with at least 60–80% D\ :sub:`2`
-occupancy. :sup:`(n.d.p)` Although adequate drug plasma levels are
-achieved, patients with treatment-resistant psychosis present with
-continued positive, cognitive and aggressive symptoms. The treatment
-failure associated with pharmacodynamic influences is hypothesised to be
-related to lack of D\ :sub:`2` receptor sensitivity or hypersensitivity.
-When patients manifest a lack of extrapyramidal adverse effects or
-akathisia, increasing drug doses to achieve plasma levels that are
-associated with >80% D\ :sub:`2` blockade may be necessary to provide
-symptom control. :sup:`(n.d.q)–(n.d.r)` The overriding principle is that
-there are a subset of patients who both tolerate and require high levels
-of D\ :sub:`2` antagonism for symptomatic relief.
+occupancy. :sup:`17` Although adequate drug plasma levels are achieved,
+patients with treatment-resistant psychosis present with continued
+positive, cognitive and aggressive symptoms. The treatment failure
+associated with pharmacodynamic influences is hypothesised to be related
+to lack of D\ :sub:`2` receptor sensitivity or hypersensitivity. When
+patients manifest a lack of extrapyramidal adverse effects or akathisia,
+increasing drug doses to achieve plasma levels that are associated with
+>80% D\ :sub:`2` blockade may be necessary to provide symptom control.
+:sup:`18–20` The overriding principle is that there are a subset of
+patients who both tolerate and require high levels of D\ :sub:`2`
+antagonism for symptomatic relief.
 
 .. _S4:
 
@@ -144,15 +143,15 @@ While recent studies have demonstrated that minimal response after 2
 weeks on a particular antipsychotic dose portends a low likelihood of
 week 6 response on that dose, the full therapeutic effects of adequate
 D\ :sub:`2` receptor blockade in schizophrenia may not be apparent until
-many weeks or months later. :sup:`(n.d.s)` Therefore, patience in
+many weeks or months later. :sup:`7` Therefore, patience in
 pharmacological treatment of psychosis is critical when a patient
-exhibits partial response. :sup:`(n.d.s),(n.d.j)` For example, Robinson
-and colleagues found that in a sample of 118 first-episode patients with
+exhibits partial response. :sup:`7,11` For example, Robinson and
+colleagues found that in a sample of 118 first-episode patients with
 schizophrenia or schizoaffective disorder only 20% responded to
 treatment at 4 weeks. The picture was quite different at 52 weeks;
-roughly 87% responded to treatment. :sup:`(n.d.t)` Other studies of
+roughly 87% responded to treatment. :sup:`21` Other studies of
 ziprasidone, risperidone and olanzapine have shown continued improvement
-over several months of treatment. :sup:`(n.d.j)`
+over several months of treatment. :sup:`11`
 
 .. _S5:
 
@@ -162,11 +161,11 @@ Strategies to use prior to heroic measures
 We believe polypharmacy and high dosing should not be the initial
 approach to treating schizophrenia. However, considering that roughly
 30% of patients with psychosis are on multiple antipsychotics, the
-practice is far from rare. :sup:`(n.d.u),(n.d.v)` In an effort to
-address the growing practice of antipsychotic polypharmacy and high
-dosing of antipsychotics in spite of little support in the literature,
-Stahl provides 12 case-based recommendations. :sup:`(n.d.s)` We review
-several below.
+practice is far from rare. :sup:`22,23` In an effort to address the
+growing practice of antipsychotic polypharmacy and high dosing of
+antipsychotics in spite of little support in the literature, Stahl
+provides 12 case-based recommendations. :sup:`7` We review several
+below.
 
 .. _S6:
 
@@ -177,9 +176,9 @@ Sequential trials of at least two SGAs are recommended. If both trials
 fail, consideration of an FGA is appropriate. Also, it is important to
 not overlook clozapine as monotherapy. The efficacy of clozapine in
 treatment-resistant schizophrenia, particularly with regard to
-aggression and violence, is well documented. :sup:`(n.d.w)–(n.d.x)`
-However, some clinicians may be hesitant to initiate a trial of
-clozapine owing to fear of side-effects such as agranulocytosis.
+aggression and violence, is well documented. :sup:`24–26` However, some
+clinicians may be hesitant to initiate a trial of clozapine owing to
+fear of side-effects such as agranulocytosis.
 
 .. _S7:
 
@@ -196,7 +195,7 @@ provide the clinician with important information which can guide the
 treatment plan for patients with treatment-resistant psychosis. This is
 supported by the recent work of Lopez & Kane as relevant to haloperidol,
 fluphenazine, perphenazine, risperidone, olanzapine and clozapine.
-:sup:`(n.d.y)`
+:sup:`27`
 
 .. _S8:
 
@@ -231,27 +230,27 @@ Antipsychotic polypharmacy
 Although a number of published treatment guidelines for schizophrenia
 are available, some of which conflict with each other, it is clear that
 clinicians should utilise a monotherapy approach to antipsychotic
-medication use. :sup:`(n.d.z)` Multiple trials of antipsychotic
-medications, generally SGAs to include clozapine, are recommended. In
-fact, divergence from this sequential clinical progression has
-historically been met with scepticism, caution and outright criticism.
-:sup:`(n.d.aa)–(n.d.ab)` It is certainly understandable why this is the
-case. The literature is replete with evidence supporting the efficacy of
-monotherapy for schizophrenia. Furthermore, the pitfalls associated with
-combining antipsychotics are well documented. Increased side-effects,
-higher medication costs, scant information supporting efficacy, and
-suboptimal outcomes are all problematic with regard to antipsychotic
-polypharmacy. :sup:`(n.d.aa)–(n.d.ab)` So, why the need to even review
-the topic? The reality is that patients included in research studies are
-generally those who are able to give consent, exhibit less violence and
-less impulsivity, have lower rates of chemical dependency, and are less
-likely to have histories of sequential trials of antipsychotics at
-documented therapeutic levels. :sup:`(n.d.s),(n.d.g)` In other words,
-consistent with much of psychiatry research, they are healthier and not
-mirror images of the patients seen in clinical practice. Therefore, we
-believe a strict adherence to a treatment guideline based on highly
-selective samples does not necessarily translate well to community-based
-out-patient clinics and in-patient facilities.
+medication use. :sup:`28` Multiple trials of antipsychotic medications,
+generally SGAs to include clozapine, are recommended. In fact,
+divergence from this sequential clinical progression has historically
+been met with scepticism, caution and outright criticism. :sup:`29–36`
+It is certainly understandable why this is the case. The literature is
+replete with evidence supporting the efficacy of monotherapy for
+schizophrenia. Furthermore, the pitfalls associated with combining
+antipsychotics are well documented. Increased side-effects, higher
+medication costs, scant information supporting efficacy, and suboptimal
+outcomes are all problematic with regard to antipsychotic polypharmacy.
+:sup:`29–36` So, why the need to even review the topic? The reality is
+that patients included in research studies are generally those who are
+able to give consent, exhibit less violence and less impulsivity, have
+lower rates of chemical dependency, and are less likely to have
+histories of sequential trials of antipsychotics at documented
+therapeutic levels. :sup:`7,8` In other words, consistent with much of
+psychiatry research, they are healthier and not mirror images of the
+patients seen in clinical practice. Therefore, we believe a strict
+adherence to a treatment guideline based on highly selective samples
+does not necessarily translate well to community-based out-patient
+clinics and in-patient facilities.
 
 We acknowledge that antipsychotic monotherapy is sufficient for the
 majority of patients with schizophrenia and that adherence to
@@ -260,16 +259,15 @@ support this position. A 2004 study by Suzuki and colleagues revealed
 that when patients with schizophrenia were switched from multiple
 antipsychotics to monotherapy, roughly half maintained gains whereas a
 quarter showed improvements. Another quarter of the sample
-decompensated. :sup:`(n.d.ac)` In a similar study by Essock and
-colleagues it was found that patients switched to monotherapy maintained
-gains, but also showed improvement in metabolic effects assumed to be
-caused by antipsychotic polypharmacy. It should be noted that
-approximately a third of patients required multiple antipsychotics.
-:sup:`(n.d.v)` However, some evidence supports the use of antipsychotic
-polypharmacy. A recent meta-analysis of randomised controlled trials
-comparing antipsychotic monotherapy and polypharmacy highlighted that
-polypharmacy may be superior to monotherapy in certain clinical cases.
-:sup:`(n.d.ad)`
+decompensated. :sup:`37` In a similar study by Essock and colleagues it
+was found that patients switched to monotherapy maintained gains, but
+also showed improvement in metabolic effects assumed to be caused by
+antipsychotic polypharmacy. It should be noted that approximately a
+third of patients required multiple antipsychotics. :sup:`23` However,
+some evidence supports the use of antipsychotic polypharmacy. A recent
+meta-analysis of randomised controlled trials comparing antipsychotic
+monotherapy and polypharmacy highlighted that polypharmacy may be
+superior to monotherapy in certain clinical cases. :sup:`38`
 
 In addition to achieving adequate D\ :sub:`2` occupancy, antipsychotic
 polypharmacy also exploits other receptor-binding properties that could
@@ -287,7 +285,7 @@ of aripiprazole with antipsychotics with full D\ :sub:`2` antagonism.
 The binding interference may lead to a worsening of symptoms due to
 aripiprazole's high affinity for the D\ :sub:`2` receptor, and the fact
 that even low doses such as 10 mg achieve 83% D\ :sub:`2` occupancy, and
-thus may displace full antagonists. :sup:`(n.d.f)`
+thus may displace full antagonists. :sup:`6`
 
 .. _S11:
 
@@ -302,7 +300,7 @@ order to address treatment-resistant positive and aggressive symptoms,
 high-dose monotherapy is the preferred option when compared with
 polypharmacy. High-dose monotherapy does, however, come at a greater
 financial expense and the risk of increased metabolic and other
-potential treatment-limiting side-effects. :sup:`(n.d.j)`
+potential treatment-limiting side-effects. :sup:`11`
 
 It is impossible to know what dose of a particular antipsychotic is
 required to achieve the intended outcome. Therefore, the prudent action
@@ -315,7 +313,7 @@ consent is obtained and treatment rationale is well documented when this
 occurs. Below we discuss the typical dosing ranges and special
 considerations for high dosing of the antipsychotics. A more detailed
 analysis can be found in Stahl & Morrissette's review of the topic.
-:sup:`(n.d.j)`
+:sup:`11`
 
 .. _S12:
 
@@ -327,10 +325,10 @@ antipsychotics have failed. This is primarily owing to its side-effect
 profile. At typical dosing of 300–450 mg/day, clozapine binds to less
 than 50% of D\ :sub:`2` receptors, but as noted earlier, the
 antipsychotic benefits with this medication can be seen at as low as 20%
-occupancy. :sup:`(n.d.i)` A meta-analysis by Davis & Chen revealed that
+occupancy. :sup:`10` A meta-analysis by Davis & Chen revealed that
 patients on high levels of clozapine responded more frequently than
-those on low levels. :sup:`(n.d.ae)` Clozapine can be dosed as high as
-900 mg/day, but seizure risk does increase with higher plasma levels, so
+those on low levels. :sup:`39` Clozapine can be dosed as high as 900
+mg/day, but seizure risk does increase with higher plasma levels, so
 titration to this dose should be done slowly. Furthermore, due to the
 diverse binding profile of clozapine, improvement in multiple symptoms
 clusters is possible.
@@ -347,7 +345,7 @@ medication seen. It is generally believed that a dose of 1200 mg/day is
 no more effective than the typical dosing range and carries greater
 incidence of metabolic effects; however, clinical practice has shown
 that 1800 mg/day may be useful in treating violent patients.
-:sup:`(n.d.b),(n.d.e),(n.d.ae)`
+:sup:`2,5,39`
 
 .. _S14:
 
@@ -357,9 +355,9 @@ Olanzapine
 Doses of olanzapine between 10 and 20 mg/day equate to 60–80%
 D\ :sub:`2` occupancy. Higher doses of 40–60 mg daily appear to be more
 effective, particularly with aggressive patients and in some forensic
-settings. :sup:`(n.d.b),(n.d.af),(n.d.ag),(n.d.ah)` A note of caution is
-that as plasma levels increase the risks of anticholinergic and
-metabolic effects also increase. :sup:`(n.d.e),(n.d.i)`
+settings. :sup:`2,32,40,41` A note of caution is that as plasma levels
+increase the risks of anticholinergic and metabolic effects also
+increase. :sup:`5,10`
 
 .. _S15:
 
@@ -370,13 +368,13 @@ Risperidone reaches 70–80% of D\ :sub:`2` occupancy at doses between 2
 and 6 mg/day. The risk of EPS is positively correlated with dose. Doses
 above 8 mg/day are generally not considered beneficial for most
 patients, but in some, the side-effects may not appear until higher
-dosages. :sup:`(n.d.e)` As noted previously, even at 10 mg/day only 31%
-of patients required anti-Parkinsonian medication in the pivotal trials,
+dosages. :sup:`5` As noted previously, even at 10 mg/day only 31% of
+patients required anti-Parkinsonian medication in the pivotal trials,
 again providing evidence that a subgroup may both require and tolerate
-higher dosages and plasma levels. :sup:`(n.d.o)` Risperidone's active
+higher dosages and plasma levels. :sup:`16` Risperidone's active
 metabolite paliperidone has less chance of drug–drug interactions as it
 is not metabolised by the liver. Similar to risperidone, paliperidone
-carries increased risk of EPS as the dose increases. :sup:`(n.d.j)`
+carries increased risk of EPS as the dose increases. :sup:`11`
 
 .. _S16:
 
@@ -384,10 +382,9 @@ Ziprasidone
 -----------
 
 Data support the use of high doses of ziprasidone, particularly in
-forensic settings at 360 mg/day.
-:sup:`(n.d.b)–(n.d.e),(n.d.ag),(n.d.ah)` It can be difficult to achieve
-adequate plasma levels with ziprasidone in out-patient settings as food
-is required to increase absorption. It has been reported that
+forensic settings at 360 mg/day. :sup:`2–5,40,41` It can be difficult to
+achieve adequate plasma levels with ziprasidone in out-patient settings
+as food is required to increase absorption. It has been reported that
 ziprasidone has historically been under-dosed due to concern about
 increased agitation and QTc prolongation.
 
@@ -400,8 +397,8 @@ Aripiprazole has a different mechanism of action compared with the
 ‘first wave’ of SGAs. Contrary to its predecessors, high doses of
 aripiprazole may not result in increased efficacy in schizophrenia. This
 is due to its partial agonist properties and high affinity for
-D\ :sub:`2` receptors. :sup:`(n.d.j)` Doses of 40 mg/day are associated
-with 96.8% D\ :sub:`2` occupancy, so further increases will not have an
+D\ :sub:`2` receptors. :sup:`11` Doses of 40 mg/day are associated with
+96.8% D\ :sub:`2` occupancy, so further increases will not have an
 impact on D\ :sub:`2` neurotransmission to any considerable extent.
 
 .. _S18:
@@ -421,7 +418,7 @@ is orthostatic hypotension. Lurasidone is approved up to 160 mg/day for
 schizophrenia, but higher dosages have not been studied for efficacy,
 only for safety (e.g. thorough QT studies up to 600 mg). Similar to
 ziprasidone, lurasidone should be taken with food to increase
-absorption. :sup:`(n.d.j)`
+absorption. :sup:`11`
 
 .. _S19:
 
@@ -435,179 +432,6 @@ require ‘unconventional’ approaches such as antipsychotic polypharmacy
 and higher than normal dosing. If done cautiously and rationally, these
 approaches can provide much-needed benefit for those most in need of
 relief.
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-R1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-R2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-R3
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-R4
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-R5
-
-      n.d.e.
-
-   .. container:: csl-entry
-      :name: ref-R6
-
-      n.d.f.
-
-   .. container:: csl-entry
-      :name: ref-R7
-
-      n.d.s.
-
-   .. container:: csl-entry
-      :name: ref-R8
-
-      n.d.g.
-
-   .. container:: csl-entry
-      :name: ref-R9
-
-      n.d.h.
-
-   .. container:: csl-entry
-      :name: ref-R10
-
-      n.d.i.
-
-   .. container:: csl-entry
-      :name: ref-R11
-
-      n.d.j.
-
-   .. container:: csl-entry
-      :name: ref-R12
-
-      n.d.l.
-
-   .. container:: csl-entry
-      :name: ref-R13
-
-      n.d.m.
-
-   .. container:: csl-entry
-      :name: ref-R14
-
-      n.d.k.
-
-   .. container:: csl-entry
-      :name: ref-R15
-
-      n.d.n.
-
-   .. container:: csl-entry
-      :name: ref-R16
-
-      n.d.o.
-
-   .. container:: csl-entry
-      :name: ref-R17
-
-      n.d.p.
-
-   .. container:: csl-entry
-      :name: ref-R18
-
-      n.d.q.
-
-   .. container:: csl-entry
-      :name: ref-R20
-
-      n.d.r.
-
-   .. container:: csl-entry
-      :name: ref-R21
-
-      n.d.t.
-
-   .. container:: csl-entry
-      :name: ref-R22
-
-      n.d.u.
-
-   .. container:: csl-entry
-      :name: ref-R23
-
-      n.d.v.
-
-   .. container:: csl-entry
-      :name: ref-R24
-
-      n.d.w.
-
-   .. container:: csl-entry
-      :name: ref-R26
-
-      n.d.x.
-
-   .. container:: csl-entry
-      :name: ref-R27
-
-      n.d.y.
-
-   .. container:: csl-entry
-      :name: ref-R28
-
-      n.d.z.
-
-   .. container:: csl-entry
-      :name: ref-R29
-
-      n.d.aa.
-
-   .. container:: csl-entry
-      :name: ref-R32
-
-      n.d.af.
-
-   .. container:: csl-entry
-      :name: ref-R36
-
-      n.d.ab.
-
-   .. container:: csl-entry
-      :name: ref-R37
-
-      n.d.ac.
-
-   .. container:: csl-entry
-      :name: ref-R38
-
-      n.d.ad.
-
-   .. container:: csl-entry
-      :name: ref-R39
-
-      n.d.ae.
-
-   .. container:: csl-entry
-      :name: ref-R40
-
-      n.d.ag.
-
-   .. container:: csl-entry
-      :name: ref-R41
-
-      n.d.ah.
 
 .. [1]
    **Bret A. Moore**, Warrior Resiliency Program, U.S. Army Regional

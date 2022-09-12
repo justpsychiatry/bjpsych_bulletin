@@ -2,6 +2,8 @@
 Personality disorder services in England: findings from a national survey
 =========================================================================
 
+
+
 Oliver Dale
 Faisil Sethi
 Clive Stanton
@@ -45,39 +47,39 @@ Paul MoranCorrespondence to Oliver Dale (oliver.dale@wlmht.nhs.uk)  [1]_
 
 Personality disorder is a serious mental health condition affecting up
 to 52% of psychiatric out-patients and 70% of in-patients and forensic
-patients.\ :sup:`(n.d.a)–(n.d.b)` Given the significant public health
-implications associated with the disorder – including extensive use of
-healthcare resources, high rates of suicide and reduced life expectancy
-– effective treatment is a priority.\ :sup:`(n.d.c)–(n.d.d)`
+patients.\ :sup:`1–4` Given the significant public health implications
+associated with the disorder – including extensive use of healthcare
+resources, high rates of suicide and reduced life expectancy – effective
+treatment is a priority.\ :sup:`5–8`
 
 In 2003, the National Institute for Mental Health England (NIMHE)
 published *Personality Disorder: No Longer a Diagnosis of Exclusion*,
 challenging the healthcare community to address shortcomings in the
-treatment of people with personality disorders.\ :sup:`(n.d.e)` Citing a
+treatment of people with personality disorders.\ :sup:`9` Citing a
 survey of English mental health trusts conducted in 2002, the paper
 brought to attention the variability in practice and highlighted
 institutionalised stigmatisation which explicitly barred patients with
 personality disorder from mainstream services. At that time, only 17% of
 trusts had a dedicated personality disorder service, 40% provided some
 level of service, 28% had no identified service, and 25% did not
-respond.\ :sup:`(n.d.e)`
+respond.\ :sup:`9`
 
-The 2003 NIMHE publication\ :sup:`(n.d.e)` set out broad principles for
-how personality disorder services should be developed, stipulating that
-they should be multidisciplinary, follow a hub-and-spoke model, accept
-the management of risk, use the care programme approach
-(CPA),\ :sup:`(n.d.f)` offer specialist biopsychosocial interventions,
-deliver training and consultation, and support the development of
-patient networks. Similarly, the 2009 guidance on borderline personality
-disorder from the National Institute for Health and Care Excellence
-(NICE) specified that mental health trusts should develop specialist
-multidisciplinary teams and/or services for people with personality
-disorders.\ :sup:`(n.d.g),(n.d.h)` In 2011, a preliminary investigation
-at a regional level found that specialist service capacity for those
-with personality disorder was inadequate.\ :sup:`(n.d.i)` There have
-been no systematic attempts at a national scale aimed at understanding
-how the evidence for the management of personality disorder is being
-applied or whether service availability has become more uniform.
+The 2003 NIMHE publication\ :sup:`9` set out broad principles for how
+personality disorder services should be developed, stipulating that they
+should be multidisciplinary, follow a hub-and-spoke model, accept the
+management of risk, use the care programme approach (CPA),\ :sup:`10`
+offer specialist biopsychosocial interventions, deliver training and
+consultation, and support the development of patient networks.
+Similarly, the 2009 guidance on borderline personality disorder from the
+National Institute for Health and Care Excellence (NICE) specified that
+mental health trusts should develop specialist multidisciplinary teams
+and/or services for people with personality disorders.\ :sup:`11,12` In
+2011, a preliminary investigation at a regional level found that
+specialist service capacity for those with personality disorder was
+inadequate.\ :sup:`13` There have been no systematic attempts at a
+national scale aimed at understanding how the evidence for the
+management of personality disorder is being applied or whether service
+availability has become more uniform.
 
 In 2014, the National Personality Disorder Service Review Group was
 formed to evaluate the extent to which variable service availability
@@ -89,13 +91,12 @@ to the care for clients with personality disorder available through
 generic services. The group drew on a wide range of evidence to define
 the concept of a ‘dedicated personality disorder service’. This included
 the Delphi study of the 11 pilot personality disorder projects within
-the National Personality Disorder Programme.\ :sup:`(n.d.j)` We
-considered a dedicated service as one which is explicitly designed to
-manage the care of individuals affected by personality disorder, as
-opposed to a generic service which might be considered a typical
-community mental health service. `Table 1 <#T1>`__ displays the
-characteristics hypothesised by the group to distinguish dedicated from
-generic services.
+the National Personality Disorder Programme.\ :sup:`14` We considered a
+dedicated service as one which is explicitly designed to manage the care
+of individuals affected by personality disorder, as opposed to a generic
+service which might be considered a typical community mental health
+service. `Table 1 <#T1>`__ displays the characteristics hypothesised by
+the group to distinguish dedicated from generic services.
 
 .. container:: table-wrap
    :name: T1
@@ -165,14 +166,14 @@ services, generic services or both.
 
 The secondary aim was to evaluate the provision of services for
 personality disorder along key quality indicators outlined by NICE and
-NIMHE,\ :sup:`(n.d.e),(n.d.g),(n.d.h)` and explore any differences
-between dedicated and generic services. The quality indicators evaluated
-were: Is there a multidisciplinary team available?Is care managed under
-the CPA process?Are patients offered specific interventions for
-personality disorder within a biopsychosocial approach?Are services
-involved in education, training and research?What level of patient and
-carer involvement do services employ?What exclusion criteria, if any,
-are applied by services?
+NIMHE,\ :sup:`9,11,12` and explore any differences between dedicated and
+generic services. The quality indicators evaluated were: Is there a
+multidisciplinary team available?Is care managed under the CPA
+process?Are patients offered specific interventions for personality
+disorder within a biopsychosocial approach?Are services involved in
+education, training and research?What level of patient and carer
+involvement do services employ?What exclusion criteria, if any, are
+applied by services?
 
 .. _S2:
 
@@ -252,7 +253,7 @@ interventions of each type, weighted to give equal consideration to each
 of the three domains. The availability of personality disorder-specific
 interventions was assessed by determining whether services offered
 psychological therapies developed specifically for personality
-disorder.\ :sup:`(n.d.k)` The level of perceived patient and carer
+disorder.\ :sup:`15` The level of perceived patient and carer
 involvement was similarly analysed and scored from 0 to 100 based on the
 number of involvement activities for each service, with paid involvement
 double weighted.
@@ -694,7 +695,7 @@ disorder services (84%) and generic services (91%), and in organisations
 with no dedicated services all provision for personality disorder was
 through a generic service. This quantifies the progress made in this
 area since 2002 and points to a fivefold increase in organisations
-providing dedicated personality disorder services.\ :sup:`(n.d.e)`
+providing dedicated personality disorder services.\ :sup:`9`
 
 This represents substantial progress in a decade in which the economic
 landscape has been challenging. Yet, while on this measure we can see
@@ -706,7 +707,7 @@ provide.
 The 2003 NIMHE publication formally introduced the concept of dedicated
 personality disorder service as distinguished from generic service, and
 this distinction has been further developed in the current
-paper.\ :sup:`(n.d.e)` We had *a priori* assumptions about the nature of
+paper.\ :sup:`9` We had *a priori* assumptions about the nature of
 dedicated and generic services (`Table 1 <#T1>`__), and this survey
 allows a more detailed conceptual analysis. The survey methodology
 steered respondents to consider the concept of dedicated *v*. generic
@@ -728,19 +729,19 @@ influenced by their employment of a significantly more diverse workforce
 and by their higher rates of medical professional leadership. The
 accessibility of these interventions and the quality of their delivery
 are unknown; however, NICE guidance stipulates that specialist
-interventions are best delivered by specialist services.\ :sup:`(n.d.g)`
+interventions are best delivered by specialist services.\ :sup:`11`
 
 The delivery of developmental activities is a clear priority for
 dedicated services, with almost all involved in training, and
 significantly more dedicated than generic services involved, indicating
 that they deliver both training and education and research. This is in
 keeping with both the 2003 NIMHE publication and NICE
-guidance.\ :sup:`(n.d.e),(n.d.g),(n.d.h)` Patient and carer involvement
-is also prioritised by dedicated services, with patients and carers
-involved in significantly more service development, management and
-delivery activities than those in generic services. Dedicated services
-appear to show greater selectivity in patient choice than generic ones,
-as significantly more operate with exclusion criteria. Given that
+guidance.\ :sup:`9,11,12` Patient and carer involvement is also
+prioritised by dedicated services, with patients and carers involved in
+significantly more service development, management and delivery
+activities than those in generic services. Dedicated services appear to
+show greater selectivity in patient choice than generic ones, as
+significantly more operate with exclusion criteria. Given that
 impulsivity is a diagnostic criterion for borderline and dissocial
 personality disorder, it is noteworthy that active risk to others (23%)
 and substance misuse (53%) were so widely quoted as exclusion criteria
@@ -816,64 +817,6 @@ Research and Development, Informed Thinking, The Medway Engagement Group
 and Network (MEGAN) and the Imperial College Centre for Mental Health.
 The project was granted approval as a service evaluation through the
 audit department of West London Mental Health Trust.
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-R1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-R4
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-R5
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-R8
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-R9
-
-      n.d.e.
-
-   .. container:: csl-entry
-      :name: ref-R10
-
-      n.d.f.
-
-   .. container:: csl-entry
-      :name: ref-R11
-
-      n.d.g.
-
-   .. container:: csl-entry
-      :name: ref-R12
-
-      n.d.h.
-
-   .. container:: csl-entry
-      :name: ref-R13
-
-      n.d.i.
-
-   .. container:: csl-entry
-      :name: ref-R14
-
-      n.d.j.
-
-   .. container:: csl-entry
-      :name: ref-R15
-
-      n.d.k.
 
 .. [1]
    **Oliver Dale**, consultant psychiatrist, West London Mental Health

@@ -2,8 +2,10 @@
 Subjective memory complaints after electroconvulsive therapy: systematic review
 ===============================================================================
 
+
+
 Simon Vann Jones
-Rick McCollumCorrespondence to Dr Simon Vann Jones (s.vannjones@nhs.net)
+Rick McCollum Correspondence to Dr Simon Vann Jones (s.vannjones@nhs.net)
 :Date: 2019-4
 
 :Abstract:
@@ -49,24 +51,23 @@ Rick McCollumCorrespondence to Dr Simon Vann Jones (s.vannjones@nhs.net)
 Electroconvulsive therapy (ECT) is an effective treatment for major
 depression; however, there is debate around the specific long-term
 effects of the treatment on memory and the acceptability of this to
-patients.(n.d.a) There is wide variation in the post-treatment
-satisfaction rates after ECT, with previous studies showing that the
-percentage of patients who would consider having a second course of ECT
-varies between 36% and 98%.(n.d.b) Multiple studies have shown that
-dissatisfaction with ECT is related to feeling under-informed of
-potential side-effects.(n.d.c)\ :sup:`–`\ (n.d.d)
+patients.1 There is wide variation in the post-treatment satisfaction
+rates after ECT, with previous studies showing that the percentage of
+patients who would consider having a second course of ECT varies between
+36% and 98%.2 Multiple studies have shown that dissatisfaction with ECT
+is related to feeling under-informed of potential
+side-effects.3\ :sup:`–`\ 7
 
 Pre-procedural fear and post-procedural assumptions that deleterious
 cognitive changes were a direct result of the treatment have been
 identified as the two areas most likely to lead to a negative view of
-ECT.(n.d.e) Evidence suggests that clinicians tend to overestimate the
-effects of medical treatments and underestimate harm, so being able to
+ECT.8 Evidence suggests that clinicians tend to overestimate the effects
+of medical treatments and underestimate harm, so being able to
 accurately quantify the additional risk that ECT poses to subjective
 memory independent of the effects of depression would help both
-clinicians and patients alike and may improve
-outcomes.(n.d.f)\ :sup:`,`\ (n.d.g) This review aims to summarise all
-studies that have assessed the post-treatment effects of ECT on
-meaningful memory loss.
+clinicians and patients alike and may improve outcomes.9\ :sup:`,`\ 10
+This review aims to summarise all studies that have assessed the
+post-treatment effects of ECT on meaningful memory loss.
 
 .. _sec1:
 
@@ -87,8 +88,8 @@ Inclusion criteria
 
 Studies measuring subjective memory at baseline followed by at least one
 measurement after the completion of treatment, using a clearly described
-scale (such as the Squire Subjective Memory Questionnaire, SSMQ(n.d.h)),
-or questions that specifically assessed subjective memory were included.
+scale (such as the Squire Subjective Memory Questionnaire, SSMQ11), or
+questions that specifically assessed subjective memory were included.
 
 A follow-up period of at least 24 h after the completion of therapy was
 considered sufficient to allow enough time for the acute effects of the
@@ -189,12 +190,12 @@ studies measured a comparable patient population, on the same scale,
 using the same ECT modality, at the same time points (`Table
 1 <#tab01>`__). Table 1Summary of included papersStudy (first author,
 year)ParticipantsQuestionnaire usedModalityAssessmentResults summaryMohn
-2016(n.d.i)\ *n* = 31, unipolar depressionEveryday Memory
+201623\ *n* = 31, unipolar depressionEveryday Memory
 QuestionnaireBifrontal, *n* = 1; unilateral, *n* = 22; mixed unilateral
 and bilateral, *n* = 8Baseline, 6 weeks and 6 monthsPre-ECT, 104.0 (SD
 37.9); 6 weeks post-treatment, 107.9 (SD 43.6); 6 months post-treatment,
 98.6 (SD 42.6); higher score indicates worse memoryBrus
-2017(n.d.j)\ *n* = 1212, 80% unipolar depression; 20% bipolar
+201721\ *n* = 1212, 80% unipolar depression; 20% bipolar
 depressionSeven-point variant of the ‘failing memory’ component of the
 Comprehensive Psychopathological Rating Score86.9% had more than six
 treatments; 91.6% had unilateral electrode placementBaseline and <1 week
@@ -202,68 +203,67 @@ post-treatmentSubjective memory worsened in 28% of the sample (31% women
 *v.* 18% men; 32% young adults *v.* 22% adults aged over 65 years);
 longer pulse widths correlated with more subjective complaints; no
 difference between bilateral and unilateral placementBag
-2016(n.d.k)\ *n* = 140, 24.3% unipolar depression; 59.3% bipolar mania;
-16.4% bipolar depressionSSMQBilateral, brief pulse; mean number of
-sessions was seven across all groupsBaseline and immediately
-post-treatmentMean SSMQ score dropped −49.5 points between baseline and
-end of therapy; patients with bipolar disorder reported less complaints
-than patients with unipolar depressionKumar 2016(n.d.l)\ *n* = 75, 77%
-unipolar depression; 10.7% bipolar type 1 disorder; 2.7% bipolar type 2
-disorder; schizophrenia 2.7%; schizoaffective disorders 5.3%Subjective
-Assessment of Memory Impairment96% received right unilateral; the
-majority received brief pulseBaseline and 1 day post-treatmentNo change
-in subjective memory score during therapy despite objective evidence of
-impairmentMayur 2013(n.d.m)\ *n* = 40, unipolar depressionSSMQRight
+201612\ *n* = 140, 24.3% unipolar depression; 59.3% bipolar mania; 16.4%
+bipolar depressionSSMQBilateral, brief pulse; mean number of sessions
+was seven across all groupsBaseline and immediately post-treatmentMean
+SSMQ score dropped −49.5 points between baseline and end of therapy;
+patients with bipolar disorder reported less complaints than patients
+with unipolar depressionKumar 201614\ *n* = 75, 77% unipolar depression;
+10.7% bipolar type 1 disorder; 2.7% bipolar type 2 disorder;
+schizophrenia 2.7%; schizoaffective disorders 5.3%Subjective Assessment
+of Memory Impairment96% received right unilateral; the majority received
+brief pulseBaseline and 1 day post-treatmentNo change in subjective
+memory score during therapy despite objective evidence of
+impairmentMayur 201315\ *n* = 40, unipolar depressionSSMQRight
 unilateral; 50% ultra-brief pulse; 50% brief pulseBaseline, after 8
 sessions and 3 months post-treatmentBrief pulse: −21.6 at baseline
 (*n* = 19), −16.2 at 3 months (*n* = 10), within-patient change of
 +12.7; ultra-brief pulse: −23.2 at baseline (*n*-16), −0.8 at 3 months
-(*n* = 14); within-patient change of 14.86Fernie 2014(n.d.n)\ *n* = 126,
+(*n* = 14); within-patient change of 14.86Fernie 201416\ *n* = 126,
 unipolar depressionSSMQ and PRMQNot describedBaseline, 1 month, 3 months
 and 6 months post-treatmentSSMQ improved from −14.1 at baseline to −4.58
 at 6 months, with the greatest improvement seen 1 month after therapy:
 −1.59 (SD 2.73); PRMQ score improved by approximately 10% from
-baselineFazzino 2013(n.d.o)\ *n* = 26, unipolar depressionSelected SSMQ
+baselineFazzino 201317\ *n* = 26, unipolar depressionSelected SSMQ
 questions17/26 received right unilateral; 17/26 received ultra-brief
 pulse width3–7 questions daily for 60 days (including treatment)No
 change in subjective memory scores despite objective memory
-improvementNg 2000(n.d.p)\ *n* = 34, unipolar depressionSelf-Rating
-Scale of Memory FunctionRight unilateralBaseline, after six treatments
-and 1 month post-treatmentImproved subjective memory score at end of
+improvementNg 200022\ *n* = 34, unipolar depressionSelf-Rating Scale of
+Memory FunctionRight unilateralBaseline, after six treatments and 1
+month post-treatmentImproved subjective memory score at end of
 treatment; negative correlated with HRSD scoreSchulze-Rauschenbach
-2005(n.d.q)\ *n* = 14, unipolar depressionSSMQRight unilateral and brief
+200518\ *n* = 14, unipolar depressionSSMQRight unilateral and brief
 pulse widthBaseline and within 1 week of completing5.5-point improvement
 in SSMQ score, although not statistically or clinically significantFrith
-1983(n.d.r)\ *n* = 70, unipolar depressionSingle binary question: ‘do
-you experience memory problems?’Bifrontal ECT, median course of eight
+198324\ *n* = 70, unipolar depressionSingle binary question: ‘do you
+experience memory problems?’Bifrontal ECT, median course of eight
 sessionsBaseline, after treatment and at 6 monthsSham ECT responders,
 ECT responders and sham ECT non-responders all reported improvement in
 memory; ECT non-responders memory remained stably poorSmith
-2010(n.d.s)\ *n* = 85, unipolar depressionSSMQBilateral ECT; half had
-ten sessions of continuation ECT Half had continuation
+201019\ *n* = 85, unipolar depressionSSMQBilateral ECT; half had ten
+sessions of continuation ECT Half had continuation
 pharmacotherapyBaseline (post- ECT), 12 weeks and 24 weeksBoth groups’
 SSMQ scores significantly improved from baseline; study looked at
-continuation treatment onlySienaert 2010(n.d.b)\ *n* = 48, unipolar and
+continuation treatment onlySienaert 20102\ *n* = 48, unipolar and
 bipolar depression; 23% had psychotic symptomsSSMQUltra-brief bifrontal
 *n* = 24 and unilateral *n* = 24Baseline and 6 weeks73% patients were
 glad they had ECT; SSMQ performance strongly correlated with
 satisfaction on multiple regression analysis but also correlated with
-depression score, so may not be independentBerman
-2008(n.d.t)\ *n* = 333, unipolar depressionCFQ memory subscale40%
-bilateral, 34.7% unilateral, 24.3% combination; 14% sine-wave, 86% brief
-pulseBaseline, 1 week and 24 weeksBaseline 14.97 (SD 6.75), 1 week 13.01
-(SD 6.39), 24 weeks 14.05 (SD 6.85) (higher scores indicate greater
-impairment)Arts 2006(n.d.u)\ *n* = 12, bipolar and unipolar
-depressionCFQBilateralBaseline, 5 days and 30 daysCFQ score improved
-from coefficient of −0.2 at baseline to −0.17 at 30 daysColeman
-1996(n.d.v)\ *n* = 70, unipolar depressionSSMQMixture of bifrontal, RUL
-and bilateralBaseline and 2 months−31.5 at baseline, −5.4 at 2
-monthsIkeji 1999(n.d.w)\ *n* = 70 ECT, *n* = 70 control; 30% unipolar
-depression; 37.1% schizophrenia; 28.6% mania; 4.3% schizoaffective
-disordersTwo binary questions: ‘Is your memory poor?’ ‘Do you worry
-about your memory?’BilateralBaseline and seven intervals up to 6 months
-post-treatmentSubjective memory complaints at 6 months: 37.1% of ECT
-group, 22.6% of control group [1]_
+depression score, so may not be independentBerman 200826\ *n* = 333,
+unipolar depressionCFQ memory subscale40% bilateral, 34.7% unilateral,
+24.3% combination; 14% sine-wave, 86% brief pulseBaseline, 1 week and 24
+weeksBaseline 14.97 (SD 6.75), 1 week 13.01 (SD 6.39), 24 weeks 14.05
+(SD 6.85) (higher scores indicate greater impairment)Arts
+200625\ *n* = 12, bipolar and unipolar depressionCFQBilateralBaseline, 5
+days and 30 daysCFQ score improved from coefficient of −0.2 at baseline
+to −0.17 at 30 daysColeman 199620\ *n* = 70, unipolar
+depressionSSMQMixture of bifrontal, RUL and bilateralBaseline and 2
+months−31.5 at baseline, −5.4 at 2 monthsIkeji 199913\ *n* = 70 ECT,
+*n* = 70 control; 30% unipolar depression; 37.1% schizophrenia; 28.6%
+mania; 4.3% schizoaffective disordersTwo binary questions: ‘Is your
+memory poor?’ ‘Do you worry about your memory?’BilateralBaseline and
+seven intervals up to 6 months post-treatmentSubjective memory
+complaints at 6 months: 37.1% of ECT group, 22.6% of control group [1]_
 
 .. _sec2-2:
 
@@ -273,10 +273,10 @@ Participants
 We found that 15 out of 16 studies reported that major depressive
 disorder in unipolar or bipolar depression was the indication for
 treatment in the majority of patients. One study reported 59.3% of their
-sample being treated for mania.(n.d.k) Two studies reported use in
-patients with schizophrenia and schizoaffective disorders, although it
-was unclear whether these patients were treated for their depressive or
-primary psychotic symptoms.(n.d.w)\ :sup:`,`\ (n.d.l)
+sample being treated for mania.12 Two studies reported use in patients
+with schizophrenia and schizoaffective disorders, although it was
+unclear whether these patients were treated for their depressive or
+primary psychotic symptoms.13\ :sup:`,`\ 14
 
 .. _sec2-3:
 
@@ -285,18 +285,18 @@ Assessment tool used and time points
 
 The most commonly used tool for measuring subjective memory change was
 the SSMQ, with eight studies using all or part of this
-scale.(n.d.x)\ :sup:`,`\ (n.d.k)\ :sup:`,`\ (n.d.m)\ :sup:`–`\ (n.d.v)
-This is an 18-item questionnaire assesses various aspects of subjective
-memory on a Likert scale from −4 (much worse) to +4 (much improved),
-providing a total score comparing current memory with a previous time
-point. For the purposes of these studies, it was assumed that memory was
-being compared to premorbid memory, although this was not explicitly
-stated in any study. Five of the six studies that provided
-group-averaged SSMQ scores showed sustained improvements from baseline
-after ECT treatment (`Fig. 2 <#fig02>`__). Fig. 2Subjective memory
-change over time. A comparison of studies using the Squire Subjective
-Memory Questionnaire (SSMQ). Studies used brief pulse unless stated
-otherwise.(n.d.k)\ :sup:`,`\ (n.d.m)\ :sup:`,`\ (n.d.n)\ :sup:`,`\ (n.d.q)\ :sup:`,`\ (n.d.v)
+scale.6\ :sup:`,`\ 12\ :sup:`,`\ 15\ :sup:`–`\ 20 This is an 18-item
+questionnaire assesses various aspects of subjective memory on a Likert
+scale from −4 (much worse) to +4 (much improved), providing a total
+score comparing current memory with a previous time point. For the
+purposes of these studies, it was assumed that memory was being compared
+to premorbid memory, although this was not explicitly stated in any
+study. Five of the six studies that provided group-averaged SSMQ scores
+showed sustained improvements from baseline after ECT treatment (`Fig.
+2 <#fig02>`__). Fig. 2Subjective memory change over time. A comparison
+of studies using the Squire Subjective Memory Questionnaire (SSMQ).
+Studies used brief pulse unless stated
+otherwise.12\ :sup:`,`\ 15\ :sup:`,`\ 16\ :sup:`,`\ 18\ :sup:`,`\ 20
 ECT, Electroconvulsive Therapy.
 
 .. _sec2-4:
@@ -310,12 +310,11 @@ Pulse width
 ~~~~~~~~~~~
 
 Four studies included patients who had received ultra-brief pulse
-width.(n.d.b)\ :sup:`,`\ (n.d.m)\ :sup:`,`\ (n.d.o)\ :sup:`,`\ (n.d.j)
-Two of these compared brief with ultra-brief and both found longer pulse
-widths were associated with more subjective
-complaints.(n.d.m)\ :sup:`,`\ (n.d.j) One of these studies demonstrated
-that this difference was not accounted for by use of bilateral versus
-unilateral.(n.d.j)
+width.2\ :sup:`,`\ 15\ :sup:`,`\ 17\ :sup:`,`\ 21 Two of these compared
+brief with ultra-brief and both found longer pulse widths were
+associated with more subjective complaints.15\ :sup:`,`\ 21 One of these
+studies demonstrated that this difference was not accounted for by use
+of bilateral versus unilateral.21
 
 .. _sec2-4-2:
 
@@ -346,7 +345,7 @@ A retrospective analysis of 1212 medical records from the Swedish ECT
 treatment registry found, compared with a pre-treatment baseline, 26%
 reported worse subjective memory post-treatment, defined by a two-point
 deficit on the subjective memory component of the Comprehensive
-Psychopathological Rating Scale questionnaire.(n.d.j) In an attempt to
+Psychopathological Rating Scale questionnaire.21 In an attempt to
 stratify risk, the study found that more women suffered with subjective
 memory loss than men (31 *v.* 18%) and more younger adults than adults
 aged over 65 years (32 *v.* 22%). The large sample size adds validity to
@@ -360,17 +359,17 @@ complaints and no dose effect was found.
 A more recent study of 140 in-patients, 75% with bipolar depression,
 undergoing ECT found a significant negative correlation between number
 of treatments and deterioration in subjective memory score across
-diagnostic groups tested within days of treatment by the SSMQ.(n.d.k)
+diagnostic groups tested within days of treatment by the SSMQ.12
 
 Contrary to these findings, the only study to use the Subjective
 Assessment of Memory Impairment found no change in scores amongst
 participants between pre-treatment and immediately after completing the
-course of ECT.(n.d.l) Two smaller studies, using different measures,
-found similar findings.(n.d.q)\ :sup:`,`\ (n.d.p)
+course of ECT.14 Two smaller studies, using different measures, found
+similar findings.18\ :sup:`,`\ 22
 
 In a pragmatic study, an automated telephone system was used to
 intensively monitor day-to-day fluctuations in mood and memory in a
-small sample (*n* = 26) of patients undergoing out-patient ECT.(n.d.o)
+small sample (*n* = 26) of patients undergoing out-patient ECT.17
 Patients were asked daily questions related to subjective memory.
 Objective memory scores improved with time and were correlated with
 mood, whereas subjective memory scores remained stable. The authors
@@ -387,15 +386,15 @@ Using the SSMQ, a 2013 study found that patients (*n* = 35) experienced
 a clinically meaningful and statistically significant improvement in
 subjective memory across most domains with no significant deterioration
 in any one domain, correlating with an improvement in depressive
-symptoms.(n.d.m) This improvement was sustained after 3 months. A study
-of 48 patients in Belgium reported similar findings with improvements in
-SSMQ scores in both groups at 6 weeks post-treatment.(n.d.b)
+symptoms.15 This improvement was sustained after 3 months. A study of 48
+patients in Belgium reported similar findings with improvements in SSMQ
+scores in both groups at 6 weeks post-treatment.2
 
 In a case–control design involving 70 patients and 18 controls without
 depression, those in the ECT group reported worse subjective memory at
 baseline and a significant improvement immediately post-treatment.
 Interestingly, at 2 months, their SSMQ scores were no different from the
-control group who had not received ECT.(n.d.v) Improvements were closely
+control group who had not received ECT.20 Improvements were closely
 correlated with mood scores and there was a possible relationship
 between greater autobiographical memory deficits and subjective memory
 problem complaints.
@@ -407,36 +406,35 @@ Medium-term follow-up: up to 6 months
 
 A study of 31 patients in Norway measured cognitive function and
 subjective memory with the Everyday Memory Questionnaire before starting
-ECT, and at 6 weeks and 6 months
-post-treatment.(n.d.i)\ :sup:`,`\ (n.d.y) There was no statistically
-significant change in subjective memory found between all three time
-points, suggesting subjective memory complaints were not simply
-correlated with mood.
+ECT, and at 6 weeks and 6 months post-treatment.23\ :sup:`,`\ 27 There
+was no statistically significant change in subjective memory found
+between all three time points, suggesting subjective memory complaints
+were not simply correlated with mood.
 
 A 2014 retrospective case-notes study of 126 patients in the UK found
 that subjective memory improved at 1 month, 3 month and 6 months after
-ECT.(n.d.n) This improvement was closely correlated with an improvement
-in Montgomery–Åsberg Depression Rating Scale score, suggesting a causal
+ECT.16 This improvement was closely correlated with an improvement in
+Montgomery–Åsberg Depression Rating Scale score, suggesting a causal
 link between depression and memory impairment that was reversible by
 ECT; however, complete information was only available for 56 patients.
 Further evidence of longer-term positive outcomes were found in a 2010
 study of 85 patients that found significant improvements in subjective
 memory at both 12 and 24 weeks after the end of the acute treatment
-course.(n.d.s)
+course.19
 
 Comparing sham and real treatment, a study of 70 patients assessed
 subjective memory with a single yes/no question. The percentage of
 patients complaining of subjective memory problems had significantly
 improved at 6 months in three of the four groups (sham versus real;
 responders versus non-responders) and was no worse in the fourth (real
-ECT, non-responders).(n.d.r)
+ECT, non-responders).24
 
 Using a simple binary question, a Nigerian study (*n* = 70) found that
 37.1% of the ECT group reported subjective memory problems at 6 months
-compared with 22.6% of disease-matched controls.(n.d.w) All participants
-in this study recovered within six treatments, an unusually high
-response rate that may, when combined with the average age of 29.4
-years, limit the generalisability of the findings.
+compared with 22.6% of disease-matched controls.13 All participants in
+this study recovered within six treatments, an unusually high response
+rate that may, when combined with the average age of 29.4 years, limit
+the generalisability of the findings.
 
 .. _sec3-4:
 
@@ -447,22 +445,22 @@ All four studies that used ultra-brief pulse width reported a low
 incidence of subjective memory complaints and where a direct comparison
 was made, ultra-brief pulse width showed fewer side-effects than brief
 pulse, with no different in treatment
-effect.(n.d.b)\ :sup:`,`\ (n.d.m)\ :sup:`,`\ (n.d.o)\ :sup:`,`\ (n.d.j)
+effect.2\ :sup:`,`\ 15\ :sup:`,`\ 17\ :sup:`,`\ 21
 
 Six weeks after the end of treatment, 73% of the 48 patients who
 received ultra-brief therapy in a 2010 study were glad that they had
 received ECT and satisfaction was correlated with both subjective memory
-and depression scores.(n.d.b) A 2013 study comparing brief and
-ultra-brief therapy in 40 patients found improvements in memory at the
-end of treatment from both brief and ultra-brief pulse widths; however,
+and depression scores.2 A 2013 study comparing brief and ultra-brief
+therapy in 40 patients found improvements in memory at the end of
+treatment from both brief and ultra-brief pulse widths; however,
 ultra-brief therapy was superior, resulting in a resolution of memory
 problems that was sustained at 3-month follow-up, with no difference in
-treatment efficacy.(n.d.m) A study of 26 patients undergoing ultra-brief
-ECT who were followed up on daily for 60 days found ultra-brief therapy
-to have no effect on subjective memory, as assessed by a selection of
-SSMQ questions.(n.d.o) The majority of patients in this small sample
-were out-patients, reducing generalisability, and almost 40% were
-receiving maintenance ECT.
+treatment efficacy.15 A study of 26 patients undergoing ultra-brief ECT
+who were followed up on daily for 60 days found ultra-brief therapy to
+have no effect on subjective memory, as assessed by a selection of SSMQ
+questions.17 The majority of patients in this small sample were
+out-patients, reducing generalisability, and almost 40% were receiving
+maintenance ECT.
 
 .. _sec3-5:
 
@@ -482,7 +480,7 @@ electrode placement and pulse width to all patients. This heterogeneity
 makes it very difficult to determine if any relationship exists between
 mode of delivery or demographic factors and risk of side-effects. Data
 on which patients are most vulnerable to ECT side-effects is still
-lacking.(n.d.z)
+lacking.28
 
 .. _sec3-5-2:
 
@@ -494,13 +492,13 @@ included studies, making comparison between studies challenging. The
 SSMQ was the most widely used assessment tool, but doubt remains about
 how well subjective tools capture actual experience. A study reporting
 treatment satisfaction rates did not find the SSMQ to be an independent
-predictor variable in their multiple regression model.(n.d.b)
+predictor variable in their multiple regression model.2
 
 A further criticism of rating scales is that they produce a single
 summary or average score that may mask domain-specific complaints within
 the questionnaire. Studies using qualitative assessments of memory
 impairment have found subjective deficits at 24 weeks that were not
-picked up by scales designed to capture subjective experience.(n.d.t)
+picked up by scales designed to capture subjective experience.26
 
 A key limitation of all studies on ECT is the acceptability of the
 treatment versus the alternatives, which could include additional or
@@ -547,139 +545,6 @@ of the most effective and controversial in medicine.
 **Dr Simon Vann Jones** is an ST5 in old age psychiatry at Cornwall
 Partnership Foundation Trust, Bodmin, UK. **Dr Rick McCollum** is a
 consultant in old age psychiatry at Devon Partnership Trust, Exeter, UK.
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-ref1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-ref2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-ref3
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-ref6
-
-      n.d.x.
-
-   .. container:: csl-entry
-      :name: ref-ref7
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-ref8
-
-      n.d.e.
-
-   .. container:: csl-entry
-      :name: ref-ref9
-
-      n.d.f.
-
-   .. container:: csl-entry
-      :name: ref-ref10
-
-      n.d.g.
-
-   .. container:: csl-entry
-      :name: ref-ref11
-
-      n.d.h.
-
-   .. container:: csl-entry
-      :name: ref-ref12
-
-      n.d.k.
-
-   .. container:: csl-entry
-      :name: ref-ref13
-
-      n.d.w.
-
-   .. container:: csl-entry
-      :name: ref-ref14
-
-      n.d.l.
-
-   .. container:: csl-entry
-      :name: ref-ref15
-
-      n.d.m.
-
-   .. container:: csl-entry
-      :name: ref-ref16
-
-      n.d.n.
-
-   .. container:: csl-entry
-      :name: ref-ref17
-
-      n.d.o.
-
-   .. container:: csl-entry
-      :name: ref-ref18
-
-      n.d.q.
-
-   .. container:: csl-entry
-      :name: ref-ref19
-
-      n.d.s.
-
-   .. container:: csl-entry
-      :name: ref-ref20
-
-      n.d.v.
-
-   .. container:: csl-entry
-      :name: ref-ref21
-
-      n.d.j.
-
-   .. container:: csl-entry
-      :name: ref-ref22
-
-      n.d.p.
-
-   .. container:: csl-entry
-      :name: ref-ref23
-
-      n.d.i.
-
-   .. container:: csl-entry
-      :name: ref-ref24
-
-      n.d.r.
-
-   .. container:: csl-entry
-      :name: ref-ref25
-
-      n.d.u.
-
-   .. container:: csl-entry
-      :name: ref-ref26
-
-      n.d.t.
-
-   .. container:: csl-entry
-      :name: ref-ref27
-
-      n.d.y.
-
-   .. container:: csl-entry
-      :name: ref-ref28
-
-      n.d.z.
 
 .. [1]
    CFQ, Cognitive Failures Questionnaire; ECT, Electroconvulsive

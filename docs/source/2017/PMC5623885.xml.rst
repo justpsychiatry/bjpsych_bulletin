@@ -2,6 +2,8 @@
 Does the cognitive therapy of depression rest on a mistake?
 ===========================================================
 
+
+
 Richard G. T. GippsCorrespondence to Richard G. T. Gipps
 (richard.gipps@admin.ox.ac.uk)  [1]_
 :Date: 2017-10
@@ -28,19 +30,18 @@ Richard G. T. GippsCorrespondence to Richard G. T. Gipps
 Cognitive–behavioural therapy (CBT) is, alongside antidepressant
 medication and counselling, today's mainstay treatment for depression in
 the UK. Such treatments tend to work better than nothing at
-all,\ :sup:`(n.d.a)` yet in general fare little better than
-placebo,\ :sup:`(n.d.b),(n.d.c)` suffer relatively high relapse rates,
-and often struggle to provide a complete
-remission.\ :sup:`(n.d.d),(n.d.e)`
+all,\ :sup:`1` yet in general fare little better than
+placebo,\ :sup:`2,3` suffer relatively high relapse rates, and often
+struggle to provide a complete remission.\ :sup:`4,5`
 
 CBT treatments for anxiety disorders, by comparison, appear more
-successful.\ :sup:`(n.d.f)` They work by helping the patient articulate,
-then transcend, their underlying inchoate fears, the transformative
-learning happening directly within action and experience. This bottom-up
+successful.\ :sup:`6` They work by helping the patient articulate, then
+transcend, their underlying inchoate fears, the transformative learning
+happening directly within action and experience. This bottom-up
 experiential focus contrasts with the cognitive treatment of depression,
 where the patient is more typically trained in an arduous top-down task
 of managing unhealthy habits of mind through attentional and behavioural
-training and rational self-management.\ :sup:`(n.d.g)`
+training and rational self-management.\ :sup:`7`
 
 One reason for the rather low remission and high relapse rates for
 CBT-treated depression may be that the treatment does not reach to the
@@ -48,17 +49,17 @@ emotional roots of the problem. That CBT principally theorises and
 treats the maintaining, rather than identifies underlying, causes of
 depression was acknowledged by Aaron Beck, the American psychiatrist who
 developed the cognitive aspect of this pragmatic depression treatment in
-the 1950s.\ :sup:`(n.d.g)`
+the 1950s.\ :sup:`7`
 
 The psychoanalytic psychology Beck displaced had a theory of the root
 cause of depression: avoidance of intolerable emotion blocks healthy
 emotional functioning, depletes uncontrived self-possession, and lowers
-self-esteem.\ :sup:`(n.d.h)` But his clinical experience (as a
-psychoanalytic psychotherapist) and scientific research (on depression,
-anger and dreaming) led Beck to discount the significance of such
-unconscious emotion. Ever the pragmatist, he focused instead on treating
-the conscious assumptions and ruminations of the patient which, he
-proposed, were maintaining their depressive state.
+self-esteem.\ :sup:`8` But his clinical experience (as a psychoanalytic
+psychotherapist) and scientific research (on depression, anger and
+dreaming) led Beck to discount the significance of such unconscious
+emotion. Ever the pragmatist, he focused instead on treating the
+conscious assumptions and ruminations of the patient which, he proposed,
+were maintaining their depressive state.
 
 This article argues that the versions of psychoanalytic theory and
 therapy Beck espoused, practised and then rejected were recondite and
@@ -100,11 +101,11 @@ himself, his situation and his future. Even if life thereby becomes
 grim, at least now it will not take him by surprise.
 
 Such ideas form but three strands of a more complex psychoanalytic
-conceptualisation of depression,\ :sup:`(n.d.h)–(n.d.i)` but are fairly
-widespread in both popular and clinical culture for good reason. For
-clinically what we discover, again and again in straightforward cases,
-is a depressed person who avoids sadness, fear and in particular anger
-by going flat, downgrading her sense of her own value, shutting down
+conceptualisation of depression,\ :sup:`8–10` but are fairly widespread
+in both popular and clinical culture for good reason. For clinically
+what we discover, again and again in straightforward cases, is a
+depressed person who avoids sadness, fear and in particular anger by
+going flat, downgrading her sense of her own value, shutting down
 self-assertion, not allowing herself to get even reasonable hopes up,
 falsely characterising herself as perpetrator rather than victim of
 relational injustices, characterising herself as deserving of treatment
@@ -116,7 +117,7 @@ unconscious hatred towards another breaks through the attempts at
 self-suppression and gives rise to intolerable guilt, and this in turn
 inspires self-punishment where the anger towards the other is
 ‘retroflected’ (taken out on oneself), leading to further and darker
-melancholic misery.\ :sup:`(n.d.j)`
+melancholic misery.\ :sup:`9`
 
 It was by way of a reaction against such psychoanalytic theory that a
 young, psychoanalytically minded American psychiatrist and dream
@@ -126,11 +127,10 @@ treated several depressed patients using psychoanalytical methods,
 applied (albeit unsuccessfully) for membership of the American Institute
 of Psychoanalysis, and published a few papers on psychoanalytic
 psychotherapy and on the themes of his depressed patients'
-dreams.\ :sup:`(n.d.k),(n.d.l)` Reading these today we learn in
-particular of his scientific interest in the increased prevalence of
-thwarted, deprived, excluded, rejected, injured and ashamed themes in
-his patients' dreams, and of his clinical interpretation of these along
-psychoanalytic lines.
+dreams.\ :sup:`11,12` Reading these today we learn in particular of his
+scientific interest in the increased prevalence of thwarted, deprived,
+excluded, rejected, injured and ashamed themes in his patients' dreams,
+and of his clinical interpretation of these along psychoanalytic lines.
 
 Already in these early papers, however, we find a curious feature which
 presages his later rejection of psychoanalysis: although most of the
@@ -140,14 +140,14 @@ married someone else’) appear interpretable in terms of the simple
 hypothesis of motivated self-depletion, surprisingly he interprets them
 all in terms of the more complex dynamic of self-hatred: the depressed
 patient's misery is always seen as deliberately rather than incidentally
-self-inflicted, reflecting his ‘need to suffer’.\ :sup:`(n.d.m)` Dreams
-such as not getting food that is requested, or being rejected – which in
+self-inflicted, reflecting his ‘need to suffer’.\ :sup:`13` Dreams such
+as not getting food that is requested, or being rejected – which in
 themselves appear at most to indicate a need to safely anticipate
 setbacks or protect cherished others from one's resentment by portraying
 life as hopeless and oneself as worthless – are instead
 counterintuitively read as ‘the representation of self-punitive
 tendencies … the depressed person feels guilt about his ego-alien drives
-and punishes himself for them.’\ :sup:`(n.d.k)`
+and punishes himself for them.’\ :sup:`11`
 
 The question naturally arises as to why Beck was so drawn to the
 masochism hypothesis. And this is particularly significant because it
@@ -182,22 +182,22 @@ what he was actually trying to do in his early research was to set the
 clinical psychoanalytic theory of depression as a function of suppressed
 anger on a firmer scientific basis by providing quantitative
 psychological evidence of unconscious anger in the dreams of his
-depressed patients.\ :sup:`(n.d.n),(n.d.o)` Although he did not report
-it at the time, what he later tells us he found is what has also been
-established since::sup:`(n.d.p)` that as a group people with depression
-have fewer themes of anger in their dreams than people who do not have
-depression. This puzzled him, as somehow he had understood the Freudian
-idea of dreams being the ‘royal road to the unconscious’\ :sup:`(n.d.q)`
-to mean that feelings unacceptable to the waking patient ought to show
-up straightforwardly in their dreams.\ :sup:`(n.d.n)` The finding of
-fewer angry themes in the dreams of patients with depression therefore
-appeared to contradict the psychoanalytic hypothesis of depression as
-resulting from suppressed anger. This troubled Beck, but – at least
-until he found independent evidence of the implausibility of this
-interpretation – he realised he could save the psychoanalytic theory by
-interpreting the very dreaming of such miserabilist dreams as
-masochistically motivated (‘he makes himself dream such miserable dreams
-because he hates himself’).
+depressed patients.\ :sup:`14,15` Although he did not report it at the
+time, what he later tells us he found is what has also been established
+since::sup:`16` that as a group people with depression have fewer themes
+of anger in their dreams than people who do not have depression. This
+puzzled him, as somehow he had understood the Freudian idea of dreams
+being the ‘royal road to the unconscious’\ :sup:`17` to mean that
+feelings unacceptable to the waking patient ought to show up
+straightforwardly in their dreams.\ :sup:`14` The finding of fewer angry
+themes in the dreams of patients with depression therefore appeared to
+contradict the psychoanalytic hypothesis of depression as resulting from
+suppressed anger. This troubled Beck, but – at least until he found
+independent evidence of the implausibility of this interpretation – he
+realised he could save the psychoanalytic theory by interpreting the
+very dreaming of such miserabilist dreams as masochistically motivated
+(‘he makes himself dream such miserable dreams because he hates
+himself’).
 
 What is deeply unclear in all of this is why Beck thought that Freud's
 theory posited that unconscious emotions ought to be directly manifest
@@ -220,15 +220,15 @@ psychoanalytic theory itself.
 To sum up so far: a central plank of cognitive therapy's origin myth has
 it that it developed out of an apparent scientific disconfirmation of
 the clinical psychoanalytic theory of depression as a motivationally
-explicable state.\ :sup:`(n.d.n)` But in retrospect what seems more
-likely to have happened is that an inappropriate quantitative
-methodology deployed to provide support for an unlikely theory of
-depressive dreaming actually found against it; that an implausibly
-general theory of depressive masochism was developed to save the
-floundering analytic theory; and that when this overly general masochism
-theory was dropped for good reason, the whole idea of symptoms as
-motivated by the avoidance of intolerable feelings – i.e. the whole idea
-of a depth psychology – was jettisoned for no good reason at all.
+explicable state.\ :sup:`14` But in retrospect what seems more likely to
+have happened is that an inappropriate quantitative methodology deployed
+to provide support for an unlikely theory of depressive dreaming
+actually found against it; that an implausibly general theory of
+depressive masochism was developed to save the floundering analytic
+theory; and that when this overly general masochism theory was dropped
+for good reason, the whole idea of symptoms as motivated by the
+avoidance of intolerable feelings – i.e. the whole idea of a depth
+psychology – was jettisoned for no good reason at all.
 
 .. _S2:
 
@@ -241,10 +241,10 @@ psychoanalytic notion of depression as unconsciously motivated. The
 development of cognitive therapy's psychotherapeutic technique, however,
 depends on its rejection of the centrality for psychotherapeutic
 practice of what psychoanalysis terms the ‘transference
-relationship’.\ :sup:`(n.d.g)` A curious aspect, then, of Beck's
-development of cognitive therapy is that it was actually inspired by his
-encounter with, and dawning realisation of the clinical significance of,
-what are clearly recognisable as his patients' transferences to him.
+relationship’.\ :sup:`7` A curious aspect, then, of Beck's development
+of cognitive therapy is that it was actually inspired by his encounter
+with, and dawning realisation of the clinical significance of, what are
+clearly recognisable as his patients' transferences to him.
 
 First, a note on ‘transference’. A defining preoccupation of
 psychoanalysis is with how immersion in relationships which inspire
@@ -257,20 +257,20 @@ manifestations inside and outside of therapy are known as negative and
 positive transferences. They can be easy to attend from, as it were, but
 powerfully difficult to attend to – i.e. they are often unconscious –
 and their patterns are typically transferred from one significant other
-to another over time.\ :sup:`(n.d.r),(n.d.s)` The task of psychoanalytic
-therapy is the patient's emancipation from distorting transference
-patterns, a task prosecuted by first facilitating the flourishing and
-then the subsequent experiential emancipation from the transferences
-between patient and psychotherapist, an experience that can then
-generalise to the transferences in the rest of the patient's life. Much
-of a psychoanalytical psychotherapist's training has to do with
-developing his ability to make room for and be emotionally touched, yet
-not inexorably swept along, by the patient's transference so he can
-think about, experience, describe, and help liberate the patient from
-her unconscious depressogenic emotional habits.
+to another over time.\ :sup:`18,19` The task of psychoanalytic therapy
+is the patient's emancipation from distorting transference patterns, a
+task prosecuted by first facilitating the flourishing and then the
+subsequent experiential emancipation from the transferences between
+patient and psychotherapist, an experience that can then generalise to
+the transferences in the rest of the patient's life. Much of a
+psychoanalytical psychotherapist's training has to do with developing
+his ability to make room for and be emotionally touched, yet not
+inexorably swept along, by the patient's transference so he can think
+about, experience, describe, and help liberate the patient from her
+unconscious depressogenic emotional habits.
 
-To return to cognitive therapy. As Beck\ :sup:`(n.d.o)` tells the story,
-he had a patient who would lie on the couch each session and regale him
+To return to cognitive therapy. As Beck\ :sup:`15` tells the story, he
+had a patient who would lie on the couch each session and regale him
 with lurid tales of her sexual exploits, while he sat back and offered
 somewhat by-the-book psychoanalytic interpretations regarding the
 content of whatever it had occurred to her to say. At the end of one
@@ -281,16 +281,16 @@ making her anxious. She cautiously responded, however, to the effect
 that her real worry was interpersonal: her worry was that he was bored
 by her. Beck then began to see ‘that there's a whole stream of
 pre-conscious thinking that goes on that the patient doesn't normally
-communicate to the analyst’\ :sup:`(n.d.o)` – especially pessimistic,
-biased, black-and-white, over-general irrational expectations concerning
-what the therapist thinks and feels about the patient. Beck came to call
+communicate to the analyst’\ :sup:`15` – especially pessimistic, biased,
+black-and-white, over-general irrational expectations concerning what
+the therapist thinks and feels about the patient. Beck came to call
 these transference expectations the patient's ‘negative automatic
 thoughts’ (NATs) and, drawing on the ‘rational therapy’ of Albert
-Ellis,\ :sup:`(n.d.t)` went on to develop a significant range of
-procedures to help the patient attend to and challenge their NATs.
+Ellis,\ :sup:`20` went on to develop a significant range of procedures
+to help the patient attend to and challenge their NATs.
 
 There are several curious things about this and related narratives Beck
-offers.\ :sup:`(n.d.u)` The first is that Beck the novice psychoanalyst
+offers.\ :sup:`21` The first is that Beck the novice psychoanalyst
 started out (as one does) by naively listening to and interpreting the
 explicit content of what the patient freely said, rather than listening
 in with an analytic ear to what she was not saying, to the unconscious
@@ -324,15 +324,14 @@ emotional difficulties as brought one to therapy in the first place.
 Notwithstanding the simplicity of the ‘fundamental rule’ of
 psychoanalysis – to ‘free associate’, i.e. say whatever is actually on
 your mind (which is not the same as saying whatever you feel like
-saying!) – the fact is that no one can truly follow
-it,\ :sup:`(n.d.u),(n.d.v)` since we naturally associate away from
-rather than towards conflictual emotional
-preoccupations.\ :sup:`(n.d.w)` This is why the therapist's job is often
-to listen not so much to the content of what is said as to performative
-matters of style, timing and omission. Beck, however, construes NATs as
-merely incidentally hard for the patient to articulate and challenge –
-due to a lack of training in attending to and reporting on
-them\ :sup:`(n.d.u)` – rather than because of their emotional valence.
+saying!) – the fact is that no one can truly follow it,\ :sup:`21,22`
+since we naturally associate away from rather than towards conflictual
+emotional preoccupations.\ :sup:`23` This is why the therapist's job is
+often to listen not so much to the content of what is said as to
+performative matters of style, timing and omission. Beck, however,
+construes NATs as merely incidentally hard for the patient to articulate
+and challenge – due to a lack of training in attending to and reporting
+on them\ :sup:`21` – rather than because of their emotional valence.
 This, I submit, is intuitively implausible. More consonant with everyday
 clinical and personal experience is the notion that his patient did not
 elaborate her actual worries because she feared they might not be
@@ -346,15 +345,15 @@ this is false – cognitive therapy ‘requires a good therapeutic
 relationship. Therapists do many things to build a strong alliance. For
 example, they work collaboratively with clients … ask for feedback… and
 conduct themselves as genuine, warm, empathic, interested, caring human
-beings.’\ :sup:`(n.d.x)` However, as psychoanalytical psychotherapist
+beings.’\ :sup:`24` However, as psychoanalytical psychotherapist
 Jonathan Shedler responds, ‘This is the kind of relationship I would
 expect from my hair stylist or real estate broker. From a
 psychotherapist, I expect something else. [Beck appears] to have no
 concept that the therapy relationship provides a special window into the
 patient's inner world, or a relationship laboratory and sanctuary in
 which lifelong patterns can be recognized and understood, and new ones
-created.’\ :sup:`(n.d.y)` Shedler's optimism regarding his hair stylist
-and estate agent perhaps warrants some cognitive restructuring, but his
+created.’\ :sup:`25` Shedler's optimism regarding his hair stylist and
+estate agent perhaps warrants some cognitive restructuring, but his
 point about the therapeutic relationship stands.
 
 A relationship which is not merely instrumentally useful (as intended by
@@ -407,33 +406,31 @@ ground up, that reinstates true self-possession.
 The time is past for studies comparing outcomes of self-professed
 cognitive therapy/CBT and psychoanalytic practitioners. The apparent
 success of particular therapies in such trials is better predicted and
-explained not by therapeutic model\ :sup:`(n.d.z)` but by the
-theoretical orientation of the lead experimenter,\ :sup:`(n.d.aa)` the
-personal qualities of the therapists,\ :sup:`(n.d.ab)` or by theory
-drawn from quite different models.\ :sup:`(n.d.ac)` Beck himself
-expressed the wish that cognitive therapy as a school die
-out,\ :sup:`(n.d.ad)` the apt thought here being that what matters is
-not the treatment model but rather the particular treatment qualities
-which are individually worthy of study.
+explained not by therapeutic model\ :sup:`26` but by the theoretical
+orientation of the lead experimenter,\ :sup:`27` the personal qualities
+of the therapists,\ :sup:`28` or by theory drawn from quite different
+models.\ :sup:`29` Beck himself expressed the wish that cognitive
+therapy as a school die out,\ :sup:`30` the apt thought here being that
+what matters is not the treatment model but rather the particular
+treatment qualities which are individually worthy of study.
 
 CBT treatments for depression often suffer high drop-out
-rates.\ :sup:`(n.d.ae)` One possible explanation for this is a lack of
+rates.\ :sup:`31` One possible explanation for this is a lack of
 attention to transference. Sometimes this may be because negative
 transference undermines the therapeutic collaboration, although ideally
-CBT therapists are trained in recognising and managing
-this.\ :sup:`(n.d.g)` At other times it may be because psychotherapeutic
-relationships that are merely collaborative, rather than offering
-experiential work in the transference, do not hit the therapeutic spot.
-Recently, however, there has been a resurgence in the general theory
-of,\ :sup:`(n.d.h)` clinical practice and treatment manual
-for,\ :sup:`(n.d.af)` and outcome studies supporting a
-transference-involving psychoanalytic approach to depression. With
-regard to outcome, outstanding results in helping patients with
-treatment-resistant depression which is not readily resolved by CBT have
-been obtained by particular practitioners of psychoanalytic
-psychotherapy\ :sup:`(n.d.ag)` and somewhat optimistic results have been
-obtained with similar patients in the multi-practitioner Tavistock Adult
-Depression Study.\ :sup:`(n.d.ah)`
+CBT therapists are trained in recognising and managing this.\ :sup:`7`
+At other times it may be because psychotherapeutic relationships that
+are merely collaborative, rather than offering experiential work in the
+transference, do not hit the therapeutic spot. Recently, however, there
+has been a resurgence in the general theory of,\ :sup:`8` clinical
+practice and treatment manual for,\ :sup:`32` and outcome studies
+supporting a transference-involving psychoanalytic approach to
+depression. With regard to outcome, outstanding results in helping
+patients with treatment-resistant depression which is not readily
+resolved by CBT have been obtained by particular practitioners of
+psychoanalytic psychotherapy\ :sup:`33` and somewhat optimistic results
+have been obtained with similar patients in the multi-practitioner
+Tavistock Adult Depression Study.\ :sup:`34`
 
 The present article has not been concerned to argue for a psychoanalytic
 approach to depression on the basis of empirical evidence. Instead, it
@@ -449,179 +446,6 @@ approach which, rightly understood, possesses considerable clinical
 plausibility, and given the relatively poor results obtained by CBT for
 depression in much clinical practice, the time is surely right to
 revisit the psychoanalytic model.
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-R1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-R2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-R3
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-R4
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-R5
-
-      n.d.e.
-
-   .. container:: csl-entry
-      :name: ref-R6
-
-      n.d.f.
-
-   .. container:: csl-entry
-      :name: ref-R7
-
-      n.d.g.
-
-   .. container:: csl-entry
-      :name: ref-R8
-
-      n.d.h.
-
-   .. container:: csl-entry
-      :name: ref-R9
-
-      n.d.j.
-
-   .. container:: csl-entry
-      :name: ref-R10
-
-      n.d.i.
-
-   .. container:: csl-entry
-      :name: ref-R11
-
-      n.d.k.
-
-   .. container:: csl-entry
-      :name: ref-R12
-
-      n.d.l.
-
-   .. container:: csl-entry
-      :name: ref-R13
-
-      n.d.m.
-
-   .. container:: csl-entry
-      :name: ref-R14
-
-      n.d.n.
-
-   .. container:: csl-entry
-      :name: ref-R15
-
-      n.d.o.
-
-   .. container:: csl-entry
-      :name: ref-R16
-
-      n.d.p.
-
-   .. container:: csl-entry
-      :name: ref-R17
-
-      n.d.q.
-
-   .. container:: csl-entry
-      :name: ref-R18
-
-      n.d.r.
-
-   .. container:: csl-entry
-      :name: ref-R19
-
-      n.d.s.
-
-   .. container:: csl-entry
-      :name: ref-R20
-
-      n.d.t.
-
-   .. container:: csl-entry
-      :name: ref-R21
-
-      n.d.u.
-
-   .. container:: csl-entry
-      :name: ref-R22
-
-      n.d.v.
-
-   .. container:: csl-entry
-      :name: ref-R23
-
-      n.d.w.
-
-   .. container:: csl-entry
-      :name: ref-R24
-
-      n.d.x.
-
-   .. container:: csl-entry
-      :name: ref-R25
-
-      n.d.y.
-
-   .. container:: csl-entry
-      :name: ref-R26
-
-      n.d.z.
-
-   .. container:: csl-entry
-      :name: ref-R27
-
-      n.d.aa.
-
-   .. container:: csl-entry
-      :name: ref-R28
-
-      n.d.ab.
-
-   .. container:: csl-entry
-      :name: ref-R29
-
-      n.d.ac.
-
-   .. container:: csl-entry
-      :name: ref-R30
-
-      n.d.ad.
-
-   .. container:: csl-entry
-      :name: ref-R31
-
-      n.d.ae.
-
-   .. container:: csl-entry
-      :name: ref-R32
-
-      n.d.af.
-
-   .. container:: csl-entry
-      :name: ref-R33
-
-      n.d.ag.
-
-   .. container:: csl-entry
-      :name: ref-R34
-
-      n.d.ah.
 
 .. [1]
    **Richard G. T. Gipps** Clinical psychologist in private practice,

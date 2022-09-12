@@ -2,6 +2,8 @@
 Difficulties in interpreting patient-reported outcome measures in the absence of a gold standard: the meaning of Clinical Global Impressions scores in liaison psychiatry
 =========================================================================================================================================================================
 
+
+
 Rajalakshmi Valaiyapathi
 Kezia Smith
 Ksenia Marjanovic-Deverill
@@ -19,12 +21,12 @@ assess patient-reported outcomes. We would like to share our findings
 and the challenges in interpreting CGI ratings.
 
 CGI scales in psychiatry were initially used to assess efficacy in
-clinical drug trials\ :sup:`(n.d.a)` and have since been adapted for use
-in liaison psychiatry as a part of a nationwide evaluation. The
-Framework for Routine Outcome Measurement in Liaison
-Psychiatry\ :sup:`(n.d.b)` proposed that all liaison psychiatry services
-use CGI scales for consistent data collection and national reporting of
-outcomes, although there is no guidance on a standard to aim for.
+clinical drug trials\ :sup:`1` and have since been adapted for use in
+liaison psychiatry as a part of a nationwide evaluation. The Framework
+for Routine Outcome Measurement in Liaison Psychiatry\ :sup:`2` proposed
+that all liaison psychiatry services use CGI scales for consistent data
+collection and national reporting of outcomes, although there is no
+guidance on a standard to aim for.
 
 Our methodology involved patients and their ELPS clinicians providing a
 CGI rating on whether the patient's mental health had improved, not
@@ -51,14 +53,14 @@ patients may not be needed if clinicians’ objective ratings are so
 closely tallied.
 
 The CGI scale has been correlated with more time-consuming rating scales
-used in psychiatry,\ :sup:`(n.d.c)` and its advantages lie in its ease
-of understanding by both professionals and lay people, its ability to
-track progress across time and its swiftness of application. On
-reflection of our findings, we are unable to comment on our performance
-given the dearth of literature discussing what constitutes the gold
-standard. However, encouragingly, most patients reported improvement
-while only a very small minority reported deterioration, indicating that
-liaison psychiatry interventions are effective and largely beneficial.
+used in psychiatry,\ :sup:`3` and its advantages lie in its ease of
+understanding by both professionals and lay people, its ability to track
+progress across time and its swiftness of application. On reflection of
+our findings, we are unable to comment on our performance given the
+dearth of literature discussing what constitutes the gold standard.
+However, encouragingly, most patients reported improvement while only a
+very small minority reported deterioration, indicating that liaison
+psychiatry interventions are effective and largely beneficial.
 
 By nature, the liaison psychiatry population comprises patients with
 both physical and mental health conditions, causing relative difficulty
@@ -71,21 +73,3 @@ This simple service evaluation suggests that ELPS improves patients’
 well-being according to CGI scales. Nevertheless, wider-scale studies
 should be performed to elucidate how liaison psychiatry interventions
 are beneficial and to inform what the standard of care should be.
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-ref1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-ref2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-ref3
-
-      n.d.c.

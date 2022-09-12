@@ -2,6 +2,8 @@
 What's the point of the *BJPsych Bulletin*?
 ===========================================
 
+
+
 Norman PooleCorrespondence to: Norman Poole (pb@rcpsych.ac.uk)
 :Date: 2018-6
 
@@ -47,10 +49,10 @@ tinker, and so I feel compelled to shape the *Bulletin* in my own image;
 but what sort of image is that?
 
 While I ought to have been reading cardiology textbooks, I was in fact
-nose-deep in Edward O. Wilson's *Sociobiology*,(n.d.a) a fact that was
-to be reflected equally in my final exam scores and the ensuing purchase
-of Stephen Rose's edited volume *From Brains to Consciousness?*\ (n.d.b)
-I diverted myself from the former circumstance with Tim Crow's chapter
+nose-deep in Edward O. Wilson's *Sociobiology*,1 a fact that was to be
+reflected equally in my final exam scores and the ensuing purchase of
+Stephen Rose's edited volume *From Brains to Consciousness?*\ 2 I
+diverted myself from the former circumstance with Tim Crow's chapter
 claiming an intimate link between language development and
 schizophrenia, alongside Richard Bentall's, which questioned the
 validity of diagnosis. I found the stark divergence of explanatory
@@ -87,23 +89,23 @@ curriculum for neuroscience, and I hope to support this initiative by
 using the *Bulletin* as a forum for discussion and dissemination. I
 encourage authors to submit clinically relevant and readable reviews of
 neuroscience topics, such as Nour & Nour's recent paper on visual
-hallucinations.(n.d.c)
+hallucinations.3
 
 Finally, I believe that psychiatry trainees (and non-training grades)
 would benefit from a specific section similar to the *BMJ*'s *Endgames*
 format exploring complex psychiatric presentations and management
 issues. I envisage that this section, to be co-written by consultants
-and trainees, will support the development of clinical reasoning,(n.d.d)
-which is often hard to fathom for trainees in a busy clinic. In
-particular, the series should focus on differential diagnosis
-(identifying or excluding ‘organic’ aetiology; differentiating between
-superficially similar conditions such as adult attention-deficit
-hyperactivity disorder and borderline personality disorder). I encourage
-prospective authors to contact the *Bulletin* with proposals for more
-detailed advice on guidelines. Do please note that standards must accord
-with the International Committee of Medical Editors' Uniform
-Requirements for Manuscripts (http://www.icmje.org/) and co-production
-with patients is encouraged.
+and trainees, will support the development of clinical reasoning,4 which
+is often hard to fathom for trainees in a busy clinic. In particular,
+the series should focus on differential diagnosis (identifying or
+excluding ‘organic’ aetiology; differentiating between superficially
+similar conditions such as adult attention-deficit hyperactivity
+disorder and borderline personality disorder). I encourage prospective
+authors to contact the *Bulletin* with proposals for more detailed
+advice on guidelines. Do please note that standards must accord with the
+International Committee of Medical Editors' Uniform Requirements for
+Manuscripts (http://www.icmje.org/) and co-production with patients is
+encouraged.
 
 So, more op-ed pieces on the state of psychiatry and a focus on
 trainees' needs around neuroscience and clinical complexity. Is it
@@ -116,26 +118,3 @@ my image that will shape the *Bulletin*, but yours.
 **Norman Poole** is Editor of the *BJPsych Bulletin* and Consultant
 Neuropsychiatrist at St George's Hospital, South West London and St
 George's Mental Health NHS Trust, London, UK.
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-ref1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-ref2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-ref3
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-ref4
-
-      n.d.d.

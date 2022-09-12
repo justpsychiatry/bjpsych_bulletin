@@ -2,6 +2,8 @@
 Efficacy of a dementia intensive support (DIS) service at preventing admissions to medical and psychiatric wards: qualitative and quantitative evaluation
 =========================================================================================================================================================
 
+
+
 Judy S. Rubinsztein
 Catherine Hatfield
 Liam High
@@ -53,22 +55,22 @@ Dementia has become a major health concern in older people, with
 prevalence rates in those over 65 years of age estimated at 7.1%. The
 overall economic impact of dementia in the UK was costed at £26.3
 billion, with an average annual cost of £32 250 per person, in
-2013.\ :sup:`(n.d.a)`
+2013.\ :sup:`1`
 
 A quarter of hospital beds are occupied by people with
-dementia.\ :sup:`(n.d.b)` Admissions to hospital for patients with
-dementia are not always preventable but should be avoided where
-possible, as they are associated with increased length of stay,
-morbidity and mortality.\ :sup:`(n.d.c)`
+dementia.\ :sup:`2` Admissions to hospital for patients with dementia
+are not always preventable but should be avoided where possible, as they
+are associated with increased length of stay, morbidity and
+mortality.\ :sup:`3`
 
 The efficacy of crisis resolution and home treatment teams (CRHTTs) in
 general adult services is reasonably well established, with a Cochrane
 review confirming that crisis care was acceptable and less expensive. In
 addition, repeat admissions were avoided and users of crisis services
 showed greater improvements in their mental state and reported greater
-satisfaction than those who received standard care.\ :sup:`(n.d.d)`
-However, the evidence base is much slimmer for older people and for
-people with dementia specifically.\ :sup:`(n.d.e),(n.d.f)`
+satisfaction than those who received standard care.\ :sup:`4` However,
+the evidence base is much slimmer for older people and for people with
+dementia specifically.\ :sup:`5,6`
 
 Cambridge and Peterborough NHS Foundation Trust (CPFT) covers the county
 of Cambridgeshire (including Peterborough) and some small areas of
@@ -76,9 +78,9 @@ adjacent counties in England. The total population served by CPFT is
 approximately 1 million people, of whom 165 000 were over the age of 65
 at the last census in 2016. There were an estimated 8600 people with
 dementia in 2016, a number expected to increase to 16 110 by
-2031.\ :sup:`(n.d.g)` We have two regional CRHTT services for older
-people across the county (CRHTT-OP North and CRHTT-OP South), each
-covering approximately half of the county. To reduce or prevent hospital
+2031.\ :sup:`7` We have two regional CRHTT services for older people
+across the county (CRHTT-OP North and CRHTT-OP South), each covering
+approximately half of the county. To reduce or prevent hospital
 admissions, our dementia intensive support (DIS) service in CPFT was set
 up in its current format in 2016. The DIS service forms part of CRHTT-OP
 South. The role of the CRHTT-OP service is to support both people with
@@ -118,8 +120,8 @@ non-pharmacological interventions for behavioural and psychological
 symptoms of dementia (BPSD) (typically, exploration of the reasons for
 the behaviour and suggestions of ways to address it, as well sensory and
 music stimulation and assistive technology, as described in NICE
-guidelines from 2018\ :sup:`(n.d.h)` and Alzheimer's Society guidance
-from 2011\ :sup:`(n.d.i)`) are employed.
+guidelines from 2018\ :sup:`8` and Alzheimer's Society guidance from
+2011\ :sup:`9`) are employed.
 
 We evaluated, using qualitative and quantitative methodology, whether
 the involvement of the DIS team did lead to prevention of admission to
@@ -297,32 +299,31 @@ frequently change structure or function over time.
 
 The most recent systematic review of the literature on crisis team
 management of dementia in older people, from 2017, describes the results
-of six cohort studies and one case–control study.\ :sup:`(n.d.e)`
-However, several studies include both patients with functional and
-psychiatric disorders, making direct comparisons with our study more
-difficult. A positive effect on factors such as reducing the number of
-hospital admissions, readmissions, length of stay and mortality rates
-was reported in these studies. However, caution needs to be exercised in
+of six cohort studies and one case–control study.\ :sup:`5` However,
+several studies include both patients with functional and psychiatric
+disorders, making direct comparisons with our study more difficult. A
+positive effect on factors such as reducing the number of hospital
+admissions, readmissions, length of stay and mortality rates was
+reported in these studies. However, caution needs to be exercised in
 interpreting the review's findings as the studies were small, of
-variable design and sometimes lacking in statistical
-rigour.\ :sup:`(n.d.e)` There was only one case–control study (from the
-USA) in which a non-randomised concurrent control treatment outcome
-trial was conducted.\ :sup:`(n.d.j)` This study reported a lower
-mortality rate, a significant decrease in hospital readmissions (with
-people remaining in their homes for longer), significant improvements in
-caregiver outcomes (*P* < 0.001) and fewer neuropsychiatric symptoms for
-those in the intervention group. It is difficult to be sure how
-reproducible this service would be in the UK. In addition, the control
-group did not seem to be similar to the intervention group as they were
-more likely to die in the first year, suggesting that they may have been
-a more physically ill group from the outset. Further case–control
-studies in the UK are needed to establish whether DIS teams are
-effective in reducing admissions. Our own previous cohort study is one
-of the few to examine this question before and after the introduction of
-an ageless CRHTT in the UK,\ :sup:`(n.d.k)` but it did not examine
-crisis services for patients with dementia specifically (all crises for
-older people were included) and other service changes may have affected
-the result.
+variable design and sometimes lacking in statistical rigour.\ :sup:`5`
+There was only one case–control study (from the USA) in which a
+non-randomised concurrent control treatment outcome trial was
+conducted.\ :sup:`10` This study reported a lower mortality rate, a
+significant decrease in hospital readmissions (with people remaining in
+their homes for longer), significant improvements in caregiver outcomes
+(*P* < 0.001) and fewer neuropsychiatric symptoms for those in the
+intervention group. It is difficult to be sure how reproducible this
+service would be in the UK. In addition, the control group did not seem
+to be similar to the intervention group as they were more likely to die
+in the first year, suggesting that they may have been a more physically
+ill group from the outset. Further case–control studies in the UK are
+needed to establish whether DIS teams are effective in reducing
+admissions. Our own previous cohort study is one of the few to examine
+this question before and after the introduction of an ageless CRHTT in
+the UK,\ :sup:`11` but it did not examine crisis services for patients
+with dementia specifically (all crises for older people were included)
+and other service changes may have affected the result.
 
 .. _sec3-3:
 
@@ -332,21 +333,21 @@ Service implications
 Commissioners of our service have enthusiastically endorsed the approach
 of crisis and home treatment: indeed, ‘at home is best’ is the top
 priority for the Cambridgeshire and Peterborough Sustainability and
-Transformation Partnership (STP).\ :sup:`(n.d.l)` This has been
-reflected in additional investment in DIS teams as one of the key areas
-for the STP investment fund. This study shows that very few patients
-referred to our service over the year required hospital admission.
-Admission cannot always be prevented and of course the reasons for
-in-patient admission to psychiatric or acute hospital are notoriously
-complex to analyse (and beyond the scope of this study), involving
-specifics of particular patients, carers and clinicians. Supportive
-measures (such as care packages, medication and explanation about the
-management of delirium) may help to support carers and prevent acute
-hospital admissions. However, these patients were all referred in crisis
-and, although some were excluded by our expert panel as not reaching the
-threshold for the DIS team having contributed to admission prevention,
-many were helped by interventions from the team. The DIS team has
-therefore proved to be a worthwhile asset to our service.
+Transformation Partnership (STP).\ :sup:`12` This has been reflected in
+additional investment in DIS teams as one of the key areas for the STP
+investment fund. This study shows that very few patients referred to our
+service over the year required hospital admission. Admission cannot
+always be prevented and of course the reasons for in-patient admission
+to psychiatric or acute hospital are notoriously complex to analyse (and
+beyond the scope of this study), involving specifics of particular
+patients, carers and clinicians. Supportive measures (such as care
+packages, medication and explanation about the management of delirium)
+may help to support carers and prevent acute hospital admissions.
+However, these patients were all referred in crisis and, although some
+were excluded by our expert panel as not reaching the threshold for the
+DIS team having contributed to admission prevention, many were helped by
+interventions from the team. The DIS team has therefore proved to be a
+worthwhile asset to our service.
 
 We thank Dr Ian Rowbotham, CRHTT consultant in the North of CPFT, for
 advice and discussion in the early phase of the project, and Christie
@@ -408,69 +409,6 @@ http://dx.doi.org/10.1192/bjb.2020.24.
    .. rubric:: 
 
    click here to view supplementary material
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-ref1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-ref2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-ref3
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-ref4
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-ref5
-
-      n.d.e.
-
-   .. container:: csl-entry
-      :name: ref-ref6
-
-      n.d.f.
-
-   .. container:: csl-entry
-      :name: ref-ref7
-
-      n.d.g.
-
-   .. container:: csl-entry
-      :name: ref-ref8
-
-      n.d.h.
-
-   .. container:: csl-entry
-      :name: ref-ref9
-
-      n.d.i.
-
-   .. container:: csl-entry
-      :name: ref-ref10
-
-      n.d.j.
-
-   .. container:: csl-entry
-      :name: ref-ref11
-
-      n.d.k.
-
-   .. container:: csl-entry
-      :name: ref-ref12
-
-      n.d.l.
 
 .. [1]
    BPSD, behavioural and psychological symptoms of dementia.

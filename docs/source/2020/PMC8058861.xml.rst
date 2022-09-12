@@ -2,6 +2,8 @@
 Section 12 approval: fit for purpose?
 =====================================
 
+
+
 Darryl Ballantyne-Watts
 :Date: 2020-06
 
@@ -10,8 +12,8 @@ Darryl Ballantyne-Watts
    :depth: 3
 ..
 
-I read this article\ :sup:`(n.d.)` with some interest, and with some
-alarm. Yes, striving for ‘evidence-based improvements’ in the Section 12
+I read this article\ :sup:`1` with some interest, and with some alarm.
+Yes, striving for ‘evidence-based improvements’ in the Section 12
 approval/reapproval process is an understandably good thing. However,
 basing recommendations on a 21.7% (5/23) return rate for a questionnaire
 is never going to change much behaviour. Not even when this information
@@ -35,11 +37,3 @@ and some element of wisdom. I am not at all sure that the solutions
 proposed in this paper will take many in that direction.
 
 None.
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-ref1
-
-      n.d.

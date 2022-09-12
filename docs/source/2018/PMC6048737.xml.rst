@@ -2,6 +2,8 @@
 Author's reply
 ==============
 
+
+
 Joanna Moncrieff
 :Date: 2018-6
 
@@ -20,8 +22,7 @@ In truth, we all bring assumptions and biases to our work. I am
 obviously unable to describe every study ever done on antidepressants in
 a short article, but I have written books and papers that address all
 the evidence I could find that supports the disease-centred model of
-drug action in relation to antidepressants and other psychiatric
-drugs.(n.d.a)
+drug action in relation to antidepressants and other psychiatric drugs.1
 
 Indeed, one of the most important points I am making in relation to drug
 action is that existing psychopharmacological research is based on
@@ -38,14 +39,14 @@ Jauhar and Young point out that the latest meta-analysis of
 antidepressant trials finds impressive odds ratios for effects of
 antidepressants, but it analyses categorical outcomes derived from
 continuous data, which has been shown to inflate drug–placebo
-differences.(n.d.b) Network analysis is also likely to exaggerate
-differences, since the degree of improvement in comparative trials is
-higher than in placebo-controlled trials.(n.d.c) The continuous data,
-which showed a standardised mean difference (SMD) of 0.3, is in line
-with other meta-analyses in showing small and almost certainly
-clinically insignificant differences between antidepressants and
-placebo, equivalent to around two points difference on the Hamilton
-Rating Scale for Depression (HRSD).(n.d.d)\ :sup:`,`\ (n.d.e)
+differences.2 Network analysis is also likely to exaggerate differences,
+since the degree of improvement in comparative trials is higher than in
+placebo-controlled trials.3 The continuous data, which showed a
+standardised mean difference (SMD) of 0.3, is in line with other
+meta-analyses in showing small and almost certainly clinically
+insignificant differences between antidepressants and placebo,
+equivalent to around two points difference on the Hamilton Rating Scale
+for Depression (HRSD).4\ :sup:`,`\ 5
 
 Jauhar and Young make a good point about the validity of the HRSD, but
 it is nevertheless used as the primary outcome of most trials. Analyses
@@ -57,7 +58,7 @@ way on the association between severity and antidepressant response, but
 even in studies with positive findings, effect sizes in those with
 severe depression are small and unlikely to be clinically significant,
 and the association may be accounted for by differing expectations in
-people with more or less severe symptoms.(n.d.f)
+people with more or less severe symptoms.6
 
 I agree with the gist of Dr Dunleavy's response. Recommending
 antidepressants because they produce emotion-blunting effects, or other
@@ -69,36 +70,3 @@ full knowledge of all the potential adverse effects, and that they are
 quite clear that the idea that antidepressants correct an underlying
 chemical imbalance is not supported by evidence. Then they can make
 their own informed decision.
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-ref1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-ref2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-ref3
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-ref4
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-ref5
-
-      n.d.e.
-
-   .. container:: csl-entry
-      :name: ref-ref6
-
-      n.d.f.

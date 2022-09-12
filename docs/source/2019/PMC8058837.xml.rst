@@ -2,6 +2,8 @@
 Provision of weight loss programmes and their influence on weight after 1 year: follow-up survey of usual care in the STEPWISE study
 ====================================================================================================================================
 
+
+
 Lizzie Swaby
 Richard Holt
 Rebecca Gossage-Worrall
@@ -16,23 +18,22 @@ Daniel Hind
 In 2014, the National Institute of Health and Care Excellence (NICE)
 recommended that people with psychosis, especially those taking
 antipsychotic medication, should be offered a combined physical activity
-and healthy eating intervention.\ :sup:`(n.d.a)` Moreover, from 2014,
+and healthy eating intervention.\ :sup:`1` Moreover, from 2014,
 Commissioning for Quality and Innovation (CQUIN) supported these
 recommendations by introducing annual financial incentives to mental
 health trusts in England to improve their provision of physical
-healthcare.\ :sup:`(n.d.b)` However, our previous survey conducted in
-2015 of ten UK National Health Service mental health trusts
-participating in the STEPWISE trial\ :sup:`(n.d.c)` highlighted that
-such interventions were largely unavailable, and where programmes were
-offered these were variable and not always widely
-accessed.\ :sup:`(n.d.d)`
+healthcare.\ :sup:`2` However, our previous survey conducted in 2015 of
+ten UK National Health Service mental health trusts participating in the
+STEPWISE trial\ :sup:`3` highlighted that such interventions were
+largely unavailable, and where programmes were offered these were
+variable and not always widely accessed.\ :sup:`4`
 
-As a follow-up to our previous survey,\ :sup:`(n.d.d)` and in
-conjunction with the STEPWISE study,\ :sup:`(n.d.c)` we investigated
-changes in usual care provision of physical activity and/or healthy
-eating programmes during the course of the STEPWISE trial. As with the
-initial survey, mental health professionals completed the survey on
-behalf of the same ten participating STEPWISE sites.
+As a follow-up to our previous survey,\ :sup:`4` and in conjunction with
+the STEPWISE study,\ :sup:`3` we investigated changes in usual care
+provision of physical activity and/or healthy eating programmes during
+the course of the STEPWISE trial. As with the initial survey, mental
+health professionals completed the survey on behalf of the same ten
+participating STEPWISE sites.
 
 The number of trusts offering trust-led lifestyle programmes declined
 from eight to four out of ten during the study. In those trusts not
@@ -71,26 +72,3 @@ to all UK mental health trusts, as only STEPWISE participating sites
 were surveyed, which may have resulted in a biased sample. In addition,
 a longer-term follow-up may have revealed more substantial changes by
 allowing more time to overcome barriers and implement processes.
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-ref1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-ref2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-ref3
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-ref4
-
-      n.d.d.

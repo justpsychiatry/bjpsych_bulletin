@@ -2,6 +2,8 @@
 Changing practice: assessing attitudes toward a NICE-informed collaborative treatment pathway for bipolar disorder
 ==================================================================================================================
 
+
+
 Adele Louise Elliott
 Stuart Watson
 Guy Dodgson
@@ -69,30 +71,28 @@ Bipolar affective disorder
 ==========================
 
 Bipolar affective disorder has a lifetime prevalence of between 1 and
-2.5% of the population.\ :sup:`(n.d.a),(n.d.b)` It is diagnosed on the
-basis of current or prior manic or hypomanic episode(s);\ :sup:`(n.d.c)`
-however, low mood that is frequently persistent\ :sup:`(n.d.d)` and can
-meet criteria for a depressive episode is more
-common.\ :sup:`(n.d.e),(n.d.f)` The disorder is further characterised by
-functional impairment\ :sup:`(n.d.g)` and increased mortality rates,
-including from suicide.\ :sup:`(n.d.h)` The estimated cost to the UK is
+2.5% of the population.\ :sup:`1,2` It is diagnosed on the basis of
+current or prior manic or hypomanic episode(s);\ :sup:`3` however, low
+mood that is frequently persistent\ :sup:`4` and can meet criteria for a
+depressive episode is more common.\ :sup:`5,6` The disorder is further
+characterised by functional impairment\ :sup:`7` and increased mortality
+rates, including from suicide.\ :sup:`8` The estimated cost to the UK is
 £5.2 billion annually, with direct National Health Service (NHS) costs
-of £342 million.\ :sup:`(n.d.i),(n.d.j)` Biological, psychological and
-social treatment paradigms are used,\ :sup:`(n.d.k)` and treatment
-pathways differ between patients in depressed versus manic episodes, and
-in patients who are between episodes.\ :sup:`(n.d.l)` Pharmacological
-interventions reduce relapse and treat episodes, if used
-appropriately\ :sup:`(n.d.l)` Similarly, psychological interventions
-specifically developed for adults with bipolar disorder improve symptoms
-and prevent relapse and admission to hospital.\ :sup:`(n.d.m),(n.d.n)`
-These interventions include enhanced relapse prevention, group or
-individual psychoeducation,\ :sup:`(n.d.o)–(n.d.p)`
-cognitive–behavioural therapy and family-focussed
-therapy.\ :sup:`(n.d.q)` Group psychoeducation arguably has the
-strongest evidence base. Research over the past 15 years has
-concentrated on resource light strategies, with groups integrated within
-existing treatment pathways (e.g.\ :sup:`(n.d.r),(n.d.s)`). However,
-these evidence-based treatments are not widely available within the NHS.
+of £342 million.\ :sup:`9,10` Biological, psychological and social
+treatment paradigms are used,\ :sup:`11` and treatment pathways differ
+between patients in depressed versus manic episodes, and in patients who
+are between episodes.\ :sup:`12` Pharmacological interventions reduce
+relapse and treat episodes, if used appropriately\ :sup:`12` Similarly,
+psychological interventions specifically developed for adults with
+bipolar disorder improve symptoms and prevent relapse and admission to
+hospital.\ :sup:`13,14` These interventions include enhanced relapse
+prevention, group or individual psychoeducation,\ :sup:`15–17`
+cognitive–behavioural therapy and family-focussed therapy.\ :sup:`18`
+Group psychoeducation arguably has the strongest evidence base. Research
+over the past 15 years has concentrated on resource light strategies,
+with groups integrated within existing treatment pathways
+(e.g.\ :sup:`19,20`). However, these evidence-based treatments are not
+widely available within the NHS.
 
 .. _sec1-2:
 
@@ -102,14 +102,14 @@ Care pathways
 Care pathways represent a formalisation of the process that underlies
 care and usually incorporate one or more protocols and guidelines,
 provide a record of care and a variance record to show where deviations
-from the planned pathway have occurred.\ :sup:`(n.d.t)` Computerisation,
+from the planned pathway have occurred.\ :sup:`21` Computerisation,
 thereby creating e-pathways, should allow pathways to be integrated with
 guideline-based decision support, the electronic health record and the
-clinical workflow.\ :sup:`(n.d.u)` The entry point to an e-pathway is
-through an initial care plan. The patient engages in the development of
-a formulation and the only outcome measure is CollaboRATE, a rating
-scale for patients that measures how involved they feel in their care.
-The e-pathways would be accessible to patients, both in the session and
+clinical workflow.\ :sup:`22` The entry point to an e-pathway is through
+an initial care plan. The patient engages in the development of a
+formulation and the only outcome measure is CollaboRATE, a rating scale
+for patients that measures how involved they feel in their care. The
+e-pathways would be accessible to patients, both in the session and
 accessible through the Cumbria, Northumberland, Tyne and Wear NHS
 Foundation Trust website, therefore encouraging individuals to be aware
 of, and request, evidence-based care. The treatment strategies suggested
@@ -137,50 +137,50 @@ Algorithm based care
 Algorithm-based care refers to the use of clinical algorithms either to
 aid diagnosis or treatment. Clinical algorithms often comprise
 step-by-step instructions, often presented in flow-chart form, to guide
-the clinician.\ :sup:`(n.d.v)` Studies of unipolar depression have
-revealed that the use of algorithms markedly improves
-outcome.\ :sup:`(n.d.w),(n.d.x)` In bipolar disorder, the Texas
-Medication Algorithm Project\ :sup:`(n.d.y)` has revealed feasibility
-and efficacy in a public health setting. This has been replicated in a
-Brazilian study.\ :sup:`(n.d.z)` Our model incorporates the concurrent
-use of three algorithms, biological, social and psychological, with
-different algorithms for patients who are currently in a depressive
-episode; in a manic, hypomanic or mixed episode; and out of episode
-(yielding a total of nine algorithms). The algorithms are being produced
-iteratively, and are based on National Institute for Health and Care
-Excellence (NICE) guidelines, with support as needed from other clinical
-guidelines – notably that produced by the British Association of
-Psychopharmacology\ :sup:`(n.d.l)` and by the extant evidence base. An
-example algorithm is shown in `Fig. 1 <#fig01>`__. Fig. 1Psychological
-pathway for out-of-episode bipolar disorder. Note: Entry onto the
-pathway is determined by a healthcare practitioner that the patient has
-bipolar disorder and is currently not in episode. Green and red arrows
-demarcate ‘yes’ and ‘no’, respectively. A diamond box indicates a
-decision, and rectangular boxes indicate an action. Behind each of these
-boxes is the necessary information to make a collaborative decision or
-action, for example: behind ‘Positive screen for sleep disorder?’ there
-is a rationale for screening for sleep disorders, and a description and
-screening tools for sleep apnoea and restless leg syndrome. If patients
-screen positive, the algorithm takes them to the ‘Resolved?’ decision
-box, where initial advice is given to address the sleep disorder. If
-this fails to resolve the situation, the algorithm takes the patient and
-healthcare practitioner to ‘Refer to sleep clinic’, in which information
-is provided to inform the decision to refer to local clinic, and if
-appropriate, a referral form. The algorithm next presents a choice of
-five options, and the information behind the boxes allows the healthcare
-practitioner to action the choice, or to flag if the resource is not
-available, e.g. group psychoeducation. The individual can follow the
-flow chart, e.g. starting with CBT-I and progressing with some
-individual psychoeducation delivered by the care coordinator, until the
-individual has confidence to sign up to group psychoeducation. Once this
-is complete, the patient and healthcare practitioner may feel that
-psychoeducation or sleep-work is not appropriate. If ‘Further
-psychological input needed?’ is answered ‘no’, the patient is discharged
-from the psychological pathway, and continues on the biological and
-social pathways. An asterisk indicates that it is outside the scope of
-the National Institute for Health and Care Excellence guidelines. CBT-I,
-cognitive–behavioural therapy for insomnia; DBT, dialectical behaviour
-therapy; IPT, interpersonal therapy.
+the clinician.\ :sup:`23` Studies of unipolar depression have revealed
+that the use of algorithms markedly improves outcome.\ :sup:`24,25` In
+bipolar disorder, the Texas Medication Algorithm Project\ :sup:`26` has
+revealed feasibility and efficacy in a public health setting. This has
+been replicated in a Brazilian study.\ :sup:`27` Our model incorporates
+the concurrent use of three algorithms, biological, social and
+psychological, with different algorithms for patients who are currently
+in a depressive episode; in a manic, hypomanic or mixed episode; and out
+of episode (yielding a total of nine algorithms). The algorithms are
+being produced iteratively, and are based on National Institute for
+Health and Care Excellence (NICE) guidelines, with support as needed
+from other clinical guidelines – notably that produced by the British
+Association of Psychopharmacology\ :sup:`12` and by the extant evidence
+base. An example algorithm is shown in `Fig. 1 <#fig01>`__. Fig.
+1Psychological pathway for out-of-episode bipolar disorder. Note: Entry
+onto the pathway is determined by a healthcare practitioner that the
+patient has bipolar disorder and is currently not in episode. Green and
+red arrows demarcate ‘yes’ and ‘no’, respectively. A diamond box
+indicates a decision, and rectangular boxes indicate an action. Behind
+each of these boxes is the necessary information to make a collaborative
+decision or action, for example: behind ‘Positive screen for sleep
+disorder?’ there is a rationale for screening for sleep disorders, and a
+description and screening tools for sleep apnoea and restless leg
+syndrome. If patients screen positive, the algorithm takes them to the
+‘Resolved?’ decision box, where initial advice is given to address the
+sleep disorder. If this fails to resolve the situation, the algorithm
+takes the patient and healthcare practitioner to ‘Refer to sleep
+clinic’, in which information is provided to inform the decision to
+refer to local clinic, and if appropriate, a referral form. The
+algorithm next presents a choice of five options, and the information
+behind the boxes allows the healthcare practitioner to action the
+choice, or to flag if the resource is not available, e.g. group
+psychoeducation. The individual can follow the flow chart, e.g. starting
+with CBT-I and progressing with some individual psychoeducation
+delivered by the care coordinator, until the individual has confidence
+to sign up to group psychoeducation. Once this is complete, the patient
+and healthcare practitioner may feel that psychoeducation or sleep-work
+is not appropriate. If ‘Further psychological input needed?’ is answered
+‘no’, the patient is discharged from the psychological pathway, and
+continues on the biological and social pathways. An asterisk indicates
+that it is outside the scope of the National Institute for Health and
+Care Excellence guidelines. CBT-I, cognitive–behavioural therapy for
+insomnia; DBT, dialectical behaviour therapy; IPT, interpersonal
+therapy.
 
 .. _sec1-4:
 
@@ -192,14 +192,14 @@ which treatment decisions are made within a framework provided by
 algorithms, which, in turn, are incorporated into an e-pathway,
 represents a significant change in practice within our large
 organisation. Implementation of such a change requires careful
-consideration.\ :sup:`(n.d.aa)` In healthcare, it has been argued that
+consideration.\ :sup:`28` In healthcare, it has been argued that
 allowing staff to define problems and formulate solutions facilitates
-even those change processes that are initiated by
-managers.\ :sup:`(n.d.ab)` Here, we therefore sought to explore the
-views of healthcare professionals and people with bipolar disorder;
-specifically looking at the benefits and costs that are relevant to the
-development and implementation of an e-pathway for bipolar disorder, to
-steer and facilitate this change.
+even those change processes that are initiated by managers.\ :sup:`29`
+Here, we therefore sought to explore the views of healthcare
+professionals and people with bipolar disorder; specifically looking at
+the benefits and costs that are relevant to the development and
+implementation of an e-pathway for bipolar disorder, to steer and
+facilitate this change.
 
 .. _sec2:
 
@@ -302,17 +302,16 @@ deliver/receive?5Do you have any further comments about the Bipolar
 Pathway?6Would you be interested in helping to develop the pathway? If
 yes, please give your contact details below
 
-Data were analysed by framework analysis,\ :sup:`(n.d.ac)` to
-systematically establish relationships within the data to answer
-relevant questions through the generation of a framework. This method of
-analysis, developed for applied policy research, is becoming
-increasingly used within healthcare and medical
-research.\ :sup:`(n.d.ad)` It allows the flexibility to examine ideas
-that arise from the data during analysis.\ :sup:`(n.d.ae)` Themes can be
-described as concepts that aim to describe the data.\ :sup:`(n.d.ad)` We
-followed the five stages to framework analysis: familiarisation,
-identification of a thematic framework, indexing, charting, and mapping
-and interpretation.
+Data were analysed by framework analysis,\ :sup:`30` to systematically
+establish relationships within the data to answer relevant questions
+through the generation of a framework. This method of analysis,
+developed for applied policy research, is becoming increasingly used
+within healthcare and medical research.\ :sup:`31` It allows the
+flexibility to examine ideas that arise from the data during
+analysis.\ :sup:`32` Themes can be described as concepts that aim to
+describe the data.\ :sup:`31` We followed the five stages to framework
+analysis: familiarisation, identification of a thematic framework,
+indexing, charting, and mapping and interpretation.
 
 .. _sec2-5:
 
@@ -577,16 +576,16 @@ equal importance to establish the barriers that could hinder
 implementation in order for necessary solutions to be developed. Costs
 and possible recommendations are discussed below.
 
-In keeping with previous research,\ :sup:`(n.d.af)` healthcare
-professionals feared loss or invalidation of care skills, clinical
-instinct and confidence in unsupported clinical decision-making by
-trainees. The potential liability consequent on deviations from the
-algorithm was also a concern. This highlights the importance for the
-pathway team of adequately communicating that the standard of care
-recommended in e-pathways is aspirational, and that healthcare
-professionals should feel able to use clinical judgement and deviate
-from the algorithm. This further emphasises the importance of
-collaborative algorithm development.
+In keeping with previous research,\ :sup:`33` healthcare professionals
+feared loss or invalidation of care skills, clinical instinct and
+confidence in unsupported clinical decision-making by trainees. The
+potential liability consequent on deviations from the algorithm was also
+a concern. This highlights the importance for the pathway team of
+adequately communicating that the standard of care recommended in
+e-pathways is aspirational, and that healthcare professionals should
+feel able to use clinical judgement and deviate from the algorithm. This
+further emphasises the importance of collaborative algorithm
+development.
 
 The algorithm was seen as ‘overwhelming’ for healthcare practitioners
 and patients because of its apparent complexity. A further concern was
@@ -604,7 +603,7 @@ to give a sense of the treatment journey and future options with a more
 focused view of the immediately relevant treatment decisions. Healthcare
 practitioners felt that effective training and resources would be
 central to successful implementation for e-pathways. This replicated
-experience elsewhere,\ :sup:`(n.d.ag)` and is a timely reminder that
+experience elsewhere,\ :sup:`34` and is a timely reminder that
 sufficient resources need to be allocated to training
 
 It was notable that although the bipolar e-pathway team saw the
@@ -627,8 +626,8 @@ participants; however, this was not possible within the current study.
 Additionally, one researcher carried out the qualitative analysis, which
 may have made it more susceptible to subjectivity. The researcher also
 developed the analytical framework, and this was discussed and refined
-with other members of the team.\ :sup:`(n.d.ah)` A further limitation is
-that few people with bipolar disorder responded to the invitation to the
+with other members of the team.\ :sup:`35` A further limitation is that
+few people with bipolar disorder responded to the invitation to the
 workshop, and therefore feedback was primarily from healthcare
 professionals. Although clinicians will use e-pathways in day-to-day
 practice, implementation will affect patients through the care and
@@ -688,176 +687,3 @@ Declaration of interest
 =======================
 
 None.
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-ref1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-ref2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-ref3
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-ref4
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-ref5
-
-      n.d.e.
-
-   .. container:: csl-entry
-      :name: ref-ref6
-
-      n.d.f.
-
-   .. container:: csl-entry
-      :name: ref-ref7
-
-      n.d.g.
-
-   .. container:: csl-entry
-      :name: ref-ref8
-
-      n.d.h.
-
-   .. container:: csl-entry
-      :name: ref-ref9
-
-      n.d.i.
-
-   .. container:: csl-entry
-      :name: ref-ref10
-
-      n.d.j.
-
-   .. container:: csl-entry
-      :name: ref-ref11
-
-      n.d.k.
-
-   .. container:: csl-entry
-      :name: ref-ref12
-
-      n.d.l.
-
-   .. container:: csl-entry
-      :name: ref-ref13
-
-      n.d.m.
-
-   .. container:: csl-entry
-      :name: ref-ref14
-
-      n.d.n.
-
-   .. container:: csl-entry
-      :name: ref-ref15
-
-      n.d.o.
-
-   .. container:: csl-entry
-      :name: ref-ref17
-
-      n.d.p.
-
-   .. container:: csl-entry
-      :name: ref-ref18
-
-      n.d.q.
-
-   .. container:: csl-entry
-      :name: ref-ref19
-
-      n.d.r.
-
-   .. container:: csl-entry
-      :name: ref-ref20
-
-      n.d.s.
-
-   .. container:: csl-entry
-      :name: ref-ref21
-
-      n.d.t.
-
-   .. container:: csl-entry
-      :name: ref-ref22
-
-      n.d.u.
-
-   .. container:: csl-entry
-      :name: ref-ref23
-
-      n.d.v.
-
-   .. container:: csl-entry
-      :name: ref-ref24
-
-      n.d.w.
-
-   .. container:: csl-entry
-      :name: ref-ref25
-
-      n.d.x.
-
-   .. container:: csl-entry
-      :name: ref-ref26
-
-      n.d.y.
-
-   .. container:: csl-entry
-      :name: ref-ref27
-
-      n.d.z.
-
-   .. container:: csl-entry
-      :name: ref-ref28
-
-      n.d.aa.
-
-   .. container:: csl-entry
-      :name: ref-ref29
-
-      n.d.ab.
-
-   .. container:: csl-entry
-      :name: ref-ref30
-
-      n.d.ac.
-
-   .. container:: csl-entry
-      :name: ref-ref31
-
-      n.d.ad.
-
-   .. container:: csl-entry
-      :name: ref-ref32
-
-      n.d.ae.
-
-   .. container:: csl-entry
-      :name: ref-ref33
-
-      n.d.af.
-
-   .. container:: csl-entry
-      :name: ref-ref34
-
-      n.d.ag.
-
-   .. container:: csl-entry
-      :name: ref-ref35
-
-      n.d.ah.

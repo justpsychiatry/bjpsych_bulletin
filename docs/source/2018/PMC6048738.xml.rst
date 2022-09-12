@@ -2,6 +2,8 @@
 The development of an outcome measure for liaison mental health services
 ========================================================================
 
+
+
 Else Guthrie
 Mathew Harrison
 Richard Brown
@@ -53,22 +55,22 @@ Rachel ThomassonCorrespondence to Rachel Thomasson
 ..
 
 Routine outcome measurement is important in mental health settings and
-can facilitate improvements in quality and outcome.(n.d.a) At present,
-there is no recognised, specific, routine outcome measure for liaison
+can facilitate improvements in quality and outcome.1 At present, there
+is no recognised, specific, routine outcome measure for liaison
 psychiatry services. The Health of the Nation Outcome Scales (HoNOS)
 have been used routinely in general psychiatry settings for the past 20
-years,(n.d.b) but attempts to adapt them for liaison settings have never
-been realised. Liaison mental health services operate in a variety of
+years,2 but attempts to adapt them for liaison settings have never been
+realised. Liaison mental health services operate in a variety of
 different settings and treat people with a wide range of complex and
 heterogeneous clinical problems, which makes the development of a single
-outcome tool challenging.(n.d.c)
+outcome tool challenging.3
 
 The Faculty of Liaison Psychiatry of the Royal College of Psychiatrists
-has developed an outcome framework (FROM-LP),(n.d.d) which includes
-measures of patient and referrer satisfaction, and a generic
-clinician-rated measure, the Clinical Global Impression Improvement
-Scale (CGI-I).(n.d.e) This measure, however, is not specific for liaison
-settings and does not generate individual symptom ratings.
+has developed an outcome framework (FROM-LP),4 which includes measures
+of patient and referrer satisfaction, and a generic clinician-rated
+measure, the Clinical Global Impression Improvement Scale (CGI-I).5 This
+measure, however, is not specific for liaison settings and does not
+generate individual symptom ratings.
 
 The aim of this project was to develop and pilot a liaison outcome
 instrument to be used for local service evaluation, to supplement the
@@ -85,7 +87,7 @@ Method
 ======
 
 Items included in the measure were determined using a modified version
-of the mini-Delphi method.(n.d.f) We ran three cycles of the mini-Delphi
+of the mini-Delphi method.6 We ran three cycles of the mini-Delphi
 process using panels of clinicians (nurses and psychiatrists) working in
 different types of liaison mental health services in the North West of
 England, including acute hospital wards, emergency departments,
@@ -175,15 +177,14 @@ Sensitivity to change
 
 The sensitivity to change of an instrument is its ability to accurately
 detect changes if they occur. For the purposes of this evaluation,
-change was determined by the Clinical Global Outcome Scale-I,(n.d.e)
-which is recommended by FROM-LP(n.d.d) and was completed routinely as
-part of clinical care for patients who were reviewed on at least two
-occasions. The CGI-I is a seven-point scale (1 = very much improved,
-2 = much improved, 3 = minimally improved, 4 = no change, 5 = minimally
-worse, 6 = much worse, 7 = very much worse).(n.d.e) Patients were
-divided into three groups: improved (a score of 1 or 2 on the CGI-I), no
-change (a score of 3, 4 or 5 on the CGI-I) and deteriorated (a score of
-6 or 7 on the CGI-I).
+change was determined by the Clinical Global Outcome Scale-I,5 which is
+recommended by FROM-LP4 and was completed routinely as part of clinical
+care for patients who were reviewed on at least two occasions. The CGI-I
+is a seven-point scale (1 = very much improved, 2 = much improved,
+3 = minimally improved, 4 = no change, 5 = minimally worse, 6 = much
+worse, 7 = very much worse).5 Patients were divided into three groups:
+improved (a score of 1 or 2 on the CGI-I), no change (a score of 3, 4 or
+5 on the CGI-I) and deteriorated (a score of 6 or 7 on the CGI-I).
 
 It was hypothesised that, if the liaison measure was sensitive to
 change, there would be a significant difference between the above three
@@ -191,7 +192,7 @@ outcome groups, and the improved group would show significant
 improvement on pre and post ratings of the liaison measure, while the
 deteriorated group would show significant worsening on the liaison
 symptomatic scores, and the no-change group would show no difference on
-pre and post scores. The effect size(n.d.g)
+pre and post scores. The effect size7
 (*M*\ :sub:`2` − *M*\ :sub:`1`/s.d.\ :sub:`1`, where
 *M*\ :sub:`2` = mean at time 2, *M*\ :sub:`1` = mean at time 1,
 s.d.\ :sub:`1` = s.d. at time 1) for each group was also calculated.
@@ -205,14 +206,13 @@ It was beyond the scope of this service evaluation project to compare
 all of the subscales of the measure with appropriate recognised,
 validated instruments. However, it was possible to compare two of the
 subscales of the liaison instrument with recognised, validated measures
-that are used routinely in the Manchester liaison services. The
-CORE-10(n.d.h) is a brief outcome measure comprising ten items, which
-has been widely adopted in the evaluation of counselling and
-psychological therapies in the UK. The CORE-10 is recommended by FROM-LP
-for appropriate subgroups of patients. The Confusion Assessment Method
-(CAM)(n.d.i) is a standardised evidence-based tool that enables
-clinicians to identify and recognise delirium quickly and accurately in
-both clinical and research settings.
+that are used routinely in the Manchester liaison services. The CORE-108
+is a brief outcome measure comprising ten items, which has been widely
+adopted in the evaluation of counselling and psychological therapies in
+the UK. The CORE-10 is recommended by FROM-LP for appropriate subgroups
+of patients. The Confusion Assessment Method (CAM)9 is a standardised
+evidence-based tool that enables clinicians to identify and recognise
+delirium quickly and accurately in both clinical and research settings.
 
 It was hypothesised that the CORE-10 scores would correlate highly with
 the depression subscale of the liaison measure, but not with the other
@@ -284,10 +284,10 @@ Interrater reliability
 by 45 rater pairs. Kappa (Κ) scores for 15 of the 22 items of the scale
 and five of the seven contextual factors demonstrated ‘good’
 (Κ = 0.61–0.80) or ‘very good’ interrater reliability (Κ = 0.81–1.00),
-using agreement categories as described by Landis and Koch.(n.d.j) Four
-items involving the mind–body subscale showed very low kappa scores (14,
-15, 16 and 17). Table 2Intraclass correlation coefficients (ICC) for
-items of the liaison outcome measureMeasure item\ *n*\ ICC (95% CI)1Low
+using agreement categories as described by Landis and Koch.10 Four items
+involving the mind–body subscale showed very low kappa scores (14, 15,
+16 and 17). Table 2Intraclass correlation coefficients (ICC) for items
+of the liaison outcome measureMeasure item\ *n*\ ICC (95% CI)1Low
 mood360.827 (0.687–0.908)***2Suicidal ideation or self-harm410.802
 (0.658–0.889)***3Problems with psychological adjustment to physical
 illness340.656 (0.413–0.812)***4Perceptual disturbances400.929
@@ -495,59 +495,6 @@ in general adult psychiatry in the Lancashire Care NHS Foundation Trust.
 **Peter Kelsall** is a specialist registrar in general adult psychiatry
 in the Pennine Care NHS Foundation Trust. **Rachel Thomasson** is a
 consultant neuropsychiatrist in the Salford Royal NHS Foundation Trust.
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-ref1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-ref2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-ref3
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-ref4
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-ref5
-
-      n.d.e.
-
-   .. container:: csl-entry
-      :name: ref-ref6
-
-      n.d.f.
-
-   .. container:: csl-entry
-      :name: ref-ref7
-
-      n.d.g.
-
-   .. container:: csl-entry
-      :name: ref-ref8
-
-      n.d.h.
-
-   .. container:: csl-entry
-      :name: ref-ref9
-
-      n.d.i.
-
-   .. container:: csl-entry
-      :name: ref-ref10
-
-      n.d.j.
 
 .. [1]
    *n*: number of rater pairs.

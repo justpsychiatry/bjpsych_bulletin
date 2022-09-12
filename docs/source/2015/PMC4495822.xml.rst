@@ -2,6 +2,8 @@
 The cardiovascular safety of the empirical measurement of the seizure threshold in electroconvulsive therapy
 ============================================================================================================
 
+
+
 Lindsay Mizen
 Charles Morton
 Allan ScottCorrespondence to Lindsay Mizen (lmizen@nhs.net)  [1]_
@@ -40,12 +42,12 @@ effects other than the induction of cerebral seizure activity. It was
 recognised soon after the introduction of ECT that the stimulus could
 affect the heart, usually causing a bradycardia resulting from the
 electrical stimulation of the motor nucleus of the vagus nerve and
-nucleus ambiguus, within the medulla oblongata. :sup:`(n.d.a)` This
+nucleus ambiguus, within the medulla oblongata. :sup:`1` This
 bradycardia can be severe and as long ago as 1978 the American
 Psychiatric Association (APA) stated that the bradycardia might even be
-prolonged enough to cause cardiac arrest. :sup:`(n.d.b)` Although no
+prolonged enough to cause cardiac arrest. :sup:`2` Although no
 references were given to support this concern, asystole and cardiac
-arrest have been reported since. :sup:`(n.d.c)` The APA recommended the
+arrest have been reported since. :sup:`3` The APA recommended the
 routine intravenous administration of an anticholinergic drug to reduce
 the risk of severe bradycardia, but this never became routine
 anaesthetic practice in the UK. The Royal College of Psychiatrists
@@ -53,32 +55,31 @@ recognises that ‘severe bradycardia can usually but not invariably be
 prevented by pre-treatment with anticholinergic agents’ and that such
 vagolytic drugs are sometimes used to attenuate bradycardia, but it does
 not specifically recommend the routine administration of an
-anticholinergic drug. :sup:`(n.d.d)`
+anticholinergic drug. :sup:`4`
 
 Evidence from case reports has been taken to mean that severe
 bradycardia is more likely after subconvulsive electrical stimulation;
 that is, stimulation that does not lead to generalised cerebral seizure
-activity. :sup:`(n.d.a),(n.d.b),(n.d.d)` This is because seizure
-activity has an opposite effect on the heart, leading to tachycardia,
-whereas in subconvulsive stimulation the vagal effect is unopposed.
-:sup:`(n.d.a)` Subconvulsive stimulation was uncommon in traditional ECT
-practice because fixed, high doses of electrical charge were delivered.
-Contemporary ECT machines can deliver adjustable doses and it is now
-recommended that the dose is titrated for the individual patient,
-particularly for bilateral ECT. :sup:`(n.d.d)` The convulsive dose
-depends on the seizure threshold for the individual patient. This is
-measured empirically by stimulation with repeated, increasing doses of
-electrical charge at the start of the course of ECT. In contemporary
-practice, the vast majority of patients receive at least one
-subconvulsive stimulation at their first treatment in a course of ECT.
-The APA now notes that not all anaesthetists routinely use
-anticholinergic drugs, but also states that the bradycardia after
-subconvulsive stimulation is of ‘graver’ concern, and that many
-anaesthetists routinely administer such agents at treatments in which
-the measurement of seizure threshold is planned. :sup:`(n.d.e)` Some ECT
-practitioners simply do not undertake empirical measurement of the
+activity. :sup:`1,2,4` This is because seizure activity has an opposite
+effect on the heart, leading to tachycardia, whereas in subconvulsive
+stimulation the vagal effect is unopposed. :sup:`1` Subconvulsive
+stimulation was uncommon in traditional ECT practice because fixed, high
+doses of electrical charge were delivered. Contemporary ECT machines can
+deliver adjustable doses and it is now recommended that the dose is
+titrated for the individual patient, particularly for bilateral ECT.
+:sup:`4` The convulsive dose depends on the seizure threshold for the
+individual patient. This is measured empirically by stimulation with
+repeated, increasing doses of electrical charge at the start of the
+course of ECT. In contemporary practice, the vast majority of patients
+receive at least one subconvulsive stimulation at their first treatment
+in a course of ECT. The APA now notes that not all anaesthetists
+routinely use anticholinergic drugs, but also states that the
+bradycardia after subconvulsive stimulation is of ‘graver’ concern, and
+that many anaesthetists routinely administer such agents at treatments
+in which the measurement of seizure threshold is planned. :sup:`5` Some
+ECT practitioners simply do not undertake empirical measurement of the
 seizure threshold in patients with a known history of cardiac disease.
-:sup:`(n.d.f)`
+:sup:`6`
 
 We aimed to investigate the prevalence of asystole during empirical
 measurement of seizure threshold in the absence of anticholinergic
@@ -130,10 +131,10 @@ the paper record ran at 25 mm/s.
 
 The point when bradycardia becomes asystole is arbitrary. The criterion
 that 5 s (125 mm on the paper record) without a QRS complex constitutes
-asystole is taken from a previous report. :sup:`(n.d.g)` Its authors
-also conducted a secondary analysis of patients in whom the asystole
-lasted as long as 7 s and so we also considered a secondary analysis
-with this definition of asystole. The analysis of the paper records was
+asystole is taken from a previous report. :sup:`7` Its authors also
+conducted a secondary analysis of patients in whom the asystole lasted
+as long as 7 s and so we also considered a secondary analysis with this
+definition of asystole. The analysis of the paper records was
 standardised by discussion among the present authors before analysis.
 The electrical stimulation led to a characteristic type of artefact on
 the paper record (`Fig. 2 <#F2>`__) and the time from the end of this
@@ -154,12 +155,12 @@ period of asystole. likely to be higher than the intra-subject variance
 considered as an independent measure. Convulsive and subconvulsive
 stimulations were compared using Fisher’s exact test and the ‘exact’ or
 ‘Clobber-Pearson’ method was used to calculate 95% confidence intervals
-of proportions. :sup:`(n.d.h)` The episodes of asystole in different
+of proportions. :sup:`8` The episodes of asystole in different
 stimulations were compared using paired *t*-tests.
 
 It is the policy of NHS Scotland to withhold from publication data that
-may identify individual patients. :sup:`(n.d.i)` This report respects
-this principle.
+may identify individual patients. :sup:`9` This report respects this
+principle.
 
 .. _S2:
 
@@ -338,7 +339,7 @@ influencing the risk of asystole and the effect seen at previous
 stimulations may be due to small sample size. Further studies with a
 larger sample size would help to delineate this.
 
-Our results support those of Burd & Kettl, :sup:`(n.d.g)` who found that
+Our results support those of Burd & Kettl, :sup:`7` who found that
 although asystole was common in elderly patients undergoing ECT
 (364/1146, 40.1%), routine use of atropine was unnecessary because brief
 asystole was not associated with adverse outcome. Burd & Kettl studied
@@ -350,75 +351,21 @@ definition of 7 s without a QRS complex. However, in our sample there
 were only 2 episodes of asystole which exceeded 7 s (1 in a convulsive
 stimulation and 1 in which no convulsion was stimulated) and so no
 statistical analysis of these episodes could be performed. In 1996,
-McCall *et al* :sup:`(n.d.j)` used an even more conservative definition
-of asystole (10 s of ECG electrical silence) in an attempt to capture
-only pathological asystolic events. Using this cut-off there were no
-patients in our study who experienced asystole, again supporting the
-idea that the periods of electrical silence in our study were not
-pathological. Furthermore, only one of the patients in our study
-suffered more than one episode of asystole, which suggests that, for a
-given individual, one episode of asystole does not generally predict
-further similar events. A limitation of our study was that it was not
-possible to statistically analyse the other factors that could prolong
-the time to the first QRS complex, because of the small number of
-patients. Larger prevalence studies will be needed to further
-investigate these factors.
+McCall *et al* :sup:`10` used an even more conservative definition of
+asystole (10 s of ECG electrical silence) in an attempt to capture only
+pathological asystolic events. Using this cut-off there were no patients
+in our study who experienced asystole, again supporting the idea that
+the periods of electrical silence in our study were not pathological.
+Furthermore, only one of the patients in our study suffered more than
+one episode of asystole, which suggests that, for a given individual,
+one episode of asystole does not generally predict further similar
+events. A limitation of our study was that it was not possible to
+statistically analyse the other factors that could prolong the time to
+the first QRS complex, because of the small number of patients. Larger
+prevalence studies will be needed to further investigate these factors.
 
 We thank Fiona Morrison, medical secretary supervisor, for her help with
 the production of the manuscript.
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-R1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-R2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-R3
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-R4
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-R5
-
-      n.d.e.
-
-   .. container:: csl-entry
-      :name: ref-R6
-
-      n.d.f.
-
-   .. container:: csl-entry
-      :name: ref-R7
-
-      n.d.g.
-
-   .. container:: csl-entry
-      :name: ref-R8
-
-      n.d.h.
-
-   .. container:: csl-entry
-      :name: ref-R9
-
-      n.d.i.
-
-   .. container:: csl-entry
-      :name: ref-R10
-
-      n.d.j.
 
 .. [1]
    **Dr Lindsay Mizen** is a Clinical Research Fellow at the University

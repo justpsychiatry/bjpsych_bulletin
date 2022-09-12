@@ -2,6 +2,8 @@
 Adherence to medication in the community: audit cycle of interventions to improve the assessment of adherence
 =============================================================================================================
 
+
+
 Saeed Farooq
 Abid ChoudryCorrespondence to Abid Choudry (abidchoudry@doctors.org.uk)
  [1]_
@@ -37,41 +39,39 @@ Abid ChoudryCorrespondence to Abid Choudry (abidchoudry@doctors.org.uk)
 The World Health Organization defines adherence as the extent to which a
 person's behaviour – taking medication, following a diet, and/or
 executing lifestyle changes – corresponds with agreed recommendations
-from a healthcare provider. :sup:`(n.d.a)` Although often used
-interchangeably with the term ‘compliance’, adherence is preferred by
-many as it acknowledges the patient's role in the decision-making
-process. :sup:`(n.d.b)` It has been claimed that increasing the
-effectiveness of adherence interventions may have a far greater impact
-on the health of the population than any improvement in specific medical
-treatments. :sup:`(n.d.c)`
+from a healthcare provider. :sup:`1` Although often used interchangeably
+with the term ‘compliance’, adherence is preferred by many as it
+acknowledges the patient's role in the decision-making process. :sup:`2`
+It has been claimed that increasing the effectiveness of adherence
+interventions may have a far greater impact on the health of the
+population than any improvement in specific medical treatments. :sup:`3`
 
 Non-adherence to treatment is a major barrier to effective treatment in
 psychiatry, particularly in individuals with psychotic disorders. Rates
 of non-adherence vary between 24 and 40% based on medication refill
-rates available from pharmacy records. :sup:`(n.d.d),(n.d.e)` This is
-understandable in view of the different populations, variety of
-diagnoses, variable follow-up periods and, most importantly, the
-different definitions and measurement methods used in research.
-:sup:`(n.d.f)` It has been reported in the literature that non-adherence
-rates to medication for bipolar disorder typically range between 20 and
-60%, with an average of 40%. :sup:`(n.d.g)–(n.d.h)` In schizophrenia, a
-systematic review of 39 studies reported a mean rate of medication
-non-adherence at 41%. :sup:`(n.d.i)` When the analysis was restricted to
-the five methodologically most rigorous studies, which included defining
-adherence as taking medication at least 75% of the time, the
-non-adherence rate increased to 50%. :sup:`(n.d.i)` Non-adherence to
-treatment in schizophrenia is often associated with potentially severe
-clinical consequences. :sup:`(n.d.j),(n.d.k)` It is also estimated that
-up to 40% of the total annual cost of schizophrenia, which amounts to
-£400 million in the UK, could be due to non-adherence to treatment.
-:sup:`(n.d.l)`
+rates available from pharmacy records. :sup:`4,5` This is understandable
+in view of the different populations, variety of diagnoses, variable
+follow-up periods and, most importantly, the different definitions and
+measurement methods used in research. :sup:`6` It has been reported in
+the literature that non-adherence rates to medication for bipolar
+disorder typically range between 20 and 60%, with an average of 40%.
+:sup:`7–9` In schizophrenia, a systematic review of 39 studies reported
+a mean rate of medication non-adherence at 41%. :sup:`10` When the
+analysis was restricted to the five methodologically most rigorous
+studies, which included defining adherence as taking medication at least
+75% of the time, the non-adherence rate increased to 50%. :sup:`10`
+Non-adherence to treatment in schizophrenia is often associated with
+potentially severe clinical consequences. :sup:`11,12` It is also
+estimated that up to 40% of the total annual cost of schizophrenia,
+which amounts to £400 million in the UK, could be due to non-adherence
+to treatment. :sup:`13`
 
 The National Institute for Health and Care Excellence (NICE) guidelines
-:sup:`(n.d.m),(n.d.n)` recommend that treatment adherence be regularly
-monitored in patients with schizophrenia but there is relatively little
+:sup:`14,15` recommend that treatment adherence be regularly monitored
+in patients with schizophrenia but there is relatively little
 information about how this is done in clinical practice. In general,
 doctors uniformly underestimate the degree of non-adherence in their
-patients. :sup:`(n.d.o)`
+patients. :sup:`16`
 
 .. _S1:
 
@@ -101,22 +101,22 @@ last clinic letter was reviewed to collect data via the medical notes
 and electronic healthcare records.
 
 The standards were identified using the NICE guidelines on medicines
-adherence and treatment of psychosis and schizophrenia.
-:sup:`(n.d.m),(n.d.n)` The guidelines have emphasised what should be
-reviewed and discussed in out-patient clinics. Specifically, they
-recognise that the treatment should be regularly and systematically
-reviewed to monitor treatment adherence. During the titration of
-treatment the following should be regularly monitored: response to
-treatment, including changes in symptoms and behaviour side-effects of
-treatment emergence of movement disorders weight waist circumference
-pulse and blood pressure adherence overall physical health.
+adherence and treatment of psychosis and schizophrenia. :sup:`14,15` The
+guidelines have emphasised what should be reviewed and discussed in
+out-patient clinics. Specifically, they recognise that the treatment
+should be regularly and systematically reviewed to monitor treatment
+adherence. During the titration of treatment the following should be
+regularly monitored: response to treatment, including changes in
+symptoms and behaviour side-effects of treatment emergence of movement
+disorders weight waist circumference pulse and blood pressure adherence
+overall physical health.
 
 The NICE guideline on treatment adherence explicitly states that when
 reviewing medication the clinician should enquire about adherence: “‘If
 non adherence is identified, clarify possible causes and agree any
 action with the patient. Any plan should include a date for a follow up
-review.’ :sup:`(n.d.n)`” As a consequence, the standards set out for
-this audit were that: 100% of patients should have a discussion with the
+review.’ :sup:`15`” As a consequence, the standards set out for this
+audit were that: 100% of patients should have a discussion with the
 doctor regarding the medication, including response and side-effects
 100% of patients should have a discussion with the doctor regarding
 adherence to medication if medication is stopped, reasons for this
@@ -264,18 +264,18 @@ improve the monitoring of treatment adherence.
 
 It has been shown that simple questions about different aspects of
 medication-taking behaviours can be effective in improving treatment
-adherence. :sup:`(n.d.p)` Most of the information regarding assessment
-of adherence is based on clinical experience or limited research.
+adherence. :sup:`17` Most of the information regarding assessment of
+adherence is based on clinical experience or limited research.
 Clinicians can start by asking patients ‘Have you missed any pills in
 the past week?’ A positive response indicates there may be a problem
 with adherence. Clinicians should bear in mind that patients tend to
 overestimate their actual adherence to therapy and that the accuracy of
 the self-report depends on the patient's cognitive abilities, attitudes
-and openness towards the therapist. :sup:`(n.d.f)` Some simple questions
-that can be asked in routine clinical care include: ‘How are you taking
-your medications?’, ‘Have you ever forgotten to take your medications?’,
-‘Are you experiencing any adverse drug reactions?’, ‘How are you feeling
-since you started the medication?’ :sup:`(n.d.f)`
+and openness towards the therapist. :sup:`6` Some simple questions that
+can be asked in routine clinical care include: ‘How are you taking your
+medications?’, ‘Have you ever forgotten to take your medications?’, ‘Are
+you experiencing any adverse drug reactions?’, ‘How are you feeling
+since you started the medication?’ :sup:`6`
 
 The results of the audit should be interpreted in the light of some
 limitations. It is possible that these questions are asked but not
@@ -290,89 +290,6 @@ adherence. Text messages have often been used to remind patients abut
 medication, but they have not been commonly used to alter the
 clinicians' behaviour, and can prove a simple and effective method for
 improving adherence with good practice.
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-R1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-R2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-R3
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-R4
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-R5
-
-      n.d.e.
-
-   .. container:: csl-entry
-      :name: ref-R6
-
-      n.d.f.
-
-   .. container:: csl-entry
-      :name: ref-R7
-
-      n.d.g.
-
-   .. container:: csl-entry
-      :name: ref-R9
-
-      n.d.h.
-
-   .. container:: csl-entry
-      :name: ref-R10
-
-      n.d.i.
-
-   .. container:: csl-entry
-      :name: ref-R11
-
-      n.d.j.
-
-   .. container:: csl-entry
-      :name: ref-R12
-
-      n.d.k.
-
-   .. container:: csl-entry
-      :name: ref-R13
-
-      n.d.l.
-
-   .. container:: csl-entry
-      :name: ref-R14
-
-      n.d.m.
-
-   .. container:: csl-entry
-      :name: ref-R15
-
-      n.d.n.
-
-   .. container:: csl-entry
-      :name: ref-R16
-
-      n.d.o.
-
-   .. container:: csl-entry
-      :name: ref-R17
-
-      n.d.p.
 
 .. [1]
    **Dr Saeed Farooq** is a Clinical Senior Lecturer, Institute for

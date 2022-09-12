@@ -2,6 +2,8 @@
 Online media reporting of suicides: analysis of adherence to existing guidelines
 ================================================================================
 
+
+
 Michael Utterson
 Jason Daoud
 Rina DuttaCorrespondence to Michael Utterson
@@ -34,33 +36,31 @@ Rina DuttaCorrespondence to Michael Utterson
 ..
 
 Responsible media reporting of suicide is considered to be key to
-current international suicide prevention efforts.\ :sup:`(n.d.a)`
-Previous studies suggest that media reports of completed suicide can
-influence the rate of future suicidal acts and the method
-chosen.\ :sup:`(n.d.b)–(n.d.c)`
+current international suicide prevention efforts.\ :sup:`1` Previous
+studies suggest that media reports of completed suicide can influence
+the rate of future suicidal acts and the method chosen.\ :sup:`2–6`
 
 Guidelines to promote responsible reporting practices exist in a number
-of countries.\ :sup:`(n.d.d)` Studies suggest that they can alter the
-content of media reports,\ :sup:`(n.d.e)` although the general awareness
-and use of the guidelines has been found to be poor.\ :sup:`(n.d.f)` In
-the UK, the 2012 Editors' Code of Practice from the Press Complaints
-Commission prohibits the reporting of suicide with excessive detail
-about the method used,\ :sup:`(n.d.g)` but established responsible
-reporting guidelines tend to include additional features in an attempt
-to prevent copycat behaviour.\ :sup:`(n.d.h)`
+of countries.\ :sup:`7` Studies suggest that they can alter the content
+of media reports,\ :sup:`8` although the general awareness and use of
+the guidelines has been found to be poor.\ :sup:`9` In the UK, the 2012
+Editors' Code of Practice from the Press Complaints Commission prohibits
+the reporting of suicide with excessive detail about the method
+used,\ :sup:`10` but established responsible reporting guidelines tend
+to include additional features in an attempt to prevent copycat
+behaviour.\ :sup:`11`
 
 After a detailed literature review, no studies could be found comparing
 a significant number of contemporary UK media reports of suicide against
 responsible reporting guidelines, despite the fact that the media have
 been implicated in the phenomenon of ‘suicide clustering’ observed in
-the UK.\ :sup:`(n.d.i)` Other studies have focused on newspaper and
+the UK.\ :sup:`12` Other studies have focused on newspaper and
 television reports, and scant attention has been paid to online media
 sources, despite the fact that 84% of households in the UK have access
 to the internet and 55% of adults use the internet to access
-news.\ :sup:`(n.d.j)` This is the most rapidly growing method of
-accessing news media, particularly for younger
-individuals,\ :sup:`(n.d.j)` who may be more vulnerable to the content
-of media reporting.\ :sup:`(n.d.k),(n.d.l)`
+news.\ :sup:`13` This is the most rapidly growing method of accessing
+news media, particularly for younger individuals,\ :sup:`13` who may be
+more vulnerable to the content of media reporting.\ :sup:`14,15`
 
 This study sought to evaluate the compliance of online media reports of
 suicidal acts from UK-based sources with responsible reporting
@@ -83,13 +83,13 @@ media paywall.
 
 Each report meeting the inclusion criteria was assessed against an
 adapted version of the ‘Ten things to remember when reporting suicide’
-contained in the document issued by the Samaritans.\ :sup:`(n.d.m)` This
-is one of the more prominent and widely used sets of guidelines for
-journalists in the UK.\ :sup:`(n.d.n)` As a direct search for articles
-was undertaken, it was not possible to assess whether each article was
-given undue prominence, for instance a homepage splash, so this
-criterion from the Samaritans' guidelines was not used, leaving nine
-criteria for article comparison (`Box 1 <#box1>`__).
+contained in the document issued by the Samaritans.\ :sup:`16` This is
+one of the more prominent and widely used sets of guidelines for
+journalists in the UK.\ :sup:`17` As a direct search for articles was
+undertaken, it was not possible to assess whether each article was given
+undue prominence, for instance a homepage splash, so this criterion from
+the Samaritans' guidelines was not used, leaving nine criteria for
+article comparison (`Box 1 <#box1>`__).
 
 Data were collected on compliance with each section of the guidelines
 and those meeting all criteria were considered to be compliant with
@@ -103,7 +103,7 @@ chi-squared test. Data analysis was performed in STATA 11 for Windows
 XP.
 
 **Box 1** Guidelines for the reporting of suicide assessed in the study.
-Adapted from the Samaritans\ :sup:`(n.d.m)`
+Adapted from the Samaritans\ :sup:`16`
 
 #. Leave out technical details about the method of suicide, such as
    describing the type of ligature used or the number and types of pills
@@ -357,8 +357,7 @@ media output. Of note, the majority of articles included in the study
 failed to meet the Samaritans' guidelines for the responsible reporting
 of suicide. The results support findings from the limited number of
 studies undertaken elsewhere in the world that suggest media reporting
-of suicide is poorly compliant with available
-guidelines.\ :sup:`(n.d.o)–(n.d.p)`
+of suicide is poorly compliant with available guidelines.\ :sup:`18–21`
 
 Of particular concern is the finding that 69.4% of reports failed to
 include a reference to a potential source of support for those readers
@@ -369,31 +368,30 @@ prevention efforts and fails to provide an alternative perspective to
 the often distressing narrative of articles. The finding that most
 articles omit references to support groups has been replicated in other
 studies from around the world: just 1% of Indian newspaper
-sources,\ :sup:`(n.d.q)` 3% of US sources\ :sup:`(n.d.p)` and 8.6% of
-Chinese sources\ :sup:`(n.d.e)` included a reference to a support group.
+sources,\ :sup:`19` 3% of US sources\ :sup:`21` and 8.6% of Chinese
+sources\ :sup:`8` included a reference to a support group.
 
 Our finding that 31% of articles contained an excessive level of detail
 about methods used to complete a suicide is a significant cause for
 concern. The experience in other countries supports the idea that
 publication of suicide methods can perpetuate attempts and trends in
-methods chosen by others in ‘copycat
-suicides’.\ :sup:`(n.d.b)–(n.d.r),(n.d.s)` In the course of assessing
-media reports for this study, the inclusion of details about the blood
-concentration of cyanide to achieve death, and the exact location and
-time of suicides by train, as well as details of places where suicides
-by jumping were completed, were all noted.
+methods chosen by others in ‘copycat suicides’.\ :sup:`2–5,22` In the
+course of assessing media reports for this study, the inclusion of
+details about the blood concentration of cyanide to achieve death, and
+the exact location and time of suicides by train, as well as details of
+places where suicides by jumping were completed, were all noted.
 
 The finding that 30.1% of articles engaged in speculation about the
 reason for suicide was also a cause for concern. The journalistic
 tendency to simplify the reasons behind a suicidal act or engage in
 undue speculation about the surrounding circumstances can have a
-damaging impact on the bereaved family\ :sup:`(n.d.n)` as well as
-readers who may over-identify with the person mentioned in the article,
-potentially increasing the deleterious impact for vulnerable
-individuals. This tendency to make articles more ‘readable’ may also be
-reflected in the fact that 8.7% of articles brushed over the complex
-realities of suicide, often failing to mention the family left behind or
-the impact of the suicidal act on others.
+damaging impact on the bereaved family\ :sup:`17` as well as readers who
+may over-identify with the person mentioned in the article, potentially
+increasing the deleterious impact for vulnerable individuals. This
+tendency to make articles more ‘readable’ may also be reflected in the
+fact that 8.7% of articles brushed over the complex realities of
+suicide, often failing to mention the family left behind or the impact
+of the suicidal act on others.
 
 That being said, only one report included the irresponsible use of
 statistics and only two reports directed readers towards pro-suicide
@@ -436,12 +434,12 @@ amplified by the inclusion of links to other potentially non-compliant
 reports.
 
 Previous findings that discussion forums can increase suicidality among
-younger users\ :sup:`(n.d.t)` suggest that the addition of comments
-sections which can facilitate discussion should be avoided with online
-reports of suicide. Despite this, 17% of analysed reports had a comments
-section for user-generated content, and concerning comments such as the
-deceased person being ‘brave’ or ‘at peace now’ were frequently a
-feature of these.
+younger users\ :sup:`23` suggest that the addition of comments sections
+which can facilitate discussion should be avoided with online reports of
+suicide. Despite this, 17% of analysed reports had a comments section
+for user-generated content, and concerning comments such as the deceased
+person being ‘brave’ or ‘at peace now’ were frequently a feature of
+these.
 
 .. _S8:
 
@@ -484,109 +482,6 @@ in online media articles. We propose that work be done to clarify and
 publicise the guidelines, and to train and encourage journalists to use
 them, and that a strong consideration be given to the role of more
 formal regulation and monitoring.
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-R1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-R2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-R5
-
-      n.d.r.
-
-   .. container:: csl-entry
-      :name: ref-R6
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-R7
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-R8
-
-      n.d.e.
-
-   .. container:: csl-entry
-      :name: ref-R9
-
-      n.d.f.
-
-   .. container:: csl-entry
-      :name: ref-R10
-
-      n.d.g.
-
-   .. container:: csl-entry
-      :name: ref-R11
-
-      n.d.h.
-
-   .. container:: csl-entry
-      :name: ref-R12
-
-      n.d.i.
-
-   .. container:: csl-entry
-      :name: ref-R13
-
-      n.d.j.
-
-   .. container:: csl-entry
-      :name: ref-R14
-
-      n.d.k.
-
-   .. container:: csl-entry
-      :name: ref-R15
-
-      n.d.l.
-
-   .. container:: csl-entry
-      :name: ref-R16
-
-      n.d.m.
-
-   .. container:: csl-entry
-      :name: ref-R17
-
-      n.d.n.
-
-   .. container:: csl-entry
-      :name: ref-R18
-
-      n.d.o.
-
-   .. container:: csl-entry
-      :name: ref-R19
-
-      n.d.q.
-
-   .. container:: csl-entry
-      :name: ref-R21
-
-      n.d.p.
-
-   .. container:: csl-entry
-      :name: ref-R22
-
-      n.d.s.
-
-   .. container:: csl-entry
-      :name: ref-R23
-
-      n.d.t.
 
 .. [1]
    **Michael Utterson**, core psychiatry trainee, South London and

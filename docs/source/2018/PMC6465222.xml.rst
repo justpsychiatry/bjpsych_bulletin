@@ -2,6 +2,8 @@
 Street triage services in England: service models, national provision and the opinions of police
 ================================================================================================
 
+
+
 Abirami Kirubarajan
 Stephen Puntis
 Devon Perfect
@@ -55,17 +57,17 @@ Andrew MolodynskiCorrespondence to Stephen Puntis
 Law enforcement officers routinely come into contact with members of the
 public who have mental health problems. In the UK, estimates of police
 incidents linked to mental health crises have increased over recent
-years.(n.d.a) Within England and Wales, Section 136 of the Mental Health
-Act 2007 allows police officers to detain people who are experiencing a
+years.1 Within England and Wales, Section 136 of the Mental Health Act
+2007 allows police officers to detain people who are experiencing a
 mental health crisis and who are considered to pose a risk to themselves
-or others.(n.d.b) Although this measure may be unavoidable, it is often
-distressing, expensive and labour-intensive.(n.d.c) In addition, police
+or others.2 Although this measure may be unavoidable, it is often
+distressing, expensive and labour-intensive.3 In addition, police
 officers often feel that they lack the training to appropriately support
-those in mental health crisis.(n.d.d)
+those in mental health crisis.4
 
 In response to the increasing use of Section 136, the Department of
 Health funded several regional pilots of street triage for mental
-healthcare in 2013.(n.d.e) Triage models typically involve mental health
+healthcare in 2013.5 Triage models typically involve mental health
 professionals working in partnership with police officers, providing
 expertise through a telephone service or an in-person mobile unit.
 
@@ -78,10 +80,10 @@ services.
 
 Recent changes to the Policing and Crime Act 2017 made it a legal
 requirement to consult, where practical, with a mental health
-professional before instigating a Section 136.(n.d.f) Street triage
-schemes, whose primary function is to introduce mental health expertise
-during police incidents, may be ideally placed to do this. As mental
-health police partnerships become more vital at the point of crisis,
+professional before instigating a Section 136.6 Street triage schemes,
+whose primary function is to introduce mental health expertise during
+police incidents, may be ideally placed to do this. As mental health
+police partnerships become more vital at the point of crisis,
 information on service models will enable better planning of services to
 meet the requirements of the legal changes.
 
@@ -375,7 +377,7 @@ in spread and scope since their introduction, understandably given the
 increasing contact between police officers and those with mental
 illness. This is also reflected in the changes to the Policing and Crime
 Act, which will necessitate better police–mental health interagency
-collaboration;(n.d.f) street triage is best prepared to fill this gap in
+collaboration;6 street triage is best prepared to fill this gap in
 service.
 
 Our National NHS survey highlights significant variations in street
@@ -410,20 +412,19 @@ triage. There was a clear preference for services to exist and to be
 provided in-person. There was strong support for 24/7 services. There
 was a high frequency of responding to mental health incidents described
 by participants, supporting the view that mental health work is now
-‘core police business’.(n.d.g) This underpins the need for triage
-services, heightened by recent changes to legislation that require
-officers to seek qualified mental health advice before using Section
-136, rather than seeking guidance retrospectively.(n.d.f) As mental
-health crises occur at any time of the day, it was not surprising that
-the majority of officers in our survey believed that street triage
-should be available 24/7. Longer hours of operation, more integration
-and a higher profile may help to improve the training and confidence of
-officers.(n.d.h) We do not know whether face-to-face triage is more
-effective than telephone triage. Only one previous study has compared
-these models.(n.d.i) Their analysis suggested that a face-to-face model
-can reduce the overall use of Section 136 and increase the proportion
-resulting in hospital admission, while the telephone-only service did
-not.
+‘core police business’.7 This underpins the need for triage services,
+heightened by recent changes to legislation that require officers to
+seek qualified mental health advice before using Section 136, rather
+than seeking guidance retrospectively.6 As mental health crises occur at
+any time of the day, it was not surprising that the majority of officers
+in our survey believed that street triage should be available 24/7.
+Longer hours of operation, more integration and a higher profile may
+help to improve the training and confidence of officers.8 We do not know
+whether face-to-face triage is more effective than telephone triage.
+Only one previous study has compared these models.9 Their analysis
+suggested that a face-to-face model can reduce the overall use of
+Section 136 and increase the proportion resulting in hospital admission,
+while the telephone-only service did not.
 
 .. _sec3-1:
 
@@ -480,54 +481,6 @@ Aldates Police Station, UK. **Mary Buckman** is Head of Social Care for
 Oxford Health NHS Foundation Trust, Warneford Hospital, UK. **Andrew
 Molodynski** is a Consultant Psychiatrist with Oxford Health NHS
 Foundation Trust, Warneford Hospital, UK.
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-ref1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-ref2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-ref3
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-ref4
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-ref5
-
-      n.d.e.
-
-   .. container:: csl-entry
-      :name: ref-ref6
-
-      n.d.f.
-
-   .. container:: csl-entry
-      :name: ref-ref7
-
-      n.d.g.
-
-   .. container:: csl-entry
-      :name: ref-ref8
-
-      n.d.h.
-
-   .. container:: csl-entry
-      :name: ref-ref9
-
-      n.d.i.
 
 .. [1]
    Percentages do not add up to 100% because of multiple responses per

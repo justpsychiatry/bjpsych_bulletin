@@ -2,6 +2,8 @@
 Completed audit cycle to explore the use of the STOPP/START toolkit to optimise medication in psychiatric in-patients with dementia
 ===================================================================================================================================
 
+
+
 Victor M. Aziz
 Natalie Hill
 Sugandha KumarCorrespondence to Dr V. M. Aziz
@@ -57,28 +59,28 @@ by 2036, and that the current number will have nearly doubled to around
 multiple illnesses and are likely to be prescribed multiple medications.
 Potentially inappropriate prescribing (PIP) is reported to be highly
 prevalent in this age group, and has been associated with adverse drug
-events (ADEs) leading to admission to hospital and death.(n.d.a)
-Inappropriate prescribing occurs when the risks associated with
-prescribing a medication outweigh the potential benefits of the
-medication in a particular patient. PIP may also occur when a patient
-does not receive a medication indicated for the treatment or prevention
-of a disease or condition.(n.d.b) Pharmacokinetics and pharmacodynamics
-may be altered by ageing or disease. This puts older people at a high
-risk of adverse drug reactions (ADRs), ADEs and drug–drug interactions.
+events (ADEs) leading to admission to hospital and death.1 Inappropriate
+prescribing occurs when the risks associated with prescribing a
+medication outweigh the potential benefits of the medication in a
+particular patient. PIP may also occur when a patient does not receive a
+medication indicated for the treatment or prevention of a disease or
+condition.2 Pharmacokinetics and pharmacodynamics may be altered by
+ageing or disease. This puts older people at a high risk of adverse drug
+reactions (ADRs), ADEs and drug–drug interactions.
 
 Some of the drugs that are considered a high risk with respect to
 hospital admissions include: non-steroidal anti-inflammatory drugs
 (NSAIDs, including aspirin), diuretics, warfarin, angiotensin-converting
 enzyme inhibitors (ACEIs)/angiotensin-II receptor antagonists (A2RAs),
 antidepressants, lithium, beta-blockers, opiates, digoxin, prednisolone
-and clopidogrel.(n.d.c)
+and clopidogrel.3
 
 The National Service Framework (NSF) for older people recommends that an
 older patient should have medication reviews to reduce medicine-related
 problems. Studies in general practices and care homes have demonstrated
 that pharmacists undertaking medication reviews can improve the quality
 of care, optimise the use of medicines and produce cost-effective
-savings.(n.d.d)\ :sup:`,`\ (n.d.e)
+savings.4\ :sup:`,`\ 5
 
 The aim of the audit was to review all prescribed medication in
 psychiatric in-patients over the age of 65 with a diagnosis of dementia
@@ -110,8 +112,7 @@ consultant psychiatrist and their teams in either the community or
 in-patient settings. The dementia ranged from moderate to severe for all
 specialist dementia wards. For the purpose of this audit, polypharmacy
 was defined as more than five medications. The audit used the second
-version of the toolkit;(n.d.f) the tool itself takes about 30 min to
-complete.
+version of the toolkit;6 the tool itself takes about 30 min to complete.
 
 Some tools have been developed to identify older people at risk from
 adverse effects and to reduce the risk of initiating drugs likely to
@@ -121,13 +122,12 @@ to alert doctors to the right treatment (START). The toolkit was not
 designed for mental health patients. However, the STOPP–START tool has
 been validated in patients aged 65 and over by a consensus panel of 18
 experts in geriatric pharmacotherapy in Ireland and the
-UK.(n.d.g)\ :sup:`,`\ (n.d.h)\ :sup:`,`\ (n.d.i) The panel included
-experts in geriatric medicine, clinical pharmacology, old age
-psychiatry, clinical pharmacy and primary care medicine. Interrater
-reliability of the STOPP (K = 0.75) and START (K = 0.68) criteria was
-tested in six different European countries.(n.d.h) A further
-study(n.d.j) found higher interrater reliability of STOPP (K = 0.97) and
-START (K = 0.92).
+UK.7\ :sup:`,`\ 8\ :sup:`,`\ 9 The panel included experts in geriatric
+medicine, clinical pharmacology, old age psychiatry, clinical pharmacy
+and primary care medicine. Interrater reliability of the STOPP
+(K = 0.75) and START (K = 0.68) criteria was tested in six different
+European countries.8 A further study10 found higher interrater
+reliability of STOPP (K = 0.97) and START (K = 0.92).
 
 All prescribed medication was checked against the STOPP/START criteria.
 In the STOPP/START tool, STOPP comprises 65 clinically significant
@@ -352,56 +352,3 @@ STOPP/START toolkit.
 **Dr Victor M. Aziz**, Consultant Psychiatrist, Cwm Taf UHB, Wales, UK;
 **Dr Natalie Hill**, ST6 in Old Age Psychiatry, Wales Deanery, UK; **Dr
 Sugandha Kumar**, ST6 in Old Age Psychiatry, Wales Deanery, UK.
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-ref1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-ref2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-ref3
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-ref4
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-ref5
-
-      n.d.e.
-
-   .. container:: csl-entry
-      :name: ref-ref6
-
-      n.d.f.
-
-   .. container:: csl-entry
-      :name: ref-ref7
-
-      n.d.g.
-
-   .. container:: csl-entry
-      :name: ref-ref8
-
-      n.d.h.
-
-   .. container:: csl-entry
-      :name: ref-ref9
-
-      n.d.i.
-
-   .. container:: csl-entry
-      :name: ref-ref10
-
-      n.d.j.

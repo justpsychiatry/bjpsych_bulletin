@@ -2,6 +2,8 @@
 Digital psychiatry and COVID-19: the Big Bang effect for the NHS?
 =================================================================
 
+
+
 Subodh Dave
 Seri Abraham
 Roshelle Ramkisson
@@ -43,27 +45,27 @@ quarantine and sickness challenges. Remote consultations, or
 ‘telemedicine’, hitherto a somewhat niche offering in the NHS led
 primarily by technology enthusiasts, saw an explosive growth, with the
 New York Times reporting: ‘Telemedicine arrives in the U.K.: “10 years
-of change in one week”’.\ :sup:`(n.d.a)`
+of change in one week”’.\ :sup:`1`
 
 The urgent need to deliver patient care effectively and safely in the
-pandemic was supported by new NHS guidance\ :sup:`(n.d.b)` that
-facilitated a rapid rollout of remote consultations in most areas of
-psychiatric practice.
+pandemic was supported by new NHS guidance\ :sup:`2` that facilitated a
+rapid rollout of remote consultations in most areas of psychiatric
+practice.
 
 This occurred despite the pre-existing cautionary digital guidance from
 the Royal College of Psychiatrists echoing the General Medical Council
 (GMC) in its advice that ‘standards expected of doctors […] apply
 equally to digital and conventional consultation settings’ and that
 doctors must give ‘consideration to the potential limitations of the
-medium used’.\ :sup:`(n.d.c)` In particular, for psychiatrists, perhaps
-more than any medical specialties, there have been long-standing
-concerns of loss, potentially harmfully so, of the ability to pick up by
-distance the subtle interpersonal cues of the mental state examination.
+medium used’.\ :sup:`3` In particular, for psychiatrists, perhaps more
+than any medical specialties, there have been long-standing concerns of
+loss, potentially harmfully so, of the ability to pick up by distance
+the subtle interpersonal cues of the mental state examination.
 
 ‘Telepsychiatry’ is not new. Defined as the provision of psychiatric
 services remotely through various technological communication
-platforms,\ :sup:`(n.d.d)` technology-based mental healthcare has been
-in operation for several decades. Samaritans, the well-known telephone
+platforms,\ :sup:`4` technology-based mental healthcare has been in
+operation for several decades. Samaritans, the well-known telephone
 helpline service, started its operations in 1953. However, a more
 important contemporary phrase is ‘digital psychiatry’, which moves
 beyond just the digital delivery of a consultation to the provision of
@@ -79,7 +81,7 @@ administrative and intellectual evolution.
 The NHS Long Term Plan outlines its vision of every patient (in England)
 being able to access digital services – at least at the primary care
 level – by 2024, putatively saving 30 million patient trips and over
-£1 billion/year in costs.\ :sup:`(n.d.e)` However, the possibility of
+£1 billion/year in costs.\ :sup:`5` However, the possibility of
 delivering a socially distanced but safe and effective service has
 provided a fresh fillip for the adoption of digital health in both
 primary and secondary healthcare. Will the relatively enthusiastic
@@ -103,34 +105,33 @@ Is digital psychiatry safe, effective and acceptable to patients and clinicians?
 The justifiable clinical concern of coronavirus infection during the
 pandemic has shifted the fulcrum of safety significantly away from
 face-to-face consultations. The use of telemedicine in post-disaster
-situations is well-established.\ :sup:`(n.d.f)`
+situations is well-established.\ :sup:`6`
 
 Systematic reviews demonstrate substantial evidence to support the
-effectiveness of remote psychiatry.\ :sup:`(n.d.g),(n.d.h)` Most of the
-evidence has emerged from the need to overcome accessibility barriers to
-psychiatric care, for example in areas isolated owing to disasters such
-as hurricane Katrina or to their geographical location, such as rural
-Canada and Australia. Studies looking at the effectiveness of remote
-clinical work are mainly head-to-head and non-inferiority studies
-demonstrating equivalence with face-to-face interactions. These show
-effectiveness comparable with face-to-face assessments in terms of
-patient engagement, validity/reliability of assessments, and clinical
-outcomes.\ :sup:`(n.d.i),(n.d.j)`
+effectiveness of remote psychiatry.\ :sup:`7,8` Most of the evidence has
+emerged from the need to overcome accessibility barriers to psychiatric
+care, for example in areas isolated owing to disasters such as hurricane
+Katrina or to their geographical location, such as rural Canada and
+Australia. Studies looking at the effectiveness of remote clinical work
+are mainly head-to-head and non-inferiority studies demonstrating
+equivalence with face-to-face interactions. These show effectiveness
+comparable with face-to-face assessments in terms of patient engagement,
+validity/reliability of assessments, and clinical outcomes.\ :sup:`9,10`
 
 Rapidly emerging evidence shows that telepsychiatry is being
 successfully utilised globally, in the wake of the COVID-19 pandemic.
-Yellowlees et al\ :sup:`(n.d.k)` reported the process, challenges and
-lessons learned from a rapid conversion of a direct psychiatric clinic
-to a virtual one within the space of 3 working days in Northern
-California. Rosic et al\ :sup:`(n.d.l)` provided an interesting patient
-and provider perspective on the transition to a virtual clinic following
-the onset of the pandemic in Canada. Sharma et al\ :sup:`(n.d.m)` have
-discussed a similar transition in a child and adolescent setting in
-Seattle. Duan & Zhu\ :sup:`(n.d.n)` have described the development of
-mobile phone and social media-based platforms to provide psychological
-care in China. These examples demonstrate the point that COVID-19 has
-propelled the global psychiatric community into a new era with the use
-of technology in delivery of psychiatric care.
+Yellowlees et al\ :sup:`11` reported the process, challenges and lessons
+learned from a rapid conversion of a direct psychiatric clinic to a
+virtual one within the space of 3 working days in Northern California.
+Rosic et al\ :sup:`12` provided an interesting patient and provider
+perspective on the transition to a virtual clinic following the onset of
+the pandemic in Canada. Sharma et al\ :sup:`13` have discussed a similar
+transition in a child and adolescent setting in Seattle. Duan &
+Zhu\ :sup:`14` have described the development of mobile phone and social
+media-based platforms to provide psychological care in China. These
+examples demonstrate the point that COVID-19 has propelled the global
+psychiatric community into a new era with the use of technology in
+delivery of psychiatric care.
 
 Remote access has been noted to be effective for treating a variety of
 conditions, such as depression, anxiety, post-traumatic stress disorder
@@ -143,7 +144,7 @@ In child and adolescent psychiatry, we have evidence for the
 effectiveness of digital psychiatry for the psychiatric assessment and
 management of attention-deficit hyperactivity disorder and early
 psychosis, as well as delivery of therapy for obsessive–compulsive
-disorder and tic disorder.\ :sup:`(n.d.o)` Hantke et al\ :sup:`(n.d.p)`
+disorder and tic disorder.\ :sup:`15` Hantke et al\ :sup:`16`
 demonstrated the effectiveness of remote working in a variety of older
 person's settings, such as nursing home, community and hospital settings
 for individuals with cognitive, functional and sensory impairment. Such
@@ -153,33 +154,31 @@ hospital and benefits for patients with limited mobility.
 Benefits have been shown in criminal justice and other forensic
 settings, where safety concerns about physical movement of high-risk
 patients can be mitigated through remote assessments and remote expert
-testimony.\ :sup:`(n.d.q)` Remote psychiatry has also been demonstrated
-to have a positive impact on the assessment and management of
-individuals with intellectual disabilities, with some data showing no
-loss in therapeutic engagement compared with face-to-face assessments
-and even some evidence for improved engagement among children with
-severe anxiety and autism.\ :sup:`(n.d.r)` In addiction psychiatry,
-remote treatment of opioid use disorder produced similar outcomes as
-face-to-face treatment in both general\ :sup:`(n.d.s)` and obstetric
-settings.\ :sup:`(n.d.t)`
+testimony.\ :sup:`17` Remote psychiatry has also been demonstrated to
+have a positive impact on the assessment and management of individuals
+with intellectual disabilities, with some data showing no loss in
+therapeutic engagement compared with face-to-face assessments and even
+some evidence for improved engagement among children with severe anxiety
+and autism.\ :sup:`18` In addiction psychiatry, remote treatment of
+opioid use disorder produced similar outcomes as face-to-face treatment
+in both general\ :sup:`19` and obstetric settings.\ :sup:`20`
 
 Interestingly, healthcare providers were more likely than patients to
 express concerns regarding adverse effects of remote assessments on
-therapeutic alliance.\ :sup:`(n.d.g)` Although there is considerable
-evidence for remote therapy,\ :sup:`(n.d.u)` Norwood et
-al\ :sup:`(n.d.v)` found that working alliances were inferior compared
-with face-to-face work, even though symptom reduction was equivalent.
+therapeutic alliance.\ :sup:`7` Although there is considerable evidence
+for remote therapy,\ :sup:`21` Norwood et al\ :sup:`22` found that
+working alliances were inferior compared with face-to-face work, even
+though symptom reduction was equivalent.
 
 However, the (few) studies on the topic tend to report overall high
-levels of satisfaction with digital consultations,\ :sup:`(n.d.w)`
-including for children and adolescents.\ :sup:`(n.d.o),(n.d.x)`
+levels of satisfaction with digital consultations,\ :sup:`23` including
+for children and adolescents.\ :sup:`15,24`
 
-Bashshur et al\ :sup:`(n.d.y)` identified telemedicine as a
-cost-effective solution for triage, consultation, prescribing
-medications, provider-to-provider discussions, appointment scheduling
-and reminders. Furthermore, the study also found that remote
-interventions in primary care were at least as effective as traditional
-care.
+Bashshur et al\ :sup:`25` identified telemedicine as a cost-effective
+solution for triage, consultation, prescribing medications,
+provider-to-provider discussions, appointment scheduling and reminders.
+Furthermore, the study also found that remote interventions in primary
+care were at least as effective as traditional care.
 
 Given these effectiveness and experience data and the evidence that
 telepsychiatry is cost-effective compared with face-to-face treatment,
@@ -232,11 +231,11 @@ assessments.
 
 The COVID-19 crisis demonstrated that all these barriers can be rapidly
 overcome. NHSX provided timely and much needed guidance and assurance on
-the use of a variety of methods to enable and support
-working.\ :sup:`(n.d.c)` Despite inevitable hiccups, internet and
-technology solutions worked in a manner perhaps not attainable had the
-pandemic occurred say even 5 years ago. Clinician and patient
-experiences have surely buried the ‘unacceptable’ argument.
+the use of a variety of methods to enable and support working.\ :sup:`3`
+Despite inevitable hiccups, internet and technology solutions worked in
+a manner perhaps not attainable had the pandemic occurred say even 5
+years ago. Clinician and patient experiences have surely buried the
+‘unacceptable’ argument.
 
 .. _sec3:
 
@@ -298,23 +297,22 @@ issues will avoid the stifling of innovation and will enable a more
 rapid adoption of wider digital enhancers to patient care.
 
 The theme of integration is key to the NHS Long Term Plan and features
-prominently in the new community mental health
-framework.\ :sup:`(n.d.z)` Digital psychiatry in its broadest sense
-offers a unique opportunity to realise this integration, albeit
-virtually, of primary care, social care, third-sector partners, the
-criminal justice system and other stakeholders working with patients and
-clinicians to improve clinical outcomes. From virtual meetings to
-seamless patient-owned records, the possibilities are limitless.
+prominently in the new community mental health framework.\ :sup:`26`
+Digital psychiatry in its broadest sense offers a unique opportunity to
+realise this integration, albeit virtually, of primary care, social
+care, third-sector partners, the criminal justice system and other
+stakeholders working with patients and clinicians to improve clinical
+outcomes. From virtual meetings to seamless patient-owned records, the
+possibilities are limitless.
 
 A central feature of UK health policy and service delivery is its focus
 on person-centred care and this is particularly true for psychiatric
-practice and training.\ :sup:`(n.d.b)` Co-production has largely been
-absent in the evolution of digital psychiatry and it is vital that
-patients and carers have a central role in further rollout of this new
-technology. Current guidance issued for the pandemic will need to be
-updated on the basis of emerging evidence on indications and pathways
-and it will also need to take into account patient and professional
-feedback.
+practice and training.\ :sup:`2` Co-production has largely been absent
+in the evolution of digital psychiatry and it is vital that patients and
+carers have a central role in further rollout of this new technology.
+Current guidance issued for the pandemic will need to be updated on the
+basis of emerging evidence on indications and pathways and it will also
+need to take into account patient and professional feedback.
 
 Workforce implications will need to be carefully considered. Roles and
 responsibilities for clinicians working remotely need to be clearly
@@ -440,136 +438,3 @@ https://doi.org/10.1192/bjb.2020.114.
    .. rubric:: 
 
    click here to view supplementary material
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-ref1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-ref2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-ref3
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-ref4
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-ref5
-
-      n.d.e.
-
-   .. container:: csl-entry
-      :name: ref-ref6
-
-      n.d.f.
-
-   .. container:: csl-entry
-      :name: ref-ref7
-
-      n.d.g.
-
-   .. container:: csl-entry
-      :name: ref-ref8
-
-      n.d.h.
-
-   .. container:: csl-entry
-      :name: ref-ref9
-
-      n.d.i.
-
-   .. container:: csl-entry
-      :name: ref-ref10
-
-      n.d.j.
-
-   .. container:: csl-entry
-      :name: ref-ref11
-
-      n.d.k.
-
-   .. container:: csl-entry
-      :name: ref-ref12
-
-      n.d.l.
-
-   .. container:: csl-entry
-      :name: ref-ref13
-
-      n.d.m.
-
-   .. container:: csl-entry
-      :name: ref-ref14
-
-      n.d.n.
-
-   .. container:: csl-entry
-      :name: ref-ref15
-
-      n.d.o.
-
-   .. container:: csl-entry
-      :name: ref-ref16
-
-      n.d.p.
-
-   .. container:: csl-entry
-      :name: ref-ref17
-
-      n.d.q.
-
-   .. container:: csl-entry
-      :name: ref-ref18
-
-      n.d.r.
-
-   .. container:: csl-entry
-      :name: ref-ref19
-
-      n.d.s.
-
-   .. container:: csl-entry
-      :name: ref-ref20
-
-      n.d.t.
-
-   .. container:: csl-entry
-      :name: ref-ref21
-
-      n.d.u.
-
-   .. container:: csl-entry
-      :name: ref-ref22
-
-      n.d.v.
-
-   .. container:: csl-entry
-      :name: ref-ref23
-
-      n.d.w.
-
-   .. container:: csl-entry
-      :name: ref-ref24
-
-      n.d.x.
-
-   .. container:: csl-entry
-      :name: ref-ref25
-
-      n.d.y.
-
-   .. container:: csl-entry
-      :name: ref-ref26
-
-      n.d.z.

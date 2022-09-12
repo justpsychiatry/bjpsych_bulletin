@@ -2,6 +2,8 @@
 Lean management in a liaison psychiatry department: implementation, benefits and pitfalls
 =========================================================================================
 
+
+
 Lauren Alexander
 Susan Moore
 Nigel Salter
@@ -46,41 +48,39 @@ Leonard Douglas [1]_Correspondence to Dr Lauren Alexander
 Lean management is a process that has been adapted for use in healthcare
 from business and production industries. Its usefulness has been
 demonstrated in medical settings, where it generates enhanced staff
-understanding and improved, coordinated delivery of
-care.\ :sup:`(n.d.a)–(n.d.b)` Research indicates similar benefits in
-behavioural crisis units\ :sup:`(n.d.c)` but its use in an emergency
-department liaison psychiatry setting has not been demonstrated.
-Although psychiatric patients comprise a minority of emergency
-department presentations, they require a disproportionate amount of time
-and resources, which can frustrate emergency department staff and cause
-negative attitudes towards such patients.\ :sup:`(n.d.d),(n.d.e)` Myriad
-factors underlie this, such as lengthy waiting times, interpersonal
-difficulties and procedural ambiguity. These factors are often
-longstanding and resistant to change, but lean management processes,
-when executed appropriately, are an accessible and effective way of
-effecting meaningful change.
+understanding and improved, coordinated delivery of care.\ :sup:`1–3`
+Research indicates similar benefits in behavioural crisis
+units\ :sup:`4` but its use in an emergency department liaison
+psychiatry setting has not been demonstrated. Although psychiatric
+patients comprise a minority of emergency department presentations, they
+require a disproportionate amount of time and resources, which can
+frustrate emergency department staff and cause negative attitudes
+towards such patients.\ :sup:`5,6` Myriad factors underlie this, such as
+lengthy waiting times, interpersonal difficulties and procedural
+ambiguity. These factors are often longstanding and resistant to change,
+but lean management processes, when executed appropriately, are an
+accessible and effective way of effecting meaningful change.
 
 Prolonged length of stay was a recurrent source of contention and
 discontent in this emergency department before the process was
 undertaken. Boarding or lodging of psychiatric patients awaiting
 admission to psychiatric units is common and, for various reasons, these
 patients spend longer in the department than their medical and surgical
-counterparts.\ :sup:`(n.d.f)` The requirement for ‘medical screening’ is
+counterparts.\ :sup:`7` The requirement for ‘medical screening’ is
 contributory, but avoidable non-clinical factors, such as health
 insurance or lack of transport, are known to play a significant
-role.\ :sup:`(n.d.g)` In addition to straining resources, patients who
-spend longer in an emergency department are more likely to suffer
-adverse outcomes or incidents, such as medication
-errors.\ :sup:`(n.d.h)`
+role.\ :sup:`8` In addition to straining resources, patients who spend
+longer in an emergency department are more likely to suffer adverse
+outcomes or incidents, such as medication errors.\ :sup:`9`
 
 Workplace incivility is a further stressor that is reportedly
-commonplace in emergency departments,\ :sup:`(n.d.i)` and is compounded
-by the phenomenon of ‘silo working’, whereby different departments
-operate in isolation from each other.\ :sup:`(n.d.j)` In addition to
-contributing to an unpleasant work environment, interpersonal conflicts
-interfere with provision of collaborative and efficient care. Efficient
-and coordinated delivery of care is essential to optimising the quality
-of treatment provided.\ :sup:`(n.d.k)`
+commonplace in emergency departments,\ :sup:`10` and is compounded by
+the phenomenon of ‘silo working’, whereby different departments operate
+in isolation from each other.\ :sup:`11` In addition to contributing to
+an unpleasant work environment, interpersonal conflicts interfere with
+provision of collaborative and efficient care. Efficient and coordinated
+delivery of care is essential to optimising the quality of treatment
+provided.\ :sup:`12`
 
 .. _sec1-1:
 
@@ -424,35 +424,34 @@ Discussion
 
 Process mapping, a component of lean management (‘lean’), is one of a
 number of management tools that aim to improve efficiency and eliminate
-‘waste’.\ :sup:`(n.d.l)` Lean was originally applied to the motor
-industry in Japan but the underlying philosophy lends itself to many
-types of organisation, including healthcare. Lean scrutinises and
-evaluates each component of a process so that ineffective, inefficient
-or potentially harmful elements (‘waste’) can be fixed or discarded.
+‘waste’.\ :sup:`13` Lean was originally applied to the motor industry in
+Japan but the underlying philosophy lends itself to many types of
+organisation, including healthcare. Lean scrutinises and evaluates each
+component of a process so that ineffective, inefficient or potentially
+harmful elements (‘waste’) can be fixed or discarded.
 
 Lean processes have been applied to other healthcare services, including
-ambulatory care settings\ :sup:`(n.d.a)` and interventional
-radiology.\ :sup:`(n.d.m)` Process mapping has been successful in these
+ambulatory care settings\ :sup:`1` and interventional
+radiology.\ :sup:`2` Process mapping has been successful in these
 settings in identifying problems, reducing errors and generally
 improving efficiency; however, the outcomes in most of the previous
 studies have taken a qualitative approach rather than quantitative. Some
 studies have measured patient satisfaction before and after
 implementation of this method, but found no statistically significant
-difference.\ :sup:`(n.d.n)` To our knowledge, the benefits of this
-method have not been studied in liaison psychiatry. The differences that
-exist between liaison psychiatry and other services, in particular the
+difference.\ :sup:`14` To our knowledge, the benefits of this method
+have not been studied in liaison psychiatry. The differences that exist
+between liaison psychiatry and other services, in particular the
 inherent unpredictability of an emergency department liaison psychiatry
 service, make it a unique setting that warrants particular attention.
-Lean methods have been applied to acute emergency
-settings\ :sup:`(n.d.b)` and behavioural health crisis
-settings,\ :sup:`(n.d.c)` both more similar to our service, but those
-studies did not assess the function of an emergency psychiatry service
-within a general emergency department, as is commonly the setting for
-the provision of emergency psychiatric care in Ireland and the UK. One
-such study of a stand-alone crisis centre found a significant
-improvement in door-to-door dwell time, but, as a disparate service to
-ours, without comparable interdisciplinary challenges, the findings are
-difficult to relate to a hospital setting.\ :sup:`(n.d.c)`
+Lean methods have been applied to acute emergency settings\ :sup:`3` and
+behavioural health crisis settings,\ :sup:`4` both more similar to our
+service, but those studies did not assess the function of an emergency
+psychiatry service within a general emergency department, as is commonly
+the setting for the provision of emergency psychiatric care in Ireland
+and the UK. One such study of a stand-alone crisis centre found a
+significant improvement in door-to-door dwell time, but, as a disparate
+service to ours, without comparable interdisciplinary challenges, the
+findings are difficult to relate to a hospital setting.\ :sup:`4`
 
 The use of process mapping in the present study afforded us the
 opportunity to visualise the journey of the psychiatric patient as they
@@ -465,12 +464,12 @@ quality of working relationships between individuals and departments.
 
 Lengthy waiting times of mentally ill patients in an emergency
 department exert stress on resources and increase the risk of adverse
-incidents.\ :sup:`(n.d.h)` Before undertaking this quality improvement
+incidents.\ :sup:`9` Before undertaking this quality improvement
 project, their median length of stay in this department (8 h)
 significantly exceeded the national target of 6 h. The National
 Emergency Medicine Programme in the jurisdiction of Ireland aims to
-ensure that 95% of patients are processed within 6 h.\ :sup:`(n.d.o)`
-Process mapping and the series of interventions that followed led to a
+ensure that 95% of patients are processed within 6 h.\ :sup:`15` Process
+mapping and the series of interventions that followed led to a
 significant reduction in length of stay (median 7 h), with a particular
 reduction in the number of lengthy waiting times (5% exceeding 24 h
 pre-mapping, 2% exceeding 24 h post-mapping). This outcome, we
@@ -509,11 +508,11 @@ efficiently.
 Further to these measurable benefits, process mapping facilitated
 progression from silo working to a cohesive team approach. The
 phenomenon of silo working leaves individual staff members feeling
-isolated and unsure about what to do or where to find
-help,\ :sup:`(n.d.j)` especially in highly stressful situations such as
-a patient's acute agitation. Clarification of departmental policies and
-pathways, paired with improved individual flexibility and collegiality,
-empowered individuals to navigate difficult situations as a team so that
+isolated and unsure about what to do or where to find help,\ :sup:`11`
+especially in highly stressful situations such as a patient's acute
+agitation. Clarification of departmental policies and pathways, paired
+with improved individual flexibility and collegiality, empowered
+individuals to navigate difficult situations as a team so that
 interdisciplinary solutions were generated with minimal conflict.
 Process mapping provided a structure for this conversation to take
 place, thereby enhancing collegiality and collaborative care.
@@ -610,84 +609,6 @@ Vincent's University Hospital, Dublin. **Leonard Douglas**, MB BCh, BAO,
 MRCPsych, is a consultant in old age psychiatry in the Department of Old
 Age Psychiatry, St Vincent's University Hospital and is based at Carew
 House, Dublin, Ireland.
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-ref1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-ref2
-
-      n.d.m.
-
-   .. container:: csl-entry
-      :name: ref-ref3
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-ref4
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-ref5
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-ref6
-
-      n.d.e.
-
-   .. container:: csl-entry
-      :name: ref-ref7
-
-      n.d.f.
-
-   .. container:: csl-entry
-      :name: ref-ref8
-
-      n.d.g.
-
-   .. container:: csl-entry
-      :name: ref-ref9
-
-      n.d.h.
-
-   .. container:: csl-entry
-      :name: ref-ref10
-
-      n.d.i.
-
-   .. container:: csl-entry
-      :name: ref-ref11
-
-      n.d.j.
-
-   .. container:: csl-entry
-      :name: ref-ref12
-
-      n.d.k.
-
-   .. container:: csl-entry
-      :name: ref-ref13
-
-      n.d.l.
-
-   .. container:: csl-entry
-      :name: ref-ref14
-
-      n.d.n.
-
-   .. container:: csl-entry
-      :name: ref-ref15
-
-      n.d.o.
 
 .. [1]
    **Declaration of interest** None.

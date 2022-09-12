@@ -2,6 +2,8 @@
 The effect of a youth mental health service model on access to secondary mental healthcare for young people aged 14–25 years
 ============================================================================================================================
 
+
+
 Sarah Maxwell
 Obianuju Ugochukwu
 Tim Clarke
@@ -63,19 +65,18 @@ Ian M GoodyerCorrespondence to Dr Sarah Maxwell
 ..
 
 Adolescence is a high-risk period for the emergence of mental health
-problems(n.d.a) but mental health service provision for this age group
-is often inadequate.(n.d.b)\ :sup:`–`\ (n.d.c) Traditional mental health
-service models bisect the adolescent period, with young people under 18
-(or in some cases 16) years seen by child and adolescent mental health
-services (CAMHS) and those aged 18 years and over by adult mental health
-services (AMHS). Consequently, there is often a gap in service provision
-for young people transitioning to adulthood, meaning that young people
-are unable to access timely and developmentally appropriate
-support.(n.d.d)\ :sup:`,`\ (n.d.e) In response to these problems, a
-number of innovative services have emerged that traverse the traditional
+problems1 but mental health service provision for this age group is
+often inadequate.2\ :sup:`–`\ 4 Traditional mental health service models
+bisect the adolescent period, with young people under 18 (or in some
+cases 16) years seen by child and adolescent mental health services
+(CAMHS) and those aged 18 years and over by adult mental health services
+(AMHS). Consequently, there is often a gap in service provision for
+young people transitioning to adulthood, meaning that young people are
+unable to access timely and developmentally appropriate
+support.5\ :sup:`,`\ 6 In response to these problems, a number of
+innovative services have emerged that traverse the traditional
 CAMHS–AMHS divide in an effort to meet the specific needs of young
-people and reduce the need for disruptive transitions between
-services.(n.d.e)
+people and reduce the need for disruptive transitions between services.6
 
 Norfolk and Suffolk National Health Service Foundation Trust (NSFT)
 established the Norfolk Youth Service as a pilot in 2012. The pilot
@@ -85,11 +86,11 @@ the success of the pilot, the service was expanded to provide staged
 intervention for all young people aged 14–25 years living in Norfolk and
 Waveney, replacing the existing traditional CAMHS–AMHS service model. In
 2015, Norfolk and Waveney was home to 271 698 children and young people
-aged under 25 years.(n.d.f) The county is predominantly rural and 86% of
+aged under 25 years.7 The county is predominantly rural and 86% of
 residents identify as White British; it has higher rates of looked after
 children, children in need because of abuse, neglect or family
 dysfunction, and pupils with behavioural, emotional and social support
-needs than the average for England.(n.d.f)
+needs than the average for England.7
 
 The new service model was intended to be youth-oriented,
 non-stigmatising and recovery-focused to maximise access and engagement.
@@ -99,8 +100,7 @@ specialist or secondary care interventions. However, young people no
 longer had to be referred from a CAMHS service into an AMHS service when
 they reached 18 years old, increasing the continuity of care. The
 national and local context for this service transformation, and the
-design of the new service have been described in detail
-elsewhere.(n.d.g)
+design of the new service have been described in detail elsewhere.8
 
 The empirical evidence of the effect of redesigning mental health
 services to bridge the CAMHS–AMHS age range on young people's access to
@@ -280,27 +280,27 @@ also possible that the increase in referrals reflects a wider increase
 in demand for mental health support for young people, not directly
 associated with the change in service model. There is some evidence that
 rates of internalising problems in children and young people have been
-increasing in recent years,(n.d.h) and a substantial rise in the demand
-for children and young people's mental health service has been reported
-nationally.(n.d.i)
+increasing in recent years,9 and a substantial rise in the demand for
+children and young people's mental health service has been reported
+nationally.10
 
 Both before and after the implementation of the youth service model,
 more females were referred than males, with the gender disparity being
 more marked among younger referrals. The reluctance of young men to seek
-care for mental health problems is well
-documented.(n.d.j)\ :sup:`,`\ (n.d.k) The small number of males referred
-relative to females, both before and after the implementation of the new
-service model, suggests there is more work to do to encourage young men
-to access support. NSFT have recently launched a Men's Wellbeing Project
-that aims to encourage men and boys to talk more openly about their
-mental health and increase access to mental health services.(n.d.l)
+care for mental health problems is well documented.11\ :sup:`,`\ 12 The
+small number of males referred relative to females, both before and
+after the implementation of the new service model, suggests there is
+more work to do to encourage young men to access support. NSFT have
+recently launched a Men's Wellbeing Project that aims to encourage men
+and boys to talk more openly about their mental health and increase
+access to mental health services.13
 
 Although the raw number of referrals accepted by the service increased
 substantially following implementation of the youth service model, the
 proportion of referrals accepted fell: from 91% pre-implementation of
 the model to 68% post-implementation. This decrease might be at least
 partially explained by the increased number of referrals coming into
-conflict with limited service capacity. As previously reported,(n.d.g) a
+conflict with limited service capacity. As previously reported,8 a
 consequence of improving access to services when resources remain
 limited has been increased wait-lists and sometimes overwhelming
 case-loads. Although acceptance criteria were unchanged following
@@ -321,18 +321,17 @@ use. The overall average number of contacts per referral for those aged
 model. Although the service offered by Norfolk Youth Service is not
 time-limited, there is an emphasis on offering appropriately staged
 intervention and not retaining individuals within the service for longer
-than needed.(n.d.g) The reduction in overall average service contacts
-for young people in this age group might, therefore, reflect this change
-in service philosophy, toward encouraging flexible re-referral if
-needed.
+than needed.8 The reduction in overall average service contacts for
+young people in this age group might, therefore, reflect this change in
+service philosophy, toward encouraging flexible re-referral if needed.
 
 Before implementation of the Norfolk Youth Service, young people aged 18
 years or over were referred to services in high numbers but received
 substantially fewer contacts with services relative to those aged under
 18 years. This ‘cliff edge’ in mental health service use at the
-transition to adulthood has also been reported in the USA,(n.d.m)
-suggesting this problem is not specific to the local context. Following
-the implementation of the youth service model, the average number of
+transition to adulthood has also been reported in the USA,14 suggesting
+this problem is not specific to the local context. Following the
+implementation of the youth service model, the average number of
 contacts per referral was more equitable across ages, with the cliff
 edge in service contacts no longer evident. Pre-implementation, the
 average number of contacts per referral at 18 years of age was less than
@@ -419,74 +418,6 @@ and Care, East of England fellowships awarded to S.M. and O.U. The views
 expressed are those of the authors and not necessarily of the NIHR or
 Collaborations for Leadership in Applied Health Research and Care, East
 of England.
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-ref1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-ref2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-ref4
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-ref5
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-ref6
-
-      n.d.e.
-
-   .. container:: csl-entry
-      :name: ref-ref7
-
-      n.d.f.
-
-   .. container:: csl-entry
-      :name: ref-ref8
-
-      n.d.g.
-
-   .. container:: csl-entry
-      :name: ref-ref9
-
-      n.d.h.
-
-   .. container:: csl-entry
-      :name: ref-ref10
-
-      n.d.i.
-
-   .. container:: csl-entry
-      :name: ref-ref11
-
-      n.d.j.
-
-   .. container:: csl-entry
-      :name: ref-ref12
-
-      n.d.k.
-
-   .. container:: csl-entry
-      :name: ref-ref13
-
-      n.d.l.
-
-   .. container:: csl-entry
-      :name: ref-ref14
-
-      n.d.m.
 
 .. [1]
    Pre-implementation refers to the 12-month period from 1 September

@@ -2,6 +2,8 @@
 Anti-*N*-methyl-d-aspartate receptor encephalitis: review of clinical presentation, diagnosis and treatment
 ===========================================================================================================
 
+
+
 Helen Barry
 Susan Byrne
 Elizabeth Barrett
@@ -30,17 +32,17 @@ David R. CotterCorrespondence to Helen Barry (helenbarry@rcsi.ie)  [1]_
 ..
 
 Anti-*N*-methyl-d-aspartate (NMDA) receptor encephalitis was first
-described in 2007 by Dalmau and colleagues, :sup:`(n.d.a)` who
-identified 12 patients presenting with prominent neuropsychiatric
-symptoms. All were confirmed to have serum or cerebrospinal fluid (CSF)
-antibodies to the NMDA receptor. :sup:`(n.d.a)` In a subsequent case
-series of 100 patients, 77 initially presented to psychiatric services.
-:sup:`(n.d.b)` Although patients with anti-NMDA receptor encephalitis
-exhibit high rates of psychiatric disorder, psychiatrists may not be
-fully aware of the diverse presentation of this disorder. Given the high
-mortality rate (up to 25%), the likelihood of presentation across the
-age range and the potential for treatment, a high index of suspicion is
-warranted by clinicians.
+described in 2007 by Dalmau and colleagues, :sup:`1` who identified 12
+patients presenting with prominent neuropsychiatric symptoms. All were
+confirmed to have serum or cerebrospinal fluid (CSF) antibodies to the
+NMDA receptor. :sup:`1` In a subsequent case series of 100 patients, 77
+initially presented to psychiatric services. :sup:`2` Although patients
+with anti-NMDA receptor encephalitis exhibit high rates of psychiatric
+disorder, psychiatrists may not be fully aware of the diverse
+presentation of this disorder. Given the high mortality rate (up to
+25%), the likelihood of presentation across the age range and the
+potential for treatment, a high index of suspicion is warranted by
+clinicians.
 
 .. _S1:
 
@@ -49,24 +51,23 @@ Epidemiology
 
 Epidemiological studies suggest that anti-NMDA receptor encephalitis may
 be the most common cause of autoimmune encephalitis after acute
-demyelinating encephalitis. :sup:`(n.d.c)` While to date there are no
+demyelinating encephalitis. :sup:`3` While to date there are no
 estimates as to prevalence rates, more than 500 cases have been
-reported. :sup:`(n.d.d)–(n.d.e)` Between September 2007 and February
-2011, the California Encephalitis Project examined referrals of 761
-patients presenting with encephalitis. :sup:`(n.d.f)` Of the cases of
-identified aetiology, anti-NMDA receptor encephalitis was the leading
-entity (32 of 79 cases) within the cohort and was identified four times
-as frequently as herpes simplex – type 1, West Nile virus or varicella
-zoster virus. :sup:`(n.d.f)` In another study, Steiner and colleagues
-examined 121 individuals with schizophrenia for diverse NMDA receptor
-antibodies. Approximately 10% (*n* = 15) were found to be positive for
-anti-NMDA receptor antibodies, two of whom had the specific
-immunoglobulin G (IgG) NR1a antibodies of anti-NMDA receptor
-encephalitis. :sup:`(n.d.g)` Zandi *et al* :sup:`(n.d.h)` observed NMDA
-receptor serum antibodies in approximately 6% (3 of 46) of patients with
-first-onset schizophrenia. The true rate of anti-NMDA receptor
-encephalitis in the population generally and among individuals with
-psychosis is thus not yet fully clarified.
+reported. :sup:`4–6` Between September 2007 and February 2011, the
+California Encephalitis Project examined referrals of 761 patients
+presenting with encephalitis. :sup:`7` Of the cases of identified
+aetiology, anti-NMDA receptor encephalitis was the leading entity (32 of
+79 cases) within the cohort and was identified four times as frequently
+as herpes simplex – type 1, West Nile virus or varicella zoster virus.
+:sup:`7` In another study, Steiner and colleagues examined 121
+individuals with schizophrenia for diverse NMDA receptor antibodies.
+Approximately 10% (*n* = 15) were found to be positive for anti-NMDA
+receptor antibodies, two of whom had the specific immunoglobulin G (IgG)
+NR1a antibodies of anti-NMDA receptor encephalitis. :sup:`8` Zandi *et
+al* :sup:`9` observed NMDA receptor serum antibodies in approximately 6%
+(3 of 46) of patients with first-onset schizophrenia. The true rate of
+anti-NMDA receptor encephalitis in the population generally and among
+individuals with psychosis is thus not yet fully clarified.
 
 .. _S2:
 
@@ -78,69 +79,67 @@ aetiology of psychosis hypothesised as early as the 19th century. The
 influenza epidemic in the early 20th century led Karl Menninger to
 conclude that ‘dementia praecox is at least in most instances a
 somatopsychosis, the psychic manifestations of an Encephalitis’.
-:sup:`(n.d.i)` While the dopaminergic model of schizophrenia has been
-the leading neurochemical hypothesis of psychosis for many decades,
+:sup:`10` While the dopaminergic model of schizophrenia has been the
+leading neurochemical hypothesis of psychosis for many decades,
 hypofunction of the NMDA-type glutamate receptors provides an
 alternative model to understanding the pathogenesis of schizophrenia. It
 is well described that antagonists of NMDA receptors (e.g. phencyclidine
 (PCP)) produce a clinical syndrome that closely resembles negative
 symptoms of schizophrenia and induce neuropsychological and sensory
 processing deficits that are very similar to those observed in
-schizophrenia. :sup:`(n.d.j)`
+schizophrenia. :sup:`11`
 
 The prominent psychotic symptoms, catatonia and indicators of
 dopaminergic involvement (orofacial dyskinesias) are all consistent with
-the effects of PCP, :sup:`(n.d.j)` which is well recognised to also
-replicate many aspects of the presentation of schizophrenia. NMDA
-receptor antagonists are believed to function by blocking the NMDA
-receptor in the presynaptic gamma-aminobutyric acid (GABA)-ergic neurons
-of the thalamus and frontal cortex, leading to a disinhibition of
-postsynaptic glutamatergic neurons and subsequent glutamatergic and
-dopaminergic dysregulation in the frontal cortex.
+the effects of PCP, :sup:`11` which is well recognised to also replicate
+many aspects of the presentation of schizophrenia. NMDA receptor
+antagonists are believed to function by blocking the NMDA receptor in
+the presynaptic gamma-aminobutyric acid (GABA)-ergic neurons of the
+thalamus and frontal cortex, leading to a disinhibition of postsynaptic
+glutamatergic neurons and subsequent glutamatergic and dopaminergic
+dysregulation in the frontal cortex.
 
 It has been observed that nitroprusside completely abolishes the
-behavioural effects of PCP in animal models. :sup:`(n.d.k)` Hallak and
-colleagues :sup:`(n.d.l)` administered a sodium nitroprusside infusion
-to 20 patients with a diagnosis of schizophrenia, with a resultant rapid
+behavioural effects of PCP in animal models. :sup:`12` Hallak and
+colleagues :sup:`13` administered a sodium nitroprusside infusion to 20
+patients with a diagnosis of schizophrenia, with a resultant rapid
 improvement in symptoms. They hypothesise that in addition to generating
 nitric oxide in the brain and increasing cAMP production, nitroprusside
 may also modulate NMDA receptor activity. In addition, reductions in
 plasma and brain glycine, D-serine and glutathione levels provide
-additional mechanisms underlying NMDA dysfunction. :sup:`(n.d.m)`
+additional mechanisms underlying NMDA dysfunction. :sup:`14`
 
 The neuropsychiatric presentation of these cases of anti-NMDA receptor
 encephalitis thus provides important support for the NMDA receptor
-hypofunction hypothesis for psychosis. :sup:`(n.d.n),(n.d.o)`
-Explanations for the proposed NMDA receptor hypofunction in
-schizophrenia are varied and may involve altered recycling of NMDA
-receptors. :sup:`(n.d.p)` However, the possibility that autoantibodies
-to the NMDA receptor subunits may be causal in psychotic presentations
-is novel.
+hypofunction hypothesis for psychosis. :sup:`15,16` Explanations for the
+proposed NMDA receptor hypofunction in schizophrenia are varied and may
+involve altered recycling of NMDA receptors. :sup:`17` However, the
+possibility that autoantibodies to the NMDA receptor subunits may be
+causal in psychotic presentations is novel.
 
 Acute psychosis in anti-NMDA receptor encephalitis is associated with
 serum and CSF IgG antibody titres against the NR1a subunit of the
 receptor. However, antibodies against different antigens (e.g. the NR2a
 and NR2b subunits) have been described in cases of limbic encephalitis
-and systematic lupus erthymatosus, :sup:`(n.d.q),(n.d.r)` and
-psychiatric symptoms may not be exclusive to the NR1a subunit. Steiner
-*et al* :sup:`(n.d.g)` examined the serum of 459 patients admitted with
-schizophrenia (*n* = 121), major depression (*n* = 70) and borderline
-personality disorder (*n* = 38) for a variety of antibody subtypes in
-order to determine whether antibody subtypes overlap with or are
-distinct from those in anti-NMDA receptor encephalitis. They identified
-NMDA antibodies in 9.9% of patients with schizophrenia. Diverse NMDA
-receptor antibodies, including those specifically found in anti-NMDA
-receptor encephalitis, were found primarily in those with an initial
-diagnosis of schizophrenia; two patients initially diagnosed with a
-disorganised or catatonic schizophrenia were subsequently diagnosed
-with, and treated for, anti-NMDA receptor encephalitis. :sup:`(n.d.g)`
+and systematic lupus erthymatosus, :sup:`18,19` and psychiatric symptoms
+may not be exclusive to the NR1a subunit. Steiner *et al* :sup:`8`
+examined the serum of 459 patients admitted with schizophrenia (*n* =
+121), major depression (*n* = 70) and borderline personality disorder
+(*n* = 38) for a variety of antibody subtypes in order to determine
+whether antibody subtypes overlap with or are distinct from those in
+anti-NMDA receptor encephalitis. They identified NMDA antibodies in 9.9%
+of patients with schizophrenia. Diverse NMDA receptor antibodies,
+including those specifically found in anti-NMDA receptor encephalitis,
+were found primarily in those with an initial diagnosis of
+schizophrenia; two patients initially diagnosed with a disorganised or
+catatonic schizophrenia were subsequently diagnosed with, and treated
+for, anti-NMDA receptor encephalitis. :sup:`8`
 
 Potential causes for the behaviour, learning and memory difficulties in
 anti-NMDA receptor encephalitis have been postulated by Iizuka and
-colleagues, :sup:`(n.d.s)` who noted reversible predominant
-frontotemporal atrophy, an area in which NMDA receptors are present in
-high density, therefore suggestive of an immunological cause to the
-atrophy.
+colleagues, :sup:`20` who noted reversible predominant frontotemporal
+atrophy, an area in which NMDA receptors are present in high density,
+therefore suggestive of an immunological cause to the atrophy.
 
 Anti-NMDA receptor encephalitis is associated in some cases with ovarian
 pathology, in particular teratomas. It is considered that the antibodies
@@ -155,11 +154,10 @@ Clinical presentation
 Presentations can be variable, thus posing a challenge to clinicians in
 neurology and psychiatry settings. With symptoms and signs ranging from
 psychosis to mania to catatonia, clinicians may be prompted to consider
-primary mental health aetiology. Dalmau *et al* :sup:`(n.d.e)` have
-proposed a staged presentation. Maneta *et al* :sup:`(n.d.t)` summarise
-these into early, middle and late symptoms, initially involving a
-prodrome, followed by more overt psychiatric manifestations and later
-physical symptoms.
+primary mental health aetiology. Dalmau *et al* :sup:`6` have proposed a
+staged presentation. Maneta *et al* :sup:`5` summarise these into early,
+middle and late symptoms, initially involving a prodrome, followed by
+more overt psychiatric manifestations and later physical symptoms.
 
 Clinicians should be aware that the presentation of anti-NMDA receptor
 encephalitis includes several characteristic features.
@@ -167,36 +165,35 @@ encephalitis includes several characteristic features.
 A non-specific prodrome: in one series of 100 individuals with
 encephalitis, 86% had headache, low-grade fever or a viral-like illness
 (headaches, respiratory or gastrointestinal symptoms) in the weeks prior
-to acute presentation. :sup:`(n.d.b)` In our series of five cases, we
+to acute presentation. :sup:`2` In our series of five cases, we
 identified a prodrome in four, with symptoms including poor
-concentration, anorexia, insomnia and slurred speech. :sup:`(n.d.e)`
+concentration, anorexia, insomnia and slurred speech. :sup:`6`
 Psychiatric symptoms are prominent: agitation, bizarre and disinhibited
-behaviour, delusions and auditory and visual hallucinations.
-:sup:`(n.d.b)` In our series, the psychotic phenomena observed were
-markedly fragmented in comparison with those typically found in
-functional psychoses, with delusions being poorly formed and
-non-systematised. :sup:`(n.d.e)` Cognitive dysfunction: short-term
-memory loss can also be a presenting feature, as can concentration
-difficulties. Formal neuropsychological testing in the presence of
-psychosis and/or behavioural disturbance may present difficulties in
-clinical practice. Motor dysfunction: in addition to typical epileptic
-seizures, patients often develop dyskinetic movements, including
-orofacial dyskinesias (grimacing or lip smacking), which may be mistaken
-for seizures. These abnormal movements, especially orofacial dyskinesia,
-may present from an early stage and are often a clue to the diagnosis.
-Autonomic instability: autonomic instability and hypoventilation can
-also occur (41 of Dalmau’s series :sup:`(n.d.b)` had one or both of
-these features), as can cardiac dysrhythmias often necessitating
-intensive care unit management. :sup:`(n.d.b)` Dissociative responses to
-stimuli during have been noted, including resistance to eye opening
-while displaying no response to painful stimuli, a combination that may
-lead to diagnostic confusion. :sup:`(n.d.s),(n.d.u)` Association with
+behaviour, delusions and auditory and visual hallucinations. :sup:`2` In
+our series, the psychotic phenomena observed were markedly fragmented in
+comparison with those typically found in functional psychoses, with
+delusions being poorly formed and non-systematised. :sup:`6` Cognitive
+dysfunction: short-term memory loss can also be a presenting feature, as
+can concentration difficulties. Formal neuropsychological testing in the
+presence of psychosis and/or behavioural disturbance may present
+difficulties in clinical practice. Motor dysfunction: in addition to
+typical epileptic seizures, patients often develop dyskinetic movements,
+including orofacial dyskinesias (grimacing or lip smacking), which may
+be mistaken for seizures. These abnormal movements, especially orofacial
+dyskinesia, may present from an early stage and are often a clue to the
+diagnosis. Autonomic instability: autonomic instability and
+hypoventilation can also occur (41 of Dalmau’s series :sup:`2` had one
+or both of these features), as can cardiac dysrhythmias often
+necessitating intensive care unit management. :sup:`2` Dissociative
+responses to stimuli during have been noted, including resistance to eye
+opening while displaying no response to painful stimuli, a combination
+that may lead to diagnostic confusion. :sup:`20,21` Association with
 known pathology: an association with ovarian pathology has also been
 identified. Dalmau and colleagues reported that in 59% of cases, the
 diagnosis was associated with ovarian tumours, primarily ovarian
-teratomas. :sup:`(n.d.b)` However, Irani and colleagues identified
-tumours in only 26% (9 of 34) of cases. :sup:`(n.d.v)` Children under
-the age of 18 are unlikely to have an associated tumour.
+teratomas. :sup:`2` However, Irani and colleagues identified tumours in
+only 26% (9 of 34) of cases. :sup:`22` Children under the age of 18 are
+unlikely to have an associated tumour.
 
 .. _S4:
 
@@ -207,38 +204,37 @@ Confirmation of the clinical diagnosis of anti-NMDA receptor
 encephalitis requires a positive serum or CSF sample screening for
 antibodies to the NMDA receptor subunit. There is ongoing controversy as
 to whether serum or CSF is best tested. Dalmau recommends testing of
-both, :sup:`(n.d.e)` whereas Irani & Vincent, :sup:`(n.d.w)` by
-contrast, report that serum levels of anti-NMDA receptor antibodies were
-similar or higher to those of CSF. The clinical symptoms of this
-disorder correlate well with antibody titre. :sup:`(n.d.b)` The test for
-anti-NMDA receptor encephalitis, although currently somewhat slow, is
-relatively cheap, and therefore should be considered in any patient
-presenting with an acute onset of psychiatric symptoms with atypical
-features or unusual movements.
+both, :sup:`6` whereas Irani & Vincent, :sup:`23` by contrast, report
+that serum levels of anti-NMDA receptor antibodies were similar or
+higher to those of CSF. The clinical symptoms of this disorder correlate
+well with antibody titre. :sup:`2` The test for anti-NMDA receptor
+encephalitis, although currently somewhat slow, is relatively cheap, and
+therefore should be considered in any patient presenting with an acute
+onset of psychiatric symptoms with atypical features or unusual
+movements.
 
 CSF abnormalities have been described in approximately 80% of cases and
 include a mild lymphocyctic pleocytosis, normally or mildly increased
-protein concentration, and CSF-specific oligoclonal bands.
-:sup:`(n.d.b),(n.d.x)`
+protein concentration, and CSF-specific oligoclonal bands. :sup:`2,24`
 
 Brain magnetic resonance imaging scans have been reported as normal in
-70% of cases. :sup:`(n.d.d)` In the remainder, hyperintensities in a
-variety of regions may be evident (implicated areas include the
-hippocampi, cerebellar and cerebral cortex, basal ganglia, brainstem,
-frontobasal and insular regions). :sup:`(n.d.y)`
+70% of cases. :sup:`4` In the remainder, hyperintensities in a variety
+of regions may be evident (implicated areas include the hippocampi,
+cerebellar and cerebral cortex, basal ganglia, brainstem, frontobasal
+and insular regions). :sup:`25`
 
 Typically, electroencephalograms (EEGs) may show non-specific slowing or
 slow continuous rhythmic activity during the catatonic phase of illness.
-:sup:`(n.d.z)` An EEG is very helpful if one is trying to distinguish
-between encephalitis and a primary psychiatric disorder, as the majority
-of patients (90%) with anti-NMDA receptor encephalitis have evidence of
-non-specific slowing at some stage during the illness. :sup:`(n.d.d)`
+:sup:`26` An EEG is very helpful if one is trying to distinguish between
+encephalitis and a primary psychiatric disorder, as the majority of
+patients (90%) with anti-NMDA receptor encephalitis have evidence of
+non-specific slowing at some stage during the illness. :sup:`4`
 
 While not at present likely to support clinical practice, other
 investigations have been reviewed. Positron emission tomography has
 shown variable findings, with some evidence of cortical hypometabolism.
-:sup:`(n.d.aa)` This contrasts with findings from other investigators,
-suggesting subcortical hypermetabolism. :sup:`(n.d.ab)`
+:sup:`27` This contrasts with findings from other investigators,
+suggesting subcortical hypermetabolism. :sup:`28`
 
 .. _S5:
 
@@ -256,18 +252,17 @@ Neurological
 
 Neurological differential diagnosis tends to include viral encephalitis,
 cerebral vasculitis or other forms of autoimmune encephalitis and
-encephalitis lethargica. :sup:`(n.d.ac)` Dyskinetic movements may be
-mistaken for seizure activity or tardive dyskinesia. Patients can also
-have bizarre stereotypies. Repetitive stereotypies and orofacial
-dyskinesia can be mistaken for seizures. :sup:`(n.d.ad)` The
-seizure-like dyskinetic movements may also be misdiagnosed as status
-epilepticus, a diagnosis that is reported in 6% of cases.
-:sup:`(n.d.ad)` Dericioglu and colleagues :sup:`(n.d.ad)` report two
-cases where status epilepticus was suspected but video EEG was
-indicative of encephalopathy, thus avoiding aggressive treatment with
-intravenous anaesthetics. Caution therefore is advised in interpreting
-these movements, unless clarified by video EEG, when status epilepticus
-is suspected. :sup:`(n.d.ad)`
+encephalitis lethargica. :sup:`29` Dyskinetic movements may be mistaken
+for seizure activity or tardive dyskinesia. Patients can also have
+bizarre stereotypies. Repetitive stereotypies and orofacial dyskinesia
+can be mistaken for seizures. :sup:`30` The seizure-like dyskinetic
+movements may also be misdiagnosed as status epilepticus, a diagnosis
+that is reported in 6% of cases. :sup:`30` Dericioglu and colleagues
+:sup:`30` report two cases where status epilepticus was suspected but
+video EEG was indicative of encephalopathy, thus avoiding aggressive
+treatment with intravenous anaesthetics. Caution therefore is advised in
+interpreting these movements, unless clarified by video EEG, when status
+epilepticus is suspected. :sup:`30`
 
 .. _S7:
 
@@ -281,16 +276,15 @@ of the presence of delusions, hallucinations and catatonic features.
 Recent studies explore the possibility that this disorder, or indeed
 other similar autoimmune conditions, may present with a more typical
 schizophrenia picture and be responsible for as much as 5–10% of
-first-onset psychosis. :sup:`(n.d.g),(n.d.h)` Zandi and colleagues
-:sup:`(n.d.h)` screened a 46-patient cohort of first-episode psychosis
-patients in a prospective study for NMDA receptor antibodies and only 2
-tested positive. The authors state that there were no clinical features
-to differentiate these individuals from other individuals with psychosis
-in the cohort.
+first-onset psychosis. :sup:`8,9` Zandi and colleagues :sup:`9` screened
+a 46-patient cohort of first-episode psychosis patients in a prospective
+study for NMDA receptor antibodies and only 2 tested positive. The
+authors state that there were no clinical features to differentiate
+these individuals from other individuals with psychosis in the cohort.
 
 Cases of ‘postnatal psychosis’ in association with ovarian pathology
 that bear remarkable similarity to anti-NMDA receptor encephalitis have
-also been described. :sup:`(n.d.ae)`
+also been described. :sup:`31`
 
 The presence of rigidity and altered consciousness, which are common in
 anti-NMDA receptor encephalitis, may also lead to consideration of a
@@ -320,18 +314,16 @@ Second-line immunosuppression may be necessary using rituximab or
 cyclophosphamide.
 
 These are often required in individuals who receive a delayed diagnosis
-or those without a tumour. :sup:`(n.d.z)` Liba *et al* :sup:`(n.d.af)`
-report use of alemtuzumab in an 8-year-old child with a positive
-outcome.
+or those without a tumour. :sup:`26` Liba *et al* :sup:`32` report use
+of alemtuzumab in an 8-year-old child with a positive outcome.
 
 Treatment is generally thought to be more effective in patients who have
 an underlying tumour removed. Cases of ovarian teratomas discovered
 years after initial onset of symptoms have been described, particularly
-in patients who experienced a slow recovery. :sup:`(n.d.s)` Peery and
+in patients who experienced a slow recovery. :sup:`20` Peery and
 colleagues describe a case where oophorectomy was performed despite
 negative scan results and on postoperative biopsy an occult teratoma was
-revealed, with subsequent improvement in clinical symptoms.
-:sup:`(n.d.ag)`
+revealed, with subsequent improvement in clinical symptoms. :sup:`33`
 
 With respect to the immediate management of behavioural and psychotic
 symptoms, both typical and atypical, antipsychotics have been utilised.
@@ -341,20 +333,20 @@ autonomic instability and rigidity may be mistaken for neuroleptic
 malignant syndrome. In addition, use of corticosteroids may result in
 confusion with a steroid-induced psychosis. Clonidine, trazadone and
 benzodiazepines have been used successfully for reversal of sleep
-disturbance. :sup:`(n.d.ah)`
+disturbance. :sup:`34`
 
 Catatonic symptoms are typically treated with benzodiazepine medication.
 Doses of up to 20–30 mg of lorazepam daily have been used to manage
 symptoms in catatonia, although little has been published on its
-efficacy in anti-NMDA receptor encephalitis. :sup:`(n.d.ai)`
-Electroconvulsive therapy (ECT), though the gold standard for treatment
-of catatonia in the absence of a response to benzodiazepines, is little
-studied in the area of anti-NMDA receptor encephalitis. Case reports of
-catatonic symptom response in anti-NMDA receptor encephalitis have been
-described. :sup:`(n.d.aj)` Interestingly, in animal models of ECT
-action, an elevation of messenger ribonucleic acid (mRNA) of the NMDA
-subunits NR2A and NR2B has been demonstrated, leading to an
-up-regulation of the NMDA receptor. :sup:`(n.d.ak)`
+efficacy in anti-NMDA receptor encephalitis. :sup:`35` Electroconvulsive
+therapy (ECT), though the gold standard for treatment of catatonia in
+the absence of a response to benzodiazepines, is little studied in the
+area of anti-NMDA receptor encephalitis. Case reports of catatonic
+symptom response in anti-NMDA receptor encephalitis have been described.
+:sup:`36` Interestingly, in animal models of ECT action, an elevation of
+messenger ribonucleic acid (mRNA) of the NMDA subunits NR2A and NR2B has
+been demonstrated, leading to an up-regulation of the NMDA receptor.
+:sup:`37`
 
 .. _S9:
 
@@ -363,36 +355,35 @@ Prognosis
 
 According to Dalmau’s original case series, approximately 75% of
 patients with NMDA receptor antibodies recover or have mild sequelae;
-the other 25% have severe deficits or die. :sup:`(n.d.b)` Subsequent
-studies have identified a 12–24% risk of relapse.
-:sup:`(n.d.h),(n.d.ah),(n.d.ai)` Mortality of 7% at 24 months has been
-noted. :sup:`(n.d.d)` Other studies have noted that approximately 25% of
-patients at diagnosis give a history of one or more similar symptom
-episodes in the months preceding diagnosis, indicating a more relapsing
-and remitting course of illness than initially described. :sup:`(n.d.z)`
+the other 25% have severe deficits or die. :sup:`2` Subsequent studies
+have identified a 12–24% risk of relapse. :sup:`9,34,35` Mortality of 7%
+at 24 months has been noted. :sup:`4` Other studies have noted that
+approximately 25% of patients at diagnosis give a history of one or more
+similar symptom episodes in the months preceding diagnosis, indicating a
+more relapsing and remitting course of illness than initially described.
+:sup:`26`
 
-Titulaer *et al* :sup:`(n.d.d)` in a cohort study of 577 patients noted
-that first-line immunotherapy resulted in an improvement in 53% of
-patients in the first 4 weeks of treatment, 97% of whom showed a good
-outcome at 24 months. In the 47% of patients who did not respond to
-first-line treatment, those who received second-line immunotherapy (i.e.
-rituximab, cyclophosphamide or both) had better outcomes than those who
-continued first-line treatment or received no further immunotherapy.
-:sup:`(n.d.d)`
+Titulaer *et al* :sup:`4` in a cohort study of 577 patients noted that
+first-line immunotherapy resulted in an improvement in 53% of patients
+in the first 4 weeks of treatment, 97% of whom showed a good outcome at
+24 months. In the 47% of patients who did not respond to first-line
+treatment, those who received second-line immunotherapy (i.e. rituximab,
+cyclophosphamide or both) had better outcomes than those who continued
+first-line treatment or received no further immunotherapy. :sup:`4`
 
 Several prognostic factors are implicated. With respect to duration of
-illness and treatment outcome, Finke and colleagues :sup:`(n.d.al)`
+illness and treatment outcome, Finke and colleagues :sup:`38`
 demonstrated a better cognitive outcome in a small cohort of adult
 patients with anti-NMDA receptor encephalitis who were treated with
 immunomodulatory therapy within 3 months of disease’s onset compared
 with those who were treated at a later stage or not at all. The authors
 proposed that a delay in treatment may lead to permanent hippocampal
-damage, :sup:`(n.d.al)` yet the optimal time frame from onset of
-symptoms to treatment has yet to be determined.
+damage, :sup:`38` yet the optimal time frame from onset of symptoms to
+treatment has yet to be determined.
 
 Other identified predictors of outcome include: lower severity of
 symptoms, not requiring ICU admission, prompt initiation of
-immunotherapy and tumour removal where present. :sup:`(n.d.d),(n.d.am)`
+immunotherapy and tumour removal where present. :sup:`4,39`
 
 .. _S10:
 
@@ -425,213 +416,15 @@ patients receive a purely psychiatric psychotic diagnosis.
 It is clear that early identification and treatment may have serious
 prognostic implications. Delay to treatment with immunosuppressive
 therapy probably results in worsened outcomes, with evidence for
-permanent hippocampal damage. :sup:`(n.d.al)` Management may prove
-clinically challenging, from the perspective of treating both the cause
-and the symptoms. Initiation of antipsychotic treatment is not without
-risk in these patients and behavioural management may prove challenging.
+permanent hippocampal damage. :sup:`38` Management may prove clinically
+challenging, from the perspective of treating both the cause and the
+symptoms. Initiation of antipsychotic treatment is not without risk in
+these patients and behavioural management may prove challenging.
 
 Anti-NMDA receptor encephalitis is a potentially treatable form of
 psychiatric illness that is illuminating our understanding of the
 neuropathophysiology involved in some individuals who present with
 symptoms of psychosis.
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-R1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-R2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-R3
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-R4
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-R5
-
-      n.d.t.
-
-   .. container:: csl-entry
-      :name: ref-R6
-
-      n.d.e.
-
-   .. container:: csl-entry
-      :name: ref-R7
-
-      n.d.f.
-
-   .. container:: csl-entry
-      :name: ref-R8
-
-      n.d.g.
-
-   .. container:: csl-entry
-      :name: ref-R9
-
-      n.d.h.
-
-   .. container:: csl-entry
-      :name: ref-R10
-
-      n.d.i.
-
-   .. container:: csl-entry
-      :name: ref-R11
-
-      n.d.j.
-
-   .. container:: csl-entry
-      :name: ref-R12
-
-      n.d.k.
-
-   .. container:: csl-entry
-      :name: ref-R13
-
-      n.d.l.
-
-   .. container:: csl-entry
-      :name: ref-R14
-
-      n.d.m.
-
-   .. container:: csl-entry
-      :name: ref-R15
-
-      n.d.n.
-
-   .. container:: csl-entry
-      :name: ref-R16
-
-      n.d.o.
-
-   .. container:: csl-entry
-      :name: ref-R17
-
-      n.d.p.
-
-   .. container:: csl-entry
-      :name: ref-R18
-
-      n.d.q.
-
-   .. container:: csl-entry
-      :name: ref-R19
-
-      n.d.r.
-
-   .. container:: csl-entry
-      :name: ref-R20
-
-      n.d.s.
-
-   .. container:: csl-entry
-      :name: ref-R21
-
-      n.d.u.
-
-   .. container:: csl-entry
-      :name: ref-R22
-
-      n.d.v.
-
-   .. container:: csl-entry
-      :name: ref-R23
-
-      n.d.w.
-
-   .. container:: csl-entry
-      :name: ref-R24
-
-      n.d.x.
-
-   .. container:: csl-entry
-      :name: ref-R25
-
-      n.d.y.
-
-   .. container:: csl-entry
-      :name: ref-R26
-
-      n.d.z.
-
-   .. container:: csl-entry
-      :name: ref-R27
-
-      n.d.aa.
-
-   .. container:: csl-entry
-      :name: ref-R28
-
-      n.d.ab.
-
-   .. container:: csl-entry
-      :name: ref-R29
-
-      n.d.ac.
-
-   .. container:: csl-entry
-      :name: ref-R30
-
-      n.d.ad.
-
-   .. container:: csl-entry
-      :name: ref-R31
-
-      n.d.ae.
-
-   .. container:: csl-entry
-      :name: ref-R32
-
-      n.d.af.
-
-   .. container:: csl-entry
-      :name: ref-R33
-
-      n.d.ag.
-
-   .. container:: csl-entry
-      :name: ref-R34
-
-      n.d.ah.
-
-   .. container:: csl-entry
-      :name: ref-R35
-
-      n.d.ai.
-
-   .. container:: csl-entry
-      :name: ref-R36
-
-      n.d.aj.
-
-   .. container:: csl-entry
-      :name: ref-R37
-
-      n.d.ak.
-
-   .. container:: csl-entry
-      :name: ref-R38
-
-      n.d.al.
-
-   .. container:: csl-entry
-      :name: ref-R39
-
-      n.d.am.
 
 .. [1]
    **Helen Barry** is Consultant Psychiatrist, Department of Psychiatry,

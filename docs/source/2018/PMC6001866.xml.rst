@@ -2,6 +2,8 @@
 Sharing quality and safety improvement work in the field of mental health
 =========================================================================
 
+
+
 Amar Shah
 :Date: 2018-2
 
@@ -10,9 +12,9 @@ Amar Shah
    :depth: 3
 ..
 
-I welcome the findings of D'Lima, Crawford, Darzi and Archer(n.d.) on
-the relative scarcity of publications related to mental health quality
-and safety improvement within reputable quality and safety journals.
+I welcome the findings of D'Lima, Crawford, Darzi and Archer1 on the
+relative scarcity of publications related to mental health quality and
+safety improvement within reputable quality and safety journals.
 
 I agree with the authors’ proposition that there is increasing interest
 in the application of improvement science within the mental health
@@ -75,11 +77,3 @@ often puts people off from even submitting, I would also suggest that
 there is much more active improvement work taking place and being shared
 by mental health services globally than might be apparent from looking
 at high-quality peer-reviewed journals alone.
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-ref1
-
-      n.d.

@@ -2,6 +2,8 @@
 Naomi Richman, BM, FRCPsych
 ===========================
 
+
+
 Philip Graham
 :Date: 2019-4
 
@@ -20,7 +22,7 @@ Naomi Richman, who died recently at the age of 84, carried out
 pioneering studies on the prevalence of emotional and behaviour
 disorders in pre-school children in the 1970s and 1980s. She was the
 first author of a monograph published in 1982 *Preschool to School: A
-Behavioural Study*\ (n.d.). A review of this book began by quoting John
+Behavioural Study*\ 1. A review of this book began by quoting John
 Ruskin: ‘All books are divisible into two classes: books of the hour and
 books of all time’. There was no doubt into which category this
 monograph belonged, nor would her two co-authors – Jim Stevenson and I –
@@ -114,11 +116,3 @@ suffered from Alzheimer's disease. Not always an easy person, in her
 last years she became an altogether sunnier, more relaxed personality.
 Naomi died on 16 June 2018 and is survived by her niece, two nephews and
 three great-nephews.
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-ref1
-
-      n.d.

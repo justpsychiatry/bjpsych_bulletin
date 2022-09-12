@@ -2,6 +2,8 @@
 Weekday and seasonal patterns in psychiatric referrals in three major London A&E departments, 2012–2014
 =======================================================================================================
 
+
+
 James Dove
 Amit Mistry
 Nomi Werbeloff
@@ -50,47 +52,46 @@ Nora TurjanskiCorrespondence to James Dove (james.dove@nhs.net)
 ..
 
 Accident and emergency (A&E) departments in the UK are getting busier,
-with an estimated 50% increase in demand over the past 10 years.(n.d.a)
+with an estimated 50% increase in demand over the past 10 years.1
 Approximately 5% of A&E attendances are for treatment of a mental
-disorder.(n.d.b) An estimated 8% of all A&E attendances are by ‘chronic
-repeat attenders’; the most common reason for frequent attendance is an
-untreated mental health problem.(n.d.a)
+disorder.2 An estimated 8% of all A&E attendances are by ‘chronic repeat
+attenders’; the most common reason for frequent attendance is an
+untreated mental health problem.1
 
 The increased demands on A&E and the consequent impact on bed
 availability in acute trusts have been well studied, and a trend in peak
 pressures on A&E departments over the winter months has been
-established.(n.d.c)\ :sup:`,`\ (n.d.d) Although it is acknowledged that
-A&E attendances are generally lower in the winter months, patients are
+established.3\ :sup:`,`\ 4 Although it is acknowledged that A&E
+attendances are generally lower in the winter months, patients are
 likely to be more unwell, requiring admission that can lead to longer
-hospital stays and long waiting times in A&E – the ‘winter
-pressures’.(n.d.e) This phenomenon has attracted injections of
-short-term funding of staff and resources in an attempt to encourage
-flow through the system – including to liaison mental health teams.
+hospital stays and long waiting times in A&E – the ‘winter pressures’.5
+This phenomenon has attracted injections of short-term funding of staff
+and resources in an attempt to encourage flow through the system –
+including to liaison mental health teams.
 
 Public awareness of these pressures has led to a number of developments
 in recent years. These include the drive towards consultant-delivered
 care and, more recently, the ‘7-day National Health Service (NHS)’
-proposals made by Bruce Keogh initially in
-2013.(n.d.f)\ :sup:`,`\ (n.d.g) These initiatives are now supported by
-government policy following suggestions that, further to the pressures
-on NHS services, there may be a weekend effect in terms of increased
-morbidity and mortality.(n.d.h)
+proposals made by Bruce Keogh initially in 2013.6\ :sup:`,`\ 7 These
+initiatives are now supported by government policy following suggestions
+that, further to the pressures on NHS services, there may be a weekend
+effect in terms of increased morbidity and mortality.8
 
-A recent study by Patel *et al*\ (n.d.i) investigated the mortality
-relating to *psychiatric* weekend admissions and found no correlation
-between weekend admission and increased mortality. However, the study
-identified that those admitted at the weekend had shorter admissions and
-higher readmission rates, leading to the suggestion that there is a
-different population who are more likely to be admitted at weekends.
-There is little or no work looking at the fluctuation in presentation at
-the gateways to psychiatric admissions – of which A&E attendance is a
-major source.
+A recent study by Patel *et al*\ 9 investigated the mortality relating
+to *psychiatric* weekend admissions and found no correlation between
+weekend admission and increased mortality. However, the study identified
+that those admitted at the weekend had shorter admissions and higher
+readmission rates, leading to the suggestion that there is a different
+population who are more likely to be admitted at weekends. There is
+little or no work looking at the fluctuation in presentation at the
+gateways to psychiatric admissions – of which A&E attendance is a major
+source.
 
 Anecdotally, it is said that ‘major’ mental illness, i.e. bipolar
 affective disorder and schizophreniform disorders, have bimodal peaks in
-presentation of spring and autumn;(n.d.j)\ :sup:`,`\ (n.d.k) it might be
-assumed, therefore, that these would be peak admission times for
-psychiatric patients.
+presentation of spring and autumn;10\ :sup:`,`\ 11 it might be assumed,
+therefore, that these would be peak admission times for psychiatric
+patients.
 
 Here, we describe a study that analyses 3 years of referral data from
 three central London A&E departments to their psychiatric liaison teams,
@@ -123,13 +124,13 @@ Routine clinical data for this study was obtained from Camden &
 Islington (C&I) NHS Foundation Trust using the Clinical Record
 Interactive Search (CRIS) tool. CRIS is an application developed to
 enable routinely collected electronic health records to be used in
-research, using an explicit deidentification process.(n.d.l) C&I is a
-large mental health provider serving a geographic catchment area of two
+research, using an explicit deidentification process.12 C&I is a large
+mental health provider serving a geographic catchment area of two
 inner-city London boroughs, and approximately 440 000 residents. The
 database contains full but anonymised information from over 100 000
-mental health patients.(n.d.m) Studies using CRIS received ethical
-approval from the National Research Ethics Service (NRES) Committee East
-of England – Cambridge Central (14/EE/0177).
+mental health patients.13 Studies using CRIS received ethical approval
+from the National Research Ethics Service (NRES) Committee East of
+England – Cambridge Central (14/EE/0177).
 
 We conducted a retrospective cohort study of all A&E referrals to
 psychiatric liaison services across three London teaching hospitals
@@ -151,7 +152,7 @@ mental disorder is present after assessment.
 
 Discharge destination of liaison referral being admission to psychiatric
 hospital was used as a ‘proxy of severity’ of presentation, in common
-with other similar studies.(n.d.n)\ :sup:`–`\ (n.d.o)
+with other similar studies.14\ :sup:`–`\ 20
 
 Number of presentations of individual patients during the time period
 was also recorded, and those presenting ≥3 times in the study period
@@ -312,12 +313,11 @@ There is only limited evidence from this data set to support the concept
 of a defined seasonal variation in psychiatric presentation; despite the
 academic position that ‘major’ mental illness – bipolar affective
 disorder and schizophreniform disorders – have bimodal peaks in
-presentation of spring and autumn.(n.d.a) This phenomenon might,
-however, be able to explain the trend seen in our data of a shift in
-severity of illness when comparing the psychiatric population with the
-general acute hospital intake, with a peak of admission rates from
-winter to spring; however, there were no reliable data in this study on
-diagnosis.
+presentation of spring and autumn.1 This phenomenon might, however, be
+able to explain the trend seen in our data of a shift in severity of
+illness when comparing the psychiatric population with the general acute
+hospital intake, with a peak of admission rates from winter to spring;
+however, there were no reliable data in this study on diagnosis.
 
 This study demonstrates an increased presentation of mental health
 problems to A&E, and increased severity of those presentations, during
@@ -386,84 +386,6 @@ Psychiatric Epidemiology at Division of Psychiatry, Faculty of Brain
 Sciences, UCL and a Consultant Psychiatrist at Camden & Islington NHS
 Foundation Trust. **Nora Turjanski** is a Consultant Liaison
 Psychiatrist at Camden & Islington NHS Foundation Trust.
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-ref1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-ref2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-ref3
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-ref4
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-ref5
-
-      n.d.e.
-
-   .. container:: csl-entry
-      :name: ref-ref6
-
-      n.d.f.
-
-   .. container:: csl-entry
-      :name: ref-ref7
-
-      n.d.g.
-
-   .. container:: csl-entry
-      :name: ref-ref8
-
-      n.d.h.
-
-   .. container:: csl-entry
-      :name: ref-ref9
-
-      n.d.i.
-
-   .. container:: csl-entry
-      :name: ref-ref10
-
-      n.d.j.
-
-   .. container:: csl-entry
-      :name: ref-ref11
-
-      n.d.k.
-
-   .. container:: csl-entry
-      :name: ref-ref12
-
-      n.d.l.
-
-   .. container:: csl-entry
-      :name: ref-ref13
-
-      n.d.m.
-
-   .. container:: csl-entry
-      :name: ref-ref14
-
-      n.d.n.
-
-   .. container:: csl-entry
-      :name: ref-ref20
-
-      n.d.o.
 
 .. [1]
    a. Data on ethnicity missing for 1726 (17.2%) participants.

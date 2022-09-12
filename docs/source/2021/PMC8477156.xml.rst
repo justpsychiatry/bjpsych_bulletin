@@ -2,6 +2,8 @@
 Raymond Tallis
 ==============
 
+
+
 Abdi Sanati [1]_
 :Date: 2021-10
 
@@ -16,11 +18,11 @@ He is an Emeritus Professor of Geriatric Medicine, poet, novelist,
 philosopher and cultural critic. He has published numerous books and
 articles in different fields, including his regular contribution to
 *Philosophy Now* under the title of Tallis in Wonderland. I first came
-across his work in his book *Aping Mankind*.\ :sup:`(n.d.a)` Professor
-Tallis is politically active and his co-edited book *NHS
-SOS*,\ :sup:`(n.d.b)` written at the time of Andrew Lansley's
-reorganisation of the NHS, continues to be relevant. I met Professor
-Tallis virtually in the middle of the lockdown.
+across his work in his book *Aping Mankind*.\ :sup:`1` Professor Tallis
+is politically active and his co-edited book *NHS SOS*,\ :sup:`2`
+written at the time of Andrew Lansley's reorganisation of the NHS,
+continues to be relevant. I met Professor Tallis virtually in the middle
+of the lockdown.
 
 **Professor Tallis, thank you for your time. In the Royal College of
 Psychiatrists, we recently had a kind of surge in neuroscience and I
@@ -105,9 +107,9 @@ neuroscience has solved the problem; there is no such thing as free
 will. What is your opinion on that?**
 
 You will not be surprised to know what my opinion is. I have just
-finished a book on free will.\ :sup:`(n.d.c)` I devoted a section to
-so-called neurodeterminism and to the neurological experiments that are
-supposed to demonstrate that we do not have free will.
+finished a book on free will.\ :sup:`3` I devoted a section to so-called
+neurodeterminism and to the neurological experiments that are supposed
+to demonstrate that we do not have free will.
 
 It is worthwhile looking at the most famous ones conducted by Benjamin
 Libet, 30 or more years ago, but repeated many times since in different
@@ -222,8 +224,8 @@ that temporal depth, which doesn't exist in the material world, there
 will be no such thing as meaningful intentional action.
 
 **There is another topic I wanted to discuss. I think in 2012, you
-edited a book with Jacky Davis called NHS SOS.** :sup:`(n.d.b)` **How do
-you see the progress and development of the NHS since then?**
+edited a book with Jacky Davis called NHS SOS.** :sup:`2` **How do you
+see the progress and development of the NHS since then?**
 
 I have spent an awful lot of time in the intervening 8 or 9 years,
 marching, waving banners, writing to MPs and so on, though not in the
@@ -243,7 +245,7 @@ things that are outsourced to the private sector, incredibly expensive,
 totally wasteful, and things that have remained within the NHS and have
 been very successful.
 
-**Yes, we have this new White Paper** (n.d.d) **that wants to integrate
+**Yes, we have this new White Paper** 4 **that wants to integrate
 cooperation instead of competition. I might well be wrong but I don't
 think competition worked.**
 
@@ -264,9 +266,9 @@ the system could be run from outside the NHS, even from an American
 firm. We can see how real this possibility is by the gigantic
 privatisation initiative that is the disastrous Test and Trace. And the
 recent takeover of nearly 50 general practices in London by Centene in
-the past few weeks.\ :sup:`(n.d.e)` So, whereas I like the overall
-principles in the White Paper, I worry that it could be the opportunity
-for the biggest privatisation of all.
+the past few weeks.\ :sup:`5` So, whereas I like the overall principles
+in the White Paper, I worry that it could be the opportunity for the
+biggest privatisation of all.
 
 **There is a risk of that. And one thing I have observed is the amount
 of bureaucracy. That is exponentially growing. People talk about being
@@ -279,7 +281,7 @@ health services than in the NHS as it was. We are still a long way
 behind, for example, the USA in terms of the proportion of our funding
 that is spent on administration, but the internal market and the
 external market with compulsory competitive tendering has closed the
-gap. So, one would hope that the new White Paper\ :sup:`(n.d.d)` would
+gap. So, one would hope that the new White Paper\ :sup:`4` would
 genuinely liberate funds, taking them away from bureaucracy and
 administration and bring them back to the front line of clinical care.
 But there's no doubt about it – if we have a systemic privatisation,
@@ -292,34 +294,6 @@ healthcare, and they have a worse system. Many US citizens have only
 minimal healthcare coverage.
 
 **Thank you very much for your time.**
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-ref1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-ref2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-ref3
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-ref4
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-ref5
-
-      n.d.e.
 
 .. [1]
    **Abdi Sanati meets Professor Raymond Tallis**, Emeritus Professor of

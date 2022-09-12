@@ -2,6 +2,8 @@
 Training in quality improvement for the next generation of psychiatrists
 ========================================================================
 
+
+
 Elizabeth Ewins
 Rob Macpherson
 Geoff van der Linden
@@ -32,19 +34,19 @@ Stephen ArnottCorrespondence to Elizabeth Ewins (elizabethewins@nhs.net)
 
 Foundation doctors and core medical trainees are being trained to
 undertake quality improvement (QI) projects and are doing so competently
-and effectively.\ :sup:`(n.d.a),(n.d.b)` QI projects have been embedded
-in the Foundation Programme curriculum,\ :sup:`(n.d.c)` with an
-expectation that trainees plan, implement, complete and present a QI
-project as part of their training, using the results to improve patient
-care. QI projects have been widely adopted across medicine and are in
-many areas superseding traditional audit as a way to develop services.
-However, the development of this methodology has been slower in the
-mental health field and QI projects are new to most psychiatrists. Here
-we outline and summarise in simple steps how to undertake a QI project.
-We also describe our cross-deanery project led in Avon and Wiltshire
-Mental Health Partnership NHS Trust and the Severn School of Psychiatry,
-which aims to train and support psychiatrists of the future to become
-actively engaged in QI projects.
+and effectively.\ :sup:`1,2` QI projects have been embedded in the
+Foundation Programme curriculum,\ :sup:`3` with an expectation that
+trainees plan, implement, complete and present a QI project as part of
+their training, using the results to improve patient care. QI projects
+have been widely adopted across medicine and are in many areas
+superseding traditional audit as a way to develop services. However, the
+development of this methodology has been slower in the mental health
+field and QI projects are new to most psychiatrists. Here we outline and
+summarise in simple steps how to undertake a QI project. We also
+describe our cross-deanery project led in Avon and Wiltshire Mental
+Health Partnership NHS Trust and the Severn School of Psychiatry, which
+aims to train and support psychiatrists of the future to become actively
+engaged in QI projects.
 
 .. _S1:
 
@@ -68,24 +70,23 @@ understood. Audit is also generally about quality improvement, beginning
 with identifying an audit subject, selecting audit standards and
 measuring the level of performance, then making improvements and
 re-auditing (`Fig. 1 <#F1>`__). The focus is therefore on data
-collection.\ :sup:`(n.d.d)` This area of practice has been criticised,
-as often the audit cycle has been left incomplete and the improvement
-part of the cycle left neglected.\ :sup:`(n.d.e),(n.d.f)` QI projects
-are advantageously placed as they can be seen as part of the improvement
-element of the audit cycle, where the focus of the project is explicitly
-on making a service improvement instead of collecting
-data.\ :sup:`(n.d.g)` Although more complex than an audit, QI projects
-focus on changing complex adaptive systems and can empower doctors to
-investigate problems, identify solutions and work within a team to raise
-standards.
+collection.\ :sup:`4` This area of practice has been criticised, as
+often the audit cycle has been left incomplete and the improvement part
+of the cycle left neglected.\ :sup:`5,6` QI projects are advantageously
+placed as they can be seen as part of the improvement element of the
+audit cycle, where the focus of the project is explicitly on making a
+service improvement instead of collecting data.\ :sup:`7` Although more
+complex than an audit, QI projects focus on changing complex adaptive
+systems and can empower doctors to investigate problems, identify
+solutions and work within a team to raise standards.
 
 .. figure:: 46f1
    :alt: Representation of the traditional audit cycle (based on
-   Benjamin\ :sup:`(n.d.h)`).
+   Benjamin\ :sup:`8`).
    :name: F1
 
    Representation of the traditional audit cycle (based on
-   Benjamin\ :sup:`(n.d.h)`).
+   Benjamin\ :sup:`8`).
 
 .. _S2:
 
@@ -110,19 +111,19 @@ in an entire hospital or trust. Depending on complexity, the projects
 can be undertaken within a 6-month training post.
 
 The Institute for Healthcare Improvement recommend asking three
-questions\ :sup:`(n.d.i)` based on the ‘model for improvement’ when
-planning a project: What are you trying to accomplish? This helps to set
-the aim of the project, which should be SMART (specific, measurable,
-achievable, realistic and timely).How will you know that a change is an
-improvement? This helps to think about what can be measured to
-illustrate the impact of the change. What would be an easy measurement?
-This needs to be done at baseline and then repeated at regular intervals
-so that the change can lead to learning and to show that it works.What
-changes can we make that will result in improvement? Possible ideas of
-changes to implement to make an improvement can be brainstormed. The
-current sequence of events already used can be examined and areas for
-improvement identified, for example by eliminating unnecessary tasks or
-steps, clarifying roles within the process, or by reducing delays and
+questions\ :sup:`9` based on the ‘model for improvement’ when planning a
+project: What are you trying to accomplish? This helps to set the aim of
+the project, which should be SMART (specific, measurable, achievable,
+realistic and timely).How will you know that a change is an improvement?
+This helps to think about what can be measured to illustrate the impact
+of the change. What would be an easy measurement? This needs to be done
+at baseline and then repeated at regular intervals so that the change
+can lead to learning and to show that it works.What changes can we make
+that will result in improvement? Possible ideas of changes to implement
+to make an improvement can be brainstormed. The current sequence of
+events already used can be examined and areas for improvement
+identified, for example by eliminating unnecessary tasks or steps,
+clarifying roles within the process, or by reducing delays and
 duplication.
 
 .. _S3:
@@ -132,20 +133,20 @@ Testing changes: the ‘plan, do, study, act’ (PDSA) cycle
 
 The ‘plan, do, study, act’ (PDSA) cycles can be used as a way to
 develop, test and then implement a change on a small scale and in a real
-work setting (`Fig. 2 <#F2>`__).\ :sup:`(n.d.i),(n.d.j)` Multiple PDSA
-cycles will be required to fully implement a QI project.
+work setting (`Fig. 2 <#F2>`__).\ :sup:`9,10` Multiple PDSA cycles will
+be required to fully implement a QI project.
 
 .. figure:: 46f2
    :alt: The model for improvement is used as a framework to structure a
    quality improvement project (it includes going through several ‘plan,
-   do, study, act’ (PDSA) cycles).\ :sup:`(n.d.i)` Based on Langley et
-   al.\ :sup:`(n.d.k)`
+   do, study, act’ (PDSA) cycles).\ :sup:`9` Based on Langley et
+   al.\ :sup:`11`
    :name: F2
 
    The model for improvement is used as a framework to structure a
    quality improvement project (it includes going through several ‘plan,
-   do, study, act’ (PDSA) cycles).\ :sup:`(n.d.i)` Based on Langley et
-   al.\ :sup:`(n.d.k)`
+   do, study, act’ (PDSA) cycles).\ :sup:`9` Based on Langley et
+   al.\ :sup:`11`
 
 .. _S4:
 
@@ -218,8 +219,8 @@ Stage 3: study
 The third stage involves analysing collected data and comparing that
 with the predictions made. A graphical representation of the
 measurements taken can be a useful way of plotting results to illustrate
-the pattern observed as changes are made.\ :sup:`(n.d.l)` A goal line
-can be shown so one can see at a glance where the work is in relation to
+the pattern observed as changes are made.\ :sup:`12` A goal line can be
+shown so one can see at a glance where the work is in relation to
 achieving the aim. Changes or improvements that are made (in repeated
 PDSA cycles) can annotate the graph to clearly demonstrate the impact of
 those changes (`Fig. 4 <#F4>`__).
@@ -280,19 +281,18 @@ involved in either an audit or a QI project each year, and if an audit
 is undertaken trainees are encouraged to use QI methodology for the
 implementation of change part of the cycle. The structure of training
 and supporting trainees to undertake their own QI projects was adapted
-from the local Foundation School\ :sup:`(n.d.a)` and the Royal College
-of Physician's ‘Learning to make a difference’
-programme.\ :sup:`(n.d.b)` A half-day training session was developed to
-teach trainees about QI and project methodology, including using PDSA
-cycles in practical examples, so that they could undertake their own
-projects. This was delivered by E.E. alongside the local trust audit and
-QI department lead. Trainees were encouraged to come up with their own
-ideas for projects and to work with other trainees to implement changes,
-under the supervision of a higher trainee, specialty doctor or
-consultant. They were supported in including the wider multidisciplinary
-team in developing and implementing projects, as it was felt that this
-would be more likely to lead to successful and sustainable changes being
-made.
+from the local Foundation School\ :sup:`1` and the Royal College of
+Physician's ‘Learning to make a difference’ programme.\ :sup:`2` A
+half-day training session was developed to teach trainees about QI and
+project methodology, including using PDSA cycles in practical examples,
+so that they could undertake their own projects. This was delivered by
+E.E. alongside the local trust audit and QI department lead. Trainees
+were encouraged to come up with their own ideas for projects and to work
+with other trainees to implement changes, under the supervision of a
+higher trainee, specialty doctor or consultant. They were supported in
+including the wider multidisciplinary team in developing and
+implementing projects, as it was felt that this would be more likely to
+lead to successful and sustainable changes being made.
 
 Training was initially targeted at trainees, but a growing number of
 specialist doctors and consultants requested to attend and they were
@@ -514,69 +514,6 @@ We are grateful to Janet Brandling and Emma Adams (AWP Quality Academy),
 Bridget Kelly (AWP Medical Education Project Manager) and Katherine
 Finucane (Consultant and QIP Lead, North Bristol Trust) for guidance and
 support in developing QI projects across the Severn Deanery.
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-R1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-R2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-R3
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-R4
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-R5
-
-      n.d.e.
-
-   .. container:: csl-entry
-      :name: ref-R6
-
-      n.d.f.
-
-   .. container:: csl-entry
-      :name: ref-R7
-
-      n.d.g.
-
-   .. container:: csl-entry
-      :name: ref-R8
-
-      n.d.h.
-
-   .. container:: csl-entry
-      :name: ref-R9
-
-      n.d.i.
-
-   .. container:: csl-entry
-      :name: ref-R10
-
-      n.d.j.
-
-   .. container:: csl-entry
-      :name: ref-R11
-
-      n.d.k.
-
-   .. container:: csl-entry
-      :name: ref-R12
-
-      n.d.l.
 
 .. [1]
    **Elizabeth Ewins** is an ST6 dual trainee in general adult and older

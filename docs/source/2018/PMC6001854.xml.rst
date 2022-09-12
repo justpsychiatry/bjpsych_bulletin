@@ -2,6 +2,8 @@
 A review and update of the Health of the Nation Outcome Scales (HoNOS)
 ======================================================================
 
+
+
 Mick James
 Jon Painter
 Bill Buckingham
@@ -47,7 +49,7 @@ Malcolm W. StewartCorrespondence to Mick James via
    :depth: 3
 ..
 
-The Health of the Nation Outcome Scales (HoNOS)(n.d.a) is a 12-scale
+The Health of the Nation Outcome Scales (HoNOS)1 is a 12-scale
 clinician-rated measure developed by the Royal College of Psychiatrists
 to guide everyday clinical practice and measure health and social care
 outcomes in secondary care mental health services for working-age adults
@@ -56,31 +58,29 @@ routine use and acceptable to a range of mental health
 professionals(2)have adequate coverage of clinical and social
 functions(3)be sensitive to improvement, deterioration or lack of change
 over time(4)have demonstrable and acceptable reliability(5)have a known
-relationship with more established scales.(n.d.b)Over its 20-year
-lifespan, the HoNOS has demonstrated adequate reliability, validity,
-clinical utility(n.d.b)\ :sup:`,`\ (n.d.c) and sensitivity to
-change.(n.d.d)\ :sup:`,`\ (n.d.e) Subsequent to its development, a
-family of related measures have been developed for different age groups
-and clinical populations.(n.d.f)\ :sup:`–`\ (n.d.g) The HoNOS has been
-translated into at least 12 other languages and is routinely used in
-clinical practice and research around the world. England, Australia and
-New Zealand, have also mandated the HoNOS for routine monitoring and
-outcome measurement across their mental health services at a national
-level.(n.d.h)\ :sup:`–`\ (n.d.i)
+relationship with more established scales.2Over its 20-year lifespan,
+the HoNOS has demonstrated adequate reliability, validity, clinical
+utility2\ :sup:`,`\ 3 and sensitivity to change.4\ :sup:`,`\ 5
+Subsequent to its development, a family of related measures have been
+developed for different age groups and clinical
+populations.6\ :sup:`–`\ 8 The HoNOS has been translated into at least
+12 other languages and is routinely used in clinical practice and
+research around the world. England, Australia and New Zealand, have also
+mandated the HoNOS for routine monitoring and outcome measurement across
+their mental health services at a national level.9\ :sup:`–`\ 12
 
 Although the basic soundness of the instrument is recognised, two
 decades of training, routine use and analysis of the resultant data,
 together with substantial advances in psychiatry and mental health
 services, have shown that updates to the supporting documentation are
-required to improve use of the
-HoNOS.(n.d.c)\ :sup:`,`\ (n.d.d)\ :sup:`,`\ (n.d.j) As copyright holder
-for the HoNOS family of measures, the Royal College of Psychiatrists
-elected to undertake a limited review (rather than a full redevelopment
-and revalidation) that aimed to use expert opinion to improve the
-utility of the HoNOS in contemporary mental healthcare, while remaining
-true to its original aims and maintaining comparability with existing
-HoNOS data-sets. This paper outlines the review process, its scope, the
-issues identified and the set of revised scales.
+required to improve use of the HoNOS.3\ :sup:`,`\ 4\ :sup:`,`\ 13 As
+copyright holder for the HoNOS family of measures, the Royal College of
+Psychiatrists elected to undertake a limited review (rather than a full
+redevelopment and revalidation) that aimed to use expert opinion to
+improve the utility of the HoNOS in contemporary mental healthcare,
+while remaining true to its original aims and maintaining comparability
+with existing HoNOS data-sets. This paper outlines the review process,
+its scope, the issues identified and the set of revised scales.
 
 .. _sec1:
 
@@ -88,14 +88,14 @@ Method
 ======
 
 In recognition of each country's mandated use of HoNOS at a national
-level,(n.d.h)\ :sup:`–`\ (n.d.i) and to ensure their interests were
-incorporated, an advisory board (chaired by the Royal College of
-Psychiatrists' national HoNOS advisor) was drawn from representatives
-from England, Australia and New Zealand. Nominations from the respective
-national governments were made, with members being required to have
-extensive experience in either: HoNOS staff training; using HoNOS in
-practice; using HoNOS data at a macro level; or providing oversight at
-service, professional or governmental level.
+level,9\ :sup:`–`\ 12 and to ensure their interests were incorporated,
+an advisory board (chaired by the Royal College of Psychiatrists'
+national HoNOS advisor) was drawn from representatives from England,
+Australia and New Zealand. Nominations from the respective national
+governments were made, with members being required to have extensive
+experience in either: HoNOS staff training; using HoNOS in practice;
+using HoNOS data at a macro level; or providing oversight at service,
+professional or governmental level.
 
 Advisory board members were asked to use their professional networks to
 canvas widely for clinicians' opinions regarding aspects of the tool
@@ -104,27 +104,26 @@ covering each scale (as well as the overall rating guidelines) was
 provided, which, when collated, acted as a review template (`Table
 1 <#tab01>`__). The board also considered the evidence and
 recommendations previously prepared in the review by Trauer and
-Buckingham(n.d.c) commissioned by the Australian Government Department
-of Health. Table 1Summary of issues raisedScale/SectionIssues
-recommended for considerationOverall rating guidelines •Need additional
-guidance about incorporating cultural factors into ratings•Improve
-clarity of the scoring system in relation to clinical
-significance•Improve clarity regarding what is to be rated (i.e., most
-severe problem or usual level of difficulty in past 2 weeks)•Clarity
-about when the scales should be usedScale 1. Overactive, aggressive,
-disruptive or agitated behaviour •Ensure all four behaviours are
-considered and clarify how many need to be present•Clarify to what
-extent behaviours here should be related to mental health
-problems•Provide guidance about how to address relevant cultural factors
-and context•Consider adding expansive mood as underrepresented by Scale
-8Scale 2. Non-Accidental self-injury •How to address relevant cultural
-factors and context•Clarify that this is not an assessment of
-risk•High-risk thoughts/intentions currently underrated relative to
-overall severity•Increase consistency of dimensions of risk considered
-at different levels.Scale 3. Problem drinking or drug-taking •Provide
-clarity on the rating of tobacco use•Clarify how behaviours associated
-with addiction are rated•Improve clarity of rating for binge drinking
-and the reference to social norms that can lead to subjective
+Buckingham3 commissioned by the Australian Government Department of
+Health. Table 1Summary of issues raisedScale/SectionIssues recommended
+for considerationOverall rating guidelines •Need additional guidance
+about incorporating cultural factors into ratings•Improve clarity of the
+scoring system in relation to clinical significance•Improve clarity
+regarding what is to be rated (i.e., most severe problem or usual level
+of difficulty in past 2 weeks)•Clarity about when the scales should be
+usedScale 1. Overactive, aggressive, disruptive or agitated behaviour
+•Ensure all four behaviours are considered and clarify how many need to
+be present•Clarify to what extent behaviours here should be related to
+mental health problems•Provide guidance about how to address relevant
+cultural factors and context•Consider adding expansive mood as
+underrepresented by Scale 8Scale 2. Non-Accidental self-injury •How to
+address relevant cultural factors and context•Clarify that this is not
+an assessment of risk•High-risk thoughts/intentions currently underrated
+relative to overall severity•Increase consistency of dimensions of risk
+considered at different levels.Scale 3. Problem drinking or drug-taking
+•Provide clarity on the rating of tobacco use•Clarify how behaviours
+associated with addiction are rated•Improve clarity of rating for binge
+drinking and the reference to social norms that can lead to subjective
 rating•Clarify how ratings should take into consideration people on
 substitution programmes (e.g. methadone)Scale 4. Cognitive problems
 •Clarify where formal thought disorder and a lack of insight should be
@@ -185,10 +184,10 @@ include information already rated in an earlier item•rate the most
 severe problem/worst manifestation from the preceding 2 weeks•a problem
 is rated according to the degree of distress caused and/or its effects
 on behaviour•must be rated by a mental health professional trained in
-clinical assessment•rate problems regardless of cause.(n.d.b)Some
-changes identified had consequences/implications for other items, and
-hence an iterative process of minuted teleconference and email
-discussions evolved, between October 2014 and January 2016.
+clinical assessment•rate problems regardless of cause.2Some changes
+identified had consequences/implications for other items, and hence an
+iterative process of minuted teleconference and email discussions
+evolved, between October 2014 and January 2016.
 
 Following review of the HoNOS documentation, a review of HoNOS 65+ was
 also undertaken through to October 2016. This presented an opportunity
@@ -221,10 +220,9 @@ use, based on considerable experience of training and routine clinical
 use, advisory board members universally agreed that the original rating
 instructions erred on brevity at the expense of clarity. They also
 recognised that the frequency, duration and quality of training varies
-significantly.(n.d.c)\ :sup:`,`\ (n.d.k) Therefore, to improve
-interrater agreement (but not to replace formal training), existing
-training materials and protocols were reviewed and, in many cases,
-incorporated.
+significantly.3\ :sup:`,`\ 14 Therefore, to improve interrater agreement
+(but not to replace formal training), existing training materials and
+protocols were reviewed and, in many cases, incorporated.
 
 The first notable augmentation was to legitimise the informal training
 advice that ratings of 0–1 should be viewed as subclinical, whereas
@@ -235,26 +233,26 @@ Second, the original guidance stipulated that behaviours/problems should
 be rated regardless of cause (i.e. irrespective of psychiatric disorder)
 but was silent on the rating of issues deemed normal in an individual's
 culture/subculture. Issues for which the ratings may be affected by
-cultural and contextual factors have been previously identified(n.d.c)
-and include culturally sanctioned aggression (Scale 1), self-harm
-associated with religious ceremonies or periods of mourning (Scale 2),
-paranormal experiences associated with cultural beliefs or events (Scale
-6), and the expression of sadness associated with bereavement (Scale 7).
-None of these are attributable to mental health problems and, if rated,
-would produce a misleading clinical picture. Therefore, although
-cultural competence remains a prerequisite to good-quality clinical
-assessment (and thus accurate ratings), there is now an explicit
-expectation that an individual's culture should be taken into account.
-This debate also raised a wider question for the advisory board about
-how attributable to mental ill health behaviours needed to be before
-they should be included, an issue that was carried into amendments to
-several individual scales.
+cultural and contextual factors have been previously identified3 and
+include culturally sanctioned aggression (Scale 1), self-harm associated
+with religious ceremonies or periods of mourning (Scale 2), paranormal
+experiences associated with cultural beliefs or events (Scale 6), and
+the expression of sadness associated with bereavement (Scale 7). None of
+these are attributable to mental health problems and, if rated, would
+produce a misleading clinical picture. Therefore, although cultural
+competence remains a prerequisite to good-quality clinical assessment
+(and thus accurate ratings), there is now an explicit expectation that
+an individual's culture should be taken into account. This debate also
+raised a wider question for the advisory board about how attributable to
+mental ill health behaviours needed to be before they should be
+included, an issue that was carried into amendments to several
+individual scales.
 
 Consideration was given to what terms should be used to describe people
 who use mental health services, their significant others, and staff.
 This, in part, reflected moves from the recovery perspective and the
 mental health consumer movement to minimise the extent to which language
-used is pathologising and pejorative.(n.d.l) Discussion indicated that
+used is pathologising and pejorative.15 Discussion indicated that
 terminology varied between countries, over time and between groups
 within countries. Given the lack of consistency, the decision was made
 to retain the term patient to denote a person who uses mental health
@@ -268,13 +266,13 @@ Scale 1 Overactive or aggressive or disruptive or agitated behaviour
 
 It was recognised that while item 1 has a broader scope than most
 others, clinicians focus primarily on the aggressive elements of the
-scale.(n.d.c) The case for creating a separate item for this aspect
-alone was judged to be a more fundamental change than the current
-review's scope could support. Instead, the item description was revised
-to emphasise the need to consider all four aspects. The issue of
-culturally sanctioned aggression in the context of ritual was felt to
-have been addressed in the overarching rating guidance, hence the scale
-remaining diagnosis-agnostic.
+scale.3 The case for creating a separate item for this aspect alone was
+judged to be a more fundamental change than the current review's scope
+could support. Instead, the item description was revised to emphasise
+the need to consider all four aspects. The issue of culturally
+sanctioned aggression in the context of ritual was felt to have been
+addressed in the overarching rating guidance, hence the scale remaining
+diagnosis-agnostic.
 
 .. _sec3-1-2:
 
@@ -284,7 +282,7 @@ Scale 2 Non-accidental self-injury
 Revisions here were intended to provide consistency of examples across
 the severity ratings (covering risks and thoughts as well as
 behaviours). Cultural influences (e.g. ritual self-flagellation
-commonplace in some religions(n.d.m)) continue to require a culturally
+commonplace in some religions16) continue to require a culturally
 competent clinician and reference to the overarching guidance.
 
 .. _sec3-1-3:
@@ -296,26 +294,26 @@ As with Scale 2, changes now provide consistent descriptions of key
 elements of addictive behaviours, with each level describing aspects of
 craving, dependency and behaviour that align to contemporary notions of
 severity (e.g. National Institute for Health and Care Excellence
-guidance(n.d.n)). The more subjective aspects of the original scales
-(e.g. ‘within social norms’ and ‘loss of control’) have been removed,
-and there is an increased emphasis on the psychological effects of drug
-and alcohol use. This ensures that, during periods of enforced
-abstinence (e.g. hospital admissions), the severity of addiction can
-still be captured.
+guidance17). The more subjective aspects of the original scales (e.g.
+‘within social norms’ and ‘loss of control’) have been removed, and
+there is an increased emphasis on the psychological effects of drug and
+alcohol use. This ensures that, during periods of enforced abstinence
+(e.g. hospital admissions), the severity of addiction can still be
+captured.
 
 Finally, the advisory board, while fully acknowledging the harmful
-effects of tobacco use,(n.d.o) agreed to explicitly exclude smoking from
-this scale – a significant decision that warrants further explanation.
-First, as per the original text, the physiological consequences of
-smoking will continue to be captured by Scale 5. Second, the prevalence
-of smoking in people with mental health conditions is approximately
-twice the norm,(n.d.p) creating a ‘shadowing effect’ that can detract
-from the scale's clinical utility. There are, of course, more extreme
-scenarios where, for example, individuals render themselves vulnerable
-to exploitation through their attempts to obtain cigarettes. The new
-guidance therefore excludes dependence on tobacco unless there are
-severe and adverse consequences above and beyond the known detrimental
-effects to physical health.
+effects of tobacco use,18 agreed to explicitly exclude smoking from this
+scale – a significant decision that warrants further explanation. First,
+as per the original text, the physiological consequences of smoking will
+continue to be captured by Scale 5. Second, the prevalence of smoking in
+people with mental health conditions is approximately twice the norm,19
+creating a ‘shadowing effect’ that can detract from the scale's clinical
+utility. There are, of course, more extreme scenarios where, for
+example, individuals render themselves vulnerable to exploitation
+through their attempts to obtain cigarettes. The new guidance therefore
+excludes dependence on tobacco unless there are severe and adverse
+consequences above and beyond the known detrimental effects to physical
+health.
 
 .. _sec3-1-4:
 
@@ -325,14 +323,14 @@ Scale 4 Cognitive problems
 Feedback suggested that Scale 4 was too heavily orientated towards
 dementia and, even then, some of the examples were deemed unhelpful.
 Revisions were therefore undertaken in two stages. Initially, with
-reference to other versions of HoNOS,(n.d.g)\ :sup:`,`\ (n.d.q) the
-narrow focus on dementia was broadened to incorporate issues such as
-formal thought disorder and the ability to learn. Through this process,
-the reported ‘excessive jump’ between ratings of 2 and 3 was also
-addressed. Then, in parallel with the HoNOS 65+ review, the descriptions
-were adjusted further. This led to improved alignment between the HoNOS
-and HoNOS 65+ cognitive scales, but complete alignment was regarded as
-too radical a change.
+reference to other versions of HoNOS,8\ :sup:`,`\ 20 the narrow focus on
+dementia was broadened to incorporate issues such as formal thought
+disorder and the ability to learn. Through this process, the reported
+‘excessive jump’ between ratings of 2 and 3 was also addressed. Then, in
+parallel with the HoNOS 65+ review, the descriptions were adjusted
+further. This led to improved alignment between the HoNOS and HoNOS 65+
+cognitive scales, but complete alignment was regarded as too radical a
+change.
 
 .. _sec3-1-5:
 
@@ -370,14 +368,14 @@ Scale 8 Other mental and behavioural problems
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The frequency with which anxiety is rated within this
-scale(n.d.c)\ :sup:`,`\ (n.d.r) has resulted in calls for its promotion
-to that of a scale in its own right. While this proposal has merit, it
-was deemed a substantial change and thus out of scope for inclusion in
-this work. The possibility of rating multiple issues on this scale was
-also discussed, but would again affect comparability with existing data,
-contradict the ‘rate the worst’ rule and overly complicate the rating
-guidance for relatively little benefit. As a result, these two proposals
-were reserved for a more extensive review should the opportunity arise.
+scale3\ :sup:`,`\ 10 has resulted in calls for its promotion to that of
+a scale in its own right. While this proposal has merit, it was deemed a
+substantial change and thus out of scope for inclusion in this work. The
+possibility of rating multiple issues on this scale was also discussed,
+but would again affect comparability with existing data, contradict the
+‘rate the worst’ rule and overly complicate the rating guidance for
+relatively little benefit. As a result, these two proposals were
+reserved for a more extensive review should the opportunity arise.
 
 HoNOS trainers reported frequently being asked where elated mood should
 be rated. There was a suspicion that it was often captured under the
@@ -388,8 +386,8 @@ has not been reused to avoid potential confusion between data-sets
 collated from the use of the original HoNOS and this revised version).
 
 Based again on training experiences, while options A–I have been
-retained, each has been supplemented with explanatory text. DSM-5(n.d.s)
-was the genesis for these additions, but descriptors have been heavily
+retained, each has been supplemented with explanatory text. DSM-521 was
+the genesis for these additions, but descriptors have been heavily
 edited to ensure they described presenting needs/problems rather than
 merely reflecting diagnostic criteria. This clearly challenged the core
 principle of brevity but was felt to be outweighed by the benefits
@@ -414,9 +412,9 @@ patient is receiving. The considerably more complex and granular
 approach that might be required to accommodate the occasional problems
 experienced when rating patients whose complex skills are intact, but
 whose self-care skills are not, was also considered. The approach used
-by the tabulated version of the HoNOS 65+(n.d.t) was suggested as a
-possible model to accommodate this, but was deemed to represent a
-substantial change and hence rejected.
+by the tabulated version of the HoNOS 65+22 was suggested as a possible
+model to accommodate this, but was deemed to represent a substantial
+change and hence rejected.
 
 .. _sec3-1-11:
 
@@ -431,19 +429,19 @@ often used to consider aspects of the patient's abilities (as in Scale
 needs in terms of accommodation or occupation and activity.
 Alternatively, these scales can be misused as global ratings of the
 quality of accommodation and occupation/activity. Either way, the
-conceptual complexity causes difficulty in routine use.(n.d.u) An
-additional bullet point now addresses these misconceptions.
+conceptual complexity causes difficulty in routine use.23 An additional
+bullet point now addresses these misconceptions.
 
 Second, in recognition of the rating difficulties that can arise
-at/around the point of hospital admission and discharge,(n.d.v) a
-thorough review of supplementary advice provided in each country was
-undertaken. The option to vary the 2-week rating period for these scales
-was considered, but the board was uncomfortable breaching this core
-rule. Instead, a less radical solution was to highlight that ‘the
-patient's usual ….’ was to be rated and provide clearer guidance about
-how this should be dealt with in different living situations. Retaining
-this degree of clinical discretion was deemed both tolerable and more
-likely to result in clinically meaningful ratings.
+at/around the point of hospital admission and discharge,24 a thorough
+review of supplementary advice provided in each country was undertaken.
+The option to vary the 2-week rating period for these scales was
+considered, but the board was uncomfortable breaching this core rule.
+Instead, a less radical solution was to highlight that ‘the patient's
+usual ….’ was to be rated and provide clearer guidance about how this
+should be dealt with in different living situations. Retaining this
+degree of clinical discretion was deemed both tolerable and more likely
+to result in clinically meaningful ratings.
 
 Other revisions to these scales were less complex and primarily sought
 to update some of the terminology used and ensure all terms were
@@ -513,116 +511,3 @@ Thrive Psychology, Auckland, New Zealand.
 
 Supplementary material is available online at
 https://doi.org/10.1192/bjb.2017.17.
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-ref1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-ref2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-ref3
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-ref4
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-ref5
-
-      n.d.e.
-
-   .. container:: csl-entry
-      :name: ref-ref6
-
-      n.d.f.
-
-   .. container:: csl-entry
-      :name: ref-ref8
-
-      n.d.g.
-
-   .. container:: csl-entry
-      :name: ref-ref9
-
-      n.d.h.
-
-   .. container:: csl-entry
-      :name: ref-ref10
-
-      n.d.r.
-
-   .. container:: csl-entry
-      :name: ref-ref12
-
-      n.d.i.
-
-   .. container:: csl-entry
-      :name: ref-ref13
-
-      n.d.j.
-
-   .. container:: csl-entry
-      :name: ref-ref14
-
-      n.d.k.
-
-   .. container:: csl-entry
-      :name: ref-ref15
-
-      n.d.l.
-
-   .. container:: csl-entry
-      :name: ref-ref16
-
-      n.d.m.
-
-   .. container:: csl-entry
-      :name: ref-ref17
-
-      n.d.n.
-
-   .. container:: csl-entry
-      :name: ref-ref18
-
-      n.d.o.
-
-   .. container:: csl-entry
-      :name: ref-ref19
-
-      n.d.p.
-
-   .. container:: csl-entry
-      :name: ref-ref20
-
-      n.d.q.
-
-   .. container:: csl-entry
-      :name: ref-ref21
-
-      n.d.s.
-
-   .. container:: csl-entry
-      :name: ref-ref22
-
-      n.d.t.
-
-   .. container:: csl-entry
-      :name: ref-ref23
-
-      n.d.u.
-
-   .. container:: csl-entry
-      :name: ref-ref24
-
-      n.d.v.

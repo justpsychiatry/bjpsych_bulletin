@@ -2,6 +2,8 @@
 Psychoeducation and motivational interviewing to reduce relapses and increase patients’ involvement in antipsychotic treatment: interventional study
 ====================================================================================================================================================
 
+
+
 Gabriella Bröms
 Lindah Cahling
 Anders Berntsson
@@ -47,17 +49,16 @@ Lars ÖhrmalmCorrespondence to Lars Öhrmalm (lars.ohrmalm@prima.se)
 Adherence to pharmacological treatment by people with psychotic
 disorders is one of the major challenges in psychiatry, and its lack is
 an important predictor of relapse, even with small gaps in treatment,
-regardless of formulation.\ :sup:`(n.d.a),(n.d.b)` However, in
-observational studies long-acting injectable antipsychotics (LAIs)
-reduce the risk of discontinuation when compared with oral
-treatment.(n.d.c) Patients are seldom encouraged to participate in the
-choice of antipsychotic medication and formulation,\ :sup:`(n.d.d)`
-which is unfortunate, as it is known that their attitude to treatment
-becomes more positive with increased knowledge and experience of the
-treatment.\ :sup:`(n.d.e)` Psychoeducation alone is not enough to
-improve adherence,\ :sup:`(n.d.f)` but a combination of psychoeducation
-and motivational interviewing seems to be more
-promising.\ :sup:`(n.d.g),(n.d.h)`
+regardless of formulation.\ :sup:`1,2` However, in observational studies
+long-acting injectable antipsychotics (LAIs) reduce the risk of
+discontinuation when compared with oral treatment.3 Patients are seldom
+encouraged to participate in the choice of antipsychotic medication and
+formulation,\ :sup:`4` which is unfortunate, as it is known that their
+attitude to treatment becomes more positive with increased knowledge and
+experience of the treatment.\ :sup:`5` Psychoeducation alone is not
+enough to improve adherence,\ :sup:`6` but a combination of
+psychoeducation and motivational interviewing seems to be more
+promising.\ :sup:`7,8`
 
 We studied switches from oral antipsychotics to LAIs as a proxy for
 patients' involvement and adherence and hospital admissions as a proxy
@@ -70,10 +71,10 @@ Method
 
 We included 202 people with schizophrenia and schizoaffective disorder
 on oral antipsychotic treatment and no earlier experience of LAIs who
-were part of an earlier study conducted by our group.\ :sup:`(n.d.i)` In
-the earlier study, apart from the individuals on oral treatment included
-in this study, we also included people currently on LAIs and questioned
-all participants on their perceptions and knowledge of antipsychotics in
+were part of an earlier study conducted by our group.\ :sup:`9` In the
+earlier study, apart from the individuals on oral treatment included in
+this study, we also included people currently on LAIs and questioned all
+participants on their perceptions and knowledge of antipsychotics in
 general, using semi-structured interviews.
 
 The participants in the current study were block-randomised by diagnosis
@@ -95,8 +96,8 @@ Psychoeducation
 As part of our earlier study, participants in the intervention group
 underwent a single semi-structured interview by a study nurse
 specialised in mental health (L.C.), in which perceptions and knowledge
-of antipsychotic formulations were examined.\ :sup:`(n.d.i)` In summary,
-the earlier study revealed that participants lacked knowledge regarding
+of antipsychotic formulations were examined.\ :sup:`9` In summary, the
+earlier study revealed that participants lacked knowledge regarding
 differences in plasma concentration, side-effects and risk of
 readmission to hospital between LAIs and oral treatment. At the end of
 the interview, the study nurse provided psychoeducation, discussing and
@@ -112,13 +113,13 @@ Motivational interviewing
 The semi-structured interview, which included questions on beliefs and
 attitudes to treatment, was followed by an adapted form of motivational
 interviewing based on the original principles of the
-technique.\ :sup:`(n.d.j)` L.C. had received training from a
-professional trainer on motivational interviewing in a 3-day course
-prior to the study. Participants were encouraged to discuss their
-personal ideas and ambivalences regarding their illness and treatment.
-Focus was on relapse-preventing factors, quality of life, exploring
-their own personal goals and treatment strategies, with no preference
-for either oral or LAI antipsychotics.
+technique.\ :sup:`10` L.C. had received training from a professional
+trainer on motivational interviewing in a 3-day course prior to the
+study. Participants were encouraged to discuss their personal ideas and
+ambivalences regarding their illness and treatment. Focus was on
+relapse-preventing factors, quality of life, exploring their own
+personal goals and treatment strategies, with no preference for either
+oral or LAI antipsychotics.
 
 .. _sec1-3:
 
@@ -206,10 +207,10 @@ also be explained by increased involvement in their treatment. This
 supports results from an earlier study by Barkhof et al, in which a
 targeted use of motivational interviewing seemed to improve medication
 adherence at least for certain groups of people with
-psychosis.\ :sup:`(n.d.k)` Their adapted form of motivational
-interviewing had an active provision of psychoeducation, which makes it
-to some extent comparable to our interview, although their intervention
-included several sessions and included people with a recent relapse.
+psychosis.\ :sup:`11` Their adapted form of motivational interviewing
+had an active provision of psychoeducation, which makes it to some
+extent comparable to our interview, although their intervention included
+several sessions and included people with a recent relapse.
 
 The number of participants admitted to hospital at least once in the
 18-month period before intervention was comparable between groups, with
@@ -221,15 +222,15 @@ interviewing on admission frequency, which in turn could be a result of
 increased adherence and involvement in antipsychotic treatment. This is
 in line with previous studies, which have reported positive effects of
 the combination of psychoeducation and motivational interviewing on
-adherence.\ :sup:`(n.d.g),(n.d.h),(n.d.k)`
+adherence.\ :sup:`7,8,11`
 
 Exploring patients' fears is a less frequently used technique, as
 reported in our earlier study, and participants in the same study lacked
-knowledge.\ :sup:`(n.d.i)` Moreover, other research groups have reported
+knowledge.\ :sup:`9` Moreover, other research groups have reported
 reluctance among medical professionals to initiate the discussion of
-treatment.\ :sup:`(n.d.d),(n.d.l)` The possible positive effect of
-psychoeducation and motivational interviewing may encourage a more
-exploring approach in treatment discussion with the patient.
+treatment.\ :sup:`4,12` The possible positive effect of psychoeducation
+and motivational interviewing may encourage a more exploring approach in
+treatment discussion with the patient.
 
 .. _sec3-1:
 
@@ -241,7 +242,7 @@ and acute relapse at the time of inclusion were excluded from the study,
 and generalisations to these patient groups cannot be made. Not all
 targeted individuals were included in the intervention group, either
 because they could not be reached or they opted out, and their
-respective comparators were then not included.\ :sup:`(n.d.i)` The
+respective comparators were then not included.\ :sup:`9` The
 participants were enrolled during regular visits, which are scheduled at
 least yearly, so the 18 months before intervention should be enough for
 most eligible participants. One could argue that patients who agreed to
@@ -320,66 +321,3 @@ http://dx.doi.org/10.1192/bjb.2020.28.
    .. rubric:: 
 
    click here to view supplementary material
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-ref1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-ref2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-ref3
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-ref4
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-ref5
-
-      n.d.e.
-
-   .. container:: csl-entry
-      :name: ref-ref6
-
-      n.d.f.
-
-   .. container:: csl-entry
-      :name: ref-ref7
-
-      n.d.g.
-
-   .. container:: csl-entry
-      :name: ref-ref8
-
-      n.d.h.
-
-   .. container:: csl-entry
-      :name: ref-ref9
-
-      n.d.i.
-
-   .. container:: csl-entry
-      :name: ref-ref10
-
-      n.d.j.
-
-   .. container:: csl-entry
-      :name: ref-ref11
-
-      n.d.k.
-
-   .. container:: csl-entry
-      :name: ref-ref12
-
-      n.d.l.

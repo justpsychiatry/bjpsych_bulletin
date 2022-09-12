@@ -2,6 +2,8 @@
 The effectiveness and cost-effectiveness of integrating mental health services in primary care in low- and middle-income countries: systematic review
 =====================================================================================================================================================
 
+
+
 Leonardo Cubillos
 Sophia M. Bartels
 William C. Torrey
@@ -61,29 +63,27 @@ Burden of depression and unhealthy alcohol use
 Depression and unhealthy alcohol use are worldwide public health
 problems. Depression is the single most significant contributor to
 global disability, accounting for 7.5% of all years lived with
-disability.\ :sup:`(n.d.a)` Unhealthy alcohol use accounts for 5.9% of
-all global deaths and 5.1% of the entire global burden of
-disease,\ :sup:`(n.d.b)` and >80% of this occurs in low- and
-middle-income countries. Individuals suffering from depression and
-unhealthy alcohol use are at increased risk for poorer health outcomes
-from other illnesses, such as tuberculosis, maternal and infant
-conditions and HIV/AIDS.\ :sup:`(n.d.c),(n.d.d)` In low- and
-middle-income countries, societal impacts related to depression and
-unhealthy alcohol use can exceed healthcare
-costs.\ :sup:`(n.d.e),(n.d.f)` The affected populations have higher
-rates of unemployment, reduced job functioning and lower educational
-attainment.\ :sup:`(n.d.g)`
+disability.\ :sup:`1` Unhealthy alcohol use accounts for 5.9% of all
+global deaths and 5.1% of the entire global burden of disease,\ :sup:`2`
+and >80% of this occurs in low- and middle-income countries. Individuals
+suffering from depression and unhealthy alcohol use are at increased
+risk for poorer health outcomes from other illnesses, such as
+tuberculosis, maternal and infant conditions and HIV/AIDS.\ :sup:`3,4`
+In low- and middle-income countries, societal impacts related to
+depression and unhealthy alcohol use can exceed healthcare
+costs.\ :sup:`5,6` The affected populations have higher rates of
+unemployment, reduced job functioning and lower educational
+attainment.\ :sup:`7`
 
 Despite the existence of cost-effective interventions for these
 conditions, up to 90% of individuals living with mental illnesses in
-low- and middle-income countries lack access to
-care.\ :sup:`(n.d.h),(n.d.i)` Moreover, in low- and low-middle-income
-countries, only 1% of the population with substance use disorders has
-access to minimally adequate treatment.\ :sup:`(n.d.j)` Factors like low
-levels of public expenditures, reliance on out-of-pocket payments,
-preferential funding of hospital-based models of care and significant
-workforce shortages reduce the availability and accessibility of mental
-healthcare.\ :sup:`(n.d.k)–(n.d.l)`
+low- and middle-income countries lack access to care.\ :sup:`8,9`
+Moreover, in low- and low-middle-income countries, only 1% of the
+population with substance use disorders has access to minimally adequate
+treatment.\ :sup:`10` Factors like low levels of public expenditures,
+reliance on out-of-pocket payments, preferential funding of
+hospital-based models of care and significant workforce shortages reduce
+the availability and accessibility of mental healthcare.\ :sup:`11–13`
 
 .. _sec1-2:
 
@@ -92,15 +92,15 @@ Typology of behavioural health integration in high-income countries
 
 Behavioural health integration into primary care is thought to be an
 effective way to reduce the treatment gap in resource-constrained
-settings.\ :sup:`(n.d.m)` Nonetheless, the vast majority of studies
-assessing the effectiveness of this integration originate in high-income
+settings.\ :sup:`14` Nonetheless, the vast majority of studies assessing
+the effectiveness of this integration originate in high-income
 countries. A meta-analysis, including mostly studies from high-income
 countries, found moderate-quality evidence that brief interventions in
 primary healthcare can reduce alcohol consumption in unhealthy drinkers
-compared with minimal or no intervention.\ :sup:`(n.d.n)` Similarly,
-research studies from high-income countries revealed significantly
-better outcomes for adults with depression treated with collaborative
-care management compared with care as usual.\ :sup:`(n.d.o),(n.d.p)`
+compared with minimal or no intervention.\ :sup:`15` Similarly, research
+studies from high-income countries revealed significantly better
+outcomes for adults with depression treated with collaborative care
+management compared with care as usual.\ :sup:`16,17`
 
 In high-income countries, different integration models have been
 classified based on the nature and level of coordination between highly
@@ -110,16 +110,16 @@ typologies are commonly used in research and healthcare management. For
 example, the United States Substance Abuse and Mental Health Services
 Administration conceptualised a typology based on the degree of
 collaboration between primary care and behavioural healthcare
-specialists.\ :sup:`(n.d.q)` At the most basic level, specialists refer
+specialists.\ :sup:`18` At the most basic level, specialists refer
 patients to another location (coordinated care). At the intermediate
 level, providers deliver care at the same site but do not share
 treatment plans (colocated care). At the highest level of integration,
 specialists are part of the same team with a unique treatment plan, and
 the patient experiences a single system (integrated care). Collaborative
 care management, the most commonly studied integration models in
-high-income countries,\ :sup:`(n.d.r)` is most often located in this
-highest level of integration. However, we are unaware of the existence
-of a typology built specifically for low- and middle-income countries.
+high-income countries,\ :sup:`19` is most often located in this highest
+level of integration. However, we are unaware of the existence of a
+typology built specifically for low- and middle-income countries.
 
 .. _sec1-3:
 
@@ -131,16 +131,15 @@ task-shifting, often referred as task-sharing, which is the use of
 non-specialist primary health workers (such as general practitioners or
 nurses) and lay health workers to deliver mental health interventions
 and increase the availability of mental healthcare
-services.\ :sup:`(n.d.s)–(n.d.t)` A review of evidence found that
-interventions delivered by lay health workers may increase the number of
-adults recovering from depression, reduce symptoms for mothers with
-perinatal depression and decrease the quantity of alcohol consumed by
-unhealthy drinkers.\ :sup:`(n.d.u)` In another review, Seidman and
-Atun\ :sup:`(n.d.v)` found task-shifting to hold potential for
-cost-saving and efficiency improvements in health systems in the care of
-tuberculosis and HIV/AIDS. Evidence for mental health conditions is
-unclear.\ :sup:`(n.d.v)` Both reviews found minimal relevant economic
-studies.
+services.\ :sup:`20–22` A review of evidence found that interventions
+delivered by lay health workers may increase the number of adults
+recovering from depression, reduce symptoms for mothers with perinatal
+depression and decrease the quantity of alcohol consumed by unhealthy
+drinkers.\ :sup:`23` In another review, Seidman and Atun\ :sup:`24`
+found task-shifting to hold potential for cost-saving and efficiency
+improvements in health systems in the care of tuberculosis and HIV/AIDS.
+Evidence for mental health conditions is unclear.\ :sup:`24` Both
+reviews found minimal relevant economic studies.
 
 This systematic review aims to summarise the evidence of effectiveness
 and economic evaluation of the behavioural health integration of the
@@ -148,8 +147,8 @@ management of depression and unhealthy alcohol use into primary
 healthcare in low- and middle-income countries. For the purpose of this
 review, all types of economic evaluations (such as cost-minimisation,
 cost–utility, cost–benefit and cost-effectiveness analysis) were
-included.\ :sup:`(n.d.w)` We included all types and levels of severity
-of depression and unhealthy alcohol use. Additionally, we propose a
+included.\ :sup:`25` We included all types and levels of severity of
+depression and unhealthy alcohol use. Additionally, we propose a
 typology to characterise the models of behavioural health integration in
 low- and middle-income countries, using the evidence of the experimental
 studies included in the review. This typology could assist hospital and
@@ -162,7 +161,7 @@ Care (DIADA), an implementation research project in Colombia, Peru and
 Chile, funded by the National Institute of Mental Health. Project DIADA
 studies technology-enhanced service delivery models for treating
 comorbid depression and unhealthy alcohol use in primary healthcare in
-multiple sites in urban and rural Colombia.\ :sup:`(n.d.x)`
+multiple sites in urban and rural Colombia.\ :sup:`26`
 
 .. _sec2:
 
@@ -175,10 +174,9 @@ Protocol and registration
 -------------------------
 
 We designed this systematic review according to Preferred Reporting
-Items for Systematic Reviews and Meta-Analyses
-guidelines.\ :sup:`(n.d.y)` We registered this review in the PROSPERO
-International Registry of Systematic Reviews (identifier
-CRD42017057340).
+Items for Systematic Reviews and Meta-Analyses guidelines.\ :sup:`27` We
+registered this review in the PROSPERO International Registry of
+Systematic Reviews (identifier CRD42017057340).
 
 .. _sec2-2:
 
@@ -242,16 +240,15 @@ were required to meet the following criteria: (a) studies included
 patients aged ≥18 years, of any gender and with a diagnosis of alcohol
 use disorder and/or depression of any severity; (b) studies performed
 with a population living in low- and middle-income countries as per the
-World Bank country income classification\ :sup:`(n.d.z)` during the year
-that the study started; (c) studies included patients who received
-mental health services (in depression and/or alcohol use disorder) in
-fully or partially integrated primary health services in low- and
-middle-income countries\ :sup:`(n.d.aa)` and (d) studies included the
-integration of pharmacological or psychological interventions, or a
-combination of both. All study designs were considered. We excluded
-single-case studies, presentations, abstracts, notes, corrections and
-studies that did not report effectiveness or economic evaluation
-outcomes.
+World Bank country income classification\ :sup:`28` during the year that
+the study started; (c) studies included patients who received mental
+health services (in depression and/or alcohol use disorder) in fully or
+partially integrated primary health services in low- and middle-income
+countries\ :sup:`29` and (d) studies included the integration of
+pharmacological or psychological interventions, or a combination of
+both. All study designs were considered. We excluded single-case
+studies, presentations, abstracts, notes, corrections and studies that
+did not report effectiveness or economic evaluation outcomes.
 
 .. _sec2-3:
 
@@ -280,17 +277,17 @@ In phase 4, we completed an in-depth data extraction with a previously
 designed form (`Table 2 <#tab02>`__). We also completed a standardised
 assessment of bias of all the included randomised controlled trials,
 using methods described in the Cochrane Collaboration's tool for
-assessing risk of bias.\ :sup:`(n.d.ab)` This assessment of bias
-included a team of two of the authors independently evaluating the
-studies across seven categories: random sequence generation, allocation
-concealment, blinding of participants and personnel, blinding of outcome
-assessment, incomplete outcome data, selective reporting and other bias.
-Studies were rated across these categories as having a ‘low risk of
-bias’, ‘unclear risk of bias’ or ‘high risk of bias’, and all
-discrepancies on risk classifications were resolved by a third author.
-Table 2Phase 5: list of variablesSetting of careWhere does the screening
-take place?Where does the intervention occur?Where does the follow-up
-take place?Human resourcesWho screens?Who delivers the clinical
+assessing risk of bias.\ :sup:`30` This assessment of bias included a
+team of two of the authors independently evaluating the studies across
+seven categories: random sequence generation, allocation concealment,
+blinding of participants and personnel, blinding of outcome assessment,
+incomplete outcome data, selective reporting and other bias. Studies
+were rated across these categories as having a ‘low risk of bias’,
+‘unclear risk of bias’ or ‘high risk of bias’, and all discrepancies on
+risk classifications were resolved by a third author. Table 2Phase 5:
+list of variablesSetting of careWhere does the screening take
+place?Where does the intervention occur?Where does the follow-up take
+place?Human resourcesWho screens?Who delivers the clinical
 intervention?Who prescribes?Who provides additional services?How is
 supervision done?Who refers the patient?Who receives the referral?Who
 pays the salaries of the intervention team?How is the intervention team
@@ -312,14 +309,13 @@ During phase 4, we noticed patterns in the reorganisation of care that
 enabled the delivery of integrated mental health interventions in the
 treatment arms. We used the 2018 Joint Commission Ambulatory
 Accreditation Quality of Care Standards to assess the dimensions of
-quality of care involved in these reorganisations of
-care.\ :sup:`(n.d.ac)` We updated the data extraction form used in phase
-4, adding variables related to organisation of care, and reviewed all
-articles once again (`Table 2 <#tab02>`__). We extracted data by
-structural coding. During phases 4 and 5, one researcher (L.C.)
-extracted these data, with a second reviewer (S.B.) assessing the data
-for discrepancies. An arbiter resolved any differences that the
-researchers found.
+quality of care involved in these reorganisations of care.\ :sup:`31` We
+updated the data extraction form used in phase 4, adding variables
+related to organisation of care, and reviewed all articles once again
+(`Table 2 <#tab02>`__). We extracted data by structural coding. During
+phases 4 and 5, one researcher (L.C.) extracted these data, with a
+second reviewer (S.B.) assessing the data for discrepancies. An arbiter
+resolved any differences that the researchers found.
 
 .. _sec3:
 
@@ -345,12 +341,12 @@ only women, 3 studied only men and 30 studied both women and men. Eleven
 articles came from low-income countries, 19 articles came from
 lower-middle income countries and 28 articles came from upper-middle
 income countries. Based on the WHO regional grouping
-classification,\ :sup:`(n.d.ad)` 22 articles came from Africa, 15
-articles came from the Americas, 13 articles came from Southeast Asia, 8
-articles came from the Eastern Mediterranean region and 2 articles came
-from the Western Pacific region. Two studies counted for both India and
-Pakistan, which are classified in two different WHO regions
-(Supplementary Table 1).
+classification,\ :sup:`32` 22 articles came from Africa, 15 articles
+came from the Americas, 13 articles came from Southeast Asia, 8 articles
+came from the Eastern Mediterranean region and 2 articles came from the
+Western Pacific region. Two studies counted for both India and Pakistan,
+which are classified in two different WHO regions (Supplementary Table
+1).
 
 We found that of the 58 total articles, 46 focused on depression, 9
 focused on unhealthy alcohol use and 3 focused on both illnesses.
@@ -395,18 +391,17 @@ arms sustained through secondary follow-ups ranged from 3 months to 36
 months post-intervention. Three of the articles that found no difference
 between the control and treatment groups offered only a general training
 on mental healthcare to their lay or primary healthcare workers
-expecting to change their clinical behaviours.\ :sup:`(n.d.ae)–(n.d.af)`
-Two other publications lacking positive findings selected primary
-outcomes highly susceptible to confounding.\ :sup:`(n.d.ag),(n.d.ah)` In
-India, Pradeep et al\ :sup:`(n.d.ai)` sought to improve
-treatment-seeking behaviours and adherence to antidepressant medications
-by enhancing usual care. In Iran, Malakouti et al\ :sup:`(n.d.aj)`
-sought to reduce the number of suicides. In Pakistan, Husain et
-al\ :sup:`(n.d.ak)` compared the effectiveness of psychotherapy to
-antidepressant medications in reducing depression and improving quality
-of life. This group compared two integrated interventions without
-contrasting it to usual care and found no difference between these two
-arms.
+expecting to change their clinical behaviours.\ :sup:`33–35` Two other
+publications lacking positive findings selected primary outcomes highly
+susceptible to confounding.\ :sup:`36,37` In India, Pradeep et
+al\ :sup:`38` sought to improve treatment-seeking behaviours and
+adherence to antidepressant medications by enhancing usual care. In
+Iran, Malakouti et al\ :sup:`39` sought to reduce the number of
+suicides. In Pakistan, Husain et al\ :sup:`40` compared the
+effectiveness of psychotherapy to antidepressant medications in reducing
+depression and improving quality of life. This group compared two
+integrated interventions without contrasting it to usual care and found
+no difference between these two arms.
 
 .. _sec3-2-2:
 
@@ -414,44 +409,40 @@ Alcohol use
 ~~~~~~~~~~~
 
 Eleven articles reported effectiveness data related to unhealthy alcohol
-use.\ :sup:`(n.d.al)–(n.d.am)` All 11 used a reduction in alcohol
-consumption as their primary outcome. Ten of these articles were
-randomised controlled trials (Supplementary Table 1). Of these, five
-favoured the intervention
-arm,\ :sup:`(n.d.al),(n.d.an),(n.d.ao),(n.d.ap),(n.d.aq)` five did not
-show differences between arms or after the
-intervention\ :sup:`(n.d.ar),(n.d.as),(n.d.at),(n.d.au),(n.d.am)` and
-one had unclear results.\ :sup:`(n.d.av)` For the studies that favoured
-the intervention arm, only one paper reported effect size
-(*d* = 0.95).\ :sup:`(n.d.aw)` For most studies, secondary follow-ups
-showed that statistically significant differences sustained over 3
-months to 12 months post-intervention. The two most commonly delivered
-interventions were screening followed by brief intervention or by
-motivational interviewing. In Thailand, Noknoy et al,\ :sup:`(n.d.al)`
-and in South Africa, Rendall-Mkose et al,\ :sup:`(n.d.ap)` found that
-motivational interviewing arms produced better outcomes than enhanced
-usual care in improving patient outcomes. In Kenya, L'Engle et
-al\ :sup:`(n.d.ao)` found that screening and a brief intervention can
-reduce self-reported alcohol consumption among female sex workers at
-risk for HIV. In South Africa, Mertens et al\ :sup:`(n.d.as)` found that
-patients receiving brief intervention had significantly reduced Alcohol,
-Smoking and Substance Involvement Screening Test scores. However, in
-South Africa, Peltzer et al,\ :sup:`(n.d.at)` and in Thailand,
-Assanangkornchai et al,\ :sup:`(n.d.am)` found no difference between
-brief intervention and simple advice as both arms similarly reduced
-alcohol consumption. Similarly, in South Africa, Sorsdahl and
-Petersen,\ :sup:`(n.d.au)` in an uncontrolled before-and-after study,
-did not find a significant decrease in alcohol use in pregnant women
-following a brief intervention.
+use.\ :sup:`41–51` All 11 used a reduction in alcohol consumption as
+their primary outcome. Ten of these articles were randomised controlled
+trials (Supplementary Table 1). Of these, five favoured the intervention
+arm,\ :sup:`41,42,45,48,50` five did not show differences between arms
+or after the intervention\ :sup:`43,44,46,49,51` and one had unclear
+results.\ :sup:`47` For the studies that favoured the intervention arm,
+only one paper reported effect size (*d* = 0.95).\ :sup:`52` For most
+studies, secondary follow-ups showed that statistically significant
+differences sustained over 3 months to 12 months post-intervention. The
+two most commonly delivered interventions were screening followed by
+brief intervention or by motivational interviewing. In Thailand, Noknoy
+et al,\ :sup:`41` and in South Africa, Rendall-Mkose et al,\ :sup:`48`
+found that motivational interviewing arms produced better outcomes than
+enhanced usual care in improving patient outcomes. In Kenya, L'Engle et
+al\ :sup:`45` found that screening and a brief intervention can reduce
+self-reported alcohol consumption among female sex workers at risk for
+HIV. In South Africa, Mertens et al\ :sup:`44` found that patients
+receiving brief intervention had significantly reduced Alcohol, Smoking
+and Substance Involvement Screening Test scores. However, in South
+Africa, Peltzer et al,\ :sup:`46` and in Thailand, Assanangkornchai et
+al,\ :sup:`51` found no difference between brief intervention and simple
+advice as both arms similarly reduced alcohol consumption. Similarly, in
+South Africa, Sorsdahl and Petersen,\ :sup:`49` in an uncontrolled
+before-and-after study, did not find a significant decrease in alcohol
+use in pregnant women following a brief intervention.
 
-In Kenya, Papas et al\ :sup:`(n.d.aq)` found effectiveness of
+In Kenya, Papas et al\ :sup:`50` found effectiveness of
 cognitive–behavioural therapy over treatment as usual in reducing use
 and attaining abstinence in patients living with HIV. In India, Nadkarni
-et al\ :sup:`(n.d.an)` developed a novel and culturally adapted
-psychotherapy for unhealthy alcohol use delivered by lay health workers,
-called counselling for alcohol problems. Patients receiving counselling
-for alcohol problems showed higher remission rates and higher proportion
-of alcohol-free days than individuals receiving enhanced usual care.
+et al\ :sup:`42` developed a novel and culturally adapted psychotherapy
+for unhealthy alcohol use delivered by lay health workers, called
+counselling for alcohol problems. Patients receiving counselling for
+alcohol problems showed higher remission rates and higher proportion of
+alcohol-free days than individuals receiving enhanced usual care.
 
 .. _sec3-3:
 
@@ -461,52 +452,49 @@ Results of the economic evaluation studies
 We identified eight studies performing economic evaluations
 (Supplementary Table 1). These studies were conducted in Chile, India,
 Mexico, Nigeria and Pakistan. Six of these studies assessed
-interventions related to depression,\ :sup:`(n.d.aw)–(n.d.ax)` one study
-evaluated interventions related to alcohol use\ :sup:`(n.d.an)` and one
-publication evaluated both conditions.\ :sup:`(n.d.ay)` Four of these
-studies used a healthcare perspective in their economic
-analysis,\ :sup:`(n.d.aw),(n.d.az)–(n.d.ay)` two used a societal
-perspective\ :sup:`(n.d.ba),(n.d.bb)` and two used both
-perspectives.\ :sup:`(n.d.an),(n.d.bc)` In economic analysis, a
-healthcare perspective includes all costs and benefits directly
-affecting patients, providers and payers.\ :sup:`(n.d.w)` Conversely, a
-societal perspective takes a broader approach to include healthcare plus
-other private and public benefits and costs related to a given
-condition. Concerning the type of economic analysis, five studies
-performed a cost-effectiveness
-analysis,\ :sup:`(n.d.aw),(n.d.bb)–(n.d.ay)` two completed a
-cost–utility analysis\ :sup:`(n.d.an),(n.d.bc)` and one study performed
-both types of economic analysis.\ :sup:`(n.d.ba)` Three studies used
-modelling techniques\ :sup:`(n.d.aw),(n.d.ax),(n.d.ay)` and five studies
-used experimental data from effectiveness
-trials.\ :sup:`(n.d.an),(n.d.bc)–(n.d.az)`
+interventions related to depression,\ :sup:`52–57` one study evaluated
+interventions related to alcohol use\ :sup:`42` and one publication
+evaluated both conditions.\ :sup:`58` Four of these studies used a
+healthcare perspective in their economic analysis,\ :sup:`52,56–58` two
+used a societal perspective\ :sup:`54,55` and two used both
+perspectives.\ :sup:`42,53` In economic analysis, a healthcare
+perspective includes all costs and benefits directly affecting patients,
+providers and payers.\ :sup:`25` Conversely, a societal perspective
+takes a broader approach to include healthcare plus other private and
+public benefits and costs related to a given condition. Concerning the
+type of economic analysis, five studies performed a cost-effectiveness
+analysis,\ :sup:`52,55–58` two completed a cost–utility
+analysis\ :sup:`42,53` and one study performed both types of economic
+analysis.\ :sup:`54` Three studies used modelling
+techniques\ :sup:`52,57,58` and five studies used experimental data from
+effectiveness trials.\ :sup:`42,53–56`
 
-Two of the articles using modelling techniques\ :sup:`(n.d.aw),(n.d.ay)`
-utilised the sectoral approach to cost-effectiveness analysis developed
-by the WHO's ‘Choosing Interventions that are Cost-Effective’
-initiative.\ :sup:`(n.d.bd)` These studies found that a combined
-intervention of medications and therapy plus proactive case management
-yielded the highest effectiveness among the alternative options. In a
-study in Nigeria, Gureje et al\ :sup:`(n.d.ay)` found that a combination
-of tricyclic antidepressants, psychotherapy and proactive case
-management had the highest cost-effectiveness ratio, closely followed by
-tricyclic antidepressants only (approximately 0.5% less cost-effective).
-In Mexico, Del Carmen et al\ :sup:`(n.d.aw)` found that a
-medication-only intervention was the most cost-effective, followed by a
-combination of medication, psychotherapy and proactive case management
-(approximately 10.5% less cost-effective).
+Two of the articles using modelling techniques\ :sup:`52,58` utilised
+the sectoral approach to cost-effectiveness analysis developed by the
+WHO's ‘Choosing Interventions that are Cost-Effective’
+initiative.\ :sup:`59` These studies found that a combined intervention
+of medications and therapy plus proactive case management yielded the
+highest effectiveness among the alternative options. In a study in
+Nigeria, Gureje et al\ :sup:`58` found that a combination of tricyclic
+antidepressants, psychotherapy and proactive case management had the
+highest cost-effectiveness ratio, closely followed by tricyclic
+antidepressants only (approximately 0.5% less cost-effective). In
+Mexico, Del Carmen et al\ :sup:`52` found that a medication-only
+intervention was the most cost-effective, followed by a combination of
+medication, psychotherapy and proactive case management (approximately
+10.5% less cost-effective).
 
 From a healthcare perspective, the economic analyses of the experimental
 studies showed that the intervention arms had increased effectiveness
-and costs.\ :sup:`(n.d.an),(n.d.bc),(n.d.ba),(n.d.az)` The increased
-direct costs were associated with increased utilisation of healthcare
-personnel and medications. These interventions were deemed
-cost-effective based on the acceptability threshold and commonly
-accepted values for cost-effectiveness. Using a Markov model, in Chile,
-Siskind et al\ :sup:`(n.d.ax)` modeled the cost-effectiveness of a
-stepped-up care intervention throughout the lifetimes of a cohort of
-Chilean adult females. This study also evidenced increased direct
-healthcare costs, but found integration to be very cost-effective.
+and costs.\ :sup:`42,53,54,56` The increased direct costs were
+associated with increased utilisation of healthcare personnel and
+medications. These interventions were deemed cost-effective based on the
+acceptability threshold and commonly accepted values for
+cost-effectiveness. Using a Markov model, in Chile, Siskind et
+al\ :sup:`57` modeled the cost-effectiveness of a stepped-up care
+intervention throughout the lifetimes of a cohort of Chilean adult
+females. This study also evidenced increased direct healthcare costs,
+but found integration to be very cost-effective.
 
 Notably, from a societal perspective, these interventions were found to
 reduce costs, usually associated with decreased time costs to patients
@@ -524,17 +512,16 @@ Models of behavioural health integration
   intervention options (`Table 3 <#tab03>`__). Each strategic
   intervention option represents a discrete active enhancement to the
   primary healthcare affecting workforce capacity, information
-  management or daily flow of care.\ :sup:`(n.d.ac)` The behavioural
-  health integration models tested in the research are made up of one or
-  more strategic intervention options. Furthermore, the treatment arms
-  of the 53 studies included in this secondary analysis clustered around
-  6 of these integration models (`Table 4 <#tab04>`__). We were unable
-  to include five studies in this secondary analysis: two owing to
-  paucity of data\ :sup:`(n.d.bb),(n.d.be)` and three owing to use of
-  modelling methods for economic evaluation that did not study any
-  specific behavioural health integration
-  model.\ :sup:`(n.d.aw),(n.d.ax),(n.d.ay)` Table 3Organisational
-  strategic options used in the integration modelsStrategic intervention
+  management or daily flow of care.\ :sup:`31` The behavioural health
+  integration models tested in the research are made up of one or more
+  strategic intervention options. Furthermore, the treatment arms of the
+  53 studies included in this secondary analysis clustered around 6 of
+  these integration models (`Table 4 <#tab04>`__). We were unable to
+  include five studies in this secondary analysis: two owing to paucity
+  of data\ :sup:`55,60` and three owing to use of modelling methods for
+  economic evaluation that did not study any specific behavioural health
+  integration model.\ :sup:`52,57,58` Table 3Organisational strategic
+  options used in the integration modelsStrategic intervention
   optionsDescriptionJoint Commission standard of ambulatory quality of
   care (standard label)1General training on mental healthcare for lay
   and primary healthcare workersHuman resources (H.R. 01.05.03)2Specific
@@ -594,12 +581,12 @@ strategic intervention option 1. In this model, following training only,
 lay or primary healthcare workers (general physicians and nurses) are
 expected to have an increased ability to diagnose and treat mental
 health conditions adequately. For example, a study in
-Colombia\ :sup:`(n.d.bf)` compared the diagnostic accuracy and
-effectiveness of general physicians who had received formal training on
-mental healthcare to that of similar general physicians who did not. The
-study found that patients in the intervention arm received better
-treatment, had increased rates of retention and had lower depression
-scores than the control arm.
+Colombia\ :sup:`61` compared the diagnostic accuracy and effectiveness
+of general physicians who had received formal training on mental
+healthcare to that of similar general physicians who did not. The study
+found that patients in the intervention arm received better treatment,
+had increased rates of retention and had lower depression scores than
+the control arm.
 
 .. _sec3-4-2:
 
@@ -616,12 +603,12 @@ hires new lay health workers (strategic intervention option 3) or
 reassigns those currently delivering other services (strategic
 intervention option 4). This model may benefit from having primary
 health workers (general physicians or nurses) perform supervisory
-functions. Using this model, a study in rural South
-Africa\ :sup:`(n.d.bg)` compared the effectiveness of a 12-week course
-of interpersonal therapy delivered by lay health workers to enhanced
-care in the reduction of depression among low-income women. Patients in
-the intervention arm showed a significant decrease in depression
-symptoms upon completion of the 12-week course.
+functions. Using this model, a study in rural South Africa\ :sup:`62`
+compared the effectiveness of a 12-week course of interpersonal therapy
+delivered by lay health workers to enhanced care in the reduction of
+depression among low-income women. Patients in the intervention arm
+showed a significant decrease in depression symptoms upon completion of
+the 12-week course.
 
 .. _sec3-4-3:
 
@@ -632,12 +619,12 @@ Eleven studies met the criteria for model 3. This model uses strategic
 intervention options 1 and 2 plus either strategic intervention option 3
 or 4. This model often uses flow of care modifications to carve out
 dedicated time for the primary health workers. A study in rural
-Thailand\ :sup:`(n.d.al)` compared the effectiveness of nurse-delivered
-brief interventions versus treatment as usual (e.g. no brief
-intervention) in the reduction of alcohol consumption among low-income
-males. Patients in the intervention arm reported a more substantial
-decrease in drinks per drinking day and frequency of unhealthy drinking
-assessed 6 months after the intervention.
+Thailand\ :sup:`41` compared the effectiveness of nurse-delivered brief
+interventions versus treatment as usual (e.g. no brief intervention) in
+the reduction of alcohol consumption among low-income males. Patients in
+the intervention arm reported a more substantial decrease in drinks per
+drinking day and frequency of unhealthy drinking assessed 6 months after
+the intervention.
 
 .. _sec3-4-4:
 
@@ -650,10 +637,10 @@ from a mental health worker such as psychologists or psychiatrists
 (strategic intervention option 5), although the primary health worker
 continues to be the main provider. Consultation services include
 education, problem-solving and feedback to the primary health worker
-regarding diagnostic or treatment strategies.\ :sup:`(n.d.bh),(n.d.bi)`
-Strategic intervention option 5 is essential in this model. A study in
-Chile\ :sup:`(n.d.ag)` compared the effectiveness of treatment delivered
-by general physicians with access to online psychiatric consultation
+regarding diagnostic or treatment strategies.\ :sup:`63,64` Strategic
+intervention option 5 is essential in this model. A study in
+Chile\ :sup:`36` compared the effectiveness of treatment delivered by
+general physicians with access to online psychiatric consultation
 services with that of those without access to this support in the
 management of urban women diagnosed with depression. Patients in the
 intervention arm had a statistically significant reduction in their
@@ -667,8 +654,8 @@ Model 5: stepped care
 
 Eight studies met the criteria for model 5. This model provides a
 structured way to match treatment intensity with the patient's
-needs.\ :sup:`(n.d.bj)` More complicated patients are cared for by a
-mental health worker (strategic intervention option 5), whereas more
+needs.\ :sup:`65` More complicated patients are cared for by a mental
+health worker (strategic intervention option 5), whereas more
 straightforward cases remain under the care of the primary health worker
 (strategic intervention option 4). Some studies used lay health workers,
 creating a three-level stepped care model (strategic intervention option
@@ -676,9 +663,9 @@ creating a three-level stepped care model (strategic intervention option
 pathway of care to systematically step up or step down each case. Thus,
 this model adds outcome tracking to inform the level of care provided to
 a patient (strategic intervention option 6). A post-rollout evaluation
-in Iran\ :sup:`(n.d.aj)` assessed the effectiveness of a suicide
-prevention strategy for adults with depression. In this programme, a lay
-health worker reached out to patients to screen them for depression and
+in Iran\ :sup:`39` assessed the effectiveness of a suicide prevention
+strategy for adults with depression. In this programme, a lay health
+worker reached out to patients to screen them for depression and
 referred positive cases to a primary health worker for management and
 stabilisation. In turn, the primary health worker referred refractory
 cases to psychiatrists who delivered specialised services.
@@ -691,14 +678,14 @@ Model 6: collaborative care management
 Six studies met the criteria for model 6. There is variation in the
 literature regarding the components of collaborative care management,
 and there are different levels of complexity within collaborative care
-management itself.\ :sup:`(n.d.bk)` For this systematic review,
-strategic intervention options 6 and 7 are considered critical. Other
+management itself.\ :sup:`66` For this systematic review, strategic
+intervention options 6 and 7 are considered critical. Other
 collaborative care management elements, such as linkage to community
 resources, patient self-management support, regular case consultation
 from a psychiatrist, provider decision support and healthcare
 organisation support, could also be present.
 
-In China, a study\ :sup:`(n.d.bl)` compared the effectiveness of two
+In China, a study\ :sup:`67` compared the effectiveness of two
 modalities of depression treatment for adults aged ≥60 years. In the
 intervention arm, general physicians (strategic intervention option 4),
 primary care nurses serving as care managers (strategic intervention
@@ -755,16 +742,16 @@ The studies included in this review showed that integrated models can
 improve patient outcomes in different subtypes of depression such as
 perinatal depression, late-in-life depression, comorbid depression and
 HIV, and depression associated with trauma disorders in war-affected
-areas.\ :sup:`(n.d.bm),(n.d.bn)` Previous research shows that some
-psychological treatments can be as effective as antidepressant
-medications, with higher retention rates and better continuing
-outcomes.\ :sup:`(n.d.bo),(n.d.bp)` We found that different
-psychotherapies can be effectively delivered by an array of integration
-models. These can be more culturally adaptable,\ :sup:`(n.d.bq)` and
-possibly less stigmatising than medication-based treatments. They can
-also be potentially scalable in low- and middle-income countries
-contexts where community bonding is strong, labour is more available and
-procurement and distribution chains for pharmaceuticals are precarious.
+areas.\ :sup:`68,69` Previous research shows that some psychological
+treatments can be as effective as antidepressant medications, with
+higher retention rates and better continuing outcomes.\ :sup:`70,71` We
+found that different psychotherapies can be effectively delivered by an
+array of integration models. These can be more culturally
+adaptable,\ :sup:`72` and possibly less stigmatising than
+medication-based treatments. They can also be potentially scalable in
+low- and middle-income countries contexts where community bonding is
+strong, labour is more available and procurement and distribution chains
+for pharmaceuticals are precarious.
 
 This systematic review suggests that integration of care for unhealthy
 alcohol use might produce better outcomes for the general population,
@@ -772,14 +759,13 @@ pregnant women and people living with HIV in low- and middle-income
 countries. The control arm of seven included trials compared screening
 and minimal psychoeducation to screening and brief intervention or
 motivational interviewing offered in the intervention
-arms.\ :sup:`(n.d.al)–(n.d.as),(n.d.at),(n.d.ap),(n.d.am)` The
-enhancement of the control arms could account for the non-positive
-results, particularly in settings where neither screening nor minimal
-psychoeducation is routinely offered in primary healthcare. There is
-evidence that screening alone can affect the patients’ behaviours, which
-could explain the lack of difference between arms in some
-studies.\ :sup:`(n.d.br)` Kaner et al\ :sup:`(n.d.n)` found that
-screening and brief interventions can reduce alcohol consumption in
+arms.\ :sup:`41–44,46,48,51` The enhancement of the control arms could
+account for the non-positive results, particularly in settings where
+neither screening nor minimal psychoeducation is routinely offered in
+primary healthcare. There is evidence that screening alone can affect
+the patients’ behaviours, which could explain the lack of difference
+between arms in some studies.\ :sup:`73` Kaner et al\ :sup:`15` found
+that screening and brief interventions can reduce alcohol consumption in
 hazardous and harmful drinkers compared with minimal or no interventions
 in primary healthcare in high-income countries. Although the findings of
 the articles included in this review are similar to those in high-income
@@ -797,36 +783,35 @@ The economic evaluations included in this review indicate that
 integrated models may result in increased direct costs to primary
 health, stemming from increased utilisation of personnel and
 medications. Nevertheless, they may save costs to
-society.\ :sup:`(n.d.an),(n.d.bc),(n.d.ax)` These findings are similar
-to those found in high-income countries.\ :sup:`(n.d.bs)` Given the low
-levels of spending on mental healthcare in many low- and middle-income
-countries,\ :sup:`(n.d.k)` where the vast majority of primary healthcare
-sites do not provide access to mental health services, the finding that
-increasing the availability of mental health services increases direct
-costs should not surprise. Since low- and middle-income countries favour
-funding of mental health hospitals,\ :sup:`(n.d.k)` new resources should
-be earmarked to sustain behavioural health integration in primary care.
-Moreover, the way in which the health system pays or transfers funds to
-primary healthcare should also be carefully examined. Health economics
+society.\ :sup:`42,53,57` These findings are similar to those found in
+high-income countries.\ :sup:`74` Given the low levels of spending on
+mental healthcare in many low- and middle-income countries,\ :sup:`11`
+where the vast majority of primary healthcare sites do not provide
+access to mental health services, the finding that increasing the
+availability of mental health services increases direct costs should not
+surprise. Since low- and middle-income countries favour funding of
+mental health hospitals,\ :sup:`11` new resources should be earmarked to
+sustain behavioural health integration in primary care. Moreover, the
+way in which the health system pays or transfers funds to primary
+healthcare should also be carefully examined. Health economics
 literature has extensively shown that these payment mechanisms are key
-determinants of providers’ behaviours.\ :sup:`(n.d.bt)` The most
-commonly used payment mechanisms in many low- and middle-income
-countries are out-of-pocket, capitation and historically determined
-allocations;\ :sup:`(n.d.bu)` however, since they are not explicitly
-linked to outputs or outcomes, they do not provide adequate incentives
-to increase the availability of integrated services. Recent research in
-high-income countries has studied the development of new payment
-mechanisms to promote increased integration and coordination of care for
-populations with multiple chronic
-comorbidities.\ :sup:`(n.d.bv),(n.d.bw)` Additional research is needed
-to specifically adapt payment mechanisms to offset the increased direct
-costs related to behavioural health integration, thus encouraging
-primary care in low- and middle-income countries to increase the
-availability of services.\ :sup:`(n.d.bt)` Importantly, public and
-private providers may respond differently to these incentives, as
-evidenced in several studies included in this review where integration
-models affected patient outcomes in public, but not in private
-organisations.\ :sup:`(n.d.bx),(n.d.by)`
+determinants of providers’ behaviours.\ :sup:`75` The most commonly used
+payment mechanisms in many low- and middle-income countries are
+out-of-pocket, capitation and historically determined
+allocations;\ :sup:`76` however, since they are not explicitly linked to
+outputs or outcomes, they do not provide adequate incentives to increase
+the availability of integrated services. Recent research in high-income
+countries has studied the development of new payment mechanisms to
+promote increased integration and coordination of care for populations
+with multiple chronic comorbidities.\ :sup:`77,78` Additional research
+is needed to specifically adapt payment mechanisms to offset the
+increased direct costs related to behavioural health integration, thus
+encouraging primary care in low- and middle-income countries to increase
+the availability of services.\ :sup:`75` Importantly, public and private
+providers may respond differently to these incentives, as evidenced in
+several studies included in this review where integration models
+affected patient outcomes in public, but not in private
+organisations.\ :sup:`79,80`
 
 .. _sec4-4:
 
@@ -845,9 +830,9 @@ require to implement and sustain. Decision makers can choose models that
 match the characteristics and capacity of their health system and
 primary healthcare. An appealing complex model may not be the right
 choice if it is too expensive or requires too much change from the
-workforce to be implemented or sustained.\ :sup:`(n.d.bz)` An
-integration model that fits well with current programmes and available
-resources might have a greater effect over time. Since complex strategic
+workforce to be implemented or sustained.\ :sup:`81` An integration
+model that fits well with current programmes and available resources
+might have a greater effect over time. Since complex strategic
 intervention options require more resources to implement and sustain,
 they are more likely to be chosen in higher income nations. Decision
 makers must consider effectiveness, acceptability, sustainability and
@@ -879,9 +864,9 @@ Implications for the global mental health policy field
 
 The findings of this review build on a wealth of knowledge strongly
 supporting the value of integrating mental healthcare into primary
-care.\ :sup:`(n.d.bv),(n.d.bw)` The next generation of research should
-aim to understand the arrangements at the system and organisational
-levels necessary to scale up integrated models in low- and middle-income
+care.\ :sup:`77,78` The next generation of research should aim to
+understand the arrangements at the system and organisational levels
+necessary to scale up integrated models in low- and middle-income
 countries and to promote the delivery of quality healthcare. In
 particular, we need to strengthen the instruments used to measure the
 quality of integration in low- and middle-income countries. Similarly,
@@ -902,11 +887,11 @@ of which have been used to integrate these services into primary care.
 At the national level, the experiences of Chile and Zimbabwe where
 research studies influenced the governments to expand publicly funded
 mental healthcare programmes can illustrate processes that occupied the
-political agenda and affected public policy.\ :sup:`(n.d.ca),(n.d.cb)`
-Furthering our understanding of the operation of behavioural health
-integration into primary care and bettering our ability to scale up
-these integrated models can help close the treatment gap and raise the
-quality of mental care in low- and middle-income settings.
+political agenda and affected public policy.\ :sup:`82,83` Furthering
+our understanding of the operation of behavioural health integration
+into primary care and bettering our ability to scale up these integrated
+models can help close the treatment gap and raise the quality of mental
+care in low- and middle-income settings.
 
 We thank Mary Ann Sweeney, MS, independent researcher; Pamela Bagley and
 Heather Blunt from the Medical Library at the Geisel School of Medicine
@@ -989,409 +974,6 @@ Health, USA during the conduct of the study.
 
 ICMJE forms are in the supplementary material, available online at
 https://doi.org/10.1192/bjb.2020.35.
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-ref1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-ref2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-ref3
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-ref4
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-ref5
-
-      n.d.e.
-
-   .. container:: csl-entry
-      :name: ref-ref6
-
-      n.d.f.
-
-   .. container:: csl-entry
-      :name: ref-ref7
-
-      n.d.g.
-
-   .. container:: csl-entry
-      :name: ref-ref8
-
-      n.d.h.
-
-   .. container:: csl-entry
-      :name: ref-ref9
-
-      n.d.i.
-
-   .. container:: csl-entry
-      :name: ref-ref10
-
-      n.d.j.
-
-   .. container:: csl-entry
-      :name: ref-ref11
-
-      n.d.k.
-
-   .. container:: csl-entry
-      :name: ref-ref13
-
-      n.d.l.
-
-   .. container:: csl-entry
-      :name: ref-ref14
-
-      n.d.m.
-
-   .. container:: csl-entry
-      :name: ref-ref15
-
-      n.d.n.
-
-   .. container:: csl-entry
-      :name: ref-ref16
-
-      n.d.o.
-
-   .. container:: csl-entry
-      :name: ref-ref17
-
-      n.d.p.
-
-   .. container:: csl-entry
-      :name: ref-ref18
-
-      n.d.q.
-
-   .. container:: csl-entry
-      :name: ref-ref19
-
-      n.d.r.
-
-   .. container:: csl-entry
-      :name: ref-ref20
-
-      n.d.s.
-
-   .. container:: csl-entry
-      :name: ref-ref22
-
-      n.d.t.
-
-   .. container:: csl-entry
-      :name: ref-ref23
-
-      n.d.u.
-
-   .. container:: csl-entry
-      :name: ref-ref24
-
-      n.d.v.
-
-   .. container:: csl-entry
-      :name: ref-ref25
-
-      n.d.w.
-
-   .. container:: csl-entry
-      :name: ref-ref26
-
-      n.d.x.
-
-   .. container:: csl-entry
-      :name: ref-ref27
-
-      n.d.y.
-
-   .. container:: csl-entry
-      :name: ref-ref28
-
-      n.d.z.
-
-   .. container:: csl-entry
-      :name: ref-ref29
-
-      n.d.aa.
-
-   .. container:: csl-entry
-      :name: ref-ref30
-
-      n.d.ab.
-
-   .. container:: csl-entry
-      :name: ref-ref31
-
-      n.d.ac.
-
-   .. container:: csl-entry
-      :name: ref-ref32
-
-      n.d.ad.
-
-   .. container:: csl-entry
-      :name: ref-ref33
-
-      n.d.ae.
-
-   .. container:: csl-entry
-      :name: ref-ref35
-
-      n.d.af.
-
-   .. container:: csl-entry
-      :name: ref-ref36
-
-      n.d.ag.
-
-   .. container:: csl-entry
-      :name: ref-ref37
-
-      n.d.ah.
-
-   .. container:: csl-entry
-      :name: ref-ref38
-
-      n.d.ai.
-
-   .. container:: csl-entry
-      :name: ref-ref39
-
-      n.d.aj.
-
-   .. container:: csl-entry
-      :name: ref-ref40
-
-      n.d.ak.
-
-   .. container:: csl-entry
-      :name: ref-ref41
-
-      n.d.al.
-
-   .. container:: csl-entry
-      :name: ref-ref42
-
-      n.d.an.
-
-   .. container:: csl-entry
-      :name: ref-ref43
-
-      n.d.ar.
-
-   .. container:: csl-entry
-      :name: ref-ref44
-
-      n.d.as.
-
-   .. container:: csl-entry
-      :name: ref-ref45
-
-      n.d.ao.
-
-   .. container:: csl-entry
-      :name: ref-ref46
-
-      n.d.at.
-
-   .. container:: csl-entry
-      :name: ref-ref47
-
-      n.d.av.
-
-   .. container:: csl-entry
-      :name: ref-ref48
-
-      n.d.ap.
-
-   .. container:: csl-entry
-      :name: ref-ref49
-
-      n.d.au.
-
-   .. container:: csl-entry
-      :name: ref-ref50
-
-      n.d.aq.
-
-   .. container:: csl-entry
-      :name: ref-ref51
-
-      n.d.am.
-
-   .. container:: csl-entry
-      :name: ref-ref52
-
-      n.d.aw.
-
-   .. container:: csl-entry
-      :name: ref-ref53
-
-      n.d.bc.
-
-   .. container:: csl-entry
-      :name: ref-ref54
-
-      n.d.ba.
-
-   .. container:: csl-entry
-      :name: ref-ref55
-
-      n.d.bb.
-
-   .. container:: csl-entry
-      :name: ref-ref56
-
-      n.d.az.
-
-   .. container:: csl-entry
-      :name: ref-ref57
-
-      n.d.ax.
-
-   .. container:: csl-entry
-      :name: ref-ref58
-
-      n.d.ay.
-
-   .. container:: csl-entry
-      :name: ref-ref59
-
-      n.d.bd.
-
-   .. container:: csl-entry
-      :name: ref-ref60
-
-      n.d.be.
-
-   .. container:: csl-entry
-      :name: ref-ref61
-
-      n.d.bf.
-
-   .. container:: csl-entry
-      :name: ref-ref62
-
-      n.d.bg.
-
-   .. container:: csl-entry
-      :name: ref-ref63
-
-      n.d.bh.
-
-   .. container:: csl-entry
-      :name: ref-ref64
-
-      n.d.bi.
-
-   .. container:: csl-entry
-      :name: ref-ref65
-
-      n.d.bj.
-
-   .. container:: csl-entry
-      :name: ref-ref66
-
-      n.d.bk.
-
-   .. container:: csl-entry
-      :name: ref-ref67
-
-      n.d.bl.
-
-   .. container:: csl-entry
-      :name: ref-ref68
-
-      n.d.bm.
-
-   .. container:: csl-entry
-      :name: ref-ref69
-
-      n.d.bn.
-
-   .. container:: csl-entry
-      :name: ref-ref70
-
-      n.d.bo.
-
-   .. container:: csl-entry
-      :name: ref-ref71
-
-      n.d.bp.
-
-   .. container:: csl-entry
-      :name: ref-ref72
-
-      n.d.bq.
-
-   .. container:: csl-entry
-      :name: ref-ref73
-
-      n.d.br.
-
-   .. container:: csl-entry
-      :name: ref-ref74
-
-      n.d.bs.
-
-   .. container:: csl-entry
-      :name: ref-ref75
-
-      n.d.bt.
-
-   .. container:: csl-entry
-      :name: ref-ref76
-
-      n.d.bu.
-
-   .. container:: csl-entry
-      :name: ref-ref77
-
-      n.d.bv.
-
-   .. container:: csl-entry
-      :name: ref-ref78
-
-      n.d.bw.
-
-   .. container:: csl-entry
-      :name: ref-ref79
-
-      n.d.bx.
-
-   .. container:: csl-entry
-      :name: ref-ref80
-
-      n.d.by.
-
-   .. container:: csl-entry
-      :name: ref-ref81
-
-      n.d.bz.
-
-   .. container:: csl-entry
-      :name: ref-ref82
-
-      n.d.ca.
-
-   .. container:: csl-entry
-      :name: ref-ref83
-
-      n.d.cb.
 
 .. [1]
    WHO Global Index Medicus search did not include low- and

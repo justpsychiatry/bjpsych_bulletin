@@ -2,6 +2,8 @@
 An evaluation of sleep disturbance on in-patient psychiatric units in the UK
 ============================================================================
 
+
+
 Sam Horne
 Katherine Hay
 Stuart Watson
@@ -55,15 +57,14 @@ Sleep disturbance in psychiatric disease
 ========================================
 
 The normal timing and duration of sleep is vital for normal mental
-health.(n.d.a) Poor sleep is a core symptom of many psychiatric
-conditions. However, sleep disorders such as insomnia, obstructive sleep
-apnoea, REM sleep behaviour disorder and circadian rhythm disorder are
-also common and remain underdiagnosed.(n.d.b) The frequent comorbidity
-of disrupted sleep and psychiatric disorder,(n.d.c) and the negative
-prognostic effect of disrupted sleep, including on suicide
-risk,(n.d.d)\ :sup:`,`\ (n.d.e) all demonstrate the challenge and
-importance for mental health professionals of assessing and protecting
-sleep when patients require admission.
+health.1 Poor sleep is a core symptom of many psychiatric conditions.
+However, sleep disorders such as insomnia, obstructive sleep apnoea, REM
+sleep behaviour disorder and circadian rhythm disorder are also common
+and remain underdiagnosed.2 The frequent comorbidity of disrupted sleep
+and psychiatric disorder,3 and the negative prognostic effect of
+disrupted sleep, including on suicide risk,4\ :sup:`,`\ 5 all
+demonstrate the challenge and importance for mental health professionals
+of assessing and protecting sleep when patients require admission.
 
 Admission to a psychiatric unit represents both a particular need and
 opportunity to identify and manage disturbed sleep, including sleep
@@ -77,19 +78,18 @@ paradoxically used because of the risk of harm to the patient.
 Overnight monitoring on psychiatry wards
 ========================================
 
-Concerns about the risk of suicide(n.d.f) place a perceived burden on
-staff in in-patient units to regularly monitor patients overnight. This
+Concerns about the risk of suicide6 place a perceived burden on staff in
+in-patient units to regularly monitor patients overnight. This
 monitoring can in itself further disrupt sleep and may therefore affect
 recovery. The standards for the safe care of patients on psychiatric
-wards by the Royal College of Psychiatrists(n.d.g) do not include or
-specify protected sleep time, and current National Institute of Health
-and Care Excellence recommended in-patient pathways(n.d.h) in acute
-hospitals make no mention of sleep beyond a single survey question about
-night-time disruption by staff. The best way to monitor, measure and
-enhance sleep on in-patient wards is unclear. We aimed to objectively
-assess sleep and the ward environment, and attempted to characterise
-patterns and causes of sleep disturbance on in-patient psychiatric
-wards.
+wards by the Royal College of Psychiatrists7 do not include or specify
+protected sleep time, and current National Institute of Health and Care
+Excellence recommended in-patient pathways8 in acute hospitals make no
+mention of sleep beyond a single survey question about night-time
+disruption by staff. The best way to monitor, measure and enhance sleep
+on in-patient wards is unclear. We aimed to objectively assess sleep and
+the ward environment, and attempted to characterise patterns and causes
+of sleep disturbance on in-patient psychiatric wards.
 
 .. _sec1:
 
@@ -109,14 +109,14 @@ and were included in the study if they were expected to be staying on
 the ward for at least a 1-week period.
 
 Sleep quality was then assessed with the Pittsburgh Sleep Quality Index
-(PSQI)(n.d.i) and the risk of sleep apnoea was assessed with the
-STOP-BANG questionnaire.(n.d.j) Using the PSQI, participants were
-categorised as having normal sleep (score <5), some level of sleep
-disturbance (score ≤10) or severe sleep disturbance (score >10). The
-STOP-BANG questionnaire is a validated screening tool for sleep apnoea.
-Participants scoring ≥5 were considered high risk for obstructive sleep
-apnoea. If a participant was found to be high risk for obstructive sleep
-apnoea, this was communicated by letter to their general practitioner.
+(PSQI)9 and the risk of sleep apnoea was assessed with the STOP-BANG
+questionnaire.10 Using the PSQI, participants were categorised as having
+normal sleep (score <5), some level of sleep disturbance (score ≤10) or
+severe sleep disturbance (score >10). The STOP-BANG questionnaire is a
+validated screening tool for sleep apnoea. Participants scoring ≥5 were
+considered high risk for obstructive sleep apnoea. If a participant was
+found to be high risk for obstructive sleep apnoea, this was
+communicated by letter to their general practitioner.
 
 Objective sleep quality was assessed with a wrist accelerometer with a
 light monitor (GENEactiv original). Participants were asked to wear the
@@ -124,11 +124,11 @@ watch continuously for a week. Participants who continuously wore the
 wrist accelerometer for five or more continuous days and nights were
 included in the study (20 out of 32). The algorithm for analysis has
 been published and used to assess sleep–wake disturbance in those with
-and without mental health problems.(n.d.k)\ :sup:`,`\ (n.d.l) Total
-sleep time, daytime naps and sleep fragmentation were all measured.
-Twelve participants were excluded because of incomplete data: patients
-were discharged sooner than expected, and for two participants, wearing
-the watch itself caused agitation and was not tolerated.
+and without mental health problems.11\ :sup:`,`\ 12 Total sleep time,
+daytime naps and sleep fragmentation were all measured. Twelve
+participants were excluded because of incomplete data: patients were
+discharged sooner than expected, and for two participants, wearing the
+watch itself caused agitation and was not tolerated.
 
 Participant medical records were accessed for basic demographics,
 current and past psychiatric history and any reference to sleep
@@ -189,10 +189,10 @@ participants scored ≥10 (severe sleep disturbance). The separate domains
 of the PSQI were also assessed with previously published subscales
 looking at sleep efficiency, daily disturbances and perceived sleep
 quality to see if there was one domain more likely to cause sleep
-disturbance.(n.d.m) Patients all had multiple causes of sleep
-disturbance including, but not exclusive to, the ward environment. All
-participants were prescribed some form of psychotropic medication, with
-18 participants receiving multiple medications and 8 participants
+disturbance.13 Patients all had multiple causes of sleep disturbance
+including, but not exclusive to, the ward environment. All participants
+were prescribed some form of psychotropic medication, with 18
+participants receiving multiple medications and 8 participants
 prescribed zopiclone for sleep disturbance.
 
 .. _sec2-1:
@@ -287,41 +287,41 @@ that this process could be counterproductive, slowing recovery because
 of the effect of sleep disturbance on mental health. The importance of
 regular observations is acknowledged in those at high risk of harm
 (accounting for a number of patients on the study wards); however, the
-most recent review from the National Confidential Enquiry into
-Suicide(n.d.f) emphasised the need for a personalised care plan and the
-avoidance of routine checklists. Reports from this group have suggested
-that routine observations are not helpful and yet they remain widespread
-across acute mental health trusts throughout the UK.
+most recent review from the National Confidential Enquiry into Suicide6
+emphasised the need for a personalised care plan and the avoidance of
+routine checklists. Reports from this group have suggested that routine
+observations are not helpful and yet they remain widespread across acute
+mental health trusts throughout the UK.
 
 There are clearly a number of potential reasons for sleep disturbance
 within an in-patient psychiatric population, including the mental health
 symptoms themselves and the medication used to treat symptoms; however,
 primary sleep disorders such as obstructive sleep apnoea are common in
 those with severe and enduring mental health problems, and will affect
-sleep quality and contribute to nocturnal
-hypertension.(n.d.n)\ :sup:`,`\ (n.d.o) Risk factors include male
-gender, body mass index and obesity and age >50 years. It is notable
-that 15% of patients were high risk for sleep apnoea based on sleep
-questionnaire screening and all were male. Any in-patient admission
-offers an opportunity for physical health assessment, with increasing
-recognition of the poor cardiometabolic health of many with psychiatric
-disease.(n.d.p)\ :sup:`,`\ (n.d.q) Obstructive sleep apnoea may be
-ameliorated by rationalising medication that may contribute to obesity
-and snoring (e.g. benzodiazepines) and via the effective,
-evidenced-based therapy of continuous positive airways pressure.
+sleep quality and contribute to nocturnal hypertension.14\ :sup:`,`\ 15
+Risk factors include male gender, body mass index and obesity and age
+>50 years. It is notable that 15% of patients were high risk for sleep
+apnoea based on sleep questionnaire screening and all were male. Any
+in-patient admission offers an opportunity for physical health
+assessment, with increasing recognition of the poor cardiometabolic
+health of many with psychiatric disease.16\ :sup:`,`\ 17 Obstructive
+sleep apnoea may be ameliorated by rationalising medication that may
+contribute to obesity and snoring (e.g. benzodiazepines) and via the
+effective, evidenced-based therapy of continuous positive airways
+pressure.
 
 The ward environment may also be a modifiable part of sleep disturbance.
 It seems likely that sound levels were a contributory factor to sleep
 fragmentation. The sound level for both wards exceeded the recommended
-night-time noise level for a hospital ward of 30 db.(n.d.r) They
-remained between 40 db (equivalent to the sound in a library) and 70 db
+night-time noise level for a hospital ward of 30 db.18 They remained
+between 40 db (equivalent to the sound in a library) and 70 db
 (equivalent to the noise produced by a vacuum cleaner) during the
 overnight period. The occasional spikes of a much louder noise, which
 reached up to 90 db (equivalent to the noise produced by a food blender
 or a lawn mower), are likely to disrupt sleep. There have been previous
 reports highlighting concerns about noise pollution affecting health in
 hospitals. This seems an important and potentially modifiable part of
-night-time sleep disruption.(n.d.s)
+night-time sleep disruption.19
 
 The light levels recorded at night with the bedroom door shut did not
 exceed 1 lux. This implies that the night-time light environment of
@@ -330,15 +330,15 @@ for observations. At night, with the side light, the light levels
 recorded were <10 lux in the bedrooms. Daytime light levels, however,
 were also low, never exceeding 200 lux across the unit and <50 lux in
 the bedrooms. The retinohypothalamic tract controls circadian rhythm and
-is dependent on light intensity for normal function.(n.d.t) Lack of
-exposure to adequate light intensities may contribute to the
-dysregulation of circadian rhythms, which is increasingly recognised in
-psychiatric disorders and may, in turn, contribute to the tendency
-toward daytime napping and irregular sleep patterns, and may affect the
-ability of the patient to engage with psychological or occupational
-therapies.(n.d.u) These data suggest that the light environment of
-psychiatric wards should be improved and highlight the importance of
-time off of the ward in outside spaces with natural light.
+is dependent on light intensity for normal function.20 Lack of exposure
+to adequate light intensities may contribute to the dysregulation of
+circadian rhythms, which is increasingly recognised in psychiatric
+disorders and may, in turn, contribute to the tendency toward daytime
+napping and irregular sleep patterns, and may affect the ability of the
+patient to engage with psychological or occupational therapies.21 These
+data suggest that the light environment of psychiatric wards should be
+improved and highlight the importance of time off of the ward in outside
+spaces with natural light.
 
 .. _sec3-1:
 
@@ -358,8 +358,8 @@ to avoid distress. There has been only a single, smaller study that
 compared nursing observations, patient sleep diaries and 3 days of wrist
 actigraphy in eight patients in their initial 3 days on a psychiatry
 ward. This showed that nursing staff tended to overestimate sleep and
-that patient sleep improved from the first to the third night.(n.d.v)
-This was one reason that we assessed all patients at least 72 h after
+that patient sleep improved from the first to the third night.22 This
+was one reason that we assessed all patients at least 72 h after
 admission.
 
 The sample size was relatively small, and the study was not powered to
@@ -390,119 +390,6 @@ UK; **Kirstie N. Anderson,** Consultant Neurologist and Sleep
 Specialist, Stuart Watson Consultant Psychiatrist, Katherine Speciality
 Trainee Psychiatry, Sam Horne Medical Student, The Regional Sleep
 Service, Newcastle upon Tyne Hospitals NHS Foundation Trust, UK
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-ref1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-ref2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-ref3
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-ref4
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-ref5
-
-      n.d.e.
-
-   .. container:: csl-entry
-      :name: ref-ref6
-
-      n.d.f.
-
-   .. container:: csl-entry
-      :name: ref-ref7
-
-      n.d.g.
-
-   .. container:: csl-entry
-      :name: ref-ref8
-
-      n.d.h.
-
-   .. container:: csl-entry
-      :name: ref-ref9
-
-      n.d.i.
-
-   .. container:: csl-entry
-      :name: ref-ref10
-
-      n.d.j.
-
-   .. container:: csl-entry
-      :name: ref-ref11
-
-      n.d.k.
-
-   .. container:: csl-entry
-      :name: ref-ref12
-
-      n.d.l.
-
-   .. container:: csl-entry
-      :name: ref-ref13
-
-      n.d.m.
-
-   .. container:: csl-entry
-      :name: ref-ref14
-
-      n.d.n.
-
-   .. container:: csl-entry
-      :name: ref-ref15
-
-      n.d.o.
-
-   .. container:: csl-entry
-      :name: ref-ref16
-
-      n.d.p.
-
-   .. container:: csl-entry
-      :name: ref-ref17
-
-      n.d.q.
-
-   .. container:: csl-entry
-      :name: ref-ref18
-
-      n.d.r.
-
-   .. container:: csl-entry
-      :name: ref-ref19
-
-      n.d.s.
-
-   .. container:: csl-entry
-      :name: ref-ref20
-
-      n.d.t.
-
-   .. container:: csl-entry
-      :name: ref-ref21
-
-      n.d.u.
-
-   .. container:: csl-entry
-      :name: ref-ref22
-
-      n.d.v.
 
 .. [1]
    On each ward, measures were taken at approximately the same time on

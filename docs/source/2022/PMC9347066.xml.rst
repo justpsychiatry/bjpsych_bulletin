@@ -2,6 +2,8 @@
 Adverse childhood experiences and adult self-harm in a female forensic population
 =================================================================================
 
+
+
 Rachel Holden
 Imogen Stables
 Penelope Brown
@@ -45,28 +47,28 @@ Maria FotiadouCorrespondence to Dr Rachel Holden
 
 pmc
 Adverse childhood experiences (ACEs) are stressful or traumatic life
-events that occur before 18 years of age.\ :sup:`(n.d.a),(n.d.b)` Having
-a history of ACEs is not uncommon: in a national household survey of
-adults residing in England, 47% of participants reported at least one
-ACE.\ :sup:`(n.d.c)` Research on ACEs has demonstrated links between
-ACEs and self-harm.\ :sup:`(n.d.d)` In a female prison population, all
-types of childhood abuse and neglect were more prevalent in those who
-self-harmed compared with those who did not, with significant
-associations between adulthood self-harm and both childhood emotional
-and sexual abuse.\ :sup:`(n.d.e)` ACEs have a cumulative effect on
-health outcomes, with higher numbers of ACEs predicting more adverse
-health outcomes.\ :sup:`(n.d.f)`
+events that occur before 18 years of age.\ :sup:`1,2` Having a history
+of ACEs is not uncommon: in a national household survey of adults
+residing in England, 47% of participants reported at least one
+ACE.\ :sup:`3` Research on ACEs has demonstrated links between ACEs and
+self-harm.\ :sup:`4` In a female prison population, all types of
+childhood abuse and neglect were more prevalent in those who self-harmed
+compared with those who did not, with significant associations between
+adulthood self-harm and both childhood emotional and sexual
+abuse.\ :sup:`5` ACEs have a cumulative effect on health outcomes, with
+higher numbers of ACEs predicting more adverse health
+outcomes.\ :sup:`6`
 
 This study occurred on Spring Ward, the female ward of River House
 Medium Secure Unit (MSU) in South London and Maudsley NHS Foundation
 Trust. Since opening in April 2008, the ward has offered a
 multidisciplinary biopsychosocial approach to support women toward
-recovery and reintegration into the community.\ :sup:`(n.d.g)` In 2017,
+recovery and reintegration into the community.\ :sup:`7` In 2017,
 following the success of implementing the Healing Trauma programme (a
-gender-specific intervention for trauma victims),\ :sup:`(n.d.h)` a
+gender-specific intervention for trauma victims),\ :sup:`8` a
 trauma-informed care approach was introduced. Implementation involved
 team consultation, presentation and a training session on Stephanie
-Covington's Becoming Trauma-Informed Programme.\ :sup:`(n.d.i)`
+Covington's Becoming Trauma-Informed Programme.\ :sup:`9`
 
 This study was conducted as part of a service evaluation to determine
 the prevalence of ACEs in a female MSU cohort and to explore the
@@ -130,10 +132,10 @@ recorded into subsections: White British, Black British, Black African,
 Black Caribbean, Asian and other. Primary diagnosis was recorded into
 three categories, according to the ICD-10: schizophrenia spectrum
 disorders (codes F20–F29), mood [affective] disorders (codes F30–F39)
-and personality disorders (codes F60–F69).\ :sup:`(n.d.j)` MHA sections
-of all patients were recorded into categories: forensic (section 37,
+and personality disorders (codes F60–F69).\ :sup:`10` MHA sections of
+all patients were recorded into categories: forensic (section 37,
 sections 37 and 41, sections 47 and 49, and sections 48 and 49) and
-civil (section 3).\ :sup:`(n.d.k)`
+civil (section 3).\ :sup:`11`
 
 .. _sec2-3:
 
@@ -143,16 +145,16 @@ Data collection and analysis
 Exposure to adverse experiences up to 18 years of age was assessed for
 each participant, following a thorough review of their medical notes;
 ACE history was summarised by a ten-item version of the Adverse
-Childhood Experiences Questionnaire.\ :sup:`(n.d.l)` The ACE
-questionnaire consists of ten binary (yes/no) questions that assess
-exposure to emotional, physical and sexual abuse; emotional and physical
-neglect; and household dysfunction, including domestic violence,
-substance use and incarceration. Participants’ self-harm history since
-18 years of age was obtained via medical records, along with comorbid
-personality disorder, alcohol and drug misuse, and history of violence.
-Self-harm was coded as a binary variable, with the presence of self-harm
-being recorded if there was any mention of self-harm or suicide attempt
-in adulthood mentioned in the medical records. ACEs were extracted from
+Childhood Experiences Questionnaire.\ :sup:`12` The ACE questionnaire
+consists of ten binary (yes/no) questions that assess exposure to
+emotional, physical and sexual abuse; emotional and physical neglect;
+and household dysfunction, including domestic violence, substance use
+and incarceration. Participants’ self-harm history since 18 years of age
+was obtained via medical records, along with comorbid personality
+disorder, alcohol and drug misuse, and history of violence. Self-harm
+was coded as a binary variable, with the presence of self-harm being
+recorded if there was any mention of self-harm or suicide attempt in
+adulthood mentioned in the medical records. ACEs were extracted from
 records of patients’ trauma history recorded in psychological and
 psychiatric reports contained in their medical records. Personality
 disorder presence was defined as a previous diagnosis of any type of
@@ -186,10 +188,10 @@ Results
 Patients were aged between 18 and 72 years at admission (`Table
 1 <#tab01>`__). The sample was primarily Black and minority ethnic, and
 most patients had a primary diagnosis of schizophrenia, schizotypal and
-delusional disorders (ICD-10 codes F20–F29).\ :sup:`(n.d.j)` The
-majority of the sample had a history of drug misuse. Over a third of the
-sample had a history of alcohol misuse, and over a quarter had a
-comorbid personality disorder diagnosis. Table 1Demographic and clinical
+delusional disorders (ICD-10 codes F20–F29).\ :sup:`10` The majority of
+the sample had a history of drug misuse. Over a third of the sample had
+a history of alcohol misuse, and over a quarter had a comorbid
+personality disorder diagnosis. Table 1Demographic and clinical
 characteristics of the patient sampleCharacteristicCases (*N* = 66)Age
 at admission (years), mean (s.d.)38.40 (±11.37)Age categories (years),
 *n* (%)<2510 (15.2)25–3413 (19.7)35–4426 (39.3)45–5412 (18.2)≥555
@@ -309,50 +311,50 @@ We found a high prevalence of ACE exposure in this female MSU cohort,
 with over 80% of individuals experiencing at least one ACE and 56%
 experiencing more than two ACEs. The prevalence of ACE exposure among
 this female MSU group was higher than the 47% prevalence in the general
-adult population of the UK.\ :sup:`(n.d.c)`
+adult population of the UK.\ :sup:`3`
 
 Within this population, there was a high prevalence of adulthood
 self-harm. Adulthood self-harm in our sample was reported by 54.5%,
-similar to the rates reported by Ribeiro et al\ :sup:`(n.d.m)` (whose
-MSU population overlapped with ours), who found that 46.7% had a
-documented history of self-harm before MSU admission. Baker et
-al\ :sup:`(n.d.n)` interviewed female patients in a medium-secure
-setting and discussed their experiences of self-harm; an overarching
-theme discussed was that of ‘the traumatised individual’, suggesting
-that individuals linking their traumatic experiences to self-harming
-behaviour is not uncommon. The high prevalence of ACEs amongst the
-female MSU population indicates that a trauma-informed approach to care
-in MSU settings for women is crucial. Application of ‘universal trauma
-precautions’ is necessary, to ensure that all who have been exposed to
-ACEs receive care that is not only growth-promoting, but also less
-likely to cause re-traumatisation than standard care.\ :sup:`(n.d.o)`
+similar to the rates reported by Ribeiro et al\ :sup:`13` (whose MSU
+population overlapped with ours), who found that 46.7% had a documented
+history of self-harm before MSU admission. Baker et al\ :sup:`14`
+interviewed female patients in a medium-secure setting and discussed
+their experiences of self-harm; an overarching theme discussed was that
+of ‘the traumatised individual’, suggesting that individuals linking
+their traumatic experiences to self-harming behaviour is not uncommon.
+The high prevalence of ACEs amongst the female MSU population indicates
+that a trauma-informed approach to care in MSU settings for women is
+crucial. Application of ‘universal trauma precautions’ is necessary, to
+ensure that all who have been exposed to ACEs receive care that is not
+only growth-promoting, but also less likely to cause re-traumatisation
+than standard care.\ :sup:`15`
 
 We found a statistically significant correlation between an increasing
 number of ACEs and the likelihood of adulthood self-harm. This is
-similar to research by Cleare et al,\ :sup:`(n.d.p)` showing that those
-with a history of repeat self-harm were significantly more likely to
-report exposure to multiple ACEs. Moreover, our finding of a
-statistically significant relationship between emotional abuse and
-adulthood self-harm supports the research by Howard et
-al,\ :sup:`(n.d.e)` who found a statistically significant association
-between emotional abuse and self-harm in a sample of female prisoners.
+similar to research by Cleare et al,\ :sup:`16` showing that those with
+a history of repeat self-harm were significantly more likely to report
+exposure to multiple ACEs. Moreover, our finding of a statistically
+significant relationship between emotional abuse and adulthood self-harm
+supports the research by Howard et al,\ :sup:`5` who found a
+statistically significant association between emotional abuse and
+self-harm in a sample of female prisoners.
 
 It was advantageous to focus on those admitted to a single female MSU
 over the past 11 years, as there is limited data regarding this
 population. Use of electronic medical records to obtain data meant
 minimal information was missing and there was low attrition. In this
 niche population, we achieved a good sample size; only around 12% of the
-3500 MSU beds in the UK are occupied by women.\ :sup:`(n.d.q)`
+3500 MSU beds in the UK are occupied by women.\ :sup:`17`
 
 The ACE questionnaire is limited as it provides no information regarding
 the severity, degree, duration, timing or quality of each ACE component,
 which may differ significantly from person to person. Furthermore, data
 collected about self-harm behaviours could have been improved by using
-the Inventory of Statements about Self-Injury
-questionnaire,\ :sup:`(n.d.r)` examining the type, frequency, severity
-and reasons for the behaviour. Further research could focus on
-collecting more in-depth childhood histories from patients, or using
-self-harm measures that capture frequency and severity.
+the Inventory of Statements about Self-Injury questionnaire,\ :sup:`18`
+examining the type, frequency, severity and reasons for the behaviour.
+Further research could focus on collecting more in-depth childhood
+histories from patients, or using self-harm measures that capture
+frequency and severity.
 
 Limited research is also available in forensic psychiatric settings,
 specifically MSUs, and nationwide research into ACEs and self-harm
@@ -387,99 +389,6 @@ Declaration of interest
 =======================
 
 None.
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-ref1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-ref2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-ref3
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-ref4
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-ref5
-
-      n.d.e.
-
-   .. container:: csl-entry
-      :name: ref-ref6
-
-      n.d.f.
-
-   .. container:: csl-entry
-      :name: ref-ref7
-
-      n.d.g.
-
-   .. container:: csl-entry
-      :name: ref-ref8
-
-      n.d.h.
-
-   .. container:: csl-entry
-      :name: ref-ref9
-
-      n.d.i.
-
-   .. container:: csl-entry
-      :name: ref-ref10
-
-      n.d.j.
-
-   .. container:: csl-entry
-      :name: ref-ref11
-
-      n.d.k.
-
-   .. container:: csl-entry
-      :name: ref-ref12
-
-      n.d.l.
-
-   .. container:: csl-entry
-      :name: ref-ref13
-
-      n.d.m.
-
-   .. container:: csl-entry
-      :name: ref-ref14
-
-      n.d.n.
-
-   .. container:: csl-entry
-      :name: ref-ref15
-
-      n.d.o.
-
-   .. container:: csl-entry
-      :name: ref-ref16
-
-      n.d.p.
-
-   .. container:: csl-entry
-      :name: ref-ref17
-
-      n.d.q.
-
-   .. container:: csl-entry
-      :name: ref-ref18
-
-      n.d.r.
 
 .. [1]
    Joint first authors.

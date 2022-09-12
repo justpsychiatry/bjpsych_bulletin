@@ -2,6 +2,8 @@
 Clinical course of 12 patients on a Covid-19 dementia isolation ward
 ====================================================================
 
+
+
 Richard Kerslake
 Scott Cherry
 Jessica Buckle
@@ -16,12 +18,11 @@ Richard Caplan
 
 Older adults have been particularly vulnerable to outbreaks of severe
 acute respiratory syndrome coronavirus 2 (Covid-19), and mortality rates
-increase with age.\ :sup:`(n.d.a),(n.d.b)` Physiological comorbidities
-and nutritional status are contributory factors, but there is limited
+increase with age.\ :sup:`1,2` Physiological comorbidities and
+nutritional status are contributory factors, but there is limited
 understanding of the influence of mental illness, particularly for
-patients with dementia.\ :sup:`(n.d.c)–(n.d.d)` Furthermore, cognitive
-impairment may also increase the risks of contracting
-Covid-19.\ :sup:`(n.d.e)`
+patients with dementia.\ :sup:`3–5` Furthermore, cognitive impairment
+may also increase the risks of contracting Covid-19.\ :sup:`6`
 
 We have summarised our experiences from a psychiatric in-patient unit to
 describe the clinical outcomes of 12 patients admitted to a dementia
@@ -155,31 +156,3 @@ Declaration of interest
 =======================
 
 None.
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-ref1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-ref2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-ref3
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-ref5
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-ref6
-
-      n.d.e.

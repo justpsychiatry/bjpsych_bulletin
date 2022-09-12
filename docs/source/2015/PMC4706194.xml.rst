@@ -2,6 +2,8 @@
 Experiences of ward rounds among in-patients on an acute mental health ward: a qualitative exploration\ `† <#fn1>`__
 ====================================================================================================================
 
+
+
 Reed Cappleman
 Zandra Bamford
 Clare Dixon
@@ -30,23 +32,22 @@ Hayley ThomasCorrespondence to Reed Cappleman
 ..
 
 Ward rounds are seen as a key component of care provision in in-patient
-psychiatric settings.\ :sup:`(n.d.a)` However, literature in this area
-has found that they evoke anxiety in a large proportion of
-patients,\ :sup:`(n.d.b),(n.d.c)` particularly when more people are
-present.\ :sup:`(n.d.d)` Patients report not feeling listened to and
-feeling that information is withheld from them.\ :sup:`(n.d.c)` Many
-patients also feel inadequately prepared for ward rounds by
-staff.\ :sup:`(n.d.e)` Labib & Brownell\ :sup:`(n.d.c)` highlight the
-scarcity of qualitative investigations in this area and suggest that
-addressing this may highlight additional unexplored factors affecting
-patient satisfaction with ward rounds. This study aims to address this
-need. It was carried out in an acute in-patient unit located in a
-district general hospital in the north west of England. The need for
-this project to take place was identified by the unit's psychiatry team,
-who wished to investigate how ward rounds could be adapted to facilitate
-patient satisfaction. It was also hoped the project might identify
-avenues of investigation for future researchers, as per Labib &
-Brownell's suggestions.\ :sup:`(n.d.c)`
+psychiatric settings.\ :sup:`1` However, literature in this area has
+found that they evoke anxiety in a large proportion of
+patients,\ :sup:`2,3` particularly when more people are
+present.\ :sup:`4` Patients report not feeling listened to and feeling
+that information is withheld from them.\ :sup:`3` Many patients also
+feel inadequately prepared for ward rounds by staff.\ :sup:`5` Labib &
+Brownell\ :sup:`3` highlight the scarcity of qualitative investigations
+in this area and suggest that addressing this may highlight additional
+unexplored factors affecting patient satisfaction with ward rounds. This
+study aims to address this need. It was carried out in an acute
+in-patient unit located in a district general hospital in the north west
+of England. The need for this project to take place was identified by
+the unit's psychiatry team, who wished to investigate how ward rounds
+could be adapted to facilitate patient satisfaction. It was also hoped
+the project might identify avenues of investigation for future
+researchers, as per Labib & Brownell's suggestions.\ :sup:`3`
 
 .. _S1:
 
@@ -138,17 +139,17 @@ Data analysis
 -------------
 
 Data were analysed using thematic analysis, a flexible approach for
-organising large amounts of qualitative data.\ :sup:`(n.d.f)` Data
-analysis followed the four conventions for thematic analysis suggested
-by Braun & Clarke.\ :sup:`(n.d.f)`
+organising large amounts of qualitative data.\ :sup:`6` Data analysis
+followed the four conventions for thematic analysis suggested by Braun &
+Clarke.\ :sup:`6`
 
 #. Familiarisation with the data, re-reading transcripts looking for
    patterns and meanings.
 
 #. Generating initial codes: organising the data into groups according
    to content and meaning. Transcripts were then re-coded and initial
-   codes were grouped into ‘second-cycle’ codes.\ :sup:`(n.d.g)` For
-   example, initial codes from patient C's transcript, such as ‘feeling
+   codes were grouped into ‘second-cycle’ codes.\ :sup:`7` For example,
+   initial codes from patient C's transcript, such as ‘feeling
    intimidated’ and ‘not being co-operative backfires’ were subsumed
    under the second-cycle code ‘serious consequences to not behaving in
    the right way’.
@@ -177,7 +178,7 @@ organised into an overarching theme running throughout the data,
 representing the data at the highest level of abstraction, and
 first-level themes representing participants' accounts in less abstract,
 more concrete ways. The terminology of ‘overarching themes’ and ‘levels
-of themes’ is derived from Braun & Clarke.\ :sup:`(n.d.f)`
+of themes’ is derived from Braun & Clarke.\ :sup:`6`
 
 .. _S6:
 
@@ -346,13 +347,13 @@ Discussion
 ==========
 
 Our participants' accounts lend support to past research indicating that
-patients may find ward rounds anxiety provoking.\ :sup:`(n.d.c),(n.d.e)`
-In support of previous findings linking ward round size to patient
-anxiety,\ :sup:`(n.d.d),(n.d.h)` participants in this study also spoke
-of the difficulties in talking to a room containing a large number of
-people unknown to them. Participants also reported that ward rounds are
-more distressing if they are already in an anxious or distressed state,
-an association which has not yet been studied in the quantitative
+patients may find ward rounds anxiety provoking.\ :sup:`3,5` In support
+of previous findings linking ward round size to patient
+anxiety,\ :sup:`4,8` participants in this study also spoke of the
+difficulties in talking to a room containing a large number of people
+unknown to them. Participants also reported that ward rounds are more
+distressing if they are already in an anxious or distressed state, an
+association which has not yet been studied in the quantitative
 literature. Findings from this study suggest that a lack of well-timed
 information about ward rounds could also contribute to anxiety.
 
@@ -402,49 +403,6 @@ We thank participants who gave their time; Charlene Rouski, James
 Dudley, Katie Usher and Dr Sarah Jones for their help with recruitment;
 and the psychiatry team on units K1, K2 and K3 at Royal Bolton Hospital
 for their support.
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-R1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-R2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-R3
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-R4
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-R5
-
-      n.d.e.
-
-   .. container:: csl-entry
-      :name: ref-R6
-
-      n.d.f.
-
-   .. container:: csl-entry
-      :name: ref-R7
-
-      n.d.g.
-
-   .. container:: csl-entry
-      :name: ref-R8
-
-      n.d.h.
 
 .. [1]
    **Dr Reed Cappleman** is a clinical psychologist at South West

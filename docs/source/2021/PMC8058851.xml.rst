@@ -2,6 +2,8 @@
 Patterns and motivations for method choices in suicidal thoughts and behaviour: qualitative content analysis of a large online survey
 =====================================================================================================================================
 
+
+
 Lisa Marzano
 Dafni Katsampa
 Jay-Marie Mackenzie
@@ -70,37 +72,35 @@ Bob Fields\ **Correspondence:** Lisa Marzano. Email: l.marzano@mdx.ac.uk
 Background
 ==========
 
-Suicide is a leading cause of death worldwide.\ :sup:`(n.d.a)` In
-England, the 2014 Adult Psychiatric Morbidity Survey found that a fifth
-of adults (20.6%) reported thoughts of taking their own life at some
-point, and one person in 15 (6.7%) has made a suicide
-attempt.\ :sup:`(n.d.b)` Choice of method is one of the most important
-determinants of whether suicidal behaviour is fatal, and a key aspect of
-the process and planning involved in a suicide attempt. Indeed, earlier
-studies have shown that gathering information and access to means of
-suicide are known indicators of high suicidal intent and
-risk.\ :sup:`(n.d.c),(n.d.d)` Yet, previous literature has mostly
-focused on prevalence of methods, and associations with gender, age and
-mental disorder.\ :sup:`(n.d.e)` How or why individuals consider, choose
-or discard particular methods are not well understood.
+Suicide is a leading cause of death worldwide.\ :sup:`1` In England, the
+2014 Adult Psychiatric Morbidity Survey found that a fifth of adults
+(20.6%) reported thoughts of taking their own life at some point, and
+one person in 15 (6.7%) has made a suicide attempt.\ :sup:`2` Choice of
+method is one of the most important determinants of whether suicidal
+behaviour is fatal, and a key aspect of the process and planning
+involved in a suicide attempt. Indeed, earlier studies have shown that
+gathering information and access to means of suicide are known
+indicators of high suicidal intent and risk.\ :sup:`3,4` Yet, previous
+literature has mostly focused on prevalence of methods, and associations
+with gender, age and mental disorder.\ :sup:`5` How or why individuals
+consider, choose or discard particular methods are not well understood.
 
 Epidemiological studies have shown that different methods, and
 combinations of methods, vary not only in relation to lethality, but
 also in the extent to which they predict subsequent suicidal behaviour
-and ‘method switching’.\ :sup:`(n.d.f)–(n.d.g)` Their wider impact can
-also vary, not least by virtue of the exposure and potential
-clustering/‘contagion' effects associated with more public, unusual and
-‘newsworthy’ methods.\ :sup:`(n.d.h)` Indeed, avoiding ‘excessive detail
-of the method […] to prevent simulative acts’ remains to date the only
-official regulation for the reporting of suicide in the
-UK.\ :sup:`(n.d.i)`
+and ‘method switching’.\ :sup:`6–10` Their wider impact can also vary,
+not least by virtue of the exposure and potential clustering/‘contagion'
+effects associated with more public, unusual and ‘newsworthy’
+methods.\ :sup:`11` Indeed, avoiding ‘excessive detail of the method […]
+to prevent simulative acts’ remains to date the only official regulation
+for the reporting of suicide in the UK.\ :sup:`12`
 
 This clearly points to the importance of better understanding the
 cultural and cognitive availability of different methods of suicide.
 Previous studies in this emerging field have identified these as key
 drivers in people's method choices, but have explored their significance
 in relation to a relatively narrow range of methods and with generally
-small study samples.\ :sup:`(n.d.e)` Furthermore, earlier literature has
+small study samples.\ :sup:`5` Furthermore, earlier literature has
 tended to focus on fatal and non-fatal suicidal behaviour, overlooking
 its immediate, and generally less understood, precursor: suicidal
 ideation. Understanding the psychological processes preceding a suicide
@@ -112,14 +112,14 @@ The stability, or otherwise, of method choices also warrants further
 attention. A recent systematic review found that a third of individuals
 (33.3%) switch methods between successive episodes of self-harm, and
 almost half (42.11%) between an episode of self-harm and
-suicide.\ :sup:`(n.d.j)` Based on prevalence of methods, there appears
-to be no discernible or predictable pattern to such means
-switching.\ :sup:`(n.d.k),(n.d.j)` Exploration of meanings, motivations
-and mechanisms may, however, offer valuable new insights. For example, a
+suicide.\ :sup:`13` Based on prevalence of methods, there appears to be
+no discernible or predictable pattern to such means
+switching.\ :sup:`9,13` Exploration of meanings, motivations and
+mechanisms may, however, offer valuable new insights. For example, a
 study in Austria showed that, despite method switching between episodes
 of self-harm being common, choice of means in the time immediately
 preceding a suicide attempt is often stable, and focused on a single
-method.\ :sup:`(n.d.l)`
+method.\ :sup:`8`
 
 .. _sec1-2:
 
@@ -132,10 +132,10 @@ of specific methods of suicide among people with a history of suicidal
 behaviour and those who have experienced, but not enacted, suicidal
 thoughts. Dominant models of suicidal behaviour point to this as an
 important distinction, with potential for novel insights into the
-transition from suicidal ideation to behaviour.\ :sup:`(n.d.m),(n.d.n)`
-Given the disproportionate risk of suicide in men in the
-UK,\ :sup:`(n.d.o)` gender differences in method choices were also
-explored, in relation to both suicidal ideation and behaviour.
+transition from suicidal ideation to behaviour.\ :sup:`14,15` Given the
+disproportionate risk of suicide in men in the UK,\ :sup:`16` gender
+differences in method choices were also explored, in relation to both
+suicidal ideation and behaviour.
 
 .. _sec2:
 
@@ -150,12 +150,12 @@ Online survey
 Data were gathered as part of a wider study of method and location
 choices in relation to suicidal thoughts and attempts in the UK (QUEST,
 Qualitative Understanding of Experiencing Suicidal
-Thoughts\ :sup:`(n.d.p),(n.d.q)`). A national online survey inviting
-people to share their experiences of suicidality was advertised through
-suicide prevention organisations such as Samaritans UK, online forums,
-social media and special interest groups. Study posters and leaflets
-were also placed on university bulletin boards, at local branch offices
-of relevant charities, in the National Suicide Prevention Alliance
+Thoughts\ :sup:`17,18`). A national online survey inviting people to
+share their experiences of suicidality was advertised through suicide
+prevention organisations such as Samaritans UK, online forums, social
+media and special interest groups. Study posters and leaflets were also
+placed on university bulletin boards, at local branch offices of
+relevant charities, in the National Suicide Prevention Alliance
 newsletter and were mailed out to supporters of the charity Campaign
 Against Living Miserably (CALM).
 
@@ -188,14 +188,14 @@ Statistical analysis
 
 Open-ended survey responses were coded through a multi-stepped approach.
 Suicide methods were classified using the intentional self-harm
-(X60–X84) codes of ICD-10.\ :sup:`(n.d.r)` Reasons for engaging in
-specific methods were analysed inductively for content,\ :sup:`(n.d.s)`
-and an additional coding category was created to capture deterring
-factors, where reported. Three coders (D.F.St-H., H.M., N.E.-G.) coded
-10% of the data, with substantial interrater reliability (Kraemer's
-kappa 0.774) (see Supplementary Appendix for a full description of the
-coding protocol and details of interrater reliability in relation to
-individual code categories).
+(X60–X84) codes of ICD-10.\ :sup:`19` Reasons for engaging in specific
+methods were analysed inductively for content,\ :sup:`20` and an
+additional coding category was created to capture deterring factors,
+where reported. Three coders (D.F.St-H., H.M., N.E.-G.) coded 10% of the
+data, with substantial interrater reliability (Kraemer's kappa 0.774)
+(see Supplementary Appendix for a full description of the coding
+protocol and details of interrater reliability in relation to individual
+code categories).
 
 Survey data are presented as frequencies or percentages, as appropriate.
 Variations in method choices were analysed using chi-square tests (for
@@ -441,7 +441,7 @@ Although specific methods, and composite methods, have been associated
 with a higher risk of death and subsequent suicidal behaviour,
 epidemiological analyses of repeat hospital admissions for self-harm
 have concluded that ‘method of self-harm is fluctuating and
-unpredictable’.\ :sup:`(n.d.k)` The results of this exploratory study of
+unpredictable’.\ :sup:`9` The results of this exploratory study of
 first-person accounts suggest that, although indeed changing and
 complex, method choices are reasoned, personally and culturally
 meaningful, and a crucial element of the processes and planning involved
@@ -453,19 +453,19 @@ particular reason, or set of reasons, for considering or discarding such
 method/s.
 
 To date, method choices have primarily been investigated in relation to
-completed suicide and suicide attempts.\ :sup:`(n.d.e),(n.d.t),(n.d.u)`
-This is the first study to explore patterns and motivations for method
-choices in relation also to suicidal ideation, which is a surprising gap
-in knowledge given that 10–20% of individuals experiences lifetime
-suicidal ideation.\ :sup:`(n.d.b),(n.d.v)` Suicidal thoughts are a known
-risk factor and immediate precursor of suicidal behaviour, and key to
-understanding the transition from ‘suicidal ideation to
-action’.\ :sup:`(n.d.m),(n.d.n)` In relation specifically to methods
-choices, suicidal thoughts provide some important insights into the
-acceptability and cognitive availability of different means of suicide.
-In other words, they can help us understand which methods are
-cognitively available to individuals in crisis (in a given sociocultural
-context), and what makes them more or less ‘attractive’ to them.
+completed suicide and suicide attempts.\ :sup:`5,21,22` This is the
+first study to explore patterns and motivations for method choices in
+relation also to suicidal ideation, which is a surprising gap in
+knowledge given that 10–20% of individuals experiences lifetime suicidal
+ideation.\ :sup:`2,23` Suicidal thoughts are a known risk factor and
+immediate precursor of suicidal behaviour, and key to understanding the
+transition from ‘suicidal ideation to action’.\ :sup:`14,15` In relation
+specifically to methods choices, suicidal thoughts provide some
+important insights into the acceptability and cognitive availability of
+different means of suicide. In other words, they can help us understand
+which methods are cognitively available to individuals in crisis (in a
+given sociocultural context), and what makes them more or less
+‘attractive’ to them.
 
 In this study, self-poisoning was the most commonly contemplated method
 of suicide. However, most respondents had considered multiple methods of
@@ -475,23 +475,22 @@ among individuals who had never attempted suicide, relatively uncommon
 means such as jumping or lying in front of a moving object, drowning,
 handgun discharge and crashing of a motor vehicle. In England and Wales,
 self-harm involving a moving object, drowning or fall and fracture
-accounts, all together, for 12% of all suicides,\ :sup:`(n.d.w)` and
-only 1% of hospital presentations for self-harm.\ :sup:`(n.d.g)` Firearm
-use, although a common suicide method in countries with less stringent
-gun control such as the USA,\ :sup:`(n.d.x)` is even rarer in the UK,
-accounting for less than 2% of all suicides\ :sup:`(n.d.y)` and 0.03% of
-self-harm hospital presentations.\ :sup:`(n.d.g)` Although these are
-only a small proportion of completed suicides and hospital presentations
-for self-harm, such methods tend to be disproportionately reported in
-the media,\ :sup:`(n.d.h)` which may reflect and account for their
+accounts, all together, for 12% of all suicides,\ :sup:`24` and only 1%
+of hospital presentations for self-harm.\ :sup:`10` Firearm use,
+although a common suicide method in countries with less stringent gun
+control such as the USA,\ :sup:`25` is even rarer in the UK, accounting
+for less than 2% of all suicides\ :sup:`26` and 0.03% of self-harm
+hospital presentations.\ :sup:`10` Although these are only a small
+proportion of completed suicides and hospital presentations for
+self-harm, such methods tend to be disproportionately reported in the
+media,\ :sup:`11` which may reflect and account for their
 over-representation and over-availability in people's suicidal thoughts
-(in the UK, most suicides are hanging\ :sup:`(n.d.o)` whereas most
-hospital presentations for self-harm involve
-self-poisoning\ :sup:`(n.d.g)`). Almost 10% of the participants
-explicitly identified exposure to a given method as a primary motivation
-for considering it as a means of suicide. Even more common reasons were
-perceived method ease, accessibility, speed and effectiveness, alongside
-the desire to minimise pain and violence.
+(in the UK, most suicides are hanging\ :sup:`16` whereas most hospital
+presentations for self-harm involve self-poisoning\ :sup:`10`). Almost
+10% of the participants explicitly identified exposure to a given method
+as a primary motivation for considering it as a means of suicide. Even
+more common reasons were perceived method ease, accessibility, speed and
+effectiveness, alongside the desire to minimise pain and violence.
 
 However, the range of methods described in relation to actual suicidal
 behaviour was narrower, as were respondents’ motivations for using such
@@ -503,13 +502,13 @@ accessibility, and ease of method and the minimisation of pain were more
 common concerns than perceived speed or likelihood of death. An
 exception was jumping/lying in front of a vehicle, for which method
 effectiveness was the most frequently cited reason (see also Marzano et
-al\ :sup:`(n.d.q)`).
+al\ :sup:`18`).
 
 In relation to all methods, lethality appeared to be a greater concern
 for male than female respondents, and impulsivity less common, as also
-reported elsewhere.\ :sup:`(n.d.z),(n.d.aa)` Together with the increased
-use of methods other than self-poisoning,\ :sup:`(n.d.ab)` this might
-contribute to the disproportionate risk of suicide in men.
+reported elsewhere.\ :sup:`27,28` Together with the increased use of
+methods other than self-poisoning,\ :sup:`29` this might contribute to
+the disproportionate risk of suicide in men.
 
 Of note are also some of the differences between respondents who had
 contemplated but never engaged in suicidal behaviour, and those who had
@@ -528,7 +527,7 @@ attempted suicide *per se*, but was cited more frequently in relation to
 suicidal behaviour than ideation. This finding lends support to the idea
 that individuals who attempt suicide may not have significantly elevated
 trait impulsiveness, compared with ‘ideators’; however, they may have
-higher impulsiveness when in a negative state.\ :sup:`(n.d.ac)`
+higher impulsiveness when in a negative state.\ :sup:`30`
 
 .. _sec4-2:
 
@@ -544,15 +543,14 @@ powered statistical analyses, as well as more nuanced, in-depth analyses
 of particular groups or methods, including the different images, myths
 and cultural scripts that exists around – and against – specific means
 of suicide (as presented elsewhere in relation to railway
-suicide\ :sup:`(n.d.q)`).
+suicide\ :sup:`18`).
 
 However, findings were based on a self-selected, predominantly female
 sample, and may not necessarily be representative of all individuals who
 consider, attempt or indeed die by suicide, within the UK and more
 widely. National and cultural variations in suicide method choices
 suggest the need for replication with broader and more diverse
-samples,\ :sup:`(n.d.x)` in a wider range of community and clinical
-settings.
+samples,\ :sup:`25` in a wider range of community and clinical settings.
 
 Given the exploratory nature of this study, we did not gather systematic
 information about potentially important factors such as prior
@@ -574,12 +572,12 @@ Implications
 ------------
 
 Previous research has concluded that ‘people's risks or needs [cannot
-be] based simply on the method of harm’,\ :sup:`(n.d.k)` or the
-potential lethality of that method. The results of this study also
-suggest that the methods people consider when contemplating suicide are
-often not the ones that are then enacted in a suicide attempt, nor are
-they necessarily chosen for the same reasons. Nonetheless, exploring
-method choices is far from a fruitless activity, and can usefully inform
+be] based simply on the method of harm’,\ :sup:`9` or the potential
+lethality of that method. The results of this study also suggest that
+the methods people consider when contemplating suicide are often not the
+ones that are then enacted in a suicide attempt, nor are they
+necessarily chosen for the same reasons. Nonetheless, exploring method
+choices is far from a fruitless activity, and can usefully inform
 preventative initiatives.
 
 Consistent with earlier literature, our findings suggest that cognitive
@@ -587,19 +585,19 @@ and physical availability are key drivers in the choice and prevalence
 of suicide methods. The former appears to be particularly relevant in
 the context of people's suicidal thoughts, with methods perceived to be
 ‘easy’ and lethal featuring highly in individuals’ so called ‘ideation
-menu’.\ :sup:`(n.d.ad)` The latter (i.e. the accessibility of a given
-method), becomes especially important in the context of a suicide
-attempt, and impulsivity relatively more common. This clearly
-underscores the need for preventative measures that restrict access to
-means and delay impulsive behaviour, such as the erection of barriers at
-high-risk locations and reduced pack sizes of
-paracetamol.\ :sup:`(n.d.ae)` Avoiding depictions and descriptions of
-suicide methods in the media may help limit the cognitive availability
-of specific means, particularly for methods portrayed as lethal, easy,
-quick and painless. This may be especially important in the reporting of
-celebrity suicides. A recent meta-analysis found that when the suicide
-method used by a celebrity was reported, there was an associated 30%
-increase in deaths by the same method.\ :sup:`(n.d.af)`
+menu’.\ :sup:`31` The latter (i.e. the accessibility of a given method),
+becomes especially important in the context of a suicide attempt, and
+impulsivity relatively more common. This clearly underscores the need
+for preventative measures that restrict access to means and delay
+impulsive behaviour, such as the erection of barriers at high-risk
+locations and reduced pack sizes of paracetamol.\ :sup:`32` Avoiding
+depictions and descriptions of suicide methods in the media may help
+limit the cognitive availability of specific means, particularly for
+methods portrayed as lethal, easy, quick and painless. This may be
+especially important in the reporting of celebrity suicides. A recent
+meta-analysis found that when the suicide method used by a celebrity was
+reported, there was an associated 30% increase in deaths by the same
+method.\ :sup:`33`
 
 In clinical settings, exploring the decision-making around specific
 methods may help challenge unhelpful myths and misconceptions, identify
@@ -610,11 +608,11 @@ via targeted communication and media strategies, and common ‘dissuaders’
 reinforced. However, the risk and unintended consequences of different
 approaches to means and ‘myth-restriction’ need careful thought and
 evaluation, whether in the context of means-restriction
-counselling\ :sup:`(n.d.ag)` or as part of wider public health
-approaches. Further research is needed in this area, but the risks and
-ethics of how and where research findings are disseminated and
-‘translated’ need careful attention to avoid reinforcing the
-acceptability and availability of (lethal) means of self-harm.
+counselling\ :sup:`34` or as part of wider public health approaches.
+Further research is needed in this area, but the risks and ethics of how
+and where research findings are disseminated and ‘translated’ need
+careful attention to avoid reinforcing the acceptability and
+availability of (lethal) means of self-harm.
 
 We are greatly indebted to the hundreds of people who generously shared
 their time, stories and experiences with us. This programme of research
@@ -675,174 +673,6 @@ None.
 
 ICMJE forms are in the supplementary material, available online at
 https://doi.org/10.1192/bjo.2021.15.
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-ref1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-ref2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-ref3
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-ref4
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-ref5
-
-      n.d.e.
-
-   .. container:: csl-entry
-      :name: ref-ref6
-
-      n.d.f.
-
-   .. container:: csl-entry
-      :name: ref-ref8
-
-      n.d.l.
-
-   .. container:: csl-entry
-      :name: ref-ref9
-
-      n.d.k.
-
-   .. container:: csl-entry
-      :name: ref-ref10
-
-      n.d.g.
-
-   .. container:: csl-entry
-      :name: ref-ref11
-
-      n.d.h.
-
-   .. container:: csl-entry
-      :name: ref-ref12
-
-      n.d.i.
-
-   .. container:: csl-entry
-      :name: ref-ref13
-
-      n.d.j.
-
-   .. container:: csl-entry
-      :name: ref-ref14
-
-      n.d.m.
-
-   .. container:: csl-entry
-      :name: ref-ref15
-
-      n.d.n.
-
-   .. container:: csl-entry
-      :name: ref-ref16
-
-      n.d.o.
-
-   .. container:: csl-entry
-      :name: ref-ref17
-
-      n.d.p.
-
-   .. container:: csl-entry
-      :name: ref-ref18
-
-      n.d.q.
-
-   .. container:: csl-entry
-      :name: ref-ref19
-
-      n.d.r.
-
-   .. container:: csl-entry
-      :name: ref-ref20
-
-      n.d.s.
-
-   .. container:: csl-entry
-      :name: ref-ref21
-
-      n.d.t.
-
-   .. container:: csl-entry
-      :name: ref-ref22
-
-      n.d.u.
-
-   .. container:: csl-entry
-      :name: ref-ref23
-
-      n.d.v.
-
-   .. container:: csl-entry
-      :name: ref-ref24
-
-      n.d.w.
-
-   .. container:: csl-entry
-      :name: ref-ref25
-
-      n.d.x.
-
-   .. container:: csl-entry
-      :name: ref-ref26
-
-      n.d.y.
-
-   .. container:: csl-entry
-      :name: ref-ref27
-
-      n.d.z.
-
-   .. container:: csl-entry
-      :name: ref-ref28
-
-      n.d.aa.
-
-   .. container:: csl-entry
-      :name: ref-ref29
-
-      n.d.ab.
-
-   .. container:: csl-entry
-      :name: ref-ref30
-
-      n.d.ac.
-
-   .. container:: csl-entry
-      :name: ref-ref31
-
-      n.d.ad.
-
-   .. container:: csl-entry
-      :name: ref-ref32
-
-      n.d.ae.
-
-   .. container:: csl-entry
-      :name: ref-ref33
-
-      n.d.af.
-
-   .. container:: csl-entry
-      :name: ref-ref34
-
-      n.d.ag.
 
 .. [1]
    Denominators vary because of missing data.

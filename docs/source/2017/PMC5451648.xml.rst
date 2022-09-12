@@ -2,6 +2,8 @@
 An analysis of whether a working-age ward-based liaison psychiatry service requires the input of a liaison psychiatrist
 =======================================================================================================================
 
+
+
 Elspeth A. Guthrie
 Aaron T. McMeekin
 Sylvia Khan
@@ -35,25 +37,25 @@ Damien LongsonCorrespondence to Aaron T. McMeekin
 
 Liaison psychiatry services in England have recently seen considerable
 expansion, following the positive evaluation of the Rapid Assessment
-Interface and Discharge Team (RAID) service in
-Birmingham.\ :sup:`(n.d.a)` The independent evaluation suggested that
-this well-staffed multidisciplinary liaison psychiatry service returned
-considerable cost savings for people with mental health problems in that
-general hospital and those attending the emergency department.
+Interface and Discharge Team (RAID) service in Birmingham.\ :sup:`1` The
+independent evaluation suggested that this well-staffed
+multidisciplinary liaison psychiatry service returned considerable cost
+savings for people with mental health problems in that general hospital
+and those attending the emergency department.
 
 The 2015 annual survey of liaison psychiatry in England demonstrated
 that many services are too poorly resourced to be delivering benefits to
-patients as envisaged by the RAID study,\ :sup:`(n.d.b)` while the
-recent *Guidance on Developing Models for Liaison Psychiatry Services*
-has shown great variability in service provision.\ :sup:`(n.d.c)` The
-relative lack of consultant psychiatric input suggests that the
-specialist skills offered by consultant liaison psychiatrists may be
-poorly understood. To examine the multidisciplinary liaison psychiatry
-team, we aimed to determine the proportion of referrals to a ward-based
-liaison service which required the involvement of a psychiatrist in a
-busy tertiary teaching hospital in England. This project was carried out
-as part of a registered audit (Audit Project 2125) with Manchester
-Mental Health and Social Care Trust.
+patients as envisaged by the RAID study,\ :sup:`2` while the recent
+*Guidance on Developing Models for Liaison Psychiatry Services* has
+shown great variability in service provision.\ :sup:`3` The relative
+lack of consultant psychiatric input suggests that the specialist skills
+offered by consultant liaison psychiatrists may be poorly understood. To
+examine the multidisciplinary liaison psychiatry team, we aimed to
+determine the proportion of referrals to a ward-based liaison service
+which required the involvement of a psychiatrist in a busy tertiary
+teaching hospital in England. This project was carried out as part of a
+registered audit (Audit Project 2125) with Manchester Mental Health and
+Social Care Trust.
 
 There are many descriptions of the activity of liaison services, but we
 believe this is the first time the role of a psychiatrist has been
@@ -81,8 +83,8 @@ The following details were recorded for each referral: age, gender,
 number of face-to-face contacts carried out by the team, amount of time
 the team had ongoing contact with the patient (days), reason for
 referral, referrer type, psychiatric diagnosis using clinical judgement
-according to ICD-10 criteria,\ :sup:`(n.d.d)` employment of the Mental
-Health Act 1983, and disposal.
+according to ICD-10 criteria,\ :sup:`4` employment of the Mental Health
+Act 1983, and disposal.
 
 .. _S2:
 
@@ -484,35 +486,7 @@ provides support for the recent commissioning guidance for liaison
 psychiatry services in England developed by the Department of Health,
 which suggests that liaison psychiatry services in a teaching
 hospital/inner city setting may require additional consultant
-psychiatric input.\ :sup:`(n.d.e)`
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-R1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-R2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-R3
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-R4
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-R7
-
-      n.d.e.
+psychiatric input.\ :sup:`7`
 
 .. [1]
    **Elspeth A. Guthrie** is a Consultant in Psychological Medicine at

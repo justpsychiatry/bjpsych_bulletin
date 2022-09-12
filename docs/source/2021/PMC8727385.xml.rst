@@ -2,6 +2,8 @@
 Peggy Seriès: Bayesian on a bike
 ================================
 
+
+
 Claire McKenna [1]_
 :Date: 2021-12
 
@@ -33,10 +35,10 @@ beliefs and learning in disorders such as schizophrenia, autism,
 depression and anxiety.
 
 Seriès edited and contributed to the first accessible textbook on the
-emerging field of computational psychiatry.\ :sup:`(n.d.a)` For any
-clinicians feeling jaded, read it for an overview of computational
-approaches in your psychiatric field of interest and to get excited
-about psychiatry all over again.
+emerging field of computational psychiatry.\ :sup:`1` For any clinicians
+feeling jaded, read it for an overview of computational approaches in
+your psychiatric field of interest and to get excited about psychiatry
+all over again.
 
 Seriès only started cycling competitively at the age of 39. Since then
 she has won multiple track cycling championships nationally and
@@ -182,9 +184,9 @@ arrogance in how you present your work – the need to aim for
 accessibility. For me, it was very inspiring.
 
 **Why did you use that Einstein quotation at the start of the chapter
-you wrote:(n.d.a) ‘One thing I have learned in a long life is that all
-our science, measured against reality is primitive and childlike – and
-yet it is the most precious thing we have’?**
+you wrote:1 ‘One thing I have learned in a long life is that all our
+science, measured against reality is primitive and childlike – and yet
+it is the most precious thing we have’?**
 
 What I meant is that the models we have at the moment are most certainly
 oversimplified and naive, but we have to start somewhere and from there
@@ -286,10 +288,10 @@ Both types of work are complementary and can also be combined.
 
 There are already indications that machine learning can help predict
 trajectories of mental illness or predict response to treatment. There
-is for example a seminal study by Chekroud et al,\ :sup:`(n.d.b)`
-showing that it is possible to predict (somewhat significantly above
-chance) response to treatment (citalopram) for people suffering from
-depression. But overall, the field is really in its infancy.
+is for example a seminal study by Chekroud et al,\ :sup:`2` showing that
+it is possible to predict (somewhat significantly above chance) response
+to treatment (citalopram) for people suffering from depression. But
+overall, the field is really in its infancy.
 
 **You pointed out that you tend to talk about ‘the brain’ and I tend to
 say ‘the mind’. Is computational psychiatry more concerned with the
@@ -372,7 +374,7 @@ mental illness, for example.
 
 Work looking at reinforcement learning and Bayesian inference can also
 hopefully ultimately inform learning-based psychotherapies, as
-researchers like Michael Moutoussis\ :sup:`(n.d.c)` have shown.
+researchers like Michael Moutoussis\ :sup:`3` have shown.
 
 **If computational psychiatry were the Tour de France, which stage are
 we currently at? What would represent the Champs-Élysées in
@@ -383,24 +385,6 @@ even if it feels like the Alps! The Champs-Elysées, for me, would be to
 better understand the root causes of mental illness, either at a
 biological or environmental level, and inform new therapies, in
 particular psychotherapies.
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-ref1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-ref2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-ref3
-
-      n.d.c.
 
 .. [1]
    **Claire McKenna talks to Peggy Seriès**, editor of the first primer

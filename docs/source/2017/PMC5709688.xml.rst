@@ -2,6 +2,8 @@
 Profile. The constant psychiatrist: an interview with Michael Kopelman
 ======================================================================
 
+
+
 Norman Poole [1]_
 :Date: 2017-12
 
@@ -94,7 +96,7 @@ he was not your typical medical student: ‘I read Luria quite early on,
 when I should have been reading anatomy textbooks!’
 
 Paradoxically, a contemporary model of memory claims that it evolved to
-enable planning for the future, or mental time travel.\ :sup:`(n.d.)`
+enable planning for the future, or mental time travel.\ :sup:`1`
 Professor Kopelman's forays into the science of memory were thus doubly
 prescient: “‘I'd been interested in the neuropsychology of memory, which
 was just developing at the end of the 60s and 70s. I was reading quite a
@@ -122,14 +124,6 @@ days of the week, Professor Kopelman divides his time between a
 beautiful 18th-century home in Surrey and a cottage in Norfolk. It is
 apparent that similarities to le Carré's heroes don't just end with the
 raincoat.
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-R1
-
-      n.d.
 
 .. [1]
    **Norman Poole** is a consultant neuropsychiatrist at St George's

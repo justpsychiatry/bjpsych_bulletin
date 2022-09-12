@@ -2,6 +2,8 @@
 Mobile telephone apps in mental health practice: uses, opportunities and challenges
 ===================================================================================
 
+
+
 Justin Marley
 Saeed FarooqCorrespondence to Justin Marley (Justin.Marley@nepft.nhs.uk)
  [1]_
@@ -31,12 +33,12 @@ are downloaded. Downloading apps (either free or for a nominal fee) is
 straightforward. Apps are available for a large number of mental health
 conditions and are also known as mHealth apps. Many of these apps have
 already been investigated by researchers and include apps for
-psychosis,\ :sup:`(n.d.a)` depression,\ :sup:`(n.d.b)`
-anxiety,\ :sup:`(n.d.c)` alcohol use disorders,\ :sup:`(n.d.d)` smoking
-cessation,\ :sup:`(n.d.e)` sleep disturbance\ :sup:`(n.d.f)` and weight
-loss.\ :sup:`(n.d.g)` In this article we will avoid the more generic
-productivity apps (e.g. email apps) and will instead focus on general
-clinical and mHealth apps as well as regulated apps where possible.
+psychosis,\ :sup:`1` depression,\ :sup:`2` anxiety,\ :sup:`3` alcohol
+use disorders,\ :sup:`4` smoking cessation,\ :sup:`5` sleep
+disturbance\ :sup:`6` and weight loss.\ :sup:`7` In this article we will
+avoid the more generic productivity apps (e.g. email apps) and will
+instead focus on general clinical and mHealth apps as well as regulated
+apps where possible.
 
 .. _S1:
 
@@ -55,7 +57,7 @@ although the latter overlaps with self-monitoring. Apps have proven
 useful in assessment and diagnosis in clinical practice. In one study,
 50% of doctors reported that apps facilitated diagnosis during on-call
 work whereas 43% reported apps helped them interpret laboratory
-values.\ :sup:`(n.d.h)`
+values.\ :sup:`8`
 
 As an example, Lab Tests Online UK
 (`www.labtestsonline.org.uk <www.labtestsonline.org.uk>`__) is a
@@ -129,8 +131,8 @@ Free supports the use of exposure therapy for the treatment of phobias
 in the form of games and augmented reality. Rizvi *et al* described an
 app called DBT Field Coach that provided instructions, exercises and
 reminders to help patients with borderline personality disorder manage
-emotional crises.\ :sup:`(n.d.i)` The researchers found that the app
-helped patients to self-monitor and complete homework assignments.
+emotional crises.\ :sup:`9` The researchers found that the app helped
+patients to self-monitor and complete homework assignments.
 
 Another group of apps support patient education. One example is the
 Brain Tutor 3-D/HD (online Fig. DS1) which features a 3-D magnetic
@@ -163,7 +165,7 @@ fundamentally different from clinical patient records in their function
 and composition. Patients will be more empowered by holding their own
 records and managing access rights to professionals. However, this is
 accompanied by a variability in the quality of information held in the
-records,\ :sup:`(n.d.j)` an expanding number of record systems and the
+records,\ :sup:`10` an expanding number of record systems and the
 potential for further use of these records by third parties. The
 divergence of app-based personal health records and clinical records
 will generate complex interactions between these two systems.
@@ -176,37 +178,37 @@ Challenges
 Smartphone apps present many challenges (`Box 1 <#box1>`__). One of the
 primary difficulties is the regulation of mental health apps due to
 their abundance. A number of studies have highlighted evidence of unsafe
-medical apps\ :sup:`(n.d.j)` and the US Food and Drug Administration
-(FDA), the UK Medicines and Healthcare Products Regulatory Agency (MHRA)
-and NHS England have started to regulate apps. The NHS Choices website
+medical apps\ :sup:`10` and the US Food and Drug Administration (FDA),
+the UK Medicines and Healthcare Products Regulatory Agency (MHRA) and
+NHS England have started to regulate apps. The NHS Choices website
 identifies regulated clinical apps and lists a number of other
 medication-related apps intended for professionals and patients. The
 relevant regulator depends on the function of the app. For instance, the
 MHRA would regulate apps classed as medical devices.
 
 Self-certification has been suggested as one solution for the regulatory
-challenges.\ :sup:`(n.d.k)` Lewis & Wyatt suggest a regulatory framework
+challenges.\ :sup:`11` Lewis & Wyatt suggest a regulatory framework
 which addresses challenges intrinsic and external (e.g. hardware) to the
-app.\ :sup:`(n.d.j)` Charani and colleagues go one step further, arguing
-that there needs to be a governance and legal framework in place for the
-use of apps in clinical practice.\ :sup:`(n.d.l)` If clinicians or
-subject matter experts have not been involved in app development this
-may influence its quality and effectiveness. An absent evidence base for
-an app may limit clinical uptake. Privacy and security are other
-challenges for the app market.
+app.\ :sup:`10` Charani and colleagues go one step further, arguing that
+there needs to be a governance and legal framework in place for the use
+of apps in clinical practice.\ :sup:`12` If clinicians or subject matter
+experts have not been involved in app development this may influence its
+quality and effectiveness. An absent evidence base for an app may limit
+clinical uptake. Privacy and security are other challenges for the app
+market.
 
 The effectiveness of apps may also depend on the characteristics of the
 patient population. In one study looking at smartphone apps for weight
 loss, young adults considered simple weight measurement alone too narrow
-in focus and advocated behavioural software features.\ :sup:`(n.d.m)`
-Access to a smartphone was negatively correlated with age in one study
-looking at consecutive patients in a neuropsychiatry and memory
-clinic.\ :sup:`(n.d.n)`
+in focus and advocated behavioural software features.\ :sup:`13` Access
+to a smartphone was negatively correlated with age in one study looking
+at consecutive patients in a neuropsychiatry and memory
+clinic.\ :sup:`14`
 
 **Box 1** Challenges of mental health apps
 
 Extrinsic to the app: hardware constraints that limit the
-apps.\ :sup:`(n.d.o)`
+apps.\ :sup:`15`
 
 Intrinsic to the app
 
@@ -214,13 +216,13 @@ Relating to the patient or app user: concerns about how the data will be
 used by the app service.
 
 Relating to the clinician: accuracy of clinically related
-processes\ :sup:`(n.d.p)`\ lack of medical involvement in app
-development\ :sup:`(n.d.q)`\ insufficient information to keep doctors or
-medical students interested.\ :sup:`(n.d.r)`
+processes\ :sup:`16`\ lack of medical involvement in app
+development\ :sup:`17`\ insufficient information to keep doctors or
+medical students interested.\ :sup:`18`
 
 Relating to the healthcare service: deviation from or lack of evidence
-based practice recommendations\ :sup:`(n.d.c)`\ patient confidentiality
-issuesclinical risk emerging from use of apps.\ :sup:`(n.d.s)`
+based practice recommendations\ :sup:`3`\ patient confidentiality
+issuesclinical risk emerging from use of apps.\ :sup:`19`
 
 .. _S8:
 
@@ -239,104 +241,6 @@ We thank Lab Tests Online-UK for their permission to include app
 screenshots in our article, Professor Rainer Goebel for permission to
 use the Brain Tutor HD screenshot and Dr Omer Moghraby for helpful
 discussions around the subject matter.
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-R1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-R2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-R3
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-R4
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-R5
-
-      n.d.e.
-
-   .. container:: csl-entry
-      :name: ref-R6
-
-      n.d.f.
-
-   .. container:: csl-entry
-      :name: ref-R7
-
-      n.d.g.
-
-   .. container:: csl-entry
-      :name: ref-R8
-
-      n.d.h.
-
-   .. container:: csl-entry
-      :name: ref-R9
-
-      n.d.i.
-
-   .. container:: csl-entry
-      :name: ref-R10
-
-      n.d.j.
-
-   .. container:: csl-entry
-      :name: ref-R11
-
-      n.d.k.
-
-   .. container:: csl-entry
-      :name: ref-R12
-
-      n.d.l.
-
-   .. container:: csl-entry
-      :name: ref-R13
-
-      n.d.m.
-
-   .. container:: csl-entry
-      :name: ref-R14
-
-      n.d.n.
-
-   .. container:: csl-entry
-      :name: ref-R15
-
-      n.d.o.
-
-   .. container:: csl-entry
-      :name: ref-R16
-
-      n.d.p.
-
-   .. container:: csl-entry
-      :name: ref-R17
-
-      n.d.q.
-
-   .. container:: csl-entry
-      :name: ref-R18
-
-      n.d.r.
-
-   .. container:: csl-entry
-      :name: ref-R19
-
-      n.d.s.
 
 .. [1]
    **Dr Justin Marley** MBBS, BSc, MRCPsych is consultant older adult

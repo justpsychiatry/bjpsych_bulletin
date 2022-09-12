@@ -2,6 +2,8 @@
 A lost cause
 ============
 
+
+
 Anuradha Menon
 :Date: 2018-2
 
@@ -11,8 +13,8 @@ Anuradha Menon
 ..
 
 On reading Dr Moorey's earnest response to Dr Gipps’ views, I was struck
-by his description of the ‘depressive mode’.(n.d.a) This marvel of
-development, 100 years on from Freud's classic paper,(n.d.b) is – in Dr
+by his description of the ‘depressive mode’.1 This marvel of
+development, 100 years on from Freud's classic paper,2 is – in Dr
 Moorey's view – a ‘complex neural network, including multiple relevant
 brain regions that are activated or deactivated during depression’.
 This, he argues, is the target of therapeutic practice in
@@ -29,15 +31,14 @@ I am writing this piece to explore how both Dr Moorey and Dr Gipps
 warily circle around a point which is never highlighted in its own
 right.
 
-Freud's theory of melancholia(n.d.b) posits an unconscious basis for the
+Freud's theory of melancholia2 posits an unconscious basis for the
 depressed patient's dilemma. This theory holds true: the proof is in the
 analytic setting, and all contemporary psychoanalytic approaches which
-describe the transference find their roots in this classic paper.(n.d.c)
-Freud writes about an identification of the ego with the abandoned
-object, saying ‘thus the shadow of the object fell upon the ego’. This
-is still pre-object relations. American psychoanalysis, which was
-evolving at the time, is well known to have been profoundly influenced
-by Freud.
+describe the transference find their roots in this classic paper.3 Freud
+writes about an identification of the ego with the abandoned object,
+saying ‘thus the shadow of the object fell upon the ego’. This is still
+pre-object relations. American psychoanalysis, which was evolving at the
+time, is well known to have been profoundly influenced by Freud.
 
 In the 1950s, psychoanalysts around the world were working on extending
 early theories, and the Americans actively participated in this
@@ -49,11 +50,11 @@ The crux of the matter is that Beck moved into what is essentially the
 conscious realm when he developed his theory. Today, anyone who manages
 patients with depression will know that the latter is the easier and,
 dare we say, cheaper option. It's all backed up by robust evidence, and
-supported by what is essentially an Orwellian(n.d.d) environment. I
-hardly need wonder why patients are rarely asked what they prefer: an
-analyst who is interested in undiscovered aspects of their loss and is
-willing to explore themselves in the process, or one bent on pinning
-down the patient's experience in prosaic terms.
+supported by what is essentially an Orwellian4 environment. I hardly
+need wonder why patients are rarely asked what they prefer: an analyst
+who is interested in undiscovered aspects of their loss and is willing
+to explore themselves in the process, or one bent on pinning down the
+patient's experience in prosaic terms.
 
 This is why I take exception to the statement in Dr Moorey's final
 paragraph, which is unreferenced and states that CBT ‘has given
@@ -74,32 +75,4 @@ then for a moment and not spend all of your breath trying to conquer it.
 Because no battle is ever won he said. They are not even fought. The
 field only reveals to man his own folly and despair, and victory is an
 illusion of philosophers and fools’. (William Faulkner, *The Sound and
-the Fury*\ (n.d.e))
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-ref1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-ref2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-ref3
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-ref4
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-ref5
-
-      n.d.e.
+the Fury*\ 5)

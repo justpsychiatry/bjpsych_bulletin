@@ -2,6 +2,8 @@
 Being positive on disability in medical education
 =================================================
 
+
+
 Elliott Carthy
 :Date: 2021-06
 
@@ -24,24 +26,24 @@ is not just about reducing discrimination and promoting equality but
 also about appreciating the value that such people add to society.
 
 General community estimates within the UK suggest the prevalence of
-disability in working age adults to be 19% in the UK,\ :sup:`(n.d.a)`
-yet in medical schools, it is estimated that only 4.1% of students have
-a disability.\ :sup:`(n.d.b)` Even accounting for potential
-non-disclosure, these numbers show substantial underrepresentation. The
-British Medical Association recently published a report titled
-*Disability in the Medical Profession*\ :sup:`(n.d.c)` that highlighted
-the paucity of doctors and medical students with disabilities who felt
-safe to disclose their condition or felt supported by their institution
-or colleagues. Despite widening participation programmes, medicine can
-still be discriminatory towards those with disabilities. It would not be
-unreasonable to suppose that such reluctance to seek support or have the
-need for this recognised could be extrapolated to our patients.
+disability in working age adults to be 19% in the UK,\ :sup:`1` yet in
+medical schools, it is estimated that only 4.1% of students have a
+disability.\ :sup:`2` Even accounting for potential non-disclosure,
+these numbers show substantial underrepresentation. The British Medical
+Association recently published a report titled *Disability in the
+Medical Profession*\ :sup:`3` that highlighted the paucity of doctors
+and medical students with disabilities who felt safe to disclose their
+condition or felt supported by their institution or colleagues. Despite
+widening participation programmes, medicine can still be discriminatory
+towards those with disabilities. It would not be unreasonable to suppose
+that such reluctance to seek support or have the need for this
+recognised could be extrapolated to our patients.
 
 The term disability is broad, both in nature and degree. This is often
 poorly reflected in medical guidelines, whereby our lack of
 understanding can contribute to the pre-existing stigma. The title of
-the General Medical Council's *Welcomed and Valued*\ :sup:`(n.d.d)`
-guidance for those with disabilities in the medical profession gives the
+the General Medical Council's *Welcomed and Valued*\ :sup:`4` guidance
+for those with disabilities in the medical profession gives the
 impression of framing inclusivity in a positive light. However, the
 persistent use of terms like ‘support’, ‘student needs’ or educators and
 institutions applying their ‘duties’ means the focus is on reducing
@@ -69,26 +71,3 @@ Declaration of interest
 =======================
 
 None
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-ref1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-ref2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-ref3
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-ref4
-
-      n.d.d.

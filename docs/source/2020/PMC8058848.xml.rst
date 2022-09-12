@@ -2,6 +2,8 @@
 The value of assessing suicidal ideation
 ========================================
 
+
+
 Gethin Morgan
 :Date: 2020-02
 
@@ -10,7 +12,7 @@ Gethin Morgan
    :depth: 3
 ..
 
-The paper by Gibbons *et al*\ :sup:`(n.d.a)` concerning the distress
+The paper by Gibbons *et al*\ :sup:`1` concerning the distress
 experienced by psychiatrists who lose a patient through suicide is very
 welcome. We all know that such an event is difficult to bear, and this
 paper will encourage us to get support from others if things get really
@@ -35,18 +37,18 @@ decision-making.
 
 We described two series of psychiatric in-patients (1982–1984, N = 27;
 1991–1993, N = 18) who died by suicide either during hospital admission
-or within 2 months of discharge from hospital.\ :sup:`(n.d.b)` In each
-of these, a high proportion of patients, 20/27 (74%) and 15/18 (83%),
-had discussed their suicidal ideas with members of staff in the ward
-during their in-patient stay. Suicidal ideation, as recorded
-contemporaneously in the case notes and not retrospectively, was a key
-clinical feature in delineating these patients, because they could not
-be distinguished from others in the ward across a range of behaviours.
-12/27 (44%) and 9/18 (50%) showed significant clinical improvement
-during their in-patient stay, even though stress in the community had
-remained unresolved. In the 10 years that had elapsed between our two
-series, the proportion of patients that killed themselves after
-discharge from hospital increased from 7/27 (26%) to 11/18 (61%).
+or within 2 months of discharge from hospital.\ :sup:`2` In each of
+these, a high proportion of patients, 20/27 (74%) and 15/18 (83%), had
+discussed their suicidal ideas with members of staff in the ward during
+their in-patient stay. Suicidal ideation, as recorded contemporaneously
+in the case notes and not retrospectively, was a key clinical feature in
+delineating these patients, because they could not be distinguished from
+others in the ward across a range of behaviours. 12/27 (44%) and 9/18
+(50%) showed significant clinical improvement during their in-patient
+stay, even though stress in the community had remained unresolved. In
+the 10 years that had elapsed between our two series, the proportion of
+patients that killed themselves after discharge from hospital increased
+from 7/27 (26%) to 11/18 (61%).
 
 These findings, based as they are on two small series of suicides, must
 be regarded as provisional. Yet they do suggest that knowledge of
@@ -68,16 +70,3 @@ necessary further research that is needed to clarify the many other
 possible aetiological factors in these suicidal deaths, and so help in
 the development of good clinical practice. The identification and
 evaluation of suicidal ideation must surely have a central role in this.
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-ref1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-ref2
-
-      n.d.b.

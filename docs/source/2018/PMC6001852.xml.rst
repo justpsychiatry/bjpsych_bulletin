@@ -2,6 +2,8 @@
 Known but unpredictable – an argument for complexity
 ====================================================
 
+
+
 Martin Plöderl
 Clemens Fartacek
 :Date: 2018-4
@@ -11,17 +13,16 @@ Clemens Fartacek
    :depth: 3
 ..
 
-Since the seminal paper of Pokorny in 1983,(n.d.a) the prediction of
-suicides has not improved, as Large *et al* have pointed out in their
-current paper(n.d.b) and in previous
-meta-analyses.(n.d.c)\ :sup:`–`\ (n.d.d) In opposition to most current
-recommendations in suicide prevention, which still require clinicians to
-formulate levels of suicide risk,(n.d.e) Large *et al*\ (n.d.b) suggest
-that clinicians should give up risk formulation and instead focus
-directly on the individual needs of patients to deliver optimal care.
-They argue that uncertainty in the prediction of suicide is largely
-aleatory (dependent on random processes) and also epistemic (lacking
-knowledge). We think that one important explanation is missing:
+Since the seminal paper of Pokorny in 1983,1 the prediction of suicides
+has not improved, as Large *et al* have pointed out in their current
+paper2 and in previous meta-analyses.3\ :sup:`–`\ 7 In opposition to
+most current recommendations in suicide prevention, which still require
+clinicians to formulate levels of suicide risk,8 Large *et al*\ 2
+suggest that clinicians should give up risk formulation and instead
+focus directly on the individual needs of patients to deliver optimal
+care. They argue that uncertainty in the prediction of suicide is
+largely aleatory (dependent on random processes) and also epistemic
+(lacking knowledge). We think that one important explanation is missing:
 complexity.
 
 Complexity refers to behaviours produced by nonlinear dynamic systems,
@@ -41,14 +42,13 @@ Are there any alternatives for predicting suicidal behaviour from a
 nonlinear dynamical perspective? Natural sciences (e.g. geophysics) have
 developed methods for the short-term prediction of extreme events (e.g.
 tsunamis), based on continuous monitoring of appropriate signals and
-identification of nonlinear dynamical
-precursors.(n.d.f)\ :sup:`,`\ (n.d.g) This might be a promising approach
-for suicide research as well. Given the recent improvements of
-scientific methods, an empirical application of complexity theory in
-suicide research seems realistic.(n.d.h)\ :sup:`,`\ (n.d.i) However, it
-still has to be demonstrated that such novel approaches are feasible in
-clinical practice and that they can in fact improve the prediction of
-suicides.
+identification of nonlinear dynamical precursors.9\ :sup:`,`\ 10 This
+might be a promising approach for suicide research as well. Given the
+recent improvements of scientific methods, an empirical application of
+complexity theory in suicide research seems realistic.11\ :sup:`,`\ 12
+However, it still has to be demonstrated that such novel approaches are
+feasible in clinical practice and that they can in fact improve the
+prediction of suicides.
 
 We believe that suicidology needs to take complexity theory into
 consideration. If not, much time, effort and money will continue to go
@@ -56,51 +56,3 @@ into approaches that, from the viewpoint of complexity theory, lead to a
 dead end. This includes the search for novel risk factors or
 combinations of risk factors (e.g. by applying machine learning) without
 acknowledging the underlying complex processes.
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-ref1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-ref2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-ref3
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-ref7
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-ref8
-
-      n.d.e.
-
-   .. container:: csl-entry
-      :name: ref-ref9
-
-      n.d.f.
-
-   .. container:: csl-entry
-      :name: ref-ref10
-
-      n.d.g.
-
-   .. container:: csl-entry
-      :name: ref-ref11
-
-      n.d.h.
-
-   .. container:: csl-entry
-      :name: ref-ref12
-
-      n.d.i.

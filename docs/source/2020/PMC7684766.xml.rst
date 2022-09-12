@@ -2,6 +2,8 @@
 Child psychiatry: a model for specific goals for in-patient treatment linked to resources and limitations in out-patient treatment
 ==================================================================================================================================
 
+
+
 Simon R. WilkinsonCorrespondence to Simon Wilkinson
 (simonrwilkinson@gmail.com)
 :Date: 2020-12
@@ -38,16 +40,16 @@ believe that the UK model of service provision is conducive to making a
 leap forward with services tied to a tiers model. Yet there is no
 evidence of what ingredients might promote a healthier service. Even
 though we have evidence that in-patient treatment can give
-benefits,\ :sup:`(n.d.a)` we have no conceptualisation of how the
-complex interconnected processes on an in-patient ward might be working.
-Instead I will present here an analysis of how need can be formulated to
-suggest an alternative service model which can identify the elements
-that need addressing. Although I have been working within the
-well-endowed Norwegian health service, and there is no chance of the UK
-approaching the same level of provision in the near or distant future
-(we have over ten times the resources compared with the UK and other
-wealthy countries\ :sup:`(n.d.b)`), analysis of what is required is no
-different. Having worked outside the taken-for-granted world of UK child
+benefits,\ :sup:`1` we have no conceptualisation of how the complex
+interconnected processes on an in-patient ward might be working. Instead
+I will present here an analysis of how need can be formulated to suggest
+an alternative service model which can identify the elements that need
+addressing. Although I have been working within the well-endowed
+Norwegian health service, and there is no chance of the UK approaching
+the same level of provision in the near or distant future (we have over
+ten times the resources compared with the UK and other wealthy
+countries\ :sup:`2`), analysis of what is required is no different.
+Having worked outside the taken-for-granted world of UK child
 psychiatry, a different perspective can be generated which maybe leads
 to new possibilities.
 
@@ -188,18 +190,18 @@ better. It needs to be able to address the impulsive responses to which
 the patients and their VIPs are disposed, fuelled from their implicit
 memories. The milieu staff would interact with patients in the ‘here and
 now’, allowing response patterns characteristic of the dispositional
-representations\ :sup:`(n.d.c)` of the patients’ personalities to be
-revealed, and would set up situations to create optimal learning
-opportunities. The staff would be grounded in understanding of
-personality, a field with which child psychiatry is only slowly coming
-to grips. My suggestion is that adapting Clarkin's\ :sup:`(n.d.d)`
-conceptualisation of personality and informing it with knowledge about
-child development will give us personality as reflecting factors present
-at birth or by the end of the first years of life (Clarkin used the
-short-hand ‘temperament’, as if it were an obviously genetic factor) in
-interaction with attachment strategies, and influenced by experiences of
-trauma and loss. This would have given us the personality dimensions
-suggested, but not adopted, for DSM-5.
+representations\ :sup:`3` of the patients’ personalities to be revealed,
+and would set up situations to create optimal learning opportunities.
+The staff would be grounded in understanding of personality, a field
+with which child psychiatry is only slowly coming to grips. My
+suggestion is that adapting Clarkin's\ :sup:`4` conceptualisation of
+personality and informing it with knowledge about child development will
+give us personality as reflecting factors present at birth or by the end
+of the first years of life (Clarkin used the short-hand ‘temperament’,
+as if it were an obviously genetic factor) in interaction with
+attachment strategies, and influenced by experiences of trauma and loss.
+This would have given us the personality dimensions suggested, but not
+adopted, for DSM-5.
 
 The advantage of such a unit operating 24/5 is that the focus is
 continually on patterns that recur in the home environment. Has the
@@ -269,29 +271,6 @@ http://dx.doi.org/10.1192/bjb.2020.29.
    .. rubric:: 
 
    click here to view supplementary material
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-ref1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-ref2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-ref3
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-ref4
-
-      n.d.d.
 
 .. [1]
    The Norwegian adaptation of the Quality Network for Inpatient CAMHS

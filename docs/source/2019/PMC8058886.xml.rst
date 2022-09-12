@@ -2,6 +2,8 @@
 Changes in smoking status, mental state and plasma clozapine concentration: retrospective cohort evaluation
 ===========================================================================================================
 
+
+
 Inti Qurashi
 Paul Stephenson
 Chitra Nagaraj
@@ -57,9 +59,9 @@ Clozapine is the only antipsychotic licensed for use in patients with
 treatment-resistant schizophrenia. It has a narrow therapeutic index and
 pre-dose plasma clozapine concentrations between 0.35 and 0.60 mg/L are
 associated with optimal response, although patients may show such a
-response at lower or indeed higher plasma
-concentrations.\ :sup:`(n.d.a)` Adverse effects are more likely at
-plasma concentrations above 0.6 mg/L.\ :sup:`(n.d.b)`
+response at lower or indeed higher plasma concentrations.\ :sup:`1`
+Adverse effects are more likely at plasma concentrations above
+0.6 mg/L.\ :sup:`2`
 
 .. _sec1-1b:
 
@@ -69,18 +71,18 @@ Clozapine metabolism
 Clozapine is primarily metabolised to its principal plasma metabolite
 *N*-desmethylclozapine (norclozapine) by the cytochrome P450 (CYP)
 isoenzyme CYP1A2, with possible additional contributions by CYP2C9,
-CYP2C19, CYP2D6 and CYP3A4.\ :sup:`(n.d.c),(n.d.d)` There are
-significant differences in plasma concentrations of clozapine between
-patients receiving the same dose, owing to factors including age, gender
-and exposure to tobacco smoke.\ :sup:`(n.d.e),(n.d.f)` The magnitude of
-the effects of the polycyclic aromatic hydrocarbons in tobacco smoke in
-increasing CYP1A2 activity are second only to dose on plasma clozapine
-concentrations.\ :sup:`(n.d.g)` A systematic review of the effects of
-smoking cessation on plasma clozapine concentrations found clozapine
-dose reductions of between 30 and 40% were required to achieve
-pre-cessation concentrations.\ :sup:`(n.d.h)` Neither the nicotine in
-cigarettes nor nicotine replacement therapy products have an effect on
-clozapine metabolism.\ :sup:`(n.d.h)`
+CYP2C19, CYP2D6 and CYP3A4.\ :sup:`3,4` There are significant
+differences in plasma concentrations of clozapine between patients
+receiving the same dose, owing to factors including age, gender and
+exposure to tobacco smoke.\ :sup:`5,6` The magnitude of the effects of
+the polycyclic aromatic hydrocarbons in tobacco smoke in increasing
+CYP1A2 activity are second only to dose on plasma clozapine
+concentrations.\ :sup:`7` A systematic review of the effects of smoking
+cessation on plasma clozapine concentrations found clozapine dose
+reductions of between 30 and 40% were required to achieve pre-cessation
+concentrations.\ :sup:`8` Neither the nicotine in cigarettes nor
+nicotine replacement therapy products have an effect on clozapine
+metabolism.\ :sup:`8`
 
 .. _sec1-1c:
 
@@ -88,11 +90,11 @@ Schizophrenia and smoking
 =========================
 
 Patients with schizophrenia are more likely to smoke cigarettes, and in
-greater quantity, than the general population.\ :sup:`(n.d.i)` An
-evaluation from a UK forensic psychiatric medium secure unit found 84%
-of in-patients were smokers before the introduction of a smoking ban,
-and cessation rates after smoking reduction programmes are less than
-7%.\ :sup:`(n.d.j),(n.d.k)`
+greater quantity, than the general population.\ :sup:`9` An evaluation
+from a UK forensic psychiatric medium secure unit found 84% of
+in-patients were smokers before the introduction of a smoking ban, and
+cessation rates after smoking reduction programmes are less than
+7%.\ :sup:`10,11`
 
 Ashworth Hospital is a high-security psychiatric hospital serving the
 population of Northern England and Wales. The hospital has approximately
@@ -170,12 +172,12 @@ Results
 =======
 
 Forty-six male patients with complete data were identified. All had a
-diagnosis of schizophrenia (ICD-10 F20).\ :sup:`(n.d.l)` Ethnicity was
-White British (*n* = 27), White Irish (*n* = 2), Black Caribbean
-(*n* = 3), Black African (*n* = 2), other Black background (*n* = 4),
-Pakistani (*n* = 2), Indian (*n* = 1), other Asian background (*n* = 1),
-and other mixed background (*n* = 4). The median age at the start of
-trial leave was 37.1 years (range, 24.8–56.0 years).
+diagnosis of schizophrenia (ICD-10 F20).\ :sup:`12` Ethnicity was White
+British (*n* = 27), White Irish (*n* = 2), Black Caribbean (*n* = 3),
+Black African (*n* = 2), other Black background (*n* = 4), Pakistani
+(*n* = 2), Indian (*n* = 1), other Asian background (*n* = 1), and other
+mixed background (*n* = 4). The median age at the start of trial leave
+was 37.1 years (range, 24.8–56.0 years).
 
 Plasma clozapine and norclozapine concentrations had been measured in
 all patients before transfer (median time before transfer, 89.5 days;
@@ -243,7 +245,7 @@ A not unexpected finding was that most patients commenced smoking
 despite being provided with nicotine replacement therapy and smoking
 cessation advice both before and after transfer. Studies have shown that
 enforced tobacco abstinence in secure environments has little effect on
-post-release smoking status.\ :sup:`(n.d.m),(n.d.n)`
+post-release smoking status.\ :sup:`13,14`
 
 There is an established association between tobacco smoking and the
 pharmacokinetics of clozapine, with higher clozapine doses generally
@@ -251,13 +253,13 @@ required in smokers when compared with non-smokers. A previous
 evaluation of plasma clozapine concentrations before and after
 implementation of a hospital-wide smoking ban found a mean increase in
 plasma clozapine of 36% in non-smokers when outliers were
-excluded.\ :sup:`(n.d.o)` We found a mean clozapine dose increase of 23%
+excluded.\ :sup:`15` We found a mean clozapine dose increase of 23%
 (median increase, 27%) occurred in smokers prescribed clozapine and this
 is less than the 40% dose increase recommended where one or more packs
-of cigarettes are used per day\ :sup:`(n.d.p)` and less than the
+of cigarettes are used per day\ :sup:`16` and less than the
 recommendation to increase the clozapine dose by a factor of 1.5 over a
-period of 2–4 weeks.\ :sup:`(n.d.q)` This difference may be because of
-the effect of restricted time periods off the ward for patients in our
+period of 2–4 weeks.\ :sup:`17` This difference may be because of the
+effect of restricted time periods off the ward for patients in our
 sample, who were in a medium secure unit, which is likely to have
 limited their consumption of tobacco. However, it may also be that
 clinical teams were cautious in increasing clozapine doses, or patients
@@ -274,11 +276,11 @@ state of almost half of patients who had recommenced smoking. It is
 possible these symptoms were secondary to the observed reduction in
 plasma clozapine concentrations. Previous studies investigating the
 effects of smoking on mental state have focused on patients with
-neurosis rather than psychosis.\ :sup:`(n.d.r)` We found that most
-patients experiencing changes in mental state had psychotic symptoms,
-although this may reflect the symptoms of this particular population
-from a high secure psychiatric unit. However, structured rating scales
-were not used in our survey given the nature of this evaluation.
+neurosis rather than psychosis.\ :sup:`18` We found that most patients
+experiencing changes in mental state had psychotic symptoms, although
+this may reflect the symptoms of this particular population from a high
+secure psychiatric unit. However, structured rating scales were not used
+in our survey given the nature of this evaluation.
 
 Our study population was of a modest size and data were collected over a
 minimum follow-up period of 6 months, allowing ample time for changes to
@@ -323,99 +325,6 @@ University of Manchester, UK. **Lewis Couchman** is Facility Director of
 Therapeutic Drug Monitoring at Analytical Services International, UK.
 **Robert Flanagan** is a consultant clinical scientist and Director of
 the Toxicology Unit at King's College Hospital NHS Foundation Trust, UK.
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-ref1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-ref2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-ref3
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-ref4
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-ref5
-
-      n.d.e.
-
-   .. container:: csl-entry
-      :name: ref-ref6
-
-      n.d.f.
-
-   .. container:: csl-entry
-      :name: ref-ref7
-
-      n.d.g.
-
-   .. container:: csl-entry
-      :name: ref-ref8
-
-      n.d.h.
-
-   .. container:: csl-entry
-      :name: ref-ref9
-
-      n.d.i.
-
-   .. container:: csl-entry
-      :name: ref-ref10
-
-      n.d.j.
-
-   .. container:: csl-entry
-      :name: ref-ref11
-
-      n.d.k.
-
-   .. container:: csl-entry
-      :name: ref-ref12
-
-      n.d.l.
-
-   .. container:: csl-entry
-      :name: ref-ref13
-
-      n.d.m.
-
-   .. container:: csl-entry
-      :name: ref-ref14
-
-      n.d.n.
-
-   .. container:: csl-entry
-      :name: ref-ref15
-
-      n.d.o.
-
-   .. container:: csl-entry
-      :name: ref-ref16
-
-      n.d.p.
-
-   .. container:: csl-entry
-      :name: ref-ref17
-
-      n.d.q.
-
-   .. container:: csl-entry
-      :name: ref-ref18
-
-      n.d.r.
 
 .. [1]
    **Declaration of interest** None.

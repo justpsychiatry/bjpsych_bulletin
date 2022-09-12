@@ -2,6 +2,8 @@
 The cognitive therapy of depression rests on substantial theoretical, empirical and clinical foundations: a reply to Dr Gipps
 =============================================================================================================================
 
+
+
 Stirling MooreyCorrespondence to Stirling Moorey
 (stirling.moorey@slam.nhs.uk)  [1]_
 :Date: 2017-10
@@ -53,28 +55,27 @@ Dr Gipps argues that current treatments for depression ‘fare little
 better than placebo’ so we should turn to psychoanalysis. He claims poor
 results for medication, counselling and CBT, but neglects to mention
 that trials of psychodynamic psychotherapy have not demonstrated it does
-better than CBT (the reverse may actually be the case).\ :sup:`(n.d.a)`
-If we take a non-partisan approach, the conclusion is that a number of
+better than CBT (the reverse may actually be the case).\ :sup:`1` If we
+take a non-partisan approach, the conclusion is that a number of
 treatments work for depression. For instance, a recent meta-analysis of
 randomised controlled trials (RCTs) reported effect sizes for CBT,
 counselling and short-term psychodynamic psychotherapy at 0.67, 0.57 and
-0.69, respectively.\ :sup:`(n.d.b)` Dr Gipps, however, disingenuously
-selects a small uncontrolled trial of intensive short-term dynamic
-psychotherapy (*n* = 10) as his argument for the potential superiority
-of the psychodynamic approach.\ :sup:`(n.d.c)` All these psychological
-treatments are as effective as antidepressants, but the superiority of
-all treatments over placebo may, as he suggests, be less than was once
-assumed.\ :sup:`(n.d.d)` There is indeed a powerful placebo effect in
-mild depression, but this seems to lessen as severity of depression
-increases.\ :sup:`(n.d.e)–(n.d.f)` It is also important to note that
-although placebo may do well in the short term, patients are more likely
-to relapse.\ :sup:`(n.d.g)` Cognitive therapy still has the largest
-evidence base of all the psychotherapies for depression; not only is it
-effective in the acute phase, but it also reduces
-relapse.\ :sup:`(n.d.h),(n.d.i)` Its effects are not restricted to RCTs:
-in naturalistic settings 40% of patients recover and 64% show reliable
-improvement.\ :sup:`(n.d.j)` The empirical data give us no reason to
-abandon CBT for depression.
+0.69, respectively.\ :sup:`2` Dr Gipps, however, disingenuously selects
+a small uncontrolled trial of intensive short-term dynamic psychotherapy
+(*n* = 10) as his argument for the potential superiority of the
+psychodynamic approach.\ :sup:`3` All these psychological treatments are
+as effective as antidepressants, but the superiority of all treatments
+over placebo may, as he suggests, be less than was once
+assumed.\ :sup:`4` There is indeed a powerful placebo effect in mild
+depression, but this seems to lessen as severity of depression
+increases.\ :sup:`5–9` It is also important to note that although
+placebo may do well in the short term, patients are more likely to
+relapse.\ :sup:`10` Cognitive therapy still has the largest evidence
+base of all the psychotherapies for depression; not only is it effective
+in the acute phase, but it also reduces relapse.\ :sup:`11,12` Its
+effects are not restricted to RCTs: in naturalistic settings 40% of
+patients recover and 64% show reliable improvement.\ :sup:`13` The
+empirical data give us no reason to abandon CBT for depression.
 
 .. _S1:
 
@@ -97,7 +98,7 @@ the British object relations school, which Beck is unlikely to have
 encountered in his analytic training in the USA – a training inclined
 towards instinctual and ego theories. Should we then abandon all Freud's
 work because his theories, originally framed in biological terms, were
-based on a misunderstanding of modern neurology?\ :sup:`(n.d.k)` Gipps
+based on a misunderstanding of modern neurology?\ :sup:`14` Gipps
 describes clearly what he sees as the current consensus of
 psychoanalytic thinking on depression which has unconscious avoidance of
 emotion at its centre: avoidance of feelings of loss, avoidance of anger
@@ -115,10 +116,10 @@ is that the introjected anger hypothesis was the prevailing theory of
 depression in American psychoanalysis at the time. Even in 1988 David
 Milrod could still write that ‘the essential elements in a depression
 are the self-directed aggression and the mood state to which it
-leads’.\ :sup:`(n.d.l)` In this context Beck's investigation of
-internalised hostility is very reasonable, and his research design
-perfectly acceptable for its time. But the significance of this research
-is not that it disproved psychoanalytic theory, but that it stimulated a
+leads’.\ :sup:`15` In this context Beck's investigation of internalised
+hostility is very reasonable, and his research design perfectly
+acceptable for its time. But the significance of this research is not
+that it disproved psychoanalytic theory, but that it stimulated a
 powerful new theory. Whether one accepts the cognitive model or not, it
 has made an enormous contribution to the development of empirically
 based research in depression. Beck showed that it was possible to
@@ -129,11 +130,11 @@ to change on the basis of new theoretical or clinical trends, but rarely
 in response to new research evidence. The first outcome study of
 cognitive therapy for depression, for instance, demonstrated that
 psychological therapy could be as effective as pharmacotherapy and
-showed that therapy could be operationalised and
-manualised.\ :sup:`(n.d.m)` Even psycho-analysts now admit the value of
-treatment manuals!\ :sup:`(n.d.n)` Any studies demonstrating the
-efficacy of psychoanalytic psychotherapy therefore owe a considerable
-methodological debt to Beck's pioneering work in outcome research.
+showed that therapy could be operationalised and manualised.\ :sup:`16`
+Even psycho-analysts now admit the value of treatment
+manuals!\ :sup:`17` Any studies demonstrating the efficacy of
+psychoanalytic psychotherapy therefore owe a considerable methodological
+debt to Beck's pioneering work in outcome research.
 
 So what is this mistaken cognitive model of depression? According to
 Beck, pervasive negative thinking is at the centre of depression:
@@ -142,12 +143,12 @@ result from an information processing bias that selectively attends to
 negative events, negatively interprets situations, and encodes them as
 negative memories. These processes result from the activation of
 underlying cognitive structures or schemas, in the form of dysfunctional
-beliefs.\ :sup:`(n.d.o)–(n.d.p)`
+beliefs.\ :sup:`18–20`
 
 There is considerable evidence for this cross-sectional model: for a
 shift in information processing, for the reciprocal interaction between
 low mood and negative thinking, and for the presence of dysfunctional
-beliefs in depression.\ :sup:`(n.d.q),(n.d.r)` Beck also formulated a
+beliefs in depression.\ :sup:`21,22` Beck also formulated a
 developmental model to explain vulnerability to depression. Negative
 events in childhood, for example loss of a parent, lead to negative
 beliefs which become activated when specific events impinge on these
@@ -155,20 +156,20 @@ schemas. Beck revised this theory in the light of findings that severe
 life events are not always necessary to precipitate depression. An
 accumulation of milder stressful events can contribute, and with each
 successive episode the severity of event needed to trigger depression
-becomes lower (the kindling effect).\ :sup:`(n.d.s)` A further
-refinement of the model came with the discovery that when a depressed
-mood was evoked people prone to depression exhibited negative cognitive
-biases (cognitive reactivity).\ :sup:`(n.d.t)` These new findings were
-integrated into the theory using the concept of the depressive mode – a
-network of cognitive affective, motivational, behavioural and
-physiological schemas activated in depression. The mode is ‘a complex
-neural network, including multiple relevant brain regions that are
-activated or deactivated during depression’ (p. 971).\ :sup:`(n.d.u)`
-With repeated depressive episodes the network of beliefs becomes
-stronger and relatively autonomous, so that minor stressors trigger the
-depressive mode. The cognitive model provides a comprehensive account of
-both vulnerability to and maintenance of depressive episodes. It does
-focus on unconscious processes, i.e. schemas and information processing
+becomes lower (the kindling effect).\ :sup:`23` A further refinement of
+the model came with the discovery that when a depressed mood was evoked
+people prone to depression exhibited negative cognitive biases
+(cognitive reactivity).\ :sup:`24` These new findings were integrated
+into the theory using the concept of the depressive mode – a network of
+cognitive affective, motivational, behavioural and physiological schemas
+activated in depression. The mode is ‘a complex neural network,
+including multiple relevant brain regions that are activated or
+deactivated during depression’ (p. 971).\ :sup:`19` With repeated
+depressive episodes the network of beliefs becomes stronger and
+relatively autonomous, so that minor stressors trigger the depressive
+mode. The cognitive model provides a comprehensive account of both
+vulnerability to and maintenance of depressive episodes. It does focus
+on unconscious processes, i.e. schemas and information processing
 biases, but these are unconscious because they are automatic, not
 because they are repressed. Regardless of its origins, the cognitive
 model stands on its own merits as an account of significant phenomena in
@@ -195,23 +196,23 @@ beliefs by attending a social event and noting the outcome. This
 ‘collaborative empiricism’, together with the structure and focus of
 therapy, engages the healthy adult functioning mode and minimises
 regressive transference so that the patient can learn strategies to help
-them out of their depression.\ :sup:`(n.d.v)` When negative
-interpretations of the therapist's behaviour arise these can be worked
-on together, for instance by noting how the patient's fear that the
-therapist may be cross with them is an example of a pattern of
-depressive misinterpretation that occurs outside the session with
-others. As the developmental conceptualisation is deepened over the
-course of therapy, the underlying assumptions that drive this reaction
-might be identified (e.g. ‘If I make a mistake I'll be rejected’), their
-origins in parental criticism discussed, and the schemas modified. This
-is work with the transference but in the service of learning how to
-manage negative reactions activated when the person is depressed. With
-patients with personality disturbance the focus on the interpersonal
-relationship becomes more important and changing interpersonal schemas
-becomes one of the key goals of therapy This is what Gipps calls the
-‘real-time eliciting and challenging of the patient's underlying
-emotional preoccupations.’ However, CBT has the flexibility to work with
-the therapeutic process when necessary, but is not shackled to it as the
+them out of their depression.\ :sup:`25` When negative interpretations
+of the therapist's behaviour arise these can be worked on together, for
+instance by noting how the patient's fear that the therapist may be
+cross with them is an example of a pattern of depressive
+misinterpretation that occurs outside the session with others. As the
+developmental conceptualisation is deepened over the course of therapy,
+the underlying assumptions that drive this reaction might be identified
+(e.g. ‘If I make a mistake I'll be rejected’), their origins in parental
+criticism discussed, and the schemas modified. This is work with the
+transference but in the service of learning how to manage negative
+reactions activated when the person is depressed. With patients with
+personality disturbance the focus on the interpersonal relationship
+becomes more important and changing interpersonal schemas becomes one of
+the key goals of therapy This is what Gipps calls the ‘real-time
+eliciting and challenging of the patient's underlying emotional
+preoccupations.’ However, CBT has the flexibility to work with the
+therapeutic process when necessary, but is not shackled to it as the
 only vehicle for change.
 
 A second, more interesting, point made by Gipps concerns the role of
@@ -227,8 +228,8 @@ depression. In mindfulness-based cognitive therapy, for instance,
 mindfulness meditation is taught as a skill to help patients practise
 moving from the ruminative depressive mode into a mode where they are
 present for whatever they are experiencing, approaching difficult
-feelings rather than moving away from them.\ :sup:`(n.d.w)` Although
-this concept of avoidance of emotions is similar to that in the
+feelings rather than moving away from them.\ :sup:`26` Although this
+concept of avoidance of emotions is similar to that in the
 psychoanalytic model, the significant differences are that it is not
 conceptualised as a motivated avoidance arising from a dynamic
 unconscious, and that it is perfectly possible to work with it outside
@@ -276,124 +277,6 @@ use to evaluate their own theories and therapies. The cognitive model of
 depression is likely to be around for another 60 years, but it will
 evolve and change on the basis of empirical research rather than
 theoretical whimsy.
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-R1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-R2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-R3
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-R4
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-R5
-
-      n.d.e.
-
-   .. container:: csl-entry
-      :name: ref-R9
-
-      n.d.f.
-
-   .. container:: csl-entry
-      :name: ref-R10
-
-      n.d.g.
-
-   .. container:: csl-entry
-      :name: ref-R11
-
-      n.d.h.
-
-   .. container:: csl-entry
-      :name: ref-R12
-
-      n.d.i.
-
-   .. container:: csl-entry
-      :name: ref-R13
-
-      n.d.j.
-
-   .. container:: csl-entry
-      :name: ref-R14
-
-      n.d.k.
-
-   .. container:: csl-entry
-      :name: ref-R15
-
-      n.d.l.
-
-   .. container:: csl-entry
-      :name: ref-R16
-
-      n.d.m.
-
-   .. container:: csl-entry
-      :name: ref-R17
-
-      n.d.n.
-
-   .. container:: csl-entry
-      :name: ref-R18
-
-      n.d.o.
-
-   .. container:: csl-entry
-      :name: ref-R19
-
-      n.d.u.
-
-   .. container:: csl-entry
-      :name: ref-R20
-
-      n.d.p.
-
-   .. container:: csl-entry
-      :name: ref-R21
-
-      n.d.q.
-
-   .. container:: csl-entry
-      :name: ref-R22
-
-      n.d.r.
-
-   .. container:: csl-entry
-      :name: ref-R23
-
-      n.d.s.
-
-   .. container:: csl-entry
-      :name: ref-R24
-
-      n.d.t.
-
-   .. container:: csl-entry
-      :name: ref-R25
-
-      n.d.v.
-
-   .. container:: csl-entry
-      :name: ref-R26
-
-      n.d.w.
 
 .. [1]
    **Stirling Moorey** Consultant psychiatrist in cognitive–behavioural

@@ -2,6 +2,8 @@
 The over-35s: early intervention in psychosis services entering uncharted territory
 ===================================================================================
 
+
+
 Felix Clay
 Sophie Allan
 Serena Lai
@@ -52,27 +54,27 @@ Jesus PerezCorrespondence to Jesus Perez (jp440@cam.ac.uk) [1]_
 ..
 
 In April 2016, a new Access and Waiting Time Standard for early
-intervention in psychosis (EIP) services in England(n.d.a) came in to
-force. At least half of all referrals to EIP services should have access
-to and commence a National Institute for Health and Care Excellence
+intervention in psychosis (EIP) services in England1 came in to force.
+At least half of all referrals to EIP services should have access to and
+commence a National Institute for Health and Care Excellence
 (NICE)-concordant package of care for psychosis within 2 weeks of
 referral. Although EIP services had promoted easy access and prompt
 responses to new referrals since their inception, the new policy offered
 detail on how to achieve and report the Standard. In addition, the
-policy, in accordance with NICE recommendations,(n.d.b) provided
-information about the need to expand current care provision in order to
-treat those individuals that might be at risk of developing psychosis,
-and to ensure prompt access and treatment for people with a
-first-episode psychosis regardless of their age. The effect of age
-inclusivity on the *modus operandi* of previously youth-oriented
-services was unknown. In fact, those EIP services that adhered to the
-new policy in full entered an uncharted territory that, inevitably,
-would require cultural and structural changes. However, the magnitude of
-these changes was unclear and not fully informed by previous evidence.
-For instance, the paucity of studies on the administrative incidence of
-first-episode psychosis in people aged over 35 assessed in early
-intervention settings(n.d.c)\ :sup:`–`\ (n.d.d) complicated new workload
-calculations and commissioning decisions.
+policy, in accordance with NICE recommendations,2 provided information
+about the need to expand current care provision in order to treat those
+individuals that might be at risk of developing psychosis, and to ensure
+prompt access and treatment for people with a first-episode psychosis
+regardless of their age. The effect of age inclusivity on the *modus
+operandi* of previously youth-oriented services was unknown. In fact,
+those EIP services that adhered to the new policy in full entered an
+uncharted territory that, inevitably, would require cultural and
+structural changes. However, the magnitude of these changes was unclear
+and not fully informed by previous evidence. For instance, the paucity
+of studies on the administrative incidence of first-episode psychosis in
+people aged over 35 assessed in early intervention
+settings3\ :sup:`–`\ 5 complicated new workload calculations and
+commissioning decisions.
 
 The CAMEO EIP service in the Cambridgeshire and Peterborough NHS
 Foundation Trust (http://www.cameo.nhs.uk) decided to conduct a service
@@ -99,11 +101,11 @@ years suffering from first-episode psychosis across Cambridgeshire and
 Peterborough, UK. CAMEO serves a very diverse population of around
 870 000, from the international scientific community in Cambridge city
 and multicultural population of Peterborough to a large rural base in
-the Fens.(n.d.e) Referrals of suspected psychosis are accepted from
-multiple sources, including general practitioners, other mental health
-services, the third sector, school and college counsellors, relatives
-and self-referrals.(n.d.f)\ :sup:`,`\ (n.d.g) CAMEO started accepting
-referrals of people aged over 35 from 1 April 2016.
+the Fens.6 Referrals of suspected psychosis are accepted from multiple
+sources, including general practitioners, other mental health services,
+the third sector, school and college counsellors, relatives and
+self-referrals.7\ :sup:`,`\ 8 CAMEO started accepting referrals of
+people aged over 35 from 1 April 2016.
 
 Data on referral numbers and sources for people aged over 35 were
 collected over 15 months, from 1 April 2016 to 30 June 2017. Additional
@@ -121,8 +123,8 @@ period. This included referral numbers and sources, age, gender and DUP
 for those accepted to case-load.
 
 Data analysis and publication followed the guidelines established by the
-*Anonymisation Standard for Publishing Health and Social Care
-Data*.(n.d.h) Raw data were not shared with any third party.
+*Anonymisation Standard for Publishing Health and Social Care Data*.9
+Raw data were not shared with any third party.
 
 .. _sec1-2:
 
@@ -152,9 +154,9 @@ recorded for people under 35. Thus, referrals for over 35s represented
 
 50% of referrals for patients over 35 were accepted onto the CAMEO
 case-load (*n* = 81). Based on the population aged 35–65 in
-Cambridgeshire and Peterborough,(n.d.i) this represented an
-administrative incidence of approximately 25 per 100 k per year for this
-group. Notably, a lower proportion of the total number of referrals for
+Cambridgeshire and Peterborough,10 this represented an administrative
+incidence of approximately 25 per 100 k per year for this group.
+Notably, a lower proportion of the total number of referrals for
 individuals aged under 35 were accepted onto case-load (40.2%) (`Fig.
 1 <#fig01>`__). Fig. 1Flow chart for referrals received by CAMEO from
 April 2016 to June 2017.
@@ -243,20 +245,20 @@ Our findings contribute to a sparse research landscape looking into the
 administrative incidence of first-episode psychosis in people aged over
 35 assessed in EIP settings. What little is so far known has been
 gathered from services already offering a broader EIP service in
-predominantly urban areas prior to 2016.(n.d.c)\ :sup:`–`\ (n.d.d) By
-collecting data after the introduction of the new Access and Waiting
-Time Standard,(n.d.a) we were able to evaluate the effects of these
-changes in existing EIP services, such as CAMEO, and anticipate further
-challenges and opportunities.
+predominantly urban areas prior to 2016.3\ :sup:`–`\ 5 By collecting
+data after the introduction of the new Access and Waiting Time
+Standard,1 we were able to evaluate the effects of these changes in
+existing EIP services, such as CAMEO, and anticipate further challenges
+and opportunities.
 
 Following the changes to our service, almost 26% of new referrals were
 for patients over 35 years old. This confirms previous evaluations in
 early-adopter services, which suggested that patients over the age of 35
 would make up a significant proportion of referrals, ranging from 25 to
-33%.(n.d.c)\ :sup:`–`\ (n.d.d) A higher proportion of patients over the
-age of 35 were referred from secondary and acute care in comparison with
-those aged under 35; the over-35s were more likely to have existing
-mental health issues.
+33%.3\ :sup:`–`\ 5 A higher proportion of patients over the age of 35
+were referred from secondary and acute care in comparison with those
+aged under 35; the over-35s were more likely to have existing mental
+health issues.
 
 Since referral processes may differ across EIP services, data from
 early-adopter services are difficult to compare with ours; however, they
@@ -264,62 +266,60 @@ also suggested relatively few referrals from primary care for this older
 group. This might reflect lack of awareness in the wider health system,
 but, for some patients, it may well be related to psychosis developing
 as a secondary feature of depression and other conditions for which they
-had already received some support.(n.d.j) Interestingly, 50% of
-referrals for over-35s were taken on by our early intervention service,
-whereas only 40.2% of referrals for under-35s were accepted to
-case-load. This would also support the idea of those aged over 35
-suffering from a longer history and higher burden of mental health
-issues.
+had already received some support.11 Interestingly, 50% of referrals for
+over-35s were taken on by our early intervention service, whereas only
+40.2% of referrals for under-35s were accepted to case-load. This would
+also support the idea of those aged over 35 suffering from a longer
+history and higher burden of mental health issues.
 
 Previous studies suggested a different distribution of diagnoses for
 older *v.* younger patients, with an increased proportion of primarily
-affective psychoses in over-35s.(n.d.c)\ :sup:`,`\ (n.d.k) Our results
-reaffirm these findings, with 16% of over-35s suffering from psychotic
+affective psychoses in over-35s.3\ :sup:`,`\ 4 Our results reaffirm
+these findings, with 16% of over-35s suffering from psychotic
 depression. The proportion of our patients aged over 35 with
 non-affective psychosis, approximately 55–60%, is similar to that found
 by previous evaluations and lower than would be expected in younger
 patients, where non-affective psychosis is usually reported in
-approximately 75% of cases.(n.d.k) This is consistent with the natural
-course of mood disorders, such as resistant depression, which becomes
+approximately 75% of cases.4 This is consistent with the natural course
+of mood disorders, such as resistant depression, which becomes
 progressively more prevalent in older patients, some of whom may have
 suffered hypomanic episodes for which they did not seek treatment.
 Non-affective psychotic disorders are less likely to present for the
-first time over the age of 35.(n.d.j) Also, the higher representation of
+first time over the age of 35.11 Also, the higher representation of
 females in our over-35s sample and those of other studies may reflect a
 bimodal pattern of psychotic disorders in women, with an first peak at
 around the same age as in men (18–25 years) and a further peak, usually
-of an affective nature, in the 40s.(n.d.l) A willingness to treat these
-older female patients would support age inclusivity across EIP services.
+of an affective nature, in the 40s.12 A willingness to treat these older
+female patients would support age inclusivity across EIP services.
 
-Selvendra *et al*\ (n.d.m) showed that older patients referred to their
+Selvendra *et al*\ 13 showed that older patients referred to their
 mental health service in Italy had been unwell for significantly longer
 than younger patients. Our results, from an EIP context, also found a
 statistically significant difference in DUP between over- and under-35s.
 This indicates the need to continue to enhance outreach approaches to
-detect emerging psychotic symptoms earlier,(n.d.g) or to consider
-different approaches for a group of patients whose illness may have
-become more chronic by the time they are assessed by EIP services.
+detect emerging psychotic symptoms earlier,8 or to consider different
+approaches for a group of patients whose illness may have become more
+chronic by the time they are assessed by EIP services.
 
 Although only three referrals were not taken on by CAMEO owing to
 comorbid dementia in our evaluation, other studies have shown a steady
 increase in transition to organic pathology in older patients. In fact,
 neurodegenerative diagnoses creep into the fold as the upper age limit
-increases above 35.(n.d.n) Accordingly, follow-up studies of over-35s
-treated in EIP services under the new Standard(n.d.a) will be required
-in order to evaluate this potential clinical issue and the subsequent
-effects on services that are not designed to treat such conditions.
+increases above 35.14 Accordingly, follow-up studies of over-35s treated
+in EIP services under the new Standard1 will be required in order to
+evaluate this potential clinical issue and the subsequent effects on
+services that are not designed to treat such conditions.
 
 In summary, our evaluation has begun to unfold the practical challenges
-that the implementation of the new Access and Waiting Time
-Standard(n.d.a) brings to established EIP services with regards to age
-inclusivity. The CAMEO service received a significantly higher number of
-referrals as a result of this, with an increased proportion of patients
-suffering from severe, acute psychotic presentations and with existing
-mental health issues for which they had already received treatment.
-These patients were more likely to be referred from secondary mental
-health services after an acute crisis, and to have longer DUP and
-psychotic symptoms in the context of other conditions, such as mood
-disorders.
+that the implementation of the new Access and Waiting Time Standard1
+brings to established EIP services with regards to age inclusivity. The
+CAMEO service received a significantly higher number of referrals as a
+result of this, with an increased proportion of patients suffering from
+severe, acute psychotic presentations and with existing mental health
+issues for which they had already received treatment. These patients
+were more likely to be referred from secondary mental health services
+after an acute crisis, and to have longer DUP and psychotic symptoms in
+the context of other conditions, such as mood disorders.
 
 The main limitation of this evaluation pertains to the collection of
 data from electronic records routinely employed in clinical practice;
@@ -354,79 +354,6 @@ Associate Lecturer at the Department of Psychiatry, University of
 Cambridge, Honorary Professor of Psychiatry at the University of East
 Anglia and Lead Director of the National Institute for Health Research
 (NIHR) Clinical Research Network in the East of England.
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-ref1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-ref2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-ref3
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-ref4
-
-      n.d.k.
-
-   .. container:: csl-entry
-      :name: ref-ref5
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-ref6
-
-      n.d.e.
-
-   .. container:: csl-entry
-      :name: ref-ref7
-
-      n.d.f.
-
-   .. container:: csl-entry
-      :name: ref-ref8
-
-      n.d.g.
-
-   .. container:: csl-entry
-      :name: ref-ref9
-
-      n.d.h.
-
-   .. container:: csl-entry
-      :name: ref-ref10
-
-      n.d.i.
-
-   .. container:: csl-entry
-      :name: ref-ref11
-
-      n.d.j.
-
-   .. container:: csl-entry
-      :name: ref-ref12
-
-      n.d.l.
-
-   .. container:: csl-entry
-      :name: ref-ref13
-
-      n.d.m.
-
-   .. container:: csl-entry
-      :name: ref-ref14
-
-      n.d.n.
 
 .. [1]
    These authors contributed equally to this work.

@@ -2,6 +2,8 @@
 Predicting short-term suicide risk: allowing for ongoing variation in severity of intent
 ========================================================================================
 
+
+
 Gethin MorganCorrespondence to Gethin Morgan
 (hilary.howard@blueyonder.co.uk)
 :Date: 2021-04
@@ -34,7 +36,7 @@ prevented if we had done this or that in a different way. It is very
 important in such circumstances to take a step back, accept that it can
 indeed be very difficult to predict suicide, let alone prevent it, and
 acknowledge that occasionally quite inevitably we will not
-succeed.\ :sup:`(n.d.a)`
+succeed.\ :sup:`1`
 
 However, in our day-to-day work we are probably more effective in
 preventing suicide than we allow ourselves to acknowledge. Such a
@@ -50,7 +52,7 @@ evaluating its role in the care of suicidal individuals and in
 predicting short-term suicide risk. Assessment of suicidal ideation is
 regarded as a central clinical component of the overall risk assessment
 process, which is of course multifactorial and has a wide
-clinical/social base.\ :sup:`(n.d.b)` Long-term prediction is a highly
+clinical/social base.\ :sup:`2` Long-term prediction is a highly
 questionable exercise and I do not consider it here.
 
 In in-patient care, surely there can be no controversy regarding the
@@ -75,20 +77,20 @@ A review of several meta-analyses concerning suicide prediction reached
 the following conclusion: ‘None of the meta-analyses found that any
 individual clinical risk factor, including suicidal thoughts and
 behaviours, was sufficiently accurate as a basis to allocate
-interventions’.\ :sup:`(n.d.c)`
+interventions’.\ :sup:`3`
 
 Further cautionary advice comes from the National Institute for Health
 and Care Excellence (NICE), which states in its 2011 guidelines on
 self-harm: ‘Do not use risk assessment tools and scales to predict
 future suicide or repetition of self-harm [or] to determine who should
 or should not be offered treatment or who should be
-discharged’.\ :sup:`(n.d.d)`
+discharged’.\ :sup:`4`
 
 A number of other studies have found that the majority of patients who
 died by suicide had denied having suicidal ideas at the time of the
-final interview.\ :sup:`(n.d.e)–(n.d.f)` This has been taken to mean
-that assessment of suicidal ideation is not to be recommended as part of
-suicide prediction because of its unreliability.
+final interview.\ :sup:`5–7` This has been taken to mean that assessment
+of suicidal ideation is not to be recommended as part of suicide
+prediction because of its unreliability.
 
 In the face of such a consistent body of evidence suggesting that it has
 no value, I will review the part that assessment of suicidal ideation
@@ -177,8 +179,8 @@ well, day in, day out, usually over several weeks, yet in spite of my
 close continuing contact with them and the majority reassuring me about
 their safety, they ended their lives. In an attempt to understand all
 this further, I put all their case records together and looked at them
-as a whole.\ :sup:`(n.d.g)` A half showed marked variability in severity
-of suicidal intent, in some even over the course of a single day, with
+as a whole.\ :sup:`8` A half showed marked variability in severity of
+suicidal intent, in some even over the course of a single day, with
 short episodes of corresponding misleading clinical improvement in which
 suicidal ideas were denied. Variable contact and unresolved stress
 factors and impulse seemed relevant. For example, one patient happily
@@ -189,10 +191,10 @@ be confronted with an unresolved domestic crisis.
 Two later case series consisted of all psychiatric in-patients in the
 City of Bristol during two separate periods (1982–1984 and 1991–1993)
 who died by suicide either from hospital wards or within 2 months of
-discharge.\ :sup:`(n.d.h),(n.d.i)` In the two studies, 52 and 61%
-respectively showed episodes of misleading clinical improvement. Stress
-was a common background to relapse: 44 and 50% respectively killed
-themselves when clinically improved but with stress factors unresolved.
+discharge.\ :sup:`9,10` In the two studies, 52 and 61% respectively
+showed episodes of misleading clinical improvement. Stress was a common
+background to relapse: 44 and 50% respectively killed themselves when
+clinically improved but with stress factors unresolved.
 
 Although the number of cases in these three studies was small (12, 27
 and 18 respectively) and they bridged a time span of 30 years, the
@@ -284,13 +286,13 @@ continuing risk.
 
 As mentioned above, variability in severity of intent has been found to
 occur in about half of patients with suicidal ideation who proceed to
-suicide.\ :sup:`(n.d.g),(n.d.h),(n.d.i)` In the remaining patients,
-environmental stress factors that presumably trigger such variability
-are presumably either absent or do not cause significant problems for
-the patient. Does the proposed guidance therefore have value only for
-half of patients? Not necessarily. It is possible that, in other
-patients, careful anticipatory enquiry might reveal a need to plan help
-for problems that otherwise would have remained unexpected.
+suicide.\ :sup:`8,9,10` In the remaining patients, environmental stress
+factors that presumably trigger such variability are presumably either
+absent or do not cause significant problems for the patient. Does the
+proposed guidance therefore have value only for half of patients? Not
+necessarily. It is possible that, in other patients, careful
+anticipatory enquiry might reveal a need to plan help for problems that
+otherwise would have remained unexpected.
 
 From what has been presented here it is clear that the process of
 predicting suicide risk even in the short term is a difficult clinical
@@ -339,13 +341,13 @@ more precisely as a result of its forward-looking approach. There are
 several other ways in which assessment of suicidal ideation can have a
 useful role in caring for suicidal individuals. Its value in detecting a
 certain group of in-patients especially vulnerable to suicide has been
-described elsewhere.\ :sup:`(n.d.j)` Whatever the setting, shared
-knowledge of suicidal ideation can also contribute to a therapeutic
-alliance with the patient, promoting a readiness to discuss suicidal
-ideas fully and thereby helping to alienate such ideas, making defensive
-denial less likely. Such mutual collaboration and trust not only have
-therapeutic and preventive value: they can then also facilitate the
-process of prediction.
+described elsewhere.\ :sup:`11` Whatever the setting, shared knowledge
+of suicidal ideation can also contribute to a therapeutic alliance with
+the patient, promoting a readiness to discuss suicidal ideas fully and
+thereby helping to alienate such ideas, making defensive denial less
+likely. Such mutual collaboration and trust not only have therapeutic
+and preventive value: they can then also facilitate the process of
+prediction.
 
 Given this overall picture it seems reasonable to conclude that the
 assessment of suicidal ideas, provided it is carried out correctly,
@@ -393,56 +395,3 @@ http://dx.doi.org/10.1192/bjb.2020.90.
    .. rubric:: 
 
    click here to view supplementary material
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-ref1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-ref2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-ref3
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-ref4
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-ref5
-
-      n.d.e.
-
-   .. container:: csl-entry
-      :name: ref-ref7
-
-      n.d.f.
-
-   .. container:: csl-entry
-      :name: ref-ref8
-
-      n.d.g.
-
-   .. container:: csl-entry
-      :name: ref-ref9
-
-      n.d.h.
-
-   .. container:: csl-entry
-      :name: ref-ref10
-
-      n.d.i.
-
-   .. container:: csl-entry
-      :name: ref-ref11
-
-      n.d.j.

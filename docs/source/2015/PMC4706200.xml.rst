@@ -2,6 +2,8 @@
 Psychiatric morbidity and socio-occupational dysfunction in residents of a drug rehabilitation centre: challenges of substance misuse management in a Bruneian context\ `† <#fn1>`__
 ====================================================================================================================================================================================
 
+
+
 Hilda Ho
 Anddy Maz Adanan
 Radiah OmarCorrespondence to Hilda Ho (hilda.ho@moh.gov.bn)  [1]_
@@ -54,13 +56,12 @@ engage in treatment. Admission into the centre is an opportunity to
 screen for and treat any significant illness. Psychiatric morbidity is
 likely to have an impact on rehabilitation. Those individuals with
 mental disorders are more vulnerable to the adverse effects of
-imprisonment and are at higher risk of suicide.\ :sup:`(n.d.a)` They may
-have difficulty adhering to rehabilitation programmes.\ :sup:`(n.d.b)`
-We hypothesised that there would be a high level of psychiatric
-morbidity and socio-occupational dysfunction in this population. We also
-evaluated the usefulness of a psychiatric screening tool. Finally, we
-consider the challenges facing substance misuse management in the
-Bruneian context.
+imprisonment and are at higher risk of suicide.\ :sup:`1` They may have
+difficulty adhering to rehabilitation programmes.\ :sup:`2` We
+hypothesised that there would be a high level of psychiatric morbidity
+and socio-occupational dysfunction in this population. We also evaluated
+the usefulness of a psychiatric screening tool. Finally, we consider the
+challenges facing substance misuse management in the Bruneian context.
 
 .. _S1:
 
@@ -81,23 +82,22 @@ Phase 1
 -------
 
 All residents were interviewed using the Self-Reporting Questionnaire-24
-(SRQ-24)\ :sup:`(n.d.c)` between January and June 2012. This is a tool
-that has been shown to have good sensitivity and specificity for
-identifying psychiatric morbidity in primary healthcare
-settings.\ :sup:`(n.d.c)` As Malay is the main language spoken in
-Brunei, we used a Malay language version that has been used to examine
-psychiatric morbidity in a Malay-speaking population.\ :sup:`(n.d.d)`
-Questions 1–20 relate to neurotic symptoms and questions 21–24 to
-psychotic symptoms. Those who scored above a cut-off score of 6 and
-above for the first 20 questions and/or 1 and above for the last 4
-questions, were entered into phase 2 of this study. This cut-off has
-been suggested to have the best ‘trade-off’ between sensitivity and
-specificity. Demographic details, educational and employment history,
-drug misuse history, psychiatric history, self-reported violence and
-offending history were also obtained. Data regarding socio-occupational
-function were obtained using an open questioning style. Any participant
-thought to require clinical assessment was referred to the psychiatric
-clinic.
+(SRQ-24)\ :sup:`3` between January and June 2012. This is a tool that
+has been shown to have good sensitivity and specificity for identifying
+psychiatric morbidity in primary healthcare settings.\ :sup:`3` As Malay
+is the main language spoken in Brunei, we used a Malay language version
+that has been used to examine psychiatric morbidity in a Malay-speaking
+population.\ :sup:`4` Questions 1–20 relate to neurotic symptoms and
+questions 21–24 to psychotic symptoms. Those who scored above a cut-off
+score of 6 and above for the first 20 questions and/or 1 and above for
+the last 4 questions, were entered into phase 2 of this study. This
+cut-off has been suggested to have the best ‘trade-off’ between
+sensitivity and specificity. Demographic details, educational and
+employment history, drug misuse history, psychiatric history,
+self-reported violence and offending history were also obtained. Data
+regarding socio-occupational function were obtained using an open
+questioning style. Any participant thought to require clinical
+assessment was referred to the psychiatric clinic.
 
 .. _S3:
 
@@ -106,19 +106,19 @@ Phase 2
 
 Residents proceeding to phase 2 were interviewed using the Malay version
 of the Mini International Neuropsychiatric Interview (MINI, version
-6.0).\ :sup:`(n.d.e)` The MINI is a short semi-structured diagnostic
-interview for DSM-IV\ :sup:`(n.d.f)` and ICD-10\ :sup:`(n.d.g)`
-psychiatric disorders. It has been shown to have good validity and
-interrater reliability.\ :sup:`(n.d.e)` The Malay version has been shown
-to have good reliability in diagnosing major depressive disorder and
-generalised anxiety disorder in a Malaysian community
-setting.\ :sup:`(n.d.h)` The sections coding for the following groups of
-disorders were used: major depressive episode, suicidality, manic and
-hypomanic episodes, psychotic disorders and mood disorder with psychotic
-features, generalised anxiety disorder. The prevalence of these
-disorders was the main focus of the study as they are common treatable
-causes of psychiatric morbidity. All interview records were checked by
-the consultant forensic psychiatrist (H.H.) for accuracy.
+6.0).\ :sup:`5` The MINI is a short semi-structured diagnostic interview
+for DSM-IV\ :sup:`6` and ICD-10\ :sup:`7` psychiatric disorders. It has
+been shown to have good validity and interrater reliability.\ :sup:`5`
+The Malay version has been shown to have good reliability in diagnosing
+major depressive disorder and generalised anxiety disorder in a
+Malaysian community setting.\ :sup:`8` The sections coding for the
+following groups of disorders were used: major depressive episode,
+suicidality, manic and hypomanic episodes, psychotic disorders and mood
+disorder with psychotic features, generalised anxiety disorder. The
+prevalence of these disorders was the main focus of the study as they
+are common treatable causes of psychiatric morbidity. All interview
+records were checked by the consultant forensic psychiatrist (H.H.) for
+accuracy.
 
 .. _S4:
 
@@ -247,7 +247,7 @@ Of participants, 29 (17.6%) reported previous contact with psychiatric
 services, 9 (5.5%) residents were taking psychiatric medication
 (antidepressant, antipsychotic or mood stabiliser). In total, 13 (7.9%)
 had previous admissions for psychiatric treatment, 5 (3.0%) had received
-involuntary treatment under the Lunacy Act.\ :sup:`(n.d.i)` Twenty-two
+involuntary treatment under the Lunacy Act.\ :sup:`9` Twenty-two
 participants (13.3%) reported experiencing mental health problems in the
 past, for which they had not sought treatment. There were 16 (9.7%) who
 reported experiencing previous suicidal ideation. In addition, 19
@@ -397,25 +397,24 @@ Rates of mental disorders
 
 Although the high prevalence of psychiatric morbidity in correctional
 populations has often been highlighted in Western
-countries,\ :sup:`(n.d.j)-(n.d.k)` there is less data available in
-non-Western countries.\ :sup:`(n.d.l)` High prevalence of mental
-disorders have been found in an Iranian prison
-population.\ :sup:`(n.d.m)` Similarly, high rates of psychiatric
-morbidity were found in individuals who misused methamphetamine detained
-in Taiwan.\ :sup:`(n.d.n)` This is the first investigation of
-psychiatric morbidity in a drug-misusing population in Brunei. Major
-depressive disorder was the most common diagnosis and was observed in
-5.5% of the sample, similar to the Taiwanese finding. Lifetime psychotic
-disorder was found in 4.8% of residents, 3.0% of whom had a current
-psychotic disorder. Although we attempted to exclude psychotic symptoms
-directly associated with substance misuse, it is possible that some
-findings may have been methamphetamine psychosis rather than a primary
-psychotic disorder. Bipolar I disorder was observed in 1.8% of residents
-and bipolar II disorder was similarly observed in 1.8% of residents. The
-rates of psychotic\ :sup:`(n.d.o)` and bipolar disorders\ :sup:`(n.d.p)`
-appeared to be higher than in the general population, although no
-epidemiological data exist for the prevalence of mental disorders in
-Brunei.
+countries,\ :sup:`10-13` there is less data available in non-Western
+countries.\ :sup:`14` High prevalence of mental disorders have been
+found in an Iranian prison population.\ :sup:`15` Similarly, high rates
+of psychiatric morbidity were found in individuals who misused
+methamphetamine detained in Taiwan.\ :sup:`16` This is the first
+investigation of psychiatric morbidity in a drug-misusing population in
+Brunei. Major depressive disorder was the most common diagnosis and was
+observed in 5.5% of the sample, similar to the Taiwanese finding.
+Lifetime psychotic disorder was found in 4.8% of residents, 3.0% of whom
+had a current psychotic disorder. Although we attempted to exclude
+psychotic symptoms directly associated with substance misuse, it is
+possible that some findings may have been methamphetamine psychosis
+rather than a primary psychotic disorder. Bipolar I disorder was
+observed in 1.8% of residents and bipolar II disorder was similarly
+observed in 1.8% of residents. The rates of psychotic\ :sup:`17` and
+bipolar disorders\ :sup:`18` appeared to be higher than in the general
+population, although no epidemiological data exist for the prevalence of
+mental disorders in Brunei.
 
 .. _S17:
 
@@ -446,14 +445,14 @@ average. The neighbouring countries of Thailand, Malaysia, Cambodia and
 Indonesia have seized record high amounts of crystalline methamphetamine
 in the past few years. Annually, hundreds of illicit synthetic drug
 manufacturing facilities have been seized in the region over the same
-period.\ :sup:`(n.d.q)` The availability of crystal methamphetamine is
-likely to contribute significantly to its popularity in Brunei. In
-contrast, the country has not had a widespread heroin misuse problem,
-avoiding the hazards associated with intravenous drug misuse. This
-pattern of drug misuse should inform national drug treatment and
-rehabilitation strategies. Substitute prescription such as methadone
-programmes used to treat heroin addiction more common elsewhere, cannot
-be usefully applied here.
+period.\ :sup:`19` The availability of crystal methamphetamine is likely
+to contribute significantly to its popularity in Brunei. In contrast,
+the country has not had a widespread heroin misuse problem, avoiding the
+hazards associated with intravenous drug misuse. This pattern of drug
+misuse should inform national drug treatment and rehabilitation
+strategies. Substitute prescription such as methadone programmes used to
+treat heroin addiction more common elsewhere, cannot be usefully applied
+here.
 
 We found that the rate of self-reported alcohol problems in this
 population was very high (61.8%). This may reflect the conservative
@@ -468,21 +467,20 @@ Societal views of drug and alcohol use
 
 Societal views regarding drug and alcohol use are generally very
 conservative. This is reflected in the heavy penalties imposed on those
-convicted of drug misuse, dealing and trafficking
-offences.\ :sup:`(n.d.r)` More than two-thirds of the population is
-Muslim and it is the official religion of the state. It is expected that
-alcohol should not be consumed at all by Muslims. The sale of alcohol is
-banned, and only non-Muslim adults are allowed to take controlled
-quantities into the country for personal use. Public drinking is not
-allowed. The phased introduction of the Syariah Penal
-Code,\ :sup:`(n.d.s)` which began in April 2014, further increases the
-prospects of heavy punishment for those who contravene the strict laws
-relating to alcohol use. Under this new law, drinking alcohol is an
-offence for Muslims. Public drinking both in the country and abroad,
-providing alcohol to a Muslim and abetment of a Muslim to consume
-alcohol are listed as punishable offences for non-Muslims. Those
-convicted of alcohol offences may be fined, imprisoned and punished with
-whipping.
+convicted of drug misuse, dealing and trafficking offences.\ :sup:`20`
+More than two-thirds of the population is Muslim and it is the official
+religion of the state. It is expected that alcohol should not be
+consumed at all by Muslims. The sale of alcohol is banned, and only
+non-Muslim adults are allowed to take controlled quantities into the
+country for personal use. Public drinking is not allowed. The phased
+introduction of the Syariah Penal Code,\ :sup:`21` which began in April
+2014, further increases the prospects of heavy punishment for those who
+contravene the strict laws relating to alcohol use. Under this new law,
+drinking alcohol is an offence for Muslims. Public drinking both in the
+country and abroad, providing alcohol to a Muslim and abetment of a
+Muslim to consume alcohol are listed as punishable offences for
+non-Muslims. Those convicted of alcohol offences may be fined,
+imprisoned and punished with whipping.
 
 .. _S20:
 
@@ -548,104 +546,6 @@ locally.
 We thank the staff of Pusat Al-Islah and the NCB for their assistance.
 We thank David V. Sheehan and Christopher Gray of Medical Outcome
 Systems for their permission to use the MINI.
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-R1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-R2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-R3
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-R4
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-R5
-
-      n.d.e.
-
-   .. container:: csl-entry
-      :name: ref-R6
-
-      n.d.f.
-
-   .. container:: csl-entry
-      :name: ref-R7
-
-      n.d.g.
-
-   .. container:: csl-entry
-      :name: ref-R8
-
-      n.d.h.
-
-   .. container:: csl-entry
-      :name: ref-R9
-
-      n.d.i.
-
-   .. container:: csl-entry
-      :name: ref-R10
-
-      n.d.j.
-
-   .. container:: csl-entry
-      :name: ref-R13
-
-      n.d.k.
-
-   .. container:: csl-entry
-      :name: ref-R14
-
-      n.d.l.
-
-   .. container:: csl-entry
-      :name: ref-R15
-
-      n.d.m.
-
-   .. container:: csl-entry
-      :name: ref-R16
-
-      n.d.n.
-
-   .. container:: csl-entry
-      :name: ref-R17
-
-      n.d.o.
-
-   .. container:: csl-entry
-      :name: ref-R18
-
-      n.d.p.
-
-   .. container:: csl-entry
-      :name: ref-R19
-
-      n.d.q.
-
-   .. container:: csl-entry
-      :name: ref-R20
-
-      n.d.r.
-
-   .. container:: csl-entry
-      :name: ref-R21
-
-      n.d.s.
 
 .. [1]
    **Hilda Ho** is a consultant forensic psychiatrist and head of

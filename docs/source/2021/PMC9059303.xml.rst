@@ -2,6 +2,8 @@
 More research needed into long-term medical student mental health during COVID-19 pandemic and beyond
 =====================================================================================================
 
+
+
 Anusha Mahesh Prabhu
 Intishar Rashad
 :Date: 2021-06
@@ -13,39 +15,39 @@ Intishar Rashad
 
 pmc
 The mental health of healthcare professionals has been significantly
-affected by the COVID-19 pandemic.\ :sup:`(n.d.a)` We believe that more
+affected by the COVID-19 pandemic.\ :sup:`1` We believe that more
 research focusing specifically on the long-term mental health of medical
 students is required. Medical students are an at-risk group, with a
-greater incidence of anxiety\ :sup:`(n.d.b)` than the general
-population, and a higher prevalence of suicidal ideation than physicians
-and nurses.\ :sup:`(n.d.c)` The risk is further compounded by being
-young,\ :sup:`(n.d.a)` having higher awareness of disease severity, and
+greater incidence of anxiety\ :sup:`2` than the general population, and
+a higher prevalence of suicidal ideation than physicians and
+nurses.\ :sup:`3` The risk is further compounded by being
+young,\ :sup:`1` having higher awareness of disease severity, and
 possessing common personality traits such as maladaptive perfectionism
-and difficulty adapting to disruption in routine.\ :sup:`(n.d.b)`
+and difficulty adapting to disruption in routine.\ :sup:`2`
 
 Medical students often face a sense of duty to volunteer in hospitals in
 times of global health emergencies such as the current pandemic, which
 can bring particular emotional challenges. The subsequent higher risk of
 transmitting COVID-19 may cause increased social isolation. Uncertainty
 around medical education due to cancelled exams and placements also
-increases stress.\ :sup:`(n.d.d)`
+increases stress.\ :sup:`4`
 
 Although a recent meta-analysis showed no difference in anxiety during
-COVID-19 in medical students,\ :sup:`(n.d.b)` isolated studies worldwide
-have shown increased anxiety in those whose loved ones had contracted
-COVID-19 and who had interacted with COVID-19 patients.\ :sup:`(n.d.d)`
+COVID-19 in medical students,\ :sup:`2` isolated studies worldwide have
+shown increased anxiety in those whose loved ones had contracted
+COVID-19 and who had interacted with COVID-19 patients.\ :sup:`4`
 
 Higher levels of baseline stress and depression are negative predictors
-of poor mental health,\ :sup:`(n.d.a)` so more research must be done to
+of poor mental health,\ :sup:`1` so more research must be done to
 identify those especially at risk. Those with pre-existing mental health
 issues have reported decreased access to the usual support services
-during the pandemic.\ :sup:`(n.d.a)` To our knowledge, there is no
-available literature exploring the impact of COVID-19 on medical
-students with pre-existing mental illness. Experiences in previous
-pandemics such as SARS show that long-term mental health issues such as
-alcohol misuse and post-traumatic stress symptoms can persist for
-several years in healthcare workers who have been quarantined or have
-worked in high-risk areas.\ :sup:`(n.d.e)`
+during the pandemic.\ :sup:`1` To our knowledge, there is no available
+literature exploring the impact of COVID-19 on medical students with
+pre-existing mental illness. Experiences in previous pandemics such as
+SARS show that long-term mental health issues such as alcohol misuse and
+post-traumatic stress symptoms can persist for several years in
+healthcare workers who have been quarantined or have worked in high-risk
+areas.\ :sup:`5`
 
 The majority of current studies of mental health in COVID-19 have been
 cross-sectional, and few have focused on medical students. Longitudinal,
@@ -54,7 +56,7 @@ age groups and investigating more variables, such as pre-existing mental
 illness, are required to identify those most at risk and the long-term
 effects on this population. The results of these studies could be used
 to improve future implementation of targeted medical student-specific
-mental healthcare interventions.\ :sup:`(n.d.a)`
+mental healthcare interventions.\ :sup:`1`
 
 Both authors have contributed equally in preparing this article.
 
@@ -64,31 +66,3 @@ Declaration of interest
 =======================
 
 None
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-ref1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-ref2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-ref3
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-ref4
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-ref5
-
-      n.d.e.

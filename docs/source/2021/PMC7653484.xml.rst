@@ -2,6 +2,8 @@
 Is COVID-19 changing psychiatry?
 ================================
 
+
+
 David M. ForemanCorrespondence to David M. Foreman
 (David_Foreman@doctors.net.uk) [1]_
 :Date: 2020-9-03
@@ -20,8 +22,8 @@ David M. ForemanCorrespondence to David M. Foreman
 
 All disasters stress-test the societies they impinge upon. The current
 coronavirus pandemic is no exception. In this issue of *BJPsych
-Bulletin*, two authors\ :sup:`(n.d.a),(n.d.b)` consider the impact the
-virus might have.
+Bulletin*, two authors\ :sup:`1,2` consider the impact the virus might
+have.
 
 Perhaps surprisingly, there is much agreement. Neither finds dire
 forecasts of an imminent psychiatric epidemic convincing, although both
@@ -57,19 +59,6 @@ D.M.F. is on the editorial board of *BJPsych Bulletin*.
 
 **David M. Foreman**, Affiliate Senior Lecturer, King's College London,
 Institute of Psychiatry, Psychology & Neuroscience, UK.
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-ref1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-ref2
-
-      n.d.b.
 
 .. [1]
    Commentary on… Does COVID-19 pose a challenge to the diagnoses of

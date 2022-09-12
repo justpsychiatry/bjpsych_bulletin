@@ -2,6 +2,8 @@
 New models of care: a liaison psychiatry service for medically unexplained symptoms and frequent attenders in primary care
 ==========================================================================================================================
 
+
+
 Janine Bestall
 Najma Siddiqi
 Suzanne Heywood-Everett
@@ -42,11 +44,10 @@ Allan HouseCorrespondence to Janine Bestall (j.bestall@leeds.ac.uk)
 
 Medically unexplained symptoms (MUS) and comorbid physical and mental
 health conditions place a significant burden on individuals and the
-economy.\ :sup:`(n.d.a),(n.d.b)` Annual costs of MUS have been estimated
-at £3.1 billion\ :sup:`(n.d.c)` and of comorbid conditions at £18
-billion.\ :sup:`(n.d.d)` Policy makers suggest innovative approaches be
-deployed to improve care for patients and make savings across the
-system.\ :sup:`(n.d.e)`
+economy.\ :sup:`1,2` Annual costs of MUS have been estimated at £3.1
+billion\ :sup:`3` and of comorbid conditions at £18 billion.\ :sup:`4`
+Policy makers suggest innovative approaches be deployed to improve care
+for patients and make savings across the system.\ :sup:`5`
 
 These patients frequently return to general practitioners (GPs) with
 unresolved and new complaints. Despite being referred to specialist
@@ -62,14 +63,13 @@ mental health services.
 
 The skill base in liaison psychiatry services renders them an ideal
 source of expertise. Until recently such services were hospital-based
-but they can be integrated within primary care
-services.\ :sup:`(n.d.f)–(n.d.g)` We report a novel pilot primary care
-liaison psychiatry service – the Primary Care Wellbeing Service (PCWS)
-in Bradford and Airedale, West Yorkshire. The service was targeted to
-frequent attenders with MUS or psychological difficulties associated
-with their underlying long-term conditions. This report is a description
-of the planning, set up and evaluation and feasibility of the
-preliminary project.
+but they can be integrated within primary care services.\ :sup:`6–8` We
+report a novel pilot primary care liaison psychiatry service – the
+Primary Care Wellbeing Service (PCWS) in Bradford and Airedale, West
+Yorkshire. The service was targeted to frequent attenders with MUS or
+psychological difficulties associated with their underlying long-term
+conditions. This report is a description of the planning, set up and
+evaluation and feasibility of the preliminary project.
 
 .. _S1:
 
@@ -104,19 +104,19 @@ months following referral for secondary care data, and 11 months
 following referral for primary care and mental health data, providing
 healthcare activity and costs.Clinical effectiveness: at referral and
 then every 2 months during follow-up using the 9-item Patient Health
-Questionnaire (PHQ-9),\ :sup:`(n.d.h)` 15-item Patient Health
-Questionnaire (PHQ-15),\ :sup:`(n.d.i)` 7-item Generalised Anxiety
-Disorder scale (GAD-7)\ :sup:`(n.d.j)` and the EuroQol 5-dimension,
-5-level health status measure (EQ-5D-5L).\ :sup:`(n.d.k)` A
-clinician-reported outcome measure assessed perceived improvement in the
-patient's condition by referring clinician.Staff experience: a referrer
-satisfaction scale, 6 months after the referral or at patient's
-discharge from the PCWS; and a survey administered at the end of the
-pilot.Patient experience: a brief patient-reported measure at discharge
-comprising (a) patient satisfaction with the service; (b) two questions
-asking what was good about the service and what could be improved; and
-(c) would they recommend the service?Case studies were used to
-illustrate individual formulations and negotiations that took place.
+Questionnaire (PHQ-9),\ :sup:`9` 15-item Patient Health Questionnaire
+(PHQ-15),\ :sup:`10` 7-item Generalised Anxiety Disorder scale
+(GAD-7)\ :sup:`11` and the EuroQol 5-dimension, 5-level health status
+measure (EQ-5D-5L).\ :sup:`12` A clinician-reported outcome measure
+assessed perceived improvement in the patient's condition by referring
+clinician.Staff experience: a referrer satisfaction scale, 6 months
+after the referral or at patient's discharge from the PCWS; and a survey
+administered at the end of the pilot.Patient experience: a brief
+patient-reported measure at discharge comprising (a) patient
+satisfaction with the service; (b) two questions asking what was good
+about the service and what could be improved; and (c) would they
+recommend the service?Case studies were used to illustrate individual
+formulations and negotiations that took place.
 
 .. _S3:
 
@@ -355,19 +355,18 @@ traditional diagnostic categories do not describe well and standard
 mental health services do not currently manage well. This is not the
 first attempt at establishing primary care-based liaison services. The
 service described, however, is unique because it eschews traditional
-collaborative care approaches\ :sup:`(n.d.l)` and screening for anxiety
-and depression widely described in the research
-literature.\ :sup:`(n.d.l),(n.d.m)` In clinical practice that type of
-screening does not identify the right candidates to work with. The GPs
-and practice staff identified patients for this study by focusing on
-those patients with MUS or long-term conditions who were struggling to
-cope and that were returning with unresolved physical and emotional
-problems with rising healthcare costs. This was facilitated by a
-discussion of the case and the development of the vignette prior to
-referral to the PCWS There was a level of detail in identifying this
-type of patient that required consideration and scrutiny by practice
-staff which could not be picked up by electronic systems or case-finding
-measures alone.
+collaborative care approaches\ :sup:`13` and screening for anxiety and
+depression widely described in the research literature.\ :sup:`13,14` In
+clinical practice that type of screening does not identify the right
+candidates to work with. The GPs and practice staff identified patients
+for this study by focusing on those patients with MUS or long-term
+conditions who were struggling to cope and that were returning with
+unresolved physical and emotional problems with rising healthcare costs.
+This was facilitated by a discussion of the case and the development of
+the vignette prior to referral to the PCWS There was a level of detail
+in identifying this type of patient that required consideration and
+scrutiny by practice staff which could not be picked up by electronic
+systems or case-finding measures alone.
 
 Patients with such complex conditions cannot be managed in standard ways
 following a protocol. They require a creative approach to person-centred
@@ -408,10 +407,10 @@ Challenges to service delivery and data collection
 
 Our findings suggest that such services are feasible to deliver but that
 practices can struggle without sufficient staff to deliver the service.
-This accords with the literature\ :sup:`(n.d.n)` which suggests an
-assessment of practice readiness be performed but this might not account
-for unexpected changes in practice staffing and infrastructure. Patients
-and staff that completed satisfaction measures were satisfied with the
+This accords with the literature\ :sup:`15` which suggests an assessment
+of practice readiness be performed but this might not account for
+unexpected changes in practice staffing and infrastructure. Patients and
+staff that completed satisfaction measures were satisfied with the
 service, although it is possible that those that did not complete
 measures did not have such a positive experience. Further, it was not
 possible to routinely collect self-reported outcome measures in routine
@@ -428,7 +427,7 @@ monitoring systems. Again, out-of-hours information was not collected as
 part of this. Case studies enabled practitioners to consider how well
 the patient progressed helping to sustain the service in its early
 phases using cases as a feedback loop as proposed in the
-literature.\ :sup:`(n.d.n)`
+literature.\ :sup:`15`
 
 .. _S19:
 
@@ -473,97 +472,18 @@ Future proposals
 ================
 
 To maintain the momentum and build on this project and other innovative
-pilots in the UK,\ :sup:`(n.d.f),(n.d.o)` we propose setting up a
-network of interested colleagues to critically consider the future
-development of primary care liaison psychiatry services. The purpose
-would be to share experience and to inform further implementation
-projects and design approaches to the particular problems of scaling up
-and managing the needs of patients with complex problems who are prone
-to relapse and likely to require repeated specialist help or longer-term
-care plans.
+pilots in the UK,\ :sup:`6,7` we propose setting up a network of
+interested colleagues to critically consider the future development of
+primary care liaison psychiatry services. The purpose would be to share
+experience and to inform further implementation projects and design
+approaches to the particular problems of scaling up and managing the
+needs of patients with complex problems who are prone to relapse and
+likely to require repeated specialist help or longer-term care plans.
 
 The Clinical Commissioning Groups of NHS Airedale, Wharfedale & Craven
 and NHS Bradford Districts commissioned the Health Economics, Evidence
 and Evaluation Service (HEEES) of Yorkshire and Humber Commissioning
 Support to evaluate the Primary Care Wellbeing Service pilot.
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-R1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-R2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-R3
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-R4
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-R5
-
-      n.d.e.
-
-   .. container:: csl-entry
-      :name: ref-R6
-
-      n.d.f.
-
-   .. container:: csl-entry
-      :name: ref-R7
-
-      n.d.o.
-
-   .. container:: csl-entry
-      :name: ref-R8
-
-      n.d.g.
-
-   .. container:: csl-entry
-      :name: ref-R9
-
-      n.d.h.
-
-   .. container:: csl-entry
-      :name: ref-R10
-
-      n.d.i.
-
-   .. container:: csl-entry
-      :name: ref-R11
-
-      n.d.j.
-
-   .. container:: csl-entry
-      :name: ref-R12
-
-      n.d.k.
-
-   .. container:: csl-entry
-      :name: ref-R13
-
-      n.d.l.
-
-   .. container:: csl-entry
-      :name: ref-R14
-
-      n.d.m.
-
-   .. container:: csl-entry
-      :name: ref-R15
-
-      n.d.n.
 
 .. [1]
    **Dr Janine Bestall**, Senior Research Fellow, Leeds Institute of

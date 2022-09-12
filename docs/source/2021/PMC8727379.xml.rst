@@ -2,6 +2,8 @@
 Involving service users to identify research priorities in a UK forensic mental health service
 ==============================================================================================
 
+
+
 Anne Aboaja
 Bunny Forsyth
 Helen Bates
@@ -44,31 +46,30 @@ Robert WoodCorrespondence to Dr Anne Aboaja (anne.aboaja@york.ac.uk)
 
 pmc
 Patient and public involvement (PPI) is a strategic priority for the
-National Institute of Health Research,\ :sup:`(n.d.a)` enabling
-stakeholders to have roles other than as research participants
-throughout the research process.\ :sup:`(n.d.b)` Despite the
-barriers,\ :sup:`(n.d.c)` challenges of time and methodological
-conflict, PPI can bring benefits to research.\ :sup:`(n.d.d)` It
-improves the relevance and quality of research,\ :sup:`(n.d.a)` and
-increases recruitment success.\ :sup:`(n.d.e)` Researchers in this field
-have evidenced the value that the PPI perspective can bring to
-research,\ :sup:`(n.d.f)` but caution using tokenistic approaches.
-Utilising a devolved model of working with user-led organisations or
-groups can support effective involvement,\ :sup:`(n.d.g)` as long as all
-parties clearly understand the underpinning philosophy. A related
-approach of using a reference group specifically established to guide
-and assist with the conduct of a research project is also recognised as
-valuable.\ :sup:`(n.d.h)`
+National Institute of Health Research,\ :sup:`1` enabling stakeholders
+to have roles other than as research participants throughout the
+research process.\ :sup:`2` Despite the barriers,\ :sup:`3` challenges
+of time and methodological conflict, PPI can bring benefits to
+research.\ :sup:`4` It improves the relevance and quality of
+research,\ :sup:`1` and increases recruitment success.\ :sup:`5`
+Researchers in this field have evidenced the value that the PPI
+perspective can bring to research,\ :sup:`6` but caution using
+tokenistic approaches. Utilising a devolved model of working with
+user-led organisations or groups can support effective
+involvement,\ :sup:`7` as long as all parties clearly understand the
+underpinning philosophy. A related approach of using a reference group
+specifically established to guide and assist with the conduct of a
+research project is also recognised as valuable.\ :sup:`8`
 
 The Tees Esk & Wear Valleys NHS Foundation Trust's forensic directorate
 aims to significantly increase research activity. Although forensic
 mental health priorities have been previously proposed, they have arisen
-from studies that did not include service users,\ :sup:`(n.d.i),(n.d.j)`
-focused on specialist areas outside of in-patient\ :sup:`(n.d.k)` or
-prison settings,\ :sup:`(n.d.l)` and sought consensus between service
-users and professionals.\ :sup:`(n.d.k)` This paper describes how
-non-tokenistic PPI through adapted Delphi methodology can be applied in
-a forensic service, to identify service user priorities for research.
+from studies that did not include service users,\ :sup:`9,10` focused on
+specialist areas outside of in-patient\ :sup:`11` or prison
+settings,\ :sup:`12` and sought consensus between service users and
+professionals.\ :sup:`11` This paper describes how non-tokenistic PPI
+through adapted Delphi methodology can be applied in a forensic service,
+to identify service user priorities for research.
 
 .. _sec1:
 
@@ -114,7 +115,7 @@ Design
 
 The Delphi technique is an established methodology that has been used
 widely in psychiatry to consult with and build consensus among experts
-in the field.\ :sup:`(n.d.m)` A two-phase modified Delphi exercise was
+in the field.\ :sup:`13` A two-phase modified Delphi exercise was
 undertaken in which service users were consulted as experts by
 experience of the forensic service. An iterative process was followed to
 obtain consensus on the most important research themes.
@@ -166,20 +167,20 @@ Delphi process: phase 1 – analysing the initial views of service users
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Two consultant psychiatrists and an in-patient nurse from the project
-team jointly undertook content analysis\ :sup:`(n.d.n)` of all
-responses, by hand. Disagreements were resolved through consensus. An
+team jointly undertook content analysis\ :sup:`14` of all responses, by
+hand. Disagreements were resolved through consensus. An
 inductive–deductive approach was used to move from a large number of
 specific research questions and objectives provided by participants to a
-smaller number of general research topics.\ :sup:`(n.d.n)` Each
-individual response was read and grouped into one category with similar
-responses. Each category was given a title that summarised the content
-of the associated responses. Then, responses in each category were
-reviewed in turn, to consider whether it would be more appropriate to
-place each response in an alternative category. This step ensured that
-each category accurately reflected the content of the respective
-responses. Next, categories that were considered similar were combined.
-Category titles were broadened to incorporate very small groups and
-single responses that could not be grouped elsewhere. Principles for the
+smaller number of general research topics.\ :sup:`14` Each individual
+response was read and grouped into one category with similar responses.
+Each category was given a title that summarised the content of the
+associated responses. Then, responses in each category were reviewed in
+turn, to consider whether it would be more appropriate to place each
+response in an alternative category. This step ensured that each
+category accurately reflected the content of the respective responses.
+Next, categories that were considered similar were combined. Category
+titles were broadened to incorporate very small groups and single
+responses that could not be grouped elsewhere. Principles for the
 iterative analysis were to avoid single-response groups, to accurately
 represent service users’ responses and to identify between approximately
 five and ten themes. This target number of themes was chosen to ensure
@@ -355,21 +356,19 @@ Contextualisation of findings
 In the present study, physical health was ranked as the top priority,
 with a focus on weight loss. Surprisingly, this theme did not feature in
 the lists generated from earlier exercises to establish the research
-priorities in forensic mental health.\ :sup:`(n.d.i),(n.d.k),(n.d.l)`
-The explanation for this notable difference may lie in the recent
-incentivised drive by commissioners of secure mental healthcare in
-England for providers to take demonstrable steps to improve physical
-health, particularly through achieving a healthy
-weight.\ :sup:`(n.d.o),(n.d.p)`
+priorities in forensic mental health.\ :sup:`9,11,12` The explanation
+for this notable difference may lie in the recent incentivised drive by
+commissioners of secure mental healthcare in England for providers to
+take demonstrable steps to improve physical health, particularly through
+achieving a healthy weight.\ :sup:`15,16`
 
 There was overlap with the findings of a previous study showing that
 service users, as well as professionals, prioritise epidemiological
 research into factors associated with crime and recidivism, and research
 oriented toward recovery topics such as the future use of mental health
-services and employment.\ :sup:`(n.d.k)` Further consistency was found
-in the high priority given by both clinicians and service users to
-research about effective treatments and
-interventions.\ :sup:`(n.d.j)–(n.d.l)`
+services and employment.\ :sup:`11` Further consistency was found in the
+high priority given by both clinicians and service users to research
+about effective treatments and interventions.\ :sup:`10–12`
 
 This finding of common interest is not surprising, given the partnership
 nature of many treatments involving the professional, who delivers,
@@ -383,28 +382,27 @@ concepts of recovery, diversity, social inclusion, person-centred care
 and stigma may partly explain why research questions such as ‘could we
 cure LD [intellectual disability]?’, which are important to some service
 users, are less likely to be posed by professionals in a research
-priority-setting exercise.\ :sup:`(n.d.q)`
+priority-setting exercise.\ :sup:`17`
 
 The advancement of risk assessment in forensic mental health is
 consistently reported as a research priority in studies based on
 literature review, professionals-only groups or mixed professional and
-service user groups.\ :sup:`(n.d.i)–(n.d.k)` Although it is not clear
-why risk assessment did not feature as an important research area in the
-present study, which involved only service users, it is proposed that
-this topic might be of lesser importance to service users and greater
-interest to professionals, whose roles involve assessing and managing
-risk.
+service user groups.\ :sup:`9–11` Although it is not clear why risk
+assessment did not feature as an important research area in the present
+study, which involved only service users, it is proposed that this topic
+might be of lesser importance to service users and greater interest to
+professionals, whose roles involve assessing and managing risk.
 
 It is also notable that in contrast to a larger international study of
 research priorities for mental health and justice, the present study of
 service users lawfully detained in either a prison or secure hospital
 under the Mental Health Act 1983 did not recommend research into
-legislation and policy.\ :sup:`(n.d.k)` Length of stay in hospital
-emerged as one of the new research priority areas in the present study.
-Although it may appear surprising that this was not a theme, given
-priority in previous studies, it may be that addressing other themes
-widely reported, such as treatment, may ultimately have an effect on
-overall length of stay.\ :sup:`(n.d.r)`
+legislation and policy.\ :sup:`11` Length of stay in hospital emerged as
+one of the new research priority areas in the present study. Although it
+may appear surprising that this was not a theme, given priority in
+previous studies, it may be that addressing other themes widely
+reported, such as treatment, may ultimately have an effect on overall
+length of stay.\ :sup:`18`
 
 .. _sec3-2:
 
@@ -417,25 +415,25 @@ about effective weight loss interventions in the general population.
 Although such responses may reflect limitations of the phrasing of
 questions used to elicit the initial views of service users, they may
 also reveal a lack of evidence of context-specific effectiveness and
-acceptability of interventions in forensic services.\ :sup:`(n.d.o)`
-This is evident by the aforementioned current emphasis on finding
-effective ways to achieve weight loss among service users in secure
-mental health settings.
+acceptability of interventions in forensic services.\ :sup:`15` This is
+evident by the aforementioned current emphasis on finding effective ways
+to achieve weight loss among service users in secure mental health
+settings.
 
 The use of existing consultation structures is recommended for
 ascertaining the research priorities of service users within forensic
-mental health services.\ :sup:`(n.d.s)` The community meeting was,
-therefore, an appropriate forum in which to obtain the research
-opinions, because service users were already accustomed to voluntarily
-making suggestions to improve the service in this group setting. In
-contrast, a formal panel meeting may have been less accessible to some
-in-patients and prisoners.\ :sup:`(n.d.s)` Although the presence of
-staff and other service users might have influenced responses provided,
-the wide range of individual answers given, including criticism of staff
-attitudes, suggests that group bias was not significant.\ :sup:`(n.d.t)`
+mental health services.\ :sup:`19` The community meeting was, therefore,
+an appropriate forum in which to obtain the research opinions, because
+service users were already accustomed to voluntarily making suggestions
+to improve the service in this group setting. In contrast, a formal
+panel meeting may have been less accessible to some in-patients and
+prisoners.\ :sup:`19` Although the presence of staff and other service
+users might have influenced responses provided, the wide range of
+individual answers given, including criticism of staff attitudes,
+suggests that group bias was not significant.\ :sup:`20`
 
 There is little evidence to guide sampling approaches in PPI, although
-convenience sampling is most commonly used.\ :sup:`(n.d.u)` The modest
+convenience sampling is most commonly used.\ :sup:`21` The modest
 response during both phases of the study is a significant limitation,
 and may reveal lack of interest in or apathy toward research among the
 service user group. It is possible that such explanations may relate to
@@ -457,7 +455,7 @@ service users who, (because of reasons relating to health or risk) may
 not have had the opportunity to leave the ward or wing to attend a
 formal group meeting of service user volunteers, without limiting
 involvement to a select sample of existing service user
-representatives.\ :sup:`(n.d.u)`
+representatives.\ :sup:`21`
 
 Consideration was given from the outset to the evidence-based approaches
 to avoid tokenism and collaborate with user-led groups in a way that
@@ -466,13 +464,12 @@ reference research group of service users did not exist at the time of
 the study, although the generic (non-research) service user group was
 already established. Consultation with this service user group helped to
 shape the study design; ongoing consultation with the group may have
-been valuable in finding ways to increase the response,\ :sup:`(n.d.e)`
-and to reduce sample bias.\ :sup:`(n.d.t)` Although the involvement of
-professionals from in-patient and prison settings, as well as nursing
-and medical disciplines, ensured a healthy range of perspectives during
-the thematic analysis, service user involvement at this stage for
-collaborative data analysis would have further strengthened the
-study.\ :sup:`(n.d.v)`
+been valuable in finding ways to increase the response,\ :sup:`5` and to
+reduce sample bias.\ :sup:`20` Although the involvement of professionals
+from in-patient and prison settings, as well as nursing and medical
+disciplines, ensured a healthy range of perspectives during the thematic
+analysis, service user involvement at this stage for collaborative data
+analysis would have further strengthened the study.\ :sup:`22`
 
 .. _sec3-3:
 
@@ -483,8 +480,8 @@ To our knowledge, this is the first study to use PPI principles and the
 Delphi technique to establish research priorities from the exclusive
 perspective of service users within a forensic service for mental
 health, intellectual disabilities and autism. The methods showed how a
-mental health service can overcome barriers\ :sup:`(n.d.c)` and involve
-its users to identify priority areas of research. By contributing to
+mental health service can overcome barriers\ :sup:`3` and involve its
+users to identify priority areas of research. By contributing to
 research priority-setting exercises, service users demonstrated that
 they wish to express their views on the greatest research needs for
 forensic mental health services. It also revealed a willingness to be
@@ -499,25 +496,25 @@ considered before service-level approval. Additional weight is given to
 proposed research in an area falling within one of the top three themes.
 Rarely should research be undertaken within the service that does not
 link directly or indirectly to this list. Embedding the service user
-perspective to this degree avoids tokenistic
-involvement,\ :sup:`(n.d.f)` and allows service users, as experts by
-experience, to directly shape research strategy and influence future
-research. Findings have been shared with service users, senior managers
-and staff working across the forensic service. Although the scope of
-this study was limited to the service user perspective, further study is
-required to explore the extent to which the research priorities of
-clinicians working in this forensic service are aligned with those
-proposed by service users, and to understand any differences.
+perspective to this degree avoids tokenistic involvement,\ :sup:`6` and
+allows service users, as experts by experience, to directly shape
+research strategy and influence future research. Findings have been
+shared with service users, senior managers and staff working across the
+forensic service. Although the scope of this study was limited to the
+service user perspective, further study is required to explore the
+extent to which the research priorities of clinicians working in this
+forensic service are aligned with those proposed by service users, and
+to understand any differences.
 
 There is a lack of evidence to guide the best method of achieving
-engagement.\ :sup:`(n.d.u)` There is benefit in exploring the enablers
-and barriers to PPI in research that involves service users in a
-forensic service. Early conversations should commence with
-representatives from community service users and carers/friends/families
-of service users, to develop appropriate methodologies for obtaining the
-views on research priorities from these two groups. The development of a
-carer research reference group may be an effective approach to carer
-involvement with this process.\ :sup:`(n.d.h)`
+engagement.\ :sup:`21` There is benefit in exploring the enablers and
+barriers to PPI in research that involves service users in a forensic
+service. Early conversations should commence with representatives from
+community service users and carers/friends/families of service users, to
+develop appropriate methodologies for obtaining the views on research
+priorities from these two groups. The development of a carer research
+reference group may be an effective approach to carer involvement with
+this process.\ :sup:`8`
 
 Further consultation with service users is required to develop a
 strategy to support ongoing involvement, ensuring that future research
@@ -529,7 +526,7 @@ would benefit from the service. Given the expected benefits of PPI, the
 challenge is to evaluate the impact of this early service user
 involvement in setting research priorities, on subsequent phases of the
 research process and future service user involvement in, and engagement
-with, research.\ :sup:`(n.d.w),(n.d.x)`
+with, research.\ :sup:`23,24`
 
 .. _sec4:
 
@@ -586,126 +583,3 @@ None.
 
 ICMJE forms are in the supplementary material, available online at
 https://doi.org/10.1192/bjb.2020.131.
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-ref1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-ref2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-ref3
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-ref4
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-ref5
-
-      n.d.e.
-
-   .. container:: csl-entry
-      :name: ref-ref6
-
-      n.d.f.
-
-   .. container:: csl-entry
-      :name: ref-ref7
-
-      n.d.g.
-
-   .. container:: csl-entry
-      :name: ref-ref8
-
-      n.d.h.
-
-   .. container:: csl-entry
-      :name: ref-ref9
-
-      n.d.i.
-
-   .. container:: csl-entry
-      :name: ref-ref10
-
-      n.d.j.
-
-   .. container:: csl-entry
-      :name: ref-ref11
-
-      n.d.k.
-
-   .. container:: csl-entry
-      :name: ref-ref12
-
-      n.d.l.
-
-   .. container:: csl-entry
-      :name: ref-ref13
-
-      n.d.m.
-
-   .. container:: csl-entry
-      :name: ref-ref14
-
-      n.d.n.
-
-   .. container:: csl-entry
-      :name: ref-ref15
-
-      n.d.o.
-
-   .. container:: csl-entry
-      :name: ref-ref16
-
-      n.d.p.
-
-   .. container:: csl-entry
-      :name: ref-ref17
-
-      n.d.q.
-
-   .. container:: csl-entry
-      :name: ref-ref18
-
-      n.d.r.
-
-   .. container:: csl-entry
-      :name: ref-ref19
-
-      n.d.s.
-
-   .. container:: csl-entry
-      :name: ref-ref20
-
-      n.d.t.
-
-   .. container:: csl-entry
-      :name: ref-ref21
-
-      n.d.u.
-
-   .. container:: csl-entry
-      :name: ref-ref22
-
-      n.d.v.
-
-   .. container:: csl-entry
-      :name: ref-ref23
-
-      n.d.w.
-
-   .. container:: csl-entry
-      :name: ref-ref24
-
-      n.d.x.

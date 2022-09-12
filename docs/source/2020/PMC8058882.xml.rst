@@ -2,6 +2,8 @@
 Evaluation of the physical health of adolescent in-patients in generic and secure services: retrospective case-note review
 ==========================================================================================================================
 
+
+
 Rebekah Carney
 Shermin Imran
 Heather Law
@@ -47,31 +49,29 @@ Sophie Parker [1]_Correspondence to Rebekah Carney
 ..
 
 People with serious mental illness (SMI) experience poor physical
-health, resulting in an estimated loss of life of 30
-years.\ :sup:`(n.d.a)–(n.d.b)` This is because of unhealthy lifestyles,
-medication side-effects and inadequate physical
-healthcare.\ :sup:`(n.d.a),(n.d.c),(n.d.d)` It occurs early, often
+health, resulting in an estimated loss of life of 30 years.\ :sup:`1–3`
+This is because of unhealthy lifestyles, medication side-effects and
+inadequate physical healthcare.\ :sup:`1,2,4` It occurs early, often
 preceding the onset of illness, thus offering the opportunity to
-intervene to prevent comorbid conditions.\ :sup:`(n.d.e),(n.d.f)` Young
-people with mental health disorders are a vulnerable group requiring
-additional physical healthcare.\ :sup:`(n.d.a),(n.d.g)` Adolescent
-in-patients are particularly at risk, given the ‘obesogenic’
-environment.\ :sup:`(n.d.h),(n.d.i)` This refers to additional
-restrictions and barriers to living a healthy lifestyle, such as reduced
-opportunities to exercise, lack of control over dietary intake and
-increased access to highly calorific snack foods. It may also be their
-first contact with mental health services, and affords the opportunity
-to intervene on an individual level through treatment access, and on a
-wider scale. For example, ensuring the environment encourages a healthy
-lifestyle and reduces the chance of iatrogenic harm. However, the
-precise physical health needs of adolescent in-patients is still
-unclear. A previous Australian study found that physical health problems
-are common in adolescent mental health settings, yet often go undetected
-and untreated.\ :sup:`(n.d.j)` Previous evaluations suggest physical
-healthcare is inconsistent across services, including in-patient units,
-neurodevelopmental clinics and community
-services.\ :sup:`(n.d.k)–(n.d.l)` Therefore, indicators of poor physical
-health are missed. However, this issue has not been evaluated in UK
+intervene to prevent comorbid conditions.\ :sup:`5,6` Young people with
+mental health disorders are a vulnerable group requiring additional
+physical healthcare.\ :sup:`1,7` Adolescent in-patients are particularly
+at risk, given the ‘obesogenic’ environment.\ :sup:`8,9` This refers to
+additional restrictions and barriers to living a healthy lifestyle, such
+as reduced opportunities to exercise, lack of control over dietary
+intake and increased access to highly calorific snack foods. It may also
+be their first contact with mental health services, and affords the
+opportunity to intervene on an individual level through treatment
+access, and on a wider scale. For example, ensuring the environment
+encourages a healthy lifestyle and reduces the chance of iatrogenic
+harm. However, the precise physical health needs of adolescent
+in-patients is still unclear. A previous Australian study found that
+physical health problems are common in adolescent mental health
+settings, yet often go undetected and untreated.\ :sup:`10` Previous
+evaluations suggest physical healthcare is inconsistent across services,
+including in-patient units, neurodevelopmental clinics and community
+services.\ :sup:`11–13` Therefore, indicators of poor physical health
+are missed. However, this issue has not been evaluated in UK
 generic/secure adolescent in-patient services, where individuals present
 with a range of disorders on a variety of medications. Therefore, we
 aimed to evaluate the physical health needs of adolescent in-patients by
@@ -156,22 +156,22 @@ clinicians to record physical health assessments (blood tests,
 electrocardiogram (ECG), body mass index (BMI)), body composition,
 physical health observations, and lifestyle factors such as smoking
 habits, alcohol use (Alcohol Use Disorders Identification Test;
-AUDIT\ :sup:`(n.d.m)`), substance use, physical activity and diet,
-sexual health and referral to other services, e.g. sexual health
-services. BMI was recorded on the PHIT tool shortly after admission;
-some individuals also had their BMI recorded at subsequent time points,
-which enabled change in BMIs to be calculated.
+AUDIT\ :sup:`14`), substance use, physical activity and diet, sexual
+health and referral to other services, e.g. sexual health services. BMI
+was recorded on the PHIT tool shortly after admission; some individuals
+also had their BMI recorded at subsequent time points, which enabled
+change in BMIs to be calculated.
 
 The standard procedure for physical health monitoring is set according
 to the local physical health and well-being policy (Greater Manchester
 West Mental Health NHS Foundation Trust Physical Health and Wellbeing
-Policy, 2011).\ :sup:`(n.d.n)` The policy recommends a
-PHIT\ :sup:`(n.d.o)` assessment within 24 h of admission, and all
-individuals are to be offered appropriate lifestyle interventions in
-line with NICE guidelines.\ :sup:`(n.d.g)` The PHIT tool enables
-clinicians to select whether individuals were offered lifestyle
-interventions such as smoking cessation, diet and exercise advice, and
-referral to drug, alcohol and sexual health services.
+Policy, 2011).\ :sup:`15` The policy recommends a PHIT\ :sup:`16`
+assessment within 24 h of admission, and all individuals are to be
+offered appropriate lifestyle interventions in line with NICE
+guidelines.\ :sup:`7` The PHIT tool enables clinicians to select whether
+individuals were offered lifestyle interventions such as smoking
+cessation, diet and exercise advice, and referral to drug, alcohol and
+sexual health services.
 
 .. _sec1-3:
 
@@ -182,7 +182,7 @@ A manual search of patient files was conducted from 12 to 19 February
 2019 for the previous 6-month intake across generic and secure services
 (August 2018 to January 2019). Descriptive analysis was conducted with
 SPSS version 22 for Windows (IBM Corp., 2013) and Microsoft Excel 2016
-for Windows.\ :sup:`(n.d.p)`
+for Windows.\ :sup:`17`
 
 .. _sec2:
 
@@ -199,7 +199,7 @@ the generic and secure services (52%, *n* = 26 females, 76% White
 British; `Table 1 <#tab01>`__). The average age at admission was 15.84
 (range 13–21, s.d. 1.46) years. Average length of stay was 49 (range
 2–169, s.d. 44.1) days. Nine (18%) were detained under the Mental Health
-Act 2007.\ :sup:`(n.d.p)` Table 1Demographic informationIn-patient
+Act 2007.\ :sup:`17` Table 1Demographic informationIn-patient
 admissions\ *n*\ %Junction
 174590%Gardener510%GenderMale2448%Female2652%EthnicityWhite
 British3876%Any other White background36%Other ethnic group,
@@ -276,32 +276,31 @@ levels of haemoglobin a1c, random plasma glucose and cholesterol were
 within the healthy range for the general population; however, all
 individuals had elevated levels of prolactin. During times of stress,
 prolactin levels can reach 200 mmol/L in the general
-population.\ :sup:`(n.d.q)` In this sample, 50% had prolactin levels
-even higher than this, displaying evidence of hyperprolactinaemia
+population.\ :sup:`18` In this sample, 50% had prolactin levels even
+higher than this, displaying evidence of hyperprolactinaemia
 (*m* = 253.1 mmol/L, *n* = 32). A total of 87% had elevated lipid levels
 above the healthy average of 1 mmol/L (*m* = 1.45, range 0.8–3.5 mmol/L)
 and 16% had elevated triglycerides (>1.7 mmol/L), ranging up to a
 maximum value of 3.9 mmol/L and an average value of 1.13 mmol/L. This
 can be a common side effect in relation to psychotropic medication, as
-well as unhealthy diet.\ :sup:`(n.d.r)` Additionally, none of the
-individuals who had undergone an ECG required further intervention
-(*n* = 30, 66%). Table 2Physical health assessmentsAverage, mean
-(s.d.)RangeCompleted *n* (%)Not reported, *n* (%)PHITTime between
-admission and PHIT assessment (days)\ `a <#tfn2_2>`__\ 0.35 (0.6)0–250
-(100%)–Time between admission and physical exam (days)1 (1.74)0–723
-(66%)17 (34%)Physical health assessmentsCardiovascular exam––30 (60%)15
-(30%)Respiratory exam––31 (62%)14 (28%)Abdominal exam––30 (60%)14
-(28%)Nervous system exam––22 (44%)14 (28%)ECG––30 (60%)3 (6%)Blood
-resultsBlood test results––35 (70%)–Haemoglobin a1c (mmol/L)34.19
-(3.80)24–4232 (64%)–Random plasma (mmol/L)4.65 (0.75)3–6.532
-(64%)–Fasting plasma (mmol/L)––0 (0%)–Total random lipids (mmol/L)3.8
-(0.76)2.3–5.633 (66%)–Random triglycerides (mmol/L)1.13 (0.66)0.4–3.932
-(64%)–Random HDL lipids (mmol/L)1.45 (0.54)0.8–3.232 (64%)–Prolactin
-(mu/L)253.1 (171.27)80–95532 (64%)–Body compositionBMI24.74
-(6.69)15.8–44.0144 (88%)–Height (m)1.67 (0.09)1.43–1.8145 (90%)–Weight
-(kg)68.58 (17.36)42.6–13546 (92%)–Blood pressure, systolic126.9
-(13.2)92–15950 (100%)–Blood pressure, diastolic74 (9.3)46–10050
-(100%)– [3]_ [4]_
+well as unhealthy diet.\ :sup:`19` Additionally, none of the individuals
+who had undergone an ECG required further intervention (*n* = 30, 66%).
+Table 2Physical health assessmentsAverage, mean (s.d.)RangeCompleted *n*
+(%)Not reported, *n* (%)PHITTime between admission and PHIT assessment
+(days)\ `a <#tfn2_2>`__\ 0.35 (0.6)0–250 (100%)–Time between admission
+and physical exam (days)1 (1.74)0–723 (66%)17 (34%)Physical health
+assessmentsCardiovascular exam––30 (60%)15 (30%)Respiratory exam––31
+(62%)14 (28%)Abdominal exam––30 (60%)14 (28%)Nervous system exam––22
+(44%)14 (28%)ECG––30 (60%)3 (6%)Blood resultsBlood test results––35
+(70%)–Haemoglobin a1c (mmol/L)34.19 (3.80)24–4232 (64%)–Random plasma
+(mmol/L)4.65 (0.75)3–6.532 (64%)–Fasting plasma (mmol/L)––0 (0%)–Total
+random lipids (mmol/L)3.8 (0.76)2.3–5.633 (66%)–Random triglycerides
+(mmol/L)1.13 (0.66)0.4–3.932 (64%)–Random HDL lipids (mmol/L)1.45
+(0.54)0.8–3.232 (64%)–Prolactin (mu/L)253.1 (171.27)80–95532 (64%)–Body
+compositionBMI24.74 (6.69)15.8–44.0144 (88%)–Height (m)1.67
+(0.09)1.43–1.8145 (90%)–Weight (kg)68.58 (17.36)42.6–13546 (92%)–Blood
+pressure, systolic126.9 (13.2)92–15950 (100%)–Blood pressure,
+diastolic74 (9.3)46–10050 (100%)– [3]_ [4]_
 
 .. _sec2-4:
 
@@ -334,12 +333,12 @@ Smoking and alcohol use
 
 Smoking rates were higher than the general population as 28% currently
 smoked, compared with the average of 12% for young people in the
-UK.\ :sup:`(n.d.s)` The amount of cigarettes smoked daily varied
-(*m* = 11, range 2–40, *n* = 7) and two individuals reported the age
-they started smoking (9 and 11 years). Nine smokers used cigarettes
-(64%) and three used roll-ups (21%). Six (42% smokers) individuals
-received nicotine replacement therapy as part of their routine care
-(`Table 3 <#tab03>`__). Table 3Lifestyle assessmentsPhysical lifestyle
+UK.\ :sup:`20` The amount of cigarettes smoked daily varied (*m* = 11,
+range 2–40, *n* = 7) and two individuals reported the age they started
+smoking (9 and 11 years). Nine smokers used cigarettes (64%) and three
+used roll-ups (21%). Six (42% smokers) individuals received nicotine
+replacement therapy as part of their routine care (`Table
+3 <#tab03>`__). Table 3Lifestyle assessmentsPhysical lifestyle
 assessmentYes, *n* (%)No, *n* (%)Not reported, *n* (%)Reports a diet
 high in fat and salt–30 (60%)20 (40%)Lives a sedentary lifestyle8
 (16%)42 (84%)–Aware of the risks of a sedentary lifestyle44 (88%)6
@@ -358,11 +357,11 @@ recorded2 (4%)Substance useYes6 (12%)Yes previous3 (6%)No39 (78%)Not
 recorded2 (4%) [5]_
 
 As part of the initial PHIT assessment individuals were screened for
-alcohol use with the AUDIT tool.\ :sup:`(n.d.m)` Alcohol consumption was
-low, and most individuals abstained (*n* = 40, 80%). Individuals were
-also screened for substance use (*n* = 48, 96%). Six (12%) used
-substances on admission and three (6%) used substances previously,
-including cannabis, cocaine, ketamine, LSD and aerosols.
+alcohol use with the AUDIT tool.\ :sup:`14` Alcohol consumption was low,
+and most individuals abstained (*n* = 40, 80%). Individuals were also
+screened for substance use (*n* = 48, 96%). Six (12%) used substances on
+admission and three (6%) used substances previously, including cannabis,
+cocaine, ketamine, LSD and aerosols.
 
 .. _sec2-4-3:
 
@@ -419,32 +418,31 @@ The ‘obesogenic’ environment
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The ‘obesogenic’ environment of in-patient wards has frequently been
-discussed in the literature.\ :sup:`(n.d.h),(n.d.i)` This has been
-attributed to higher energy intake through increased access to
-high-calorie foods, reduced energy expenditure through inactivity and
-fewer opportunities to engage in exercise.\ :sup:`(n.d.h),(n.d.i)` Our
-evaluation adds further evidence to this as individuals had high BMI
-values, which rapidly increased with duration of stay. Weight gain in
-mental health services is often attributed to side-effects of
-antipsychotic medication; however, only a small proportion of young
-people were prescribed antipsychotics and those who were not also gained
-weight.
+discussed in the literature.\ :sup:`8,9` This has been attributed to
+higher energy intake through increased access to high-calorie foods,
+reduced energy expenditure through inactivity and fewer opportunities to
+engage in exercise.\ :sup:`8,9` Our evaluation adds further evidence to
+this as individuals had high BMI values, which rapidly increased with
+duration of stay. Weight gain in mental health services is often
+attributed to side-effects of antipsychotic medication; however, only a
+small proportion of young people were prescribed antipsychotics and
+those who were not also gained weight.
 
 Unhealthy lifestyles were often reported by the clinicians. Although
 many received advice on living a healthy lifestyle, research has
 consistently shown that advice alone is insufficient to result in
-meaningful behaviour change.\ :sup:`(n.d.t)–(n.d.u)` Clinicians should
-be aware of using proactive approaches to implementing lifestyle
-interventions and encouraging uptake of routinely offered physical
-health activities, such as occupational therapy groups (e.g. walking).
-People with SMI experience significant barriers to living healthily,
-such as low mood and anxiety, poor motivation, lack of social support,
-reduced opportunity, lack of knowledge and skills, financial barriers
-and employment difficulties.\ :sup:`(n.d.v),(n.d.w)` This group also has
-additional restrictions of being on secure and adolescent in-patient
-wards, living in a contained environment with relatively reduced access
-to facilities and outdoor opportunities. Therefore, interventions taking
-these additional barriers into account need to be explored, and these
+meaningful behaviour change.\ :sup:`21–23` Clinicians should be aware of
+using proactive approaches to implementing lifestyle interventions and
+encouraging uptake of routinely offered physical health activities, such
+as occupational therapy groups (e.g. walking). People with SMI
+experience significant barriers to living healthily, such as low mood
+and anxiety, poor motivation, lack of social support, reduced
+opportunity, lack of knowledge and skills, financial barriers and
+employment difficulties.\ :sup:`24,25` This group also has additional
+restrictions of being on secure and adolescent in-patient wards, living
+in a contained environment with relatively reduced access to facilities
+and outdoor opportunities. Therefore, interventions taking these
+additional barriers into account need to be explored, and these
 difficulties should be considered when attempting to promote health and
 well-being in this setting.
 
@@ -470,23 +468,22 @@ Other physical health issues
 Many patients were prescribed medications to alleviate physical health
 problems upon admission. There was also evidence of dysregulated blood
 metabolites and elevated levels of prolactin in over half of this
-sample, which is common in people with SMI.\ :sup:`(n.d.x)`
+sample, which is common in people with SMI.\ :sup:`26`
 Hyperprolactinaemia can have serious consequences, such as hormonal
 disturbances causing sexual dysfunction, facial hair and acne,
 disruption to usual pubertal development in young people and increased
-risk of developing cancers such as breast
-cancer.\ :sup:`(n.d.x)–(n.d.y)` This is addressed appropriately within
-the service and monitoring of bloods is conducted routinely. It is
-important for clinicians and healthcare teams to maintain routine
-monitoring of blood metabolites and endocrine markers as there are often
-no obvious symptoms to indicate individuals are at risk. Ensuring blood
-tests are conducted routinely, regardless of medication or diagnosis, is
-important. Additionally, information about sexual health screening was
-variable, and at the time of the search only 10% had discussions about
-their sexual health. This is a common issue across adolescent services.
-For example, a previous review found that only 37% of young people had
-sexual health screening upon admission to an in-patient
-unit.\ :sup:`(n.d.z)` This represents a missed opportunity for
+risk of developing cancers such as breast cancer.\ :sup:`26–28` This is
+addressed appropriately within the service and monitoring of bloods is
+conducted routinely. It is important for clinicians and healthcare teams
+to maintain routine monitoring of blood metabolites and endocrine
+markers as there are often no obvious symptoms to indicate individuals
+are at risk. Ensuring blood tests are conducted routinely, regardless of
+medication or diagnosis, is important. Additionally, information about
+sexual health screening was variable, and at the time of the search only
+10% had discussions about their sexual health. This is a common issue
+across adolescent services. For example, a previous review found that
+only 37% of young people had sexual health screening upon admission to
+an in-patient unit.\ :sup:`29` This represents a missed opportunity for
 management of sexual health in a high-risk group.
 
 .. _sec3-1-3:
@@ -496,19 +493,18 @@ Importance of monitoring
 
 We add to the growing evidence that physical health monitoring in mental
 healthcare is necessary, particularly for
-adolescents.\ :sup:`(n.d.k)–(n.d.l),(n.d.aa)–(n.d.ab)` Previous research
-also shows that metabolic abnormalities are common in adolescents
-receiving mental healthcare, but often go unnoticed and
-untreated.\ :sup:`(n.d.f),(n.d.j),(n.d.l),(n.d.t)` Individuals admitted
-to generic and secure mental health wards have a wide range of
-difficulties and non-specific mental health needs, and may or may not be
-prescribed psychotropic medication. It is therefore important to develop
-clear guidelines and policies that focus on adolescents in mental
-healthcare, regardless of their diagnosis or physical health status.
-Senior clinicians should acknowledge this when developing the standard
-operating procedures for their units and ensure that physical health is
-a fundamental part of individuals care when staying on adolescent
-in-patient units.
+adolescents.\ :sup:`11–13,30–32` Previous research also shows that
+metabolic abnormalities are common in adolescents receiving mental
+healthcare, but often go unnoticed and untreated.\ :sup:`6,10,13,21`
+Individuals admitted to generic and secure mental health wards have a
+wide range of difficulties and non-specific mental health needs, and may
+or may not be prescribed psychotropic medication. It is therefore
+important to develop clear guidelines and policies that focus on
+adolescents in mental healthcare, regardless of their diagnosis or
+physical health status. Senior clinicians should acknowledge this when
+developing the standard operating procedures for their units and ensure
+that physical health is a fundamental part of individuals care when
+staying on adolescent in-patient units.
 
 .. _sec3-2:
 
@@ -522,19 +518,19 @@ the cardiometabolic risk associated with the in-patient environment.
 Hayes *et al* reviewed non-pharmacological interventions delivered on
 in-patient wards and found psychosocial programmes, such as
 therapy-based activities, family interventions and mindfulness-based
-activities, were common.\ :sup:`(n.d.ab)` Yet, few studies have been
-conducted offering physical health interventions within this setting, or
-even those across the general population, despite the benefits of
-exercise for adolescents.\ :sup:`(n.d.ac)` Further, a recent review
-showed that despite being recommended by NICE, lifestyle interventions
-are not consistently offered across mental health trusts in the
-UK.\ :sup:`(n.d.ad)` Standardised guidance also needs to be developed to
-guide clinicians and ensure adolescents are receiving high-quality
-physical healthcare regardless of diagnosis and in-patient status. This
-includes introducing formal assessments of diet and physical activity to
-better quantify adolescents' needs. Ensuring access to interventions
-alongside continued monitoring of physical heath is imperative to
-improving outcomes for adolescents.
+activities, were common.\ :sup:`32` Yet, few studies have been conducted
+offering physical health interventions within this setting, or even
+those across the general population, despite the benefits of exercise
+for adolescents.\ :sup:`33` Further, a recent review showed that despite
+being recommended by NICE, lifestyle interventions are not consistently
+offered across mental health trusts in the UK.\ :sup:`34` Standardised
+guidance also needs to be developed to guide clinicians and ensure
+adolescents are receiving high-quality physical healthcare regardless of
+diagnosis and in-patient status. This includes introducing formal
+assessments of diet and physical activity to better quantify
+adolescents' needs. Ensuring access to interventions alongside continued
+monitoring of physical heath is imperative to improving outcomes for
+adolescents.
 
 .. _sec3-3:
 
@@ -613,159 +609,6 @@ UK. **Siri Folstad** is a Research Assistant at the Faculty of Biology,
 Medicine & Health, University of Manchester, UK. **Sophie Parker** is a
 Clinical Psychologist and Director at the Youth Mental Health Research
 Unit Greater Manchester Mental Health NHS Foundation Trust, UK.
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-ref1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-ref2
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-ref3
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-ref4
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-ref5
-
-      n.d.e.
-
-   .. container:: csl-entry
-      :name: ref-ref6
-
-      n.d.f.
-
-   .. container:: csl-entry
-      :name: ref-ref7
-
-      n.d.g.
-
-   .. container:: csl-entry
-      :name: ref-ref8
-
-      n.d.h.
-
-   .. container:: csl-entry
-      :name: ref-ref9
-
-      n.d.i.
-
-   .. container:: csl-entry
-      :name: ref-ref10
-
-      n.d.j.
-
-   .. container:: csl-entry
-      :name: ref-ref11
-
-      n.d.k.
-
-   .. container:: csl-entry
-      :name: ref-ref13
-
-      n.d.l.
-
-   .. container:: csl-entry
-      :name: ref-ref14
-
-      n.d.m.
-
-   .. container:: csl-entry
-      :name: ref-ref15
-
-      n.d.n.
-
-   .. container:: csl-entry
-      :name: ref-ref16
-
-      n.d.o.
-
-   .. container:: csl-entry
-      :name: ref-ref17
-
-      n.d.p.
-
-   .. container:: csl-entry
-      :name: ref-ref18
-
-      n.d.q.
-
-   .. container:: csl-entry
-      :name: ref-ref19
-
-      n.d.r.
-
-   .. container:: csl-entry
-      :name: ref-ref20
-
-      n.d.s.
-
-   .. container:: csl-entry
-      :name: ref-ref21
-
-      n.d.t.
-
-   .. container:: csl-entry
-      :name: ref-ref23
-
-      n.d.u.
-
-   .. container:: csl-entry
-      :name: ref-ref24
-
-      n.d.v.
-
-   .. container:: csl-entry
-      :name: ref-ref25
-
-      n.d.w.
-
-   .. container:: csl-entry
-      :name: ref-ref26
-
-      n.d.x.
-
-   .. container:: csl-entry
-      :name: ref-ref28
-
-      n.d.y.
-
-   .. container:: csl-entry
-      :name: ref-ref29
-
-      n.d.z.
-
-   .. container:: csl-entry
-      :name: ref-ref30
-
-      n.d.aa.
-
-   .. container:: csl-entry
-      :name: ref-ref32
-
-      n.d.ab.
-
-   .. container:: csl-entry
-      :name: ref-ref33
-
-      n.d.ac.
-
-   .. container:: csl-entry
-      :name: ref-ref34
-
-      n.d.ad.
 
 .. [1]
    **Declaration of interest:** None.

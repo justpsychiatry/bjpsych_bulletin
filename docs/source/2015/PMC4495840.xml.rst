@@ -2,6 +2,8 @@
 The planning, implementation and publication of a complex intervention trial for chronic fatigue syndrome: the PACE trial
 =========================================================================================================================
 
+
+
 Peter D. White
 Trudie Chalder
 Michael SharpeCorrespondence to Peter D. White (p.d.white@qmul.ac.uk)
@@ -33,16 +35,15 @@ another name for the same condition; others regard it as different.
 Whatever it is called, CFS or ME is an ‘orphan’ condition owned and
 cared for by no particular discipline. ME is classified within the
 *International Classification of Diseases* (ICD-10) as a neurological
-condition (G93.3),\ :sup:`(n.d.a)` yet the majority of UK neurologists
-do not regard it as such.\ :sup:`(n.d.b)` CFS may also be classified as
-neurasthenia (F48), a diagnosis found in the ICD-10 chapter on mental
-and behavioural disorders, or as a non-specific somatoform
-disorder.\ :sup:`(n.d.a)` However, psychiatrists rarely see the illness
-as a condition that they should treat and many do not regard it as a
-mental illness. Therefore, while there is a consensus that CFS exists as
-a discrete syndrome, there is little agreement about how it should be
-classified, who should treat patients suffering from it, or how it
-should be treated.
+condition (G93.3),\ :sup:`1` yet the majority of UK neurologists do not
+regard it as such.\ :sup:`2` CFS may also be classified as neurasthenia
+(F48), a diagnosis found in the ICD-10 chapter on mental and behavioural
+disorders, or as a non-specific somatoform disorder.\ :sup:`1` However,
+psychiatrists rarely see the illness as a condition that they should
+treat and many do not regard it as a mental illness. Therefore, while
+there is a consensus that CFS exists as a discrete syndrome, there is
+little agreement about how it should be classified, who should treat
+patients suffering from it, or how it should be treated.
 
 .. _S1:
 
@@ -57,7 +58,7 @@ time, two trials of cognitive–behavioural therapy (CBT) and two trials
 of graded exercise therapy (GET) had been published; these suggested
 that both were promising treatments, but neither treatment had been
 accepted by patient organisations. Therapeutic nihilism abounded and
-rest was often advocated as the only useful treatment.\ :sup:`(n.d.c)`
+rest was often advocated as the only useful treatment.\ :sup:`3`
 
 This original grant application was unsuccessful and it took a further 5
 years before we obtained funding for a trial. In those 5 years, the
@@ -88,7 +89,7 @@ occupational therapy approach to CFS that incorporated pacing. We called
 it ‘adaptive pacing therapy’ (APT) so as to convey the main aim of the
 therapy – to enable the patient to optimally adapt to the illness.
 
-The PACE trial was finally funded in 2003.\ :sup:`(n.d.d)`
+The PACE trial was finally funded in 2003.\ :sup:`4`
 
 .. _S2:
 
@@ -130,8 +131,8 @@ Mary Burgess, an authority on CBT for CFS; Jessica Bavinton and Lucy
 Clark for GET, a clinical specialist physiotherapist and a research
 sports physiologist, respectively; and Diane Cox for APT. All therapy
 sessions were audio-recorded to aid supervision and to allow ratings of
-therapy quality and fidelity.\ :sup:`(n.d.e)` The treatment manuals we
-used in the trial are available for free download at
+therapy quality and fidelity.\ :sup:`5` The treatment manuals we used in
+the trial are available for free download at
 `www.pacetrial.org/trialinfo <www.pacetrial.org/trialinfo>`__.
 
 .. _S4:
@@ -140,14 +141,14 @@ Eligibility criteria and outcomes
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 We decided that only patients who met the Oxford definition of CFS would
-be eligible to participate in the trial.\ :sup:`(n.d.f)` This definition
-was widely used, broad and, unlike others, required fatigue to be the
+be eligible to participate in the trial.\ :sup:`6` This definition was
+widely used, broad and, unlike others, required fatigue to be the
 patients’ main complaint. This helped to differentiate CFS from other
 syndromes, such as fibromyalgia, in which fatigue is a common symptom.
 We were also interested in knowing whether the trial findings applied to
 the subgroups of patients who met alternative definitions of CFS and ME,
 so we stratified treatment allocation by the international criteria for
-CFS and also by the London criteria for ME.\ :sup:`(n.d.g),(n.d.h)`
+CFS and also by the London criteria for ME.\ :sup:`7,8`
 
 The primary outcome was hard to decide on: should it be fatigue or
 disability? After much debate, we chose both as co-primary outcomes
@@ -157,10 +158,10 @@ potentially different in their response to the different treatments.
 In order to measure treatment safety, we chose to follow the stringent
 European Union Clinical Trials Directive for pharmaceutical
 interventions, a standard rarely applied to trials of
-therapies.\ :sup:`(n.d.i)` The measures of safety included adverse
-events, serious adverse events and reactions, withdrawal from
-treatments, a global self-measure of worsening, and an *a priori*
-threshold for deterioration in physical disability.
+therapies.\ :sup:`9` The measures of safety included adverse events,
+serious adverse events and reactions, withdrawal from treatments, a
+global self-measure of worsening, and an *a priori* threshold for
+deterioration in physical disability.
 
 We also measured a number of secondary outcomes as well as potential
 mediators and moderators. Outcomes were assessed at baseline,
@@ -196,19 +197,19 @@ patients being treated by the different therapists.
 The main results
 ================
 
-Overall, we recruited 640 patients.\ :sup:`(n.d.j)` Almost all
-participants (98%) provided some outcome data, and 95% provided outcome
-data at 12 months, with no significant differences between arms in
-missing data. These very high rates of follow-up were achieved as a
-result of the commitment of the participants and the assiduous work by
-the research staff. The strategies used by the latter included offering
-convenient interview times (including early evenings), mailing most
-questionnaires to allow sufficient time to answer them before
-interviews, paying travel expenses, following up non-attenders
-expeditiously by mail and telephone, offering to see the participants at
-their homes and, as a last resort, recording the primary outcomes over
-the telephone. However, if we were doing the trial again, we would seek
-ethical permission to also offer follow-up by email, Skype and FaceTime.
+Overall, we recruited 640 patients.\ :sup:`10` Almost all participants
+(98%) provided some outcome data, and 95% provided outcome data at 12
+months, with no significant differences between arms in missing data.
+These very high rates of follow-up were achieved as a result of the
+commitment of the participants and the assiduous work by the research
+staff. The strategies used by the latter included offering convenient
+interview times (including early evenings), mailing most questionnaires
+to allow sufficient time to answer them before interviews, paying travel
+expenses, following up non-attenders expeditiously by mail and
+telephone, offering to see the participants at their homes and, as a
+last resort, recording the primary outcomes over the telephone. However,
+if we were doing the trial again, we would seek ethical permission to
+also offer follow-up by email, Skype and FaceTime.
 
 Only 8% of participants dropped out of treatment, again with no
 significant difference in dropouts between treatment arms. Between 82
@@ -229,9 +230,9 @@ There was also a similar pattern of results in the two subgroups that
 met the alternative criteria for CFS and ME.
 
 The cost of one quality-adjusted life-year (QUALY) gained was found to
-be £18 374 for CBT and £23 615 for GET.\ :sup:`(n.d.k)` Both CBT and GET
-were three times more likely to lead to recovery from the present
-episode of illness than SMC alone.\ :sup:`(n.d.l)`
+be £18 374 for CBT and £23 615 for GET.\ :sup:`11` Both CBT and GET were
+three times more likely to lead to recovery from the present episode of
+illness than SMC alone.\ :sup:`12`
 
 We concluded that both CBT and GET were moderately effective,
 cost-effective and safe treatments for CFS. These results were important
@@ -250,23 +251,22 @@ Health and Care Excellence (NICE) guidelines’ recommendation that
 ‘cognitive behavioural therapy and/or graded exercise therapy should be
 offered to people with mild or moderate CFS/ME [...] because currently
 these are the interventions for which there is the clearest research
-evidence of benefit.’\ :sup:`(n.d.m)` The trial results also suggested
-that management by pacing, which was notably less effective than the
-other therapies, should not be recommended.
+evidence of benefit.’\ :sup:`13` The trial results also suggested that
+management by pacing, which was notably less effective than the other
+therapies, should not be recommended.
 
 Now the trial has been completed and the main findings published, there
 is the challenging business of implementation within the National Health
 Service (NHS) at a time of reducing budgets. Despite the NICE guidelines
 suggesting that patients with long-standing CFS should be seen by
-specialists,\ :sup:`(n.d.m)` many are now being sent to either Improving
+specialists,\ :sup:`13` many are now being sent to either Improving
 Access to Psychological Therapies (IAPT) services or mental health
 teams; these services are often neither confident nor competent in
 delivering CFS-specific CBT and GET. The evidence suggests that outcomes
-are better with specialist CFS services.\ :sup:`(n.d.n),(n.d.o)`
-Alternative ways of delivering therapies, such as through the internet
-and by telephone, which are easier to access and potentially more
-cost-effective, may provide ways to help patients in the
-future.\ :sup:`(n.d.p),(n.d.q)`
+are better with specialist CFS services.\ :sup:`14,15` Alternative ways
+of delivering therapies, such as through the internet and by telephone,
+which are easier to access and potentially more cost-effective, may
+provide ways to help patients in the future.\ :sup:`16,17`
 
 .. _S8:
 
@@ -281,32 +281,31 @@ Occasionally, it was necessary to train an existing therapist in a
 second therapy, which proved popular with those who did it. The morale
 of therapists giving a specific therapy was maintained by encouraging
 them to take ownership of their manualised therapy, by close
-supervision, and by peer support between centres.\ :sup:`(n.d.e)`
+supervision, and by peer support between centres.\ :sup:`5`
 
 PACE was affected by several external influences. First, some patient
 organisations expressed opposition to the trial from the time that
-funding was announced.\ :sup:`(n.d.r)` Our understanding is that this
+funding was announced.\ :sup:`18` Our understanding is that this
 opposition reflected the fact that the trial did not focus on a
 biomedical approach to CFS. Meetings with those who objected did not
 alter their concerns and divergent views about the illness and its
-management continue to this day.\ :sup:`(n.d.s)` Strategies against the
-trial have included a public petition to the prime minister and formal
-complaints to our funders and publishers.\ :sup:`(n.d.t)` None of these
+management continue to this day.\ :sup:`19` Strategies against the trial
+have included a public petition to the prime minister and formal
+complaints to our funders and publishers.\ :sup:`20` None of these
 complaints have been upheld, but they did take considerable time to
 address. A large number of Freedom of Information Act requests seeking
 information on all aspects of the trial have been received since the
 main results were published in 2011. Both declined requests that were
 appealed all the way up to the Information Tribunal were rejected, one
-being considered ‘vexatious’.\ :sup:`(n.d.u)` There was even a debate on
-the trial in the House of Lords in 2013.\ :sup:`(n.d.v)` Our deliberate
-policy, to help allay concerns about the trial, was to be as transparent
-as possible regarding what we did, while protecting medical
-confidentiality and our staff; this included publishing the protocol and
-the statistical analysis plan,\ :sup:`(n.d.d),(n.d.w)` and paying for
-open access to all publications. On a more positive note, some patient
-organisations, such as the Association for Young people with ME (AYME),
-have accepted the findings, and are advising their members
-accordingly.\ :sup:`(n.d.x)`
+being considered ‘vexatious’.\ :sup:`21` There was even a debate on the
+trial in the House of Lords in 2013.\ :sup:`22` Our deliberate policy,
+to help allay concerns about the trial, was to be as transparent as
+possible regarding what we did, while protecting medical confidentiality
+and our staff; this included publishing the protocol and the statistical
+analysis plan,\ :sup:`4,23` and paying for open access to all
+publications. On a more positive note, some patient organisations, such
+as the Association for Young people with ME (AYME), have accepted the
+findings, and are advising their members accordingly.\ :sup:`24`
 
 Second was the challenge of delivering a complex trial in the NHS. One
 particular threat was the ‘Agenda for Change’ which had implications for
@@ -362,129 +361,6 @@ Astrid Fletcher (final Chair) and Charlotte Feinmann. The funders of the
 PACE trial were: the Medical Research Council, the Department of Health
 (England), the Department for Work and Pensions, and the Chief Scientist
 Office (NHS Scotland).
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-R1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-R2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-R3
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-R4
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-R5
-
-      n.d.e.
-
-   .. container:: csl-entry
-      :name: ref-R6
-
-      n.d.f.
-
-   .. container:: csl-entry
-      :name: ref-R7
-
-      n.d.g.
-
-   .. container:: csl-entry
-      :name: ref-R8
-
-      n.d.h.
-
-   .. container:: csl-entry
-      :name: ref-R9
-
-      n.d.i.
-
-   .. container:: csl-entry
-      :name: ref-R10
-
-      n.d.j.
-
-   .. container:: csl-entry
-      :name: ref-R11
-
-      n.d.k.
-
-   .. container:: csl-entry
-      :name: ref-R12
-
-      n.d.l.
-
-   .. container:: csl-entry
-      :name: ref-R13
-
-      n.d.m.
-
-   .. container:: csl-entry
-      :name: ref-R14
-
-      n.d.n.
-
-   .. container:: csl-entry
-      :name: ref-R15
-
-      n.d.o.
-
-   .. container:: csl-entry
-      :name: ref-R16
-
-      n.d.p.
-
-   .. container:: csl-entry
-      :name: ref-R17
-
-      n.d.q.
-
-   .. container:: csl-entry
-      :name: ref-R18
-
-      n.d.r.
-
-   .. container:: csl-entry
-      :name: ref-R19
-
-      n.d.s.
-
-   .. container:: csl-entry
-      :name: ref-R20
-
-      n.d.t.
-
-   .. container:: csl-entry
-      :name: ref-R21
-
-      n.d.u.
-
-   .. container:: csl-entry
-      :name: ref-R22
-
-      n.d.v.
-
-   .. container:: csl-entry
-      :name: ref-R23
-
-      n.d.w.
-
-   .. container:: csl-entry
-      :name: ref-R24
-
-      n.d.x.
 
 .. [1]
    **Peter D. White** is Professor of Psychological Medicine at the

@@ -2,6 +2,8 @@
 Feasibility and utility of enhanced sleep management on in-patient psychiatry wards
 ===================================================================================
 
+
+
 Chloe Novak
 Emma Packer
 Alastair Paterson
@@ -50,24 +52,23 @@ Kirstie N. AndersonCorrespondence to Kirstie N. Anderson
 
 Normal duration and timing of sleep is vital for mental and physical
 health and yet the majority of patients on a psychiatric ward experience
-sleep disturbance.\ :sup:`(n.d.a)` Sleep disturbance is an independent
-risk factor for suicide.\ :sup:`(n.d.b),(n.d.c)` Poor sleep is often
-attributed to the psychiatric disorder requiring in-patient treatment,
-but is also attributable to the ward environment. Noise, light and
-regular, typically hourly, overnight observations disturb patients
-independent of the psychiatric diagnosis.\ :sup:`(n.d.d)` Primary sleep
-disorders, including obstructive sleep apnoea and restless legs
-syndrome, are increased in psychiatry patients and also disturb
-sleep.\ :sup:`(n.d.e)` For a subgroup of patients, insomnia-specific
-cognitive–behavioural therapy can be effective within an acute
-psychiatry ward.\ :sup:`(n.d.f)`
+sleep disturbance.\ :sup:`1` Sleep disturbance is an independent risk
+factor for suicide.\ :sup:`2,3` Poor sleep is often attributed to the
+psychiatric disorder requiring in-patient treatment, but is also
+attributable to the ward environment. Noise, light and regular,
+typically hourly, overnight observations disturb patients independent of
+the psychiatric diagnosis.\ :sup:`4` Primary sleep disorders, including
+obstructive sleep apnoea and restless legs syndrome, are increased in
+psychiatry patients and also disturb sleep.\ :sup:`5` For a subgroup of
+patients, insomnia-specific cognitive–behavioural therapy can be
+effective within an acute psychiatry ward.\ :sup:`6`
 
 Nursing observations are designed to enhance care and reduce risk, but
 may paradoxically increase sleep disturbance. To date, little research
 has focused on the effect of and need for regular overnight observations
 within psychiatry. Understandable concern about patient safety is one
 reason for frequent physical checks, despite no direct evidence that
-fixed timing checks reduces risk.\ :sup:`(n.d.g),(n.d.h)`
+fixed timing checks reduces risk.\ :sup:`7,8`
 
 After review of current observation policy across a large mental health
 trust, a pilot scheme to enhance sleep was introduced (the SleepWell
@@ -132,26 +133,26 @@ reduction in large meals before bed was encouraged. An agreed addition
 to the assessment tool was developed to highlight those safe for
 protected sleep time after at least 72 h on the ward. This was set at
 00.00–06.00 h. There was in addition screening for obstructive sleep
-apnoea, using the validated STOPbang screening
-questionnaire.\ :sup:`(n.d.i)` A score of >3 indicates an >50% chance of
-having obstructive sleep apnoea. Screening for restless legs syndrome
-was undertaken with a single validated screening question with
-additional prompt to differentiate from drug-induced
-akathisia.\ :sup:`(n.d.j)` The SleepWell pathway is shown in `Fig.
-1 <#fig01>`__. This included asking all patients ‘Is sleep a problem for
-you?’. On every pilot ward, information about the SleepWell project was
-displayed and all patients and carers were informed about the change in
-policy on admission (shown in Supplementary Appendix 1 available at
+apnoea, using the validated STOPbang screening questionnaire.\ :sup:`9`
+A score of >3 indicates an >50% chance of having obstructive sleep
+apnoea. Screening for restless legs syndrome was undertaken with a
+single validated screening question with additional prompt to
+differentiate from drug-induced akathisia.\ :sup:`10` The SleepWell
+pathway is shown in `Fig. 1 <#fig01>`__. This included asking all
+patients ‘Is sleep a problem for you?’. On every pilot ward, information
+about the SleepWell project was displayed and all patients and carers
+were informed about the change in policy on admission (shown in
+Supplementary Appendix 1 available at
 https://doi.org/10.1192/bjb.2020.30). For those with persistent insomnia
 on two of the acute wards (with adequate and trained psychology
 provision), CBTi was offered on a weekly basis as a small group therapy
 and, following existing published protocols developed from the Oxford
 Ward Sleep Solution study, this is modified to allow for the in-patient
 setting and encompasses education about sleep, sleep hygiene, sleep
-scheduling and relaxation, but does not use sleep
-restriction.\ :sup:`(n.d.f)` Fig. 1SleepWell algorithm used on all
-wards. CBTi, cognitive–behavioural therapy; MDT, multidisciplinary team;
-SSRI, selective serotonin reuptake inhibitors.
+scheduling and relaxation, but does not use sleep restriction.\ :sup:`6`
+Fig. 1SleepWell algorithm used on all wards. CBTi, cognitive–behavioural
+therapy; MDT, multidisciplinary team; SSRI, selective serotonin reuptake
+inhibitors.
 
 .. _sec1-3:
 
@@ -365,73 +366,71 @@ deaths related to the change in policy, ward demands for hypnotics were
 reduced and both staff and patient feedback was positive.
 
 For psychiatry patients, sleep disturbance is an independent risk factor
-for suicide,\ :sup:`(n.d.b),(n.d.c)` and has been shown to independently
-predict lower quality of life, higher symptom severity and less benefit
-from treatment, with Kallestad et al suggesting that sleep should be
-seen as a ‘stand-alone therapeutic entity, rather than an epi-phenomenon
-of existing diagnoses’.\ :sup:`(n.d.k)` However, there have been few
-systematic studies of the factors that adversely affect sleep on
-in-patient units. A large, questionnaire-based survey showed 66% of
-in-patients had poor sleep quality independent of gender or
-diagnosis.\ :sup:`(n.d.a)` Previous work from our acute in-patient,
-psychiatry wards demonstrated high levels of objective sleep disturbance
-and suggested that a number of environmental factors within the ward,
-including noise levels at night and hourly observations, were disruptive
-and therefore paradoxically may be worsening mental health and delaying
-recovery.\ :sup:`(n.d.d)` Measures to stabilise sleep by using a
-high-intensity, modified version of CBTi has been shown to be possible
-and highly effective in acute psychiatry in-patients,\ :sup:`(n.d.f)`
-although it was carried out maintaining overnight hourly observations.
+for suicide,\ :sup:`2,3` and has been shown to independently predict
+lower quality of life, higher symptom severity and less benefit from
+treatment, with Kallestad et al suggesting that sleep should be seen as
+a ‘stand-alone therapeutic entity, rather than an epi-phenomenon of
+existing diagnoses’.\ :sup:`11` However, there have been few systematic
+studies of the factors that adversely affect sleep on in-patient units.
+A large, questionnaire-based survey showed 66% of in-patients had poor
+sleep quality independent of gender or diagnosis.\ :sup:`1` Previous
+work from our acute in-patient, psychiatry wards demonstrated high
+levels of objective sleep disturbance and suggested that a number of
+environmental factors within the ward, including noise levels at night
+and hourly observations, were disruptive and therefore paradoxically may
+be worsening mental health and delaying recovery.\ :sup:`4` Measures to
+stabilise sleep by using a high-intensity, modified version of CBTi has
+been shown to be possible and highly effective in acute psychiatry
+in-patients,\ :sup:`6` although it was carried out maintaining overnight
+hourly observations.
 
 The need to protect sleep as part of treatment has to be set against the
 importance of a safe level of observations for those at high risk of
 harm from mental or physical health problems. The National Institute for
 Health and Care Excellence guidelines define various levels of
 observation determined by a risk assessment, especially for severe
-self-harm, suicide, violence and absconding.\ :sup:`(n.d.l)` Within
-physical health units, this initial assessment is rapidly followed by a
+self-harm, suicide, violence and absconding.\ :sup:`12` Within physical
+health units, this initial assessment is rapidly followed by a
 personalised care plan, allowing for a step down to a protected sleep
 period where possible. This is shown to balance prevention of acute
 physical health deterioration with a minimum of intrusive night-time
 observations. The National Institute for Health and Care Excellence
 defined the purpose of observation as to ‘provide a period of safety…
 with observation levels set at the least restrictive level, for the
-least amount of time’.\ :sup:`(n.d.l)`
+least amount of time’.\ :sup:`12`
 
 With specific regard to suicide risk, sleep deprivation owing to
 frequent checks may still be justified if it can be shown to reduce the
 frequency of suicide or severe self-harm. However, 91% of those who
-commit suicide do so while under intermittent
-observation,\ :sup:`(n.d.m)` and the most recent review from the
-National Confidential Enquiry into Suicide\ :sup:`(n.d.h)` emphasised
-the avoidance of routine, non-personalised checklists. A recent review
-of the timing of suicide data highlighted a far lower risk of suicide
-occurring overnight during the night periods of 23.00–07.00
-h\ :sup:`(n.d.g)` and challenged the perceived benefit of frequent
-observations. Despite these recommendations, frequent and typically
-hourly checks throughout the night remain widespread across acute mental
-health trusts throughout the UK.
+commit suicide do so while under intermittent observation,\ :sup:`13`
+and the most recent review from the National Confidential Enquiry into
+Suicide\ :sup:`8` emphasised the avoidance of routine, non-personalised
+checklists. A recent review of the timing of suicide data highlighted a
+far lower risk of suicide occurring overnight during the night periods
+of 23.00–07.00 h\ :sup:`7` and challenged the perceived benefit of
+frequent observations. Despite these recommendations, frequent and
+typically hourly checks throughout the night remain widespread across
+acute mental health trusts throughout the UK.
 
 Psychiatric nursing observations remain fundamental to the emotional and
 physical support of the patient, and current guidelines advise
 ‘minimising the extent to which patients feel they are under
 surveillance, while encouraging communication, listening, and conveying
-to the patient that they are valued and cared
-for’.\ :sup:`(n.d.m),(n.d.n)` This guidance is somewhat in contrast to
-typical night-time observations, which require the staff member to
-clearly see the patient is breathing. This can involve opening the
-window hatch in the door or entering the bedroom and shining a torch on
-the patient's face, switching on a light or physically waking the
-patient.\ :sup:`(n.d.o)` Patient and staff feedback highlighted
-complaints about the intrusive nature of checks and dislike of the
-observation policy. During the pilot, support for nursing staff was
-vital so that staff felt protected and supported to change a policy that
-might expose them to criticism. In practice, only 50% of patients were
-deemed safe to be placed on protected sleep, with others requiring more
-regular observation and input for physical or mental health needs. This
-still allowed a greater level of necessary engagement for night staff
-for patients requiring more support or observation for their safety.
-However, the detailed work required to reassure staff before
+to the patient that they are valued and cared for’.\ :sup:`13,14` This
+guidance is somewhat in contrast to typical night-time observations,
+which require the staff member to clearly see the patient is breathing.
+This can involve opening the window hatch in the door or entering the
+bedroom and shining a torch on the patient's face, switching on a light
+or physically waking the patient.\ :sup:`15` Patient and staff feedback
+highlighted complaints about the intrusive nature of checks and dislike
+of the observation policy. During the pilot, support for nursing staff
+was vital so that staff felt protected and supported to change a policy
+that might expose them to criticism. In practice, only 50% of patients
+were deemed safe to be placed on protected sleep, with others requiring
+more regular observation and input for physical or mental health needs.
+This still allowed a greater level of necessary engagement for night
+staff for patients requiring more support or observation for their
+safety. However, the detailed work required to reassure staff before
 implementing the policy took an average of 3 months alongside the
 monthly meetings during the project. It is of note that all wards
 elected to continue the protected sleep period after the initial service
@@ -452,36 +451,36 @@ night-time agitation.
 High rates of obstructive sleep apnoea are found in those with severe
 mental illness, with a prevalence of 25% reported across all psychiatric
 disorders and the highest frequencies seen in major depressive
-disorder.\ :sup:`(n.d.e),(n.d.p)` Risk factors for obstructive sleep
-apnoea include male gender, age >55 years, reports of sleepiness and
-obesity and the STOPbang questionnaire has recently been validated as an
-effective screening tool in the psychiatric population.\ :sup:`(n.d.q)`
-An in-patient admission is an opportunity to assess physical health,
-with increasing recognition of the poor cardiometabolic health of many
-patients with psychiatric disease.\ :sup:`(n.d.r)` Obstructive sleep
-apnoea screening should ideally be part of this screening or at least
-considered as a modifiable cause of poor sleep. Use of the STOPbang
-questionnaire in our pilot remained challenging, with small numbers of
-STOPbang scores recorded in records. This may reflect acutely unwell
-patients or the number of other assessments also required for this
-group; however, those who were screened were often at risk, which
-allowed further investigation and lifestyle advice.
+disorder.\ :sup:`5,16` Risk factors for obstructive sleep apnoea include
+male gender, age >55 years, reports of sleepiness and obesity and the
+STOPbang questionnaire has recently been validated as an effective
+screening tool in the psychiatric population.\ :sup:`17` An in-patient
+admission is an opportunity to assess physical health, with increasing
+recognition of the poor cardiometabolic health of many patients with
+psychiatric disease.\ :sup:`18` Obstructive sleep apnoea screening
+should ideally be part of this screening or at least considered as a
+modifiable cause of poor sleep. Use of the STOPbang questionnaire in our
+pilot remained challenging, with small numbers of STOPbang scores
+recorded in records. This may reflect acutely unwell patients or the
+number of other assessments also required for this group; however, those
+who were screened were often at risk, which allowed further
+investigation and lifestyle advice.
 
 Hypnotics carry a risk of diversion and respiratory depression in
 overdose. Those issued hypnotics while on a psychiatry ward in the UK
 will typically remain on them at discharge, with a substantial
-percentage still using them at 12 months.\ :sup:`(n.d.s)` A recent
-review of the side-effects and benefits of a range of hypnotics
-highlights the limited evidence base of antihistamines in particular,
-and the potential for dependency. There is also a falls risk in the
-elderly.\ :sup:`(n.d.t)` The total number of hypnotics issued to the
-wards decreased by 25% during the 3-month pilot period. This may reflect
-some hypnotic prescribing being partly attributable to a noisy
-environment and the observations themselves. However, the analysis did
-not include patient-level data, so future work would be needed to look
-at individual prescriptions over longer periods of time. The change in
-prescribing may also reflect increased knowledge of non-pharmacological
-strategies to manage poor sleep and the improved ward environment.
+percentage still using them at 12 months.\ :sup:`19` A recent review of
+the side-effects and benefits of a range of hypnotics highlights the
+limited evidence base of antihistamines in particular, and the potential
+for dependency. There is also a falls risk in the elderly.\ :sup:`20`
+The total number of hypnotics issued to the wards decreased by 25%
+during the 3-month pilot period. This may reflect some hypnotic
+prescribing being partly attributable to a noisy environment and the
+observations themselves. However, the analysis did not include
+patient-level data, so future work would be needed to look at individual
+prescriptions over longer periods of time. The change in prescribing may
+also reflect increased knowledge of non-pharmacological strategies to
+manage poor sleep and the improved ward environment.
 
 There are several limitations to this small study. Standardised sleep
 assessments were not undertaken, partly because of the variable ward
@@ -512,7 +511,7 @@ underway, but any personalised care plan for a patient should include an
 evaluation of the patient's sleep. Improving and stabilising sleep
 disturbance should be part of routine in-patient psychiatric care, with
 a personalised assessment of the risk versus the benefit of waking the
-patient at night.\ :sup:`(n.d.u)`
+patient at night.\ :sup:`21`
 
 **Chloe Novak** is a psychology undergraduate in the Department of
 Psychology at Newcastle University, UK. **Emma Packer** is an
@@ -577,111 +576,3 @@ None.
 
 ICMJE forms are in the supplementary material, available online at
 https://doi.org/10.1192/bjb.2020.30.
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-ref1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-ref2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-ref3
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-ref4
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-ref5
-
-      n.d.e.
-
-   .. container:: csl-entry
-      :name: ref-ref6
-
-      n.d.f.
-
-   .. container:: csl-entry
-      :name: ref-ref7
-
-      n.d.g.
-
-   .. container:: csl-entry
-      :name: ref-ref8
-
-      n.d.h.
-
-   .. container:: csl-entry
-      :name: ref-ref9
-
-      n.d.i.
-
-   .. container:: csl-entry
-      :name: ref-ref10
-
-      n.d.j.
-
-   .. container:: csl-entry
-      :name: ref-ref11
-
-      n.d.k.
-
-   .. container:: csl-entry
-      :name: ref-ref12
-
-      n.d.l.
-
-   .. container:: csl-entry
-      :name: ref-ref13
-
-      n.d.m.
-
-   .. container:: csl-entry
-      :name: ref-ref14
-
-      n.d.n.
-
-   .. container:: csl-entry
-      :name: ref-ref15
-
-      n.d.o.
-
-   .. container:: csl-entry
-      :name: ref-ref16
-
-      n.d.p.
-
-   .. container:: csl-entry
-      :name: ref-ref17
-
-      n.d.q.
-
-   .. container:: csl-entry
-      :name: ref-ref18
-
-      n.d.r.
-
-   .. container:: csl-entry
-      :name: ref-ref19
-
-      n.d.s.
-
-   .. container:: csl-entry
-      :name: ref-ref20
-
-      n.d.t.
-
-   .. container:: csl-entry
-      :name: ref-ref21
-
-      n.d.u.

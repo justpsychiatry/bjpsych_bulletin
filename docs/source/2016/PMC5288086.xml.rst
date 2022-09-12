@@ -2,6 +2,8 @@
 Capacity *in vacuo*: an audit of decision-making capacity assessments in a liaison psychiatry service
 =====================================================================================================
 
+
+
 Benjamin W. J. Spencer
 Gareth Wilson
 Ewa Okon-Rocha
@@ -43,22 +45,22 @@ decision-making capacity (DMC). This role is prominent in liaison
 psychiatry services, as psychiatrists may be asked to provide a second
 opinion on DMC for other medical specialties (e.g. regarding consent for
 a surgical procedure). In the UK, psychiatric second opinion tends to be
-requested following refusal of treatment by a patient, :sup:`(n.d.a)`
-but also when the assessment is likely to be highly complex or is driven
-by an underlying psychiatric disorder. :sup:`(n.d.a), (n.d.b)` DMC is
-also routinely assessed in the UK in psychiatric patients in emergency
-settings such as accident and emergency (A&E) departments. At the time
-of the audit guidance by the Care Quality Commission :sup:`(n.d.c)`
-recommended that assessments regarding DMC to consent to treatment and
-admission should be made on all patients at the point of admission to a
-psychiatric hospital to clarify whether it was an admission authorised
-through the consent of a patient with DMC or under the ‘best interests’
-procedures in a patient who is assenting but lacking DMC.
+requested following refusal of treatment by a patient, :sup:`1` but also
+when the assessment is likely to be highly complex or is driven by an
+underlying psychiatric disorder. :sup:`1, 2` DMC is also routinely
+assessed in the UK in psychiatric patients in emergency settings such as
+accident and emergency (A&E) departments. At the time of the audit
+guidance by the Care Quality Commission :sup:`3` recommended that
+assessments regarding DMC to consent to treatment and admission should
+be made on all patients at the point of admission to a psychiatric
+hospital to clarify whether it was an admission authorised through the
+consent of a patient with DMC or under the ‘best interests’ procedures
+in a patient who is assenting but lacking DMC.
 
 In England and Wales the legal criteria through which DMC is assessed
 are provided by the Mental Capacity Act 2005, with further guidance in
-its Code of Practice. :sup:`(n.d.d)` Under the Act, for a person to lack
-DMC evidence is required that they suffer from ‘an impairment of, or a
+its Code of Practice. :sup:`4` Under the Act, for a person to lack DMC
+evidence is required that they suffer from ‘an impairment of, or a
 disturbance in the functioning of, the mind or brain’ (Section 2(1)),
 and that as a consequence of this they are unable to perform at least
 one of the following tasks: ‘(a) to understand the information relevant
@@ -80,26 +82,25 @@ Recently the House of Lords Select Committee on the Mental Capacity Act
 suggests that capacity is not always assumed when it should be. Capacity
 assessments are not often carried out; when they are, the quality is
 often poor. […] The presumption of capacity, in particular, is widely
-misunderstood by those involved in care’. :sup:`(n.d.e)`
+misunderstood by those involved in care’. :sup:`5`
 
 We know that patients lacking DMC to consent to treatment are common in
-both general medical in-patient (around 40%) :sup:`(n.d.f)` and
-psychiatric in-patient settings (around 60%). :sup:`(n.d.g)` An
-assessment and decision regarding DMC has significant repercussions for
-the patient, either respecting autonomy or paving the way to surrogate
-decision-making under ‘best interests’. It is therefore important to
-document clear justification for a decision reached, under the statutory
-criteria of the Mental Capacity Act 2005. Previous work in the USA has
-shown poor documentation of DMC in a retrospective study of in-patient
-lumbar punctures authorised by a surrogate decision-maker (3 patients
-had DMC documented out of 25 procedures authorised by a surrogate,
-although in 21 cases there was enough information to ‘infer’ lack of
-DMC). :sup:`(n.d.h)`
+both general medical in-patient (around 40%) :sup:`6` and psychiatric
+in-patient settings (around 60%). :sup:`7` An assessment and decision
+regarding DMC has significant repercussions for the patient, either
+respecting autonomy or paving the way to surrogate decision-making under
+‘best interests’. It is therefore important to document clear
+justification for a decision reached, under the statutory criteria of
+the Mental Capacity Act 2005. Previous work in the USA has shown poor
+documentation of DMC in a retrospective study of in-patient lumbar
+punctures authorised by a surrogate decision-maker (3 patients had DMC
+documented out of 25 procedures authorised by a surrogate, although in
+21 cases there was enough information to ‘infer’ lack of DMC). :sup:`8`
 
 Our aim was to audit the documentation of DMC assessments provided by
 our liaison psychiatry service against the Mental Capacity Act 2005 and
 its Code of Practice, and the guidance issued by contemporary
-literature. :sup:`(n.d.i)` Subsequently, we employed an educational
+literature. :sup:`9` Subsequently, we employed an educational
 intervention in our service to see whether this improved documentation
 of the assessments. We collected detailed information on the factors
 influencing the assessment of DMC to see whether this had an impact on
@@ -503,22 +504,21 @@ refusal and lack of assent is striking. To our knowledge this is the
 first piece of work that has clearly demonstrated this association in
 real clinical practice. It would seem to suggest that clinicians when
 assessing DMC in practice use an outcome test of DMC rather than the
-functional test the law requires. Kim *et al* :sup:`(n.d.j)` have shown
-that assessments of DMC by clinicians using video simulations of consent
+functional test the law requires. Kim *et al* :sup:`10` have shown that
+assessments of DMC by clinicians using video simulations of consent
 discussions around involvement in research are risk sensitive. This
 echoes early work on conceptualising DMC as necessarily risk sensitive.
-:sup:`(n.d.b)` Owen *et al* :sup:`(n.d.k)` reported an association
-between treatment refusal and DMC assessed using the MacArthur
-Competency Assessment Tool for Treatment. Although the association is
-striking, we consider it to be largely expected, given the selection
-bias that assessments of DMC performed as a second opinion by our
-service are normally prompted by treatment refusal in the context of a
-possible mental disorder, when refusal is likely to result in
-significant harm to the patient. It is reassuring that there are a
-proportion of assessments where people are found to have DMC despite the
-refusal and high severity of consequences, and we submit that this is
-evidence of careful clinical consideration of each case on its own
-merits.
+:sup:`2` Owen *et al* :sup:`11` reported an association between
+treatment refusal and DMC assessed using the MacArthur Competency
+Assessment Tool for Treatment. Although the association is striking, we
+consider it to be largely expected, given the selection bias that
+assessments of DMC performed as a second opinion by our service are
+normally prompted by treatment refusal in the context of a possible
+mental disorder, when refusal is likely to result in significant harm to
+the patient. It is reassuring that there are a proportion of assessments
+where people are found to have DMC despite the refusal and high severity
+of consequences, and we submit that this is evidence of careful clinical
+consideration of each case on its own merits.
 
 Our audit has shown that there are limitations in the recording of
 assessments of DMC, and that uptake of an educational intervention was
@@ -537,64 +537,6 @@ in practice, the functional test of DMC is yet to fully bed down.
 
 We would like to thank Dr Lisa Conlan for her support and advice during
 the audit process.
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-R1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-R2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-R3
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-R4
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-R5
-
-      n.d.e.
-
-   .. container:: csl-entry
-      :name: ref-R6
-
-      n.d.f.
-
-   .. container:: csl-entry
-      :name: ref-R7
-
-      n.d.g.
-
-   .. container:: csl-entry
-      :name: ref-R8
-
-      n.d.h.
-
-   .. container:: csl-entry
-      :name: ref-R9
-
-      n.d.i.
-
-   .. container:: csl-entry
-      :name: ref-R10
-
-      n.d.j.
-
-   .. container:: csl-entry
-      :name: ref-R11
-
-      n.d.k.
 
 .. [1]
    **Dr Benjamin W. J. Spencer** is an NIHR Doctoral Research Fellow,

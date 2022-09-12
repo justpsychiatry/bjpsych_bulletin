@@ -2,6 +2,8 @@
 Caregiver burden and distress following the patient's discharge from psychiatric hospital
 =========================================================================================
 
+
+
 Veronica Ranieri
 Kevin Madigan
 Eric Roche
@@ -40,33 +42,31 @@ Brian O'DonoghueCorrespondence to Brian O'Donoghue
    :depth: 3
 ..
 
-One in four families worldwide is affected by mental
-illness.\ :sup:`(n.d.a)` With the onset of illness, a family member may
-assume a caregiver role for their unwell relative, which may result in
-positive and negative experiences for the caregiver.\ :sup:`(n.d.b)`
-While caregivers convey a sense of satisfaction and well-being from
-their caregiving relationship, they also report feeling
-burdened.\ :sup:`(n.d.c)` Such burden may be characterised by both
-objective difficulties, such as being unable to leave the family home
-and work, and subjective difficulties, such as psychological
-distress.\ :sup:`(n.d.d)`
+One in four families worldwide is affected by mental illness.\ :sup:`1`
+With the onset of illness, a family member may assume a caregiver role
+for their unwell relative, which may result in positive and negative
+experiences for the caregiver.\ :sup:`2` While caregivers convey a sense
+of satisfaction and well-being from their caregiving relationship, they
+also report feeling burdened.\ :sup:`3` Such burden may be characterised
+by both objective difficulties, such as being unable to leave the family
+home and work, and subjective difficulties, such as psychological
+distress.\ :sup:`4`
 
 Should a patient become severely unwell, it is often the caregiver who
-intervenes to initiate emergency psychiatric treatment.\ :sup:`(n.d.e)`
+intervenes to initiate emergency psychiatric treatment.\ :sup:`5`
 Caregivers can experience significant obstacles in gaining the
-assistance of a mental healthcare team for their
-relative\ :sup:`(n.d.f)` and involuntary admission in particular can be
-associated with high levels of caregiver burden.\ :sup:`(n.d.g)` This is
-important, as the level of burden experienced by caregivers can
-significantly predict treatment adherence and outcome in the
-patient.\ :sup:`(n.d.h)` Furthermore, caregivers who experience high
-levels of burden reveal an increased incidence of physical and mental
-health problems and health-related risk behaviours.\ :sup:`(n.d.h)`
-However, less is known about the level of burden or psychological
-distress that caregivers experience in the period following admission.
-Additionally, the limited research to date has focused on caregivers of
-involuntarily admitted patients and there is very little known about the
-caregivers of those admitted voluntarily.
+assistance of a mental healthcare team for their relative\ :sup:`6` and
+involuntary admission in particular can be associated with high levels
+of caregiver burden.\ :sup:`7` This is important, as the level of burden
+experienced by caregivers can significantly predict treatment adherence
+and outcome in the patient.\ :sup:`8` Furthermore, caregivers who
+experience high levels of burden reveal an increased incidence of
+physical and mental health problems and health-related risk
+behaviours.\ :sup:`8` However, less is known about the level of burden
+or psychological distress that caregivers experience in the period
+following admission. Additionally, the limited research to date has
+focused on caregivers of involuntarily admitted patients and there is
+very little known about the caregivers of those admitted voluntarily.
 
 For this reason, we aim to determine the level of burden and
 psychological distress reported by caregivers approximately 18 months
@@ -88,15 +88,15 @@ Participants
 Participants consisted of caregivers of either involuntarily or
 voluntarily admitted patients. Caregivers were recruited from two
 concurrent studies: the Service Users' Perspectives of their Admission
-(SUPA) study\ :sup:`(n.d.i)` and the Prospective Evaluation of the
-Operation and Effects of the Mental Health Act 2001 from the Viewpoints
-of Service Users and Health Professionals study. The former was
-conducted in south-east Dublin and North Wicklow and involved both
-involuntarily and voluntarily admitted patients. The latter was
-conducted in Galway and Roscommon and included involuntarily admitted
-individuals and individuals who were brought to hospital under the Irish
-Mental Health Act, 2001, but were not subsequently involuntarily
-detained (i.e. they accepted a voluntary admission).
+(SUPA) study\ :sup:`9` and the Prospective Evaluation of the Operation
+and Effects of the Mental Health Act 2001 from the Viewpoints of Service
+Users and Health Professionals study. The former was conducted in
+south-east Dublin and North Wicklow and involved both involuntarily and
+voluntarily admitted patients. The latter was conducted in Galway and
+Roscommon and included involuntarily admitted individuals and
+individuals who were brought to hospital under the Irish Mental Health
+Act, 2001, but were not subsequently involuntarily detained (i.e. they
+accepted a voluntary admission).
 
 As patients were recruited before caregivers in these studies, our
 inclusion and exclusion criteria for caregivers stemmed from those
@@ -138,20 +138,20 @@ Psychometric instruments
 ------------------------
 
 The Involvement Evaluation Questionnaire (IEQ) was employed as a measure
-of caregiver burden and caregiving.\ :sup:`(n.d.j)` It consisted of 27
-core items divided into four sections: urging, supervision, tension and
+of caregiver burden and caregiving.\ :sup:`10` It consisted of 27 core
+items divided into four sections: urging, supervision, tension and
 worrying. Scores on the IEQ ranged from 0 to 108, with larger figures
 representing a higher level of caregiver burden. The IEQ is a reliable
 instrument, with Cronbach's alpha 0.74–0.85 for each subscale and 0.90
-for the total score.\ :sup:`(n.d.k)` The IEQ also included a short,
-12-item General Health Questionnaire (GHQ-12) that measured
-psychological distress. Scores on the GHQ-12 ranged from 0 to 12, with
-higher scores indicating that the caregiver was experiencing emotional
-difficulties.\ :sup:`(n.d.l)` The GHQ-12 is a reliable measure of
-psychological distress with an alpha coefficient of
-0.87.\ :sup:`(n.d.m)` Finally, diagnostic and clinical information
-pertaining to the patient was taken from a Structured Clinical Interview
-for DSM-IV-TR Axis I Disorders (SCID).\ :sup:`(n.d.n)`
+for the total score.\ :sup:`11` The IEQ also included a short, 12-item
+General Health Questionnaire (GHQ-12) that measured psychological
+distress. Scores on the GHQ-12 ranged from 0 to 12, with higher scores
+indicating that the caregiver was experiencing emotional
+difficulties.\ :sup:`12` The GHQ-12 is a reliable measure of
+psychological distress with an alpha coefficient of 0.87.\ :sup:`13`
+Finally, diagnostic and clinical information pertaining to the patient
+was taken from a Structured Clinical Interview for DSM-IV-TR Axis I
+Disorders (SCID).\ :sup:`14`
 
 .. _S5:
 
@@ -510,14 +510,13 @@ To our knowledge, no study to date has examined whether differences in
 the patient's legal status at admission accounted for differences in
 caregiver burden (objective and subjective) at more than 1 year
 follow-up. Our findings, however, support those of Boydell *et
-al*,\ :sup:`(n.d.g)` who also emphasised that overall burden was not
-linked to involuntary admission in caregivers of patients with
-first-episode psychosis. Our scores of burden and psychological distress
-are substantially lower than those reported by other
-authors.\ :sup:`(n.d.k)` Thus, the similarity in scores between
-caregivers in this sample may be due to a reduction in overall caregiver
-burden following the person's admission to hospital regardless of legal
-status.\ :sup:`(n.d.o)`
+al*,\ :sup:`7` who also emphasised that overall burden was not linked to
+involuntary admission in caregivers of patients with first-episode
+psychosis. Our scores of burden and psychological distress are
+substantially lower than those reported by other authors.\ :sup:`11`
+Thus, the similarity in scores between caregivers in this sample may be
+due to a reduction in overall caregiver burden following the person's
+admission to hospital regardless of legal status.\ :sup:`15`
 
 .. _S18:
 
@@ -555,84 +554,6 @@ introduces a number of potential confounders, such as readmission to
 hospital.
 
 We thank Alastair Fetherston for designing the database for this study.
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-R1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-R2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-R3
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-R4
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-R5
-
-      n.d.e.
-
-   .. container:: csl-entry
-      :name: ref-R6
-
-      n.d.f.
-
-   .. container:: csl-entry
-      :name: ref-R7
-
-      n.d.g.
-
-   .. container:: csl-entry
-      :name: ref-R8
-
-      n.d.h.
-
-   .. container:: csl-entry
-      :name: ref-R9
-
-      n.d.i.
-
-   .. container:: csl-entry
-      :name: ref-R10
-
-      n.d.j.
-
-   .. container:: csl-entry
-      :name: ref-R11
-
-      n.d.k.
-
-   .. container:: csl-entry
-      :name: ref-R12
-
-      n.d.l.
-
-   .. container:: csl-entry
-      :name: ref-R13
-
-      n.d.m.
-
-   .. container:: csl-entry
-      :name: ref-R14
-
-      n.d.n.
-
-   .. container:: csl-entry
-      :name: ref-R15
-
-      n.d.o.
 
 .. [1]
    **Veronica Ranieri** is a research assistant at University College

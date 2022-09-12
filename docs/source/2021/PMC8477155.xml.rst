@@ -2,6 +2,8 @@
 The value and benefit of narrative medicine for psychiatric practice
 ====================================================================
 
+
+
 Sabina DosaniCorrespondence to Sabina Dosani (s.dosani@uea.ac.uk)
 :Date: 2021-10
 
@@ -85,16 +87,16 @@ Writing in the *BMJ* about the evidence-based treatment of neonatal
 jaundice and the safety of infants on aeroplanes, Thomas Newman,
 Professor of Epidemiology and Biostatistics, made a cogent case for the
 power of stories over statistics, concluding that ‘the brains of human
-beings seem built to process stories better than other forms of
-input’.(n.d.a) Dreadful things happen, Newman concludes, but when they
-happen to a storyteller this enables connections with readers beyond
-what would be possible if the story were recounted by a dispassionate
-observer. A narrative trajectory offers solutions or hope, which
-statistics cannot offer.
+beings seem built to process stories better than other forms of input’.1
+Dreadful things happen, Newman concludes, but when they happen to a
+storyteller this enables connections with readers beyond what would be
+possible if the story were recounted by a dispassionate observer. A
+narrative trajectory offers solutions or hope, which statistics cannot
+offer.
 
 Arthur Frank develops Newman's theory further, suggesting that, ‘telling
 stories is the attempt, initiated by the body's disease, to give voice
-to an experience that medicine cannot describe’.\ :sup:`(n.d.b)` In his
+to an experience that medicine cannot describe’.\ :sup:`2` In his
 classic text *The Wounded Storyteller*, Frank suggests a typology of
 medical narrative, classifying illness narratives into ‘chaos
 narratives’, ‘quest narratives’ and ‘restitution narratives’. The
@@ -126,22 +128,22 @@ English literature.
 
 In her book *Narrative Medicine*, Charon offers a drill for reading
 texts and likens it to the familiar drill that medical students are
-taught when reading chest X-rays.\ :sup:`(n.d.c)` She invites us to
-consider a patient's history as a text, deciding, for example, which
-genre it comes into. It might be a short story, an obituary, an
-epistolary novel, a Gothic tale, a black comedy, a lyric poem or a
-parable. She asks us to consider how the patient's narrative is framed,
-asking: where did this text come from? How did it appear? What does it
-answer? How was it answered? How does it change the meaning of other
-texts? What is left out of this text? I use the literary techniques of
-close reading, where one pays attention to all aspects of the literary
-devices in a text, including ambiguity, irony, paradox, tone, semiotics,
-gender, sexuality, colonial status of the narrator. Attending to close
-reading teaches us to query the meaning of breaks, tempo and the message
-in the rhythm. Charon invites us to question the narrator's engagement
-in the story, her access to events, her point of view (vocalisation). Is
-she remote, sceptical, unforgiving, judging? Charon's point throughout
-is that studying literature can make us better doctors.
+taught when reading chest X-rays.\ :sup:`3` She invites us to consider a
+patient's history as a text, deciding, for example, which genre it comes
+into. It might be a short story, an obituary, an epistolary novel, a
+Gothic tale, a black comedy, a lyric poem or a parable. She asks us to
+consider how the patient's narrative is framed, asking: where did this
+text come from? How did it appear? What does it answer? How was it
+answered? How does it change the meaning of other texts? What is left
+out of this text? I use the literary techniques of close reading, where
+one pays attention to all aspects of the literary devices in a text,
+including ambiguity, irony, paradox, tone, semiotics, gender, sexuality,
+colonial status of the narrator. Attending to close reading teaches us
+to query the meaning of breaks, tempo and the message in the rhythm.
+Charon invites us to question the narrator's engagement in the story,
+her access to events, her point of view (vocalisation). Is she remote,
+sceptical, unforgiving, judging? Charon's point throughout is that
+studying literature can make us better doctors.
 
 Following Charon's drill has taught me to interrogate patient narratives
 differently and gave me new insights into their construction. The mother
@@ -185,8 +187,8 @@ Narrative education
 Thirty years have passed since David Fraser and Leah Smith presented
 their findings from their surveys of medical graduate cohorts from 1955
 to 1982, asking ‘what changes would you have made to your
-education?’.\ :sup:`(n.d.d)` The responses were overwhelmingly in favour
-of having more humanities education, particularly in history, art, music
+education?’.\ :sup:`4` The responses were overwhelmingly in favour of
+having more humanities education, particularly in history, art, music
 and literature. Doctors felt that their education failed to meet the
 need for their ‘skill in dealing with people’. Asked about their regrets
 about their education, the cohorts said they were taught too much
@@ -199,12 +201,12 @@ This is old research, arguably ‘yesterday's news’, conducted in the USA,
 and has yet to be repeated in UK graduate cohorts. However, Richard
 Horton, writing in *The Lancet* a decade later, expressed similar views,
 lamenting the poverty of scholarship in Western medical schools, which,
-in my view, remains largely unchanged.\ :sup:`(n.d.e)` Horton's
-arguments feel as current today as when he noted more than two decades
-ago that medicine is unusual among academic disciplines in that it has
-no cannon of texts. Horton calls this ‘a curious exception’. Horton said
-that ‘a canonical work should display originality, rigorous argument and
-a strong writing style’. I would like to suggest that the time has come
+in my view, remains largely unchanged.\ :sup:`5` Horton's arguments feel
+as current today as when he noted more than two decades ago that
+medicine is unusual among academic disciplines in that it has no cannon
+of texts. Horton calls this ‘a curious exception’. Horton said that ‘a
+canonical work should display originality, rigorous argument and a
+strong writing style’. I would like to suggest that the time has come
 for us to define a cannon of works in psychiatry, spanning novels,
 creative non-fiction and illness narratives, the study of which can
 offer real benefit and value to psychiatrists.
@@ -233,31 +235,3 @@ Declaration of interest
 =======================
 
 None.
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-ref1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-ref2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-ref3
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-ref4
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-ref5
-
-      n.d.e.

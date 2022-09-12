@@ -2,6 +2,8 @@
 A visual step-by-step guide for clinicians to use video consultations in mental health services: NHS examples of real-time practice in times of normal and pandemic healthcare delivery
 =======================================================================================================================================================================================
 
+
+
 Gemma Johns
 Jacinta Tan
 Anna Burhouse
@@ -33,32 +35,31 @@ Alka AhujaCorrespondence to Gemma Johns (gemma.johns3@wales.nhs.uk)
 
 There is a large and growing evidence base of published data that
 demonstrates an overall consensus of suitability, acceptability and
-satisfaction regarding the use of digital
-technology,\ :sup:`(n.d.a)–(n.d.b)` particularly video consultations for
-the purpose of remote assessments and appointments in mental health,
-known as ‘telepsychiatry’.\ :sup:`(n.d.c)–(n.d.d)` Telepsychiatry is
-widely reported to be at least as efficient and effective as traditional
-face-to-face care, providing improved clinical and quality of life
-outcomes across a wide range of population groups and
-settings.\ :sup:`(n.d.c)–(n.d.e)` Studies have compared video
-consultations with standard in-person care and concluded that video
-consultations might be superior to in-person consultations for some
-forms of treatment and population groups.\ :sup:`(n.d.f),(n.d.c)` The
+satisfaction regarding the use of digital technology,\ :sup:`1–6`
+particularly video consultations for the purpose of remote assessments
+and appointments in mental health, known as
+‘telepsychiatry’.\ :sup:`7–15` Telepsychiatry is widely reported to be
+at least as efficient and effective as traditional face-to-face care,
+providing improved clinical and quality of life outcomes across a wide
+range of population groups and settings.\ :sup:`7–20` Studies have
+compared video consultations with standard in-person care and concluded
+that video consultations might be superior to in-person consultations
+for some forms of treatment and population groups.\ :sup:`2,7` The
 evidence base for telepsychiatry remains strong and consistent across
-mental health studies for both adult and child
-services.\ :sup:`(n.d.c)–(n.d.e)` It is commonly argued that mental
-health and psychiatry are particularly well suited to video
-consultations and that the psychiatric interaction translates
-exceptionally well to the technological world. This is because many
-treatments are based on interpersonal ‘talking therapies’ and medication
-management, which typically do not require any other medical devices for
-clinical use, perhaps in contrast to other specialties.\ :sup:`(n.d.g)`
-Video consultations have the potential to offer many additional benefits
-to patients, families and clinicians besides treatment. They are
-reported to improve and widen patient and family access to healthcare,
-support co-production and self-management, increase efficiency and
-improve clinical outcomes, as well as significantly reducing clinical
-time and patient and family travel.\ :sup:`(n.d.f),(n.d.h),(n.d.i)`
+mental health studies for both adult and child services.\ :sup:`7–20` It
+is commonly argued that mental health and psychiatry are particularly
+well suited to video consultations and that the psychiatric interaction
+translates exceptionally well to the technological world. This is
+because many treatments are based on interpersonal ‘talking therapies’
+and medication management, which typically do not require any other
+medical devices for clinical use, perhaps in contrast to other
+specialties.\ :sup:`21` Video consultations have the potential to offer
+many additional benefits to patients, families and clinicians besides
+treatment. They are reported to improve and widen patient and family
+access to healthcare, support co-production and self-management,
+increase efficiency and improve clinical outcomes, as well as
+significantly reducing clinical time and patient and family
+travel.\ :sup:`2,22,23`
 
 .. _sec1:
 
@@ -70,7 +71,7 @@ Local evidence to support this step-by-step guide
 The CWTCH quality improvement project
 -------------------------------------
 
-In 2019, the Health Foundation\ :sup:`(n.d.j)` funded Aneurin Bevan
+In 2019, the Health Foundation\ :sup:`24` funded Aneurin Bevan
 University Health Board (ABUHB) for 1 year to establish a telepsychiatry
 programme with the objective of providing mental health appointments to
 children and adolescents within Gwent mental health services. This ABUHB
@@ -88,7 +89,7 @@ virtual groups and more. It demonstrated that telepsychiatry in CAMHS is
 a highly suitable adjunct to routine ways of working; once people became
 familiar with this way of holding appointments, it was rated as
 acceptable and satisfactory by patients, families and
-clinicians.\ :sup:`(n.d.k),(n.d.l)`
+clinicians.\ :sup:`25,26`
 
 .. _sec1-2:
 
@@ -98,8 +99,8 @@ Rebranding of CWTCH and Royal College of Psychiatry endorsement
 CWTCH has now been rebranded and is called CWTCH Cymru. It has received
 local and national recognition for its success and is now considered an
 exemplar of good practice across Wales. CWTCH Cymru and its guiding
-principles\ :sup:`(n.d.l)` have also been endorsed by the Welsh Royal
-College of Psychiatrists.\ :sup:`(n.d.m)`
+principles\ :sup:`26` have also been endorsed by the Welsh Royal College
+of Psychiatrists.\ :sup:`27`
 
 .. _sec1-3:
 
@@ -109,14 +110,13 @@ Partnership and development of the national roll-out of video consultations
 In March 2020, in response to the COVID-19 emergency, CWTCH Cymru went
 into partnership with Technology Enabled Care (TEC;
 https://digitalhealth.wales/tec-cymru) and the Welsh Government to form
-a National Video Consultation Service.\ :sup:`(n.d.n)` This service is
+a National Video Consultation Service.\ :sup:`28` This service is
 currently rapidly scaling up the routine use of video consultations
 across Wales, using the Attend Anywhere communication platform, to all
 appropriate primary, secondary and community care services, including
 mental healthcare for all ages. The National Video Consultation Service
 has a fully resourced website, with helpful guides, videos and toolkits,
-which can be accessed and used in addition to this
-paper.\ :sup:`(n.d.n),(n.d.o)`
+which can be accessed and used in addition to this paper.\ :sup:`28,29`
 
 .. _sec1-4:
 
@@ -151,7 +151,7 @@ services and organisations, highlighting the need to focus on both the
 technical and the cultural aspects of the adoption process. These
 findings mirror the work of Greenhalgh et al and their ‘NASSS’
 (non-adoption, abandonment and barriers to spread, scale-up and
-sustainability) framework.\ :sup:`(n.d.p)`
+sustainability) framework.\ :sup:`30`
 
 .. _sec2:
 
@@ -182,9 +182,9 @@ taken by the authors in their real-time experience to initiate and
 implement a new video consultation programme in an existing NHS systems.
 The visuals used on the TEC website and in this paper are adaptations
 and syntheses of work from other recent video consultation reports in
-the UK.\ :sup:`(n.d.q)–(n.d.r)` Note that the visual diagrams and
-infographics used in this paper are examples based on the communication
-platform Attend Anywhere (https://www.attendanywhere.com); therefore,
+the UK.\ :sup:`31–33` Note that the visual diagrams and infographics
+used in this paper are examples based on the communication platform
+Attend Anywhere (https://www.attendanywhere.com); therefore,
 descriptions and instructions may differ slightly depending on the type
 of platform used in your health service.
 
@@ -225,7 +225,7 @@ clinician who will decide how best to set up, use and manage the video
 consultations (`Fig. 1 <#fig01>`__). This person will be the ‘point of
 call’ for your service and its use of video consultations. Fig.
 1Workflow visual guide. Diagram from the Welsh National Video
-Consultation Service Toolkit.\ :sup:`(n.d.o)`
+Consultation Service Toolkit.\ :sup:`29`
 
 .. _sec5-2:
 
@@ -297,8 +297,7 @@ Appropriate strategies covering ethical issues will be necessary, such
 as taking informed consent and ensuring confidentiality and security
 while using technology, and procedures for conducting risk assessments.
 Fig. 2Legal and ethical visual guide. Diagram from the Welsh National
-Video Consultation Service Toolkit.\ :sup:`(n.d.o)`\ VC, video
-consultation.
+Video Consultation Service Toolkit.\ :sup:`29`\ VC, video consultation.
 
 .. _sec6-1:
 
@@ -402,7 +401,7 @@ A guide to conducting the video consultation
 The final step of this guide describes how to use video consultations in
 a secondary healthcare service (`Fig. 3 <#fig03>`__). Fig. 3How to use
 video consultations visual guide. Diagram from the Welsh National Video
-Consultation Service Toolkit.\ :sup:`(n.d.o)`
+Consultation Service Toolkit.\ :sup:`29`
 
 .. _sec7-1:
 
@@ -454,7 +453,7 @@ information sheets, suggested scripting for clinicians, technical guides
 to the Attend Anywhere communication platform and much more. Fig.
 4Infographic visual guide: video consultations in secondary care.
 Diagram from the Welsh National Video Consultation Service
-Toolkit.\ :sup:`(n.d.o)`
+Toolkit.\ :sup:`29`
 
 .. _sec8:
 
@@ -549,96 +548,3 @@ http://dx.doi.org/10.1192/bjb.2020.71.
    .. rubric:: 
 
    click here to view supplementary material
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-ref1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-ref2
-
-      n.d.f.
-
-   .. container:: csl-entry
-      :name: ref-ref6
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-ref7
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-ref15
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-ref20
-
-      n.d.e.
-
-   .. container:: csl-entry
-      :name: ref-ref21
-
-      n.d.g.
-
-   .. container:: csl-entry
-      :name: ref-ref22
-
-      n.d.h.
-
-   .. container:: csl-entry
-      :name: ref-ref23
-
-      n.d.i.
-
-   .. container:: csl-entry
-      :name: ref-ref24
-
-      n.d.j.
-
-   .. container:: csl-entry
-      :name: ref-ref25
-
-      n.d.k.
-
-   .. container:: csl-entry
-      :name: ref-ref26
-
-      n.d.l.
-
-   .. container:: csl-entry
-      :name: ref-ref27
-
-      n.d.m.
-
-   .. container:: csl-entry
-      :name: ref-ref28
-
-      n.d.n.
-
-   .. container:: csl-entry
-      :name: ref-ref29
-
-      n.d.o.
-
-   .. container:: csl-entry
-      :name: ref-ref30
-
-      n.d.p.
-
-   .. container:: csl-entry
-      :name: ref-ref31
-
-      n.d.q.
-
-   .. container:: csl-entry
-      :name: ref-ref33
-
-      n.d.r.

@@ -2,6 +2,8 @@
 Understanding increasing rates of psychiatric hospital detentions in England: development and preliminary testing of an explanatory model
 =========================================================================================================================================
 
+
+
 Luke Sheridan Rains
 Scott Weich
 Clementine Maddock
@@ -75,23 +77,22 @@ b.lloyd-evans@ucl.ac.uk
 
 Rates of detention in psychiatric hospital have more than doubled in
 England since 1983 and risen faster than almost anywhere else in Europe
-during the past decade.\ :sup:`(n.d.a)` Detention in hospital is
-inherently coercive: it is experienced by most patients as
-such,\ :sup:`(n.d.b),(n.d.c)` and 3 months after detention many patients
-still disagree with the decision to detain them.\ :sup:`(n.d.d)`
-Involuntary hospital admissions are typically longer and more costly
-than voluntary admissions. Patients experience only limited improvements
-in health and social circumstances following detention.\ :sup:`(n.d.e)`
-Understanding and addressing the rising rate of detentions is therefore
-a priority for mental healthcare in England, which prompted the recent
-Independent Review of the Mental Health Act (MHA Review), which reported
-in December 2018.\ :sup:`(n.d.f)` To support the review, an expert topic
-group was convened, supported by the National Institute for Health
-Research (NIHR) Mental Health Policy Research Unit (MHPRU). This group
-was tasked with exploring why rates of detentions in psychiatric
-hospital in England have risen since the introduction of the Mental
-Health Act 1983 (MHA), and most rapidly over the past decade. This work
-is reported here.
+during the past decade.\ :sup:`1` Detention in hospital is inherently
+coercive: it is experienced by most patients as such,\ :sup:`2,3` and 3
+months after detention many patients still disagree with the decision to
+detain them.\ :sup:`4` Involuntary hospital admissions are typically
+longer and more costly than voluntary admissions. Patients experience
+only limited improvements in health and social circumstances following
+detention.\ :sup:`5` Understanding and addressing the rising rate of
+detentions is therefore a priority for mental healthcare in England,
+which prompted the recent Independent Review of the Mental Health Act
+(MHA Review), which reported in December 2018.\ :sup:`6` To support the
+review, an expert topic group was convened, supported by the National
+Institute for Health Research (NIHR) Mental Health Policy Research Unit
+(MHPRU). This group was tasked with exploring why rates of detentions in
+psychiatric hospital in England have risen since the introduction of the
+Mental Health Act 1983 (MHA), and most rapidly over the past decade.
+This work is reported here.
 
 We sought to identify hypotheses for the rise in detentions in England,
 test their plausibility in relation to available evidence, and then
@@ -122,21 +123,20 @@ Hypothesis generation
 
 A list of potential explanatory factors for the rising rate of
 detentions was generated from three sources. Reports and literature,
-chiefly the recent report from the Care Quality
-Commission\ :sup:`(n.d.g)` and the evidence submitted to the MHA
-Review,\ :sup:`(n.d.f)` which included over 50 focus groups with
-patients and carers, evidence submissions from over 200 mental health
-organisations, practitioners, patients and carers, and seven public
-workshops across England.Consultation with an expert topic group
-convened for the MHA Review. This comprised eight academics, six of whom
-were psychiatrists, one a social worker and one a researcher with lived
-experience. The group included two women and two members of Black, Asian
-and minority ethnic (BAME) communities, one of whom co-chaired the
-Mental Health Act Review African and Caribbean Group (MHARAC), which
-supported the MHA Review.Consultation with 14 members of the Lived
-Experience Working Group of the Mental Health Policy Research Unit
-(MHPRU), all with lived experience as a mental health patient or family
-carer. All members of this group were adults; the group was
+chiefly the recent report from the Care Quality Commission\ :sup:`7` and
+the evidence submitted to the MHA Review,\ :sup:`6` which included over
+50 focus groups with patients and carers, evidence submissions from over
+200 mental health organisations, practitioners, patients and carers, and
+seven public workshops across England.Consultation with an expert topic
+group convened for the MHA Review. This comprised eight academics, six
+of whom were psychiatrists, one a social worker and one a researcher
+with lived experience. The group included two women and two members of
+Black, Asian and minority ethnic (BAME) communities, one of whom
+co-chaired the Mental Health Act Review African and Caribbean Group
+(MHARAC), which supported the MHA Review.Consultation with 14 members of
+the Lived Experience Working Group of the Mental Health Policy Research
+Unit (MHPRU), all with lived experience as a mental health patient or
+family carer. All members of this group were adults; the group was
 demographically varied with respect to age, gender and ethnicity.
 
 Through discussion in the MHA Review topic group, all proposed
@@ -169,23 +169,22 @@ reviewed to assess whether exposure to the explanatory variable appeared
 to have changed over time (in the direction compatible with contributing
 to a rise in detentions). The association between each indicator
 variable and rates of involuntary hospital admission was assessed using
-regression analyses. Following guidance,\ :sup:`(n.d.h),(n.d.i)` only
-indicator variables with at least 10 years of annual data were included
-in the analyses, to avoid reporting imprecise statistical results based
-on limited data. Breusch–Godfrey tests were used to identify the
-presence of serial correlation (in which the model residuals are
-correlated over time). Such correlation can be present in time series
-data and can result in biased estimates if inappropriate regression
-methods are used. When there was evidence of serial correlation,
-Prais–Winsten regression\ :sup:`(n.d.j)` was used; otherwise simple
-linear regression was used. Analyses were performed using Stata version
-15 for Windows. The outcome variable in all analyses was annual number
-of detentions per 100 000 population, derived from publicly available
-English KP90 detentions data.\ :sup:`(n.d.k)` If prevalence of exposure
-to an explanatory variable was unchanged or was not associated with
-detention rates in the expected direction, it was considered less
-plausible as a contributory factor for the rise in compulsory
-admissions.
+regression analyses. Following guidance,\ :sup:`8,9` only indicator
+variables with at least 10 years of annual data were included in the
+analyses, to avoid reporting imprecise statistical results based on
+limited data. Breusch–Godfrey tests were used to identify the presence
+of serial correlation (in which the model residuals are correlated over
+time). Such correlation can be present in time series data and can
+result in biased estimates if inappropriate regression methods are used.
+When there was evidence of serial correlation, Prais–Winsten
+regression\ :sup:`10` was used; otherwise simple linear regression was
+used. Analyses were performed using Stata version 15 for Windows. The
+outcome variable in all analyses was annual number of detentions per
+100 000 population, derived from publicly available English KP90
+detentions data.\ :sup:`11` If prevalence of exposure to an explanatory
+variable was unchanged or was not associated with detention rates in the
+expected direction, it was considered less plausible as a contributory
+factor for the rise in compulsory admissions.
 
 Second, available research was scoped by MHPRU researchers (L.S.R.,
 N.L., L.M.) for additional evidence relevant to our hypotheses,
@@ -193,19 +192,19 @@ including: studies exploring predictors of detention at individual
 patient, local area or international level, and qualitative literature
 regarding perceived changes in explanatory factors over time. Relevant
 literature was identified through: (a) a programme of systematic reviews
-and data analysis conducted for the MHA Review by the
-MHPRU.\ :sup:`(n.d.f)` These provided a range of types of evidence from
-quantitative and qualitative research, and included systematic reviews
-of social and clinical predictors of detention, interventions to reduce
-detention, qualitative literature on patients’ and carers’ experience of
-detention, an international comparison of detention rates and factors
-associated with detention rates, and an analysis of routine health
-records data regarding the nature of changes over time in patterns of
-detention in two London National Health Service (NHS) trusts; (b)
-keyword searching for relevant terms in electronic databases (MEDLINE
-and PsycInfo); and (c) asking subject experts in the MHA Review topic
-group, authors of this paper and others (acknowledged at the end of this
-paper) to identify other relevant literature.
+and data analysis conducted for the MHA Review by the MHPRU.\ :sup:`6`
+These provided a range of types of evidence from quantitative and
+qualitative research, and included systematic reviews of social and
+clinical predictors of detention, interventions to reduce detention,
+qualitative literature on patients’ and carers’ experience of detention,
+an international comparison of detention rates and factors associated
+with detention rates, and an analysis of routine health records data
+regarding the nature of changes over time in patterns of detention in
+two London National Health Service (NHS) trusts; (b) keyword searching
+for relevant terms in electronic databases (MEDLINE and PsycInfo); and
+(c) asking subject experts in the MHA Review topic group, authors of
+this paper and others (acknowledged at the end of this paper) to
+identify other relevant literature.
 
 .. _sec1-3:
 
@@ -216,34 +215,33 @@ Findings for each hypothesis were synthesised and summarised. The
 likelihood of any hypothesised or observed ecological relationship
 between explanatory variables and rates of detentions being causal in
 nature was assessed, where applicable and as far as evidence was
-available, with regard to established criteria for
-causality,\ :sup:`(n.d.l)` including the strength and consistency of
-associations, their perceived plausibility as causal mechanisms and,
-where possible, the specificity of relationships to populations at
-increased risk of detention, and temporality, i.e. evidence that rises
-in explanatory factors preceded rises in detentions. Hypotheses were
-then graded by the study team for plausibility as a contributory factor
-to the rising rate of detentions in England: 0, contradicted by
-available evidence; 1, lack of evidence or available evidence is
-ambiguous or mixed; 2, supported by the balance of available evidence.
-Two factors were considered in grading each hypothesis: evidence for
-change over time in the direction expected; and evidence, or
-self-evident face validity, that the hypothesised factor was causally
-related to risk of detention. Ratings were made initially by the lead
-authors of this paper (L.S.R, B.L.-E.), then reviewed by all authors and
-revised if necessary following discussion.
+available, with regard to established criteria for causality,\ :sup:`12`
+including the strength and consistency of associations, their perceived
+plausibility as causal mechanisms and, where possible, the specificity
+of relationships to populations at increased risk of detention, and
+temporality, i.e. evidence that rises in explanatory factors preceded
+rises in detentions. Hypotheses were then graded by the study team for
+plausibility as a contributory factor to the rising rate of detentions
+in England: 0, contradicted by available evidence; 1, lack of evidence
+or available evidence is ambiguous or mixed; 2, supported by the balance
+of available evidence. Two factors were considered in grading each
+hypothesis: evidence for change over time in the direction expected; and
+evidence, or self-evident face validity, that the hypothesised factor
+was causally related to risk of detention. Ratings were made initially
+by the lead authors of this paper (L.S.R, B.L.-E.), then reviewed by all
+authors and revised if necessary following discussion.
 
 .. _sec1-4:
 
 Logic model development
 -----------------------
 
-Following guidance,\ :sup:`(n.d.m)` we developed a visual logic model to
-show how plausible proposed contributory factors (i.e. hypotheses rated
-as 1 or 2 for plausibility) might contribute to the rising rate of
-detentions in England and might interrelate. In developing the model, we
-worked backwards from the final outcome to be explained (the rising rate
-of detentions) to identify proximal outcomes, mental health service
+Following guidance,\ :sup:`13` we developed a visual logic model to show
+how plausible proposed contributory factors (i.e. hypotheses rated as 1
+or 2 for plausibility) might contribute to the rising rate of detentions
+in England and might interrelate. In developing the model, we worked
+backwards from the final outcome to be explained (the rising rate of
+detentions) to identify proximal outcomes, mental health service
 activities, inputs and contextual factors. We differentiated elements of
 this explanatory model that were supported by available evidence from
 hypothesised elements with ambiguous or absent evidence. Proposed causal
@@ -267,8 +265,8 @@ Rates of detention in England
 
 Data for the number of detentions in England were not available from NHS
 Digital before 1988. National detention data collection methods changed
-from April 2016,\ :sup:`(n.d.k)` so data after this point are not
-comparable with previous data.
+from April 2016,\ :sup:`11` so data after this point are not comparable
+with previous data.
 
 The annual rates of detentions per 100 000 population in England from
 1988 to 2016 are shown in `Fig. 1 <#fig01>`__. Detention rates more than
@@ -304,9 +302,9 @@ Proposed explanations for the rising rate of detentions in England
 Seventeen hypotheses for the rising rate of detentions in England were
 generated. These are presented in the Appendix (immediately preceding
 the References), with a brief description of the proposed mechanisms of
-effect on detention rates. Consistent with previous work\ :sup:`(n.d.g)`
-we have grouped the hypotheses as: social factors, service provision,
-legal factors and data recording problems.
+effect on detention rates. Consistent with previous work\ :sup:`7` we
+have grouped the hypotheses as: social factors, service provision, legal
+factors and data recording problems.
 
 Available data relevant to each hypothesis are summarised in `Table
 1 <#tab01>`__, along with results of statistical tests of association
@@ -323,24 +321,22 @@ available national dataHypothesis numberPotential explanatory variable
 unitsMean annual change,standardised unitsRelationship to detention
 rate,coefficient (95% CI), *P*\ Significant association corroborates
 hypothesis?1Relative poverty UK (% people earning <50% median national
-income)OECD\ :sup:`(n.d.n)`\ 20−0.10−0.120.36 (−1.55 to 2.26), 0.695Not
+income)OECD\ :sup:`14`\ 20−0.10−0.120.36 (−1.55 to 2.26), 0.695Not
 significant1Income inequality (Gini
-coefficient)ONS\ :sup:`(n.d.o)`\ 28−0.05−0.04−0.38 (−1.88 to 1.12),
-0.605Not significant1Rate of evictions per 100 000 populationMortgage
-and landlord possession statistics\ :sup:`(n.d.p)`\ 18−3.44−0.120.02
-(−0.04 to 0.08), 0.512Not significant1Unemployment rate (over 16 years
-old and seasonally adjusted)Labour force
-survey\ :sup:`(n.d.q)`\ 29−0.10−0.06−1.56 (−3.74 to 0.62), 0.153Not
-significant1Number of racial hate crimes recorded by the police per 1000
-populationGOV.UK hate crime
-statistics\ :sup:`(n.d.r)`\ 60.080.42n.a.1Number of reported racist
-incidents per 1000 population (England and
-Wales)4−0.04−0.53n.a.1Proportion of people in England and Wales
-reporting experience of racial prejudiceBritish social attitudes
-survey\ :sup:`(n.d.s)`\ 20−0.24−0.060.13 (−0.07 to 0.33), 0.192Not
-significant1Fear and exclusion of people with mental illness,
-1994–2014Time to Change Attitudes to Mental Illness Research Report
-(2014)\ :sup:`(n.d.t)`\ 14−0.23−0.08−1.38 (−2.70 to −0.07),
+coefficient)ONS\ :sup:`15`\ 28−0.05−0.04−0.38 (−1.88 to 1.12), 0.605Not
+significant1Rate of evictions per 100 000 populationMortgage and
+landlord possession statistics\ :sup:`16`\ 18−3.44−0.120.02 (−0.04 to
+0.08), 0.512Not significant1Unemployment rate (over 16 years old and
+seasonally adjusted)Labour force survey\ :sup:`17`\ 29−0.10−0.06−1.56
+(−3.74 to 0.62), 0.153Not significant1Number of racial hate crimes
+recorded by the police per 1000 populationGOV.UK hate crime
+statistics\ :sup:`18`\ 60.080.42n.a.1Number of reported racist incidents
+per 1000 population (England and Wales)4−0.04−0.53n.a.1Proportion of
+people in England and Wales reporting experience of racial
+prejudiceBritish social attitudes survey\ :sup:`19`\ 20−0.24−0.060.13
+(−0.07 to 0.33), 0.192Not significant1Fear and exclusion of people with
+mental illness, 1994–2014Time to Change Attitudes to Mental Illness
+Research Report (2014)\ :sup:`20`\ 14−0.23−0.08−1.38 (−2.70 to −0.07),
 0.04No1Understanding and tolerance of mental illness,
 1994–201414−0.01−0.01−0.47 (−2.30 to 1.35), 0.58Not
 significant1Integrating people with mental illness into the community,
@@ -348,45 +344,42 @@ significant1Integrating people with mental illness into the community,
 significant1Causes of mental illness and the need for special services,
 1994– 201414−0.05−0.028−0.37 (−1.95 to 1.20), 0.62Not significant2Any
 drug use (proportion of population)Crime survey for England and
-Wales\ :sup:`(n.d.u)`\ 22−0.12−0.08 0.02 (−2.77 to 2.81), 0.99Not
+Wales\ :sup:`21`\ 22−0.12−0.08 0.02 (−2.77 to 2.81), 0.99Not
 significant2Alcohol use in general population (proportion using alcohol
-in past week)ONS\ :sup:`(n.d.v)`\ 13−0.55−0.21−0.81 (−2.56 to 0.96),
-0.335Not significant2Rate of cannabis use per 100 000 hospital
-admissionsNHS Digital hospital-admitted patient care
-activity\ :sup:`(n.d.w)`\ 190.080.139.43 (4.29 to 14.56), 0.001Yes2Rate
-of substance use excluding alcohol (ICD-10 F11– F19) per 100 000
-hospital admissions19−0.08−0.03 0.26 (−0.26 to 0.90), 0.256Not
-significant2Rate of alcohol use per 100 000 hospital
-admissions192.410.11−0.02 (−0.11 to 0.07), 0.632Not
-significant3Proportion of males in
-populationONS\ :sup:`(n.d.q),(n.d.x)`\ 280.020.1154.48 (28.44 to 80.52)
+in past week)ONS\ :sup:`22`\ 13−0.55−0.21−0.81 (−2.56 to 0.96), 0.335Not
+significant2Rate of cannabis use per 100 000 hospital admissionsNHS
+Digital hospital-admitted patient care
+activity\ :sup:`23`\ 190.080.139.43 (4.29 to 14.56), 0.001Yes2Rate of
+substance use excluding alcohol (ICD-10 F11– F19) per 100 000 hospital
+admissions19−0.08−0.03 0.26 (−0.26 to 0.90), 0.256Not significant2Rate
+of alcohol use per 100 000 hospital admissions192.410.11−0.02 (−0.11 to
+0.07), 0.632Not significant3Proportion of males in
+populationONS\ :sup:`17,24`\ 280.020.1154.48 (28.44 to 80.52)
 <0.01Yes3Proportion of working-age adults in population28−0.13−0.10−0.66
 (−8.31 to 6.99), 0.861Not significant3Urbanicity (UK)World
-Bank\ :sup:`(n.d.y)`\ 290.170.109 (4.60 to 13.39), <0.01Yes3Proportion
-of population from BAME
-groupsONS\ :sup:`(n.d.q),(n.d.x)`\ 280.300.104.86 (2.28 to 7.45),
-<0.01Yes3Proportion of the population not born in the UK280.270.11 5.13
-(2.60 to 7.65), <0.01Yes4Rate of all consultation episodes involving
-psychosis diagnoses per 100 000 populationNHS Digital hospital admitted
-patient care activity\ :sup:`(n.d.w)`\ 19−0.73−0.120.02 (−0.12 to 0.17),
-0.738Not significant4% of people reporting symptoms of severe common
-mental disorder in the past
-weekAPMS\ :sup:`(n.d.z)`\ 40.100.11n.a.4Number of people per 1000
-population assessed as having a psychotic disorder40.140.09n.a.5Social
-support (Congdon social fragmentation index median)National census
-data\ :sup:`(n.d.aa)`\ 3−0.01−0.09n.a.6Number of people in contact with
+Bank\ :sup:`25`\ 290.170.109 (4.60 to 13.39), <0.01Yes3Proportion of
+population from BAME groupsONS\ :sup:`17,24`\ 280.300.104.86 (2.28 to
+7.45), <0.01Yes3Proportion of the population not born in the
+UK280.270.11 5.13 (2.60 to 7.65), <0.01Yes4Rate of all consultation
+episodes involving psychosis diagnoses per 100 000 populationNHS Digital
+hospital admitted patient care activity\ :sup:`23`\ 19−0.73−0.120.02
+(−0.12 to 0.17), 0.738Not significant4% of people reporting symptoms of
+severe common mental disorder in the past
+weekAPMS\ :sup:`26`\ 40.100.11n.a.4Number of people per 1000 population
+assessed as having a psychotic disorder40.140.09n.a.5Social support
+(Congdon social fragmentation index median)National census
+data\ :sup:`27`\ 3−0.01−0.09n.a.6Number of people in contact with
 secondary mental health services per 1000 populationNHS Digital Mental
-Health Bulletin\ :sup:`(n.d.ab)`\ 141.800.261.2 (−0.11 to 2.51),
-0.068Not significant6Mental health spend (inflation adjusted) per capita
-(£)\ `a <#tfn1_2>`__\ NHS reference
-costs\ :sup:`(n.d.ac)`\ 132.210.19−0.07 (−0.16 to 0.03), 0.162Not
-significant6Mental health spend per person in contact with secondary
-mental health services (£)13−50.90−0.10−0.01 (−0.02 to 0.00)Yes6Mental
-health nurses number per 100 000 populationNHS Digital Mental Health
-Bulletin\ :sup:`(n.d.ab)`\ 9−1.57−0.30n.a.6Nurses in community
-psychiatry number per 100 000 population90.080.10n.a.6Nursing support
-staff total number per 100 000 population9−0.37−0.28n.a.6Nursing support
-staff in community psychiatry per 100 000
+Health Bulletin\ :sup:`28`\ 141.800.261.2 (−0.11 to 2.51), 0.068Not
+significant6Mental health spend (inflation adjusted) per capita
+(£)\ `a <#tfn1_2>`__\ NHS reference costs\ :sup:`29`\ 132.210.19−0.07
+(−0.16 to 0.03), 0.162Not significant6Mental health spend per person in
+contact with secondary mental health services (£)13−50.90−0.10−0.01
+(−0.02 to 0.00)Yes6Mental health nurses number per 100 000 populationNHS
+Digital Mental Health Bulletin\ :sup:`28`\ 9−1.57−0.30n.a.6Nurses in
+community psychiatry number per 100 000 population90.080.10n.a.6Nursing
+support staff total number per 100 000 population9−0.37−0.28n.a.6Nursing
+support staff in community psychiatry per 100 000
 population9−0.09−0.25n.a.6Number of psychiatrists per 100 000
 population9−0.16−0.35n.a.6Number of CMHT patient contacts per 1000
 population62.550.22n.a.6Number of CMHT contacts per person in contact
@@ -395,21 +388,21 @@ with mental health services6−0.09−0.20n.a.7,8Number of CRT contacts per
 contact with secondary mental health services6−0.00−0.01n.a.9NHS
 psychiatric beds per 100 000 populationNHS Digital Mental Health
 Bulletin: bed availability and occupancy
-data\ :sup:`(n.d.ad)`\ 28−3.24−0.12−0.55 (−0.75 to −0.3),
-<0.01Yes9Detentions in non-NHS hospitals per 100 000 populationNHS
-Digital MHA statistics – annual figures\ :sup:`(n.d.k)`\ 280.440.133.6
-(2.43 to 4.78), <0.01Yes12Percentage of all detentions in non-NHS
-hospitals280.370.123.7 (2.23 to 5.17), <0.01Yes12Antipsychotic depot
-prescriptions (in 1000s)NHS Digital prescription cost
-analysis\ :sup:`(n.d.ae)`\ 16−4.00−0.250.17 (−0.06 to 0.40), 0.137Not
+data\ :sup:`30`\ 28−3.24−0.12−0.55 (−0.75 to −0.3), <0.01Yes9Detentions
+in non-NHS hospitals per 100 000 populationNHS Digital MHA statistics –
+annual figures\ :sup:`11`\ 280.440.133.6 (2.43 to 4.78),
+<0.01Yes12Percentage of all detentions in non-NHS hospitals280.370.123.7
+(2.23 to 5.17), <0.01Yes12Antipsychotic depot prescriptions (in
+1000s)NHS Digital prescription cost
+analysis\ :sup:`31`\ 16−4.00−0.250.17 (−0.06 to 0.40), 0.137Not
 significant12Clozapine prescriptions (in 1000s)160.080.061.41 (−0.80 to
 3.62), 0.188Not significant14Readmissions to hospital following
 revocations of CTO per 100 000 populationNHS Digital  MHA statistics –
-annual figures\ :sup:`(n.d.k)`\ 80.320.35n.a.15All place of safety
-orders per 100 000 population281.430.121.01 (0.61 to 1.42),
-<0.01Yes15Number of conversions from s.135 or s.136 to s.2280.210.136.74
-(4.22 to 9.26), <0.01Yes15Number of conversions from s.135 or s.136 to
-s.3280.020.098.2 (−5.68 to 22.09), 0.235Not significant [1]_ [2]_
+annual figures\ :sup:`11`\ 80.320.35n.a.15All place of safety orders per
+100 000 population281.430.121.01 (0.61 to 1.42), <0.01Yes15Number of
+conversions from s.135 or s.136 to s.2280.210.136.74 (4.22 to 9.26),
+<0.01Yes15Number of conversions from s.135 or s.136 to s.3280.020.098.2
+(−5.68 to 22.09), 0.235Not significant [1]_ [2]_
 
 .. _sec2-3:
 
@@ -422,19 +415,18 @@ change, increasing psychiatric morbidity, and increasing drug and
 alcohol use in the population.
 
 Internationally, wealthy countries tend to have higher rates of
-detention.\ :sup:`(n.d.a)` However, at individual level, poverty and
-economic hardship, and lack of social support, are associated with
-increased risk of detention.\ :sup:`(n.d.af)` The two periods of
-economic recession in the UK during the study period (1991 and
-2008–2009)\ :sup:`(n.d.ag)` coincide with or immediately precede periods
-of steepest rise in detentions in England. However, many established
-markers of economic hardship, including unemployment rate,
-poverty/relative poverty and income inequality, do not show clear
-evidence of change nationally over the study period (`Table
-1 <#tab01>`__). Evidence of reduced informal social support or increased
-social discord during the study period is also limited: median scores
-for social fragmentation – an established indicator of informal social
-support,\ :sup:`(n.d.ah)` collected every 10 years through national
+detention.\ :sup:`1` However, at individual level, poverty and economic
+hardship, and lack of social support, are associated with increased risk
+of detention.\ :sup:`32` The two periods of economic recession in the UK
+during the study period (1991 and 2008–2009)\ :sup:`33` coincide with or
+immediately precede periods of steepest rise in detentions in England.
+However, many established markers of economic hardship, including
+unemployment rate, poverty/relative poverty and income inequality, do
+not show clear evidence of change nationally over the study period
+(`Table 1 <#tab01>`__). Evidence of reduced informal social support or
+increased social discord during the study period is also limited: median
+scores for social fragmentation – an established indicator of informal
+social support,\ :sup:`34` collected every 10 years through national
 census data – have changed little. More specific indicators of social
 discord and discrimination, such as recorded hate crimes and racist
 incidents, have available data only for recent years and provide an
@@ -444,28 +436,28 @@ from 1994 to 2014 (`Table 1 <#tab01>`__).
 
 Men, younger adults (age 18–35) and people from Black, Asian and
 minority ethnic (BAME) groups are at increased risk of detention in
-England.\ :sup:`(n.d.ai),(n.d.aj)` The proportion of the population in
-England from all BAME groups has more than doubled between 1988 and
-2016, as has the proportion of non-UK-born people in the population. The
-proportion of the population who are male has risen marginally. These
-rises may contribute to a rise in detentions (`Table 1 <#tab01>`__).
-Conversely, the proportion of the English population who are adults aged
-18–35, the highest-risk age group for detentions, has fallen as the
-number of older adults has increased.
+England.\ :sup:`35,36` The proportion of the population in England from
+all BAME groups has more than doubled between 1988 and 2016, as has the
+proportion of non-UK-born people in the population. The proportion of
+the population who are male has risen marginally. These rises may
+contribute to a rise in detentions (`Table 1 <#tab01>`__). Conversely,
+the proportion of the English population who are adults aged 18–35, the
+highest-risk age group for detentions, has fallen as the number of older
+adults has increased.
 
 Available data suggest that psychiatric morbidity in England has
 increased during the study period, consistent with our fourth
 hypothesis. Adult Psychiatric Morbidity Survey (APMS) data collected
 every 7 years indicate a consistent rise in prevalence of people with
 common mental disorders with severe symptoms from 1993 to 2014, and a
-possible recent rise in prevalence of people with
-psychosis.\ :sup:`(n.d.z)` A clear causal pathway between increased
-overall psychiatric morbidity and more detentions is lacking, however.
-The increasing number of people seen in secondary mental health services
-(`Table 1 <#tab01>`__) may reflect increased numbers of people with a
-severe mental health problem, who are also at risk of detention.
-Alternatively, however, it could reflect increases in help-seeking or
-service accessibility, which do not influence rates of detention.
+possible recent rise in prevalence of people with psychosis.\ :sup:`26`
+A clear causal pathway between increased overall psychiatric morbidity
+and more detentions is lacking, however. The increasing number of people
+seen in secondary mental health services (`Table 1 <#tab01>`__) may
+reflect increased numbers of people with a severe mental health problem,
+who are also at risk of detention. Alternatively, however, it could
+reflect increases in help-seeking or service accessibility, which do not
+influence rates of detention.
 
 Contrary to our hypothesis, rates of drug and alcohol use in the general
 population in England have fallen over the past 20 years). However,
@@ -476,8 +468,8 @@ cannabis use (`Table 1 <#tab01>`__). Three potential, not mutually
 exclusive, explanations for this discrepancy are: (a) drug use has
 increased among people accessing mental health services, in contrast to
 the general population; (b) the greater availability of potent drugs,
-including forms of cannabis such as skunk,\ :sup:`(n.d.ak)` and novel
-psychoactive substances with mental health risks\ :sup:`(n.d.al)` has
+including forms of cannabis such as skunk,\ :sup:`37` and novel
+psychoactive substances with mental health risks\ :sup:`38` has
 increased the risk of detention among drug users with mental health
 problems; and (c) changing attitudes among mental health practitioners
 to risk and safety and perceived treatability have led to more
@@ -507,37 +499,35 @@ In-patient care
 The rise in detentions has coincided with a dramatic reduction in NHS
 psychiatric beds in England (`Table 1 <#tab01>`__). Plausible mechanisms
 have been proposed for why reduced bed availability may lead to more
-detentions.\ :sup:`(n.d.am)` Offer of in-patient admission may be
-delayed until illness becomes more acute. Relapse and re-detention may
-be more likely if patients are discharged prematurely because of bed
-pressures. Patients may not accept voluntary admission if the only
-available beds are far from home or because levels of disturbance in
-in-patient wards have increased, as only the most severely unwell,
-mainly non-consenting patients are admitted. Some psychiatrists report a
-perceived need to (unlawfully) detain patients who could have been
-voluntarily admitted, in order to secure prompt access to a
-bed.\ :sup:`(n.d.an)` P.K. and colleagues\ :sup:`(n.d.am)` found that
-the association between bed reductions and detention rates at local
-level in England was strongest with a 1-year time lag, i.e. increases in
-detentions follow bed cuts. This suggests a possible causal
-relationship.
+detentions.\ :sup:`39` Offer of in-patient admission may be delayed
+until illness becomes more acute. Relapse and re-detention may be more
+likely if patients are discharged prematurely because of bed pressures.
+Patients may not accept voluntary admission if the only available beds
+are far from home or because levels of disturbance in in-patient wards
+have increased, as only the most severely unwell, mainly non-consenting
+patients are admitted. Some psychiatrists report a perceived need to
+(unlawfully) detain patients who could have been voluntarily admitted,
+in order to secure prompt access to a bed.\ :sup:`40` P.K. and
+colleagues\ :sup:`39` found that the association between bed reductions
+and detention rates at local level in England was strongest with a
+1-year time lag, i.e. increases in detentions follow bed cuts. This
+suggests a possible causal relationship.
 
 However, the same study found that a moderate correlation remained
 between NHS bed reductions and rises in detentions, both
 contemporaneously and with a time lag in the other direction, i.e. bed
-reductions following rises in detentions,\ :sup:`(n.d.am)` which less
-clearly indicates that bed reductions cause detentions. Increasing use
-of private beds (`Table 1 <#tab01>`__) and increasing access to
-community crisis alternatives\ :sup:`(n.d.ao)` may mitigate some
-pressures caused by NHS bed reductions. A recent systematic review found
-no studies that had demonstrated a relationship between detention rates
-and bed occupancy rates, another indicator of pressures on available
-beds.\ :sup:`(n.d.af)` An even more recent study has reported no
-significant association between in-patient bed numbers and detention
-rates in a multivariate model, for the period from 1999 to
-2016.\ :sup:`(n.d.ap)` Internationally, greater in-patient bed
-availability is associated with higher, not lower, rates of compulsory
-admissions.\ :sup:`(n.d.a)`
+reductions following rises in detentions,\ :sup:`39` which less clearly
+indicates that bed reductions cause detentions. Increasing use of
+private beds (`Table 1 <#tab01>`__) and increasing access to community
+crisis alternatives\ :sup:`41` may mitigate some pressures caused by NHS
+bed reductions. A recent systematic review found no studies that had
+demonstrated a relationship between detention rates and bed occupancy
+rates, another indicator of pressures on available beds.\ :sup:`32` An
+even more recent study has reported no significant association between
+in-patient bed numbers and detention rates in a multivariate model, for
+the period from 1999 to 2016.\ :sup:`42` Internationally, greater
+in-patient bed availability is associated with higher, not lower, rates
+of compulsory admissions.\ :sup:`1`
 
 .. _sec2-4-2:
 
@@ -546,14 +536,14 @@ Community crisis care
 
 Specialist community crisis care has proliferated in England following
 the national mandate in 2000 to introduce crisis resolution teams in the
-NHS Plan,\ :sup:`(n.d.aq)` and the accessibility of community crisis
-care may have increased further since 2011.\ :sup:`(n.d.ao)` However, no
-community crisis service models have been shown to reduce compulsory
-admissions.\ :sup:`(n.d.ar)` Improvements in service quality in crisis
+NHS Plan,\ :sup:`43` and the accessibility of community crisis care may
+have increased further since 2011.\ :sup:`41` However, no community
+crisis service models have been shown to reduce compulsory
+admissions.\ :sup:`44` Improvements in service quality in crisis
 resolution teams had no impact on rates of compulsory admissions in a
-recent English trial.\ :sup:`(n.d.as)` Hypotheses that reduced
-availability or quality of community crisis services has contributed to
-rising detention rates are not supported by available evidence.
+recent English trial.\ :sup:`45` Hypotheses that reduced availability or
+quality of community crisis services has contributed to rising detention
+rates are not supported by available evidence.
 
 .. _sec2-4-3:
 
@@ -574,19 +564,19 @@ some service settings, for example community mental health teams (`Table
 The extent and quality of community mental health service provision may
 relate to rates of detentions, although the relationship is complex.
 Interventions delivered in longer-term community care are best supported
-by current evidence as promising means to reduce
-detentions.\ :sup:`(n.d.ar)` Weich and colleagues\ :sup:`(n.d.ai)` found
-that higher spending on community mental health teams in England was
-associated with lower local detention rates, but that health service
-areas with community teams assessed as lower quality than others also
-had lower rates of detention. As their reach increases, community mental
-health services, especially higher-quality teams, may be getting better
-at detecting the need for detention, but at the same time becoming less
-able to provide intensive support to individuals where necessary to
-prevent detentions, as their resources are spread more thinly across a
-larger patient group. Adult social care spending has fallen since
-2010–2011::sup:`(n.d.at)` this could further reduce available support to
-prevent mental health crises and subsequent detentions.
+by current evidence as promising means to reduce detentions.\ :sup:`44`
+Weich and colleagues\ :sup:`35` found that higher spending on community
+mental health teams in England was associated with lower local detention
+rates, but that health service areas with community teams assessed as
+lower quality than others also had lower rates of detention. As their
+reach increases, community mental health services, especially
+higher-quality teams, may be getting better at detecting the need for
+detention, but at the same time becoming less able to provide intensive
+support to individuals where necessary to prevent detentions, as their
+resources are spread more thinly across a larger patient group. Adult
+social care spending has fallen since 2010–2011::sup:`46` this could
+further reduce available support to prevent mental health crises and
+subsequent detentions.
 
 .. _sec2-4-4:
 
@@ -596,7 +586,7 @@ Changes in prescribing practice
 Regarding prescribing practice, reductions in use of clozapine and depot
 injections were proposed as factors that might increase patients’ risk
 of relapse and therefore of detention. However, there has been no clear
-reduction in the prescription of clozapine since 2007.\ :sup:`(n.d.au)`
+reduction in the prescription of clozapine since 2007.\ :sup:`47`
 National prescription cost data suggest that the number of items of
 depot antipsychotic medication prescribed has reduced marginally since
 2000. However, although the association between depot prescriptions and
@@ -605,7 +595,7 @@ was not statistically significant (`Table 1 <#tab01>`__). Furthermore,
 given variable dosing schedules, fewer prescriptions do not necessarily
 reflect a reduction in the number of people for whom depot medications
 are prescribed. Finally, there is some evidence that depot injections
-may not increase adherence in any case.\ :sup:`(n.d.av)`
+may not increase adherence in any case.\ :sup:`48`
 
 .. _sec2-4-5:
 
@@ -613,17 +603,16 @@ Staff attitudes to risk and safety
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Risk and safety are important considerations for mental health
-staff,\ :sup:`(n.d.aw)` and clinicians’ attitudes and responses to risk
-are highly variable and subjective.\ :sup:`(n.d.ax),(n.d.ay)` Perceived
-risk has consistently been identified as the strongest predictor of
-outcome of assessments for involuntary admission in English
-studies.\ :sup:`(n.d.az)–(n.d.ba)` The amendments to the MHA in 2007
-extended the reach of coercion in response to perceived risk by
-broadening legal definitions of mental disorder and treatability, and
-introducing community coercion through community treatment orders, and
-has been characterised as reflecting a more general societal
-preoccupation with risk minimisation.\ :sup:`(n.d.bb)` Szmukler &
-Rose\ :sup:`(n.d.aw)` identify an increasing salience for risk
+staff,\ :sup:`49` and clinicians’ attitudes and responses to risk are
+highly variable and subjective.\ :sup:`50,51` Perceived risk has
+consistently been identified as the strongest predictor of outcome of
+assessments for involuntary admission in English studies.\ :sup:`52–54`
+The amendments to the MHA in 2007 extended the reach of coercion in
+response to perceived risk by broadening legal definitions of mental
+disorder and treatability, and introducing community coercion through
+community treatment orders, and has been characterised as reflecting a
+more general societal preoccupation with risk minimisation.\ :sup:`55`
+Szmukler & Rose\ :sup:`49` identify an increasing salience for risk
 assessment in mental healthcare internationally. It is plausible that
 increasing focus by mental health staff on risk and safety may have
 contributed to the rise in detentions since 1983. The increase in
@@ -644,8 +633,8 @@ at MHA assessments may affect the outcome of assessment and thus
 detention rates. One small study suggests that presence of a community
 professional, such as the patient's care coordinator, may reduce the
 risk of a formal assessment for compulsory admission resulting in
-detention.\ :sup:`(n.d.ba)` However, we lack information about the
-extent of any changes over time in the involvement in MHA assessments of
+detention.\ :sup:`54` However, we lack information about the extent of
+any changes over time in the involvement in MHA assessments of
 practitioners, including general practitioners, who know the patient
 being assessed.
 
@@ -683,18 +672,17 @@ admitted voluntarily.
 
 Available research suggests that, prior to the introduction of DoLS, as
 many as 20% of in-patients were non-objecting and voluntarily admitted,
-but lacked capacity to consent to admission.\ :sup:`(n.d.bc)` In
-2017–2018, however, fewer than 4000 DoLS applications were completed for
-patients in psychiatric hospitals,\ :sup:`(n.d.bd)` i.e. only about 4%
-of roughly 100 000 admissions per year in total.\ :sup:`(n.d.be)` The
-uncertainty in extrapolating from one small research study's findings is
-acknowledged, and we do not know whether, in practice, some
-non-objecting patients who lack decision-making capacity may still be
-(unlawfully) admitted to hospital voluntarily. However, if detention
-under the MHA is always now used to admit the remaining non-objecting
-patients who lack capacity but are not subject to DOLS, this could
-explain a substantial proportion of the rise in detentions in the past
-decade.
+but lacked capacity to consent to admission.\ :sup:`56` In 2017–2018,
+however, fewer than 4000 DoLS applications were completed for patients
+in psychiatric hospitals,\ :sup:`57` i.e. only about 4% of roughly
+100 000 admissions per year in total.\ :sup:`58` The uncertainty in
+extrapolating from one small research study's findings is acknowledged,
+and we do not know whether, in practice, some non-objecting patients who
+lack decision-making capacity may still be (unlawfully) admitted to
+hospital voluntarily. However, if detention under the MHA is always now
+used to admit the remaining non-objecting patients who lack capacity but
+are not subject to DOLS, this could explain a substantial proportion of
+the rise in detentions in the past decade.
 
 .. _sec2-5-2:
 
@@ -709,10 +697,10 @@ relapse by facilitating earlier, premature hospital discharge following
 the index admission leading to the CTO. The use of CTOs in England
 increased year on year from 2008 to 2016, with the numbers of people
 readmitted to hospital from a CTO rising correspondingly (`Table
-1 <#tab01>`__). However, a recent systematic review\ :sup:`(n.d.bf)`
-provides clear evidence that internationally and in England, compulsory
-community treatment has no effect on raising or reducing readmission
-rates. This hypothesis is therefore not supported by available evidence.
+1 <#tab01>`__). However, a recent systematic review\ :sup:`59` provides
+clear evidence that internationally and in England, compulsory community
+treatment has no effect on raising or reducing readmission rates. This
+hypothesis is therefore not supported by available evidence.
 
 .. _sec2-5-3:
 
@@ -738,13 +726,12 @@ Data recording
 
 The Care Quality Commission proposed that more complete reporting of
 detentions by provider organisations may have led to an artefactual rise
-in recorded detentions over the study period.\ :sup:`(n.d.g)` An
-analysis of patient records from 2007 to 2016 in six London
-boroughs\ :sup:`(n.d.bg)` found substantially lower increases in
-detention rates in these boroughs than those observed nationally.
-However, the extent of missing data in the routine nationally collected
-KP90 data on detentions, and whether this has changed over time, are
-unknown.
+in recorded detentions over the study period.\ :sup:`7` An analysis of
+patient records from 2007 to 2016 in six London boroughs\ :sup:`60`
+found substantially lower increases in detention rates in these boroughs
+than those observed nationally. However, the extent of missing data in
+the routine nationally collected KP90 data on detentions, and whether
+this has changed over time, are unknown.
 
 ‘Double-counting’ in official statistics may contribute to a rise in the
 recorded rate of detentions. Detention episodes within one provider
@@ -755,15 +742,15 @@ section 2 detention for assessment to section 3 detention for
 treatment). However, recorded detentions in the KP90 data are inflated
 by double-counting of transfers in care, where a patient is moved during
 detention from one hospital to another run by a different provider
-organisation.\ :sup:`(n.d.aj)` This may account for between 12 and 20%
-of all detentions recorded in the data, and accounts for the big drop in
+organisation.\ :sup:`36` This may account for between 12 and 20% of all
+detentions recorded in the data, and accounts for the big drop in
 English national detention records in 2017, when a new reporting system
-was adopted.\ :sup:`(n.d.ah)` The increase in the use of private
-hospitals during the study period is associated with the rise in
-detentions (`Table 1 <#tab01>`__) and suggests that transfers of care
-during detentions might have increased, leading to more double-counting
-and an artefactual rise in reported detentions. However, the extent of
-any such rise over time is unknown.
+was adopted.\ :sup:`34` The increase in the use of private hospitals
+during the study period is associated with the rise in detentions
+(`Table 1 <#tab01>`__) and suggests that transfers of care during
+detentions might have increased, leading to more double-counting and an
+artefactual rise in reported detentions. However, the extent of any such
+rise over time is unknown.
 
 .. _sec2-7:
 
@@ -900,35 +887,34 @@ hypotheses, additional available research was insufficient to
 confidently infer or reject causality or establish mechanisms. For
 example, it is unclear why men and people from BAME ethnic groups are
 detained more often, and many proposed explanations lack empirical
-support.\ :sup:`(n.d.bh)` Seventh, for many of the explanatory variables
-that we examined, data regarding changes over time were only available
-at whole-population level, not specifically for those people who are
+support.\ :sup:`61` Seventh, for many of the explanatory variables that
+we examined, data regarding changes over time were only available at
+whole-population level, not specifically for those people who are
 detained, or vulnerable to detention, thus creating risks of ecological
 fallacies. This may have particularly limited our exploration of the
 impact of social and economic factors on detention rates. For instance,
 falls in overall poverty levels in England have not been experienced
-equally among all demographic groups,\ :sup:`(n.d.bi)` while the measure
-of income inequality used in our analyses (the Gini coefficient) has
-been criticised as being insufficiently sensitive to
-change.\ :sup:`(n.d.bj)` We have been unable to locate evidence
-specifically for people with mental health problems regarding change
-over time in levels of unemployment, work precarity, disposable income,
-benefits sanctions, living alone or similar variables, with which to
-interrogate our hypotheses in more depth. Eighth, we used a single
-source of data for each population-level indicator used as potential
-explanatory variables, to allow comparisons of change over time.
-However, for some indicators, there were changes during the study period
-in data-reporting methods or acknowledged concerns about data quality,
-which may limit the validity of comparisons over time. Where identified,
-these are reported for each variable in supplementary Appendix 1. Ninth,
-for mental health service provision, staffing and funding, we have
-relied on available national data for mental health services in general.
-Specific changes or pressures for children's or older adults’ services
-may be obscured. Last, we have mainly looked at the relationship between
-proposed explanatory factors and detention rates individually. We were
-limited in how far we could explore interrelationships between
-explanatory factors and cumulative effects of exposure to several
-factors.
+equally among all demographic groups,\ :sup:`62` while the measure of
+income inequality used in our analyses (the Gini coefficient) has been
+criticised as being insufficiently sensitive to change.\ :sup:`63` We
+have been unable to locate evidence specifically for people with mental
+health problems regarding change over time in levels of unemployment,
+work precarity, disposable income, benefits sanctions, living alone or
+similar variables, with which to interrogate our hypotheses in more
+depth. Eighth, we used a single source of data for each population-level
+indicator used as potential explanatory variables, to allow comparisons
+of change over time. However, for some indicators, there were changes
+during the study period in data-reporting methods or acknowledged
+concerns about data quality, which may limit the validity of comparisons
+over time. Where identified, these are reported for each variable in
+supplementary Appendix 1. Ninth, for mental health service provision,
+staffing and funding, we have relied on available national data for
+mental health services in general. Specific changes or pressures for
+children's or older adults’ services may be obscured. Last, we have
+mainly looked at the relationship between proposed explanatory factors
+and detention rates individually. We were limited in how far we could
+explore interrelationships between explanatory factors and cumulative
+effects of exposure to several factors.
 
 For these reasons, our proposed explanatory logic model has limited
 empirical support. It does not offer certainty, but does illustrate
@@ -949,12 +935,12 @@ Digital, which allowed us to compare rates of detention over time, could
 not yield answers to basic questions regarding in which clinical or
 demographic groups the rise was occurring. Better routine data are
 required. The change by NHS Digital in 2016–2017 to collecting complete
-data about detentions at individual patient level\ :sup:`(n.d.z)` may
-address this need to some extent over time. The development of local NHS
-systems that allow researchers to access detailed, anonymised records
-for all patients using local secondary mental health
-services\ :sup:`(n.d.bk)` also enables more sophisticated understanding
-of risk factors for detention and changes over time.
+data about detentions at individual patient level\ :sup:`26` may address
+this need to some extent over time. The development of local NHS systems
+that allow researchers to access detailed, anonymised records for all
+patients using local secondary mental health services\ :sup:`64` also
+enables more sophisticated understanding of risk factors for detention
+and changes over time.
 
 Our study highlights numerous areas where further research is needed
 regarding the relationship of potential explanatory factors to rates of
@@ -962,48 +948,47 @@ detention, especially for social and economic factors, and attitudes to
 risk and safety.
 
 Public health research indicates that increasing psychiatric morbidity
-in England may be a result of increasing social
-deprivation,\ :sup:`(n.d.bl)` and that specific social and
-administrative measures may also influence mental health outcomes: for
-instance, increases in ‘fitness for work’ tests being associated with
-more suicides.\ :sup:`(n.d.bm)` We need a clearer and more nuanced
-understanding of the extent of exposure to social and economic stressors
-among people with mental health problems, how this may change over time
-and how, if at all, it relates to changes in rates of detention.
+in England may be a result of increasing social deprivation,\ :sup:`65`
+and that specific social and administrative measures may also influence
+mental health outcomes: for instance, increases in ‘fitness for work’
+tests being associated with more suicides.\ :sup:`66` We need a clearer
+and more nuanced understanding of the extent of exposure to social and
+economic stressors among people with mental health problems, how this
+may change over time and how, if at all, it relates to changes in rates
+of detention.
 
 Practitioners’ attitudes to risk and safety are variable and highly
-important regarding decisions to detain,\ :sup:`(n.d.av)–(n.d.ay)` but
-changes over time in clinical culture and practice are not easily
-evaluated empirically. More qualitative research to understand the
-nature and extent of practitioners’ biases and group-level stigma has
-been called for, to aid understanding of the rise in detentions and the
+important regarding decisions to detain,\ :sup:`48–51` but changes over
+time in clinical culture and practice are not easily evaluated
+empirically. More qualitative research to understand the nature and
+extent of practitioners’ biases and group-level stigma has been called
+for, to aid understanding of the rise in detentions and the
 disproportionately high rates of detention for people from BAME
-groups.\ :sup:`(n.d.bh)` A better understanding of what drives
-clinicians’ decision-making regarding detention is desirable, as is
-development and evaluation of interventions to improve the quality of
-risk assessment and encourage appropriate positive risk-taking.
+groups.\ :sup:`61` A better understanding of what drives clinicians’
+decision-making regarding detention is desirable, as is development and
+evaluation of interventions to improve the quality of risk assessment
+and encourage appropriate positive risk-taking.
 
 In this context, three elements of the legal processes for detention are
 priorities for further research. First, there is a need to understand
 the causes and consequences of the specific rise in the use of section 2
 of the MHA for assessment, rather than section 3 for treatment. Although
 this may simply be an appropriate response to more new people requiring
-detention,\ :sup:`(n.d.bg)` the MHA Review expressed concerns that
-section 2 is being ‘overused’,\ :sup:`(n.d.f)` either through a growing
-perception that it is less restrictive than a detention for treatment,
-or because it can be easier to complete, as does not require a place of
-treatment to be identified. Exploration of patient-level data is
-desirable regarding circumstances and rates of conversion from
-assessment and treatment sections, and their relationship to subsequent
-readmission rates. Second, research is required to understand
-clinicians’ decision-making processes in using MHA or MCA DoLS processes
-to detain patients who are not objecting to admission but lack
-decision-making capacity, and how this choice affects patients’
-experiences and outcomes. Third, research is needed to understand the
-circumstances in which patients are discharged from detention following
-appeal to a tribunal. This may help identify uses of detention that were
-unwarranted or avoidable, and how these may contribute to the rising
-detention rate.
+detention,\ :sup:`60` the MHA Review expressed concerns that section 2
+is being ‘overused’,\ :sup:`6` either through a growing perception that
+it is less restrictive than a detention for treatment, or because it can
+be easier to complete, as does not require a place of treatment to be
+identified. Exploration of patient-level data is desirable regarding
+circumstances and rates of conversion from assessment and treatment
+sections, and their relationship to subsequent readmission rates.
+Second, research is required to understand clinicians’ decision-making
+processes in using MHA or MCA DoLS processes to detain patients who are
+not objecting to admission but lack decision-making capacity, and how
+this choice affects patients’ experiences and outcomes. Third, research
+is needed to understand the circumstances in which patients are
+discharged from detention following appeal to a tribunal. This may help
+identify uses of detention that were unwarranted or avoidable, and how
+these may contribute to the rising detention rate.
 
 .. _sec3-4:
 
@@ -1274,334 +1259,6 @@ increasing bed pressures lead to an increase in transfers between
 hospitals for patients during a detention (out-of-area NHS placements
 and use of private hospitals), leading to increased double-counting of
 detentions in KP90 data.
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-ref1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-ref2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-ref3
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-ref4
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-ref5
-
-      n.d.e.
-
-   .. container:: csl-entry
-      :name: ref-ref6
-
-      n.d.f.
-
-   .. container:: csl-entry
-      :name: ref-ref7
-
-      n.d.g.
-
-   .. container:: csl-entry
-      :name: ref-ref8
-
-      n.d.h.
-
-   .. container:: csl-entry
-      :name: ref-ref9
-
-      n.d.i.
-
-   .. container:: csl-entry
-      :name: ref-ref10
-
-      n.d.j.
-
-   .. container:: csl-entry
-      :name: ref-ref11
-
-      n.d.k.
-
-   .. container:: csl-entry
-      :name: ref-ref12
-
-      n.d.l.
-
-   .. container:: csl-entry
-      :name: ref-ref13
-
-      n.d.m.
-
-   .. container:: csl-entry
-      :name: ref-ref14
-
-      n.d.n.
-
-   .. container:: csl-entry
-      :name: ref-ref15
-
-      n.d.o.
-
-   .. container:: csl-entry
-      :name: ref-ref16
-
-      n.d.p.
-
-   .. container:: csl-entry
-      :name: ref-ref17
-
-      n.d.q.
-
-   .. container:: csl-entry
-      :name: ref-ref18
-
-      n.d.r.
-
-   .. container:: csl-entry
-      :name: ref-ref19
-
-      n.d.s.
-
-   .. container:: csl-entry
-      :name: ref-ref20
-
-      n.d.t.
-
-   .. container:: csl-entry
-      :name: ref-ref21
-
-      n.d.u.
-
-   .. container:: csl-entry
-      :name: ref-ref22
-
-      n.d.v.
-
-   .. container:: csl-entry
-      :name: ref-ref23
-
-      n.d.w.
-
-   .. container:: csl-entry
-      :name: ref-ref24
-
-      n.d.x.
-
-   .. container:: csl-entry
-      :name: ref-ref25
-
-      n.d.y.
-
-   .. container:: csl-entry
-      :name: ref-ref26
-
-      n.d.z.
-
-   .. container:: csl-entry
-      :name: ref-ref27
-
-      n.d.aa.
-
-   .. container:: csl-entry
-      :name: ref-ref28
-
-      n.d.ab.
-
-   .. container:: csl-entry
-      :name: ref-ref29
-
-      n.d.ac.
-
-   .. container:: csl-entry
-      :name: ref-ref30
-
-      n.d.ad.
-
-   .. container:: csl-entry
-      :name: ref-ref31
-
-      n.d.ae.
-
-   .. container:: csl-entry
-      :name: ref-ref32
-
-      n.d.af.
-
-   .. container:: csl-entry
-      :name: ref-ref33
-
-      n.d.ag.
-
-   .. container:: csl-entry
-      :name: ref-ref34
-
-      n.d.ah.
-
-   .. container:: csl-entry
-      :name: ref-ref35
-
-      n.d.ai.
-
-   .. container:: csl-entry
-      :name: ref-ref36
-
-      n.d.aj.
-
-   .. container:: csl-entry
-      :name: ref-ref37
-
-      n.d.ak.
-
-   .. container:: csl-entry
-      :name: ref-ref38
-
-      n.d.al.
-
-   .. container:: csl-entry
-      :name: ref-ref39
-
-      n.d.am.
-
-   .. container:: csl-entry
-      :name: ref-ref40
-
-      n.d.an.
-
-   .. container:: csl-entry
-      :name: ref-ref41
-
-      n.d.ao.
-
-   .. container:: csl-entry
-      :name: ref-ref42
-
-      n.d.ap.
-
-   .. container:: csl-entry
-      :name: ref-ref43
-
-      n.d.aq.
-
-   .. container:: csl-entry
-      :name: ref-ref44
-
-      n.d.ar.
-
-   .. container:: csl-entry
-      :name: ref-ref45
-
-      n.d.as.
-
-   .. container:: csl-entry
-      :name: ref-ref46
-
-      n.d.at.
-
-   .. container:: csl-entry
-      :name: ref-ref47
-
-      n.d.au.
-
-   .. container:: csl-entry
-      :name: ref-ref48
-
-      n.d.av.
-
-   .. container:: csl-entry
-      :name: ref-ref49
-
-      n.d.aw.
-
-   .. container:: csl-entry
-      :name: ref-ref50
-
-      n.d.ax.
-
-   .. container:: csl-entry
-      :name: ref-ref51
-
-      n.d.ay.
-
-   .. container:: csl-entry
-      :name: ref-ref52
-
-      n.d.az.
-
-   .. container:: csl-entry
-      :name: ref-ref54
-
-      n.d.ba.
-
-   .. container:: csl-entry
-      :name: ref-ref55
-
-      n.d.bb.
-
-   .. container:: csl-entry
-      :name: ref-ref56
-
-      n.d.bc.
-
-   .. container:: csl-entry
-      :name: ref-ref57
-
-      n.d.bd.
-
-   .. container:: csl-entry
-      :name: ref-ref58
-
-      n.d.be.
-
-   .. container:: csl-entry
-      :name: ref-ref59
-
-      n.d.bf.
-
-   .. container:: csl-entry
-      :name: ref-ref60
-
-      n.d.bg.
-
-   .. container:: csl-entry
-      :name: ref-ref61
-
-      n.d.bh.
-
-   .. container:: csl-entry
-      :name: ref-ref62
-
-      n.d.bi.
-
-   .. container:: csl-entry
-      :name: ref-ref63
-
-      n.d.bj.
-
-   .. container:: csl-entry
-      :name: ref-ref64
-
-      n.d.bk.
-
-   .. container:: csl-entry
-      :name: ref-ref65
-
-      n.d.bl.
-
-   .. container:: csl-entry
-      :name: ref-ref66
-
-      n.d.bm.
 
 .. [1]
    OECD, Organisation for Economic Co-operation and Development; ONS,

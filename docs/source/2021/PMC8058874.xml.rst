@@ -2,6 +2,8 @@
 Healthcare poverty-inequality and government quick fixes
 ========================================================
 
+
+
 Claire Hilton
 :Date: 2021-02
 
@@ -10,24 +12,24 @@ Claire Hilton
    :depth: 3
 ..
 
-I welcome the editorial by Peter Byrne and Adrian James\ :sup:`(n.d.a)`
-on poverty-inequality, and their note about lessons from history.
-Reports indicating the damage to health caused by poverty-inequality in
-Britain go back at least as far as Benjamin Seebohm Rowntree's study of
-York around 1900, Julian Tudor Hart's ‘inverse care law’ in 1971, and
-the government-commissioned and suppressed Black Report of
-1980.\ :sup:`(n.d.b)` The narrative of governments abandoning some of
-the most deprived and vulnerable people in society is ongoing.
+I welcome the editorial by Peter Byrne and Adrian James\ :sup:`1` on
+poverty-inequality, and their note about lessons from history. Reports
+indicating the damage to health caused by poverty-inequality in Britain
+go back at least as far as Benjamin Seebohm Rowntree's study of York
+around 1900, Julian Tudor Hart's ‘inverse care law’ in 1971, and the
+government-commissioned and suppressed Black Report of 1980.\ :sup:`2`
+The narrative of governments abandoning some of the most deprived and
+vulnerable people in society is ongoing.
 
 As Byrne and James point out, people with severe mental illness today
 have an additional layer of disadvantage, a ‘lower status conferred on
 them’, a state of ‘subcitizenship’, due to stigma and marginalisation,
 associated with societal and government disinclination to resource care
 for them. This too is long term. In 1908, psychiatrist William
-Stoddart\ :sup:`(n.d.c)` accused the asylum leadership (which had
-statutory responsibility for the care of mentally unwell people) of
-having ‘excessively economical tendencies’, neglecting their patients,
-the subcitizens of their time. This neglect was associated with adverse
+Stoddart\ :sup:`3` accused the asylum leadership (which had statutory
+responsibility for the care of mentally unwell people) of having
+‘excessively economical tendencies’, neglecting their patients, the
+subcitizens of their time. This neglect was associated with adverse
 outcomes, such as excess morbidity and mortality from physical illness:
 in asylums, the death rate from tuberculosis, a poverty-related
 potentially preventable disease, was ten times higher than in the
@@ -47,30 +49,7 @@ fix was the advice at the beginning of the COVID-19 pandemic for
 everyone to take vitamin D, based on the finding of high mortality from
 COVID-19 in Black and minority ethnic groups, who are particularly
 likely to have low levels. If vitamin D has any effect, it appears to be
-non-specific.\ :sup:`(n.d.d)` In other words, the quick-and-cheap fix
-did not work. Rather, COVID-19 deaths, as Byrne and James remind us, are
+non-specific.\ :sup:`4` In other words, the quick-and-cheap fix did not
+work. Rather, COVID-19 deaths, as Byrne and James remind us, are
 associated with social deprivation, which may also be associated with
 low vitamin D. Vitamin D won't fix the real problems.
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-ref1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-ref2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-ref3
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-ref4
-
-      n.d.d.

@@ -2,6 +2,8 @@
 Are UK care homes ready for the telemedicine revolution?
 ========================================================
 
+
+
 Meta McGee
 Claire Potter
 Joseph Kane
@@ -14,17 +16,17 @@ Joseph Kane
 
 The restrictions implemented by coronavirus disease 2019 (COVID-19) have
 reawakened discussion surrounding the use of telemedicine in routine
-clinical practice.\ :sup:`(n.d.a)` Nursing home residents have emerged
-as a particularly vulnerable group, not only with respect to the virus
-itself, but to the effects of social distancing\ :sup:`(n.d.b)` and
-disruption to the services in place to support them. In working to stop
-the spread of COVID-19 within their facilities, many homes have found it
-difficult to sustain the non-pharmacological mainstays of management of
-delirium and behavioural and psychological symptoms of
-dementia.\ :sup:`(n.d.b)` Telemedicine, a proposed solution to these
-difficulties, has been demonstrated to be both valid and acceptable to
-patients with dementia and care home staff\ :sup:`(n.d.c)` but it does
-not appear to be part of routine practice in the UK.\ :sup:`(n.d.d)`
+clinical practice.\ :sup:`1` Nursing home residents have emerged as a
+particularly vulnerable group, not only with respect to the virus
+itself, but to the effects of social distancing\ :sup:`2` and disruption
+to the services in place to support them. In working to stop the spread
+of COVID-19 within their facilities, many homes have found it difficult
+to sustain the non-pharmacological mainstays of management of delirium
+and behavioural and psychological symptoms of dementia.\ :sup:`2`
+Telemedicine, a proposed solution to these difficulties, has been
+demonstrated to be both valid and acceptable to patients with dementia
+and care home staff\ :sup:`3` but it does not appear to be part of
+routine practice in the UK.\ :sup:`4`
 
 We therefore aimed to determine nursing homes’ capacity and enthusiasm
 for telepsychiatry assessments. Over a 2-week period in June 2020, we
@@ -56,7 +58,7 @@ related to factors within mental health services, such as our access to
 appropriate equipment, than those within nursing homes. A survey of
 American psychiatrists working in nursing homes reported widespread
 support for telemedicine, but only 13% felt they had access to
-appropriate equipment.\ :sup:`(n.d.e)` It would appear, however, that
+appropriate equipment.\ :sup:`5` It would appear, however, that
 obstacles to telemedicine go beyond hardware; in spite of most
 respondents’ access to equipment, we observed considerable variation in
 their perceived capacity to engage with remote consultations, perhaps
@@ -71,31 +73,3 @@ Declaration of interest
 =======================
 
 none.
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-ref1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-ref2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-ref3
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-ref4
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-ref5
-
-      n.d.e.

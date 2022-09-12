@@ -2,6 +2,8 @@
 Review and update of the Health of the Nation Outcome Scales for Elderly People (HoNOS65+)
 ==========================================================================================
 
+
+
 Mick James
 Bill Buckingham
 Gary Cheung
@@ -51,33 +53,31 @@ Malcom W. StewartCorrespondence to Mick James via
 ..
 
 The Health of the Nation Outcome Scales (HoNOS) was originally developed
-for use with working-age adults.(n.d.a) Subsequent testing found that,
-in general, the scales also performed well with older people, but that
-some adaptations (especially relating to ratings of physical health and
-cognitive impairment) would be beneficial.(n.d.b) This resulted in the
-development of the HoNOS65+,(n.d.c) which was validated against other
+for use with working-age adults.1 Subsequent testing found that, in
+general, the scales also performed well with older people, but that some
+adaptations (especially relating to ratings of physical health and
+cognitive impairment) would be beneficial.2 This resulted in the
+development of the HoNOS65+,3 which was validated against other
 established mental health measures used with older people and shown to
-have good interrater reliability.(n.d.c) As well as this standardised
-version, a further version was developed with a tabulated
-glossary.(n.d.d)
+have good interrater reliability.3 As well as this standardised version,
+a further version was developed with a tabulated glossary.4
 
 Like the HoNOS, the HoNOS65+ was intended to: •be short and simple for
 routine use and acceptable to a range of mental health
 professionals;•have adequate coverage of clinical and social
 functions;•be sensitive to change over time;•have demonstrable and
 acceptable reliability;•have known relationships with more established
-scales.(n.d.e)
+scales.5
 
 Since its development over 20 years ago, the HoNOS65+ has been
 translated into several other languages, including Spanish, Dutch,
 French, Greek and Italian, and is now routinely used in clinical
-practice and research around the world.(n.d.f) Australia and New Zealand
-have mandated use of the original format of the HoNOS65+ scales for
-routine monitoring and outcome measurement across their mental health
-services,(n.d.g)\ :sup:`,`\ (n.d.h) while across England both the
-original version and the more recently developed tabulated version are
-used to provide these nationally required
-data.(n.d.c)\ :sup:`,`\ (n.d.d)\ :sup:`,`\ (n.d.i)
+practice and research around the world.6 Australia and New Zealand have
+mandated use of the original format of the HoNOS65+ scales for routine
+monitoring and outcome measurement across their mental health
+services,7\ :sup:`,`\ 8 while across England both the original version
+and the more recently developed tabulated version are used to provide
+these nationally required data.3\ :sup:`,`\ 4\ :sup:`,`\ 9
 
 Experience of staff training and the evaluation of aggregated data-sets
 over this period, together with considerable advances in mental
@@ -98,21 +98,21 @@ Method
 ======
 
 In recognition of their nationally mandated use of
-HoNOS65+,(n.d.g)\ :sup:`–`\ (n.d.i) and to ensure that each country's
-interests were considered, an advisory board (chaired by the RCPsych's
-National HoNOS Advisor) was convened with representatives from England,
-Australia and New Zealand. Each government nominated individuals with
-extensive experience in any of the following: HoNOS65+ staff training;
-using HoNOS65+ in practice; using aggregated HoNOS65+ data; or service-,
+HoNOS65+,7\ :sup:`–`\ 9 and to ensure that each country's interests were
+considered, an advisory board (chaired by the RCPsych's National HoNOS
+Advisor) was convened with representatives from England, Australia and
+New Zealand. Each government nominated individuals with extensive
+experience in any of the following: HoNOS65+ staff training; using
+HoNOS65+ in practice; using aggregated HoNOS65+ data; or service-,
 professional- or governmental-level oversight. In addition to their own
 views, board members canvased widely for clinicians' opinions regarding
 which aspects of the HoNOS65+ required refinement.
 
 To ensure consistency with the concurrent HoNOS review, the same
-criteria were used to judge suggestions.(n.d.j) These criteria were that
-for a change to be supported, it needed to result in a tangible
-improvement (e.g. simplification/clarification/removal of anachronisms)
-and: •maintain the original instrument's integrity as far as
+criteria were used to judge suggestions.10 These criteria were that for
+a change to be supported, it needed to result in a tangible improvement
+(e.g. simplification/clarification/removal of anachronisms) and:
+•maintain the original instrument's integrity as far as
 possible;•maximise comparability with existing individual and aggregated
 data;•support the use of HoNOS Older Adults as a summary of clinical
 assessment(s);•adhere to the HoNOS65+ ‘core rules’ i.e. ○each item is a
@@ -128,13 +128,13 @@ In addition to these original HoNOS terms of reference, the board was
 keen to take this opportunity to consider whether there were
 opportunities to optimise alignment between the newly updated adult and
 older people's versions. The rationale for this was threefold. First,
-some of the HoNOS updates had come from the original HoNOS65+.(n.d.j)
-Second, anecdotal reports suggested that some electronic patient record
-systems were unable to differentiate between the two versions and/or
-make both glossaries available to clinicians. Third, since the
-development of the HoNOS65+, the somewhat arbitrary age cut-off of 65
-has become less justified given the increasing variation in functional
-impairment with age across different populations.(n.d.k)
+some of the HoNOS updates had come from the original HoNOS65+.10 Second,
+anecdotal reports suggested that some electronic patient record systems
+were unable to differentiate between the two versions and/or make both
+glossaries available to clinicians. Third, since the development of the
+HoNOS65+, the somewhat arbitrary age cut-off of 65 has become less
+justified given the increasing variation in functional impairment with
+age across different populations.11
 
 Using the collated feedback and the ensuing board discussions, a summary
 paper was produced by a board member with extensive experience in old
@@ -180,7 +180,7 @@ Discussion
 ==========
 
 This publication follows the review of the original (working age)
-HoNOS.(n.d.j) However, in reality, each review was informed by the other
+HoNOS.10 However, in reality, each review was informed by the other
 prior to each version of the tool being finalised. As a result, issues
 specific to older people will be discussed in full below, whereas those
 common to both tools (and hence previously discussed) will be summarised
@@ -247,7 +247,7 @@ Scale 3: problem drinking or drug-taking
 There was agreement that the issues with this scale were the same
 regardless of age, i.e. that the new scale should: •include descriptors
 of craving, dependency and behaviour that align with contemporary
-ratings of severity(n.d.l) and which accommodate rating individuals
+ratings of severity12 and which accommodate rating individuals
 undergoing short-term, enforced abstinence;•omit the subjective concept
 of ‘social norms’;•exclude tobacco use unless it has led to problems
 over and above the detrimental effects traditionally associated with a
@@ -409,27 +409,26 @@ Other issues
 
 The advisory board was aware that since the publication of the HoNOS65+
 there have been shifts in the well-being of older people, with frailty
-and disability tending to occur later in life.(n.d.k) With this has also
-come a shift in the focus of some services for this population. As a
-result, the existing title, with its focus on the over-65s, was felt to
-be unhelpful and slightly anachronistic. Increasing the age limit (e.g.
-to HoNOS 70+) may be more reflective of the group of individuals for
-whom the tool would be most appropriate in some countries, but still
-somewhat arbitrary. As a result, it was agreed to rename the scales
-HoNOS Older Adults, as this would allow clinicians and services to
-exercise their judgement about when it was appropriate to use each new
-version of the tool. This could allow the measures to be aligned with
-variations in the cut-off age for service organisations and practice in
-different countries and over time. While this variability may have some
-effect on the comparability of data internationally, it could
-significantly simplify utilisation of the measures in individual
-countries.
+and disability tending to occur later in life.11 With this has also come
+a shift in the focus of some services for this population. As a result,
+the existing title, with its focus on the over-65s, was felt to be
+unhelpful and slightly anachronistic. Increasing the age limit (e.g. to
+HoNOS 70+) may be more reflective of the group of individuals for whom
+the tool would be most appropriate in some countries, but still somewhat
+arbitrary. As a result, it was agreed to rename the scales HoNOS Older
+Adults, as this would allow clinicians and services to exercise their
+judgement about when it was appropriate to use each new version of the
+tool. This could allow the measures to be aligned with variations in the
+cut-off age for service organisations and practice in different
+countries and over time. While this variability may have some effect on
+the comparability of data internationally, it could significantly
+simplify utilisation of the measures in individual countries.
 
-As with the review of HoNOS,(n.d.j) additional areas for development
-were identified that had merit, but these would have constituted
-substantial changes and required the development of a completely new
-instrument. These of course remain an option for future development,
-pending sector agreement, as well as government interest and funding.
+As with the review of HoNOS,10 additional areas for development were
+identified that had merit, but these would have constituted substantial
+changes and required the development of a completely new instrument.
+These of course remain an option for future development, pending sector
+agreement, as well as government interest and funding.
 
 .. _sec4:
 
@@ -498,66 +497,3 @@ Health, New South Wales Government, Australia; **Jon Painter** is Senior
 Lecturer in Mental Health at Sheffield Hallam University, UK; and
 **Malcom W. Stewart** is a Consultant Psychologist at Thrive Psychology,
 Psychology, Auckland, New Zealand.
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-ref1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-ref2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-ref3
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-ref4
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-ref5
-
-      n.d.e.
-
-   .. container:: csl-entry
-      :name: ref-ref6
-
-      n.d.f.
-
-   .. container:: csl-entry
-      :name: ref-ref7
-
-      n.d.g.
-
-   .. container:: csl-entry
-      :name: ref-ref8
-
-      n.d.h.
-
-   .. container:: csl-entry
-      :name: ref-ref9
-
-      n.d.i.
-
-   .. container:: csl-entry
-      :name: ref-ref10
-
-      n.d.j.
-
-   .. container:: csl-entry
-      :name: ref-ref11
-
-      n.d.k.
-
-   .. container:: csl-entry
-      :name: ref-ref12
-
-      n.d.l.

@@ -2,6 +2,8 @@
 Awareness and documentation of the teratogenic effects of valproate among women of child-bearing potential
 ==========================================================================================================
 
+
+
 Deirdre Mulryan
 Anna McIntyre
 Colm McDonald
@@ -52,12 +54,12 @@ Brian HallahanCorrespondence to Dr Brian Hallahan
 ..
 
 Valproate is a broad-spectrum anticonvulsant with well-established
-efficacy for the management of partial and generalised seizures,(n.d.a)
-acute (hypo)mania and prophylaxis of (hypo)manic episodes both as a
-monotherapy or in combination with other psychotropic agents.(n.d.b) In
+efficacy for the management of partial and generalised seizures,1 acute
+(hypo)mania and prophylaxis of (hypo)manic episodes both as a
+monotherapy or in combination with other psychotropic agents.2 In
 addition, valproate can be utilised for the prophylaxis of depressive
-episodes in bipolar disorder,(n.d.b) although this reported therapeutic
-effect is of lesser magnitude.(n.d.c)
+episodes in bipolar disorder,2 although this reported therapeutic effect
+is of lesser magnitude.3
 
 .. _sec6-1:
 
@@ -65,26 +67,25 @@ Risk of teratogenesis
 =====================
 
 However, valproate use in women of child-bearing potential is associated
-with a wide range of neurodevelopmental deficits,(n.d.d) with an
-approximate risk of teratogenesis of 7%(n.d.e) and 70% of teratogenesis
-malformations consisting of neural tube defects (NTDs),(n.d.f) which is
-a 20-fold increase compared with the general population.(n.d.g) NTDs
-occur when the embryonic neural tube fails to completely close during
-development, and include spina bifida and anencephaly.(n.d.h) In
-addition to NTDs, valproate use in pregnancy is also associated with an
-increased incidence of cleft lip and palate, cardiovascular
-abnormalities, genitourinary defects, endocrine disorders, cognitive
-impairment, developmental delay and autism spectrum disorders in the
-foetus.(n.d.i) A ‘foetal valproate syndrome’ has also been described and
-includes a constellation of physical traits consistently observed in
-foetuses exposed *in utero* to valproate such as a flat nasal bridge,
-epicanthal folds, small upper lids and a downward-turned
-mouth.(n.d.j)\ :sup:`,`\ (n.d.k) Potential contributory factors to the
-teratogenicity of valproate have been reported and include the number of
-co-administered medications, higher dosages of valproate, differences in
-maternal and/or foetal metabolism, gestational age of the foetus at
-exposure to valproate and hereditary
-susceptibility.(n.d.l)\ :sup:`,`\ (n.d.m)
+with a wide range of neurodevelopmental deficits,4 with an approximate
+risk of teratogenesis of 7%5 and 70% of teratogenesis malformations
+consisting of neural tube defects (NTDs),6 which is a 20-fold increase
+compared with the general population.7 NTDs occur when the embryonic
+neural tube fails to completely close during development, and include
+spina bifida and anencephaly.8 In addition to NTDs, valproate use in
+pregnancy is also associated with an increased incidence of cleft lip
+and palate, cardiovascular abnormalities, genitourinary defects,
+endocrine disorders, cognitive impairment, developmental delay and
+autism spectrum disorders in the foetus.9 A ‘foetal valproate syndrome’
+has also been described and includes a constellation of physical traits
+consistently observed in foetuses exposed *in utero* to valproate such
+as a flat nasal bridge, epicanthal folds, small upper lids and a
+downward-turned mouth.10\ :sup:`,`\ 11 Potential contributory factors to
+the teratogenicity of valproate have been reported and include the
+number of co-administered medications, higher dosages of valproate,
+differences in maternal and/or foetal metabolism, gestational age of the
+foetus at exposure to valproate and hereditary
+susceptibility.12\ :sup:`,`\ 13
 
 The teratogenic risk associated with valproate has resulted in
 significant caution with its use, with the summary of product
@@ -106,8 +107,7 @@ required in relation to the use of valproate in women of child-bearing
 potential is important. However, previous research has demonstrated low
 rates of documentation in clinical notes of advice from mental health
 staff regarding both the teratogenic risks of valproate and the
-importance of both contraception and folic acid
-use.(n.d.n)\ :sup:`–`\ (n.d.o)
+importance of both contraception and folic acid use.14\ :sup:`–`\ 17
 
 .. _sec6-3:
 
@@ -153,7 +153,7 @@ presence of acute psychosis. None of the 42 individuals identified as
 receiving treatment with valproate fulfilled these exclusion criteria.
 Clinical diagnoses were attained utilising ICD-10 diagnostic criteria
 after consultation with the relevant treating consultant psychiatrist
-and a full clinical chart review.(n.d.p)
+and a full clinical chart review.18
 
 Ethical approval was attained from the Galway University Hospitals
 Research Ethics Committee (C.A. 841) and the study was conducted in
@@ -338,14 +338,14 @@ Our findings of poor clinical documentation of specific risks of
 valproate are consistent with previous research, with rates of 16–29%
 noted for documentation of risks of teratogenesis or the provision of
 advice in relation to contraception for women of child-bearing potential
-who are prescribed valproate.(n.d.n)\ :sup:`,`\ (n.d.q) Similarly,
-documented advice in clinical notes relating to the use of folic acid
-has previously also been noted to be particularly low (4%).(n.d.q) Our
-findings in relation to patient awareness of teratogenic risks of
-valproate are also consistent with previous studies
-(17–28%);(n.d.l)\ :sup:`,`\ (n.d.o) however, awareness of the need for
-contraceptive use was lower in our patient cohort compared with a number
-of previous studies (55–67%).(n.d.r)\ :sup:`,`\ (n.d.o)
+who are prescribed valproate.14\ :sup:`,`\ 16 Similarly, documented
+advice in clinical notes relating to the use of folic acid has
+previously also been noted to be particularly low (4%).16 Our findings
+in relation to patient awareness of teratogenic risks of valproate are
+also consistent with previous studies (17–28%);12\ :sup:`,`\ 17 however,
+awareness of the need for contraceptive use was lower in our patient
+cohort compared with a number of previous studies
+(55–67%).15\ :sup:`,`\ 17
 
 It is probable that the majority of patients examined in this study were
 provided with verbal advice regarding the risks of valproate. Two-thirds
@@ -360,13 +360,13 @@ provided repeatedly and in context to patients to ensure awareness of
 these risks. This may be particularly important for this cohort of
 patients who are being treated for bipolar disorder or schizoaffective
 disorder, where impulsive behaviour including risky sexual behaviour may
-occur during a (hypo)manic episode.(n.d.n) The lack of documentation in
+occur during a (hypo)manic episode.14 The lack of documentation in
 mental health clinical notes of advice to individuals treated for
 epilepsy with valproate may be secondary to the fact that mental health
 staff had not initiated this treatment, with evidence suggesting that
 clinicians are less likely to inform patients of medications adverse
 events if they have not initiated the particular medication
-themselves.(n.d.o) However, three individuals diagnosed with epilepsy
+themselves.17 However, three individuals diagnosed with epilepsy
 described being advised of the risks of valproate by their mental health
 team, and it is probable that some participants additionally attained
 advice from other clinicians (i.e. neurologists, general practitioner)
@@ -375,7 +375,7 @@ information, and advice on appropriate resources that gives accurate
 advice in relation to the risks and benefits of valproate and
 precautions required with its use is suggested. Information recently
 produced by the National Clinical Programme for Medicine Management is
-one potential option in this regard.(n.d.s)
+one potential option in this regard.19
 
 This study highlights the low rates of documentation of contraceptive
 use or advice regarding folic acid. Consultations with mental health
@@ -383,18 +383,18 @@ staff (preconception consultations) in relation to the risks and
 benefits of continuation or discontinuation of medications, including
 for women diagnosed with bipolar disorder, have previously been
 demonstrated to influence both choices regarding conception and
-treatment.(n.d.t) This study suggests that such consultations, focusing
-on issues of conception and pharmacotherapeutic treatment, should be
+treatment.20 This study suggests that such consultations, focusing on
+issues of conception and pharmacotherapeutic treatment, should be
 considered for all women of child-bearing potential (even if not in a
 significant relationship) who are prescribed valproate. NICE
-guidelines(n.d.u) state that valproate should not be offered to women of
+guidelines21 state that valproate should not be offered to women of
 child-bearing potential for either the management of acute mood episodes
 or the long-term management of bipolar disorder, and if already
 prescribed, should gradually be discontinued because of the teratogenic
 risks of valproate. Additionally, folic acid should always be prescribed
-to women of child-bearing potential who are prescribed valproate,(n.d.v)
-with levels to be undertaken both before commencement of valproate and
-on a 6-monthly basis.
+to women of child-bearing potential who are prescribed valproate,22 with
+levels to be undertaken both before commencement of valproate and on a
+6-monthly basis.
 
 .. _sec4:
 
@@ -447,119 +447,6 @@ Senior Lecturer, School of Medicine, College of Medicine Nursing and
 Health Sciences, National University of Ireland Galway, Ireland and
 Consultant Psychiatrist, University Hospital Galway, Galway Roscommon
 Mental Health Services, Ireland
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-ref1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-ref2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-ref3
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-ref4
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-ref5
-
-      n.d.e.
-
-   .. container:: csl-entry
-      :name: ref-ref6
-
-      n.d.f.
-
-   .. container:: csl-entry
-      :name: ref-ref7
-
-      n.d.g.
-
-   .. container:: csl-entry
-      :name: ref-ref8
-
-      n.d.h.
-
-   .. container:: csl-entry
-      :name: ref-ref9
-
-      n.d.i.
-
-   .. container:: csl-entry
-      :name: ref-ref10
-
-      n.d.j.
-
-   .. container:: csl-entry
-      :name: ref-ref11
-
-      n.d.k.
-
-   .. container:: csl-entry
-      :name: ref-ref12
-
-      n.d.l.
-
-   .. container:: csl-entry
-      :name: ref-ref13
-
-      n.d.m.
-
-   .. container:: csl-entry
-      :name: ref-ref14
-
-      n.d.n.
-
-   .. container:: csl-entry
-      :name: ref-ref15
-
-      n.d.r.
-
-   .. container:: csl-entry
-      :name: ref-ref16
-
-      n.d.q.
-
-   .. container:: csl-entry
-      :name: ref-ref17
-
-      n.d.o.
-
-   .. container:: csl-entry
-      :name: ref-ref18
-
-      n.d.p.
-
-   .. container:: csl-entry
-      :name: ref-ref19
-
-      n.d.s.
-
-   .. container:: csl-entry
-      :name: ref-ref20
-
-      n.d.t.
-
-   .. container:: csl-entry
-      :name: ref-ref21
-
-      n.d.u.
-
-   .. container:: csl-entry
-      :name: ref-ref22
-
-      n.d.v.
 
 .. [1]
    In this study, undertaking a university course.

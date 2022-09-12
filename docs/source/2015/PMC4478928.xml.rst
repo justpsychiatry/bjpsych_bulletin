@@ -2,6 +2,8 @@
 Relationship between timeliness of contact and length of stay in older and younger patients of a consultation-liaison psychiatry service
 ========================================================================================================================================
 
+
+
 Rebecca Wood
 Anne P. F. Wand
 Glenn E. HuntCorrespondence to Rebecca Wood (rebecca.wood@sydney.edu.au)
@@ -37,27 +39,26 @@ Glenn E. HuntCorrespondence to Rebecca Wood (rebecca.wood@sydney.edu.au)
 Consultation-liaison psychiatry (CLP) has not consistently demonstrated
 evidence of cost-effectiveness, which is partly related to the
 difficulty of conducting studies with robust methodology that reflect
-the real-life operation of CLP services.\ :sup:`(n.d.a)` Some recent
-studies have demonstrated the effectiveness of intensive psychiatric
+the real-life operation of CLP services.\ :sup:`1` Some recent studies
+have demonstrated the effectiveness of intensive psychiatric
 consultation services with the specific brief of reducing length of stay
-(LOS).\ :sup:`(n.d.b),(n.d.c)` In contrast, studies of services with a
-traditional model of accepting referrals from a treating team, have
-found that earlier contact with CLP is associated with reduced lengths
-of stay.\ :sup:`(n.d.d)–(n.d.e)` Most of these studies have compared
-length of stay with the proportion of the referral lag (i.e. REFLAG: the
-time from admission to patient contact with the CLP service) of the
-length of stay (i.e. REFLAG/LOS).\ :sup:`(n.d.d)–(n.d.f),(n.d.g)` This
-avoids directly comparing lengths of stay with the referral lag, as
-these are related variables. In support of this, REFLAG/LOS has been
-found to be independent of length of stay, if the stay is longer than 4
-days.\ :sup:`(n.d.g)` The primary aim of this study was to examine if
-the timing of contact is associated with length of stay for all patients
-referred to a CLP service, particularly when those with a stay less than
-4 days were excluded. Furthermore, CLP services see many frail and
-complex older patients who utilise proportionally greater
-resources.\ :sup:`(n.d.h)` Older in-patients with, or who develop,
-mental conditions while in hospital have been found to have longer
-lengths of stay.\ :sup:`(n.d.i)` A secondary aim of this study was to
+(LOS).\ :sup:`2,3` In contrast, studies of services with a traditional
+model of accepting referrals from a treating team, have found that
+earlier contact with CLP is associated with reduced lengths of
+stay.\ :sup:`4–11` Most of these studies have compared length of stay
+with the proportion of the referral lag (i.e. REFLAG: the time from
+admission to patient contact with the CLP service) of the length of stay
+(i.e. REFLAG/LOS).\ :sup:`4–7,10` This avoids directly comparing lengths
+of stay with the referral lag, as these are related variables. In
+support of this, REFLAG/LOS has been found to be independent of length
+of stay, if the stay is longer than 4 days.\ :sup:`10` The primary aim
+of this study was to examine if the timing of contact is associated with
+length of stay for all patients referred to a CLP service, particularly
+when those with a stay less than 4 days were excluded. Furthermore, CLP
+services see many frail and complex older patients who utilise
+proportionally greater resources.\ :sup:`12` Older in-patients with, or
+who develop, mental conditions while in hospital have been found to have
+longer lengths of stay.\ :sup:`13` A secondary aim of this study was to
 compare the relationship of timeliness of referral and length of stay
 for patients under and over 65 years old.
 
@@ -78,8 +79,8 @@ full-time psychiatry trainee. The hospital also employs mental health
 liaison nurses (0.9 full-time equivalent) who directly manage some ward
 referrals instead of the CLP service. The CLP service was referred 1.03%
 of all hospital in-patients during 2012, which is in keeping with
-previous studies.\ :sup:`(n.d.j)` All consecutive in-patients referred
-to the CLP service, excluding those referred from the obstetrics and
+previous studies.\ :sup:`14` All consecutive in-patients referred to the
+CLP service, excluding those referred from the obstetrics and
 gynaecology department, from 1 January to 31 December, 2012, were
 included in the study. This exclusion was made because of a difference
 in referral pathway, as these patients had usually been seen on an
@@ -100,12 +101,12 @@ Karnofsky score was recorded by the CLP team at initial contact and on
 discharge. This score was devised to quantify ability to carry out
 normal activities and self-care, and is rated from 0 (dead) to 100
 (normal, no complaints, no evidence of disease) and has been established
-as a valid and reliable score of global functioning.\ :sup:`(n.d.k)`
+as a valid and reliable score of global functioning.\ :sup:`15`
 
 Length of stay was calculated as the whole number of days from admission
 to the day of discharge from the hospital and if these were the same day
 this was counted as a length of stay of 1 day. The psychiatric diagnosis
-was made using the DSM-IV-TR criteria,\ :sup:`(n.d.l)` and multiple
+was made using the DSM-IV-TR criteria,\ :sup:`16` and multiple
 psychiatric diagnoses were recorded with identification of the primary
 diagnosis relevant to the episode of care. This study was approved by
 the Human Ethics Committee for Sydney Local Health District (RPAH zone).
@@ -124,15 +125,15 @@ referred halfway through their admission and a REFLAG/LOS of 0.25, at
 the first quartile of the admission. Logarithmic transformations
 (logREFLAG/logLOS) were required because the data were positively skewed
 and logging the values made the data more normally distributed,
-consistent with previous studies.\ :sup:`(n.d.d)–(n.d.f)` These
-variables were compared with the lengths of stay for all in-patient
-referrals, and then specifically in groups according to age (‘younger’ –
-defined as under 65 and ‘older’ – 65 years or more). Group differences
-were determined using one-way ANOVAs and Spearman’s correlations were
-used to assess associations between variables if any of the variables
-were not normally distributed. All data analyses were performed using
-SPSS version 17 for Windows. All *P*-values were two-tailed and
-significant differences between groups were determined using *P*\ <0.05.
+consistent with previous studies.\ :sup:`4–7` These variables were
+compared with the lengths of stay for all in-patient referrals, and then
+specifically in groups according to age (‘younger’ – defined as under 65
+and ‘older’ – 65 years or more). Group differences were determined using
+one-way ANOVAs and Spearman’s correlations were used to assess
+associations between variables if any of the variables were not normally
+distributed. All data analyses were performed using SPSS version 17 for
+Windows. All *P*-values were two-tailed and significant differences
+between groups were determined using *P*\ <0.05.
 
 .. _S5:
 
@@ -350,9 +351,9 @@ Discussion
 
 It is acknowledged that the average length of stay of patients with
 psychological comorbidity is much longer than the overall average length
-of stay.\ :sup:`(n.d.m)` This is consistent with the results of this
-study where CLP-referred patients had a greater mean length of stay
-compared with the length for all patients at the studied hospital. It is
+of stay.\ :sup:`17` This is consistent with the results of this study
+where CLP-referred patients had a greater mean length of stay compared
+with the length for all patients at the studied hospital. It is
 therefore important to investigate factors that may relate to this
 disparity in stay length, which could then become targets of
 interventions to reduce healthcare costs. In this study, there is a
@@ -363,32 +364,31 @@ relationship was maintained for those patients with stays greater than 4
 days.
 
 The results regarding timeliness of contact with CLP services are in
-keeping with most previous studies.\ :sup:`(n.d.d)–(n.d.e)` Only one
-study, which focused on patients with organic brain disorder referred to
-a CLP service, did not find that earlier referral predicted a shorter
-length of stay.\ :sup:`(n.d.n)` Only two previous studies have separated
-out those patients with stays greater than 4
-days.\ :sup:`(n.d.c),(n.d.g)` It could be argued that in a hospital stay
-less than 4 days, the impact of a CLP service is likely to be minimal
-given the frequently delayed response to psychiatric interventions, both
-pharmacological and psychological, and the multiple other factors that
-are involved in a patient’s readiness for discharge. Furthermore, it is
-particularly important for CLP services to demonstrate reduction in
-lengths of admissions in more complex long-term patients; where there is
-greater potential cost saving through shorter hospital stays.
+keeping with most previous studies.\ :sup:`4–11` Only one study, which
+focused on patients with organic brain disorder referred to a CLP
+service, did not find that earlier referral predicted a shorter length
+of stay.\ :sup:`18` Only two previous studies have separated out those
+patients with stays greater than 4 days.\ :sup:`3,10` It could be argued
+that in a hospital stay less than 4 days, the impact of a CLP service is
+likely to be minimal given the frequently delayed response to
+psychiatric interventions, both pharmacological and psychological, and
+the multiple other factors that are involved in a patient’s readiness
+for discharge. Furthermore, it is particularly important for CLP
+services to demonstrate reduction in lengths of admissions in more
+complex long-term patients; where there is greater potential cost saving
+through shorter hospital stays.
 
 None of the studies that have previously examined the impact on the
 length of stay of the proportion of the referral lag of the length of
 stay have specified the number of cases that have not been calculated
 because of the mathematical errors in those cases with a stay of 1 day,
-or who are referred on the same day of
-admission.\ :sup:`(n.d.d)–(n.d.f)` This is not as important for those
-cases with a 1-day stay as there is no possibility that a CLP service
-could reduce this further. However, the necessity to not include those
-cases that are referred as early as possible does potentially reduce any
-positive effect demonstrated by CLP services using this measure. Thus,
-the number of cases that result in mathematical error should be reported
-in future studies.
+or who are referred on the same day of admission.\ :sup:`4–7` This is
+not as important for those cases with a 1-day stay as there is no
+possibility that a CLP service could reduce this further. However, the
+necessity to not include those cases that are referred as early as
+possible does potentially reduce any positive effect demonstrated by CLP
+services using this measure. Thus, the number of cases that result in
+mathematical error should be reported in future studies.
 
 .. _S7:
 
@@ -402,14 +402,14 @@ Differences between the two groups
   contrast to the study of the rapid assessment, interface and discharge
   integrated model (RAID), which found that most of the service’s cost
   savings were achieved through reduced lengths of stay and fewer
-  readmissions in the geriatric wards.\ :sup:`(n.d.b)` The authors
-  suggested these outcomes were related to educating general hospital
-  staff about mental health problems and efforts to link patients to
-  appropriate pathways for community care.\ :sup:`(n.d.b)` The
-  difference in strength of correlation of the association found in the
-  study presented here may be because of the inherent differences Table
-  2Comparison of length of stay (LOS) and referral lag (REFLAG) related
-  parameters by age groupMean (s.d.) range\ *n*\ Age 64 or younger
+  readmissions in the geriatric wards.\ :sup:`2` The authors suggested
+  these outcomes were related to educating general hospital staff about
+  mental health problems and efforts to link patients to appropriate
+  pathways for community care.\ :sup:`2` The difference in strength of
+  correlation of the association found in the study presented here may
+  be because of the inherent differences Table 2Comparison of length of
+  stay (LOS) and referral lag (REFLAG) related parameters by age
+  groupMean (s.d.) range\ *n*\ Age 64 or younger
 | (*n* = 50)Age 65 or older
 | (*n* = 90)Total
 | (*n* = 140)\ *P*\ Length of stay, days10.4 (10.2) 1–4224.6 (39.5)
@@ -426,16 +426,16 @@ Differences between the two groups
   study hospital serves an ethnically diverse population with 48.1% of
   the hospital’s catchment population born overseas, which explains the
   high level of utilisation of interpreters by this CLP
-  service.\ :sup:`(n.d.o)`
+  service.\ :sup:`19`
 
 The higher number of contacts with the CLP service received by the older
 group is likely reflective of the longer length of admission. This
-correlation has been found previously.\ :sup:`(n.d.g)` It is
-unsurprising that patients who are in hospital longer will see CLP
-services on a greater number of occasions. In support of this, there was
-no significant difference between the two age groups in the average
-number of contacts/day after initial contact with CLP services, despite
-the greater need for interpreters in the older age group.
+correlation has been found previously.\ :sup:`10` It is unsurprising
+that patients who are in hospital longer will see CLP services on a
+greater number of occasions. In support of this, there was no
+significant difference between the two age groups in the average number
+of contacts/day after initial contact with CLP services, despite the
+greater need for interpreters in the older age group.
 
 Surprisingly, the Karnofsky scores were not significantly different
 between the older and younger groups of patients, which would suggest
@@ -443,19 +443,19 @@ that disparity in functional status does not account for the difference
 in the correlation results. This may reflect the limitations of this
 scale as it is most applicable to non-hospital-based supportive care
 settings, such as palliative care, rather than acute in-patient
-treatment.\ :sup:`(n.d.p)`
+treatment.\ :sup:`20`
 
 | Previous studies have found factors that predict later referral to CLP
-  services, such as higher social vulnerability,\ :sup:`(n.d.h)`
-  referral for depression and psychiatric diagnoses of adjustment
-  disorder and delirium and no psychiatric diagnosis.\ :sup:`(n.d.q)`
-  Therefore, the profile of psychiatric diagnosis between the younger
-  and older patients may also have contributed to the difference in
-  impact of CLP on length of stay between the two groups. The older
-  patients were more likely to be diagnosed with a mood disorder but,
-  Table 4Spearman’s correlations between referral lag (REFLAG) related
-  parameters and length of stay (LOS) when patients with a length of
-  stay <4 days (*n* = 38) were excludedVariable\ *n*\ Length of
+  services, such as higher social vulnerability,\ :sup:`12` referral for
+  depression and psychiatric diagnoses of adjustment disorder and
+  delirium and no psychiatric diagnosis.\ :sup:`5` Therefore, the
+  profile of psychiatric diagnosis between the younger and older
+  patients may also have contributed to the difference in impact of CLP
+  on length of stay between the two groups. The older patients were more
+  likely to be diagnosed with a mood disorder but, Table 4Spearman’s
+  correlations between referral lag (REFLAG) related parameters and
+  length of stay (LOS) when patients with a length of stay <4 days (*n*
+  = 38) were excludedVariable\ *n*\ Length of
 | stay, *rP*\ Age1020.090NSReferral lag
   (REFLAG)1020.5470.001REFLAG/LOS97\ `a <#TFN10>`__–0.087NSLog(REFLAG)/log(LOS)97\ `a <#TFN10>`__\ 0.2420.02 [7]_ [8]_
   unexpectedly, there was no difference for the diagnoses related to
@@ -463,11 +463,11 @@ treatment.\ :sup:`(n.d.p)`
   possible explanations for the relatively low frequency of referred
   patients diagnosed with cognitive disorders. First, the study hospital
   has been found to have low rates of recognition of cognitive disorders
-  by referring teams.\ :sup:`(n.d.r)` Second, a concurrent
+  by referring teams.\ :sup:`21` Second, a concurrent
   delirium-prevention study took place at this hospital that improved
   staff knowledge and confidence and reduced the occurrence of delirium,
   which may have reduced the overall number of individuals with
-  cognitive disorders referred.\ :sup:`(n.d.s)`
+  cognitive disorders referred.\ :sup:`22`
 
 There was a greater proportion of patients referred for, and diagnosed
 with, self-poisoning in the younger group of patients compared with the
@@ -475,22 +475,21 @@ older group, which may have influenced the difference seen in the two
 age groups. Psychiatric input is almost universal in patients who are
 admitted with self-harm as the reason for the consultation is
 immediately obvious and this may be reflected in earlier referral of
-these patients by the treating team\ :sup:`(n.d.q)` and arguably
-therefore, greater influence of the CLP team on management and discharge
-planning.
+these patients by the treating team\ :sup:`5` and arguably therefore,
+greater influence of the CLP team on management and discharge planning.
 
 There were other significant differences in the older group of patients
 in this sample in terms of length of stay and referral lag. The fact
 that there was a longer length of stay in older patients referred to CLP
-is not surprising and is in keeping with previous
-reports.\ :sup:`(n.d.i)` Three in-patients, all older than 65 years of
-age, had stays greater than 100 days. These outliers were included in
-the final statistical analysis but did not significantly influence
-results when removed. The longer admissions may have been because of
-factors such as waiting for residential care placement or
-rehabilitation, and greater medical comorbidity, which are less common
-in younger patients. Arguably, there is limited scope for CLP to
-influence lengths of stay when these factors are active.
+is not surprising and is in keeping with previous reports.\ :sup:`13`
+Three in-patients, all older than 65 years of age, had stays greater
+than 100 days. These outliers were included in the final statistical
+analysis but did not significantly influence results when removed. The
+longer admissions may have been because of factors such as waiting for
+residential care placement or rehabilitation, and greater medical
+comorbidity, which are less common in younger patients. Arguably, there
+is limited scope for CLP to influence lengths of stay when these factors
+are active.
 
 The longer referral lag for the older patients is somewhat surprising
 for this service, which has a liaison attachment with the aged care and
@@ -523,13 +522,12 @@ contributed to the differences in effect of CLP contact on length of
 stay of the two groups. However, the re-admission rates of the two
 groups were not known and this has been suggested as an important
 potential consequence of reducing length of stay, although this is
-contested by some studies.\ :sup:`(n.d.t)` No other study that has
-examined the timeliness of CLP contact has included this
-parameter,\ :sup:`(n.d.d)–(n.d.f),(n.d.g)` but it has been included in
-other cost-effectiveness studies with different
-methodology.\ :sup:`(n.d.b)` This would be an important point for
-inclusion in future studies of timeliness of CLP contact and lengths of
-stay.
+contested by some studies.\ :sup:`23` No other study that has examined
+the timeliness of CLP contact has included this
+parameter,\ :sup:`4–7,10` but it has been included in other
+cost-effectiveness studies with different methodology.\ :sup:`2` This
+would be an important point for inclusion in future studies of
+timeliness of CLP contact and lengths of stay.
 
 The limits of interpretation previously discussed regarding the
 association of timeliness of referral with lengths of stay also apply to
@@ -537,11 +535,11 @@ this study. The demonstrated relationship between the time to referral
 and stay length cannot be assumed to be causal and it remains possible
 that the association is a result of unmeasured factors. These factors
 may include those associated with the request for consultation or also
-that the direction of the inference may be reversed.\ :sup:`(n.d.u)`
-Thus, it is not possible to state that this CLP service directly
-shortens lengths of stay if there is greater proportional involvement in
-a patient’s admission, except to state that a positive association
-between these two variables has been demonstrated.
+that the direction of the inference may be reversed.\ :sup:`24` Thus, it
+is not possible to state that this CLP service directly shortens lengths
+of stay if there is greater proportional involvement in a patient’s
+admission, except to state that a positive association between these two
+variables has been demonstrated.
 
 .. _S9:
 
@@ -560,115 +558,7 @@ factors should be a priority for CLP services, as this is a group where
 CLP could have a considerable impact and cost-benefit. It is important
 to evaluate whether better outcomes achieved through hospital-wide
 education about mental health problems and emphasising clear pathways
-for community care can be replicated.\ :sup:`(n.d.b)`
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-R1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-R2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-R3
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-R4
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-R5
-
-      n.d.q.
-
-   .. container:: csl-entry
-      :name: ref-R7
-
-      n.d.f.
-
-   .. container:: csl-entry
-      :name: ref-R10
-
-      n.d.g.
-
-   .. container:: csl-entry
-      :name: ref-R11
-
-      n.d.e.
-
-   .. container:: csl-entry
-      :name: ref-R12
-
-      n.d.h.
-
-   .. container:: csl-entry
-      :name: ref-R13
-
-      n.d.i.
-
-   .. container:: csl-entry
-      :name: ref-R14
-
-      n.d.j.
-
-   .. container:: csl-entry
-      :name: ref-R15
-
-      n.d.k.
-
-   .. container:: csl-entry
-      :name: ref-R16
-
-      n.d.l.
-
-   .. container:: csl-entry
-      :name: ref-R17
-
-      n.d.m.
-
-   .. container:: csl-entry
-      :name: ref-R18
-
-      n.d.n.
-
-   .. container:: csl-entry
-      :name: ref-R19
-
-      n.d.o.
-
-   .. container:: csl-entry
-      :name: ref-R20
-
-      n.d.p.
-
-   .. container:: csl-entry
-      :name: ref-R21
-
-      n.d.r.
-
-   .. container:: csl-entry
-      :name: ref-R22
-
-      n.d.s.
-
-   .. container:: csl-entry
-      :name: ref-R23
-
-      n.d.t.
-
-   .. container:: csl-entry
-      :name: ref-R24
-
-      n.d.u.
+for community care can be replicated.\ :sup:`2`
 
 .. [1]
    **Rebecca Wood**, MBBS, FRANZCP, is a staff specialist psychiatrist

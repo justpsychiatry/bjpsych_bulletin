@@ -2,6 +2,8 @@
 Attitudes toward veganism in eating disorder professionals
 ==========================================================
 
+
+
 Sarah J. Fuller
 Kimberley M. HillCorrespondence to Sarah Fuller (sarah.fuller@nhs.net)
 :Date: 2022-04
@@ -45,30 +47,30 @@ pmc
 Eating disorders are serious psychiatric conditions characterised by
 abnormal eating patterns, either through strict or a lack of control of
 eating, and are driven by the over-evaluation of weight and shape
-concerns.\ :sup:`(n.d.a)` Research identifies several eating disorder
-development risk factors,\ :sup:`(n.d.b)` including, but not limited to,
-genetics,\ :sup:`(n.d.c),(n.d.d)` environmental,\ :sup:`(n.d.c)` female
-adolescence,\ :sup:`(n.d.d)` biopsychosocial influences\ :sup:`(n.d.e)`
-and urbanisation.\ :sup:`(n.d.f)`
+concerns.\ :sup:`1` Research identifies several eating disorder
+development risk factors,\ :sup:`2` including, but not limited to,
+genetics,\ :sup:`3,4` environmental,\ :sup:`3` female
+adolescence,\ :sup:`4` biopsychosocial influences\ :sup:`5` and
+urbanisation.\ :sup:`6`
 
 Veganism is a philosophy seeking to exclude using animals and animal
-products in all aspects of life, not just diet.\ :sup:`(n.d.g)` It is
+products in all aspects of life, not just diet.\ :sup:`7` It is
 estimated that around 1% of the UK population follow a vegan
-diet,\ :sup:`(n.d.h)` reflecting a fourfold increase from 2014 to 2019.
-In the Western world, the demographics of veganism are predominantly
-young,\ :sup:`(n.d.i)` female\ :sup:`(n.d.j),(n.d.k)` and living in
-urban areas.\ :sup:`(n.d.j),(n.d.k)` Importantly, veganism is protected
-by law as a non-religious philosophical belief.\ :sup:`(n.d.l)`
+diet,\ :sup:`8` reflecting a fourfold increase from 2014 to 2019. In the
+Western world, the demographics of veganism are predominantly
+young,\ :sup:`9` female\ :sup:`10,11` and living in urban
+areas.\ :sup:`10,11` Importantly, veganism is protected by law as a
+non-religious philosophical belief.\ :sup:`12`
 
 Veganism does not cause eating disorders, but there are similarities
 between known eating disorder risk factors and the prevalence data for
 veganism. Research suggests the general population are biased against
-veganism,\ :sup:`(n.d.m),(n.d.n)` but it remains unknown if specialist
-eating disorder (SED) professionals share these views. SED clinicians
-may be concerned about the potentially restrictive nature of vegan
-diets, and therefore may potentially be biased against veganism. Given
-the legal protection that veganism carries, when exploring the veganism
-of a patient with an eating disorder, clinicians must act with
+veganism,\ :sup:`13,14` but it remains unknown if specialist eating
+disorder (SED) professionals share these views. SED clinicians may be
+concerned about the potentially restrictive nature of vegan diets, and
+therefore may potentially be biased against veganism. Given the legal
+protection that veganism carries, when exploring the veganism of a
+patient with an eating disorder, clinicians must act with
 professionalism, respect, curiosity and a lack of personal bias. This is
 the first paper to investigate the attitudes of SED, general mental
 health (GMH) and other professionals toward veganism
@@ -102,13 +104,12 @@ Measures
 --------
 
 Participants completed the General Eating Habits
-Questionnaire,\ :sup:`(n.d.o)` scored on a 1 (vegan) to 7 (omnivore)
-Likert scale, and the 20-question Attitudes Towards Veganism Survey
-(ATvegan),\ :sup:`(n.d.j)` scored on a 1 (negative attitudes) to 7
-(positive attitudes) Likert scale, on Qualtrics (version for Windows;
+Questionnaire,\ :sup:`15` scored on a 1 (vegan) to 7 (omnivore) Likert
+scale, and the 20-question Attitudes Towards Veganism Survey
+(ATvegan),\ :sup:`10` scored on a 1 (negative attitudes) to 7 (positive
+attitudes) Likert scale, on Qualtrics (version for Windows;
 `www.qualtrics.com <www.qualtrics.com>`__). Cronbach's alpha
-(*α* = 0.86) indicated a good level of internal
-reliability.\ :sup:`(n.d.k)`
+(*α* = 0.86) indicated a good level of internal reliability.\ :sup:`11`
 
 .. _sec1-4:
 
@@ -126,10 +127,10 @@ professional group (*n* = 3) and vegan participants (*n* = 20), as
 research suggested this could bias responses as vegans have an strong
 sense of self-identity, which can affect their attitudes on topics
 ranging from animal welfare to political affiliation, and this could
-affect any findings of the research.\ :sup:`(n.d.m),(n.d.p)` `Table
-1 <#tab01>`__ provides key characteristics of the total sample
-(*n =* 392). Table 1Participant demographicsGender, *n*\ ProfessionAge
-group, yearMaleFemaleDid not saySpecialist eating disorder,
+affect any findings of the research.\ :sup:`13,16` `Table 1 <#tab01>`__
+provides key characteristics of the total sample (*n =* 392). Table
+1Participant demographicsGender, *n*\ ProfessionAge group,
+yearMaleFemaleDid not saySpecialist eating disorder,
 *n* = 11618–29214--30–41733--42–541525--55–68515--General mental health,
 *n* = 9018–29418--30–41731142–54515155–6862--Other,
 *n* = 18618–29832--30–412655--42–541428--55–68815--
@@ -179,7 +180,7 @@ significant, indicating a moderate effect size and a positive main
 effect of professional group (*F*\ (2, 376) = 3.33, *P* = 0.04,
 *η\ p*\ :sup:`2` = 0.02).
 
-*Post hoc* Bonferroni adjustments\ :sup:`(n.d.n)` indicated mean GMH
+*Post hoc* Bonferroni adjustments\ :sup:`14` indicated mean GMH
 professionals group scores (mean 106.65 ± 5.72, s.d. 17.96, *P* = 0.04)
 were significantly higher and more positive compared with the other
 professionals group. No significant difference was evident between the
@@ -228,28 +229,28 @@ attitudes in the general population, no statistically significant age or
 gender differences were found within these professional groups.
 
 Research has highlighted a level of bias against veganism within Western
-populations,\ :sup:`(n.d.m),(n.d.q),(n.d.r)` leading to it being viewed
-as a minority group similar to ethnicity or sexual
-orientation.\ :sup:`(n.d.r)` Not only are vegans often depicted as going
-against the status quo of normal dietary culture, but these attitudes
-are influenced by gender and age, with more prominent negative attitudes
-often found in older, male generations. As well as investigating whether
-these biases exist within SED professional populations, it was
-hypothesised that SED professionals would have a more negative view on
-veganism than other professionals. This is because SED professionals are
-aware of how dietary restrictions can negatively affect an individual's
-physical health and mental health. These general attitudes could be
-reflected in SED professionals’ own veganism attitudes, and SED
-professionals should be aware of any such biases, as they could affect
-clinical practice and patient treatment. In 2019, a joint consensus
-statement from the Royal College of Psychiatrists, the British Dietetic
-Association and ‘BEAT’, the national eating disorder charity, was
-released regarding the importance of working collaboratively with vegan
-patients with eating disorders.\ :sup:`(n.d.s)` This sought to address
-concerns raised by some vegan patients that their beliefs were ignored
-in treatment and that staff could be biased against veganism. In
-contrast, the current study appears to indicate that SED professionals
-are not biased toward veganism.
+populations,\ :sup:`13,17,18` leading to it being viewed as a minority
+group similar to ethnicity or sexual orientation.\ :sup:`18` Not only
+are vegans often depicted as going against the status quo of normal
+dietary culture, but these attitudes are influenced by gender and age,
+with more prominent negative attitudes often found in older, male
+generations. As well as investigating whether these biases exist within
+SED professional populations, it was hypothesised that SED professionals
+would have a more negative view on veganism than other professionals.
+This is because SED professionals are aware of how dietary restrictions
+can negatively affect an individual's physical health and mental health.
+These general attitudes could be reflected in SED professionals’ own
+veganism attitudes, and SED professionals should be aware of any such
+biases, as they could affect clinical practice and patient treatment. In
+2019, a joint consensus statement from the Royal College of
+Psychiatrists, the British Dietetic Association and ‘BEAT’, the national
+eating disorder charity, was released regarding the importance of
+working collaboratively with vegan patients with eating
+disorders.\ :sup:`19` This sought to address concerns raised by some
+vegan patients that their beliefs were ignored in treatment and that
+staff could be biased against veganism. In contrast, the current study
+appears to indicate that SED professionals are not biased toward
+veganism.
 
 These findings are particularly important because SED professionals may
 be concerned when patients presenting with eating disorders make any
@@ -264,13 +265,12 @@ previously ate a diet that included meat could become pescatarian, then
 vegetarian and finally vegan – with each dietary change becoming more
 restrictive. There is evidence that there are increased rates of
 vegetarianism in patients with restrictive eating disorders, such as
-anorexia nervosa.\ :sup:`(n.d.t),(n.d.u)` As veganism requires more
-dietary restrictions than vegetarianism, researchers suggest that a
-similar link could be associated with veganism,\ :sup:`(n.d.v)` which
-could raise concerns for SED professionals. Furthermore, SED
-professionals will be aware of the overlap in the demographics of
-veganism and factors that make an individual more susceptable to an
-eating disorder.
+anorexia nervosa.\ :sup:`20,21` As veganism requires more dietary
+restrictions than vegetarianism, researchers suggest that a similar link
+could be associated with veganism,\ :sup:`22` which could raise concerns
+for SED professionals. Furthermore, SED professionals will be aware of
+the overlap in the demographics of veganism and factors that make an
+individual more susceptable to an eating disorder.
 
 To adopt a vegan diet, an individual must avoid all animal products,
 ingredients or derivatives. Therefore, this requires them to check
@@ -282,7 +282,7 @@ rules veganism provides can be very attractive to patients who are
 anxious regarding what to eat. Based on the findings of the current
 study above, SED professionals do not show a bias against veganism.
 However, as research suggests that the general population perceive
-multiple barriers to switching to a vegan diet,\ :sup:`(n.d.w)` SED
+multiple barriers to switching to a vegan diet,\ :sup:`23` SED
 clinicians may therefore be suspicious of the apparent coincidence of
 such a dietary change during the onset of the eating disorder.
 
@@ -305,38 +305,37 @@ their eating disorder. SED professionals can use this research to
 reassure patients that it is their eating disorder that is being
 questioned and not their veganism. Taking this dynamic further, it is
 important for these professionals to be aware of their ‘social
-GRACES’.\ :sup:`(n.d.x)` This acronym was developed for clinicians to be
+GRACES’.\ :sup:`24` This acronym was developed for clinicians to be
 aware of the many areas in life where we may have conscious or
 unconscious bias in clinical work. Using this acronym, there is more
 than one topic within each ‘letter’ and the full acronym is
 ‘GGRRAAACCEEESSS’, encompassing gender, geography, race, religion, age,
 ability, appearance, class, culture, ethnicity, education, employment,
-sexuality, sexual orientation and spirituality.\ :sup:`(n.d.x)`
-Clinicians have both an ethical and legal responsibility to their
-patients not to bring any bias into the treatments they offer, if they
-themselves have different dietary choices from their
-patients,\ :sup:`(n.d.r),(n.d.x),(n.d.y)` so there could be a D added to
-the ‘social GRACES’ – that of diet and dietary choice.
+sexuality, sexual orientation and spirituality.\ :sup:`24` Clinicians
+have both an ethical and legal responsibility to their patients not to
+bring any bias into the treatments they offer, if they themselves have
+different dietary choices from their patients,\ :sup:`18,24,25` so there
+could be a D added to the ‘social GRACES’ – that of diet and dietary
+choice.
 
 This research also has a much broader impact as it also reflects that
 SED professionals are practicing within relevant legal frameworks. As
 veganism is a protected characteristic within the law, these finds are
-important.\ :sup:`(n.d.l),(n.d.z)` If the main hypothesis of this study
-had been supported, it would have raised concerns that these
-professionals’ opinions were significantly different. Going forward, our
-findings highlight the need for all SED clinicians to have an awareness
-of the nuanced issues veganism can bring for a patient with an eating
-disorder, as well as an awareness of the legal protection this
-characteristic holds. Navigating this difficult dynamic may be helped by
-this research, as it is one of the first studies to consider these
-issues.
+important.\ :sup:`12,26` If the main hypothesis of this study had been
+supported, it would have raised concerns that these professionals’
+opinions were significantly different. Going forward, our findings
+highlight the need for all SED clinicians to have an awareness of the
+nuanced issues veganism can bring for a patient with an eating disorder,
+as well as an awareness of the legal protection this characteristic
+holds. Navigating this difficult dynamic may be helped by this research,
+as it is one of the first studies to consider these issues.
 
 These findings can be generalised to the wider UK SED profession, and
 will inform daily clinical practice, particularly as veganism is
-becoming more popular nationally.\ :sup:`(n.d.aa)` The good response
-rate and high completion rates suggest that veganism is a topic of
-interest for professionals. Further international research could help
-generalise these findings in the wider Western world and globally.
+becoming more popular nationally.\ :sup:`27` The good response rate and
+high completion rates suggest that veganism is a topic of interest for
+professionals. Further international research could help generalise
+these findings in the wider Western world and globally.
 
 .. _sec3-2:
 
@@ -351,10 +350,9 @@ research, participants may have shown demand characteristics
 interpretation of the study) that may have influenced the findings,
 particularly given the potential implications for SED and GMH
 professionals. Consequently, participants may have provided what they
-perceived as the professionally correct
-answers,\ :sup:`(n.d.aa),(n.d.ab)` or ‘socially desirable’ responses,
-rather than declaring any strong personal views to the
-contrary.\ :sup:`(n.d.ac)`
+perceived as the professionally correct answers,\ :sup:`27,28` or
+‘socially desirable’ responses, rather than declaring any strong
+personal views to the contrary.\ :sup:`29`
 
 .. _sec3-3:
 
@@ -384,17 +382,16 @@ a restrictive eating disorder and asking to become vegan for animal
 welfare reasons may evoke concerns from clinicians regarding the
 authenticity of this dietary change, especially when the nutritional
 adequacy of the vegan diet can be hard to achieve in this age group
-because of the nutritional demands of growth and
-puberty.\ :sup:`(n.d.ad)` In contrast, an adult patient following a
-vegan diet because of a family history of heart disease may seem less
-concerning to SED professionals, and this research did not differentiate
-between the different motivations a patient may have. Therefore, future
-research should differentiate within the SED group by their area of
-speciality – children and young people or adult. Theoretically, an
-age-informed professional consensus could be developed, potentially
-demonstrating greater concern for younger patients or those who are
-following an increasing pattern of dietary restrictions leading to
-veganism.
+because of the nutritional demands of growth and puberty.\ :sup:`30` In
+contrast, an adult patient following a vegan diet because of a family
+history of heart disease may seem less concerning to SED professionals,
+and this research did not differentiate between the different
+motivations a patient may have. Therefore, future research should
+differentiate within the SED group by their area of speciality –
+children and young people or adult. Theoretically, an age-informed
+professional consensus could be developed, potentially demonstrating
+greater concern for younger patients or those who are following an
+increasing pattern of dietary restrictions leading to veganism.
 
 In conclusion, veganism is an increasing and legally protected
 characteristic, but the general population hold negative attitudes
@@ -443,156 +440,3 @@ Declaration of interest
 =======================
 
 None.
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-ref1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-ref2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-ref3
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-ref4
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-ref5
-
-      n.d.e.
-
-   .. container:: csl-entry
-      :name: ref-ref6
-
-      n.d.f.
-
-   .. container:: csl-entry
-      :name: ref-ref7
-
-      n.d.g.
-
-   .. container:: csl-entry
-      :name: ref-ref8
-
-      n.d.h.
-
-   .. container:: csl-entry
-      :name: ref-ref9
-
-      n.d.i.
-
-   .. container:: csl-entry
-      :name: ref-ref10
-
-      n.d.j.
-
-   .. container:: csl-entry
-      :name: ref-ref11
-
-      n.d.k.
-
-   .. container:: csl-entry
-      :name: ref-ref12
-
-      n.d.l.
-
-   .. container:: csl-entry
-      :name: ref-ref13
-
-      n.d.m.
-
-   .. container:: csl-entry
-      :name: ref-ref14
-
-      n.d.n.
-
-   .. container:: csl-entry
-      :name: ref-ref15
-
-      n.d.o.
-
-   .. container:: csl-entry
-      :name: ref-ref16
-
-      n.d.p.
-
-   .. container:: csl-entry
-      :name: ref-ref17
-
-      n.d.q.
-
-   .. container:: csl-entry
-      :name: ref-ref18
-
-      n.d.r.
-
-   .. container:: csl-entry
-      :name: ref-ref19
-
-      n.d.s.
-
-   .. container:: csl-entry
-      :name: ref-ref20
-
-      n.d.t.
-
-   .. container:: csl-entry
-      :name: ref-ref21
-
-      n.d.u.
-
-   .. container:: csl-entry
-      :name: ref-ref22
-
-      n.d.v.
-
-   .. container:: csl-entry
-      :name: ref-ref23
-
-      n.d.w.
-
-   .. container:: csl-entry
-      :name: ref-ref24
-
-      n.d.x.
-
-   .. container:: csl-entry
-      :name: ref-ref25
-
-      n.d.y.
-
-   .. container:: csl-entry
-      :name: ref-ref26
-
-      n.d.z.
-
-   .. container:: csl-entry
-      :name: ref-ref27
-
-      n.d.aa.
-
-   .. container:: csl-entry
-      :name: ref-ref28
-
-      n.d.ab.
-
-   .. container:: csl-entry
-      :name: ref-ref29
-
-      n.d.ac.
-
-   .. container:: csl-entry
-      :name: ref-ref30
-
-      n.d.ad.

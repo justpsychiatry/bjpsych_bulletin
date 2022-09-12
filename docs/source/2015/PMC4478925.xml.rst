@@ -2,6 +2,8 @@
 Mental health clustering and diagnosis in psychiatric in-patients
 =================================================================
 
+
+
 Liam Trevithick
 Jon Painter
 Patrick KeownCorrespondence to Patrick Keown (patrick.keown@ncl.ac.uk)
@@ -40,7 +42,7 @@ Patrick KeownCorrespondence to Patrick Keown (patrick.keown@ncl.ac.uk)
 
 A set of needs-based clusters were originally developed as a
 classification system to aid service improvement in secondary care
-mental health services.\ :sup:`(n.d.a)` There are a total of 21 clusters
+mental health services.\ :sup:`1` There are a total of 21 clusters
 grouped into three superclasses: non-psychosis, psychosis and organic.
 Each cluster describes a particular type, combination and severity of
 needs. This Care Pathways and Packages approach
@@ -49,16 +51,15 @@ subsequently adopted as the heart of a move away from block contracts
 towards a new mental health payment system.
 
 The first 12 scales of the Mental Health Clustering Tool (MHCT) are
-Health of the Nation Outcome Scales (HoNOS) items.\ :sup:`(n.d.b)` The
-HoNOS tool was originally developed by the Royal College of
-Psychiatrists’ Research Unit as an outcome measure. The Care Pathways
-and Packages Project developed the remaining six MHCT scales to support
-the classification of patients based on their level of
-need.\ :sup:`(n.d.a)` The *Mental Health Clustering Booklet* provides
-likely diagnoses for each cluster. Added to version 3.0 of the booklet
-were unlikely diagnoses for each cluster based on the ICD-10
-classification system used in the National Health Service
-(NHS).\ :sup:`(n.d.c),(n.d.d)`
+Health of the Nation Outcome Scales (HoNOS) items.\ :sup:`2` The HoNOS
+tool was originally developed by the Royal College of Psychiatrists’
+Research Unit as an outcome measure. The Care Pathways and Packages
+Project developed the remaining six MHCT scales to support the
+classification of patients based on their level of need.\ :sup:`1` The
+*Mental Health Clustering Booklet* provides likely diagnoses for each
+cluster. Added to version 3.0 of the booklet were unlikely diagnoses for
+each cluster based on the ICD-10 classification system used in the
+National Health Service (NHS).\ :sup:`3,4`
 
 .. _S1:
 
@@ -365,7 +366,7 @@ clusters. However, the low rates of ‘likely’ diagnoses among a few
 clusters suggest that the current advice for those clusters does not
 hold true for a subsection of the in-patient population. These findings
 are supported by previous research which found high rates of mismatch
-between ICD-10 diagnoses and clusters 3, 4, 15 and 18.\ :sup:`(n.d.e)`
+between ICD-10 diagnoses and clusters 3, 4, 15 and 18.\ :sup:`5`
 
 | Clinical practice issues could partly explain these findings, but if
   further in-depth analysis in other trusts reveals similar trends, then
@@ -405,16 +406,15 @@ other non-psychosis clusters including clusters 3 and 4. It may be that
 these were incorrectly diagnosed or clustered. Alternatively, it may be
 that those with complex and severe personality disorders are allocated
 to cluster 8 whereas those with simple personality disorders are
-clustered lower down within the non-psychosis
-superclass.\ :sup:`(n.d.f)`
+clustered lower down within the non-psychosis superclass.\ :sup:`6`
 
 A further area of concern was the high proportion of ‘other’ diagnoses
 in cluster 10, a substantial proportion of which were alcohol and
 substance misuse diagnoses. This is at odds with the finding that the
 prevalence of drug-induced psychosis is relatively low in
-England.\ :sup:`(n.d.g)` It may reflect a reluctance of some early
+England.\ :sup:`7` It may reflect a reluctance of some early
 intervention psychosis services to give a formal diagnosis early on in
-an individual’s contact with services.\ :sup:`(n.d.h)`
+an individual’s contact with services.\ :sup:`8`
 
 Whereas dementia and organic disorders, neurotic and stress-related and
 somatoform disorders, and schizophrenia and related disorders aligned to
@@ -425,17 +425,16 @@ fell within the psychosis superclass. The only exception to this was the
 diagnosis of psychotic depression. Local trust policy, in line with
 Royal College of Psychiatrists advice, was to cluster patients with
 bipolar disorder to the psychosis clusters, regardless of whether
-psychotic symptoms were present.\ :sup:`(n.d.i)`
+psychotic symptoms were present.\ :sup:`9`
 
 Department of Health guidance currently being drafted suggests that
 patients with bipolar disorder diagnoses may be allocated to either
 psychotic or non-psychotic clusters depending on presenting
-needs,\ :sup:`(n.d.j)` supporting the view that cluster and diagnosis
-should best be viewed as complementary. These findings also have
-implications for the proposed reorganisation of services. If there is to
-be a division between psychosis and non-psychosis, it is evident that
-both teams will require expertise in the management of affective
-disorders.
+needs,\ :sup:`10` supporting the view that cluster and diagnosis should
+best be viewed as complementary. These findings also have implications
+for the proposed reorganisation of services. If there is to be a
+division between psychosis and non-psychosis, it is evident that both
+teams will require expertise in the management of affective disorders.
 
 Further analysis showed that F10–19 alcohol/substance misuse accounted
 for 14% of all clusters 2–8 and was largely uniform across each cluster
@@ -443,7 +442,7 @@ individually. This highlights that patients with a primary diagnosis of
 alcohol/substance misuse experience a wide range of problems and have
 varying levels of need. This can be seen as supporting the previous
 decision to disaggregate the original generic substance misuse cluster
-9.\ :sup:`(n.d.k)`
+9.\ :sup:`11`
 
 .. _S5:
 
@@ -486,64 +485,6 @@ organic clusters if services are to further specialise in these areas.
 Results suggest some of the interventions that would need to be
 delivered within these services. Future work should extend this research
 into community teams.
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-R1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-R2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-R3
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-R4
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-R5
-
-      n.d.e.
-
-   .. container:: csl-entry
-      :name: ref-R6
-
-      n.d.f.
-
-   .. container:: csl-entry
-      :name: ref-R7
-
-      n.d.g.
-
-   .. container:: csl-entry
-      :name: ref-R8
-
-      n.d.h.
-
-   .. container:: csl-entry
-      :name: ref-R9
-
-      n.d.i.
-
-   .. container:: csl-entry
-      :name: ref-R10
-
-      n.d.j.
-
-   .. container:: csl-entry
-      :name: ref-R11
-
-      n.d.k.
 
 .. [1]
    **Liam Trevithick** is a senior research assistant at Academic

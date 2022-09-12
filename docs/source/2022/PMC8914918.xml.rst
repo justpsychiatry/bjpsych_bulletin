@@ -2,6 +2,8 @@
 Improving attitudes toward electroconvulsive therapy
 ====================================================
 
+
+
 Oakley Cheung
 Marc Baker
 Paul TabrahamCorrespondence to Marc Baker (marc.baker@port.ac.uk)
@@ -43,39 +45,36 @@ Paul TabrahamCorrespondence to Marc Baker (marc.baker@port.ac.uk)
 
 pmc
 Electroconvulsive therapy (ECT) is a mental health treatment involving
-the use of electric currents to induce a seizure,\ :sup:`(n.d.a)` and is
-used to treat life-threatening depression, catatonia and severe,
-long-lasting mania that is resistant to
-medication.\ :sup:`(n.d.a),(n.d.b)` However, ECT raises fear among the
-general public,\ :sup:`(n.d.c)–(n.d.d)` largely because of its
-dramatization in the mainstream media.\ :sup:`(n.d.b),(n.d.d)–(n.d.e)`
-Concerns are, however, not entirely based on fiction, as some patients
-have reported adverse psychological side-effects as a result of ECT
-treatment, implying possible signs of trauma response.\ :sup:`(n.d.f)`
-The National Health Service (NHS) information for patients undergoing
-ECT consists of a science-based leaflet from the National Institute for
-Health and Care Excellence (NICE),\ :sup:`(n.d.a)` despite research
-suggesting that healthcare education may be better received alongside
-contextual and emotive evidence.\ :sup:`(n.d.f),(n.d.g)` Gold Coast
-Health in Australia implemented these principles, focusing on adding
-contextual evidence for the benefits of ECT,\ :sup:`(n.d.h)` but there
-is no empirical evidence as to whether this approach improved
-perceptions of ECT.
+the use of electric currents to induce a seizure,\ :sup:`1` and is used
+to treat life-threatening depression, catatonia and severe, long-lasting
+mania that is resistant to medication.\ :sup:`1,2` However, ECT raises
+fear among the general public,\ :sup:`3–5` largely because of its
+dramatization in the mainstream media.\ :sup:`2,5–8` Concerns are,
+however, not entirely based on fiction, as some patients have reported
+adverse psychological side-effects as a result of ECT treatment,
+implying possible signs of trauma response.\ :sup:`9` The National
+Health Service (NHS) information for patients undergoing ECT consists of
+a science-based leaflet from the National Institute for Health and Care
+Excellence (NICE),\ :sup:`1` despite research suggesting that healthcare
+education may be better received alongside contextual and emotive
+evidence.\ :sup:`9,10` Gold Coast Health in Australia implemented these
+principles, focusing on adding contextual evidence for the benefits of
+ECT,\ :sup:`11` but there is no empirical evidence as to whether this
+approach improved perceptions of ECT.
 
 From a psychological perspective, trait empathy is one factor which may
 affect someone's ability to relate to the personal accounts of those
 receiving ECT. Both cognitive and affective empathy have a positive
-relationship with the ability to perceive emotional
-content.\ :sup:`(n.d.i)` Specifically, cognitive empathy can facilitate
-‘perspective-taking’ capabilities.\ :sup:`(n.d.j)` Following the use of
-the video produced by Gold Coast Health,\ :sup:`(n.d.h)` the Southern
-Health NHS Foundation Trust developed a similar tool to foster more
-accurate perceptions of ECT. This study is the first to empirically test
-whether the use of the emotion-based information improves perception of
-ECT compared with the current leaflet. We aimed to test whether the new
-video fulfils its purpose to promote a more positive attitude and better
-knowledge of ECT in the UK public, and whether trait empathy plays a
-role in any effects.
+relationship with the ability to perceive emotional content.\ :sup:`12`
+Specifically, cognitive empathy can facilitate ‘perspective-taking’
+capabilities.\ :sup:`13` Following the use of the video produced by Gold
+Coast Health,\ :sup:`11` the Southern Health NHS Foundation Trust
+developed a similar tool to foster more accurate perceptions of ECT.
+This study is the first to empirically test whether the use of the
+emotion-based information improves perception of ECT compared with the
+current leaflet. We aimed to test whether the new video fulfils its
+purpose to promote a more positive attitude and better knowledge of ECT
+in the UK public, and whether trait empathy plays a role in any effects.
 
 .. _sec1:
 
@@ -139,9 +138,9 @@ experience with severe clinical depression.
 Materials
 ---------
 
-The survey consisted of a revised version of the IRI,\ :sup:`(n.d.k)` an
-ECT attitude and knowledge questionnaire\ :sup:`(n.d.l)` and two types
-of information on ECT use as treatment for mental illness.
+The survey consisted of a revised version of the IRI,\ :sup:`14` an ECT
+attitude and knowledge questionnaire\ :sup:`15` and two types of
+information on ECT use as treatment for mental illness.
 
 .. _sec1-4-1:
 
@@ -149,10 +148,9 @@ IRI
 ~~~
 
 Two subscales from the revised version of the Basic Empathy
-Scale\ :sup:`(n.d.k)` were used to measure trait empathy: empathetic
-concern and perspective-taking. The scales were rated using five-point
-Likert scales, with a high score representing higher trait empathy
-scores.
+Scale\ :sup:`14` were used to measure trait empathy: empathetic concern
+and perspective-taking. The scales were rated using five-point Likert
+scales, with a high score representing higher trait empathy scores.
 
 .. _sec1-4-2:
 
@@ -170,15 +168,15 @@ Information on ECT use in mental health treatment
 
 A public information leaflet was taken from the NICE guidance for the
 prescription and administration of ECT in depression, mania and
-catatonia.\ :sup:`(n.d.a)` This leaflet contains mainly scientific
-evidence of the efficacy and use of ECT. For this study, the sections
-‘What is NICE?’ and ‘What are depressive illness, mania, schizophrenia
-and catatonia?’ were omitted. A video intervention was developed by the
-lead author and Southern Health NHS Foundation Trust based on a
-successful educational video created by Gold Coast Health,
-Australia.\ :sup:`(n.d.h)` The video focuses on the experiences of
-patients, nurses and caregivers with ECT. The video is available to the
-public at: https://vimeo.com/369525494.
+catatonia.\ :sup:`1` This leaflet contains mainly scientific evidence of
+the efficacy and use of ECT. For this study, the sections ‘What is
+NICE?’ and ‘What are depressive illness, mania, schizophrenia and
+catatonia?’ were omitted. A video intervention was developed by the lead
+author and Southern Health NHS Foundation Trust based on a successful
+educational video created by Gold Coast Health, Australia.\ :sup:`11`
+The video focuses on the experiences of patients, nurses and caregivers
+with ECT. The video is available to the public at:
+https://vimeo.com/369525494.
 
 .. _sec1-5:
 
@@ -336,10 +334,10 @@ the video would work best to educate patients and carers on the use of
 ECT to treat mental health illnesses. These results support current
 literature which suggests that interventions focusing on more emotional,
 real-life experience may be more effective for perception improvement
-than using factual information alone.\ :sup:`(n.d.j),(n.d.l),(n.d.m)` It
-should be noted that all the main and covariate effects were small, and
-the distributions in all three experimental conditions had participants
-that perceived ECT both positively and negatively. This suggests that
+than using factual information alone.\ :sup:`13,15,16` It should be
+noted that all the main and covariate effects were small, and the
+distributions in all three experimental conditions had participants that
+perceived ECT both positively and negatively. This suggests that
 although the video may help to improve perceptions of ECT, it is not a
 ‘silver bullet’, and might best used alongside other informational
 material. Future research should assess whether combining the leaflet
@@ -350,17 +348,16 @@ between video and written information; the introduction of a dynamic
 stimulus may have been enough to demand more attention from participants
 than reading a leaflet. Some research has suggested showing patients a
 video can reduce anxiety around healthcare treatments more than written
-information.\ :sup:`(n.d.n)` To address this, it would be important to
+information.\ :sup:`17` To address this, it would be important to
 examine whether a similar improvement in knowledge and attitudes is
 found irrespective of how the content was delivered. It should also be
 noted that although the efficacy of ECT is outside of the scope of this
 research, there is still large debate as to whether there are any
-noticeable and long-lasting benefits to undergoing
-ECT.\ :sup:`(n.d.b),(n.d.c),(n.d.o),(n.d.p)` Additionally, meta-analyses
-report high relapse rates among many patients.\ :sup:`(n.d.q)` There are
-some ethical considerations on whether improving attitudes toward ECT is
-acceptable if the benefit of the treatment is, in some cases, limited
-and relapse is likely.
+noticeable and long-lasting benefits to undergoing ECT.\ :sup:`2,3,7,18`
+Additionally, meta-analyses report high relapse rates among many
+patients.\ :sup:`19` There are some ethical considerations on whether
+improving attitudes toward ECT is acceptable if the benefit of the
+treatment is, in some cases, limited and relapse is likely.
 
 .. _sec3-2:
 
@@ -387,24 +384,24 @@ those participants with high perspective-taking empathy.
 
 This explanation seems to be consistent with evidence from neuroimaging
 studies, which has demonstrated a link between perspective-taking
-ability and the ventromedial prefrontal cortex,\ :sup:`(n.d.r)` a brain
-area that is also critical for perception and reaction to the suffering
-of others.\ :sup:`(n.d.q)` Thus, scoring higher in perspective-taking
-may make an individual more likely to be able to imagine the suffering
-of those experiencing severe mental health problems, which explains why
-they may react more positively to ECT even with limited information
-around the treatment. Furthermore, adding context in the form of another
-person's account can elicit a more empathetic response from participants
-when making decisions,\ :sup:`(n.d.s)`\ and that the empathy elicited is
-generally more appropriate when context is present;\ :sup:`(n.d.t)` this
-suggests that the context in the video may have encouraged a more
-empathetic response to the content, even for those who do not naturally
-empathise with another's situation
+ability and the ventromedial prefrontal cortex,\ :sup:`20` a brain area
+that is also critical for perception and reaction to the suffering of
+others.\ :sup:`19` Thus, scoring higher in perspective-taking may make
+an individual more likely to be able to imagine the suffering of those
+experiencing severe mental health problems, which explains why they may
+react more positively to ECT even with limited information around the
+treatment. Furthermore, adding context in the form of another person's
+account can elicit a more empathetic response from participants when
+making decisions,\ :sup:`21`\ and that the empathy elicited is generally
+more appropriate when context is present;\ :sup:`22` this suggests that
+the context in the video may have encouraged a more empathetic response
+to the content, even for those who do not naturally empathise with
+another's situation
 
 Alongside the significant covariate effect of trait empathy, gender was
 found to be a separate significant covariate for both knowledge and
 attitudes. We suspect that the known gender variation in
-empathy\ :sup:`(n.d.u)` can partly explain why gender was a significant
+empathy\ :sup:`23` can partly explain why gender was a significant
 covariate. This information provides grounds to suggest further research
 is conducted into the effect of an emotional, video-based stimulus, and
 whether any specific gender effects exist in relation to the efficacy of
@@ -420,11 +417,11 @@ improve perception of ECT, with emotional stimuli proving to be the best
 method for information delivery, especially for people with low
 perspective-taking empathy. Overall, better knowledge of people's
 experiences with ECT may ultimately mean less fear and apprehension
-among the public.\ :sup:`(n.d.v)` The results of our findings can be
-used as a recommendation for both the NHS and the wider health sector on
-how to structure and deliver their informational material. A critical
-point seems to be that personal accounts and context are important in
-the effective delivery of health information.
+among the public.\ :sup:`24` The results of our findings can be used as
+a recommendation for both the NHS and the wider health sector on how to
+structure and deliver their informational material. A critical point
+seems to be that personal accounts and context are important in the
+effective delivery of health information.
 
 .. _sec3-4:
 
@@ -432,23 +429,22 @@ Limitations and suggestions for future research
 -----------------------------------------------
 
 This study focuses on ECT, which carries a large amount of
-stigma.\ :sup:`(n.d.w),(n.d.e)` Going forward, it could be interesting
-to explore whether the effect exists with other health treatments with
-potential negative public perceptions. Some alternative treatments still
-have stigma attached,\ :sup:`(n.d.x)` and contextual evidence may be the
-key to improving perceptions of these treatments for mental health
-illnesses. The results provide grounds to recommend that more emotive
-content should be introduced when educating the public about mental
-health. Suffering from a mental health disorder can still affect your
-ability to find work and maintain relationships.\ :sup:`(n.d.y)`
-Further, certain disorders, such as schizophrenia and psychosis, are
-still hugely feared by the general public.\ :sup:`(n.d.z)` Introducing a
-context and personal experiences to these illnesses helps to distinguish
-between mental health in the real world and the overdramatization of
-disorders fed to the public by the media.\ :sup:`(n.d.aa)` Making the
-distinction between individual and symptom could help integration in
-society, improve quality of life and aid recovery for those with a
-mental illness.
+stigma.\ :sup:`6,8` Going forward, it could be interesting to explore
+whether the effect exists with other health treatments with potential
+negative public perceptions. Some alternative treatments still have
+stigma attached,\ :sup:`4` and contextual evidence may be the key to
+improving perceptions of these treatments for mental health illnesses.
+The results provide grounds to recommend that more emotive content
+should be introduced when educating the public about mental health.
+Suffering from a mental health disorder can still affect your ability to
+find work and maintain relationships.\ :sup:`25` Further, certain
+disorders, such as schizophrenia and psychosis, are still hugely feared
+by the general public.\ :sup:`26` Introducing a context and personal
+experiences to these illnesses helps to distinguish between mental
+health in the real world and the overdramatization of disorders fed to
+the public by the media.\ :sup:`27` Making the distinction between
+individual and symptom could help integration in society, improve
+quality of life and aid recovery for those with a mental illness.
 
 The authors would like to acknowledge Karen Osala, Hannah Watts and Mark
 Pointer from Southern Health NHS Foundation, for help in producing the
@@ -487,141 +483,3 @@ Declaration of interest
 =======================
 
 None.
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-ref1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-ref2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-ref3
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-ref4
-
-      n.d.x.
-
-   .. container:: csl-entry
-      :name: ref-ref5
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-ref6
-
-      n.d.w.
-
-   .. container:: csl-entry
-      :name: ref-ref7
-
-      n.d.o.
-
-   .. container:: csl-entry
-      :name: ref-ref8
-
-      n.d.e.
-
-   .. container:: csl-entry
-      :name: ref-ref9
-
-      n.d.f.
-
-   .. container:: csl-entry
-      :name: ref-ref10
-
-      n.d.g.
-
-   .. container:: csl-entry
-      :name: ref-ref11
-
-      n.d.h.
-
-   .. container:: csl-entry
-      :name: ref-ref12
-
-      n.d.i.
-
-   .. container:: csl-entry
-      :name: ref-ref13
-
-      n.d.j.
-
-   .. container:: csl-entry
-      :name: ref-ref14
-
-      n.d.k.
-
-   .. container:: csl-entry
-      :name: ref-ref15
-
-      n.d.l.
-
-   .. container:: csl-entry
-      :name: ref-ref16
-
-      n.d.m.
-
-   .. container:: csl-entry
-      :name: ref-ref17
-
-      n.d.n.
-
-   .. container:: csl-entry
-      :name: ref-ref18
-
-      n.d.p.
-
-   .. container:: csl-entry
-      :name: ref-ref19
-
-      n.d.q.
-
-   .. container:: csl-entry
-      :name: ref-ref20
-
-      n.d.r.
-
-   .. container:: csl-entry
-      :name: ref-ref21
-
-      n.d.s.
-
-   .. container:: csl-entry
-      :name: ref-ref22
-
-      n.d.t.
-
-   .. container:: csl-entry
-      :name: ref-ref23
-
-      n.d.u.
-
-   .. container:: csl-entry
-      :name: ref-ref24
-
-      n.d.v.
-
-   .. container:: csl-entry
-      :name: ref-ref25
-
-      n.d.y.
-
-   .. container:: csl-entry
-      :name: ref-ref26
-
-      n.d.z.
-
-   .. container:: csl-entry
-      :name: ref-ref27
-
-      n.d.aa.

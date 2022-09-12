@@ -2,6 +2,8 @@
 Systematic review into factors associated with the recruitment crisis in psychiatry in the UK: students', trainees' and consultants' views
 ==========================================================================================================================================
 
+
+
 Abid Choudry
 Saeed FarooqCorrespondence to Abid Choudry (abidchoudry@doctors.org.uk)
  [1]_
@@ -39,23 +41,21 @@ Saeed FarooqCorrespondence to Abid Choudry (abidchoudry@doctors.org.uk)
 
 Psychiatry as a career has been negatively regarded and unpopular among
 medical students. About 3.6% of British graduates decide on a career in
-psychiatry whereas about 6% are needed. :sup:`(n.d.a)` From 2000 to
-2011, the absolute number of consultant psychiatrists in England rose
-from 2904 to 4394 (an increase of 51%), with similar increases in
-Scotland and Wales, in line with the expansion of the consultant
-workforce in most secondary care specialties. :sup:`(n.d.a)` A need for
-more psychiatric consultant posts has been predicted based on
-projections of increasing workloads due to the increased population
-needs. :sup:`(n.d.b)` A perceived fall in the proportion of UK medical
-school graduates choosing a postgraduate career in psychiatry, and low
-competition ratios for first-year core specialist training (CT1) posts
-in psychiatry, :sup:`(n.d.c)–(n.d.d)` has led to many questions about
-the way in which psychiatry is taught at medical school and how
-psychiatry could be made as an attractive career option.
-:sup:`(n.d.e)–(n.d.f)`
+psychiatry whereas about 6% are needed. :sup:`1` From 2000 to 2011, the
+absolute number of consultant psychiatrists in England rose from 2904 to
+4394 (an increase of 51%), with similar increases in Scotland and Wales,
+in line with the expansion of the consultant workforce in most secondary
+care specialties. :sup:`1` A need for more psychiatric consultant posts
+has been predicted based on projections of increasing workloads due to
+the increased population needs. :sup:`2` A perceived fall in the
+proportion of UK medical school graduates choosing a postgraduate career
+in psychiatry, and low competition ratios for first-year core specialist
+training (CT1) posts in psychiatry, :sup:`3–5` has led to many questions
+about the way in which psychiatry is taught at medical school and how
+psychiatry could be made as an attractive career option. :sup:`6–8`
 
 Low recruitment in psychiatry is a global issue, highlighted in a number
-of publications. :sup:`(n.d.g),(n.d.h)` However, the problem also has
+of publications. :sup:`9,10` However, the problem also has
 country-specific dimensions, as each country has different factors such
 as the pay scale for the specialty, medical education system and
 training programmes, which may attract or dissuade medical students from
@@ -78,16 +78,15 @@ term.
 Method
 ======
 
-We followed the PRISMA statement :sup:`(n.d.i)` as a guide for
-conducting the systematic review. The following electronic databases
-were searched from 1974 onwards: Medline, EMBASE, CINAHL, PsycINFO.
-These databases were selected in view of the fact that almost all the
-literature published from the UK would be covered in these databases.
-Keywords used in the searches included: medical students, trainees,
-doctors, consultant, attitudes, psychiatry, career, undergraduate
-psychiatry. Boolean operations and truncations were added to allow for
-alternative endings in the keyword searches. The search was last updated
-in August 2016.
+We followed the PRISMA statement :sup:`11` as a guide for conducting the
+systematic review. The following electronic databases were searched from
+1974 onwards: Medline, EMBASE, CINAHL, PsycINFO. These databases were
+selected in view of the fact that almost all the literature published
+from the UK would be covered in these databases. Keywords used in the
+searches included: medical students, trainees, doctors, consultant,
+attitudes, psychiatry, career, undergraduate psychiatry. Boolean
+operations and truncations were added to allow for alternative endings
+in the keyword searches. The search was last updated in August 2016.
 
 We included studies that described a UK sample, were published in
 English in a peer-reviewed journal and provided original data on careers
@@ -110,12 +109,12 @@ included 27 papers in the review. Further details are provided in `Fig.
 1 <#F1>`__. The studies were conducted in a number of different
 populations, settings and periods, and also used diverse methodologies
 varying from surveys to statistics derived from databases. The 30-item
-Attitudes Towards Psychiatry (ATP-30), :sup:`(n.d.j)` a validated tool
-used to assess attitudes of students towards psychiatry, was used in
-four papers; other papers used different questionnaires to assess
-attitudes. Due to the diverse methodologies it was inappropriate to pool
-the data to produce a statistical summary. We therefore describe the
-main findings and produce a narrative summary of results.
+Attitudes Towards Psychiatry (ATP-30), :sup:`12` a validated tool used
+to assess attitudes of students towards psychiatry, was used in four
+papers; other papers used different questionnaires to assess attitudes.
+Due to the diverse methodologies it was inappropriate to pool the data
+to produce a statistical summary. We therefore describe the main
+findings and produce a narrative summary of results.
 
 .. figure:: 346f1
    :alt: Summary of the abstracts reviewed to identify relevant papers.
@@ -163,8 +162,8 @@ Careers) for training posts.
    |             |             |             |             | rate, %     |
    +=============+=============+=============+=============+=============+
    | Brook, 1976 | Medical     | Re          | 531         | No data     |
-   | :su         | school of   | trospective |             | provided    |
-   | p:`(n.d.k)` | origin      | cohort      |             |             |
+   | :sup:`19`   | school of   | trospective |             | provided    |
+   |             | origin      | cohort      |             |             |
    |             | for         |             |             |             |
    |             | ps          |             |             |             |
    |             | ychiatrists |             |             |             |
@@ -172,8 +171,8 @@ Careers) for training posts.
    |             |             |             |             |             |
    +-------------+-------------+-------------+-------------+-------------+
    | Brook, 1983 | Medical     | Re          | 1229        | No data     |
-   | :su         | school of   | trospective |             | provided    |
-   | p:`(n.d.l)` | origin      | cohort      |             |             |
+   | :sup:`21`   | school of   | trospective |             | provided    |
+   |             | origin      | cohort      |             |             |
    |             | for         |             |             |             |
    |             | ps          |             |             |             |
    |             | ychiatrists |             |             |             |
@@ -182,54 +181,49 @@ Careers) for training posts.
    +-------------+-------------+-------------+-------------+-------------+
    | Levine *et  | Medical     | Survey      | 30          | No M:F      |
    | al*, 1983   | students    |             |             | data/100    |
-   | :su         |             |             |             |             |
-   | p:`(n.d.m)` |             |             |             |             |
+   | :sup:`24`   |             |             |             |             |
    +-------------+-------------+-------------+-------------+-------------+
    |             |             |             |             |             |
    +-------------+-------------+-------------+-------------+-------------+
    | Brook *et   | Medical     | Survey      | 498         | 64:36/40    |
    | al*, 1986   | students    |             |             |             |
-   | :su         |             |             |             |             |
-   | p:`(n.d.n)` |             |             |             |             |
+   | :sup:`20`   |             |             |             |             |
    +-------------+-------------+-------------+-------------+-------------+
    |             |             |             |             |             |
    +-------------+-------------+-------------+-------------+-------------+
    | Calvert *et | Medical     | Survey      | 392         | M:F, no     |
    | al*, 1999   | students    |             |             | significant |
-   | :su         |             |             |             | di          |
-   | p:`(n.d.o)` |             |             |             | fference/70 |
+   | :sup:`33`   |             |             |             | di          |
+   |             |             |             |             | fference/70 |
    +-------------+-------------+-------------+-------------+-------------+
    |             |             |             |             |             |
    +-------------+-------------+-------------+-------------+-------------+
    | Mcparland   | Medical     | Cohort      | 379         | 54:46/84    |
    | *et al*,    | students    | study –     |             |             |
    | 2003        |             | survey      |             |             |
-   | :su         |             |             |             |             |
-   | p:`(n.d.p)` |             |             |             |             |
+   | :sup:`30`   |             |             |             |             |
    +-------------+-------------+-------------+-------------+-------------+
    |             |             |             |             |             |
    +-------------+-------------+-------------+-------------+-------------+
    | Maidment    | Medical     | Survey      | 837         | 33.         |
    | *et al*,    | students    |             |             | 6:66.4/99.6 |
    | 2003        |             |             |             |             |
-   | :su         |             |             |             |             |
-   | p:`(n.d.q)` |             |             |             |             |
+   | :sup:`31`   |             |             |             |             |
    +-------------+-------------+-------------+-------------+-------------+
    |             |             |             |             |             |
    +-------------+-------------+-------------+-------------+-------------+
    | Petrides &  | Medical     | Cohort      | 8283        | Only        |
    | McManus,    | students    | study –     |             | descriptive |
    | 2004        |             | survey      |             | data        |
-   | :su         |             |             |             | provided in |
-   | p:`(n.d.r)` |             |             |             | this paper  |
+   | :sup:`23`   |             |             |             | provided in |
+   |             |             |             |             | this paper  |
    +-------------+-------------+-------------+-------------+-------------+
    |             |             |             |             |             |
    +-------------+-------------+-------------+-------------+-------------+
    | Rajagopal   | Medical     | Survey      | 301         | 3           |
    | *et al*,    | students    |             |             | 1.9:68.1/52 |
    | 2004        |             |             |             |             |
-   | :su         |             |             |             |             |
-   | p:`(n.d.s)` |             |             |             |             |
+   | :sup:`35`   |             |             |             |             |
    +-------------+-------------+-------------+-------------+-------------+
    |             |             |             |             |             |
    +-------------+-------------+-------------+-------------+-------------+
@@ -237,15 +231,14 @@ Careers) for training posts.
    | rtis-Barton | students    |             |             |             |
    | & Eagles,   |             |             |             |             |
    | 2011        |             |             |             |             |
-   | :su         |             |             |             |             |
-   | p:`(n.d.t)` |             |             |             |             |
+   | :sup:`25`   |             |             |             |             |
    +-------------+-------------+-------------+-------------+-------------+
    |             |             |             |             |             |
    +-------------+-------------+-------------+-------------+-------------+
    | Budd *et    | Medical     | Survey      | 905         | 36:64/Not   |
    | al*, 2011   | students at |             |             | provided    |
-   | :su         | 4           |             |             | clearly     |
-   | p:`(n.d.u)` | different   |             |             | reported    |
+   | :sup:`26`   | 4           |             |             | clearly     |
+   |             | different   |             |             | reported    |
    |             | medical     |             |             | range       |
    |             | schools     |             |             | 50–85%      |
    |             |             |             |             | depending   |
@@ -258,39 +251,37 @@ Careers) for training posts.
    | Archdall    | Medical     | Survey      | 15          | 30:70/100   |
    | *et al*,    | students    |             |             |             |
    | 2013        |             |             |             |             |
-   | :su         |             |             |             |             |
-   | p:`(n.d.v)` |             |             |             |             |
+   | :sup:`34`   |             |             |             |             |
    +-------------+-------------+-------------+-------------+-------------+
    |             |             |             |             |             |
    +-------------+-------------+-------------+-------------+-------------+
    | Halder *et  | Medical     | Survey      | 484         | 34:66/None  |
    | al*, 2013   | students –  |             |             |             |
-   | :su         | 18 UK       |             |             |             |
-   | p:`(n.d.w)` | medical     |             |             |             |
+   | :sup:`28`   | 18 UK       |             |             |             |
+   |             | medical     |             |             |             |
    |             | schools     |             |             |             |
    +-------------+-------------+-------------+-------------+-------------+
    |             |             |             |             |             |
    +-------------+-------------+-------------+-------------+-------------+
    | Farooq *et  | Medical     | Survey      | 291         | Males       |
    | al*, 2014   | students    |             |             | 37:63/16    |
-   | :su         | (only UK    |             |             |             |
-   | p:`(n.d.x)` | data used)  |             |             |             |
+   | :sup:`27`   | (only UK    |             |             |             |
+   |             | data used)  |             |             |             |
    +-------------+-------------+-------------+-------------+-------------+
    |             |             |             |             |             |
    +-------------+-------------+-------------+-------------+-------------+
    | Maidment    | Trainee     | Survey      | 234         | 52.         |
    | *et al*,    | doctors     |             |             | 1:47.9/67.4 |
    | 2004        |             |             |             |             |
-   | :su         |             |             |             |             |
-   | p:`(n.d.q)` |             |             |             |             |
+   | :sup:`31`   |             |             |             |             |
    +-------------+-------------+-------------+-------------+-------------+
    |             |             |             |             |             |
    +-------------+-------------+-------------+-------------+-------------+
    | Goldacre    | Trainee     | Survey      | 21 845 year | Year 1      |
    | *et al*,    | doctors     |             | 1           | 55:45/75    |
    | 2005        | (graduates  |             | 17 741 year | Year 3      |
-   | :su         | from 1974   |             | 3           | 56:44/74    |
-   | p:`(n.d.y)` | to          |             |             |             |
+   | :sup:`14`   | from 1974   |             | 3           | 56:44/74    |
+   |             | to          |             |             |             |
    |             | 2000, UK    |             |             |             |
    |             | medical     |             |             |             |
    |             | schools)    |             |             |             |
@@ -299,15 +290,14 @@ Careers) for training posts.
    +-------------+-------------+-------------+-------------+-------------+
    | Lambert *et | Trainee     | Survey      | 572         | No M:F      |
    | al*, 2006   | doctors     |             |             | data/74     |
-   | :su         |             |             |             |             |
-   | p:`(n.d.z)` |             |             |             |             |
+   | :sup:`15`   |             |             |             |             |
    +-------------+-------------+-------------+-------------+-------------+
    |             |             |             |             |             |
    +-------------+-------------+-------------+-------------+-------------+
    | Fazel *et   | Trainee     | Database    | 31 434      | No M:F data |
    | al*, 2009   | doctors     | analysis    |             |             |
-   | :sup        | (all        |             |             |             |
-   | :`(n.d.aa)` | applicants  |             |             |             |
+   | :sup:`13`   | (all        |             |             |             |
+   |             | applicants  |             |             |             |
    |             | to MMC for  |             |             |             |
    |             | training    |             |             |             |
    |             | posts)      |             |             |             |
@@ -317,16 +307,15 @@ Careers) for training posts.
    | Barras &    | Trainee     | Survey      | 359         | 52.         |
    | Harris,     | doctors     |             |             | 2:47.8/16.1 |
    | 2012        |             |             |             |             |
-   | :sup        |             |             |             |             |
-   | :`(n.d.ab)` |             |             |             |             |
+   | :sup:`38`   |             |             |             |             |
    +-------------+-------------+-------------+-------------+-------------+
    |             |             |             |             |             |
    +-------------+-------------+-------------+-------------+-------------+
    | Goldacre    | Trainee     | Survey      | 9155        | 37:63/56    |
    | *et al*,    | doctors who |             |             |             |
    | 2012        | had         |             |             |             |
-   | :sup        | qualified   |             |             |             |
-   | :`(n.d.ac)` | in 2002,    |             |             |             |
+   | :sup:`16`   | qualified   |             |             |             |
+   |             | in 2002,    |             |             |             |
    |             | 2005,       |             |             |             |
    |             | 2008        |             |             |             |
    +-------------+-------------+-------------+-------------+-------------+
@@ -335,16 +324,16 @@ Careers) for training posts.
    | Goldacre    | Trainee     | Survey      | 33 974      | Year 1      |
    | *et al*,    | doctors who |             |             | 49:51/65.9  |
    | 2013        | qualified   |             |             | Year 3      |
-   | :sup        | between     |             |             | 51:49/68.6  |
-   | :`(n.d.ad)` | 1974        |             |             | Year 5      |
+   | :sup:`17`   | between     |             |             | 51:49/68.6  |
+   |             | 1974        |             |             | Year 5      |
    |             | and 2009    |             |             | 52:48/69.5  |
    +-------------+-------------+-------------+-------------+-------------+
    |             |             |             |             |             |
    +-------------+-------------+-------------+-------------+-------------+
    | Svirko *et  | Trainee     | Survey      | 9348        | 46.         |
    | al*, 2013   | doctors who |             |             | 9:55.8/52.2 |
-   | :sup        | qualified   |             |             |             |
-   | :`(n.d.ae)` | 2005, 2008, |             |             |             |
+   | :sup:`18`   | qualified   |             |             |             |
+   |             | 2005, 2008, |             |             |             |
    |             | 2009        |             |             |             |
    +-------------+-------------+-------------+-------------+-------------+
    |             |             |             |             |             |
@@ -352,8 +341,8 @@ Careers) for training posts.
    | Collier &   | Hospital    | Survey      | 19 medical  | No M:F      |
    | Moreton,    | p           |             | schools     | data/70     |
    | 2013        | ostgraduate |             |             |             |
-   | :sup        | departments |             |             |             |
-   | :`(n.d.af)` | of 19       |             |             |             |
+   | :sup:`22`   | departments |             |             |             |
+   |             | of 19       |             |             |             |
    |             | medical     |             |             |             |
    |             | schools     |             |             |             |
    +-------------+-------------+-------------+-------------+-------------+
@@ -361,31 +350,30 @@ Careers) for training posts.
    +-------------+-------------+-------------+-------------+-------------+
    | Woolf *et   | Medical     | Cohort      | 105         | 34:66/50    |
    | al*, 2015   | students    | study –     |             |             |
-   | :sup        | and         | survey      |             |             |
-   | :`(n.d.ag)` | trainee     |             |             |             |
+   | :sup:`37`   | and         | survey      |             |             |
+   |             | trainee     |             |             |             |
    |             | doctors     |             |             |             |
    +-------------+-------------+-------------+-------------+-------------+
    |             |             |             |             |             |
    +-------------+-------------+-------------+-------------+-------------+
    | Korszun *et | Trainee     | Survey      | 309         | 61.         |
    | al*, 2011   | doctors,    |             |             | 5:38.5/None |
-   | :sup        | academics,  |             |             |             |
-   | :`(n.d.ah)` | trust       |             |             |             |
+   | :sup:`36`   | academics,  |             |             |             |
+   |             | trust       |             |             |             |
    |             | clinicians  |             |             |             |
    +-------------+-------------+-------------+-------------+-------------+
    |             |             |             |             |             |
    +-------------+-------------+-------------+-------------+-------------+
    | Dein *et    | Consultants | Survey      | 72          | 68:32/82.7  |
    | al*, 2007   |             |             |             |             |
-   | :sup        |             |             |             |             |
-   | :`(n.d.ai)` |             |             |             |             |
+   | :sup:`39`   |             |             |             |             |
    +-------------+-------------+-------------+-------------+-------------+
    |             |             |             |             |             |
    +-------------+-------------+-------------+-------------+-------------+
    | Denman *et  | Consultants | Survey      | C           | 55:45/41.7  |
    | al*, 2016   | and         |             | onsultants: | (           |
-   | :sup        | trainees    |             | 47          | consultants |
-   | :`(n.d.aj)` |             |             | Trainees:   | 42%,        |
+   | :sup:`32`   | trainees    |             | 47          | consultants |
+   |             |             |             | Trainees:   | 42%,        |
    |             |             |             | 51          | trainees    |
    |             |             |             |             | 41%)        |
    +-------------+-------------+-------------+-------------+-------------+
@@ -397,10 +385,10 @@ Careers) for training posts.
 In survey-based studies response rates varied from 16% to 100%. Mean
 response rate from the papers which had figures available (*n* = 20) was
 63.3%. The population in all studies comprised of 1879 psychiatrists,
-6733 students and 220 746 trainees. One database study :sup:`(n.d.aa)`
-looked at 31 434 trainee doctors, and studies by Goldacre *et al* were
-aimed at all doctors in training, accounting for large numbers of
-respondents in the trainee subcategory. :sup:`(n.d.y)–(n.d.ae)`
+6733 students and 220 746 trainees. One database study :sup:`13` looked
+at 31 434 trainee doctors, and studies by Goldacre *et al* were aimed at
+all doctors in training, accounting for large numbers of respondents in
+the trainee subcategory. :sup:`14–18`
 
 .. _S4:
 
@@ -409,45 +397,43 @@ The influence of the medical school and teaching practices
 
 Most of the research addressing the influence of the medical school and
 teaching practices on selecting psychiatry as a career was carried out
-in the 1970's and 1980's. Two studies by Brook *et al*
-:sup:`(n.d.k),(n.d.n)` looked at the medical school of origin for 531
-psychiatrists between 1961 and 1970 and reported no significant
-relationship between schools that had a professional unit or specific
-teaching programme and students pursuing psychiatry in the long term.
-However, it was noted that those schools that produced fewer
-psychiatrists tended to have either a recently established professional
-unit or none. :sup:`(n.d.k)`
+in the 1970's and 1980's. Two studies by Brook *et al* :sup:`19,20`
+looked at the medical school of origin for 531 psychiatrists between
+1961 and 1970 and reported no significant relationship between schools
+that had a professional unit or specific teaching programme and students
+pursuing psychiatry in the long term. However, it was noted that those
+schools that produced fewer psychiatrists tended to have either a
+recently established professional unit or none. :sup:`19`
 
 No clear pattern emerged in terms of the type of teaching offered at
 each university and the impact this had on choice of psychiatry as a
-career in the long term. :sup:`(n.d.k)` All four Scottish schools, and
+career in the long term. :sup:`19` All four Scottish schools, and
 Cambridge and Oxford were noted to be higher in terms of producing
 psychiatrists, attributed possibly to the well-established professional
-units such as the Maudsley and Bethlem Royal hospitals. :sup:`(n.d.k)`
-The personality, charisma and enthusiasm of teachers were associated
-with an increase in the uptake of psychiatry in the long term.
-:sup:`(n.d.k),(n.d.l)`
+units such as the Maudsley and Bethlem Royal hospitals. :sup:`19` The
+personality, charisma and enthusiasm of teachers were associated with an
+increase in the uptake of psychiatry in the long term. :sup:`19,21`
 
-Brook *et al* :sup:`(n.d.l)` found that the effectiveness of teaching
-rather that the amount of teaching had an effect on student attitudes
-and recruitment into psychiatry The attitude of non-psychiatric teachers
+Brook *et al* :sup:`21` found that the effectiveness of teaching rather
+that the amount of teaching had an effect on student attitudes and
+recruitment into psychiatry The attitude of non-psychiatric teachers
 appeared to be influential with doctors experiencing negative attitudes
-of other doctors towards psychiatry. :sup:`(n.d.l)` The two hospitals
-which ranked top in terms of producing psychiatrists had changed their
+of other doctors towards psychiatry. :sup:`21` The two hospitals which
+ranked top in terms of producing psychiatrists had changed their
 teaching model. One stressed the importance of psychiatry as being part
 of general medicine, emphasising the effectiveness of physical therapy,
 whereas the other placed emphasis on liaison psychiatry and
-psychotherapy. :sup:`(n.d.l)`
+psychotherapy. :sup:`21`
 
-More recent work by Collier *et al* :sup:`(n.d.af)` looked into the
-teaching time allocated for psychiatry in foundation programmes across
-the country. They found that only 2.3% of teaching was dedicated to
-psychiatry compared with 44.1% to medical and surgical topics.
-:sup:`(n.d.af)` Exposure to psychiatry remained limited with 4 out of 17
-hospitals in the survey not having any teaching on psychiatry for
-medical students. :sup:`(n.d.af)` Doctors generally led a higher
-proportion of medicine and surgery teaching sessions (63%) compared with
-psychiatry (48%). :sup:`(n.d.af)`
+More recent work by Collier *et al* :sup:`22` looked into the teaching
+time allocated for psychiatry in foundation programmes across the
+country. They found that only 2.3% of teaching was dedicated to
+psychiatry compared with 44.1% to medical and surgical topics. :sup:`22`
+Exposure to psychiatry remained limited with 4 out of 17 hospitals in
+the survey not having any teaching on psychiatry for medical students.
+:sup:`22` Doctors generally led a higher proportion of medicine and
+surgery teaching sessions (63%) compared with psychiatry (48%).
+:sup:`22`
 
 .. _S5:
 
@@ -456,22 +442,22 @@ Medical students' views of psychiatry and factors affecting career choice
 
 Twelve studies examined the factors affecting medical students' career
 choice and one study looked at both medical students and trainees.
-Petrides *et al* :sup:`(n.d.r)` studied the theoretical understanding of
-how different medical specialties are perceived and how choices are
-made. Psychiatrists were found to have a more artistic approach to
-medicine, seeing interpreting and responding imaginatively to a range of
-medical, social, ethical and other problems. This is in keeping with
-early work by Levine *et al* :sup:`(n.d.m)` who also found that there
-was a group of students who were ‘psychologically minded’ and they could
-be identified and encouraged to make psychiatry as career choice.
+Petrides *et al* :sup:`23` studied the theoretical understanding of how
+different medical specialties are perceived and how choices are made.
+Psychiatrists were found to have a more artistic approach to medicine,
+seeing interpreting and responding imaginatively to a range of medical,
+social, ethical and other problems. This is in keeping with early work
+by Levine *et al* :sup:`24` who also found that there was a group of
+students who were ‘psychologically minded’ and they could be identified
+and encouraged to make psychiatry as career choice.
 
-Budd *et al* :sup:`(n.d.u)` found that job satisfaction (98%, *n* = 128)
-and family-friendly status of psychiatry (79%, *n* = 103) were important
-for students who rated psychiatry as one of their top three choices.
-:sup:`(n.d.u)` The academic status was significantly less important
-(48%) for students who placed psychiatry as their top three specialty
-schools *v.* 63% for those who did not place psychiatry in their top
-three choice. :sup:`(n.d.u)`
+Budd *et al* :sup:`26` found that job satisfaction (98%, *n* = 128) and
+family-friendly status of psychiatry (79%, *n* = 103) were important for
+students who rated psychiatry as one of their top three choices.
+:sup:`26` The academic status was significantly less important (48%) for
+students who placed psychiatry as their top three specialty schools *v.*
+63% for those who did not place psychiatry in their top three choice.
+:sup:`26`
 
 .. _S6:
 
@@ -479,19 +465,18 @@ Choice of psychiatry as a career among medical and sixth form students
 ----------------------------------------------------------------------
 
 The number of students choosing psychiatry has remained fairly stable at
-around 4–7%. :sup:`(n.d.t)–(n.d.x)` Three per cent of students from six
-medical schools placed psychiatry as their first choice, with 18%
-seriously considering it. :sup:`(n.d.n)` Halder *et al* :sup:`(n.d.w)`
-found similar results in 18 medical schools; 16% chose psychiatry as a
-future career on entering medical school but by the final year only 3%
-had decided to pursue a career in the subject. These results were
-replicated by Farooq *et al* :sup:`(n.d.x)` In a survey of sixth form
-students, Maidment *et al* :sup:`(n.d.ak)` reported that 60.9% (*n* =
-363) indicated that it would be very likely or they would definitely
-want to pursue psychiatry as a career. In terms of overall intentions to
-pursue a career in a specialty, the ratings for psychiatry was similar
-to general medicine at 12.4% (*n* = 72) *v.* 12.2% (*n* = 69)
-respectively. :sup:`(n.d.ak)`
+around 4–7%. :sup:`25–27` Three per cent of students from six medical
+schools placed psychiatry as their first choice, with 18% seriously
+considering it. :sup:`20` Halder *et al* :sup:`28` found similar results
+in 18 medical schools; 16% chose psychiatry as a future career on
+entering medical school but by the final year only 3% had decided to
+pursue a career in the subject. These results were replicated by Farooq
+*et al* :sup:`27` In a survey of sixth form students, Maidment *et al*
+:sup:`29` reported that 60.9% (*n* = 363) indicated that it would be
+very likely or they would definitely want to pursue psychiatry as a
+career. In terms of overall intentions to pursue a career in a
+specialty, the ratings for psychiatry was similar to general medicine at
+12.4% (*n* = 72) *v.* 12.2% (*n* = 69) respectively. :sup:`29`
 
 .. _S7:
 
@@ -500,56 +485,55 @@ Effect of undergraduate attachment and education on choosing psychiatry as a car
 
 Positive attitudes towards psychiatry and the influence by a teacher
 during the attachment correlated with an intention to purse psychiatry
-as a career in the long term. :sup:`(n.d.ak)–(n.d.q)` Three studies
-highlighted the importance of psychiatric attachment. Student attitudes
-improved as the attachment progressed. :sup:`(n.d.u),(n.d.p),(n.d.q)`
-Maidment *et al* :sup:`(n.d.ak)` found 1.4% of fourth-year medical
-students expressed a definite intention to pursue which rose to 4.7%
-after their attachment. :sup:`(n.d.ak)` McParland *et al* :sup:`(n.d.p)`
-reported that 19% (*n* = 58/309) of students were very attracted to
-psychiatry or had a definite intention to pursue psychiatry at the start
-of the placement, which increased to 27% (*n* = 101/373) of students at
-the end of the attachment. The importance of the undergraduate
-experience was highlighted by a recent study showing 50% of consultants
-and 37% of trainees surveyed decided on a career in psychiatry while
-still at medical school. :sup:`(n.d.aj)`
+as a career in the long term. :sup:`29–31` Three studies highlighted the
+importance of psychiatric attachment. Student attitudes improved as the
+attachment progressed. :sup:`26,30,31` Maidment *et al* :sup:`29` found
+1.4% of fourth-year medical students expressed a definite intention to
+pursue which rose to 4.7% after their attachment. :sup:`29` McParland
+*et al* :sup:`30` reported that 19% (*n* = 58/309) of students were very
+attracted to psychiatry or had a definite intention to pursue psychiatry
+at the start of the placement, which increased to 27% (*n* = 101/373) of
+students at the end of the attachment. The importance of the
+undergraduate experience was highlighted by a recent study showing 50%
+of consultants and 37% of trainees surveyed decided on a career in
+psychiatry while still at medical school. :sup:`32`
 
-Calvert *et al* :sup:`(n.d.o)` looked into the attitudes of medical
-students towards psychiatry and psychiatric patients at year 1, 3 and 5
-in medical school. First-year medical students were more likely to have
+Calvert *et al* :sup:`33` looked into the attitudes of medical students
+towards psychiatry and psychiatric patients at year 1, 3 and 5 in
+medical school. First-year medical students were more likely to have
 stereotypical views compared with third- and fifth-year students, and
 were more likely to agree with statements such as ‘Psychiatry deals with
-imaginary illness’ (mean 1.4, s.d. = 0.9, *P* < 0.5). :sup:`(n.d.o)`
+imaginary illness’ (mean 1.4, s.d. = 0.9, *P* < 0.5). :sup:`33`
 Fifth-year students (mean 3.2, s.d. = 1.4) showed lower agreement than
 third-year medical students (mean 3.6, s.d. = 1.2, *P* < 0.5) with the
-statement ‘Psychiatry is as a challenging career’. :sup:`(n.d.o)` As
-they progressed through medical school, students recognised that mental
+statement ‘Psychiatry is as a challenging career’. :sup:`33` As they
+progressed through medical school, students recognised that mental
 illness has serious morbidity and that people do recover from mental
-illness, :sup:`(n.d.o)` showing that attitudes towards psychiatric
-patients improved with greater clinical experience but possibly became
-more negative towards psychiatry as a career.
+illness, :sup:`33` showing that attitudes towards psychiatric patients
+improved with greater clinical experience but possibly became more
+negative towards psychiatry as a career.
 
 Other factors that appeared to affect students positively included
 enrichment activities, i.e. activities beyond standard teaching and
 clinical placements led to a significantly increased interest in
-psychiatry. :sup:`(n.d.w)` These included research experience in
-psychiatry (13% *v.* 4% in those not interested in psychiatry, *P* =
-0.001), university psychiatry clubs (38% *v.* 11%, *P* < 0.001),
-psychiatry electives (14% *v.* 1%, *P* < 0.001) and psychiatry special
-study modules (38% *v.* 16%, *P* < 0.001). :sup:`(n.d.w)`
+psychiatry. :sup:`28` These included research experience in psychiatry
+(13% *v.* 4% in those not interested in psychiatry, *P* = 0.001),
+university psychiatry clubs (38% *v.* 11%, *P* < 0.001), psychiatry
+electives (14% *v.* 1%, *P* < 0.001) and psychiatry special study
+modules (38% *v.* 16%, *P* < 0.001). :sup:`28`
 
-McParland *et al* :sup:`(n.d.p)` identified factors which increased
-interest in psychiatry, including: influence or encouragement by someone
-during the attachment (74%, *n* = 282), particularly the influence by
+McParland *et al* :sup:`30` identified factors which increased interest
+in psychiatry, including: influence or encouragement by someone during
+the attachment (74%, *n* = 282), particularly the influence by
 consultants (43%, *n* = 163), exposure to interesting and stimulating
 ideas (29%, *n* = 110), liking someone's approach (27%, *n* = 103),
 feeling someone believed in their ability (11%, *n* = 41) and having
-formed close working relationships (9%, *n* = 33). :sup:`(n.d.p)` Other
+formed close working relationships (9%, *n* = 33). :sup:`30` Other
 factors that had a significant impact were: receiving encouragement from
 the consultants (*n* = 374, *P* < 0.001, *r* = 0.26), seeing patients
 respond to treatment (*n* = 374, *P* < 0.001, *r* = 0.20) and having a
 direct role in the involvement of patient care (*n* = 374, *P* < 0.001,
-*r* = 0.26). :sup:`(n.d.p)`
+*r* = 0.26). :sup:`30`
 
 .. _S8:
 
@@ -558,81 +542,78 @@ Factors which did not affect career choice of medical students
 
 Seeing patients in different settings or different phases of the illness
 had no effect on career choice of medical students when deciding their
-career intentions. :sup:`(n.d.w)` Interestingly, one study found that
-the earning potential and status of psychiatry had no effect on
-selecting psychiatry as a career choice. :sup:`(n.d.u)` Other factors
-related to teaching such as quality of rating of small group teaching
-and lectures, :sup:`(n.d.w)` the curriculum type used
-:sup:`(n.d.p),(n.d.q)` and performance at viva examinations and multiple
-choice questions also had no effect on the career choice. :sup:`(n.d.q)`
+career intentions. :sup:`28` Interestingly, one study found that the
+earning potential and status of psychiatry had no effect on selecting
+psychiatry as a career choice. :sup:`26` Other factors related to
+teaching such as quality of rating of small group teaching and lectures,
+:sup:`28` the curriculum type used :sup:`30,31` and performance at viva
+examinations and multiple choice questions also had no effect on the
+career choice. :sup:`31`
 
 .. _S9:
 
 Factors discouraging medical students to choose psychiatry as a career
 ----------------------------------------------------------------------
 
-Curtis-Barton *et al* :sup:`(n.d.t)` in their survey (*n* = 467) found
-that the factors discouraging students to pursue a career in psychiatry
+Curtis-Barton *et al* :sup:`25` in their survey (*n* = 467) found that
+the factors discouraging students to pursue a career in psychiatry
 included: prognosis of patients (62%), perception that there is a lack
 of evidence in diagnosis (51%), lack of scientific basis (53%) and the
 amount of bureaucracy and paperwork in the specialty (48%). Other
 discouraging factors included the stigma towards psychiatry (30%), the
 standing of the profession among medical colleagues (31%) and comments
-by other specialists (26%). :sup:`(n.d.t),(n.d.v)` Psychiatry scored the
-lowest among the specialties as a career choice. Students described
-psychiatry as boring, unscientific, depressing, stressful, frustrating
-and ‘not enjoying the rotation’. :sup:`(n.d.s)`
+by other specialists (26%). :sup:`25,34` Psychiatry scored the lowest
+among the specialties as a career choice. Students described psychiatry
+as boring, unscientific, depressing, stressful, frustrating and ‘not
+enjoying the rotation’. :sup:`35`
 
 Many students experienced psychiatry as being different to other
 specialties. For some this was a reason not to pursue psychiatry as a
 career but for others it was a positive aspect of the specialty Students
 felt ward rounds focused on ‘social issues’ rather than medical
 conditions. Some found it an ‘emotional burden’ and others felt that
-psychiatry could not ‘fix’ people and no one is being cured.
-:sup:`(n.d.v)`
+psychiatry could not ‘fix’ people and no one is being cured. :sup:`34`
 
-A survey by Korszun *et al* :sup:`(n.d.ah)` examined the views of
-trainee, academics and clinicians on students not taking up psychiatry.
-The following factors were identified as deterring the students from
+A survey by Korszun *et al* :sup:`36` examined the views of trainee,
+academics and clinicians on students not taking up psychiatry. The
+following factors were identified as deterring the students from
 psychiatry: negative attitudes towards psychiatrists from other doctors
 and health professionals (57%), stigmatisation of psychiatry (40%),
 stigma associated with mental health disorders (39%), poor teaching and
 role modelling from psychiatrists (37%), psychiatry not seen as medical
 or scientific enough (26%) and poor morale among psychiatrists (26%).
-:sup:`(n.d.ah)`
+:sup:`36`
 
 .. _S10:
 
 Factors affecting trainees' and consultants' choice of psychiatry
 -----------------------------------------------------------------
 
-Fazel *et al* :sup:`(n.d.aa)` found that psychiatry was the sixth most
-popular specialty out of ten specialty groups for trainees applying for
-training places. A higher proportion of female graduates were shown to
-choose psychiatry between 1974 (32%) and 1999 (59%). :sup:`(n.d.aa)`
-However, a more recent survey showed a slight decline in the number of
-women choosing psychiatry over the last decade, 4.9% (1999) *v.* 4.6 %
-(2009). :sup:`(n.d.ad)`
+Fazel *et al* :sup:`13` found that psychiatry was the sixth most popular
+specialty out of ten specialty groups for trainees applying for training
+places. A higher proportion of female graduates were shown to choose
+psychiatry between 1974 (32%) and 1999 (59%). :sup:`13` However, a more
+recent survey showed a slight decline in the number of women choosing
+psychiatry over the last decade, 4.9% (1999) *v.* 4.6 % (2009).
+:sup:`17`
 
-Goldacre *et al* :sup:`(n.d.y)` examined career choices for medical
-students over the past 40 years. The number of doctors choosing
-psychiatry as a career has hardly changed and remains around 4–5%, which
-is similar to figures from 1975. :sup:`(n.d.y)` It was noted that
-students who went on to work in psychiatry 10 years after graduation,
-52% (224 out of 428) had chosen psychiatry in the first year after
-graduation and 71% (308 out of 434) had chosen it in year 3.
-:sup:`(n.d.y)`
+Goldacre *et al* :sup:`14` examined career choices for medical students
+over the past 40 years. The number of doctors choosing psychiatry as a
+career has hardly changed and remains around 4–5%, which is similar to
+figures from 1975. :sup:`14` It was noted that students who went on to
+work in psychiatry 10 years after graduation, 52% (224 out of 428) had
+chosen psychiatry in the first year after graduation and 71% (308 out of
+434) had chosen it in year 3. :sup:`14`
 
 In common with the factors attracting students towards psychiatry,
 numerous studies identified factors that appear to attract trainees
 towards psychiatry The major attractions for choosing psychiatry are
-listed in `Box 1 <#box1>`__. Denman *et al* :sup:`(n.d.aj)` found that
-the most common factor influencing core trainees' (60%) and consultants'
+listed in `Box 1 <#box1>`__. Denman *et al* :sup:`32` found that the
+most common factor influencing core trainees' (60%) and consultants'
 (70%) decisions to specialise in psychiatry was emphasis on the patient
-as a whole. :sup:`(n.d.aj)` Trainees highlighted that mental health was
-an area of need (53%) and empathy and concerns for people with mental
-illness (53%) were important reasons for choosing psychiatry.
-:sup:`(n.d.aj)`
+as a whole. :sup:`32` Trainees highlighted that mental health was an
+area of need (53%) and empathy and concerns for people with mental
+illness (53%) were important reasons for choosing psychiatry. :sup:`32`
 
 **Box 1** Factors attracting medical students and trainees in pursuing
 psychiatry as a career
@@ -642,64 +623,64 @@ psychiatry as a career
 Medical students
 ~~~~~~~~~~~~~~~~
 
--  Encouragement by colleagues :sup:`(n.d.m),(n.d.u),(n.d.p),(n.d.q)`
+-  Encouragement by colleagues :sup:`24,26,30,31`
 
--  Influence by someone during the placement :sup:`(n.d.m),(n.d.p)`
+-  Influence by someone during the placement :sup:`24,30`
 
 -  Females are more likely to favour a career in psychiatry
-   :sup:`(n.d.m),(n.d.x),(n.d.p)`
+   :sup:`24,27,30`
 
 -  Family history of mental illness was associated with choosing
-   psychiatry :sup:`(n.d.m)`
+   psychiatry :sup:`24`
 
--  Quality of experience :sup:`(n.d.u),(n.d.x),(n.d.p),(n.d.o)`
+-  Quality of experience :sup:`26,27,30,33`
 
 -  Role models can have a positive impact on students pursuing a career
-   in psychiatry :sup:`(n.d.w),(n.d.p),(n.d.o)`
+   in psychiatry :sup:`28,30,33`
 
--  Enrichment activities :sup:`(n.d.x),(n.d.w)`
+-  Enrichment activities :sup:`27,28`
 
 .. _S12:
 
 Trainees
 ~~~~~~~~
 
--  Hours and conditions of work :sup:`(n.d.ad),(n.d.q),(n.d.aj)`
+-  Hours and conditions of work :sup:`17,31,32`
 
 -  The doctor's personal assessment of their aptitudes and skills,
-   :sup:`(n.d.ad),(n.d.q),(n.d.aj)` for example recognising factors such
-   as using one's intellect to help others :sup:`(n.d.ag)`
+   :sup:`17,31,32` for example recognising factors such as using one's
+   intellect to help others :sup:`37`
 
--  Experience of the subject as a student :sup:`(n.d.ad),(n.d.q)`
+-  Experience of the subject as a student :sup:`17,31`
 
 -  Inclinations before medical school and a positive student experience
-   :sup:`(n.d.ad),(n.d.ag)`
+   :sup:`17,37`
 
 -  Attitudes and inclination to psychiatry as a medical student
-   :sup:`(n.d.m),(n.d.q),(n.d.ag)`
+   :sup:`24,31,37`
 
--  Lifestyle factors :sup:`(n.d.aj),(n.d.ag)`
+-  Lifestyle factors :sup:`32,37`
 
--  Encouragement from consultants and senior doctors :sup:`(n.d.q)`
+-  Encouragement from consultants and senior doctors :sup:`31`
 
 -  Emphasis on the patient as a whole person and empathy/concern for
-   mentally ill people :sup:`(n.d.aj)`
+   mentally ill people :sup:`32`
 
 .. _S13:
 
 Barriers associated with not choosing psychiatry as a long-term career choice for trainees
 ------------------------------------------------------------------------------------------
 
-Barras & Harris :sup:`(n.d.ab)` explored trainee's experiences (*n* =
-359) within psychiatry. Trainee attitudes were grouped into different
+Barras & Harris :sup:`38` explored trainee's experiences (*n* = 359)
+within psychiatry. Trainee attitudes were grouped into different
 categories. The attitudes towards psychiatry (12.6%), professional role
 (12%) and day-to-day working (11.3%) were identified as the main
 negative factors. Trainees raised concerns with the training programmes
 in psychiatry, such as problems with the rota and not having enough time
-with patients. :sup:`(n.d.ab)` Many trainees felt frustrated with the
-Annual Review of Competence Progression (ARCP) process and
-workplace-based assessments, as well as the duplication of paperwork
-being a constant frustration. :sup:`(n.d.ab)`
+with patients. :sup:`38` Many trainees felt frustrated with the Annual
+Review of Competence Progression (ARCP) process and workplace-based
+assessments, as well as the duplication of paperwork being a constant
+frustration. :sup:`38`
 
 The studies identified a number of barriers against choosing psychiatry
 as a career (`Box 2 <#box2>`__).
@@ -707,48 +688,47 @@ as a career (`Box 2 <#box2>`__).
 Trainees felt improvements were needed in terms of training
 opportunities and felt this could be enhanced by providing a variety of
 jobs, increasing research opportunities and increasing medical aspects
-of training. :sup:`(n.d.ab)`
+of training. :sup:`38`
 
 Work looking into consultant psychiatrists' views into why they chose
-psychiatry was limited to two papers. :sup:`(n.d.aj),(n.d.ai)` Dein *et
-al* :sup:`(n.d.ai)` found that the majority of consultants (46%) chose
-psychiatry as a career soon after leaving medical school, and a recent
-study surveying consultants in the West Midlands found that 50% had made
-their choice by graduation from medical school. :sup:`(n.d.aj)` The main
-reasons cited by consultants for choosing psychiatry as a career
-included: empathy for those with a mental disorder (36.1%), interface
-with neuroscience (25%), expectation of better working conditions in
+psychiatry was limited to two papers. :sup:`32,39` Dein *et al*
+:sup:`39` found that the majority of consultants (46%) chose psychiatry
+as a career soon after leaving medical school, and a recent study
+surveying consultants in the West Midlands found that 50% had made their
+choice by graduation from medical school. :sup:`32` The main reasons
+cited by consultants for choosing psychiatry as a career included:
+empathy for those with a mental disorder (36.1%), interface with
+neuroscience (25%), expectation of better working conditions in
 psychiatry (20%) and influence of teaching at medical school (19.4%).
-:sup:`(n.d.ai)` Denman *et al* :sup:`(n.d.aj)` highlighted several ‘very
-important’ reasons for consultants choosing psychiatry including: career
-in psychiatry would be intellectually challenging (60%), sense of
+:sup:`39` Denman *et al* :sup:`32` highlighted several ‘very important’
+reasons for consultants choosing psychiatry including: career in
+psychiatry would be intellectually challenging (60%), sense of
 fulfilment expected from seeing patients improve (47%) and enjoyment of
 problem-solving (47%). Lifestyle factors such as salary, better working
 conditions and quality of life were shown to be more important reasons
 for choosing psychiatry for trainees compared with consultants.
-:sup:`(n.d.aj)`
+:sup:`32`
 
 **Box 2** Barriers associated with not choosing psychiatry as a career
 
 -  Job content (71.7%) (*n* = 71) (including the lack of scientific
    basis, job not being clinical, poor prognosis)
-   :sup:`(n.d.z),(n.d.ad),(n.d.t),(n.d.s),(n.d.ah),(n.d.ab)`
+   :sup:`15,17,25,35,36,38`
 
--  Poor public image of psychiatry :sup:`(n.d.z),(n.d.t),(n.d.ah)`
+-  Poor public image of psychiatry :sup:`15,25,36`
 
 -  Lack of respect towards psychiatry as a specialty by other
-   specialties :sup:`(n.d.z),(n.d.t),(n.d.ah)`
+   specialties :sup:`15,25,36`
 
--  Work-related stress cited by (49%) :sup:`(n.d.z)` trainees in
-   psychiatry :sup:`(n.d.ab)`
+-  Work-related stress cited by (49%) :sup:`15` trainees in psychiatry
+   :sup:`38`
 
 -  25–50% of trainees leaving psychiatry as a specialty cited lack of
    resources as one of the main reasons which was significantly more
    than those rejecting general practice and trauma and orthopaedics
-   :sup:`(n.d.z),(n.d.ab)`
+   :sup:`15,38`
 
--  25–50% of trainees leaving psychiatry
-   :sup:`(n.d.z),(n.d.ac),(n.d.ab)` highlighted:
+-  25–50% of trainees leaving psychiatry :sup:`15,16,38` highlighted:
 
    a. lack of adequately supervised training
 
@@ -760,20 +740,20 @@ for choosing psychiatry for trainees compared with consultants.
 
    e. work not clinical enough
 
--  Physical risks involved in the job :sup:`(n.d.z)`
+-  Physical risks involved in the job :sup:`15`
 
--  Sense of eroded professionalism :sup:`(n.d.ah),(n.d.ab)`
+-  Sense of eroded professionalism :sup:`36,38`
 
--  Too much paperwork and duplication :sup:`(n.d.t),(n.d.ah),(n.d.ab)`
+-  Too much paperwork and duplication :sup:`25,36,38`
 
--  Problems with rota and not enough time with patients :sup:`(n.d.ab)`
+-  Problems with rota and not enough time with patients :sup:`38`
 
 -  Trainees leaving the scheme felt frustrated with workplace-based
-   assessments :sup:`(n.d.ab)`
+   assessments :sup:`38`
 
--  Low morale among workforce :sup:`(n.d.o)`
+-  Low morale among workforce :sup:`33`
 
--  Future role of psychiatrists being eroded :sup:`(n.d.o)`
+-  Future role of psychiatrists being eroded :sup:`33`
 
 .. _S14:
 
@@ -796,38 +776,38 @@ patients, stigma towards psychiatry as a specialty, low morale, and
 onerous workloads as a consultant.
 
 We are aware of one previous systematic review that examined medical
-students' attitudes towards psychiatry internationally. :sup:`(n.d.al)`
-In common with our study this systematic review alongside another survey
-of psychiatrists :sup:`(n.d.ah)` highlighted the stigma towards mental
-illness as a major barrier influencing negative medical views towards
-psychiatry. :sup:`(n.d.al)` Stigma towards psychiatry as a specialty
-arises from a variety of sources, notably from medical students
-themselves. In addition, this stigma could arise from ward staff
-attitudes towards patients and from other doctors in other specialties,
-which detract students. :sup:`(n.d.aa),(n.d.t),(n.d.v)`
+students' attitudes towards psychiatry internationally. :sup:`40` In
+common with our study this systematic review alongside another survey of
+psychiatrists :sup:`36` highlighted the stigma towards mental illness as
+a major barrier influencing negative medical views towards psychiatry.
+:sup:`40` Stigma towards psychiatry as a specialty arises from a variety
+of sources, notably from medical students themselves. In addition, this
+stigma could arise from ward staff attitudes towards patients and from
+other doctors in other specialties, which detract students.
+:sup:`13,25,34`
 
 Other reviews have looked at one aspect such as the effect of clinical
 experience of psychiatry on medical students' attitudes towards the
-specialty. :sup:`(n.d.am)` Lyons :sup:`(n.d.al)` highlighted the impact
-of poor-quality teaching leading to negative attitudes towards
-psychiatry and highlighted the need to address psychiatry curricula and
-introduce novel teaching strategies. :sup:`(n.d.al)` El-Sayeh *et al*
-:sup:`(n.d.an)` have previously highlighted the importance of teaching
-and the various methods which could be utilised to try to improve the
-student experience and in turn help attract students towards psychiatry.
-The recent survey by Korszun *et al* :sup:`(n.d.ah)` highlighted that
-the number of clinicians compared with academics and trainees agreed
-that they did not have time to teach medical students (*P* < 0.001).
-Both clinicians (42%) and academics (47%) felt that teaching medical
-students did not contribute to their future career prospects compared
-with 21% of trainees (*P* < 0.001) :sup:`(n.d.ah)` Fewer clinicians
-considered teaching to be a significant component of their appraisal
-compared with trainees and academics. :sup:`(n.d.ah)` The combination of
-poor teaching practices due to lack of resources or commitment and the
-stigma reinforce the poor image of psychiatry.
+specialty. :sup:`41` Lyons :sup:`40` highlighted the impact of
+poor-quality teaching leading to negative attitudes towards psychiatry
+and highlighted the need to address psychiatry curricula and introduce
+novel teaching strategies. :sup:`40` El-Sayeh *et al* :sup:`42` have
+previously highlighted the importance of teaching and the various
+methods which could be utilised to try to improve the student experience
+and in turn help attract students towards psychiatry. The recent survey
+by Korszun *et al* :sup:`36` highlighted that the number of clinicians
+compared with academics and trainees agreed that they did not have time
+to teach medical students (*P* < 0.001). Both clinicians (42%) and
+academics (47%) felt that teaching medical students did not contribute
+to their future career prospects compared with 21% of trainees (*P* <
+0.001) :sup:`36` Fewer clinicians considered teaching to be a
+significant component of their appraisal compared with trainees and
+academics. :sup:`36` The combination of poor teaching practices due to
+lack of resources or commitment and the stigma reinforce the poor image
+of psychiatry.
 
 We feel that the findings of our study support the recommendations made
-by Mukherjee *et al* :sup:`(n.d.ao)` which identify a number of steps to
+by Mukherjee *et al* :sup:`43` which identify a number of steps to
 address the crisis in psychiatry recruitment at different nodal points
 in a medical career, i.e. prior to entry to medical school, during
 medical education and after graduation.
@@ -839,55 +819,54 @@ Improving recruitment
 
 This study highlights the need to change the experience of psychiatry at
 undergraduate and postgraduate level in keeping with work by Shah *et
-al* :sup:`(n.d.ap)` who highlighted early medical experience, influence
-of seniors and the aspects related to working environment as areas that
+al* :sup:`44` who highlighted early medical experience, influence of
+seniors and the aspects related to working environment as areas that
 could be affected positively which in turn could have a positive effect
-on choosing psychiatry as a career. Kelley *et al* :sup:`(n.d.aq)`
-highlighted the impact of foundation programme experience in psychiatry,
-with a significantly higher proportion of trainees pursuing a career in
+on choosing psychiatry as a career. Kelley *et al* :sup:`45` highlighted
+the impact of foundation programme experience in psychiatry, with a
+significantly higher proportion of trainees pursuing a career in
 psychiatry compared with those without any exposure to psychiatry (14.9%
 *v.* 1.8%). This correlates with earlier findings by Shah *et al*
-:sup:`(n.d.ap)` that found a significant correlation between those
-Scottish students considering psychiatry as a career and having held a
-psychiatry post. :sup:`(n.d.ao)` A recent survey by Denman *et al*
-:sup:`(n.d.aj)` showed that 43% of psychiatry trainees made their
-decision to specialise in psychiatry during the foundation years,
-correlating with increased exposure to psychiatry during the foundation
-years with 80% of trainees in this survey completing a post in
-psychiatry during the foundation years. Specific enrichment activities
-beyond standard teaching and clinical placements such as research
-experience in psychiatry, university psychiatry clubs, summer schools,
-:sup:`(n.d.ar)` psychiatry electives and psychiatry special study
-modules appear to be a way in which medical students will gain
-invaluable experiences and improve their attitudes to psychiatry. These
-need to be adopted and evaluated in future programmes to enhance
-recruitment in psychiatry Collier *et al* :sup:`(n.d.af)` found that
-only 2.3% of teaching was dedicated to psychiatry compared with 44.1% to
-medical and surgical topics, which does not help the poor image of
-psychiatry. This and similar issues need to be addressed at
-institutional level.
+:sup:`44` that found a significant correlation between those Scottish
+students considering psychiatry as a career and having held a psychiatry
+post. :sup:`43` A recent survey by Denman *et al* :sup:`32` showed that
+43% of psychiatry trainees made their decision to specialise in
+psychiatry during the foundation years, correlating with increased
+exposure to psychiatry during the foundation years with 80% of trainees
+in this survey completing a post in psychiatry during the foundation
+years. Specific enrichment activities beyond standard teaching and
+clinical placements such as research experience in psychiatry,
+university psychiatry clubs, summer schools, :sup:`46` psychiatry
+electives and psychiatry special study modules appear to be a way in
+which medical students will gain invaluable experiences and improve
+their attitudes to psychiatry. These need to be adopted and evaluated in
+future programmes to enhance recruitment in psychiatry Collier *et al*
+:sup:`22` found that only 2.3% of teaching was dedicated to psychiatry
+compared with 44.1% to medical and surgical topics, which does not help
+the poor image of psychiatry. This and similar issues need to be
+addressed at institutional level.
 
 A number of studies found that psychiatry has a perception that it is
-not a ‘scientific’ or ‘medical’ discipline.
-:sup:`(n.d.z),(n.d.ah),(n.d.ab)` Medical students and trainees expressed
-the views about the weakened medical identity of psychiatry. The erosion
-of the role of the psychiatrist was cited by some psychiatry trainees as
-a potential factor that would make them consider leaving psychiatry
-training. :sup:`(n.d.ab)` This unfortunately is not helped by negative
-comments or ‘bad-mouthing’ of psychiatry. :sup:`(n.d.ah),(n.d.as)`
+not a ‘scientific’ or ‘medical’ discipline. :sup:`15,36,38` Medical
+students and trainees expressed the views about the weakened medical
+identity of psychiatry. The erosion of the role of the psychiatrist was
+cited by some psychiatry trainees as a potential factor that would make
+them consider leaving psychiatry training. :sup:`38` This unfortunately
+is not helped by negative comments or ‘bad-mouthing’ of psychiatry.
+:sup:`36,47`
 
-Interventions such as anti-stigma films and Medfest :sup:`(n.d.at)` have
-been shown to improve medical students' attitudes to psychiatrists,
-serious mental illness and psychiatry, at least in the short term.
-:sup:`(n.d.at),(n.d.au)` However, it appears that there is need to
-reconsider the content of psychiatric training and the undergraduate
-curriculum. It has been suggested that moving undergraduate teaching
-from in-patient to general hospital settings such as liaison psychiatry
-will allow students to see patients with problems that are relevant to
-medical practice. :sup:`(n.d.as)` Setting up and evaluating such
-programmes that have the potential to offer a different and enjoyable
-experience for medical students and foundation doctors should be a
-priority to improve the image of and recruitment into psychiatry.
+Interventions such as anti-stigma films and Medfest :sup:`48` have been
+shown to improve medical students' attitudes to psychiatrists, serious
+mental illness and psychiatry, at least in the short term. :sup:`48,49`
+However, it appears that there is need to reconsider the content of
+psychiatric training and the undergraduate curriculum. It has been
+suggested that moving undergraduate teaching from in-patient to general
+hospital settings such as liaison psychiatry will allow students to see
+patients with problems that are relevant to medical practice. :sup:`47`
+Setting up and evaluating such programmes that have the potential to
+offer a different and enjoyable experience for medical students and
+foundation doctors should be a priority to improve the image of and
+recruitment into psychiatry.
 
 .. _S16:
 
@@ -901,254 +880,15 @@ similar recruitment rates, is particularly concerning. The focus on UK
 studies is also a limitation but was necessary to understand the factors
 affecting recruitment in this country We noted with some concern that
 there are only a few studies that address the positive aspects of
-psychiatry, :sup:`(n.d.u)–(n.d.w),(n.d.p)–(n.d.o)` which may attract
-students and trainees towards psychiatry, and how these can be used for
-improving the recruitment. Future studies need to address this gap in
-the literature. Finally, we feel that the problems underlying the
-recruitment in psychiatry perhaps also reflect the lack of parity of
-esteem. Unless mental health is valued equally with physical health, the
-misconceptions and distorted perceptions about psychiatry as a
-discipline in which a medical career can be fruitfully pursued will
-linger on and will hinder aspiring physicians from considering
-psychiatry as a career option.
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-R1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-R2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-R3
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-R5
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-R6
-
-      n.d.e.
-
-   .. container:: csl-entry
-      :name: ref-R8
-
-      n.d.f.
-
-   .. container:: csl-entry
-      :name: ref-R9
-
-      n.d.g.
-
-   .. container:: csl-entry
-      :name: ref-R10
-
-      n.d.h.
-
-   .. container:: csl-entry
-      :name: ref-R11
-
-      n.d.i.
-
-   .. container:: csl-entry
-      :name: ref-R12
-
-      n.d.j.
-
-   .. container:: csl-entry
-      :name: ref-R13
-
-      n.d.aa.
-
-   .. container:: csl-entry
-      :name: ref-R14
-
-      n.d.y.
-
-   .. container:: csl-entry
-      :name: ref-R15
-
-      n.d.z.
-
-   .. container:: csl-entry
-      :name: ref-R16
-
-      n.d.ac.
-
-   .. container:: csl-entry
-      :name: ref-R17
-
-      n.d.ad.
-
-   .. container:: csl-entry
-      :name: ref-R18
-
-      n.d.ae.
-
-   .. container:: csl-entry
-      :name: ref-R19
-
-      n.d.k.
-
-   .. container:: csl-entry
-      :name: ref-R20
-
-      n.d.n.
-
-   .. container:: csl-entry
-      :name: ref-R21
-
-      n.d.l.
-
-   .. container:: csl-entry
-      :name: ref-R22
-
-      n.d.af.
-
-   .. container:: csl-entry
-      :name: ref-R23
-
-      n.d.r.
-
-   .. container:: csl-entry
-      :name: ref-R24
-
-      n.d.m.
-
-   .. container:: csl-entry
-      :name: ref-R25
-
-      n.d.t.
-
-   .. container:: csl-entry
-      :name: ref-R26
-
-      n.d.u.
-
-   .. container:: csl-entry
-      :name: ref-R27
-
-      n.d.x.
-
-   .. container:: csl-entry
-      :name: ref-R28
-
-      n.d.w.
-
-   .. container:: csl-entry
-      :name: ref-R29
-
-      n.d.ak.
-
-   .. container:: csl-entry
-      :name: ref-R30
-
-      n.d.p.
-
-   .. container:: csl-entry
-      :name: ref-R31
-
-      n.d.q.
-
-   .. container:: csl-entry
-      :name: ref-R32
-
-      n.d.aj.
-
-   .. container:: csl-entry
-      :name: ref-R33
-
-      n.d.o.
-
-   .. container:: csl-entry
-      :name: ref-R34
-
-      n.d.v.
-
-   .. container:: csl-entry
-      :name: ref-R35
-
-      n.d.s.
-
-   .. container:: csl-entry
-      :name: ref-R36
-
-      n.d.ah.
-
-   .. container:: csl-entry
-      :name: ref-R37
-
-      n.d.ag.
-
-   .. container:: csl-entry
-      :name: ref-R38
-
-      n.d.ab.
-
-   .. container:: csl-entry
-      :name: ref-R39
-
-      n.d.ai.
-
-   .. container:: csl-entry
-      :name: ref-R40
-
-      n.d.al.
-
-   .. container:: csl-entry
-      :name: ref-R41
-
-      n.d.am.
-
-   .. container:: csl-entry
-      :name: ref-R42
-
-      n.d.an.
-
-   .. container:: csl-entry
-      :name: ref-R43
-
-      n.d.ao.
-
-   .. container:: csl-entry
-      :name: ref-R44
-
-      n.d.ap.
-
-   .. container:: csl-entry
-      :name: ref-R45
-
-      n.d.aq.
-
-   .. container:: csl-entry
-      :name: ref-R46
-
-      n.d.ar.
-
-   .. container:: csl-entry
-      :name: ref-R47
-
-      n.d.as.
-
-   .. container:: csl-entry
-      :name: ref-R48
-
-      n.d.at.
-
-   .. container:: csl-entry
-      :name: ref-R49
-
-      n.d.au.
+psychiatry, :sup:`26–28,30–33` which may attract students and trainees
+towards psychiatry, and how these can be used for improving the
+recruitment. Future studies need to address this gap in the literature.
+Finally, we feel that the problems underlying the recruitment in
+psychiatry perhaps also reflect the lack of parity of esteem. Unless
+mental health is valued equally with physical health, the misconceptions
+and distorted perceptions about psychiatry as a discipline in which a
+medical career can be fruitfully pursued will linger on and will hinder
+aspiring physicians from considering psychiatry as a career option.
 
 .. [1]
    **Dr Abid Choudry**, ST5, Leicestershire Partnership NHS Trust. **Dr

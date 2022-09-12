@@ -2,6 +2,8 @@
 Reviewing the burden of comorbidity in patients receiving specialist in-patient treatment for drug and alcohol problems
 =======================================================================================================================
 
+
+
 Alice Bradley
 Amy Martin [1]_Correspondence to Alice C. Bradley
 (alice.bradley@nhs.net)
@@ -51,20 +53,20 @@ Amy Martin [1]_Correspondence to Alice C. Bradley
 ..
 
 It is widely accepted that there are social, psychological and physical
-harms associated with chronic substance misuse.\ :sup:`(n.d.a)` It has
-also been identified that drug and alcohol misuse are independent risk
+harms associated with chronic substance misuse.\ :sup:`1` It has also
+been identified that drug and alcohol misuse are independent risk
 factors for physical illness in people with pre-existing mental
-illness.\ :sup:`(n.d.b)` Furthermore, the World Health Organization
-(WHO) found alcohol consumption to be the third highest risk factor, in
+illness.\ :sup:`2` Furthermore, the World Health Organization (WHO)
+found alcohol consumption to be the third highest risk factor, in
 high-income countries, for disease burden, superseded only by smoking
-and hypertension.\ :sup:`(n.d.c)` Specialist in-patient units offer drug
-and alcohol detoxification and stabilisation to individuals with complex
+and hypertension.\ :sup:`3` Specialist in-patient units offer drug and
+alcohol detoxification and stabilisation to individuals with complex
 problems, whose substance misuse needs cannot be met in the community.
 Despite this, there have been significant funding cuts for alcohol and
 drug prevention, treatment and support services in Scotland in recent
-years.\ :sup:`(n.d.d)` This study seeks to describe and evaluate the
-burden of comorbidity carried by a current population of in-patients in
-a substance misuse unit in Edinburgh. It was anecdotally noted among the
+years.\ :sup:`4` This study seeks to describe and evaluate the burden of
+comorbidity carried by a current population of in-patients in a
+substance misuse unit in Edinburgh. It was anecdotally noted among the
 staff of this unit that in-patients were requiring more medical
 intervention. We therefore sought to compare the disease burden of a
 patient cohort in 2018 with that of a 2014 cohort in order to identify
@@ -82,33 +84,33 @@ Method
 We conducted a retrospective study of in-patients over a 6-month period
 in 2018. We sought to explore the population's characteristics and
 compare these with the data collected by Mogford & Lawrence for their
-primary study conducted in the same unit in 2014.\ :sup:`(n.d.e)` To
-quantify comorbidity, cumulative disease burden scales are used. These
-are calculated by attributing scores to specific diseases, health
-behaviours and medications, which are weighted according to their impact
-on morbidity and mortality. These scores are combined to assign an
-overall index of comorbidity, which can be used to compare, contrast and
-track change in individual patients or patient groups. The Charlson
+primary study conducted in the same unit in 2014.\ :sup:`5` To quantify
+comorbidity, cumulative disease burden scales are used. These are
+calculated by attributing scores to specific diseases, health behaviours
+and medications, which are weighted according to their impact on
+morbidity and mortality. These scores are combined to assign an overall
+index of comorbidity, which can be used to compare, contrast and track
+change in individual patients or patient groups. The Charlson
 Comorbidity Index (CCI) has previously been used across a wide range of
 clinical settings and a variety of patient populations, including the
 2014 cohort. To allow a direct comparison of patient cohorts, the same
 CCI was implemented to quantify comorbidity in the repeat patient cohort
 in 2018. There is a strong base for using the CCI, which has been deemed
 valid and reliable for estimating the burden of comorbidity in clinical
-research.\ :sup:`(n.d.f)` The index records 16 diagnoses, including
-chronic respiratory disease and congestive heart failure. These details
-are all obtained as part of the routine documentation completed on
-admission to the unit. These 16 diagnoses have validated predictive
-value when calculating projected 10-year survival. The impact of age on
-predicted survival is accounted for by the addition of an age-based
-score to the raw CCI. The version of the CCI used is an extended one
-that includes four additional items that predict healthcare cost, but
-are excluded from the calculation of predicted 10-year
-survival.\ :sup:`(n.d.g)` This version held the additional benefit of
-including a greater breadth of conditions/factors, specifically
-hypertension, skin ulcers or recurrent cellulitis, treatment with
-warfarin and the presence of depression. The individual patient scores
-could then be used to calculate their predicted 10-year survival.
+research.\ :sup:`6` The index records 16 diagnoses, including chronic
+respiratory disease and congestive heart failure. These details are all
+obtained as part of the routine documentation completed on admission to
+the unit. These 16 diagnoses have validated predictive value when
+calculating projected 10-year survival. The impact of age on predicted
+survival is accounted for by the addition of an age-based score to the
+raw CCI. The version of the CCI used is an extended one that includes
+four additional items that predict healthcare cost, but are excluded
+from the calculation of predicted 10-year survival.\ :sup:`7` This
+version held the additional benefit of including a greater breadth of
+conditions/factors, specifically hypertension, skin ulcers or recurrent
+cellulitis, treatment with warfarin and the presence of depression. The
+individual patient scores could then be used to calculate their
+predicted 10-year survival.
 
 We assert that all procedures contributing to this work comply with the
 ethical standards of the relevant national and institutional committees
@@ -137,7 +139,7 @@ over 800 000. The participants included in the study were ‘recruited’
 retrospectively from the 6-month period immediately prior to the start
 of data collection. The period covered was from 19 April to 22 October
 2018. The original study recruited patients from 26 May to 27 November
-2014 in a prospective manner.\ :sup:`(n.d.e)`
+2014 in a prospective manner.\ :sup:`5`
 
 .. _sec1-2:
 
@@ -161,7 +163,7 @@ inclusion criteria for each diagnosis, allowing for objectivity and
 repeatability in assessment so that each diagnosis was given the
 appropriate score. This data collection was conducted in the same manner
 as the data collected from 2014 cohort had been, as provided by Mogford
-& Lawrence, to allow for direct comparison.\ :sup:`(n.d.e)`
+& Lawrence, to allow for direct comparison.\ :sup:`5`
 
 .. _sec2:
 
@@ -242,44 +244,44 @@ psychiatric site and about level of intervention the in-patients
 require. In addition, on a wider scale, there is ongoing debate
 regarding the allocation of resources to fund specialist in-patient
 treatment of drug and alcohol problems within NHS Lothian. The original
-study\ :sup:`(n.d.e)` helped make the case for the ongoing availability
-of a medically supported in-patient unit for the treatment of alcohol
-and drug use disorders within NHS Lothian. In the intervening period,
+study\ :sup:`5` helped make the case for the ongoing availability of a
+medically supported in-patient unit for the treatment of alcohol and
+drug use disorders within NHS Lothian. In the intervening period,
 service pressures have increased and available bed numbers have
 decreased. Between 2016 and 2017 direct Scottish Government funding for
 alcohol and drug partnerships (ADPs, local partnerships between health
 boards, local authorities, police and voluntary agencies to tackle
-alcohol- and drug-related problems) fell by 22%.\ :sup:`(n.d.d)` In
-Lothian, the ADP funding allocations for alcohol and drug prevention,
-treatment and support services was cut from £11 469 680 in 2015–2016 to
-£8 887 133 in 2016–2017.\ :sup:`(n.d.h)` As a consequence of this
-reduction in national funding, by January 2018 the number of beds in the
-Ritson Clinic was reduced from 12 to 8. These changes have occurred in
-the context of changes in public health policy, which increasingly
-focuses on the preventability of drug- and alcohol-related deaths. The
-average waiting time for an admission to the Ritson Clinic has increased
-from 30 days for the 2014 cohort to 65 days in 2018. The average length
-of admission was 8.9 days for the 2018 cohort. The unit receives
-referrals from community addiction services, general practices
-(including practices for those without fixed accommodation), in-patient
-and out-patient hepatology teams, alcohol liaison nurses and the
-regional infectious diseases unit. These are screened using admission
-criteria originally based on Scottish Intercollegiate Guidelines Network
-(SIGN) guidelines.\ :sup:`(n.d.i)` This ensures that admission for
-in-patient treatment is limited to those who could not have their needs
-met in the community; by its very nature, this predisposes them to carry
-a higher burden of comorbidity.\ :sup:`(n.d.h)` It is worth noting that
-there are other factors that may contribute to increased morbidity in
-this patient group that were not accounted for in the study, such as
-poor nutrition and blood-borne viruses such as hepatitis B or hepatitis
-C. This study did, however, look at the prevalence of smoking in the
-patient group. Evidence suggests that the prevalence of smoking in the
-Scottish population is falling. In 2017, it was estimated that 18% of
-the Scottish adult population smoked.\ :sup:`(n.d.j)` Despite showing a
-small improvement between 2014 and 2018, the in-patients included in our
-study still have a considerably increased prevalence of smoking; 76% of
-the 2018 cohort were current smokers, which will contribute to their
-overall increased morbidity and mortality.
+alcohol- and drug-related problems) fell by 22%.\ :sup:`4` In Lothian,
+the ADP funding allocations for alcohol and drug prevention, treatment
+and support services was cut from £11 469 680 in 2015–2016 to £8 887 133
+in 2016–2017.\ :sup:`8` As a consequence of this reduction in national
+funding, by January 2018 the number of beds in the Ritson Clinic was
+reduced from 12 to 8. These changes have occurred in the context of
+changes in public health policy, which increasingly focuses on the
+preventability of drug- and alcohol-related deaths. The average waiting
+time for an admission to the Ritson Clinic has increased from 30 days
+for the 2014 cohort to 65 days in 2018. The average length of admission
+was 8.9 days for the 2018 cohort. The unit receives referrals from
+community addiction services, general practices (including practices for
+those without fixed accommodation), in-patient and out-patient
+hepatology teams, alcohol liaison nurses and the regional infectious
+diseases unit. These are screened using admission criteria originally
+based on Scottish Intercollegiate Guidelines Network (SIGN)
+guidelines.\ :sup:`9` This ensures that admission for in-patient
+treatment is limited to those who could not have their needs met in the
+community; by its very nature, this predisposes them to carry a higher
+burden of comorbidity.\ :sup:`8` It is worth noting that there are other
+factors that may contribute to increased morbidity in this patient group
+that were not accounted for in the study, such as poor nutrition and
+blood-borne viruses such as hepatitis B or hepatitis C. This study did,
+however, look at the prevalence of smoking in the patient group.
+Evidence suggests that the prevalence of smoking in the Scottish
+population is falling. In 2017, it was estimated that 18% of the
+Scottish adult population smoked.\ :sup:`10` Despite showing a small
+improvement between 2014 and 2018, the in-patients included in our study
+still have a considerably increased prevalence of smoking; 76% of the
+2018 cohort were current smokers, which will contribute to their overall
+increased morbidity and mortality.
 
 .. _sec3-2:
 
@@ -288,24 +290,24 @@ Reductions in 10-year predicted survival
 
 Data from the Office for National Statistics for 2011–2013 estimated the
 predicted 10-year survival chance for a 45-year-old Scottish male to be
-96.6%.\ :sup:`(n.d.k)` Comparatively, in the original cohort, among
-patients aged between 45 and 55, the mean predicted 10-year survival
-chance was 68.6%. In the 2018 cohort, this had reduced to 55%. There are
-multiple likely contributing factors to the increase in predicted
-mortality over the 4 years. The increased waiting times and reduced bed
-numbers have certainly played a role. When screening referrals to the
-unit, the patients with the greatest need are given preference, with
-those with highest immediate risk to physical well-being taking
-precedence. This is also likely to explain why there is an increase in
-the number of patients admitted for treatment of alcohol dependence over
-the 4 years, as the risk to physical health from alcohol withdrawal is
-usually greater than that of drug stabilisation or detoxification,
-therefore these patients are admitted preferentially. As per the SIGN
-guidelines any patient who is confused, has a history of seizures or
+96.6%.\ :sup:`11` Comparatively, in the original cohort, among patients
+aged between 45 and 55, the mean predicted 10-year survival chance was
+68.6%. In the 2018 cohort, this had reduced to 55%. There are multiple
+likely contributing factors to the increase in predicted mortality over
+the 4 years. The increased waiting times and reduced bed numbers have
+certainly played a role. When screening referrals to the unit, the
+patients with the greatest need are given preference, with those with
+highest immediate risk to physical well-being taking precedence. This is
+also likely to explain why there is an increase in the number of
+patients admitted for treatment of alcohol dependence over the 4 years,
+as the risk to physical health from alcohol withdrawal is usually
+greater than that of drug stabilisation or detoxification, therefore
+these patients are admitted preferentially. As per the SIGN guidelines
+any patient who is confused, has a history of seizures or
 hallucinations, has an acute physical or psychiatric illness, including
 multiple substance misuse, has previously failed home-assisted
 detoxification or has a home environment unsupportive of abstinence is
-deemed to require in-patient detoxification.\ :sup:`(n.d.i)` These broad
+deemed to require in-patient detoxification.\ :sup:`9` These broad
 inclusion criteria cover much of the patient population that would
 require alcohol detoxification and also go some way to explain why the
 large majority of admissions, in both 2014 and 2018, were for treatment
@@ -336,7 +338,7 @@ healthcare services. To improve outcomes for these patients, a more
 collaborative and proactive approach in the development of these
 services is required. This is in accordance with the recommendation of
 increased funding and an emphasis on better integrated care made by NHS
-England in its NHS Long Term Plan.\ :sup:`(n.d.l)`
+England in its NHS Long Term Plan.\ :sup:`12`
 
 .. _sec3-4:
 
@@ -415,69 +417,6 @@ foundation year 2 (FY2) doctor in NHS Lothian at time of writing. **Amy
 Martin**, MBChB (University of Aberdeen) is a general adult higher
 psychiatry trainee in NHS Lothian (ST4) and was a core psychiatry
 trainee (CT3) at time of writing.
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-ref1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-ref2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-ref3
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-ref4
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-ref5
-
-      n.d.e.
-
-   .. container:: csl-entry
-      :name: ref-ref6
-
-      n.d.f.
-
-   .. container:: csl-entry
-      :name: ref-ref7
-
-      n.d.g.
-
-   .. container:: csl-entry
-      :name: ref-ref8
-
-      n.d.h.
-
-   .. container:: csl-entry
-      :name: ref-ref9
-
-      n.d.i.
-
-   .. container:: csl-entry
-      :name: ref-ref10
-
-      n.d.j.
-
-   .. container:: csl-entry
-      :name: ref-ref11
-
-      n.d.k.
-
-   .. container:: csl-entry
-      :name: ref-ref12
-
-      n.d.l.
 
 .. [1]
    **Declaration of interest:** None.

@@ -2,6 +2,8 @@
 Lessons from export to New Zealand of the second opinion appointed doctor scheme
 ================================================================================
 
+
+
 John Dawson
 Paul Glue
 Pete M. Ellis
@@ -44,18 +46,17 @@ was first enacted for England (and Wales) by the Mental Health Act 1983
 treating clinician to be approved by a second psychiatrist in two main
 situations – for longer-term use of medication, and for
 electroconvulsive therapy (ECT) – where a compulsory patient does not
-consent.\ :sup:`(n.d.a)` In England, this mandatory second opinion
-scheme has been managed, funded and periodically reviewed by a national
-agency, firstly by the Mental Health Act Commission (MHAC), then by the
-Care Quality Commission (CQC). In New Zealand, no equivalent national
-agency has existed to manage the scheme. Its administration has fallen
-on regional officials (usually senior psychiatrists) who manage the
+consent.\ :sup:`1` In England, this mandatory second opinion scheme has
+been managed, funded and periodically reviewed by a national agency,
+firstly by the Mental Health Act Commission (MHAC), then by the Care
+Quality Commission (CQC). In New Zealand, no equivalent national agency
+has existed to manage the scheme. Its administration has fallen on
+regional officials (usually senior psychiatrists) who manage the
 statutory process in the nation’s 20 district health boards. Moreover,
-New Zealand’s national guidelines on the Mental Health
-Act\ :sup:`(n.d.b),(n.d.c)` contain nothing like the detail of the
-English Code of Practice\ :sup:`(n.d.d)` regarding conduct of the
-scheme. Instead, each local district health board uses its own systems
-and forms.
+New Zealand’s national guidelines on the Mental Health Act\ :sup:`2,3`
+contain nothing like the detail of the English Code of
+Practice\ :sup:`4` regarding conduct of the scheme. Instead, each local
+district health board uses its own systems and forms.
 
 The English rules require SOADs to check the patient’s legal status,
 speak to the patient in private, consult the treating clinician, consult
@@ -63,8 +64,8 @@ two other professionals involved in the patient’s care and provide
 written reasons for the decision. A national system of online forms is
 also used for SOADs to document these steps, state whether they approve
 the treatment in changed or unchanged form and specify the agreed
-treatment regime.\ :sup:`(n.d.e)` No such prescriptive rules govern the
-New Zealand process. This paper compares the role performed by second
+treatment regime.\ :sup:`5` No such prescriptive rules govern the New
+Zealand process. This paper compares the role performed by second
 opinion psychiatrists in New Zealand with that of SOADs in England and
 Wales. The term SOADs will be used to refer to the second opinion
 psychiatrists, of both jurisdictions.
@@ -77,14 +78,13 @@ Method
 We audited the New Zealand scheme, for the first time, at three
 different centres. We reviewed documentation concerning SOADs’ conduct
 of the treatment approval process, for both medication and
-ECT.\ :sup:`(n.d.f)` We matched SOAD reviews of ECT with the two
-medication reviews nearest in time (ECT, *n* = 146; medication, *n* =
-292; total, *n* = 438). Then we studied the progress in the following
-year of 11 patients at one centre whose treatment had not been fully
-approved by the SOAD.\ :sup:`(n.d.g)` Finally, we compared our findings
-with published information and guidelines concerning the equivalent
-English scheme. The study was approved by New Zealand’s Multi-Region
-Ethics Committee.
+ECT.\ :sup:`6` We matched SOAD reviews of ECT with the two medication
+reviews nearest in time (ECT, *n* = 146; medication, *n* = 292; total,
+*n* = 438). Then we studied the progress in the following year of 11
+patients at one centre whose treatment had not been fully approved by
+the SOAD.\ :sup:`7` Finally, we compared our findings with published
+information and guidelines concerning the equivalent English scheme. The
+study was approved by New Zealand’s Multi-Region Ethics Committee.
 
 .. _S2:
 
@@ -112,7 +112,7 @@ Zealand, we found patients undergoing medication review tended to be
 male (62%), younger (mean age 44.8 years) and had a diagnosis of
 schizophrenia or schizoaffective disorder (64%), whereas patients being
 considered for ECT tended to be female (70%), older (mean age 56.9
-years) and had a diagnosis of affective disorder (68%).\ :sup:`(n.d.f)`
+years) and had a diagnosis of affective disorder (68%).\ :sup:`6`
 Interestingly, Māori patients tended to be underrepresented in figures
 for ECT (6%) compared with their proportion in the general New Zealand
 population (approximately 15%).
@@ -120,20 +120,19 @@ population (approximately 15%).
 In both jurisdictions, ECT reviews generally occur at an early stage in
 the Mental Health Act process. In England, Fennell, in a study conducted
 some years ago, found 60% of ECT approvals occurred within 7 days of the
-patient’s detention under the Act, 18% on the very first
-day.\ :sup:`(n.d.h)` In New Zealand, we found 60% occurred during the
-initial month’s compulsory assessment under the Act.\ :sup:`(n.d.f)`
-Medication reviews are only required by the legislation, of both
-jurisdictions, after the patient has been detained for a longer period
-of time.
+patient’s detention under the Act, 18% on the very first day.\ :sup:`8`
+In New Zealand, we found 60% occurred during the initial month’s
+compulsory assessment under the Act.\ :sup:`6` Medication reviews are
+only required by the legislation, of both jurisdictions, after the
+patient has been detained for a longer period of time.
 
 In both jurisdictions, SOADs overwhelmingly approved the treatment
 sought, especially ECT. Non-approval, or significant change in the
-proposed treatment, was rare (`Fig.
-1 <#F1>`__).\ :sup:`(n.d.f),(n.d.i)–(n.d.j)` In England, there has been
-a recent trend towards less frequent full (or ‘unchanged’) approval of
-treatment plans for medication (81% in 2002–2007, falling to 68% in
-2011–2012), though not for ECT.\ :sup:`(n.d.i),(n.d.j)`
+proposed treatment, was rare (`Fig. 1 <#F1>`__).\ :sup:`6,9–11` In
+England, there has been a recent trend towards less frequent full (or
+‘unchanged’) approval of treatment plans for medication (81% in
+2002–2007, falling to 68% in 2011–2012), though not for
+ECT.\ :sup:`9,11`
 
 .. _S4:
 
@@ -141,9 +140,9 @@ Lack of consistency between New Zealand centres
 -----------------------------------------------
 
 In our New Zealand audit, we found little consistency in the conduct of
-the SOAD process at the different centres.\ :sup:`(n.d.f)` There were
-marked differences in how SOADs were designated to review the treatment
-of individual patients; the number of clinicians who performed the SOAD
+the SOAD process at the different centres.\ :sup:`6` There were marked
+differences in how SOADs were designated to review the treatment of
+individual patients; the number of clinicians who performed the SOAD
 role; their degree of independence from treating clinicians; the forms
 they completed; and the steps they took during the approval process, as
 documented in local forms or the patient’s clinical record in the week
@@ -151,8 +150,8 @@ before or after treatment was reviewed.
 
 In New Zealand, the Mental Health Act authorises the Mental Health
 Review Tribunal to appoint qualified psychiatrists as SOADs, but there
-is no national agency managing the scheme.\ :sup:`(n.d.a)` Different
-methods are then used in the various regional district health boards to
+is no national agency managing the scheme.\ :sup:`1` Different methods
+are then used in the various regional district health boards to
 designate the particular SOAD who will review an individual patient’s
 treatment. These methods include an administrator approaching SOADs on a
 roster system; the treating clinician sending an email request to all
@@ -183,17 +182,16 @@ extent to which there was any record that SOADs had spoken to the
 treating clinician or provided a written Fig. 1Extent of approval of (a)
 medication and (b) electroconvulsive therapy (ECT) by second opinion
 appointed doctors (SOADs) in New Zealand (2003–2011) and England and
-Wales (2002-2012).Data from Dawson *et al* (2013),\ :sup:`(n.d.f)`
-Mental Health Act Commission (2008),\ :sup:`(n.d.i)` Care Quality
-Commission (2013).\ :sup:`(n.d.j)` Terms used in New Zealand: ‘approved
-unchanged’, ‘partially approved’ and ‘not approved’. Terms used in
-England and Wales for both periods of time: ‘approved unchanged’,
-‘slight change’ and ‘significant change’. There were missing data for
-second opinions on medication (New Zealand 2003–2011, 2.4%, England and
-Wales 2002–2007, 7.6% and 2011–2012, 3.5%) and ECT (New Zealand
-2003–2011, 0%, England and Wales 2002–2007, 8.2% and 2011–2012, 8.3%).
-justification for their decision. This diversity is illustrated in `Fig.
-2 <#F2>`__.
+Wales (2002-2012).Data from Dawson *et al* (2013),\ :sup:`6` Mental
+Health Act Commission (2008),\ :sup:`9` Care Quality Commission
+(2013).\ :sup:`11` Terms used in New Zealand: ‘approved unchanged’,
+‘partially approved’ and ‘not approved’. Terms used in England and Wales
+for both periods of time: ‘approved unchanged’, ‘slight change’ and
+‘significant change’. There were missing data for second opinions on
+medication (New Zealand 2003–2011, 2.4%, England and Wales 2002–2007,
+7.6% and 2011–2012, 3.5%) and ECT (New Zealand 2003–2011, 0%, England
+and Wales 2002–2007, 8.2% and 2011–2012, 8.3%). justification for their
+decision. This diversity is illustrated in `Fig. 2 <#F2>`__.
 
 In short, there seems little consistency in SOADs’ conduct of the
 process at different New Zealand centres. Moreover, different methods
@@ -208,18 +206,18 @@ No clear process where impasse
 ------------------------------
 
 At one centre we evaluated the files of 11 patients whose treatment had
-not been approved, or only partially approved, by the
-SOAD,\ :sup:`(n.d.g)` trying to determine how the disagreement had been
-resolved. We found that when the SOAD did not approve, or qualified, the
-treatment plan, intensive consultation usually occurred between the
-treating clinician, the SOAD and the regional administrator of the Act.
-Cases generating most correspondence concerned non-approval of ECT. In
-some cases, these written exchanges revealed significant dissatisfaction
-or disagreement on the part of the clinicians.
+not been approved, or only partially approved, by the SOAD,\ :sup:`7`
+trying to determine how the disagreement had been resolved. We found
+that when the SOAD did not approve, or qualified, the treatment plan,
+intensive consultation usually occurred between the treating clinician,
+the SOAD and the regional administrator of the Act. Cases generating
+most correspondence concerned non-approval of ECT. In some cases, these
+written exchanges revealed significant dissatisfaction or disagreement
+on the part of the clinicians.
 
 In England, the Mental Health Act Code of Practice says (para 24.67)
 there is ‘no appeal’ from the SOAD’s decision to approve treatment or
-not.\ :sup:`(n.d.d)` In New Zealand, the Act simply says that, for the
+not.\ :sup:`4` In New Zealand, the Act simply says that, for the
 proposed treatment to proceed, it must be approved by ‘a’ SOAD. This
 rule does not say the SOAD can veto the treatment proposed. Instead, it
 opens the possibility that another SOAD might approve the treatment, if
@@ -231,7 +229,7 @@ disagreement arose in these cases between the clinicians as to whether
 the initial SOAD’s refusal to approve treatment was final. No clearly
 established process seemed to exist for resolving such disagreements,
 and no clear ‘appeal’ process was specified by the Mental Health Act
-guidelines\ :sup:`(n.d.b)` during the period studied.
+guidelines\ :sup:`2` during the period studied.
 
 .. _S6:
 
@@ -343,9 +341,9 @@ be clearly specified, however, and should not be capable of manipulation
 by the treating clinician.
 
 The new New Zealand guidelines regarding the Mental Health Act, issued
-in 2012\ :sup:`(n.d.c)` after closure of the period we studied, address
-the matter more fully. They suggest (at para 10.2.2) that, where the
-first SOAD declines to approve, the regional administrator of the Mental
+in 2012\ :sup:`3` after closure of the period we studied, address the
+matter more fully. They suggest (at para 10.2.2) that, where the first
+SOAD declines to approve, the regional administrator of the Mental
 Health Act (although not the treating clinician) may ‘direct that
 another approved psychiatrist provide a second opinion’. So the process
 of obtaining another SOAD’s opinion is to be managed by a senior
@@ -366,7 +364,7 @@ history of the patient’s illness and prior pharmaceutical regime; the
 risks and benefits of potential treatment approaches; the patient’s
 views, as far as they can be ascertained; and whether the treatment is
 of maximal benefit to the patient and appropriate to their
-condition.\ :sup:`(n.d.c)` This provides some guidance on the process to
+condition.\ :sup:`3` This provides some guidance on the process to
 follow. But the guidelines could go further, to specify clearly the
 degree of independence required between SOADs and treating clinicians,
 and the information SOADs should record. The Ministry could promulgate a
@@ -374,7 +372,7 @@ system of online forms to be used nationally. Completion of the forms
 would confirm the necessary steps have been taken, and the forms could
 be used to collate data, publish statistics and make the process more
 transparent, as has occurred in England with reports from the MHAC and
-CQC.\ :sup:`(n.d.i)–(n.d.j)`
+CQC.\ :sup:`9–11`
 
 .. _S9:
 
@@ -410,59 +408,6 @@ Health Act. But, in light of New Zealand’s experience, we suggest that
 central administration of a SOAD scheme can confer advantages in terms
 of clarity and consistency that are particularly desirable in a
 mandatory process designed to protect compulsory patients’ rights.
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-R1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-R2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-R3
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-R4
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-R5
-
-      n.d.e.
-
-   .. container:: csl-entry
-      :name: ref-R6
-
-      n.d.f.
-
-   .. container:: csl-entry
-      :name: ref-R7
-
-      n.d.g.
-
-   .. container:: csl-entry
-      :name: ref-R8
-
-      n.d.h.
-
-   .. container:: csl-entry
-      :name: ref-R9
-
-      n.d.i.
-
-   .. container:: csl-entry
-      :name: ref-R11
-
-      n.d.j.
 
 .. [1]
    **John Dawson** is a professor in the Faculty of Law at the

@@ -2,6 +2,8 @@
 Managing suicide risk in primary care
 =====================================
 
+
+
 Ann Maria Albert
 Hannah Gallen
 Misha Gaur
@@ -16,7 +18,7 @@ pmc
 05 June 2021
 
 We read with interest Professor Morgan's special article on predicting
-short-term suicide risk.(n.d.) We are grateful for the mention of the
+short-term suicide risk.1 We are grateful for the mention of the
 extensive body of evidence suggesting the futility of suicide risk
 assessments and alleged risk factors including suicidal thoughts and
 behaviours in predicting suicide risk. We appreciate the statements ‘To
@@ -43,11 +45,3 @@ responsibility in a specialist area. Furthermore, we would be grateful
 for any guidance on how to better assess and manage suicide risk during
 a 10 min GP consultation than during the 30–60 min assessment by
 specialists.
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-ref1
-
-      n.d.

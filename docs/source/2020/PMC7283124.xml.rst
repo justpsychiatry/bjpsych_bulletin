@@ -2,6 +2,8 @@
 Online psychotherapy: trailblazing digital healthcare
 =====================================================
 
+
+
 Annabel McDonald
 Jessica A. Eccles
 Sanaz Fallahkhair
@@ -31,11 +33,11 @@ Hugo D. Critchley [1]_Correspondence to Dr Annabel McDonald
 As in many other countries, the UK is looking to expand digital
 technology to control burgeoning healthcare costs. These plans are
 articulated in recent government publications such as *The NHS Long Term
-Plan*.\ :sup:`(n.d.a)` The top level of this ambitious scheme refers to
-a system that might offer seamless care across all aspects of the
-National Health Service (NHS) and associated services. A second level
-proposes enhancing access to clinicians though digital platforms such as
-video conferencing channels. A third level is the ambition for broad
+Plan*.\ :sup:`1` The top level of this ambitious scheme refers to a
+system that might offer seamless care across all aspects of the National
+Health Service (NHS) and associated services. A second level proposes
+enhancing access to clinicians though digital platforms such as video
+conferencing channels. A third level is the ambition for broad
 implementation of technological monitoring services for patients in
 their homes, enhancing care in the community through high-quality
 information. However, this long-term plan also illustrates that,
@@ -43,12 +45,12 @@ particularly in general medicine, the implementation of autonomous
 computerised treatment remains a distant goal. In mental health, by way
 of contrast, psychotherapy is trailblazing this field. The recent Royal
 College of Psychiatry recommendations accompanying the NHS long-term
-plan\ :sup:`(n.d.b)` recognise the value of extending therapist-led
+plan\ :sup:`2` recognise the value of extending therapist-led
 psychotherapies through technology, for instance by using avatars to
 explore client identity. However, even here there is limited recognition
 of progress toward autonomous psychotherapy treatments where digital
 treatment programmes are established NHS-approved referral options.
-Examples of such programmes include *FearFighter* (UK),\ :sup:`(n.d.c)`
+Examples of such programmes include *FearFighter* (UK),\ :sup:`3`
 *MoodGYM* (Australia; https://moodgym.com.au/) and *SPARX* (New Zealand;
 https://www.sparx.org.nz/). We refer to these programmes in our
 appraisal of current digital psychotherapy services, which we then
@@ -65,9 +67,9 @@ Online therapy offers a number of potential advantages compared with
 other therapies. Perhaps the most obvious are broad accessibility and
 low treatment cost; however therapists also refer to the fact that
 patients often find it a less inhibiting medium, enabling greater
-disclosure and interaction.\ :sup:`(n.d.d)` There is, in addition, a
-belief that young patients are generally more willing to engage with
-digital interfaces, as explicitly noted by the team working on a gaming
+disclosure and interaction.\ :sup:`4` There is, in addition, a belief
+that young patients are generally more willing to engage with digital
+interfaces, as explicitly noted by the team working on a gaming
 application in New Zealand (*SPARX*).
 
 .. _sec1-1:
@@ -88,13 +90,13 @@ over-represented in psychologically vulnerable groups.
 
 In low- to middle-income countries, the responses to psychotherapy for
 depression are high, and there does not appear to be a requirement for
-the therapy to be adapted to local situations.\ :sup:`(n.d.e)` These
-effects appear larger than in the high-income countries; this may partly
-reflect less-efficacious ‘standard treatments’, resulting in limited
-improvement in comparison control groups. There is ample scope to access
-the online-therapy format as ownership of mobile phones has high
-priority in these communities: 67% of African people owned a mobile
-phone in 2018.\ :sup:`(n.d.f)`
+the therapy to be adapted to local situations.\ :sup:`5` These effects
+appear larger than in the high-income countries; this may partly reflect
+less-efficacious ‘standard treatments’, resulting in limited improvement
+in comparison control groups. There is ample scope to access the
+online-therapy format as ownership of mobile phones has high priority in
+these communities: 67% of African people owned a mobile phone in
+2018.\ :sup:`6`
 
 In high-income countries, free provision of psychotherapy is by no means
 universal. Psychotherapy is a relatively expensive service, often
@@ -141,14 +143,13 @@ significant costs. Autonomous digital psychotherapy can nevertheless
 incorporate automated text messages and even user forums, while
 retaining minimal therapist costs. This type of therapy may represent a
 viable ‘first-level’ care strategy, with patients progressing to therapy
-with personal contact if required thereafter.\ :sup:`(n.d.c)` Many
-programmes have been shown to be effective; however sustaining patient
-engagement in the therapy, which can be as low as 20% by the end of a
-treatment programme,\ :sup:`(n.d.g)` remains a problem. However, because
-such a large number of people could be treated very cheaply, the
-potential gain in care is still enormous, provided the online therapy
-does not discourage or prejudice the efficacy of any future personalised
-therapy.
+with personal contact if required thereafter.\ :sup:`3` Many programmes
+have been shown to be effective; however sustaining patient engagement
+in the therapy, which can be as low as 20% by the end of a treatment
+programme,\ :sup:`7` remains a problem. However, because such a large
+number of people could be treated very cheaply, the potential gain in
+care is still enormous, provided the online therapy does not discourage
+or prejudice the efficacy of any future personalised therapy.
 
 .. _sec2:
 
@@ -163,13 +164,12 @@ development of *SPARX* was driven by poor mental health across widely
 dispersed young people. These therapies are offered on three financial
 bases: charged, access paid by health services and free to access.
 Australian services approve the use of *MoodGYM* (free) and
-*MyCompass*.\ :sup:`(n.d.h)` New Zealand nationals can use *SPARX* for
-free. The UK's NHS partly funds the use of two computerised
+*MyCompass*.\ :sup:`8` New Zealand nationals can use *SPARX* for free.
+The UK's NHS partly funds the use of two computerised
 cognitive–behavioural therapy (CBT) programmes, *Beating the Blues*
 (http://www.beatingtheblues.co.uk/) and *FearFighter*
 (https://magellanascend.com/Content/View/2526), as part of their
-'stepped model' of treatment for depression and anxiety,
-respectively.(n.d.c)
+'stepped model' of treatment for depression and anxiety, respectively.3
 
 The evolution of online psychotherapy is shown in `Fig. 1 <#fig01>`__.
 The earliest autonomous treatments, primarily based on CBT, are
@@ -180,12 +180,12 @@ is combined with examples of characters with extreme forms of behaviour
 to help the user recognise their own thinking and behaviour patterns.
 *MoodGYM* is an illustrative example of this form of online therapy.
 Extensive evaluation suggests *MoodGYM* promotes significant
-improvements in users’ mental states.\ :sup:`(n.d.i)–(n.d.j)` *MoodGYM*
-and related programmes generally consist of five to ten CBT modules that
-consider key aspects such as negative thinking and activation. The path
-through the programme is not modified according to earlier information
-provided by the user. This genre has now been extended to programmes
-that engage the user in mindfulness and meditation. *Headspace*
+improvements in users’ mental states.\ :sup:`9–13` *MoodGYM* and related
+programmes generally consist of five to ten CBT modules that consider
+key aspects such as negative thinking and activation. The path through
+the programme is not modified according to earlier information provided
+by the user. This genre has now been extended to programmes that engage
+the user in mindfulness and meditation. *Headspace*
 (https://www.headspace.com/) is a well-known commercial example. Here
 the user participates in meditation exercises, including breathing and
 focusing, accompanied by calming graphics. Programmes within this
@@ -221,7 +221,7 @@ drawn acclaim from video-game forums. *Celeste* centres on a nervous
 character who ‘learns’ to modify anxiety through CBT techniques that
 include breathing- and meditation-style tasks. These programmes may
 herald a new genre in which online virtual worlds combine gaming with
-the mutual support of internet forums.\ :sup:`(n.d.k)` *Autcraft*
+the mutual support of internet forums.\ :sup:`14` *Autcraft*
 (https://www.autcraft.com/) is another notable example of an early
 development of this format; it is packaged as a ‘limited edition’ of
 Minecraft which offers a kinder and more protected environment for
@@ -279,38 +279,38 @@ engagement.
 Online CBT programmes have been the main source of evidence for efficacy
 of digital therapies. However, examination of bias-modification
 programmes for anxiety reveals weak effects of borderline significance
-(observed effect sizes, 0.07–0.42).\ :sup:`(n.d.h)` In contrast, for a
+(observed effect sizes, 0.07–0.42).\ :sup:`8` In contrast, for a
 mindfulness programme aimed at patients with established bipolar
 disorder, a significant change is observed with an effect size of 0.52
 on an intention-to-treat basis. Nevertheless, the attrition rate was
-38%.\ :sup:`(n.d.l)`
+38%.\ :sup:`15`
 
 There is a paucity of published evidence on those users who begin online
 CBT therapy independently through search engines or clinical
 recommendations. One informative exception is data on the use of the
 modular CBT programme *MoodGYM.* Only around 25% of arrivals proceeded
 from the initial introductory module through to a second module.
-Moreover, the maximum observed pre-post effect size was
-0.4.\ :sup:`(n.d.g),(n.d.i)` Notably, around 50% of those enrolling on
-such programmes fulfil clinical criteria for depression.
+Moreover, the maximum observed pre-post effect size was 0.4.\ :sup:`7,9`
+Notably, around 50% of those enrolling on such programmes fulfil
+clinical criteria for depression.
 
 Thus the majority of research into effectiveness examines the effects of
 CBT programmes on preselected clinical populations. Here, the typical
-pre-post effect size is 0.5–0.8\ :sup:`(n.d.h),(n.d.j),(n.d.m),(n.d.n)`
-with variation between individual studies. The effect size drops when a
-comparison group – typically a treatment-as-usual or waiting-list group
-– is included, negating statistical group differences in a subset of
-studies. On average, the effect size is typically reduced to around
-0.4,\ :sup:`(n.d.j),(n.d.n),(n.d.o)` which represents a low to moderate
-treatment effect. This suggests that part of the pre-post effect is a
-natural recovery cycle from psychological distress, a view also
-supported by mixed findings as to whether recovery is enhanced by an
-increased engagement with the digital programme. No association was
-found between reliable clinical improvement and either the (extended)
-duration of engagement with an online programme\ :sup:`(n.d.o)` or the
-number of therapy modules offered,\ :sup:`(n.d.g)` although other
-studies do report increasing therapeutic benefit in association with
-longer therapy engagement.\ :sup:`(n.d.p)`
+pre-post effect size is 0.5–0.8\ :sup:`8,13,16,17` with variation
+between individual studies. The effect size drops when a comparison
+group – typically a treatment-as-usual or waiting-list group – is
+included, negating statistical group differences in a subset of studies.
+On average, the effect size is typically reduced to around
+0.4,\ :sup:`13,17,18` which represents a low to moderate treatment
+effect. This suggests that part of the pre-post effect is a natural
+recovery cycle from psychological distress, a view also supported by
+mixed findings as to whether recovery is enhanced by an increased
+engagement with the digital programme. No association was found between
+reliable clinical improvement and either the (extended) duration of
+engagement with an online programme\ :sup:`18` or the number of therapy
+modules offered,\ :sup:`7` although other studies do report increasing
+therapeutic benefit in association with longer therapy
+engagement.\ :sup:`19`
 
 Engagement is generally poor, with high rates of attrition among user of
 online therapies. A true meta-analysis of these data is impossible given
@@ -320,22 +320,21 @@ percentage of completed modules, percentage of participants progressing
 to second module or percentage completing half of the modules). However,
 data for full completion or adequate engagement show a wide range, e.g.
 16–82% for completion. A ‘typical’ value appears to be around 50% for
-the completion of half of the
-modules.\ :sup:`(n.d.q),(n.d.j),(n.d.n),(n.d.o),(n.d.r)–(n.d.s)`
+the completion of half of the modules.\ :sup:`12,13,17,18,20–25`
 
 The degree of engagement with online therapy is likely to reflect the
 variety of programmes, the range of indications or whether users were
 contacted (e.g. brief emails or text) to encourage adherence. Some of
 the factors that affect therapy engagement have been studied; for
 example observed higher levels of therapy adherence are reported in
-people with lower baseline symptoms.\ :sup:`(n.d.p)` Although other
-studies have not found associations between engagement and symptom
-severity or improvement.\ :sup:`(n.d.o)` Among social factors, adherence
-is reported to be higher among users who are white and
-older.\ :sup:`(n.d.t)` A meta-analysis also found engagement is better
-in females, individuals with higher educational attainment and in older
-users. Comorbid anxiety symptoms appear to introduce an additional
-challenge to adherence.\ :sup:`(n.d.u)`
+people with lower baseline symptoms.\ :sup:`19` Although other studies
+have not found associations between engagement and symptom severity or
+improvement.\ :sup:`18` Among social factors, adherence is reported to
+be higher among users who are white and older.\ :sup:`23` A
+meta-analysis also found engagement is better in females, individuals
+with higher educational attainment and in older users. Comorbid anxiety
+symptoms appear to introduce an additional challenge to
+adherence.\ :sup:`26`
 
 .. _sec4:
 
@@ -349,31 +348,31 @@ The use of weekly phone calls seems to be a particularly popular
 approach during treatment trials with the aim of increasing engagement.
 The number of therapy modules, out of ten, that were completed increases
 from when a user has no contact, to a weekly email to a weekly phone
-call (3.7, 5.5 and 7.3 modules, respectively).\ :sup:`(n.d.v)` A related
+call (3.7, 5.5 and 7.3 modules, respectively).\ :sup:`24` A related
 approach is the use of automated reminder emails. Interestingly, better
 results appear to be achieved when the automated email informs the user
 about new site content, rather than simply reminding them to return to
 the programme. Moreover, email reminders are more effective when sent
 after 2 weeks of absence than when the user had been absent for 4 or 6
-weeks.\ :sup:`(n.d.w)`
+weeks.\ :sup:`27`
 
 An alternative add-on is membership of a social forum with other users,
 noted above to be a potentially valuable adjunct to a bipolar disorder
-mindfulness programme.\ :sup:`(n.d.l)` Although the addition of a forum
+mindfulness programme.\ :sup:`15` Although the addition of a forum
 generally requires staffing in the form of moderation, peer support can
-improve adherence to psychoeducation modules.\ :sup:`(n.d.x)` Forum
+improve adherence to psychoeducation modules.\ :sup:`28` Forum
 membership is reported to provide an impetus to ‘keep going’ in a
 qualitative study of a CBT sleep improvement programme. Here, users
 offered each other support during difficult parts of the
-programme.\ :sup:`(n.d.y)` Reported reasons for involvement with the
-forum were a desire to connect with peers, receive personalised advice,
+programme.\ :sup:`29` Reported reasons for involvement with the forum
+were a desire to connect with peers, receive personalised advice,
 curiosity, being invited and wanting to use all sleep improvement tools.
 Reasons given for not joining the forum include design problems,
 negative self-comparisons, excessive time commitment, data privacy
 concerns and the uncertain quality of user-generated content. A user
 forum linked to an online CBT programme for individuals receiving
 prostate cancer treatment failed to show any improvement in CBT
-programme completion.\ :sup:`(n.d.z)`
+programme completion.\ :sup:`30`
 
 .. _sec5:
 
@@ -384,40 +383,39 @@ As previously discussed, there are concerns about the high attrition
 rate in the use of online therapy programmes and the small-to-moderate
 effect size when compared with other groups such as those on the waiting
 list or receiving treatment as usual. Expectation management should thus
-form an integral part of such programmes.\ :sup:`(n.d.aa)` One
-potentially compensating effect at the service level is the low cost of
-massive open online interventions. When the cost of minor improvement is
-minimal and the number of patients receiving treatment is so large,
-there is a large resulting gain in psychological health. Related to this
-is the advantage, highlighted above, afforded by an increased
-accessibility of treatments that no longer need to be time limited.
+form an integral part of such programmes.\ :sup:`31` One potentially
+compensating effect at the service level is the low cost of massive open
+online interventions. When the cost of minor improvement is minimal and
+the number of patients receiving treatment is so large, there is a large
+resulting gain in psychological health. Related to this is the
+advantage, highlighted above, afforded by an increased accessibility of
+treatments that no longer need to be time limited.
 
 Online therapy is likely to be most appropriate as an early phase in a
-stepped treatment plan.\ :sup:`(n.d.c),(n.d.j)` A potentially worrying
-aspect of online therapy is whether it might have a negative impact on
+stepped treatment plan.\ :sup:`3,13` A potentially worrying aspect of
+online therapy is whether it might have a negative impact on
 acceptance/receptivity to face-to-face therapy. Interestingly,
 enthusiasm for personal CBT may be increased among individuals receiving
 online treatment when compared with the provision of only
-psychoeducational information about depression,\ :sup:`(n.d.ab)` or
-there may be no observable effect on face-to-face
-treatment.\ :sup:`(n.d.ac)` Some users of course may become ‘well
-enough’ that they do not feel in need of the further improvement that
-could occur through subsequent face-to-face therapy.\ :sup:`(n.d.ad)`
-This is an odd reversal of the potential gain of online therapy
-improving the condition of those not considered ill enough to require
-face-to-face therapy.
+psychoeducational information about depression,\ :sup:`32` or there may
+be no observable effect on face-to-face treatment.\ :sup:`33` Some users
+of course may become ‘well enough’ that they do not feel in need of the
+further improvement that could occur through subsequent face-to-face
+therapy.\ :sup:`34` This is an odd reversal of the potential gain of
+online therapy improving the condition of those not considered ill
+enough to require face-to-face therapy.
 
 It is also important to consider whether other harmful effects might
 result from engaging in online psychotherapy. Higher rates of clinical
 deterioration occur in patients receiving watchful waiting (7.2%) than
-those receiving online CBT (5.8%).\ :sup:`(n.d.ae)` Feedback from those
-who completed a mindfulness programme saw 15 users denying any issues
+those receiving online CBT (5.8%).\ :sup:`35` Feedback from those who
+completed a mindfulness programme saw 15 users denying any issues
 whereas 1 had been uncomfortable during a 30-min exercise (body scan) as
-it reawakened a traumatic memory.\ :sup:`(n.d.l)` This potentially
-supports the concern that re-traumatisation might occur with increased
+it reawakened a traumatic memory.\ :sup:`15` This potentially supports
+the concern that re-traumatisation might occur with increased
 vulnerability due to the reduction of psychological defences. A less
 direct form of harm to a user might occur if online responses could be
-subject to subpoena.\ :sup:`(n.d.ad)`
+subject to subpoena.\ :sup:`34`
 
 There are potential concerns that high-risk individuals may not be
 identified during online therapy. Questions have been raised as to
@@ -433,9 +431,8 @@ opportunity to provide support through ‘help’ buttons or facilities to
 put the user in immediate contact with personal support by phone, email
 or messaging. An as-yet-unresolved issue relates to the international
 nature of the internet that makes it difficult to establish the
-jurisdiction under which the programme is being
-operated,\ :sup:`(n.d.ad)` and consequently how users might seek redress
-for grievances.
+jurisdiction under which the programme is being operated,\ :sup:`34` and
+consequently how users might seek redress for grievances.
 
 .. _sec6:
 
@@ -530,164 +527,6 @@ Medical School, UK.
 A.M. has received an Education Grant (XXT73JACHOPPING) from Kent, Surrey
 and Sussex Health Education England. The authors have received no
 further financial receipts pertaining to the article.
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-ref1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-ref2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-ref3
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-ref4
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-ref5
-
-      n.d.e.
-
-   .. container:: csl-entry
-      :name: ref-ref6
-
-      n.d.f.
-
-   .. container:: csl-entry
-      :name: ref-ref7
-
-      n.d.g.
-
-   .. container:: csl-entry
-      :name: ref-ref8
-
-      n.d.h.
-
-   .. container:: csl-entry
-      :name: ref-ref9
-
-      n.d.i.
-
-   .. container:: csl-entry
-      :name: ref-ref12
-
-      n.d.q.
-
-   .. container:: csl-entry
-      :name: ref-ref13
-
-      n.d.j.
-
-   .. container:: csl-entry
-      :name: ref-ref14
-
-      n.d.k.
-
-   .. container:: csl-entry
-      :name: ref-ref15
-
-      n.d.l.
-
-   .. container:: csl-entry
-      :name: ref-ref16
-
-      n.d.m.
-
-   .. container:: csl-entry
-      :name: ref-ref17
-
-      n.d.n.
-
-   .. container:: csl-entry
-      :name: ref-ref18
-
-      n.d.o.
-
-   .. container:: csl-entry
-      :name: ref-ref19
-
-      n.d.p.
-
-   .. container:: csl-entry
-      :name: ref-ref20
-
-      n.d.r.
-
-   .. container:: csl-entry
-      :name: ref-ref23
-
-      n.d.t.
-
-   .. container:: csl-entry
-      :name: ref-ref24
-
-      n.d.v.
-
-   .. container:: csl-entry
-      :name: ref-ref25
-
-      n.d.s.
-
-   .. container:: csl-entry
-      :name: ref-ref26
-
-      n.d.u.
-
-   .. container:: csl-entry
-      :name: ref-ref27
-
-      n.d.w.
-
-   .. container:: csl-entry
-      :name: ref-ref28
-
-      n.d.x.
-
-   .. container:: csl-entry
-      :name: ref-ref29
-
-      n.d.y.
-
-   .. container:: csl-entry
-      :name: ref-ref30
-
-      n.d.z.
-
-   .. container:: csl-entry
-      :name: ref-ref31
-
-      n.d.aa.
-
-   .. container:: csl-entry
-      :name: ref-ref32
-
-      n.d.ab.
-
-   .. container:: csl-entry
-      :name: ref-ref33
-
-      n.d.ac.
-
-   .. container:: csl-entry
-      :name: ref-ref34
-
-      n.d.ad.
-
-   .. container:: csl-entry
-      :name: ref-ref35
-
-      n.d.ae.
 
 .. [1]
    **Declaration of interest:** None.

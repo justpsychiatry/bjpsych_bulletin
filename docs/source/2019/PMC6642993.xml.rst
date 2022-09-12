@@ -2,6 +2,8 @@
 How long is (too) long?
 =======================
 
+
+
 Birgit VöllmCorrespondence to Prof Birgit Völlm
 (birgit.voellm@med.uni-rostock.de)
 :Date: 2019-8
@@ -43,9 +45,9 @@ of patients.
 Methodological issues
 =====================
 
-There are a number of ways to investigate LoS::sup:`(n.d.a)` (a)
-admission samples (i.e. considering all patients admitted during a
-particular period with LoS calculated from admission to discharge); (b)
+There are a number of ways to investigate LoS::sup:`1` (a) admission
+samples (i.e. considering all patients admitted during a particular
+period with LoS calculated from admission to discharge); (b)
 cross-sectional samples (the sample consisting of all patients resident
 in the particular unit of interest on a particular date with LoS
 calculated from date of admission to this time point); and (c) discharge
@@ -75,38 +77,37 @@ security were first raised following studies in high secure settings in
 the 1990s involving assessments by the patients' own teams as well as
 independent multi-disciplinary reviews. These suggested that between
 one-third and two-thirds of patients did not require that level of
-security.\ :sup:`(n.d.b)–(n.d.c)` Inadequate provision of beds in less
-secure settings and inefficiencies in the system of transfer and
-discharge were thought to be significant factors in the delayed transfer
-to a more appropriate level of security. These findings led to the
-‘accelerated discharge programme’,\ :sup:`(n.d.d)` aimed at reducing
-patient numbers in high secure care while bed numbers in medium and low
-secure settings increased. At the beginning of the 1990s, there were
-1700 high and 600 medium secure beds,\ :sup:`(n.d.e)` while in 2015
-there were just under 800 high and about 3200 medium secure
-beds.\ :sup:`(n.d.f)` Although the reduction of high secure beds is a
-welcome development, the increase in the overall number of patients
-detained in secure settings is worrying. In addition, while I am not
-aware of any published research in this area, anecdotally, restrictions
-have increased in medium secure settings, e.g. with regards to leave and
-handcuffing during leave.
+security.\ :sup:`2–5` Inadequate provision of beds in less secure
+settings and inefficiencies in the system of transfer and discharge were
+thought to be significant factors in the delayed transfer to a more
+appropriate level of security. These findings led to the ‘accelerated
+discharge programme’,\ :sup:`6` aimed at reducing patient numbers in
+high secure care while bed numbers in medium and low secure settings
+increased. At the beginning of the 1990s, there were 1700 high and 600
+medium secure beds,\ :sup:`7` while in 2015 there were just under 800
+high and about 3200 medium secure beds.\ :sup:`8` Although the reduction
+of high secure beds is a welcome development, the increase in the
+overall number of patients detained in secure settings is worrying. In
+addition, while I am not aware of any published research in this area,
+anecdotally, restrictions have increased in medium secure settings, e.g.
+with regards to leave and handcuffing during leave.
 
 Maybe somewhat surprisingly, there is no agreement or guidance as to how
 long patients should stay in high secure settings in the UK. For medium
 secure care, the original guidance from government, based on the
-recommendations in the Glancy and Butler reports,\ :sup:`(n.d.g)`
-suggested an upper limit of 2 years; however, a number of studies have
-demonstrated that this LoS is far exceeded in a large proportion of
-cases.\ :sup:`(n.d.h)` In a multicentre study in the UK, including all
-three high secure hospitals and 23 medium secure services, both within
-the National Health Service and the independent sector,\ :sup:`(n.d.i)`
-we found that 23.5% of high secure and 18.1% of medium secure patients
-fulfilled our criteria for ‘long-stay’. We defined ‘long-stay’ as having
-been in a high secure setting for more than 10 years, in a medium secure
-setting for more than 5 years or in a combination of both for more than
-15 years. These figures were based on pilot work showing that these
-thresholds would identify a population large enough in size to provide
-meaningful conclusions for service developments, but not so large that a
+recommendations in the Glancy and Butler reports,\ :sup:`9` suggested an
+upper limit of 2 years; however, a number of studies have demonstrated
+that this LoS is far exceeded in a large proportion of cases.\ :sup:`10`
+In a multicentre study in the UK, including all three high secure
+hospitals and 23 medium secure services, both within the National Health
+Service and the independent sector,\ :sup:`11` we found that 23.5% of
+high secure and 18.1% of medium secure patients fulfilled our criteria
+for ‘long-stay’. We defined ‘long-stay’ as having been in a high secure
+setting for more than 10 years, in a medium secure setting for more than
+5 years or in a combination of both for more than 15 years. These
+figures were based on pilot work showing that these thresholds would
+identify a population large enough in size to provide meaningful
+conclusions for service developments, but not so large that a
 substantial proportion of the total patient population would be
 captured. Whether there has been an actual increase in LoS, however,
 remains unclear – the paper in this issue of the *Bulletin* is the first
@@ -114,26 +115,26 @@ to investigate this question.
 
 Research identifying factors associated with long stay is limited. In
 the UK, one early study at one of the three high secure
-hospitals\ :sup:`(n.d.j)` identified severity of index offence as the
-most important factor for personality disordered patients, while for
-those with mental illness psychopathology was a more relevant predictor
-of LoS. Studies in medium secure settings have identified severity of
+hospitals\ :sup:`12` identified severity of index offence as the most
+important factor for personality disordered patients, while for those
+with mental illness psychopathology was a more relevant predictor of
+LoS. Studies in medium secure settings have identified severity of
 psychopathology, psychiatric history, seriousness of offending, patients
 being on ‘restriction orders’ (requiring Ministry of Justice permission
 for transfer), non-engagement in interventions, dependency needs and
 lack of step-down facilities as factors associated with long stay. A
-review of the international literature\ :sup:`(n.d.a)` similarly found
-that the factors most frequently associated with longer stay were
-seriousness of index offence, longer previous prison sentence, psychotic
-illness, symptom severity and having no close relationship.
+review of the international literature\ :sup:`1` similarly found that
+the factors most frequently associated with longer stay were seriousness
+of index offence, longer previous prison sentence, psychotic illness,
+symptom severity and having no close relationship.
 
 Patient perspective has thus far been largely neglected in research on
 long stay in forensic settings. A qualitative study which formed part of
-the multicentre study described above\ :sup:`(n.d.j)` and included 40
-patient interviews investigated patients' perspective on reasons for
-long stay, their current situation and the prospect of moving on. Based
-on the emerging themes – attribution, outlook, approach and readiness
-for change – four overall ‘stances’ could be identified. Patients in the
+the multicentre study described above\ :sup:`12` and included 40 patient
+interviews investigated patients' perspective on reasons for long stay,
+their current situation and the prospect of moving on. Based on the
+emerging themes – attribution, outlook, approach and readiness for
+change – four overall ‘stances’ could be identified. Patients in the
 ‘dynamic acceptance’ group attributed their long-stay to themselves;
 they felt overall positive about therapy and being in secure care but
 felt they were ready to move on. Patients in the group we labelled
@@ -164,26 +165,26 @@ any setting not giving access to children, but what should be the
 criteria to decide which level of security is the right one and when to
 move on after years of settled behaviour? The debate around the poor to
 moderate accuracy of risk assessment instruments for long-term
-predictions is also pertinent here.\ :sup:`(n.d.k)` Unfortunately, in
-the UK there seems to be little appetite to tackle these complex
-questions nationally. Instead, each responsible clinician makes their
-own judgement, and in many cases has to fight individual battles with
-the next unit, trying to ‘sell’ their patient.
+predictions is also pertinent here.\ :sup:`13` Unfortunately, in the UK
+there seems to be little appetite to tackle these complex questions
+nationally. Instead, each responsible clinician makes their own
+judgement, and in many cases has to fight individual battles with the
+next unit, trying to ‘sell’ their patient.
 
 Little is known about the complex pathways forensic patients take. In
 theory, they move from higher to lower levels of security in accordance
 with the lowering of their risk and progress in therapy. In practice,
 such ideal pathways are rarely achieved. For instance, we showed in our
-study\ :sup:`(n.d.i)` that less than one-third of the sample of
-long-stayers had stayed in their current secure unit only, while about
-40% had stayed in three or more settings. More than 50% of long-stay
-medium secure patients had been admitted from another medium secure
-unit. This may be good practice in order to try a different approach in
-individuals with limited treatment gains. Nevertheless, it is clear that
-rather than moving *on*, a large number of patients seem to be moving
-*around*. It is difficult to see how this unfortunate state of affairs
-could be changed without taking a longitudinal view and without the
-development of national policy for this patient group.
+study\ :sup:`11` that less than one-third of the sample of long-stayers
+had stayed in their current secure unit only, while about 40% had stayed
+in three or more settings. More than 50% of long-stay medium secure
+patients had been admitted from another medium secure unit. This may be
+good practice in order to try a different approach in individuals with
+limited treatment gains. Nevertheless, it is clear that rather than
+moving *on*, a large number of patients seem to be moving *around*. It
+is difficult to see how this unfortunate state of affairs could be
+changed without taking a longitudinal view and without the development
+of national policy for this patient group.
 
 Considering their pathways, the group of long-stay patients probably
 consists of three subgroups: (a) those who are still on a trajectory of
@@ -202,15 +203,14 @@ in the next 5 years.
 Nevertheless, interviews with professionals in the UK demonstrated that
 staff working in secure units still conceptualise the process of care
 along the lines of ‘admission, treatment, rehabilitation, cure’, in
-denial of the actual situation of most patients.\ :sup:`(n.d.l)` Staff
-felt uncomfortable with the idea of dedicated ‘long-stay units’, which
-they saw as warehousing. Many did not consider long periods of detention
-to be problematic as long as treatment was still offered, despite the
-fact that such treatment did not seem to make a difference to the
-patient's chances of moving on. Although these sentiments are
-understandable, not openly recognising long stay as a problem is likely
-to act as a barrier to considering service improvements for this patient
-group.
+denial of the actual situation of most patients.\ :sup:`14` Staff felt
+uncomfortable with the idea of dedicated ‘long-stay units’, which they
+saw as warehousing. Many did not consider long periods of detention to
+be problematic as long as treatment was still offered, despite the fact
+that such treatment did not seem to make a difference to the patient's
+chances of moving on. Although these sentiments are understandable, not
+openly recognising long stay as a problem is likely to act as a barrier
+to considering service improvements for this patient group.
 
 .. _sec4:
 
@@ -219,21 +219,20 @@ International perspective
 
 A number of countries have started to recognise the problem of long stay
 in forensic psychiatric hospitals, resulting in a range of legal and
-service provision developments.\ :sup:`(n.d.m)` Croatia, Italy and
-Portugal now have legal provisions such that detention in hospital can
-no longer exceed the length of a prison sentence the individual would
-have been given had they been convicted as a non-mentally disordered
-offender. While not going that far, in Germany the constitutional court
-ruled that the length of detention has to be proportionate to the index
-offence and that the longer detention lasts, the more the individual's
-right to freedom weighs in relation to the protection of the public.
-While this principle has long been established in the case law of the
-German constitutional court, the new Criminal Code additionally
-specifies that after 6 years of detention in a forensic psychiatric
-hospital, detention has to be terminated unless there is a risk that
-further offences will be committed that will cause ‘serious’ physical or
-psychological harm to a victim; after 10 years such risk has to be
-‘grave’.\ :sup:`(n.d.n)`
+service provision developments.\ :sup:`15` Croatia, Italy and Portugal
+now have legal provisions such that detention in hospital can no longer
+exceed the length of a prison sentence the individual would have been
+given had they been convicted as a non-mentally disordered offender.
+While not going that far, in Germany the constitutional court ruled that
+the length of detention has to be proportionate to the index offence and
+that the longer detention lasts, the more the individual's right to
+freedom weighs in relation to the protection of the public. While this
+principle has long been established in the case law of the German
+constitutional court, the new Criminal Code additionally specifies that
+after 6 years of detention in a forensic psychiatric hospital, detention
+has to be terminated unless there is a risk that further offences will
+be committed that will cause ‘serious’ physical or psychological harm to
+a victim; after 10 years such risk has to be ‘grave’.\ :sup:`16`
 
 Other countries have developed policies and services specifically for
 long-stay forensic populations. One example of particular interest is
@@ -279,76 +278,3 @@ carers is required to capture relevant perspectives and concerns.
 **Birgit Völlm** is Professor of Forensic Psychiatry at the University
 of Rostock and Medical Director at the Hospital for Forensic Psychiatry,
 Rostock, Mecklenburg-Vorpommern, Germany.
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-ref1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-ref2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-ref5
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-ref6
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-ref7
-
-      n.d.e.
-
-   .. container:: csl-entry
-      :name: ref-ref8
-
-      n.d.f.
-
-   .. container:: csl-entry
-      :name: ref-ref9
-
-      n.d.g.
-
-   .. container:: csl-entry
-      :name: ref-ref10
-
-      n.d.h.
-
-   .. container:: csl-entry
-      :name: ref-ref11
-
-      n.d.i.
-
-   .. container:: csl-entry
-      :name: ref-ref12
-
-      n.d.j.
-
-   .. container:: csl-entry
-      :name: ref-ref13
-
-      n.d.k.
-
-   .. container:: csl-entry
-      :name: ref-ref14
-
-      n.d.l.
-
-   .. container:: csl-entry
-      :name: ref-ref15
-
-      n.d.m.
-
-   .. container:: csl-entry
-      :name: ref-ref16
-
-      n.d.n.

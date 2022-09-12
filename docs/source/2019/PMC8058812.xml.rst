@@ -2,6 +2,8 @@
 Addressing shame in medical professional identity: is there such a thing as a good enough doctor?
 =================================================================================================
 
+
+
 Norella Broderick
 Roisin Vaughan
 :Date: 2019-12
@@ -12,8 +14,8 @@ Roisin Vaughan
 ..
 
 The author of ‘Addressing shame in medical professional
-identity’\ :sup:`(n.d.a)` is to be congratulated for bringing this topic
-to the fore of our consciousness. It is welcomed along with the recent
+identity’\ :sup:`1` is to be congratulated for bringing this topic to
+the fore of our consciousness. It is welcomed along with the recent
 surge of popular literature focusing on the emotional challenges of
 medical practice (particularly among trainees), including Adam Kay's
 *This is Going To Hurt* and Danielle Ofri's *What Doctors Feel*.
@@ -23,12 +25,12 @@ risk of mental health problems by making us less likely to access
 support when needed. Mental health is currently a critical issue,
 especially among junior doctors, who have higher levels of clinically
 significant mental health problems than the general
-population;\ :sup:`(n.d.b),(n.d.c)` junior trainees are less likely to
-disclose mental distress,\ :sup:`(n.d.b)` and the more junior a doctor
-is, the less likely they are to know how to access
-support.\ :sup:`(n.d.c)` Further, failure to disclose mental distress
-and access help perpetuates stigma. There remains a high rate of
-presenteeism,\ :sup:`(n.d.b)` probably mediated by shame.
+population;\ :sup:`2,3` junior trainees are less likely to disclose
+mental distress,\ :sup:`2` and the more junior a doctor is, the less
+likely they are to know how to access support.\ :sup:`3` Further,
+failure to disclose mental distress and access help perpetuates stigma.
+There remains a high rate of presenteeism,\ :sup:`2` probably mediated
+by shame.
 
 We also know that shame affects patient care experiences. The author
 notes that shame leads to reticence among doctors to disclosure errors.
@@ -43,7 +45,7 @@ school of thinking and his team's extensive research on
 compassion-focused therapy (CFT) to address shame in a variety of
 clinical settings. They found that CFT training (a three-day workshop)
 for healthcare providers increased self-compassion and reduced
-self-critical judgement in clinicians.\ :sup:`(n.d.d)`
+self-critical judgement in clinicians.\ :sup:`4`
 
 We suggest that CFT training could be provided to doctors as part of our
 suite of regular training courses. Hand hygiene training is ubiquitous,
@@ -53,7 +55,7 @@ directly, like hand hygiene education.
 
 In considering self-compassion as a profession, we encourage doctors to
 view themselves as ‘good enough’. Drawing on the work of
-Winnicott\ :sup:`(n.d.e)` in finding that ‘good enough mothers’ are what
+Winnicott\ :sup:`5` in finding that ‘good enough mothers’ are what
 babies need, we suggest that ‘good enough doctors’, rather than
 perfectionist, shamed doctors, are what patients need.
 
@@ -62,31 +64,3 @@ disclosure and of self-compassion among doctors. As the author above
 describes, shame is endemic in medicine. As a step towards openness, and
 towards addressing shame, we ask readers to consider: can I (let myself)
 be a good enough doctor?
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-ref1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-ref2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-ref3
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-ref4
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-ref5
-
-      n.d.e.

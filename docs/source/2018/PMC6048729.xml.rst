@@ -2,6 +2,8 @@
 Prevalence of vitamin D deficiency in adult patients admitted to a psychiatric hospital
 =======================================================================================
 
+
+
 Dipen Patel
 Manjunath MinajagiCorrespondence to Dipen Patel (dpatel12@nhs.net)
 :Date: 2018-6
@@ -48,36 +50,35 @@ Manjunath MinajagiCorrespondence to Dipen Patel (dpatel12@nhs.net)
 It has been known for many years that severe vitamin D deficiency
 increases the risk of metabolic bone disease, particularly rickets and
 osteomalacia, and that moderate vitamin D deficiency leads to an
-increased risk of osteoporosis and fractures.(n.d.a) More recently,
+increased risk of osteoporosis and fractures.1 More recently,
 observational studies have provided growing evidence of an association
 between vitamin D deficiency and an increased risk for many chronic
 diseases, including autoimmune diseases, some cancers, cardiovascular
-disease, infectious disease and type 2 diabetes.(n.d.b) The serum level
-of 25-hydroxyvitamin D (25(OH)D) is the most accurate reflection of an
+disease, infectious disease and type 2 diabetes.2 The serum level of
+25-hydroxyvitamin D (25(OH)D) is the most accurate reflection of an
 individual's vitamin D status. The National Osteoporosis Society's
 guidelines define serum 25(OH)D levels <30 nmol/L as deficient,
 30–50 nmol/L as inadequate in some people, and >50 nmol/L as sufficient
-for almost the whole population.(n.d.c) Vitamin D receptors are found in
+for almost the whole population.3 Vitamin D receptors are found in
 nearly all tissues of the body, including both neuronal and glial cells
 in the central nervous system and multiple areas of the human brain,
 including the prefrontal cortex, hippocampus, cingulate gyrus, thalamus,
 hypothalamus and substantia nigra, many of which have been implicated in
 the pathophysiology of mental illnesses such as depression and
-psychosis.(n.d.d) At a molecular level, vitamin D is known to have
-numerous roles in nervous system health and disease. Animal models have
-increased our knowledge and understanding of the mechanisms by which
-vitamin D deficiency affects brain development and its subsequent
-influence on adult psychiatric and neurological disease. There is
-evidence that vitamin D has important roles in neurodevelopment,
-neuroprotection and neuroplasticity, not only by exerting its biological
-function directly, but also by influencing the expression of genes at a
-cellular level.(n.d.e) Evidence on its prevalence in people with mental
-illness, in the UK, is limited. This study investigated the prevalence
-of vitamin D deficiency among adult patients being admitted to a
-psychiatric hospital in the UK, to ascertain how widespread and severe
-it is among our patients, and to further assess whether there are
-stronger associations with certain subgroups of illness such as
-depressive or psychotic disorders.
+psychosis.4 At a molecular level, vitamin D is known to have numerous
+roles in nervous system health and disease. Animal models have increased
+our knowledge and understanding of the mechanisms by which vitamin D
+deficiency affects brain development and its subsequent influence on
+adult psychiatric and neurological disease. There is evidence that
+vitamin D has important roles in neurodevelopment, neuroprotection and
+neuroplasticity, not only by exerting its biological function directly,
+but also by influencing the expression of genes at a cellular level.5
+Evidence on its prevalence in people with mental illness, in the UK, is
+limited. This study investigated the prevalence of vitamin D deficiency
+among adult patients being admitted to a psychiatric hospital in the UK,
+to ascertain how widespread and severe it is among our patients, and to
+further assess whether there are stronger associations with certain
+subgroups of illness such as depressive or psychotic disorders.
 
 .. _sec1:
 
@@ -187,10 +188,10 @@ with a total of 49% being deficient and a further 42% being insufficient
 in vitamin D.
 
 The reported prevalence in our study was greater than that found in
-psychiatric in-patient samples in Australia (58% less than
-50 nmol/L),(n.d.f) New Zealand (74% less than 50 nmol/L)(n.d.g) and
-North America (52.3% less than 50 nmol/L),(n.d.h) and in an out-patient
-sample in Northern Europe (56% less than 50 nmol/L).(n.d.i)
+psychiatric in-patient samples in Australia (58% less than 50 nmol/L),6
+New Zealand (74% less than 50 nmol/L)7 and North America (52.3% less
+than 50 nmol/L),8 and in an out-patient sample in Northern Europe (56%
+less than 50 nmol/L).9
 
 The prevalence of vitamin D deficiency in our study was higher, and the
 mean serum vitamin D considerably lower, than in the general population
@@ -198,7 +199,7 @@ in the UK. Results from the National Diet and Nutrition Survey reported
 a mean serum 25(OH)D of 34.8 nmol/L and a 39.3% rate of deficiency
 (<25 nmol/L) in 19–64 year olds between the months of January and March,
 while individuals 65 years and older had a mean serum 25(OH)D of
-40.5 nmol/L and a 29.3% rate of deficiency.(n.d.j)
+40.5 nmol/L and a 29.3% rate of deficiency.10
 
 In this study, although the differences were not statistically
 significant, of the four most common diagnostic groups, we found that
@@ -206,31 +207,30 @@ participants in our sample with a primary diagnosis of schizophrenia had
 the lowest mean serum vitamin D of 29.5 nmol/L. This finding has been
 replicated in other studies. A trend towards lower vitamin D levels in
 individuals with schizophrenia has been reported in a study of
-psychiatric out-patients,(n.d.k) while a mini meta-analysis of seven
-studies found that individuals with schizophrenia had a medium effect
-size for lower vitamin D compared with healthy controls, and also a
-trend for lower vitamin D levels in comparison with other
-psychoses.(n.d.l)
+psychiatric out-patients,11 while a mini meta-analysis of seven studies
+found that individuals with schizophrenia had a medium effect size for
+lower vitamin D compared with healthy controls, and also a trend for
+lower vitamin D levels in comparison with other psychoses.12
 
 The UK has an insufficient intensity of ultraviolet sunlight to enable
 cutaneous synthesis of vitamin D over the winter months, between October
 and April, thus resulting in the vitamin D status of the UK population
 peaking in September but then falling continually until the start of the
-following summer in May, when levels begin to rise again.(n.d.m)
+following summer in May, when levels begin to rise again.13
 Historically, vitamin D deficiency has been linked to metabolic bone
 disease, specifically serum concentrations of <20 nmol/L being
 associated with clinical osteomalacia in adults and rickets in
-children.(n.d.n)
+children.14
 
 It is unclear why the prevalence of vitamin D deficiency found in this
 study was higher compared with the general population. In addition to
 cutaneous synthesis during the summer months, vitamin D can be obtained
 from the diet, but only a few foods such as fatty fish are good sources
-of vitamin D.(n.d.a) Although institutionalisation in this case would
-not be a contributing factor, as the participants were newly admitted,
-it could be hypothesised that people with mental illness are less likely
-to be spending time outdoors in sunshine and thus produce less
-endogenous vitamin D over the summer months.
+of vitamin D.1 Although institutionalisation in this case would not be a
+contributing factor, as the participants were newly admitted, it could
+be hypothesised that people with mental illness are less likely to be
+spending time outdoors in sunshine and thus produce less endogenous
+vitamin D over the summer months.
 
 National Institute for Health and Care Excellence and Department of
 Health guidance identifies the need for vitamin D supplements to be
@@ -248,7 +248,7 @@ vitamin D deficiency and is now recommending a reference nutrient intake
 for vitamin D of 10 μg/day (400 IU/day) throughout the year, for
 everyone in the general UK population aged 4 years and above, to ensure
 that the majority of the UK population has enough vitamin D to protect
-musculoskeletal health year-round.(n.d.o)
+musculoskeletal health year-round.15
 
 Our study has some limitations in terms of its generalisability to the
 wider population. A total of 104 participants were included,
@@ -271,8 +271,8 @@ to psychiatric wards.
 
 The NHS Five Year Forward View for mental health has recognised the
 importance of preventable physical health problems in people with severe
-mental illness,(n.d.p) and thus musculoskeletal health should be
-optimised where possible.
+mental illness,16 and thus musculoskeletal health should be optimised
+where possible.
 
 At the current time, there is insufficient evidence to draw any firm
 conclusions regarding an association between vitamin D deficiency and
@@ -289,86 +289,3 @@ support and guidance.
 **Dipen Patel** is a clinical fellow in Psychiatry and **Manjunath
 Minajagi** is a Consultant Psychiatrist at Bradgate Mental Health Unit,
 Leicestershire Partnership NHS Trust, Leicester, UK.
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-ref1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-ref2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-ref3
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-ref4
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-ref5
-
-      n.d.e.
-
-   .. container:: csl-entry
-      :name: ref-ref6
-
-      n.d.f.
-
-   .. container:: csl-entry
-      :name: ref-ref7
-
-      n.d.g.
-
-   .. container:: csl-entry
-      :name: ref-ref8
-
-      n.d.h.
-
-   .. container:: csl-entry
-      :name: ref-ref9
-
-      n.d.i.
-
-   .. container:: csl-entry
-      :name: ref-ref10
-
-      n.d.j.
-
-   .. container:: csl-entry
-      :name: ref-ref11
-
-      n.d.k.
-
-   .. container:: csl-entry
-      :name: ref-ref12
-
-      n.d.l.
-
-   .. container:: csl-entry
-      :name: ref-ref13
-
-      n.d.m.
-
-   .. container:: csl-entry
-      :name: ref-ref14
-
-      n.d.n.
-
-   .. container:: csl-entry
-      :name: ref-ref15
-
-      n.d.o.
-
-   .. container:: csl-entry
-      :name: ref-ref16
-
-      n.d.p.

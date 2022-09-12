@@ -2,6 +2,8 @@
 Effects of decision aids for depression treatment in adults: systematic review
 ==============================================================================
 
+
+
 Christoper A. Alarcon-Ruiz
 Jessica Hanae Zafra-Tanaka
 Mario E. Diaz-Barrera
@@ -56,24 +58,22 @@ Depression and decision-making
 ==============================
 
 Depression is the most frequent psychiatric disorder and the third most
-frequent cause of disability-adjusted
-life-years.\ :sup:`(n.d.a),(n.d.b)` The majority of patients with
-depression are eligible to receive treatment, which includes different
-psychological and pharmacological interventions\ :sup:`(n.d.c),(n.d.d)`
-that seem to have similar efficacy.\ :sup:`(n.d.e),(n.d.f)` However,
-patients with depression frequently have low access\ :sup:`(n.d.g)` and
-adherence to depression treatment.\ :sup:`(n.d.h)`
+frequent cause of disability-adjusted life-years.\ :sup:`1,2` The
+majority of patients with depression are eligible to receive treatment,
+which includes different psychological and pharmacological
+interventions\ :sup:`3,4` that seem to have similar
+efficacy.\ :sup:`5,6` However, patients with depression frequently have
+low access\ :sup:`7` and adherence to depression treatment.\ :sup:`8`
 
 Patients with depression want to receive more information about their
 disorder, and participate in their health-related
-decisions.\ :sup:`(n.d.i),(n.d.j)` In this sense, shared decision-making
-is an approach for patient-centred care that seeks to actively involve
+decisions.\ :sup:`9,10` In this sense, shared decision-making is an
+approach for patient-centred care that seeks to actively involve
 patients in the decision-making process of choosing between two or more
-medically acceptable and evidence-based treatment
-options.\ :sup:`(n.d.k)` It is hypothesised that active patient
-involvement empowers the patient and could improve treatment adherence
-and satisfaction rates, which may result in better treatment
-effectiveness.\ :sup:`(n.d.l)–(n.d.m)`
+medically acceptable and evidence-based treatment options.\ :sup:`11` It
+is hypothesised that active patient involvement empowers the patient and
+could improve treatment adherence and satisfaction rates, which may
+result in better treatment effectiveness.\ :sup:`12–14`
 
 .. _sec1-2:
 
@@ -82,28 +82,27 @@ Decision aids in depression
 
 Decision aids are the main tools used to facilitate shared
 decision-making and support patients in making informed
-choices.\ :sup:`(n.d.n)` These materials are developed in different
-formats (paper, video, web-based tools, etc.), and describe the
-condition and the benefits and harms of each treatment option, and
-encourage patients to identify which outcomes are the most important for
-them when making a choice.\ :sup:`(n.d.o),(n.d.p)` Usually, these
-interventions have to be adapted according to specific population needs,
-considering the context of their application.\ :sup:`(n.d.q)` The
-decision aids mainly seek to improve patient knowledge, decisional
-conflict and patient–clinician communication.\ :sup:`(n.d.r)`
-Additionally, they have also been studied to explore their clinical
-effects, such as treatment adherence\ :sup:`(n.d.s)` or reduction of
-symptoms.\ :sup:`(n.d.t)`
+choices.\ :sup:`15` These materials are developed in different formats
+(paper, video, web-based tools, etc.), and describe the condition and
+the benefits and harms of each treatment option, and encourage patients
+to identify which outcomes are the most important for them when making a
+choice.\ :sup:`16,17` Usually, these interventions have to be adapted
+according to specific population needs, considering the context of their
+application.\ :sup:`18` The decision aids mainly seek to improve patient
+knowledge, decisional conflict and patient–clinician
+communication.\ :sup:`19` Additionally, they have also been studied to
+explore their clinical effects, such as treatment adherence\ :sup:`20`
+or reduction of symptoms.\ :sup:`21`
 
 Although the use of decision aids may cause benefits such as higher
 treatment adherence and, therefore, higher clinical improvement, it may
 also cause harm, such as an increased level of patient
-stress.\ :sup:`(n.d.u)` In addition, people with major depressive
-disorder could have abnormal decision-making behaviour in a social
-interaction context because of an altered sensitivity for reward and
-punishment, reduce experiences of regret and poor decision
-performance.\ :sup:`(n.d.v)` This situation could also affect the use of
-decision aids in patients with depression.
+stress.\ :sup:`22` In addition, people with major depressive disorder
+could have abnormal decision-making behaviour in a social interaction
+context because of an altered sensitivity for reward and punishment,
+reduce experiences of regret and poor decision performance.\ :sup:`23`
+This situation could also affect the use of decision aids in patients
+with depression.
 
 Regarding decision aids for depression treatment, there is still concern
 about the benefit–harm balance, although some studies have assessed
@@ -137,24 +136,24 @@ a group that did not, and directly assessed any beneficial or adverse
 effects in adults with depression. We excluded RCTs that had as
 population only pregnant women because they have different risks that
 should be considered when deciding whether to use
-antidepressants.\ :sup:`(n.d.w)` Also, we excluded conference papers.
-There were no restrictions on language or publication date.
+antidepressants.\ :sup:`24` Also, we excluded conference papers. There
+were no restrictions on language or publication date.
 
 Decision aids were defined as tools or technologies used to help
 patients make informed decisions by offering information about treatment
 options, and help them to construct, clarify and communicate their
-values and preferences.\ :sup:`(n.d.x)` However, sometimes it is
-difficult to differentiate from other information-based
-interventions.\ :sup:`(n.d.y)` To define if the proposed intervention
-was a decision aid, we used the six-item qualifying criteria for
-decision aids developed by the International Patient Decision Aid
-Standards Collaboration, as it provides the definition standards for
-decision aids: (a) describes the health condition or problem for which
-the index decision is required, (b) states the decision that needs to be
-considered, (c) describes the options available for the index decision,
-(d) describes the positive features of each option, (e) describes the
-negative features of each option and (f) describes what it is like to
-experience the consequences of the options.\ :sup:`(n.d.z)`
+values and preferences.\ :sup:`25` However, sometimes it is difficult to
+differentiate from other information-based interventions.\ :sup:`26` To
+define if the proposed intervention was a decision aid, we used the
+six-item qualifying criteria for decision aids developed by the
+International Patient Decision Aid Standards Collaboration, as it
+provides the definition standards for decision aids: (a) describes the
+health condition or problem for which the index decision is required,
+(b) states the decision that needs to be considered, (c) describes the
+options available for the index decision, (d) describes the positive
+features of each option, (e) describes the negative features of each
+option and (f) describes what it is like to experience the consequences
+of the options.\ :sup:`27`
 
 The decision aid assessed by the RCTs needed to meet all six criteria to
 be included in our systematic review.
@@ -176,9 +175,9 @@ with M.E.D.-B., and N.B.-C. with C.J.T.-H.) to identify potentially
 relevant articles for inclusion. This was performed with the online
 software Rayyan version 01 for Windows (Qatar Computing Research
 Institute, Qatar Foundation, Qatar; see
-https://rayyan.qcri.org).\ :sup:`(n.d.aa)` Disagreements were resolved
-through a discussion with a third reviewer (J.H.Z.-T.). Then, the full
-text of potentially relevant articles were assessed to evaluate their
+https://rayyan.qcri.org).\ :sup:`28` Disagreements were resolved through
+a discussion with a third reviewer (J.H.Z.-T.). Then, the full text of
+potentially relevant articles were assessed to evaluate their
 eligibility. This process was also independently performed by two
 researchers. The complete list of excluded articles at this full-text
 stage is available in Supplementary File 2.
@@ -203,15 +202,14 @@ of use), time of follow-up and effects of decision aid in all included
 outcomes.
 
 Intervention information was collected with the Template for
-Intervention Description and Replication (TIDieR)
-checklist.\ :sup:`(n.d.ab)` The checklist originally was designed for
-pharmacological interventions; thus, we included only the following
-items, adapted for more complex interventions: name of intervention,
-rationale, location of delivery, materials, procedures, who provided,
-modes of delivery (grouped or individual), frequency (sessions) and
-possible options to choose within the decision aid. In case of
-disagreement, the full-text article was reviewed again by the
-researchers, to reach a consensus.
+Intervention Description and Replication (TIDieR) checklist.\ :sup:`29`
+The checklist originally was designed for pharmacological interventions;
+thus, we included only the following items, adapted for more complex
+interventions: name of intervention, rationale, location of delivery,
+materials, procedures, who provided, modes of delivery (grouped or
+individual), frequency (sessions) and possible options to choose within
+the decision aid. In case of disagreement, the full-text article was
+reviewed again by the researchers, to reach a consensus.
 
 .. _sec2-3:
 
@@ -221,30 +219,30 @@ Study quality and certainty of the evidence
 Two independent researchers (C.A.A.-R. and N.B.-C.) used the Cochrane
 Risk of Bias Tool for RCTs to assess systematic errors (or bias) in the
 design, conduct, analysis and reporting of the RCT that could
-potentially underestimate or overestimate the results.\ :sup:`(n.d.ac)`
-We followed the instructions stated in the Cochrane Handbook for
-Systematic Reviews of Interventions and evaluated selection bias,
-performance bias, detection bias, attrition bias and reporting bias to
-assess each of the six domains of the tool as low, high or unclear risk
-of bias, by each RCT included in the systematic review.\ :sup:`(n.d.ad)`
+potentially underestimate or overestimate the results.\ :sup:`30` We
+followed the instructions stated in the Cochrane Handbook for Systematic
+Reviews of Interventions and evaluated selection bias, performance bias,
+detection bias, attrition bias and reporting bias to assess each of the
+six domains of the tool as low, high or unclear risk of bias, by each
+RCT included in the systematic review.\ :sup:`31`
 
 To assess the certainty of the evidence, we used the Grading of
 Recommendations Assessment, Development and Evaluation (GRADE)
-methodology,\ :sup:`(n.d.ae)` which classifies it in a very low, low,
-moderate or high certainty of the evidence each outcome in the
-systematic review. This classification is based on the following
-criteria: risk of bias (evaluated through the Cochrane Risk of Bias
-Tool), inconsistency (heterogeneity between the RCT results and in terms
-of population, intervention, comparator and outcome; additionally
-assessed by the *I*\ :sup:`2` test), indirectness (how different are the
-included RCTs to the question of interest) and imprecision (wideness of
-the confidence interval). The certainty of the evidence was assessed for
-all meta-analysed outcomes and non-meta-analysed outcomes that were
+methodology,\ :sup:`32` which classifies it in a very low, low, moderate
+or high certainty of the evidence each outcome in the systematic review.
+This classification is based on the following criteria: risk of bias
+(evaluated through the Cochrane Risk of Bias Tool), inconsistency
+(heterogeneity between the RCT results and in terms of population,
+intervention, comparator and outcome; additionally assessed by the
+*I*\ :sup:`2` test), indirectness (how different are the included RCTs
+to the question of interest) and imprecision (wideness of the confidence
+interval). The certainty of the evidence was assessed for all
+meta-analysed outcomes and non-meta-analysed outcomes that were
 important for decision- making. Additionally, when two or more RCTs
 assessed the same outcome, but a meta-analysis was not performed, we
 summarised the individual data of each RCT narratively, and then
 assessed the certainty of the evidence following the recommendations
-proposed by Murad et al.\ :sup:`(n.d.af)`
+proposed by Murad et al.\ :sup:`33`
 
 .. _sec2-4:
 
@@ -257,22 +255,22 @@ scales across studies, we calculated standardised mean differences (SMD)
 to compare and meta-analyse these studies; otherwise, we calculated
 weighted mean differences (WMD). For outcomes that had been measured
 more than once, we only considered the final measurement to perform the
-meta-analyses, as suggested in the Cochrane Handbook.\ :sup:`(n.d.ad)`
-We assessed heterogeneity with the *I*\ :sup:`2` statistic, and we
+meta-analyses, as suggested in the Cochrane Handbook.\ :sup:`31` We
+assessed heterogeneity with the *I*\ :sup:`2` statistic, and we
 considered that heterogeneity might not be significant when
-*I*\ :sup:`2` < 40%.\ :sup:`(n.d.ad)` We considered it appropriate to
-use random-effects models in all the meta-analysis because of the
-overall heterogeneity in terms of population, intervention and
-comparators.\ :sup:`(n.d.ag)` We executed a sensitivity analysis, taking
-into account contradictory results within studies. We did not considerer
-to exclude studies with high risk for bias for sensitivity analysis,
+*I*\ :sup:`2` < 40%.\ :sup:`31` We considered it appropriate to use
+random-effects models in all the meta-analysis because of the overall
+heterogeneity in terms of population, intervention and
+comparators.\ :sup:`34` We executed a sensitivity analysis, taking into
+account contradictory results within studies. We did not considerer to
+exclude studies with high risk for bias for sensitivity analysis,
 because all the included RCTs had at least one domain of the Cochrane
 Risk of Bias Tool with a high risk of bias. Also, we did not execute a
 subgroup analysis because of the low number of studies by each
 meta-analysis. Publication bias was not statistically assessed because
 the number of studies pooled for each meta-analysis was less than
-ten.\ :sup:`(n.d.ah)` The data were processed with Stata version 15.0
-for Windows.
+ten.\ :sup:`35` The data were processed with Stata version 15.0 for
+Windows.
 
 .. _sec3:
 
@@ -287,11 +285,11 @@ Studies characteristics
 We found a total of 3309 titles. We removed 804 duplicates and screened
 a total of 2505 titles, of which 41 were evaluated in full text. Of
 these, 35 were excluded (reasons for exclusion are detailed in
-Supplementary File 2) and six were
-included.\ :sup:`(n.d.p),(n.d.ai)–(n.d.aj)` Additionally, we evaluated
-255 documents cited by any of the six included studies, from which no
-additional study was included (`Fig. 1 <#fig01>`__). Fig. 1Flow diagram
-(study selection). RCT, randomised controlled trial.
+Supplementary File 2) and six were included.\ :sup:`17,36–40`
+Additionally, we evaluated 255 documents cited by any of the six
+included studies, from which no additional study was included (`Fig.
+1 <#fig01>`__). Fig. 1Flow diagram (study selection). RCT, randomised
+controlled trial.
 
 .. _sec3-2:
 
@@ -300,18 +298,18 @@ Patient characteristics
 
 In the included RCTs, the number of participants ranged from 147 to
 1137. Regarding the study setting, three studies were performed in
-primary care centres,\ :sup:`(n.d.p),(n.d.ak),(n.d.al)` one in
-out-patient clinics\ :sup:`(n.d.am)` and two were performed remotely
-(one intervention was sent by mail to the participants\ :sup:`(n.d.ai)`
-and one was an online intervention\ :sup:`(n.d.aj)`). With regards to
-depression diagnosis for inclusion criteria, two studies used the
-Patient Health Questionnaire-9,\ :sup:`(n.d.ak),(n.d.al)` one study used
-the DSM-IV,\ :sup:`(n.d.am)` one study used the DSM-IV and the
-ICD-10,\ :sup:`(n.d.p)` one used self-report criteria\ :sup:`(n.d.aj)`
-and another did not specify the diagnosis criteria.\ :sup:`(n.d.ai)`
-Also, only one study specified the severity of depression according to
-the inclusion criteria.\ :sup:`(n.d.ak)` Characteristics of each
-included study are available in Supplementary File 3.
+primary care centres,\ :sup:`17,38,39` one in out-patient
+clinics\ :sup:`37` and two were performed remotely (one intervention was
+sent by mail to the participants\ :sup:`36` and one was an online
+intervention\ :sup:`40`). With regards to depression diagnosis for
+inclusion criteria, two studies used the Patient Health
+Questionnaire-9,\ :sup:`38,39` one study used the DSM-IV,\ :sup:`37` one
+study used the DSM-IV and the ICD-10,\ :sup:`17` one used self-report
+criteria\ :sup:`40` and another did not specify the diagnosis
+criteria.\ :sup:`36` Also, only one study specified the severity of
+depression according to the inclusion criteria.\ :sup:`38`
+Characteristics of each included study are available in Supplementary
+File 3.
 
 .. _sec3-3:
 
@@ -319,27 +317,23 @@ Interventions and comparators
 -----------------------------
 
 Interventions were heterogeneous across studies; four studies used
-visual decision aid (leaflets, booklet, cards or
-DVD),\ :sup:`(n.d.ai)–(n.d.al)` and two studies used a computer-based
-decision aid (webpage or artificial
-intelligence).\ :sup:`(n.d.p),(n.d.aj)` Regarding the decision aid
-application: in two studies, physicians applied the decision
-aids,\ :sup:`(n.d.ak),(n.d.al)` in two studies the decision aids were
-self-applied,\ :sup:`(n.d.p),(n.d.ai)` in one study the decision aids
-were applied by a pharmacist\ :sup:`(n.d.am)` and in one study decision
-aids were applied by artificial intelligence.\ :sup:`(n.d.aj)` All
-decision aids presented possible options regarding the patient's
+visual decision aid (leaflets, booklet, cards or DVD),\ :sup:`36–39` and
+two studies used a computer-based decision aid (webpage or artificial
+intelligence).\ :sup:`17,40` Regarding the decision aid application: in
+two studies, physicians applied the decision aids,\ :sup:`38,39` in two
+studies the decision aids were self-applied,\ :sup:`17,36` in one study
+the decision aids were applied by a pharmacist\ :sup:`37` and in one
+study decision aids were applied by artificial intelligence.\ :sup:`40`
+All decision aids presented possible options regarding the patient's
 depression treatment. Specifically, four decision aids presented options
 for the of use antidepressant drugs, psychotherapy/psychological
-treatment or watchful
-waiting.\ :sup:`(n.d.p),(n.d.am),(n.d.al),(n.d.aj)` Furthermore, two
+treatment or watchful waiting.\ :sup:`17,37,39,40` Furthermore, two
 decision aids presented options for start, stop, increase or switch
-antidepressant treatment.\ :sup:`(n.d.ai),(n.d.ak)` Intervention's
-characteristics are detailed in Supplementary File 4, using the TIDieR
-checklist. Regarding the control group, in five studies, participants
-received either usual care or no intervention, and in the remaining
-study, the decision aid was compared with an informative
-intervention.\ :sup:`(n.d.aj)`
+antidepressant treatment.\ :sup:`36,38` Intervention's characteristics
+are detailed in Supplementary File 4, using the TIDieR checklist.
+Regarding the control group, in five studies, participants received
+either usual care or no intervention, and in the remaining study, the
+decision aid was compared with an informative intervention.\ :sup:`40`
 
 .. _sec3-4:
 
@@ -351,30 +345,30 @@ decision-making process outcomes, such as decisional conflict,
 information exchange, patient knowledge, patients involvement in
 decision-making, decision regret, etc. Decisional conflict is known as
 the degree of patient insecurity about possible consequences that occur
-after deciding their health,\ :sup:`(n.d.an)` and information exchange
-assess the communication between doctor and patient about their illness
-and its management when there is a need to decide on patient's
-health.\ :sup:`(n.d.ao)` Additionally, there are also clinical outcomes
-(such as depressive symptoms, adverse effects, treatment adherence and
+after deciding their health,\ :sup:`41` and information exchange assess
+the communication between doctor and patient about their illness and its
+management when there is a need to decide on patient's
+health.\ :sup:`42` Additionally, there are also clinical outcomes (such
+as depressive symptoms, adverse effects, treatment adherence and
 health-related quality of life). All the measured outcomes and
 definitions, by each RCT, are presented in `Table 1 <#tab01>`__. Table
 1Outcomes evaluated in the included studiesAljumah et al,
-2015\ :sup:`(n.d.am)` LeBlanc et al, 2015\ :sup:`(n.d.ak)` Loh et al,
-2007\ :sup:`(n.d.al)` Simon et al, 2012\ :sup:`(n.d.aj)` Perestelo-Perez
-et al, 2017\ :sup:`(n.d.p)` Sepucha et al, 2012\ :sup:`(n.d.ai)`
-Adherence: Morisky Medication Adherence Scale (0–8 points)Adherence:
-Patient self-report and pharmacy records to categorise patients’
-adherence (Yes or no adherence)Adherence: single question: ‘How steadily
-did you follow the treatment plan?’ (1–5 points, Likert scale)Adherence:
-single question (0–100 standardised points)Decisional control
-preferences: Control Preference ScaleAdverse effects:
-mortalityHealth-related quality of life: EuroQol-5D in Arabic version
-(0–100 points)Decisional conflict: Decisional Conflict Scale (0–100
-points)Consultation time: documented in minutes by the physicians,
-following each consultation (minutes)Decisional conflict: Decisional
-Conflict Scale (0–100 points)Decisional conflict: Decisional Conflict
-Scale (0–100 points)Patient involvement in the decision-making process:
-Observing Patient Involvement in Decision-Making scale (0–100
+2015\ :sup:`37` LeBlanc et al, 2015\ :sup:`38` Loh et al,
+2007\ :sup:`39` Simon et al, 2012\ :sup:`40` Perestelo-Perez et al,
+2017\ :sup:`17` Sepucha et al, 2012\ :sup:`36` Adherence: Morisky
+Medication Adherence Scale (0–8 points)Adherence: Patient self-report
+and pharmacy records to categorise patients’ adherence (Yes or no
+adherence)Adherence: single question: ‘How steadily did you follow the
+treatment plan?’ (1–5 points, Likert scale)Adherence: single question
+(0–100 standardised points)Decisional control preferences: Control
+Preference ScaleAdverse effects: mortalityHealth-related quality of
+life: EuroQol-5D in Arabic version (0–100 points)Decisional conflict:
+Decisional Conflict Scale (0–100 points)Consultation time: documented in
+minutes by the physicians, following each consultation
+(minutes)Decisional conflict: Decisional Conflict Scale (0–100
+points)Decisional conflict: Decisional Conflict Scale (0–100
+points)Patient involvement in the decision-making process: Observing
+Patient Involvement in Decision-Making scale (0–100
 points)\ `a <#tfn1_2>`__\ Knowledge: self-developed questionnaire (0–100
 points)Patient involvement in the decision-making process:
 Man-Son-Hing-instrument (patient perspective)Knowledge: self-developed
@@ -436,22 +430,22 @@ significant effect on doctor facilitation (two RCTs; WMD 1.40; 95% CI
 Regarding the outcome of patient involvement in the decision-making
 process, two RCTs present their results for this outcome, but each of
 them used a different instrument and perspective of assessment. Loh et
-al\ :sup:`(n.d.al)` used the Man-Son-Hing scale (patient perspective)
-and found a statistical difference between study groups (mean difference
-2.5; 95% CI 1.6–3.4). Alternatively, LeBlanc et al\ :sup:`(n.d.ak)` used
-the Observing Patient Involvement in Decision-Making scale (evaluator
+al\ :sup:`39` used the Man-Son-Hing scale (patient perspective) and
+found a statistical difference between study groups (mean difference
+2.5; 95% CI 1.6–3.4). Alternatively, LeBlanc et al\ :sup:`38` used the
+Observing Patient Involvement in Decision-Making scale (evaluator
 perspective), and also found a statistical difference between study
 groups (mean difference 15.8; 95% CI 6.5–25.9).
 
 The remaining decision-making process outcomes were assessed only by one
 RCT, and we did not find differences between the study groups in terms
-of length of consultation,\ :sup:`(n.d.al)` decisional control
-preference (between passive, active or shared)\ :sup:`(n.d.p)` and
-decision regret.\ :sup:`(n.d.aj)` However, we found a beneficial effect
-to be sure of the intention to choose a treatment (sure or not
-sure),\ :sup:`(n.d.p)` in the treatment satisfaction,\ :sup:`(n.d.am)`
-in the decision aid satisfaction\ :sup:`(n.d.ak)` and the preparation of
-patients for decision-making.\ :sup:`(n.d.aj)`
+of length of consultation,\ :sup:`39` decisional control preference
+(between passive, active or shared)\ :sup:`17` and decision
+regret.\ :sup:`40` However, we found a beneficial effect to be sure of
+the intention to choose a treatment (sure or not sure),\ :sup:`17` in
+the treatment satisfaction,\ :sup:`37` in the decision aid
+satisfaction\ :sup:`38` and the preparation of patients for
+decision-making.\ :sup:`40`
 
 .. _sec3-7:
 
@@ -462,15 +456,15 @@ We did not find beneficial effect on treatment adherence (three RCTs;
 SMD 0.20; 95% CI −0.31 to 0.71), and depressive symptoms (three RCTs;
 SMD −0.06; 95% CI −0.22 to 0.09) (`Fig. 3 <#fig03>`__). Also, one RCT
 evaluated one adverse effect, mortality, and reported no adverse effects
-in both intervention and control arms,\ :sup:`(n.d.ai)` and another one
-found no differences between study groups for health-related quality of
-life.\ :sup:`(n.d.am)` Fig. 3(a) Forest plot of decision aid for
-decisional conflict, higher is worse. (b) Forest plot of decision aid
-for patient knowledge, higher is better. (c) Forest plot of decision aid
-for depression symptoms, higher is worse. (d) Forest plot of decision
-aid for treatment adherence, higher is better. (e) Forest plot of
-decision aid for doctor facilitation, higher is better. (f) Forest plot
-of decision aid for information exchange, higher is better. SMD,
+in both intervention and control arms,\ :sup:`36` and another one found
+no differences between study groups for health-related quality of
+life.\ :sup:`37` Fig. 3(a) Forest plot of decision aid for decisional
+conflict, higher is worse. (b) Forest plot of decision aid for patient
+knowledge, higher is better. (c) Forest plot of decision aid for
+depression symptoms, higher is worse. (d) Forest plot of decision aid
+for treatment adherence, higher is better. (e) Forest plot of decision
+aid for doctor facilitation, higher is better. (f) Forest plot of
+decision aid for information exchange, higher is better. SMD,
 standardized mean differences; WMD, weighted mean differences.
 
 .. _sec3-8:
@@ -483,10 +477,10 @@ Three of the performed meta-analyses had important heterogeneity
 treatment adherence (three RCTs; SMD 0.20; 95% CI −0.31 to 0.71)
 included studies with contradictory results. Thus, we executed a
 sensitivity analysis for this outcome, excluding the RCT by Simon et
-al,\ :sup:`(n.d.aj)` because its results contradicted the other results
-of the two RCTs by Loh et al and Aljumah et
-al.\ :sup:`(n.d.am),(n.d.al)` The global effect of this sensitivity
-analysis, with only two RCTs, was an SMD of 0.50 (95% CI 0.29–0.70).
+al,\ :sup:`40` because its results contradicted the other results of the
+two RCTs by Loh et al and Aljumah et al.\ :sup:`37,39` The global effect
+of this sensitivity analysis, with only two RCTs, was an SMD of 0.50
+(95% CI 0.29–0.70).
 
 .. _sec3-9:
 
@@ -559,80 +553,78 @@ evidence.
 
 The interventions used in the six included RCTs fulfilled all the
 qualifying items from the International Patient Decision Aid Standards
-Collaboration criteria.\ :sup:`(n.d.z)` However, there was heterogeneity
+Collaboration criteria.\ :sup:`27` However, there was heterogeneity
 regarding the type of decision aids used (including leaflets, booklets,
 cards, DVD, a webpage or artificial intelligence), treatment options in
 the decision aids and by whom they were administered (physicians,
 pharmacists, researchers or the patient themselves). This heterogeneity
 is expected because the use of the decision aids largely depends on
-context, and has to be adapted according to population
-needs.\ :sup:`(n.d.q)` However, the fact that there were not even two
-studies that used the same decision aid affects the capability of
-synthesis and interpretation of the pooled results.\ :sup:`(n.d.ap)`
+context, and has to be adapted according to population needs.\ :sup:`18`
+However, the fact that there were not even two studies that used the
+same decision aid affects the capability of synthesis and interpretation
+of the pooled results.\ :sup:`43`
 
 Regarding the quality of the included RCTs, participants were not
 blinded because of the intervention's intrinsic nature. This represents
 an important source of bias as the perception of subjective outcomes
-could have been influenced.\ :sup:`(n.d.aq)` Additionally, most RCTs
-used a no-intervention group as the control without placebo. However,
-using an information-based intervention about treatment options for
-depression without a decision-making process as a control group in the
-RCTs would have helped to prevent the complex intervention effects, and
-ensure that the effects of the decision aid are not explained only by
-higher attention from a health professional.\ :sup:`(n.d.ar)`
+could have been influenced.\ :sup:`44` Additionally, most RCTs used a
+no-intervention group as the control without placebo. However, using an
+information-based intervention about treatment options for depression
+without a decision-making process as a control group in the RCTs would
+have helped to prevent the complex intervention effects, and ensure that
+the effects of the decision aid are not explained only by higher
+attention from a health professional.\ :sup:`45`
 
 Regarding the effects of decision aid, our pooled estimates suggest no
 effect in clinical outcomes, as described by a previous review that
 assessed decision aid in patients with mood disorders and found no
-effect with depressive symptoms,\ :sup:`(n.d.as)` and by another
-systematic review that assessed decision aid for screening tests and
-found no effect in treatment adherence.\ :sup:`(n.d.at)` These results
-could be explained by a linear and logical sequence that we propose.
-First, the decision aid gives the information to the patient about
-depression and its treatment options, which explains the ‘knowledge’
-improvement. Then, the patients are more capable of discussing the
-disease and their treatment options with the health professional, which
-explains the ‘information exchange’ improvement. Later, the patient
-feels capable of making a choice, which explains the decrease in
-‘decisional conflict’. After making a choice, the patients receive their
-treatment and feel satisfied with their decision, which improves the
-‘sure of the intention to choose a treatment’, the ‘treatment
-satisfaction’ and the ‘decision aid satisfaction’. Lastly, it would be
-expected that all of these achievements are translated into clinical
-outcomes: a higher treatment adherence and subsequent reduction of
-depressive symptoms.
+effect with depressive symptoms,\ :sup:`46` and by another systematic
+review that assessed decision aid for screening tests and found no
+effect in treatment adherence.\ :sup:`47` These results could be
+explained by a linear and logical sequence that we propose. First, the
+decision aid gives the information to the patient about depression and
+its treatment options, which explains the ‘knowledge’ improvement. Then,
+the patients are more capable of discussing the disease and their
+treatment options with the health professional, which explains the
+‘information exchange’ improvement. Later, the patient feels capable of
+making a choice, which explains the decrease in ‘decisional conflict’.
+After making a choice, the patients receive their treatment and feel
+satisfied with their decision, which improves the ‘sure of the intention
+to choose a treatment’, the ‘treatment satisfaction’ and the ‘decision
+aid satisfaction’. Lastly, it would be expected that all of these
+achievements are translated into clinical outcomes: a higher treatment
+adherence and subsequent reduction of depressive symptoms.
 
 However, regarding this last point, other factors could influence
 clinical outcomes. Adherence could be affected by accessibility to the
 treatment, the way the patients perceive the effectiveness of the
-treatment, severity of the disease, etc.\ :sup:`(n.d.au)` Additionally,
+treatment, severity of the disease, etc.\ :sup:`48` Additionally,
 depressive symptoms could be affected by the treatment adherence itself,
 the adequacy of the chosen treatment for the clinical characteristics of
-the patient and other psychosocial factors.\ :sup:`(n.d.av)` In
-addition, some methodological issues could explain the results. None of
-the studies included in the meta-analysis of depressive symptoms, and
-only one of the three studies included in the meta-analysis of treatment
-adherence were designed to assess those outcomes, so there could have
-been a lack of power to find a difference between study groups.
+the patient and other psychosocial factors.\ :sup:`49` In addition, some
+methodological issues could explain the results. None of the studies
+included in the meta-analysis of depressive symptoms, and only one of
+the three studies included in the meta-analysis of treatment adherence
+were designed to assess those outcomes, so there could have been a lack
+of power to find a difference between study groups.
 
 The pooled analysis found no effect of decision aids on treatment
 adherence (SMD −0.31 to 0.71). This meta-analysis included three
-RCTs.\ :sup:`(n.d.am),(n.d.al),(n.d.aj)` One of them\ :sup:`(n.d.aj)`
-contradicted the results of the other two, in addition to having the
-smallest sample size and the highest risk of bias (as a result of
-attrition bias and small sample size). Thus, a sensitivity analysis
-removing that RCT found a beneficial effect of decision aids for
-treatment adherence (SMD 0.50; 95% CI 0.29–0.70). Thus, we cannot
-exclude a possible positive effect of decision aids on treatment
-adherence, which has to be assessed in future studies.
+RCTs.\ :sup:`37,39,40` One of them\ :sup:`40` contradicted the results
+of the other two, in addition to having the smallest sample size and the
+highest risk of bias (as a result of attrition bias and small sample
+size). Thus, a sensitivity analysis removing that RCT found a beneficial
+effect of decision aids for treatment adherence (SMD 0.50; 95% CI
+0.29–0.70). Thus, we cannot exclude a possible positive effect of
+decision aids on treatment adherence, which has to be assessed in future
+studies.
 
 On the other hand, we did find beneficial effects in decision-making
 process outcomes, such as decisional conflict, information exchange and
-patient knowledge, similar to a previous review.\ :sup:`(n.d.as)` These
-three outcomes are expected for a decision aid designed to facilitate
-the shared decision-making process.
-Five\ :sup:`(n.d.p),(n.d.ai)–(n.d.ak),(n.d.aj)` out of six RCTs assessed
-decision aids developed to enhance patients’ involvement in the
+patient knowledge, similar to a previous review.\ :sup:`46` These three
+outcomes are expected for a decision aid designed to facilitate the
+shared decision-making process. Five\ :sup:`17,36–38,40` out of six RCTs
+assessed decision aids developed to enhance patients’ involvement in the
 decision-making process, support their choices, empower them and improve
 their knowledge about their therapeutic options. Consequently, the
 decision aid's main objective may determine the outcomes (decision
@@ -652,8 +644,8 @@ context. Additionally, healthcare professionals must consider the
 balance between desirable and undesirable consequences of the decision
 aid's application, and acknowledge the patient information and
 involvement as decisive components for the shared decision-making
-process,\ :sup:`(n.d.aw),(n.d.ax)` to make a decision applicable to each
-particular patient.
+process,\ :sup:`50,51` to make a decision applicable to each particular
+patient.
 
 .. _sec4-1:
 
@@ -663,10 +655,10 @@ Limitations and strengths
 Our study included a small number of heterogeneous studies. However, we
 decided to conduct a meta-analysis to test the hypothesis about the
 overall effect of decision aid in patients with depression, for a better
-decision-making process.\ :sup:`(n.d.ap)` The certainty of the evidence
-was very low for all the prioritised outcomes, which demonstrates the
-need for more well-designed and adequately reported RCTs with higher
-sample sizes.
+decision-making process.\ :sup:`43` The certainty of the evidence was
+very low for all the prioritised outcomes, which demonstrates the need
+for more well-designed and adequately reported RCTs with higher sample
+sizes.
 
 On the other hand, this systematic review has important strengths: it
 followed the Preferred Reporting Items for Systematic Reviews and
@@ -674,9 +666,9 @@ Meta-Analyses statement and was inscribed in the PROSPERO database.
 Also, we performed a comprehensive search strategy across multiple
 databases, without language restriction, and across articles that cited
 each of the found studies, which allowed us to find all studies reported
-in previous systematic reviews\ :sup:`(n.d.as),(n.d.at)` and other
-studies that were not found in these reviews. Lastly, we evaluated the
-certainty of evidence with the GRADE methodology.
+in previous systematic reviews\ :sup:`46,47` and other studies that were
+not found in these reviews. Lastly, we evaluated the certainty of
+evidence with the GRADE methodology.
 
 In conclusion, we found six RCTs that evaluated the effects of decision
 aid in adults with depression. Evidence of very low certainty suggests
@@ -744,259 +736,6 @@ None.
 
 ICMJE forms are in the supplementary material, available online at
 https://doi.org/10.1192/bjb.2020.130.
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-ref1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-ref2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-ref3
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-ref4
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-ref5
-
-      n.d.e.
-
-   .. container:: csl-entry
-      :name: ref-ref6
-
-      n.d.f.
-
-   .. container:: csl-entry
-      :name: ref-ref7
-
-      n.d.g.
-
-   .. container:: csl-entry
-      :name: ref-ref8
-
-      n.d.h.
-
-   .. container:: csl-entry
-      :name: ref-ref9
-
-      n.d.i.
-
-   .. container:: csl-entry
-      :name: ref-ref10
-
-      n.d.j.
-
-   .. container:: csl-entry
-      :name: ref-ref11
-
-      n.d.k.
-
-   .. container:: csl-entry
-      :name: ref-ref12
-
-      n.d.l.
-
-   .. container:: csl-entry
-      :name: ref-ref14
-
-      n.d.m.
-
-   .. container:: csl-entry
-      :name: ref-ref15
-
-      n.d.n.
-
-   .. container:: csl-entry
-      :name: ref-ref16
-
-      n.d.o.
-
-   .. container:: csl-entry
-      :name: ref-ref17
-
-      n.d.p.
-
-   .. container:: csl-entry
-      :name: ref-ref18
-
-      n.d.q.
-
-   .. container:: csl-entry
-      :name: ref-ref19
-
-      n.d.r.
-
-   .. container:: csl-entry
-      :name: ref-ref20
-
-      n.d.s.
-
-   .. container:: csl-entry
-      :name: ref-ref21
-
-      n.d.t.
-
-   .. container:: csl-entry
-      :name: ref-ref22
-
-      n.d.u.
-
-   .. container:: csl-entry
-      :name: ref-ref23
-
-      n.d.v.
-
-   .. container:: csl-entry
-      :name: ref-ref24
-
-      n.d.w.
-
-   .. container:: csl-entry
-      :name: ref-ref25
-
-      n.d.x.
-
-   .. container:: csl-entry
-      :name: ref-ref26
-
-      n.d.y.
-
-   .. container:: csl-entry
-      :name: ref-ref27
-
-      n.d.z.
-
-   .. container:: csl-entry
-      :name: ref-ref28
-
-      n.d.aa.
-
-   .. container:: csl-entry
-      :name: ref-ref29
-
-      n.d.ab.
-
-   .. container:: csl-entry
-      :name: ref-ref30
-
-      n.d.ac.
-
-   .. container:: csl-entry
-      :name: ref-ref31
-
-      n.d.ad.
-
-   .. container:: csl-entry
-      :name: ref-ref32
-
-      n.d.ae.
-
-   .. container:: csl-entry
-      :name: ref-ref33
-
-      n.d.af.
-
-   .. container:: csl-entry
-      :name: ref-ref34
-
-      n.d.ag.
-
-   .. container:: csl-entry
-      :name: ref-ref35
-
-      n.d.ah.
-
-   .. container:: csl-entry
-      :name: ref-ref36
-
-      n.d.ai.
-
-   .. container:: csl-entry
-      :name: ref-ref37
-
-      n.d.am.
-
-   .. container:: csl-entry
-      :name: ref-ref38
-
-      n.d.ak.
-
-   .. container:: csl-entry
-      :name: ref-ref39
-
-      n.d.al.
-
-   .. container:: csl-entry
-      :name: ref-ref40
-
-      n.d.aj.
-
-   .. container:: csl-entry
-      :name: ref-ref41
-
-      n.d.an.
-
-   .. container:: csl-entry
-      :name: ref-ref42
-
-      n.d.ao.
-
-   .. container:: csl-entry
-      :name: ref-ref43
-
-      n.d.ap.
-
-   .. container:: csl-entry
-      :name: ref-ref44
-
-      n.d.aq.
-
-   .. container:: csl-entry
-      :name: ref-ref45
-
-      n.d.ar.
-
-   .. container:: csl-entry
-      :name: ref-ref46
-
-      n.d.as.
-
-   .. container:: csl-entry
-      :name: ref-ref47
-
-      n.d.at.
-
-   .. container:: csl-entry
-      :name: ref-ref48
-
-      n.d.au.
-
-   .. container:: csl-entry
-      :name: ref-ref49
-
-      n.d.av.
-
-   .. container:: csl-entry
-      :name: ref-ref50
-
-      n.d.aw.
-
-   .. container:: csl-entry
-      :name: ref-ref51
-
-      n.d.ax.
 
 .. [1]
    EuroQol-5D, European Quality of Life-5 Dimensions; PHQ-9, Patient

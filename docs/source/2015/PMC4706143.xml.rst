@@ -2,6 +2,8 @@
 Trauma exposure and refugee status as predictors of mental health outcomes in treatment-seeking refugees
 ========================================================================================================
 
+
+
 Jeroen W. Knipscheer
 Marieke Sleijpen
 Trudy Mooren
@@ -38,26 +40,24 @@ Niels van der AaCorrespondence to Jeroen W. Knipscheer
 
 Refugees and asylum seekers have been shown to be at substantially
 higher risk of developing post-traumatic stress disorder
-(PTSD)\ :sup:`(n.d.a)` and comorbid mental health problems than the
-general population,\ :sup:`(n.d.b)` compatriots who have stayed in the
-refugees' home country,\ :sup:`(n.d.c)` and economic
-migrants.\ :sup:`(n.d.d)` Exposure to a high number of potentially
-traumatic events, involvement in asylum-seeking procedures and forced
-migration are stressors that set refugees apart from other populations
-and increase their psychological vulnerability. In Western psychiatric
-practice, insight in the determinants of PTSD and comorbid disorders in
-refugees may be helpful in guiding treatment interventions.
-Meta-analyses have shown that torture and cumulative traumatic events
-are the main predictors for development of PTSD in
-refugees.\ :sup:`(n.d.e)` Additionally, researchers have begun to
-investigate whether different symptom profiles in refugees are related
-to different traumatic experiences. In a sample of Bosnian refugees,
-Momartin *et al*\ :sup:`(n.d.f)` found that life threat and traumatic
-loss were related to PTSD and depression. In a sample of Mandean
-refugees, Nickerson *et al*\ :sup:`(n.d.g)` found that PTSD and
-prolonged grief disorder were predicted by traumatic loss, whereas PTSD
-only was predicted by difficulties related to loss of culture and
-support.
+(PTSD)\ :sup:`1` and comorbid mental health problems than the general
+population,\ :sup:`2` compatriots who have stayed in the refugees' home
+country,\ :sup:`3` and economic migrants.\ :sup:`4` Exposure to a high
+number of potentially traumatic events, involvement in asylum-seeking
+procedures and forced migration are stressors that set refugees apart
+from other populations and increase their psychological vulnerability.
+In Western psychiatric practice, insight in the determinants of PTSD and
+comorbid disorders in refugees may be helpful in guiding treatment
+interventions. Meta-analyses have shown that torture and cumulative
+traumatic events are the main predictors for development of PTSD in
+refugees.\ :sup:`5` Additionally, researchers have begun to investigate
+whether different symptom profiles in refugees are related to different
+traumatic experiences. In a sample of Bosnian refugees, Momartin *et
+al*\ :sup:`6` found that life threat and traumatic loss were related to
+PTSD and depression. In a sample of Mandean refugees, Nickerson *et
+al*\ :sup:`7` found that PTSD and prolonged grief disorder were
+predicted by traumatic loss, whereas PTSD only was predicted by
+difficulties related to loss of culture and support.
 
 While these findings are highly relevant to treatment-seeking refugees,
 similar analyses have not yet been carried out in large,
@@ -133,35 +133,34 @@ Measures
 --------
 
 Traumatic experiences and PTSD symptom severity were assessed using the
-Harvard Trauma Questionnaire (HTQ).\ :sup:`(n.d.h)` The HTQ consists of
-three parts, the first two of which were used in this study. In the
-first part participants were asked to indicate which of the 19 traumatic
-events they experienced, witnessed or heard of, and only
-self-experienced traumatic events were used in the study. For each
-participant a total number of different self-experienced traumatic
-events was calculated (range 0-19). In the second part of the HTQ the
-severity of DSM-IV PTSD symptoms was assessed by asking participants how
-much they were bothered by 16 PTSD symptoms during the past week, rated
-on a 4-point scale ranging from 1, not at all to 4, extremely. PTSD
-symptom severity was computed by averaging responses (range 1-4). The
-HTQ recommends a cut-off score of 2.5 to identify clinically significant
-PTSD. Internal consistency of the scale was high (Cronbach's α 0.86).
+Harvard Trauma Questionnaire (HTQ).\ :sup:`8` The HTQ consists of three
+parts, the first two of which were used in this study. In the first part
+participants were asked to indicate which of the 19 traumatic events
+they experienced, witnessed or heard of, and only self-experienced
+traumatic events were used in the study. For each participant a total
+number of different self-experienced traumatic events was calculated
+(range 0-19). In the second part of the HTQ the severity of DSM-IV PTSD
+symptoms was assessed by asking participants how much they were bothered
+by 16 PTSD symptoms during the past week, rated on a 4-point scale
+ranging from 1, not at all to 4, extremely. PTSD symptom severity was
+computed by averaging responses (range 1-4). The HTQ recommends a
+cut-off score of 2.5 to identify clinically significant PTSD. Internal
+consistency of the scale was high (Cronbach's α 0.86).
 
 Symptom severity for depression was assessed with the Hopkins Symptom
-Checklist (HSCL-25).\ :sup:`(n.d.i)` Participants were asked to indicate
-how distressed they were by rating 10 symptoms of anxiety and 15
-symptoms of depression during the past week on a 4-point scale ranging
-from 1, not at all to 4, extremely. Symptom severity of depression
-(range 1-4) was computed by averaging responses on the 15 depression
-items. The HSCL-25 recommends a cut-off score of 1.75 to indicate
-clinically significant depression. Internal consistency was high
-(Cronbach's α 0.89).
+Checklist (HSCL-25).\ :sup:`9` Participants were asked to indicate how
+distressed they were by rating 10 symptoms of anxiety and 15 symptoms of
+depression during the past week on a 4-point scale ranging from 1, not
+at all to 4, extremely. Symptom severity of depression (range 1-4) was
+computed by averaging responses on the 15 depression items. The HSCL-25
+recommends a cut-off score of 1.75 to indicate clinically significant
+depression. Internal consistency was high (Cronbach's α 0.89).
 
 The HTQ and HSCL-25 are self-report questionnaires that are widely used
 with refugees and are available in many different languages.
 Questionnaires were administered in the patient's native language if
 possible and interpreters were used when necessary. Both instruments
-have good psychometric properties.\ :sup:`(n.d.j)`
+have good psychometric properties.\ :sup:`10`
 
 .. _S4:
 
@@ -174,7 +173,7 @@ identified, a principal component analysis with oblique rotation (direct
 oblimin) was conducted on the total set of self-experienced traumatic
 events. An initial analysis was run to obtain eigenvalues for each
 factor in the data and to evaluate the substantive contribution of each
-item to the extracted factors. Stevens\ :sup:`(n.d.k)` recommends
+item to the extracted factors. Stevens\ :sup:`11` recommends
 interpreting factor loadings greater than 0.4 as substantive. The
 analysis was rerun without the items that did not contribute
 substantively to the extracted factors. For each participant a total
@@ -187,7 +186,7 @@ status, total number of self-experienced traumatic events and the
 domains of traumatic events predicted symptom severity of PTSD and
 depression. These variables were independently added to the regression
 models, together with the gender and age covariates, as these have been
-found to predict PTSD in refugee samples.\ :sup:`(n.d.l)` Scores on the
+found to predict PTSD in refugee samples.\ :sup:`12` Scores on the
 extracted domains of traumatic events were recoded into dummy variables
 before being added to the hierarchical regression models. To allow for
 multiple tests the alpha level of significance was set to 0.01.
@@ -508,7 +507,7 @@ and depression. These results are in stark contrast with earlier
 findings among non-treatment-seeking refugee populations, which showed
 that torture and cumulative traumatic events accounted for 34.4% of
 variance in PTSD prevalence rates and for 33.4% of variance in
-depression prevalence rates.\ :sup:`(n.d.e)`
+depression prevalence rates.\ :sup:`5`
 
 Clearly, PTSD symptom and depression severity among asylum seekers and
 refugees seeking specialised treatment is influenced by multiple
@@ -545,69 +544,6 @@ limited, merits of this study lie in the satisfactory cultural validity
 of the questionnaires and the large sample size. Future studies using a
 broader range of instruments are needed to identify predictors for PTSD
 and depression in treatment-seeking refugees.
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-R1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-R2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-R3
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-R4
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-R5
-
-      n.d.e.
-
-   .. container:: csl-entry
-      :name: ref-R6
-
-      n.d.f.
-
-   .. container:: csl-entry
-      :name: ref-R7
-
-      n.d.g.
-
-   .. container:: csl-entry
-      :name: ref-R8
-
-      n.d.h.
-
-   .. container:: csl-entry
-      :name: ref-R9
-
-      n.d.i.
-
-   .. container:: csl-entry
-      :name: ref-R10
-
-      n.d.j.
-
-   .. container:: csl-entry
-      :name: ref-R11
-
-      n.d.k.
-
-   .. container:: csl-entry
-      :name: ref-R12
-
-      n.d.l.
 
 .. [1]
    **Jeroen W. Knipscheer** is a psychologist and senior researcher and

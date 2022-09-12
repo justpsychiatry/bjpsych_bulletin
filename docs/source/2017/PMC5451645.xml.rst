@@ -2,6 +2,8 @@
 Vitamin D deficiency in adolescents in a tier 4 psychiatric unit
 ================================================================
 
+
+
 Neil F. Stewart
 Simon N. LewisCorrespondence to Simon N. Lewis (slewis9@nhs.net)  [1]_
 :Date: 2017-6
@@ -33,24 +35,24 @@ Simon N. LewisCorrespondence to Simon N. Lewis (slewis9@nhs.net)  [1]_
 It is well known that vitamin D plays a role in bone health. In
 addition, vitamin D receptors have been found in several areas of the
 brain and are reported to be involved in neuroimmuno-modulation,
-neuroprotection, neuro-plasticity and brain development.\ :sup:`(n.d.a)`
-Given that some of these receptors are found in brain areas implicated
-in mental illnesses such as depression,\ :sup:`(n.d.a)` it is plausible
-that vitamin D and/or vitamin D deficiency have a role in the
-pathogenesis of mental illness.
+neuroprotection, neuro-plasticity and brain development.\ :sup:`1` Given
+that some of these receptors are found in brain areas implicated in
+mental illnesses such as depression,\ :sup:`1` it is plausible that
+vitamin D and/or vitamin D deficiency have a role in the pathogenesis of
+mental illness.
 
 Existing guidelines identify risk factors for vitamin D
-deficiency\ :sup:`(n.d.b)–(n.d.c)` (details available from the authors
-on request), although there is little that relates specifically to
-adolescents or individuals within mental health settings. We
-hypothesised that patients in a tier 4 adolescent psychiatric unit in
-north London may be at increased risk of vitamin D deficiency,
-potentially having had reduced exposure to sunlight as a result of their
-psychiatric presentations. Linked to this, according to data from the UK
-National Census in 2011,\ :sup:`(n.d.d)` there is a higher proportion of
-individuals with increased skin pigmentation (black and minority ethnic
-(BME)) compared with the national average within inner London schools,
-which may reflect general population trends in urban areas.
+deficiency\ :sup:`2–4` (details available from the authors on request),
+although there is little that relates specifically to adolescents or
+individuals within mental health settings. We hypothesised that patients
+in a tier 4 adolescent psychiatric unit in north London may be at
+increased risk of vitamin D deficiency, potentially having had reduced
+exposure to sunlight as a result of their psychiatric presentations.
+Linked to this, according to data from the UK National Census in
+2011,\ :sup:`5` there is a higher proportion of individuals with
+increased skin pigmentation (black and minority ethnic (BME)) compared
+with the national average within inner London schools, which may reflect
+general population trends in urban areas.
 
 .. _S1:
 
@@ -78,8 +80,7 @@ and 50 nmol/L minimal vitamin D levels for bone health. The results were
 also mapped to other guidelines, such as National Institute for Health
 and Care Excellence (NICE) guidelines (<25 nmol/L ‘low vitamin D
 status’) and those outlined by the Endocrine Society and Society for
-Adolescent Health and Medicine (>75 nmol/L
-‘adequate’).\ :sup:`(n.d.c),(n.d.e)`
+Adolescent Health and Medicine (>75 nmol/L ‘adequate’).\ :sup:`4,7`
 
 .. _S3:
 
@@ -93,8 +94,8 @@ or severely deficient (40.7% deficient and 40.7% severely deficient) and
 18.5% had the minimum levels for bone health. Applying the NICE
 guidelines, 40.7% of patients had low vitamin D status. No individuals
 tested had levels of >75 nmol/L (a level recommended in other
-guidelines).\ :sup:`(n.d.c),(n.d.e)` The results are summarised in
-`Table 1 <#T1>`__.
+guidelines).\ :sup:`4,7` The results are summarised in `Table
+1 <#T1>`__.
 
 .. container:: table-wrap
    :name: T1
@@ -182,16 +183,16 @@ Are adolescents at risk?
 ------------------------
 
 There is emerging evidence that the adolescent population in general is
-at risk of vitamin D deficiency.\ :sup:`(n.d.f)` Although risk factors
-may vary, depending on geographical location, seasonal changes, latitude
-and variations in ultraviolet light levels, there has also been a
-suggestion of a worldwide re-emergence of rickets in the paediatric
-population.\ :sup:`(n.d.g)` The Royal College of Paediatrics and Child
-Health identifies adolescents as having an ‘increased need’ for vitamin
-D,\ :sup:`(n.d.h)` and the draft NICE guidelines\ :sup:`(n.d.i)` stated
-that young people undergoing rapid periods of growth are at an increased
-risk of vitamin D deficiency, although this did not appear in the final
-guideline.\ :sup:`(n.d.b)`
+at risk of vitamin D deficiency.\ :sup:`8` Although risk factors may
+vary, depending on geographical location, seasonal changes, latitude and
+variations in ultraviolet light levels, there has also been a suggestion
+of a worldwide re-emergence of rickets in the paediatric
+population.\ :sup:`9` The Royal College of Paediatrics and Child Health
+identifies adolescents as having an ‘increased need’ for vitamin
+D,\ :sup:`10` and the draft NICE guidelines\ :sup:`6` stated that young
+people undergoing rapid periods of growth are at an increased risk of
+vitamin D deficiency, although this did not appear in the final
+guideline.\ :sup:`2`
 
 .. _S8:
 
@@ -200,9 +201,9 @@ Which guidelines to use?
 
 An update to the NICE guidelines regarding vitamin D deficiency was
 published in November 2014 with the aim of increasing vitamin D
-supplement use among at-risk groups.\ :sup:`(n.d.b)` The guidelines
-include the findings of the *National Diet and Nutrition Survey* showing
-that 8–24% of children (depending on age and gender) may have vitamin D
+supplement use among at-risk groups.\ :sup:`2` The guidelines include
+the findings of the *National Diet and Nutrition Survey* showing that
+8–24% of children (depending on age and gender) may have vitamin D
 deficiency (details available from the authors on request). It is also
 noted that up to 75% of Asian adults may be deficient in vitamin D. The
 groups at risk of vitamin D deficiency, including adolescents, are:
@@ -212,14 +213,13 @@ confined indoors for long periods, andpeople with darker skin, for
 example people of African, African-Caribbean or South Asian origin.
 
 There appears to be a lack of consensus between various guidelines in
-defining a biochemical vitamin D deficiency. NICE
-guidelines\ :sup:`(n.d.b)` give a level of <25 nmol/L as low vitamin D
-status, but local laboratory reference ranges and recommendations made
-in other guidelines vary. For example, the Endocrine
-Society\ :sup:`(n.d.c)` and the Society for Adolescent Health and
-Medicine\ :sup:`(n.d.e)` provide different recommendations regarding
-required vitamin D levels, which appear to be higher than those in the
-NICE guidelines.\ :sup:`(n.d.b)` `Table 2 <#T2>`__ summarises the
+defining a biochemical vitamin D deficiency. NICE guidelines\ :sup:`2`
+give a level of <25 nmol/L as low vitamin D status, but local laboratory
+reference ranges and recommendations made in other guidelines vary. For
+example, the Endocrine Society\ :sup:`4` and the Society for Adolescent
+Health and Medicine\ :sup:`7` provide different recommendations
+regarding required vitamin D levels, which appear to be higher than
+those in the NICE guidelines.\ :sup:`2` `Table 2 <#T2>`__ summarises the
 guidelines.
 
 .. container:: table-wrap
@@ -263,15 +263,14 @@ Prevention and treatment
 Vitamin D deficiency can be treated with oral or intramuscular
 supplementation, usually in the D\ :sub:`3` form (cholecalciferol), as
 this may be more effective than vitamin D\ :sub:`2` in raising serum
-25(OH)D levels.\ :sup:`(n.d.j)` NICE guidelines outline the daily
-vitamin D intake requirements to minimise the risk of deficiency in
-various age groups, with 400 IU for ‘at risk’ adults. Similar
-requirements have been suggested for adolescents.\ :sup:`(n.d.f)`
-Medical causes of vitamin D deficiency, other than reduced sunlight
-exposure, should also be considered, for example reduced parathyroid
-hormone levels or malabsorption disorders such as coeliac disease. No
-single treatment recommendation for vitamin D deficiency is given in
-national guidelines.
+25(OH)D levels.\ :sup:`11` NICE guidelines outline the daily vitamin D
+intake requirements to minimise the risk of deficiency in various age
+groups, with 400 IU for ‘at risk’ adults. Similar requirements have been
+suggested for adolescents.\ :sup:`8` Medical causes of vitamin D
+deficiency, other than reduced sunlight exposure, should also be
+considered, for example reduced parathyroid hormone levels or
+malabsorption disorders such as coeliac disease. No single treatment
+recommendation for vitamin D deficiency is given in national guidelines.
 
 .. _S10:
 
@@ -279,39 +278,38 @@ How much sun exposure is recommended?
 -------------------------------------
 
 A recent NICE guideline, published in February 2016, outlines the risks
-and benefits of sunlight exposure.\ :sup:`(n.d.k)` It recognises that
-advice on sunlight exposure to date has been available from many sources
-and that the information has often been ‘inconsistent and potentially
-confusing’.\ :sup:`(n.d.k)` Young people and their parents/carers could
-be confused, worrying about balancing advice to limit sun exposure,
-because of the increase in incidence of skin cancer and other skin
-disorders, with a need to have sun exposure for vitamin D
-production.\ :sup:`(n.d.l),(n.d.m)` The new NICE guideline acknowledges
-that, with a proviso that ‘a simple definitive message telling different
-groups how often and how long they can be exposed to sunlight to ensure
-minimum risk but maximum benefit’ is not possible because of the
-multiple biological, social and environmental factors that contribute
-towards an individual's risk-and-benefit profile.\ :sup:`(n.d.k)`
-Specific risk factors for skin cancer such as a family history of the
-disease should always be considered when giving sun exposure advice, and
-the NICE guideline also mentions groups who should take ‘extra care to
-avoid skin damage and skin cancer’. This includes young
-people.\ :sup:`(n.d.k)`
+and benefits of sunlight exposure.\ :sup:`12` It recognises that advice
+on sunlight exposure to date has been available from many sources and
+that the information has often been ‘inconsistent and potentially
+confusing’.\ :sup:`12` Young people and their parents/carers could be
+confused, worrying about balancing advice to limit sun exposure, because
+of the increase in incidence of skin cancer and other skin disorders,
+with a need to have sun exposure for vitamin D production.\ :sup:`13,14`
+The new NICE guideline acknowledges that, with a proviso that ‘a simple
+definitive message telling different groups how often and how long they
+can be exposed to sunlight to ensure minimum risk but maximum benefit’
+is not possible because of the multiple biological, social and
+environmental factors that contribute towards an individual's
+risk-and-benefit profile.\ :sup:`12` Specific risk factors for skin
+cancer such as a family history of the disease should always be
+considered when giving sun exposure advice, and the NICE guideline also
+mentions groups who should take ‘extra care to avoid skin damage and
+skin cancer’. This includes young people.\ :sup:`12`
 
 It is suggested that skin colour charts may be helpful in making
 judgements about sun exposure advice. Individuals with naturally very
 light skin (skin types I and II) are at greater risk of sunburn and skin
 cancer and require shorter times of sun exposure to synthesise vitamin D
 compared with those with darker skin types (types V and VI), who are at
-increased risk of vitamin D deficiency in the UK.\ :sup:`(n.d.k)`
+increased risk of vitamin D deficiency in the UK.\ :sup:`12`
 
 Advice should be tailored for the time of year and the time of day. For
 example, in the UK between March and October and between 11 am and 3 pm,
 short periods of sun exposure to the forearms, hands or lower legs are
 required to synthesise vitamin D, whereas longer times are required
-between 3 pm and 11 am.\ :sup:`(n.d.k)` Between October and March, there
-is ‘very little of the ultraviolet B wavelength the skin needs to make
-vitamin D’.\ :sup:`(n.d.k)`
+between 3 pm and 11 am.\ :sup:`12` Between October and March, there is
+‘very little of the ultraviolet B wavelength the skin needs to make
+vitamin D’.\ :sup:`12`
 
 With so many factors to consider, it is perhaps not surprising that the
 general advice given in the NICE guideline remains equivocal, with an
@@ -320,9 +318,9 @@ and benefits of sunlight exposure for each individual. It is suggested
 that: ‘short (less than the time it takes for skin to redden or burn),
 frequent periods of sunlight exposure are best for vitamin D synthesis.
 In addition, this type of exposure is less likely to result in skin
-cancer’.\ :sup:`(n.d.k)` This advice is broadly similar to advice
-published in a multiagency consensus document in 2010
-(https://www.cancerresearchuk.org/sites/default/files/vitamind-consensus.pdf).\ :sup:`(n.d.e)`
+cancer’.\ :sup:`12` This advice is broadly similar to advice published
+in a multiagency consensus document in 2010
+(https://www.cancerresearchuk.org/sites/default/files/vitamind-consensus.pdf).\ :sup:`7`
 
 .. _S11:
 
@@ -389,17 +387,16 @@ all age groups, both in the general population and in hospital settings
 (general and psychiatric hospitals). The topic is likely to appear in
 the medical literature frequently in years to come, with hypothesised
 links between vitamin D deficiency and a multitude of medical conditions
-ranging from cancer to psychosis,\ :sup:`(n.d.n)` multiple
-sclerosis\ :sup:`(n.d.o)` and the possibility of a worldwide
-re-emergence of rickets in the paediatric population.\ :sup:`(n.d.g)`
-The relationship between vitamin D and mental illness is not known. A
-meta-analysis\ :sup:`(n.d.p)` published in the *British Journal of
-Psychiatry* in 2013 supported an association between low vitamin D
-concentrations and depression, mostly based on observational studies.
-However, the nature of the association is not yet known to be causal and
-the paper also noted that the quality of evidence in this particular
-area to date is poor; no randomised control trials have been
-performed.\ :sup:`(n.d.p)`
+ranging from cancer to psychosis,\ :sup:`15` multiple
+sclerosis\ :sup:`16` and the possibility of a worldwide re-emergence of
+rickets in the paediatric population.\ :sup:`9` The relationship between
+vitamin D and mental illness is not known. A meta-analysis\ :sup:`17`
+published in the *British Journal of Psychiatry* in 2013 supported an
+association between low vitamin D concentrations and depression, mostly
+based on observational studies. However, the nature of the association
+is not yet known to be causal and the paper also noted that the quality
+of evidence in this particular area to date is poor; no randomised
+control trials have been performed.\ :sup:`17`
 
 If an association between depression and vitamin D deficiency were to be
 confirmed through future study, vitamin D supplementation could
@@ -449,89 +446,6 @@ requires further thought.
 #. Ongoing examination of blood test results (serum vitamin D levels)
    should take place and internal audit on clinical practice should
    continue.
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-R1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-R2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-R4
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-R5
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-R6
-
-      n.d.i.
-
-   .. container:: csl-entry
-      :name: ref-R7
-
-      n.d.e.
-
-   .. container:: csl-entry
-      :name: ref-R8
-
-      n.d.f.
-
-   .. container:: csl-entry
-      :name: ref-R9
-
-      n.d.g.
-
-   .. container:: csl-entry
-      :name: ref-R10
-
-      n.d.h.
-
-   .. container:: csl-entry
-      :name: ref-R11
-
-      n.d.j.
-
-   .. container:: csl-entry
-      :name: ref-R12
-
-      n.d.k.
-
-   .. container:: csl-entry
-      :name: ref-R13
-
-      n.d.l.
-
-   .. container:: csl-entry
-      :name: ref-R14
-
-      n.d.m.
-
-   .. container:: csl-entry
-      :name: ref-R15
-
-      n.d.n.
-
-   .. container:: csl-entry
-      :name: ref-R16
-
-      n.d.o.
-
-   .. container:: csl-entry
-      :name: ref-R17
-
-      n.d.p.
 
 .. [1]
    **Neil F. Stewart** is a Child and Adolescent Psychiatry Specialist

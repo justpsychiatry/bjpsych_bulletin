@@ -2,6 +2,8 @@
 The effect of integrated care on self-management and emergency department attendance
 ====================================================================================
 
+
+
 Nikki Scheiner
 Sarah Cohen
 Ruth Davis
@@ -62,16 +64,16 @@ Amanda AgyareCorrespondence to Dr Nikki Scheiner
 In 2014, there were approximately 21 million visits to hospital
 emergency departments in England; in 2016, this number had increased to
 23.57 million. The increase between 2015 and 2016 was 5.2%, equivalent
-to an average of 3216 more people attending each day.(n.d.a) Among
-these, there is a small population of patients who attend on a frequent
-basis, despite not experiencing a medical emergency. Analysis of the
-data in Hertfordshire consistently indicates that more than 80% of these
+to an average of 3216 more people attending each day.1 Among these,
+there is a small population of patients who attend on a frequent basis,
+despite not experiencing a medical emergency. Analysis of the data in
+Hertfordshire consistently indicates that more than 80% of these
 patients are either currently open or known to mental health services, a
 figure that underscores a strong relationship between mental health
 difficulties, unmet needs and a search for urgent help. The lack of an
 integrated approach to mental health has been implicated in the
 significantly reduced life expectancy of those suffering mental
-illness.(n.d.b)
+illness.2
 
 .. _sec11-1:
 
@@ -94,15 +96,15 @@ emergency department for a decade, with 8.4% of patients forced to wait
 for more than 4 h after arriving at hospital. In February 2015, the
 *London Evening Standard*, using information obtained under the Freedom
 of Information Act, reported that ‘hundreds’ of patients are visiting
-London hospitals on more than 20 occasions each year.(n.d.c) In February
-2016, the London Ambulance Service disclosed that they currently had
-47 768 ‘non-managed’ frequent callers in the capital, resulting in an
-excess of 183 000 conveyances to hospital.(n.d.d) In June 2017, the
-*Quarterly Monitoring Report* of The King's Fund, reported that in the
-previous 12 months, 2,500,000 people in the UK had spent more than 4 h
-in emergency departments, and that the finance leads of the Clinical
-Commissioning Groups stated that the pressures on emergency departments
-are their highest operational concern.(n.d.e)
+London hospitals on more than 20 occasions each year.3 In February 2016,
+the London Ambulance Service disclosed that they currently had 47 768
+‘non-managed’ frequent callers in the capital, resulting in an excess of
+183 000 conveyances to hospital.4 In June 2017, the *Quarterly
+Monitoring Report* of The King's Fund, reported that in the previous 12
+months, 2,500,000 people in the UK had spent more than 4 h in emergency
+departments, and that the finance leads of the Clinical Commissioning
+Groups stated that the pressures on emergency departments are their
+highest operational concern.5
 
 .. _sec11-2:
 
@@ -125,10 +127,9 @@ mental health problems face long waits in environments not suited to
 prevent crisis escalation; many self-discharge before receiving a mental
 health assessment. Additionally, individuals may face negative attitudes
 from general hospital staff toward people experiencing a mental health
-crisis, particularly toward those who self-harm.(n.d.f) Consequently,
-their needs continue unmet and their attendances persist. At the same
-time, resources are diverted from patients requiring medical
-treatment. [1]_
+crisis, particularly toward those who self-harm.6 Consequently, their
+needs continue unmet and their attendances persist. At the same time,
+resources are diverted from patients requiring medical treatment. [1]_
 
 .. _sec1:
 
@@ -459,20 +460,20 @@ and attendant problems (34%), followed by long-term medical conditions,
 either with or without a comorbid mental health condition (27%). The
 elderly frail with globally deteriorating physical health accounted for
 15%, and the remaining 24% mainly comprised complex psychiatric
-morbidity.(n.d.g)
+morbidity.7
 
 A smaller pilot project (*N* = 20) targeting frequent attenders in the
 Royal Bournemouth Hospital in 2013 reported that, ‘in many cases’,
 medically unexplained symptoms drive unscheduled presentations to the
-A&E department.(n.d.h) This finding may be contextualised in light of
-the report by Bermingham *et al* into the cost of somatisation among the
+A&E department.8 This finding may be contextualised in light of the
+report by Bermingham *et al* into the cost of somatisation among the
 working population in England and Wales in 2008–200,9 which found the
 cost to the Exchequer of patients with medically unexplained symptoms to
 exceed £18 billion, a figure that may be compared with the cost of
-caring for people with dementia.(n.d.i) Costs to the NHS
-(investigations, treatments, consultations) amounted to £3 billion, with
-the rest being accounted for by benefit payments, loss of productivity
-through unemployment and reduced quality of life. In the time since the
+caring for people with dementia.9 Costs to the NHS (investigations,
+treatments, consultations) amounted to £3 billion, with the rest being
+accounted for by benefit payments, loss of productivity through
+unemployment and reduced quality of life. In the time since the
 publication of the report, these figures have increased (Senior Policy
 Advisor, Centre for Mental Health, personal communication, 2016).
 
@@ -480,7 +481,7 @@ Further analysis was provided by Clifford Mann, President of the College
 of Emergency Medicine, who identified two cohorts of inappropriate
 frequent attenders at the emergency department: those unwilling to wait
 for a GP appointment and migrants, unfamiliar with the English system of
-healthcare.(n.d.j)
+healthcare.10
 
 The initiatives outlined above together with the work in Hertfordshire
 indicates that the scope for developing the model is considerable. An
@@ -536,59 +537,6 @@ Partnership NHS Foundation Trust and is also a visiting professor at the
 School of Life and Medical Sciences at the University of Hertfordshire,
 UK. **Amanda Agyare** is a trainee counselling psychologist with
 Hertfordshire Partnership University NHS Foundation Trust, UK.
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-ref1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-ref2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-ref3
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-ref4
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-ref5
-
-      n.d.e.
-
-   .. container:: csl-entry
-      :name: ref-ref6
-
-      n.d.f.
-
-   .. container:: csl-entry
-      :name: ref-ref7
-
-      n.d.g.
-
-   .. container:: csl-entry
-      :name: ref-ref8
-
-      n.d.h.
-
-   .. container:: csl-entry
-      :name: ref-ref9
-
-      n.d.i.
-
-   .. container:: csl-entry
-      :name: ref-ref10
-
-      n.d.j.
 
 .. [1]
    Hertfordshire RAID is currently working with the police to harmonise

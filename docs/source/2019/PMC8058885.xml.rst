@@ -2,6 +2,8 @@
 Section 12 approval: fit for purpose?
 =====================================
 
+
+
 David Rigby
 Lynsey McAlpine [1]_Correspondence to Dr David Rigby
 (david.rigby@nhs.net)
@@ -28,14 +30,13 @@ In recent years there has been a dramatic increase in compulsory
 in-patient psychiatric treatment in the UK. In 2016, National Health
 Service (NHS) Digital reported a 47% increase in the number of
 detentions under the Mental Health Act over the preceding
-decade.\ :sup:`(n.d.a)` The reasons for this are multifactorial and
-include reduced access to social care, changes in the provision of
-psychiatric services and reductions in the number of psychiatric beds.
-Another factor that must be considered is the Mental Health Act
-assessment itself. Approval under Section 12 of the Mental Health Act
-confers the ability to deprive individuals of their liberty and curtail
-their human rights. This is one of the most life-altering powers a
-doctor can hold.
+decade.\ :sup:`1` The reasons for this are multifactorial and include
+reduced access to social care, changes in the provision of psychiatric
+services and reductions in the number of psychiatric beds. Another
+factor that must be considered is the Mental Health Act assessment
+itself. Approval under Section 12 of the Mental Health Act confers the
+ability to deprive individuals of their liberty and curtail their human
+rights. This is one of the most life-altering powers a doctor can hold.
 
 There is a danger that clinicians are not equipped with the knowledge
 and skills to wield this power safely and effectively, which could have
@@ -65,8 +66,8 @@ the clinician meets the requirements set out in the Act. This
 responsibility is delegated to local Section 12 panels, which also hold
 responsibility for the accreditation of induction and refresher courses.
 A clinician can be approved for a period of up to 5 years; at the end of
-this period they can apply for revalidation,\ :sup:`(n.d.b),(n.d.c)`
-which is contingent on participation in a section 12 refresher course.
+this period they can apply for revalidation,\ :sup:`2,3` which is
+contingent on participation in a section 12 refresher course.
 
 We sent a questionnaire to all 23 providers of Section 12 courses and
 obtained only 5 responses. Although this is a low response rate, we
@@ -80,7 +81,7 @@ nationally mandated learning objectives (see `Box 1 <#BOX1>`__). Some
 courses will include an interactive component such as a case discussion
 or a quiz. There is no requirement to summatively or formatively assess
 whether the learning objectives have been met. Box 1Section 12 course
-learning objectives\ :sup:`(n.d.c)` To have a broad understanding of the
+learning objectives\ :sup:`3` To have a broad understanding of the
 provisions contained in Part 2 of the Mental Health Act relevant to the
 initial detention of a patient under Sections 2, 3 and 4.Be able to
 describe the role of a Section 12(2) doctor and that of others when
@@ -98,10 +99,10 @@ that there is evidence to indicate that there are inadequacies in many
 psychiatrists' understanding of the relevant legislation. When a random
 sample of Section 12-approved clinicians in the West Midlands were
 interviewed, none of them were able to define ‘mental disorder’ as it
-appears in the Mental Health Act.\ :sup:`(n.d.d)` In a similar study in
+appears in the Mental Health Act.\ :sup:`4` In a similar study in
 Scotland, only 10% of consultant psychiatrists were able to give the
-statutory definition of mental disorder.\ :sup:`(n.d.e)` This raises
-questions about the training, approval and revalidation processes.
+statutory definition of mental disorder.\ :sup:`5` This raises questions
+about the training, approval and revalidation processes.
 
 On completion of the induction course, prospective Section 12 doctors
 must undergo an approvals process whereby they must provide two
@@ -132,7 +133,7 @@ the training meet these learning objectives? And how are they assessed?
 What are the learning objectives?
 ---------------------------------
 
-Miller\ :sup:`(n.d.f)` described the assessment of clinical skills and
+Miller\ :sup:`6` described the assessment of clinical skills and
 competencies as four levels of increasing complexity as shown in `Fig.
 1 <#fig01>`__. Taking the example of venepuncture: knowing what a blood
 test is and its indications would satisfy the lowest level of the
@@ -141,13 +142,12 @@ clinician ‘knows how’ to perform the task. Assessing the individual
 performing a simulated blood test on a manikin would satisfy the third
 level of the pyramid and observing the competency being performed on a
 patient would demonstrate proficiency of the highest level on the
-pyramid. Fig. 1Miller's pyramid\ :sup:`(n.d.f)` a framework for
-classification of assessment in medical education, can be used to align
-assessment with learning outcomes. EMQ, extended matching question; MCQ,
-multiple choice question; OSCE, objective structured clinical
-examination.
+pyramid. Fig. 1Miller's pyramid\ :sup:`6` a framework for classification
+of assessment in medical education, can be used to align assessment with
+learning outcomes. EMQ, extended matching question; MCQ, multiple choice
+question; OSCE, objective structured clinical examination.
 
-Biggs and Tang\ :sup:`(n.d.g)` have aligned the imperative words used to
+Biggs and Tang\ :sup:`7` have aligned the imperative words used to
 describe learning objectives to levels on Miller's pyramid so that words
 such as ‘identify’, ‘define’ and ‘describe’ refer to learning objectives
 at the bottom of the pyramid and ‘perform’ and ‘demonstrate’ are
@@ -175,14 +175,14 @@ How does the training meet these learning objectives?
 
 To motivate prospective Section 12 doctors and support them to achieve
 these higher-order learning objectives, the learning activities should
-be closely aligned with these objectives.\ :sup:`(n.d.h)` At present,
-Section 12 courses rely heavily on lecture-based teaching, with a focus
-on conveying large volumes of factual content. This may be problematic
+be closely aligned with these objectives.\ :sup:`8` At present, Section
+12 courses rely heavily on lecture-based teaching, with a focus on
+conveying large volumes of factual content. This may be problematic
 because although lectures can be a useful didactic method for imparting
 factual knowledge, they are less effective at changing attitudes and
 behaviours. For teaching complex skills, the evidence base supports the
 use of active learning activities to engage learners in more effective
-and more sustained learning.\ :sup:`(n.d.i)`
+and more sustained learning.\ :sup:`9`
 
 .. _sec2-3:
 
@@ -193,11 +193,11 @@ There is an absence of any mandatory assessment in the Section 12
 approval process, and this has significant implications. Assessment
 serves two distinct educational functions: it is used to evaluate
 whether the learning objectives have been achieved and it is used to
-drive learning.\ :sup:`(n.d.j)` The widely held belief that ‘if it's not
+drive learning.\ :sup:`10` The widely held belief that ‘if it's not
 assessed, it's not important’ is backed up by substantial evidence
 demonstrating that trainees learn more effectively when they know they
-will be assessed.\ :sup:`(n.d.k)` If they are not formally assessed,
-they will not achieve the learning objectives. The ability to perform a
+will be assessed.\ :sup:`11` If they are not formally assessed, they
+will not achieve the learning objectives. The ability to perform a
 Mental Health Act assessment is a complex skill, requiring a sound
 knowledge base and extended abstract thinking, and this needs to be
 reflected in the learning objectives, learning activities and assessment
@@ -241,9 +241,9 @@ failing a substantial number of prospective Section 12 doctors are
 understandable, but these fears are misplaced: if the assessment is
 criterion-referenced and aligned with the learning objectives, and the
 pass mark is determined by an appropriate methodology such as the
-Angoff\ :sup:`(n.d.l)` method, the assessment will uphold the minimum
+Angoff\ :sup:`12` method, the assessment will uphold the minimum
 standard without failing candidates unnecessarily For context, only 3.4%
-of candidates fail their ALS training.\ :sup:`(n.d.m)` With something as
+of candidates fail their ALS training.\ :sup:`13` With something as
 important as Section 12 approval, minimum standards must be upheld and
 summative assessment is the only way to achieve this.
 
@@ -296,74 +296,6 @@ Mental Health Team, North East London NHS Foundation Trust, UK. **Lynsey
 McAlpine** is a Core Psychiatric Trainee and Fellow in Medical Education
 at East London NHS Foundation Trust and the Centre for Psychiatry, Queen
 Mary University of London, UK.
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-ref1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-ref2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-ref3
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-ref4
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-ref5
-
-      n.d.e.
-
-   .. container:: csl-entry
-      :name: ref-ref6
-
-      n.d.f.
-
-   .. container:: csl-entry
-      :name: ref-ref7
-
-      n.d.g.
-
-   .. container:: csl-entry
-      :name: ref-ref8
-
-      n.d.h.
-
-   .. container:: csl-entry
-      :name: ref-ref9
-
-      n.d.i.
-
-   .. container:: csl-entry
-      :name: ref-ref10
-
-      n.d.j.
-
-   .. container:: csl-entry
-      :name: ref-ref11
-
-      n.d.k.
-
-   .. container:: csl-entry
-      :name: ref-ref12
-
-      n.d.l.
-
-   .. container:: csl-entry
-      :name: ref-ref13
-
-      n.d.m.
 
 .. [1]
    **Declaration of interest** None.

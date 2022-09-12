@@ -2,6 +2,8 @@
 Running a journal club in 2020: reflections and challenges
 ==========================================================
 
+
+
 Isabel Mark
 Motaz Sonbol
 Cyrus AbbasianCorrespondence to Isabel Mark (isabel.mark@swlstg.nhs.uk)
@@ -26,16 +28,16 @@ Cyrus AbbasianCorrespondence to Isabel Mark (isabel.mark@swlstg.nhs.uk)
 
 The Royal College of Psychiatrist’s curriculum for core trainees
 requires the development of critical appraisal knowledge, skills and
-habits for practising evidence-based medicine (EBM).\ :sup:`(n.d.a)`
-Since 1999, critical appraisal skills have been assessed in MRCPsych
-written examinations.\ :sup:`(n.d.b)` It is accepted that attending a
-journal club offers trainees a key opportunity to learn and practise
-critical appraisal skills. Attending and presenting at a journal club
-are recommended for all trainees, being a workplace-based assessment
-(WPBA) for core trainees within their curriculum and required for annual
-review of competency progression (ARCP).\ :sup:`(n.d.a)` Monitoring of
-attendance and reinforcement of its importance are likely to vary within
-UK deaneries and internationally.
+habits for practising evidence-based medicine (EBM).\ :sup:`1` Since
+1999, critical appraisal skills have been assessed in MRCPsych written
+examinations.\ :sup:`2` It is accepted that attending a journal club
+offers trainees a key opportunity to learn and practise critical
+appraisal skills. Attending and presenting at a journal club are
+recommended for all trainees, being a workplace-based assessment (WPBA)
+for core trainees within their curriculum and required for annual review
+of competency progression (ARCP).\ :sup:`1` Monitoring of attendance and
+reinforcement of its importance are likely to vary within UK deaneries
+and internationally.
 
 .. _sec1:
 
@@ -43,12 +45,12 @@ Journal clubs of the past
 =========================
 
 Doctors assembling to review current literature has been recorded as far
-back as 1875.\ :sup:`(n.d.c)` However, recent difficulties in engaging
-doctors in journal clubs have been discussed.\ :sup:`(n.d.b)` In 2009,
-Agell wrote of a ‘journal club syndrome,’ in which he reported an
-observed correlation between reported ‘mishaps’ preventing trainees from
-engaging in the learning process and the timing of their scheduled
-presentations.\ :sup:`(n.d.d)` This somewhat cynical view highlights the
+back as 1875.\ :sup:`3` However, recent difficulties in engaging doctors
+in journal clubs have been discussed.\ :sup:`2` In 2009, Agell wrote of
+a ‘journal club syndrome,’ in which he reported an observed correlation
+between reported ‘mishaps’ preventing trainees from engaging in the
+learning process and the timing of their scheduled
+presentations.\ :sup:`4` This somewhat cynical view highlights the
 long-standing anxieties and struggles with engagement that trainees
 might face.
 
@@ -56,16 +58,15 @@ In 2008, Deenadayalan et al recommended establishing an overarching goal
 for a journal club which is reviewed and agreed by participants,
 recording and expecting attendance, establishing sustainable leadership
 with access to a statistical expert as needed and providing incentives
-such as food.\ :sup:`(n.d.e)` Other aspects, such as article choice, are
-also specified. In psychiatry, Swift built on these strategies,
-highlighting the importance of structure, clear aims, a social aspect
-for the group and discussing selection of the facilitator (with critical
-appraisal and teaching skills but also able to provide enthusiasm and
-approachability for more junior colleagues).\ :sup:`(n.d.b),(n.d.f)`
-Moving away from the traditional format by introducing ‘evidence-based
-journal clubs’ has been suggested.\ :sup:`(n.d.b),(n.d.g)` Such sessions
-would address a specific clinical problem by referring to available
-literature.
+such as food.\ :sup:`5` Other aspects, such as article choice, are also
+specified. In psychiatry, Swift built on these strategies, highlighting
+the importance of structure, clear aims, a social aspect for the group
+and discussing selection of the facilitator (with critical appraisal and
+teaching skills but also able to provide enthusiasm and approachability
+for more junior colleagues).\ :sup:`2,6` Moving away from the
+traditional format by introducing ‘evidence-based journal clubs’ has
+been suggested.\ :sup:`2,7` Such sessions would address a specific
+clinical problem by referring to available literature.
 
 .. _sec2:
 
@@ -83,48 +84,48 @@ Many asynchronous options for journal review have been developed,
 supporting the face-to-face meetings. MacLaren et al have discussed the
 internet possibilities, using social media platforms such as Facebook,
 Twitter handles and Mentimeter as a means to widen potential journal
-club participation and support learning.\ :sup:`(n.d.h)` Other e-sources
-are available for accessing mental health information, an example being
-the Mental Elf, which has used blogs, social media and gamification to
-incentivise users.\ :sup:`(n.d.i)`
+club participation and support learning.\ :sup:`8` Other e-sources are
+available for accessing mental health information, an example being the
+Mental Elf, which has used blogs, social media and gamification to
+incentivise users.\ :sup:`9`
 
 There has been a recent surge of asynchronous Twitter journal
-clubs,\ :sup:`(n.d.j)–(n.d.k)` in which participants contribute via
-tweets over a specified time period (typically between 1 h and 1 week),
-providing free participation, open journal access, time efficiency and a
-diverse international forum for discussion. Instructions for those
-wishing to set up an asynchronous journal club can involve a number of
-steps, including incorporating other social media platforms and
-considering the most convenient time for its target audience, to make
-their establishment accessible to all.\ :sup:`(n.d.l)` Plante et al note
-that content may be unregulated and that some might struggle to learn
-from reviewing past discussions, and suggest that Wiki Journal Club (a
+clubs,\ :sup:`10–13` in which participants contribute via tweets over a
+specified time period (typically between 1 h and 1 week), providing free
+participation, open journal access, time efficiency and a diverse
+international forum for discussion. Instructions for those wishing to
+set up an asynchronous journal club can involve a number of steps,
+including incorporating other social media platforms and considering the
+most convenient time for its target audience, to make their
+establishment accessible to all.\ :sup:`14` Plante et al note that
+content may be unregulated and that some might struggle to learn from
+reviewing past discussions, and suggest that Wiki Journal Club (a
 website that allows collaboration in writing summaries, critical
 analysis and reviews of chosen papers, similar to Wikipedia) overcomes
 these barriers by providing editorial and professional moderation,
-easily referenced and referred to.\ :sup:`(n.d.m)` MacRae et al found a
+easily referenced and referred to.\ :sup:`15` MacRae et al found a
 significant improvement in critical appraisal skills among participants
 of their surgical journal club, compared with a control group, but
 acknowledged that those involved in a Twitter journal club are likely to
-be more motivated than the general surgeon population.\ :sup:`(n.d.j)`
+be more motivated than the general surgeon population.\ :sup:`10`
 
 Synchronous online journal clubs have had less exploration. Among Lin &
 Sherbino's suggested steps for setting up an online journal club is the
 added possibility of ‘live’ video panel discussions using technology
-such as Google ‘Hangouts on Air’ and YouTube.\ :sup:`(n.d.n)` More
-recently, the *BJPsych* has collaborated with university psychiatric
-societies to help successfully launch live virtual journal clubs, with
-student presentations followed by expert-panel
-discussion.\ :sup:`(n.d.o)` A similar approach has been followed with
-dental trainees, highlighting the benefits of accessibility, ease of
-interaction and effective learning.\ :sup:`(n.d.p)`
+such as Google ‘Hangouts on Air’ and YouTube.\ :sup:`16` More recently,
+the *BJPsych* has collaborated with university psychiatric societies to
+help successfully launch live virtual journal clubs, with student
+presentations followed by expert-panel discussion.\ :sup:`17` A similar
+approach has been followed with dental trainees, highlighting the
+benefits of accessibility, ease of interaction and effective
+learning.\ :sup:`18`
 
 Although additional online options may increase the potential for
 journal club participation, they are unlikely to suit all trainees.
 Twitter is the most popular form of social media communication among
-healthcare professionals,\ :sup:`(n.d.q)` but the exact prevalence of
-use among doctors, or more specifically trainees, is to our knowledge
-not reported. If medical education becomes dependent on social media
+healthcare professionals,\ :sup:`19` but the exact prevalence of use
+among doctors, or more specifically trainees, is to our knowledge not
+reported. If medical education becomes dependent on social media
 platforms, the risk is that some will be alienated or simply not
 reached.
 
@@ -135,54 +136,53 @@ Techniques for maintaining engagement with online learning
 
 Difficulties in engaging learners online are a recognised challenge for
 educators; traditional face-to-face teaching methods cannot simply be
-adopted in the online environment.\ :sup:`(n.d.r)` Additional
-considerations are needed (`Box 1 <#box1>`__). Box 1Instructor
-considerations for maximising engagement in online learning Consider
-three domains: cognitive, affective and
-managerial\ :sup:`(n.d.s)`\ Existing face-to-face options cannot simply
-be replicated online; a new approach is needed\ :sup:`(n.d.r)`\ Initial
-resistance is to be expected and learners may need additional support at
-the outset\ :sup:`(n.d.t)`\ Clinical scenarios improve perceived
-relevance/authenticity\ :sup:`(n.d.t)`\ Consider the diversity of the
-group and individual learner needs and
-preferences\ :sup:`(n.d.u),(n.d.v)`
+adopted in the online environment.\ :sup:`20` Additional considerations
+are needed (`Box 1 <#box1>`__). Box 1Instructor considerations for
+maximising engagement in online learning Consider three domains:
+cognitive, affective and managerial\ :sup:`21`\ Existing face-to-face
+options cannot simply be replicated online; a new approach is
+needed\ :sup:`20`\ Initial resistance is to be expected and learners may
+need additional support at the outset\ :sup:`24`\ Clinical scenarios
+improve perceived relevance/authenticity\ :sup:`24`\ Consider the
+diversity of the group and individual learner needs and
+preferences\ :sup:`25,26`
 
 Coppola et al proposed that the online instructor's role has three
 domains: cognitive, affective and managerial, achieving a balance
 between imparting information effectively, communicating
 approachability, enthusiasm and intimacy, and being an effective
-organiser and administrator.\ :sup:`(n.d.s)` A recent Best Evidence in
+organiser and administrator.\ :sup:`21` A recent Best Evidence in
 Medical Education (BEME) review describes techniques used by educators
 to maximise student engagement online, necessitated by
-COVID-19.\ :sup:`(n.d.w)` These include the need for effective
-organisation and structure, and varied options for student interaction,
-such as using online chat features, polling, hand-raising and breakout
-rooms.\ :sup:`(n.d.w)` Warren et al argue the need for flexibility in
-this process, incorporating different learning modalities, considering
-technical resources and support.\ :sup:`(n.d.x)` Engagement can still be
+COVID-19.\ :sup:`22` These include the need for effective organisation
+and structure, and varied options for student interaction, such as using
+online chat features, polling, hand-raising and breakout
+rooms.\ :sup:`22` Warren et al argue the need for flexibility in this
+process, incorporating different learning modalities, considering
+technical resources and support.\ :sup:`23` Engagement can still be
 delayed unless a learner is willing to change habits and thus suspend
 their disbelief in a new approach, with additional support and time
-needed for them to do so.\ :sup:`(n.d.t)`
+needed for them to do so.\ :sup:`24`
 
 Online learning is often more effective when activities are ‘authentic’,
 using complex clinical scenarios and tasks to increase the perceived
-level of relevance for the learner.\ :sup:`(n.d.t)` In the current
-climate, using cases or studies involving COVID-19 specifically might
-assist with this.
+level of relevance for the learner.\ :sup:`24` In the current climate,
+using cases or studies involving COVID-19 specifically might assist with
+this.
 
 One must consider all students rather than just the most vocal or
-communicative.\ :sup:`(n.d.u)` Haggis proposes that teachers address
-student diversity by shifting their approach away from the struggling
-learners towards a more dynamic stance, considering the overall
-student–teacher interactive process.\ :sup:`(n.d.u)` Problematic areas
-need to be addressed, including acceptance of the wide range of
-students’ experience, motives, interaction and communication
-preferences. The instructor could consider using diverse examples when
-setting problems/tasks and fostering social relationships within the
-group, while still respecting the student's own responsibility for
-driving their learning and seeking help.\ :sup:`(n.d.v)` Forcing some
-students to contribute, when not part of a shared collaborative process,
-could endanger their autonomy and motivation.\ :sup:`(n.d.y)`
+communicative.\ :sup:`25` Haggis proposes that teachers address student
+diversity by shifting their approach away from the struggling learners
+towards a more dynamic stance, considering the overall student–teacher
+interactive process.\ :sup:`25` Problematic areas need to be addressed,
+including acceptance of the wide range of students’ experience, motives,
+interaction and communication preferences. The instructor could consider
+using diverse examples when setting problems/tasks and fostering social
+relationships within the group, while still respecting the student's own
+responsibility for driving their learning and seeking help.\ :sup:`26`
+Forcing some students to contribute, when not part of a shared
+collaborative process, could endanger their autonomy and
+motivation.\ :sup:`27`
 
 .. _sec4:
 
@@ -248,36 +248,34 @@ offering a key opportunity to learn and practise critical appraisal
 skills, presenting skills, critical thinking and structured discussion.
 There is no current alternative within the RCPsych curriculum that
 offers these opportunities, and journal club remains a WPBA for core
-trainees.\ :sup:`(n.d.a)` The current pandemic reminds us how critical
+trainees.\ :sup:`1` The current pandemic reminds us how critical
 evidence-based medicine is to our practice, with a flurry of new
 research on COVID-19, and the need to recognise how new research should
 be integrated into practice. The transition to online journal clubs now
 requires a new set of organiser and administrator skills, which is a
 challenge in some departments. Even before 2020, journal clubs were
-struggling with participant engagement.\ :sup:`(n.d.b),(n.d.f)` Online
-journal clubs might be embraced by those with research or education
-focus; but there is a high risk that others could feel excluded. Others
-might be starting to get online fatigue.
+struggling with participant engagement.\ :sup:`2,6` Online journal clubs
+might be embraced by those with research or education focus; but there
+is a high risk that others could feel excluded. Others might be starting
+to get online fatigue.
 
 Considering techniques for effective engagement in online teaching can
-enhance our ability to facilitate journal clubs.\ :sup:`(n.d.r)–(n.d.x)`
-The use of clinical problems and specific tasks, similar to the
-previously introduced evidence-based journal clubs, may provide
-additional relevance and authenticity for
-learners.\ :sup:`(n.d.f),(n.d.g),(n.d.t)` Considering the diverse range
-of learner needs and preferences is advised.\ :sup:`(n.d.u)` The online
-platform potentially supports educators in managing diversity by
-improving accessibility, in particular for those shielding or working on
-a different clinical site. Publicising and encouraging the use of
-additional asynchronous learning resources\ :sup:`(n.d.h),(n.d.i)` such
-as Twitter journal clubs to support sessions\ :sup:`(n.d.l)` is
-worthwhile.
+enhance our ability to facilitate journal clubs.\ :sup:`20–23` The use
+of clinical problems and specific tasks, similar to the previously
+introduced evidence-based journal clubs, may provide additional
+relevance and authenticity for learners.\ :sup:`6,7,24` Considering the
+diverse range of learner needs and preferences is advised.\ :sup:`25`
+The online platform potentially supports educators in managing diversity
+by improving accessibility, in particular for those shielding or working
+on a different clinical site. Publicising and encouraging the use of
+additional asynchronous learning resources\ :sup:`8,9` such as Twitter
+journal clubs to support sessions\ :sup:`14` is worthwhile.
 
 When running future synchronous online journal clubs, instructors need
 to transform their approach, not only in offering appropriate guidance
 and knowledge, but also in helping to establish an approachable
 atmosphere, optimising the potential for discussion and
-collaboration.\ :sup:`(n.d.w)` Trainee uncertainty about the future and
+collaboration.\ :sup:`22` Trainee uncertainty about the future and
 feelings of social loss need to be acknowledged, as does the
 consideration of variability in resources and skills, with limited
 availability of functioning computers for some. Trainees have fed back
@@ -289,9 +287,9 @@ the written ‘chat’, as well as using WhatsApp and other social media
 platforms). A challenge of measuring active participation remains, as
 the administrative resources required to record contributions might not
 be feasible within all training programmes. Forcing contribution could
-endanger trainee autonomy,\ :sup:`(n.d.v)` although it should be
-recognised that it is an expected and important part of the trainee
-curriculum.\ :sup:`(n.d.a)`
+endanger trainee autonomy,\ :sup:`26` although it should be recognised
+that it is an expected and important part of the trainee
+curriculum.\ :sup:`1`
 
 This article can only be the start of a more complex discussion and
 re-evaluation of the function, purpose and delivery of online journal
@@ -339,131 +337,3 @@ https://doi.org/10.1192/bjb.2020.121.
    .. rubric:: 
 
    click here to view supplementary material
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-ref1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-ref2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-ref3
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-ref4
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-ref5
-
-      n.d.e.
-
-   .. container:: csl-entry
-      :name: ref-ref6
-
-      n.d.f.
-
-   .. container:: csl-entry
-      :name: ref-ref7
-
-      n.d.g.
-
-   .. container:: csl-entry
-      :name: ref-ref8
-
-      n.d.h.
-
-   .. container:: csl-entry
-      :name: ref-ref9
-
-      n.d.i.
-
-   .. container:: csl-entry
-      :name: ref-ref10
-
-      n.d.j.
-
-   .. container:: csl-entry
-      :name: ref-ref13
-
-      n.d.k.
-
-   .. container:: csl-entry
-      :name: ref-ref14
-
-      n.d.l.
-
-   .. container:: csl-entry
-      :name: ref-ref15
-
-      n.d.m.
-
-   .. container:: csl-entry
-      :name: ref-ref16
-
-      n.d.n.
-
-   .. container:: csl-entry
-      :name: ref-ref17
-
-      n.d.o.
-
-   .. container:: csl-entry
-      :name: ref-ref18
-
-      n.d.p.
-
-   .. container:: csl-entry
-      :name: ref-ref19
-
-      n.d.q.
-
-   .. container:: csl-entry
-      :name: ref-ref20
-
-      n.d.r.
-
-   .. container:: csl-entry
-      :name: ref-ref21
-
-      n.d.s.
-
-   .. container:: csl-entry
-      :name: ref-ref22
-
-      n.d.w.
-
-   .. container:: csl-entry
-      :name: ref-ref23
-
-      n.d.x.
-
-   .. container:: csl-entry
-      :name: ref-ref24
-
-      n.d.t.
-
-   .. container:: csl-entry
-      :name: ref-ref25
-
-      n.d.u.
-
-   .. container:: csl-entry
-      :name: ref-ref26
-
-      n.d.v.
-
-   .. container:: csl-entry
-      :name: ref-ref27
-
-      n.d.y.

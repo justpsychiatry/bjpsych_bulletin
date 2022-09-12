@@ -2,6 +2,8 @@
 Referral of patients with emotionally unstable personality disorder for specialist psychological therapy: why, when and how?
 ============================================================================================================================
 
+
+
 Matthew Roughley
 Amy Maguire
 Grace Wood
@@ -69,27 +71,26 @@ Introduction
 
 We commonly work with patients with EUPD in secondary care mental health
 services. The prevalence of EUPD in this setting is estimated at
-20%,\ :sup:`(n.d.a)` and it is associated with considerable suffering,
-psychosocial impairment and high resource use.\ :sup:`(n.d.b)` A number
-of evidence-based treatments are available, developed from cognitive or
+20%,\ :sup:`1` and it is associated with considerable suffering,
+psychosocial impairment and high resource use.\ :sup:`2` A number of
+evidence-based treatments are available, developed from cognitive or
 behavioural therapies (e.g. dialectical behaviour therapy,
 schema-focused therapy) or from psychodynamic/psychoanalytic origins
 (e.g. mentalisation-based treatment, transference-focused
-psychotherapy).\ :sup:`(n.d.c)` A significant number of patients,
-however, will never enter such treatment. There are many different
-reasons for this, but a proportion of patients do not reach a stage
-where they are considered ‘ready’ to enter treatment. This potentially
-represents a lost opportunity to improve functioning and reduce
-suffering.
+psychotherapy).\ :sup:`3` A significant number of patients, however,
+will never enter such treatment. There are many different reasons for
+this, but a proportion of patients do not reach a stage where they are
+considered ‘ready’ to enter treatment. This potentially represents a
+lost opportunity to improve functioning and reduce suffering.
 
 Patients with EUPD who are not ready for specialist treatment may remain
 in CMHTs, which poses recognised difficulties. Chaotic and risky
 behaviour and social problems often interfere with treatment. Resolving
-these ‘exclusion criteria’ can seem unrealistic.\ :sup:`(n.d.d)`
-Professionals report feeling isolated and inexpert and that CMHTs are an
-interim ‘no man's land’, where referrals for specialist treatment are
-difficult. Patients report experiences of not being helped and being
-passed around services (`Box 1 <#box1>`__).\ :sup:`(n.d.d)–(n.d.e)`
+these ‘exclusion criteria’ can seem unrealistic.\ :sup:`4` Professionals
+report feeling isolated and inexpert and that CMHTs are an interim ‘no
+man's land’, where referrals for specialist treatment are difficult.
+Patients report experiences of not being helped and being passed around
+services (`Box 1 <#box1>`__).\ :sup:`4–6`
 
 When considering psychological treatment for EUPD, the National
 Institute for Health and Care Excellence (NICE) advises considering the
@@ -97,7 +98,7 @@ patient's choice and preference, willingness to engage, motivation for
 change, ability to work within a therapeutic relationship and
 availability of support. However, they make no recommendations regarding
 how to increase a patient's readiness for psychological
-therapy.\ :sup:`(n.d.f)`
+therapy.\ :sup:`7`
 
 A systematic search was conducted to identify literature addressing
 enhancing readiness of patients with EUPD for therapy. The EMBASE,
@@ -116,7 +117,7 @@ alliance) and comorbidity (co-occurring psychiatric or medical
 illnesses). External factors included those related to the patient
 (current life stressors, support network and practical barriers to
 attendance) and service factors (accessibility, availability, staff
-skill and motivation).\ :sup:`(n.d.g)`
+skill and motivation).\ :sup:`8`
 
 .. _sec3:
 
@@ -193,9 +194,8 @@ When should I refer?
 --------------------
 
 Readiness for referral can be considered in terms of the
-transtheoretical model of stages of change;\ :sup:`(n.d.h),(n.d.i)` in
-particular, the *precontemplation*, *contemplation* and *preparation*
-stages.
+transtheoretical model of stages of change;\ :sup:`9,10` in particular,
+the *precontemplation*, *contemplation* and *preparation* stages.
 
 Patients in the precontemplation stage are not aware of having a
 problem, and there is no current intention to change behaviour. They
@@ -222,13 +222,13 @@ reducing self-harm or substance misuse. We suggest that patients in this
 stage are most appropriate for referral.
 
 The transtheoretical model has previously been applied to EUPD by
-Livesley in his integrated treatment model.\ :sup:`(n.d.j)` This highly
+Livesley in his integrated treatment model.\ :sup:`11` This highly
 developed framework for treating personality disorder combines and
 coordinates different treatment modalities. Our simpler pragmatic
 approach is aimed at generalists and is not a specialist treatment. Only
 one study has examined the stages of change in relation to EUPD; it
 showed that patients in precontemplation were most likely to drop out of
-specialist treatment.\ :sup:`(n.d.k)`
+specialist treatment.\ :sup:`12`
 
 Readiness for referral is also related to the services available, which
 may have differing referral criteria and work with patients at different
@@ -242,18 +242,18 @@ How can I help a patient with EUPD become ready to engage in psychological thera
 -----------------------------------------------------------------------------------
 
 The transtheoretical model also describes the processes by which change
-occurs.\ :sup:`(n.d.h),(n.d.i)` The processes of change that are
-important in the precontemplation and contemplation stages include:
-consciousness raising (increasing awareness of the causes and
-consequences of their problems), self re-evaluation (assessment of
-self-image with and without problem behaviours) and environmental
-re-evaluation (assessment of how behaviour affects their environment,
-including relationships). Processes that are important at later stages
-but which seem significant in EUPD include: self-liberation (belief that
-change is possible and commitment to act), contingency management
-(consequences of taking steps in a particular direction),
-counterconditioning (learning healthier behaviours to substitute problem
-behaviours) and stimulus control (avoiding triggers of behaviour).
+occurs.\ :sup:`9,10` The processes of change that are important in the
+precontemplation and contemplation stages include: consciousness raising
+(increasing awareness of the causes and consequences of their problems),
+self re-evaluation (assessment of self-image with and without problem
+behaviours) and environmental re-evaluation (assessment of how behaviour
+affects their environment, including relationships). Processes that are
+important at later stages but which seem significant in EUPD include:
+self-liberation (belief that change is possible and commitment to act),
+contingency management (consequences of taking steps in a particular
+direction), counterconditioning (learning healthier behaviours to
+substitute problem behaviours) and stimulus control (avoiding triggers
+of behaviour).
 
 Many commonly used interventions (see below) utilise one or more of
 these processes, which may help patients to progress from one stage to
@@ -281,10 +281,10 @@ factors including: •Focus on the therapeutic relationship, empathy and
 validation;•promotion of patient self-agency;•helping patients identify
 their emotions and the connections between events, emotions and
 behaviours;•clinicians observant of their own thoughts and feelings and
-an active system for support and supervision.\ :sup:`(n.d.l)`
+an active system for support and supervision.\ :sup:`13`
 
 Structured clinical management is a manualised generalist approach
-utilising these factors and may be effective.\ :sup:`(n.d.l)`
+utilising these factors and may be effective.\ :sup:`13`
 
 .. _sec3-4-2:
 
@@ -295,11 +295,11 @@ Clinicians should be aware of their thoughts and feelings towards
 patients with EUPD and how these may influence interactions and
 decision-making. Thoughts and feelings commonly evoked by these patients
 include: anxiety, rescue fantasies, anger, guilt, failure and even
-hate.\ :sup:`(n.d.m),(n.d.n)` If not processed, clinician responses can
-be unhelpful or even dangerous; for instance, malice, when the clinician
+hate.\ :sup:`14,15` If not processed, clinician responses can be
+unhelpful or even dangerous; for instance, malice, when the clinician
 may be sadistic or cruel, and aversion, which tempts the clinician to
-abandon the patient.\ :sup:`(n.d.n)` These dynamics can also be played
-out at a systems level and affect whole teams or services.
+abandon the patient.\ :sup:`15` These dynamics can also be played out at
+a systems level and affect whole teams or services.
 
 Managing countertransference is vital to accepting, tolerating and
 containing such feelings. A sudden decision to refer or discharge a
@@ -307,8 +307,8 @@ patient needs to be assessed for whether it is an acting out of the
 countertransference. Although this is a complex field, one approach is
 for the clinician to first recognise their thoughts and feelings, digest
 and try to understand them, then consider their response to them and
-whether this seems appropriate or not.\ :sup:`(n.d.o),(n.d.p)`
-Supervision or Balint groups can be used to explore transference and
+whether this seems appropriate or not.\ :sup:`16,17` Supervision or
+Balint groups can be used to explore transference and
 countertransference reactions.
 
 .. _sec3-4-3:
@@ -326,7 +326,7 @@ principles discussed above. These include trusting and transparent
 relationships between clinicians and patients, collaboration, patient
 empowerment and choice. Clinicians should also be mindful of the risk of
 inadvertent re-traumatisation in their interactions with
-patients.\ :sup:`(n.d.q)`
+patients.\ :sup:`18`
 
 Some patients may agree with a formulation describing how traumatic
 experiences might influence interpersonal problems, and may meet
@@ -358,8 +358,7 @@ treatment not initiated. Joint meetings and shared planning on how to
 increase readiness should be offered. Some services use a shared active
 list of patients in the pre-treatment stage as a means of supporting and
 sharing responsibility with CMHT members. In addition, personality
-disorder services should develop and provide training
-locally.\ :sup:`(n.d.f)`
+disorder services should develop and provide training locally.\ :sup:`7`
 
 .. _sec3-4-5:
 
@@ -369,8 +368,8 @@ Continuity
 Therapeutic alliance and relational continuity are of particular
 importance when working with patients with EUPD; change of team members
 can be experienced as a re-enactment of loss or abandonment and thus
-should be avoided where possible.\ :sup:`(n.d.l),(n.d.r)` However, this
-is challenging in CMHTs with turnover of staff and trainees.
+should be avoided where possible.\ :sup:`13,19` However, this is
+challenging in CMHTs with turnover of staff and trainees.
 
 Although junior doctors change rotation it is essential for their
 training to gain experience in assessing and managing patients with
@@ -380,24 +379,23 @@ structure. Personal formulations, crisis plans and goals should be
 handed over to aid continuity.
 
 NICE provides little guidance on the role of care coordinators in
-EUPD.\ :sup:`(n.d.f)` More broadly, the Care Programme Approach is
-indicated for patients who are at high risk and require multi-agency
-support, active engagement, intense intervention and support with dual
-diagnoses.\ :sup:`(n.d.s)` Whether patients meet this threshold is
-decided on a case-by-case basis. A recent Royal College of Psychiatrists
-position statement recommends that all patients in Tier 2 services (and
-above) be allocated a long-term lead clinician who can support the
-patient through the engagement process.\ :sup:`(n.d.r)` In our
-experience, patients with EUPD present with a very wide range of
-functioning, risk and support needs, and we suggest that care
-coordination is decided on a case-by-case basis. Most CMHTs would
-require a significant increase in the number of care coordinators to
-facilitate meaningful input for all patients with EUPD. Possible
-alternatives include use of support workers and peer support workers,
-with appropriate supervision, as a source of continuity and assistance
-with goals. However, if more than one clinician is working with a
-patient, clear communication and coordination are essential to avoid
-splitting or a confusing approach.
+EUPD.\ :sup:`7` More broadly, the Care Programme Approach is indicated
+for patients who are at high risk and require multi-agency support,
+active engagement, intense intervention and support with dual
+diagnoses.\ :sup:`20` Whether patients meet this threshold is decided on
+a case-by-case basis. A recent Royal College of Psychiatrists position
+statement recommends that all patients in Tier 2 services (and above) be
+allocated a long-term lead clinician who can support the patient through
+the engagement process.\ :sup:`19` In our experience, patients with EUPD
+present with a very wide range of functioning, risk and support needs,
+and we suggest that care coordination is decided on a case-by-case
+basis. Most CMHTs would require a significant increase in the number of
+care coordinators to facilitate meaningful input for all patients with
+EUPD. Possible alternatives include use of support workers and peer
+support workers, with appropriate supervision, as a source of continuity
+and assistance with goals. However, if more than one clinician is
+working with a patient, clear communication and coordination are
+essential to avoid splitting or a confusing approach.
 
 .. _sec3-4-6:
 
@@ -405,13 +403,13 @@ Validation
 ~~~~~~~~~~
 
 Patients with EUPD may have experienced invalidating
-environments.\ :sup:`(n.d.t),(n.d.u)` Validation and the process of
-listening and understanding is central to many therapies for
-EUPD.\ :sup:`(n.d.v),(n.d.w)` Levels of validation include: being
-attentive and alert, enquiring then reflecting back the patient's
-reported thoughts and feelings, reflecting back observed non-verbal
-communication, and validating the patient's experience based on the
-current context and their personal history.\ :sup:`(n.d.w)`
+environments.\ :sup:`21,22` Validation and the process of listening and
+understanding is central to many therapies for EUPD.\ :sup:`23,24`
+Levels of validation include: being attentive and alert, enquiring then
+reflecting back the patient's reported thoughts and feelings, reflecting
+back observed non-verbal communication, and validating the patient's
+experience based on the current context and their personal
+history.\ :sup:`24`
 
 .. _sec3-5:
 
@@ -424,10 +422,10 @@ Psychoeducation
 ~~~~~~~~~~~~~~~
 
 Educating patients (and significant others) about EUPD is an
-intervention in itself.\ :sup:`(n.d.x)` The diagnostic criteria, e.g.
+intervention in itself.\ :sup:`25` The diagnostic criteria, e.g.
 difficulty with relationships, emotion dysregulation, impulsivity and
 hypersensitivity, can be linked to examples offered by the
-patient.\ :sup:`(n.d.l)` Giving the diagnosis can be used to stimulate
+patient.\ :sup:`13` Giving the diagnosis can be used to stimulate
 reflection. Information can also be provided about the range and nature
 of treatments available.
 
@@ -438,11 +436,11 @@ Personal formulation
 
 Providing a diagnosis alone is insufficient; co-constructing a personal
 formulation is key in exploring a person's understanding of their
-problems.\ :sup:`(n.d.r)` One approach is the ‘5 Ps’ model (problems,
+problems.\ :sup:`19` One approach is the ‘5 Ps’ model (problems,
 predisposing, precipitating, perpetuating and protective factors).
 Through this process, ways to avoid or challenge precipitating and
 perpetuating factors and strengthen protective factors can be
-identified, as can goals to work towards.\ :sup:`(n.d.p)`
+identified, as can goals to work towards.\ :sup:`17`
 
 .. _sec3-5-3:
 
@@ -451,13 +449,13 @@ Goal-setting
 
 Clarifying a patient's goals, identifying obstacles to goal attainment
 and considering how therapy might assist with these may increase
-motivation to enter treatment.\ :sup:`(n.d.y)` Encouraging a patient to
+motivation to enter treatment.\ :sup:`26` Encouraging a patient to
 evaluate how they and their life may look different in relation to their
 goals could be part of this. Goals should be specific, with defined
 patient and professional responsibilities. The clinician can help
 identify manageable short-term treatment aims with achievable steps.
 Long-term goals, e.g. those relating to employment, can give direction
-to the treatment strategy.\ :sup:`(n.d.f)`
+to the treatment strategy.\ :sup:`7`
 
 .. _sec3-5-4:
 
@@ -469,7 +467,7 @@ and can be seen as an early form of treatment contracting. It promotes
 safety and quicker recovery from crises. Steps include identifying
 triggers, thoughts and feelings associated with an emerging crisis,
 actions that can avert an escalating crisis and actions to avoid when in
-crisis.\ :sup:`(n.d.l)`
+crisis.\ :sup:`13`
 
 .. _sec3-5-5:
 
@@ -482,13 +480,13 @@ harmful or dependent users are unlikely to be accepted into specialist
 treatments. NICE advise referring patients with EUPD and dependence on
 alcohol or substances to appropriate services; the care coordinator
 should remain involved and provide information on community support
-networks, e.g. Alcoholics Anonymous.\ :sup:`(n.d.f)` Distinctions can be
-made between patients using as a form of self-harm, using to manage
-emotions, and dependent use, although overlap does occur. If the use is
-viewed as self-harm, general strategies to reduce self-harm can be
-applied, such as delaying use after an urge, distraction, relaxation or
-finding other outlets. Chain analysis can explore and link events
-leading to use.\ :sup:`(n.d.l)`
+networks, e.g. Alcoholics Anonymous.\ :sup:`7` Distinctions can be made
+between patients using as a form of self-harm, using to manage emotions,
+and dependent use, although overlap does occur. If the use is viewed as
+self-harm, general strategies to reduce self-harm can be applied, such
+as delaying use after an urge, distraction, relaxation or finding other
+outlets. Chain analysis can explore and link events leading to
+use.\ :sup:`13`
 
 .. _sec3-5-6:
 
@@ -498,7 +496,7 @@ Distress tolerance skills
 These skills help patients to manage intense emotional states, recognise
 triggers and endure negative emotions so that problem-solving can occur.
 Distress tolerance skills include distraction, self-soothing, relaxation
-and acceptance.\ :sup:`(n.d.z),(n.d.aa)`
+and acceptance.\ :sup:`27,28`
 
 .. _sec3-5-7:
 
@@ -506,12 +504,12 @@ Housing and finances
 ~~~~~~~~~~~~~~~~~~~~
 
 Stressors such as housing and finances may affect readiness for
-treatment.\ :sup:`(n.d.g)` Support in stabilising a patient's social
-situation is a therapeutic intervention and may support building a
-therapeutic alliance.\ :sup:`(n.d.l)` Maslow's hierarchy of needs could
-be used as a visual psychoeducational tool to explain the importance of
-addressing physiological and safety needs before focusing on ‘higher’
-needs.\ :sup:`(n.d.ab)`
+treatment.\ :sup:`8` Support in stabilising a patient's social situation
+is a therapeutic intervention and may support building a therapeutic
+alliance.\ :sup:`13` Maslow's hierarchy of needs could be used as a
+visual psychoeducational tool to explain the importance of addressing
+physiological and safety needs before focusing on ‘higher’
+needs.\ :sup:`29`
 
 .. _sec3-6:
 
@@ -524,13 +522,13 @@ Motivational interviewing
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Fluctuating engagement may be related to ambivalence about
-change.\ :sup:`(n.d.ac)` Using an overly directing style with patients
-can result in resistance or passivity. Motivational interviewing
-involves helping patients to say what they want to change, identify why
-(pros and cons of change), gain confidence in their ability to change
-and consider how they might change.\ :sup:`(n.d.ad)` Motivational-based
-interventions can increase motivation and confidence, and decrease
-substance use and risky behaviours.\ :sup:`(n.d.y),(n.d.ae)`
+change.\ :sup:`30` Using an overly directing style with patients can
+result in resistance or passivity. Motivational interviewing involves
+helping patients to say what they want to change, identify why (pros and
+cons of change), gain confidence in their ability to change and consider
+how they might change.\ :sup:`31` Motivational-based interventions can
+increase motivation and confidence, and decrease substance use and risky
+behaviours.\ :sup:`26,32`
 
 .. _sec3-6-2:
 
@@ -539,12 +537,11 @@ Mindfulness
 
 Mindfulness emphasises being present in the moment and increases
 awareness and acceptance of experiences, which fosters emotional
-processing and distress tolerance.\ :sup:`(n.d.af)` Mindfulness offers
-insight into the ‘process’ of specialist treatments, as it creates a
-space between thoughts and feelings.\ :sup:`(n.d.ag)` Improvement in
-attention and impulsivity was demonstrated when mindfulness was
-practised alongside general psychiatric care in patients with
-EUPD.\ :sup:`(n.d.ah)`
+processing and distress tolerance.\ :sup:`33` Mindfulness offers insight
+into the ‘process’ of specialist treatments, as it creates a space
+between thoughts and feelings.\ :sup:`34` Improvement in attention and
+impulsivity was demonstrated when mindfulness was practised alongside
+general psychiatric care in patients with EUPD.\ :sup:`35`
 
 .. _sec3-6-3:
 
@@ -556,7 +553,7 @@ patients with evidence that change is possible. Service user network
 (SUN) projects are community-based support groups for patients with
 EUPD. They can help patients develop ways of coping and reduce crises.
 Use of SUN projects is associated with improved functioning and reduced
-use of services.\ :sup:`(n.d.ai)`
+use of services.\ :sup:`36`
 
 .. _sec3-6-4:
 
@@ -620,9 +617,8 @@ if there has been no clear benefit or effort to work towards goals or
 adhere to responsibilities, then discharge could be considered. NICE
 advises discussing the discharge process with the patient and agreeing a
 care plan with steps to manage distress, cope with future crises and
-re-engage in the future.\ :sup:`(n.d.f)` This should be clearly
-communicated to the general practitioner, including how they can access
-support.
+re-engage in the future.\ :sup:`7` This should be clearly communicated
+to the general practitioner, including how they can access support.
 
 However, this approach may be challenging for patients with repeated
 risky behaviour. It may be more pragmatic not to discharge but to focus
@@ -715,181 +711,3 @@ https://doi.org/10.1192/bjb.2020.48.
    .. rubric:: 
 
    click here to view supplementary material
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-ref1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-ref2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-ref3
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-ref4
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-ref6
-
-      n.d.e.
-
-   .. container:: csl-entry
-      :name: ref-ref7
-
-      n.d.f.
-
-   .. container:: csl-entry
-      :name: ref-ref8
-
-      n.d.g.
-
-   .. container:: csl-entry
-      :name: ref-ref9
-
-      n.d.h.
-
-   .. container:: csl-entry
-      :name: ref-ref10
-
-      n.d.i.
-
-   .. container:: csl-entry
-      :name: ref-ref11
-
-      n.d.j.
-
-   .. container:: csl-entry
-      :name: ref-ref12
-
-      n.d.k.
-
-   .. container:: csl-entry
-      :name: ref-ref13
-
-      n.d.l.
-
-   .. container:: csl-entry
-      :name: ref-ref14
-
-      n.d.m.
-
-   .. container:: csl-entry
-      :name: ref-ref15
-
-      n.d.n.
-
-   .. container:: csl-entry
-      :name: ref-ref16
-
-      n.d.o.
-
-   .. container:: csl-entry
-      :name: ref-ref17
-
-      n.d.p.
-
-   .. container:: csl-entry
-      :name: ref-ref18
-
-      n.d.q.
-
-   .. container:: csl-entry
-      :name: ref-ref19
-
-      n.d.r.
-
-   .. container:: csl-entry
-      :name: ref-ref20
-
-      n.d.s.
-
-   .. container:: csl-entry
-      :name: ref-ref21
-
-      n.d.t.
-
-   .. container:: csl-entry
-      :name: ref-ref22
-
-      n.d.u.
-
-   .. container:: csl-entry
-      :name: ref-ref23
-
-      n.d.v.
-
-   .. container:: csl-entry
-      :name: ref-ref24
-
-      n.d.w.
-
-   .. container:: csl-entry
-      :name: ref-ref25
-
-      n.d.x.
-
-   .. container:: csl-entry
-      :name: ref-ref26
-
-      n.d.y.
-
-   .. container:: csl-entry
-      :name: ref-ref27
-
-      n.d.z.
-
-   .. container:: csl-entry
-      :name: ref-ref28
-
-      n.d.aa.
-
-   .. container:: csl-entry
-      :name: ref-ref29
-
-      n.d.ab.
-
-   .. container:: csl-entry
-      :name: ref-ref30
-
-      n.d.ac.
-
-   .. container:: csl-entry
-      :name: ref-ref31
-
-      n.d.ad.
-
-   .. container:: csl-entry
-      :name: ref-ref32
-
-      n.d.ae.
-
-   .. container:: csl-entry
-      :name: ref-ref33
-
-      n.d.af.
-
-   .. container:: csl-entry
-      :name: ref-ref34
-
-      n.d.ag.
-
-   .. container:: csl-entry
-      :name: ref-ref35
-
-      n.d.ah.
-
-   .. container:: csl-entry
-      :name: ref-ref36
-
-      n.d.ai.

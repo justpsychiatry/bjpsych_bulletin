@@ -2,6 +2,8 @@
 International medical graduates: how can UK psychiatry do better?
 =================================================================
 
+
+
 Emmeline Lagunes-Cordoba
 Raka Maitra
 Subodh Dave
@@ -34,11 +36,11 @@ have trained abroad. Unfortunately, despite their contributions, many
 international medical graduates (IMGs) face considerably greater
 difficulties than UK graduates. Longitudinal data clearly show
 differential attainment of IMG doctors in both postgraduate examinations
-and more senior clinical, academic and managerial
-positions.\ :sup:`(n.d.a),(n.d.b)` They are also more likely to be
-reported to the General Medical Council (GMC) for misconduct and to have
-such complaints upheld.\ :sup:`(n.d.c)` This is detrimental to their
-well-being and risks affecting the quality of care provided by them.
+and more senior clinical, academic and managerial positions.\ :sup:`1,2`
+They are also more likely to be reported to the General Medical Council
+(GMC) for misconduct and to have such complaints upheld.\ :sup:`3` This
+is detrimental to their well-being and risks affecting the quality of
+care provided by them.
 
 There are many contributing factors, from direct discrimination, through
 a lack of familiarity with and support from the UK system, to a failure
@@ -57,7 +59,7 @@ Definitions of IMGs: a heterogeneous group
 ------------------------------------------
 
 The GMC defines an IMG as someone who has obtained their primary medical
-qualification outside the European Economic Area (EEA).\ :sup:`(n.d.d)`
+qualification outside the European Economic Area (EEA).\ :sup:`4`
 However, that simple definition covers a range of complexities. It can
 encompass a childhood in another culture and different intersectional
 experiences of nationality, religion, gender and skin colour. It
@@ -79,7 +81,7 @@ eligible for full GMC registration and licence to practise medicine in
 the UK as long as they demonstrate proficiency in English. For other
 IMGs, the most common method of obtaining registration is by passing the
 Professional and Linguistic Assessments Board (PLAB)
-examination,\ :sup:`(n.d.e)` an initiative designed to ensure parity of
+examination,\ :sup:`5` an initiative designed to ensure parity of
 medical education and training standards. Post-PLAB doctors are then
 free to apply to appropriate training schemes, and to work as specialty
 and associate specialist (SAS) or locally employed doctors. Another
@@ -87,17 +89,17 @@ route is the Medical Training Initiative (MTI) scheme sponsored by a UK
 Medical Royal College, faculty or GMC-approved institution for
 postgraduate training. Some IMGs can also gain registration if they hold
 a relevant postgraduate qualification from an approved overseas awarding
-body.\ :sup:`(n.d.f)` Finally, IMGs can get their registration by
-applying for a Certificate of Eligibility for Specialist Registration.
-This requires doctors to demonstrate that their training matches the UK
-equivalent.\ :sup:`(n.d.g)`
+body.\ :sup:`6` Finally, IMGs can get their registration by applying for
+a Certificate of Eligibility for Specialist Registration. This requires
+doctors to demonstrate that their training matches the UK
+equivalent.\ :sup:`7`
 
 However, once an IMG starts working in the NHS, they are expected to
 adhere to the norms outlined in the GMC's *Good Medical Practice*
-guide.\ :sup:`(n.d.h)` Some trusts invest in providing appropriate
-induction and extra support; however, there is currently no clear
-national guidance or requirement for either organisations or IMGs on how
-to support this transition into the UK.
+guide.\ :sup:`8` Some trusts invest in providing appropriate induction
+and extra support; however, there is currently no clear national
+guidance or requirement for either organisations or IMGs on how to
+support this transition into the UK.
 
 .. _sec1-2:
 
@@ -106,34 +108,33 @@ Data on IMG numbers and specialties/roles
 
 A report from the House of Commons noted that of doctors in non-primary
 care settings, 13% are from Asia, 9.1% are from the European Union and
-4.8% are from Africa.\ :sup:`(n.d.i)` IMGs account for 60% of
-non-consultant and non-training doctors currently working in the
-UK.\ :sup:`(n.d.j)` It is not clear why IMGs are more likely to work as
-SAS or locally employed doctors. Some might have found these roles more
-suitable to gain experience before enrolling in formal training, while
-some might be less interested in the recognised challenges that come
-with traditional training and consultant roles. However, some people may
-prefer a more flexible role for reasons including childcare, especially
-as they might have less family and informal support than British
-doctors; while others might find it practically easier to obtain such a
-job. Having said this, it is also likely that for a fair few it is a
-second-choice career pathway on account of failure to succeed in passing
-the relevant postgraduate examinations. Having a non-UK primary medical
-qualification has the largest influence on postgraduate examination
-attainment; the pass rate in some postgraduate examinations is 35% for
-IMGs, compared with 80% for UK graduates.\ :sup:`(n.d.k)` These
-attainment differences have also been identified between IMGs and UK
-graduate doctors training in psychiatry.\ :sup:`(n.d.l)`
+4.8% are from Africa.\ :sup:`9` IMGs account for 60% of non-consultant
+and non-training doctors currently working in the UK.\ :sup:`10` It is
+not clear why IMGs are more likely to work as SAS or locally employed
+doctors. Some might have found these roles more suitable to gain
+experience before enrolling in formal training, while some might be less
+interested in the recognised challenges that come with traditional
+training and consultant roles. However, some people may prefer a more
+flexible role for reasons including childcare, especially as they might
+have less family and informal support than British doctors; while others
+might find it practically easier to obtain such a job. Having said this,
+it is also likely that for a fair few it is a second-choice career
+pathway on account of failure to succeed in passing the relevant
+postgraduate examinations. Having a non-UK primary medical qualification
+has the largest influence on postgraduate examination attainment; the
+pass rate in some postgraduate examinations is 35% for IMGs, compared
+with 80% for UK graduates.\ :sup:`11` These attainment differences have
+also been identified between IMGs and UK graduate doctors training in
+psychiatry.\ :sup:`12`
 
-Psychiatry is particularly popular among IMGs,\ :sup:`(n.d.l)` who
-account for 44% of psychiatry trainees.\ :sup:`(n.d.j)` A preference for
-psychiatry has also been demonstrated in the USA\ :sup:`(n.d.m)` and
-among UK doctors from Black and minority ethnic (BAME)
-backgrounds.\ :sup:`(n.d.n)` The reason for this is not clear, although
-psychiatry has long had a particular recruitment
-problem,\ :sup:`(n.d.o)` and it is possible that a need to pass the
-residence labour market test may be encouraging some to take posts that
-are more easily available. The authors’ own discussions include the
+Psychiatry is particularly popular among IMGs,\ :sup:`12` who account
+for 44% of psychiatry trainees.\ :sup:`10` A preference for psychiatry
+has also been demonstrated in the USA\ :sup:`13` and among UK doctors
+from Black and minority ethnic (BAME) backgrounds.\ :sup:`14` The reason
+for this is not clear, although psychiatry has long had a particular
+recruitment problem,\ :sup:`15` and it is possible that a need to pass
+the residence labour market test may be encouraging some to take posts
+that are more easily available. The authors’ own discussions include the
 reflection that many IMGs may come from cultures where mind and body are
 not so separated, and find a natural affinity with psychiatry.
 
@@ -158,18 +159,18 @@ stresses.
 
 IMGs go through adaptation (changes in individuals or groups due to
 environmental demands) and acculturation (cultural changes resulting
-from encounters with members of different groups).\ :sup:`(n.d.p)` This
+from encounters with members of different groups).\ :sup:`16` This
 includes learning appropriate new behaviours and unlearning behaviours
 that are no longer appropriate. Refugee doctors merit additional
 comment. They are also IMGs, but they have had to flee their home
 countries and lives to escape persecution or other threats. So they
 often have experienced trauma, more financial difficulties and less
 certainty regarding visas, leading them to face greater isolation. Cohn
-et al\ :sup:`(n.d.q)` noted that owing to having to leave their homes
-rapidly and in fear, refugee doctors might not have all the paperwork
-required for registration, or may not be able to contact people in their
-home countries to get relevant documents, which may complicate their
-ability to fulfil GMC requirements.
+et al\ :sup:`17` noted that owing to having to leave their homes rapidly
+and in fear, refugee doctors might not have all the paperwork required
+for registration, or may not be able to contact people in their home
+countries to get relevant documents, which may complicate their ability
+to fulfil GMC requirements.
 
 .. _sec2-2:
 
@@ -179,43 +180,43 @@ Loss of status, discrimination and racism
 IMGs often not only leave behind family and friends, they almost always
 leave a social status, identity and trust that they previously earned
 and enjoyed. Many take up posts of lower grade or status than expected
-or warranted by their expertise.\ :sup:`(n.d.r),(n.d.s)` IMGs have
-reported a loss of autonomy in their decision-making,\ :sup:`(n.d.t)`
-and a professional devaluation which can lead to a loss of their
-confidence to perform or even defend themselves in cases of harassment
-or where their practice is being scrutinised.\ :sup:`(n.d.s)`
+or warranted by their expertise.\ :sup:`18,19` IMGs have reported a loss
+of autonomy in their decision-making,\ :sup:`20` and a professional
+devaluation which can lead to a loss of their confidence to perform or
+even defend themselves in cases of harassment or where their practice is
+being scrutinised.\ :sup:`19`
 
 Many IMGs still suffer greater levels of direct and indirect
 discrimination and harassment. IMGs have reported feeling discriminated
-against by colleagues and at an institutional level.\ :sup:`(n.d.t)`
+against by colleagues and at an institutional level.\ :sup:`20`
 Institutional racism has also been evidenced by bias regarding hiring
-practices of doctors with foreign names.\ :sup:`(n.d.u)` Subjective bias
-due to racial discrimination has also been considered a factor
-associated with the failure of the clinical skills assessment for UK
-BAME and IMG doctors.\ :sup:`(n.d.v)` A third of SAS and locally
-employed doctors in the UK, who are predominately IMGs, have reported
-experienced bullying or harassment in their workplaces, mainly
-characterised by rudeness.\ :sup:`(n.d.w)`
+practices of doctors with foreign names.\ :sup:`21` Subjective bias due
+to racial discrimination has also been considered a factor associated
+with the failure of the clinical skills assessment for UK BAME and IMG
+doctors.\ :sup:`22` A third of SAS and locally employed doctors in the
+UK, who are predominately IMGs, have reported experienced bullying or
+harassment in their workplaces, mainly characterised by
+rudeness.\ :sup:`23`
 
 .. _sec2-3:
 
 Greater rates of complaints
 ---------------------------
 
-The GMC's *Fair to Refer* report\ :sup:`(n.d.c)` shows a
-disproportionate number of fitness to practise referrals for overseas
-doctors (2.5 times greater) and doctors from BAME backgrounds (two times
-greater) compared with White UK graduates, and they are more likely to
-face harsher sanctions. It is less clear whether this is compounded in
-IMGs from non-White backgrounds. The report offers potential
-explanations, including inadequate induction and support, lack of honest
-and effective feedback, working patterns or contracts that lead to
-isolation, pervasive insider–outsider dynamics, and a lack of confidence
-in raising concerns or challenging accusations. This last factor fits
-with the finding of Jalal et al that IMGs are less likely than UK
-graduates to report bullying.\ :sup:`(n.d.x)` The GMC report has been
-criticised for not addressing why the GMC tends to give harsher
-sanctions to referred IMGs and BAME doctors.\ :sup:`(n.d.y)`
+The GMC's *Fair to Refer* report\ :sup:`3` shows a disproportionate
+number of fitness to practise referrals for overseas doctors (2.5 times
+greater) and doctors from BAME backgrounds (two times greater) compared
+with White UK graduates, and they are more likely to face harsher
+sanctions. It is less clear whether this is compounded in IMGs from
+non-White backgrounds. The report offers potential explanations,
+including inadequate induction and support, lack of honest and effective
+feedback, working patterns or contracts that lead to isolation,
+pervasive insider–outsider dynamics, and a lack of confidence in raising
+concerns or challenging accusations. This last factor fits with the
+finding of Jalal et al that IMGs are less likely than UK graduates to
+report bullying.\ :sup:`24` The GMC report has been criticised for not
+addressing why the GMC tends to give harsher sanctions to referred IMGs
+and BAME doctors.\ :sup:`25`
 
 .. _sec3:
 
@@ -227,18 +228,18 @@ Existing evidence and initiatives
 IMGs’ perspectives
 ------------------
 
-Wolf et al\ :sup:`(n.d.z)` found that IMGs and BAME trainees reported
-more difficulties, cultural differences and lack of trust with senior
+Wolf et al\ :sup:`26` found that IMGs and BAME trainees reported more
+difficulties, cultural differences and lack of trust with senior
 doctors, as well as biased assessments and recruitment processes.
-Hashim\ :sup:`(n.d.aa)` identified challenges for IMGs in understanding
-the NHS system and values, learning environments (with a lack of direct
+Hashim\ :sup:`27` identified challenges for IMGs in understanding the
+NHS system and values, learning environments (with a lack of direct
 guidance), receiving feedback and feelings of being undervalued by
 colleagues. A survey of IMGs’ understanding of the GMC regulatory
 framework found that many were surprised or confused by the range and
 specificity of the regulations, including the emphasis on individual
-patient autonomy.\ :sup:`(n.d.ab)` It also identified that IMGs could
-have difficulties with nuances of non-verbal communication and UK social
-and behavioural norms. A key aspect was the lack of relevant information
+patient autonomy.\ :sup:`28` It also identified that IMGs could have
+difficulties with nuances of non-verbal communication and UK social and
+behavioural norms. A key aspect was the lack of relevant information
 prior to registration, variable levels of training and support, and
 isolation in non-training posts.
 
@@ -248,22 +249,22 @@ International literature on interventions
 -----------------------------------------
 
 There is a limited evidence base to support interventions, including
-international examples from Canada,\ :sup:`(n.d.ac)` the
-USA,\ :sup:`(n.d.t)` and South Africa.\ :sup:`(n.d.ad)` Two recent
-literature reviews\ :sup:`(n.d.r),(n.d.x)` summarised the following
-recommendations: individual assessments prior to induction with
-follow-up; making relevant information available; providing
-comprehensive information about the role and job; addressing the culture
-gap (providing supervisors and mentors, understanding clinical and
-cultural differences); considering different learning styles; buddy
-systems (for guidance and help); improving cultural awareness from the
-organisation; and establishing a national induction programme,
-complementary to local inductions. With regard to refugee doctors, Butt
-et al (2019) showed that formal support to gain their licence to
-practise was an effective intervention. Although all these could be
-potentially effective interventions to improve IMGs’ well-being, there
-still seems to be no consensus regarding which organisations are
-responsible for implementing them or overseeing these changes.
+international examples from Canada,\ :sup:`29` the USA,\ :sup:`20` and
+South Africa.\ :sup:`30` Two recent literature reviews\ :sup:`18,24`
+summarised the following recommendations: individual assessments prior
+to induction with follow-up; making relevant information available;
+providing comprehensive information about the role and job; addressing
+the culture gap (providing supervisors and mentors, understanding
+clinical and cultural differences); considering different learning
+styles; buddy systems (for guidance and help); improving cultural
+awareness from the organisation; and establishing a national induction
+programme, complementary to local inductions. With regard to refugee
+doctors, Butt et al (2019) showed that formal support to gain their
+licence to practise was an effective intervention. Although all these
+could be potentially effective interventions to improve IMGs’
+well-being, there still seems to be no consensus regarding which
+organisations are responsible for implementing them or overseeing these
+changes.
 
 .. _sec3-3:
 
@@ -272,27 +273,26 @@ Work by UK professional bodies
 
 Some GMC initiatives have been put in place to address the differential
 attainment; these include the optional ‘Welcome to UK Practice’
-workshop,\ :sup:`(n.d.ae)` which according to a recent
-report\ :sup:`(n.d.af)` is highly valued by doctors and their
-supervisors, improving knowledge on ethical issues, GMC guidance and UK
-practice in general, as well as communication and a focus on patient
-centredness. It provided opportunities to meet colleagues, share
-learning and gain support, but the report also suggested that IMGs feel
-a general lack of support once they are in practice.
+workshop,\ :sup:`31` which according to a recent report\ :sup:`32` is
+highly valued by doctors and their supervisors, improving knowledge on
+ethical issues, GMC guidance and UK practice in general, as well as
+communication and a focus on patient centredness. It provided
+opportunities to meet colleagues, share learning and gain support, but
+the report also suggested that IMGs feel a general lack of support once
+they are in practice.
 
-The MTI by the Association of Medical Royal Colleges\ :sup:`(n.d.ag)` is
-specifically for IMGs and provides a helpful guide\ :sup:`(n.d.ah)` to
-aid with preparation for relocation, as well as providing mentorship on
+The MTI by the Association of Medical Royal Colleges\ :sup:`33` is
+specifically for IMGs and provides a helpful guide\ :sup:`34` to aid
+with preparation for relocation, as well as providing mentorship on
 starting the scheme. A recent evaluation of the MTI psychiatry scheme
 reported that enrolled IMGs highly rated their clinical supervision and
-overall experience with this initiative.\ :sup:`(n.d.ai)` The British
-Medical Association (BMA) website also has a section focusing on IMGs,
-including information regarding life and work in the
-UK;\ :sup:`(n.d.aj)` while we were preparing this manuscript, the BMA
-sent their very first IMG newsletter, focused on key news and
-information relevant to IMGs. Online communities are mushrooming to
-support IMGs while they redefine their identities in a new culture with
-its evident uniqueness.
+overall experience with this initiative.\ :sup:`35` The British Medical
+Association (BMA) website also has a section focusing on IMGs, including
+information regarding life and work in the UK;\ :sup:`36` while we were
+preparing this manuscript, the BMA sent their very first IMG newsletter,
+focused on key news and information relevant to IMGs. Online communities
+are mushrooming to support IMGs while they redefine their identities in
+a new culture with its evident uniqueness.
 
 This differential IMG attainment also affects membership and
 representation within the Royal Colleges, as SAS doctors do not have the
@@ -326,19 +326,18 @@ backgrounds. It reminds us that many of the adverse experiences of IMGs
 are also encountered by UK BAME medical graduates, notably,
 discrimination, racism and differential attainment. Compared with their
 White counterparts, UK BAME doctors underperform
-academically;\ :sup:`(n.d.ai)` are more likely to fail their clinical
-skills assessments;\ :sup:`(n.d.v)` are less likely to be accepted into
-a specialty training programme, apply for consultant posts, or be
-shortlisted for and offered consultant posts; and earn
-less.\ :sup:`(n.d.ak)` Wolf et al\ :sup:`(n.d.al)` found that perceived
-difficulty in talking about race with trainees and isolation or
-non-specificity of interventions were the main barriers to improvement.
-The Covid-19 pandemic has also shown the different vulnerabilities of
-BAME staff and patients, many of which are due to fundamental societal
-inequities, and the need for appropriate support and
-care.\ :sup:`(n.d.am)` As a positive note, it was heartening to see the
-*BMJ* recently commit a whole issue to the topic of
-racism.\ :sup:`(n.d.an)`
+academically;\ :sup:`35` are more likely to fail their clinical skills
+assessments;\ :sup:`22` are less likely to be accepted into a specialty
+training programme, apply for consultant posts, or be shortlisted for
+and offered consultant posts; and earn less.\ :sup:`37` Wolf et
+al\ :sup:`38` found that perceived difficulty in talking about race with
+trainees and isolation or non-specificity of interventions were the main
+barriers to improvement. The Covid-19 pandemic has also shown the
+different vulnerabilities of BAME staff and patients, many of which are
+due to fundamental societal inequities, and the need for appropriate
+support and care.\ :sup:`39` As a positive note, it was heartening to
+see the *BMJ* recently commit a whole issue to the topic of
+racism.\ :sup:`40`
 
 .. _sec4-2:
 
@@ -479,209 +478,6 @@ Declaration of interest
 =======================
 
 None.
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-ref1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-ref2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-ref3
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-ref4
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-ref5
-
-      n.d.e.
-
-   .. container:: csl-entry
-      :name: ref-ref6
-
-      n.d.f.
-
-   .. container:: csl-entry
-      :name: ref-ref7
-
-      n.d.g.
-
-   .. container:: csl-entry
-      :name: ref-ref8
-
-      n.d.h.
-
-   .. container:: csl-entry
-      :name: ref-ref9
-
-      n.d.i.
-
-   .. container:: csl-entry
-      :name: ref-ref10
-
-      n.d.j.
-
-   .. container:: csl-entry
-      :name: ref-ref11
-
-      n.d.k.
-
-   .. container:: csl-entry
-      :name: ref-ref12
-
-      n.d.l.
-
-   .. container:: csl-entry
-      :name: ref-ref13
-
-      n.d.m.
-
-   .. container:: csl-entry
-      :name: ref-ref14
-
-      n.d.n.
-
-   .. container:: csl-entry
-      :name: ref-ref15
-
-      n.d.o.
-
-   .. container:: csl-entry
-      :name: ref-ref16
-
-      n.d.p.
-
-   .. container:: csl-entry
-      :name: ref-ref17
-
-      n.d.q.
-
-   .. container:: csl-entry
-      :name: ref-ref18
-
-      n.d.r.
-
-   .. container:: csl-entry
-      :name: ref-ref19
-
-      n.d.s.
-
-   .. container:: csl-entry
-      :name: ref-ref20
-
-      n.d.t.
-
-   .. container:: csl-entry
-      :name: ref-ref21
-
-      n.d.u.
-
-   .. container:: csl-entry
-      :name: ref-ref22
-
-      n.d.v.
-
-   .. container:: csl-entry
-      :name: ref-ref23
-
-      n.d.w.
-
-   .. container:: csl-entry
-      :name: ref-ref24
-
-      n.d.x.
-
-   .. container:: csl-entry
-      :name: ref-ref25
-
-      n.d.y.
-
-   .. container:: csl-entry
-      :name: ref-ref26
-
-      n.d.z.
-
-   .. container:: csl-entry
-      :name: ref-ref27
-
-      n.d.aa.
-
-   .. container:: csl-entry
-      :name: ref-ref28
-
-      n.d.ab.
-
-   .. container:: csl-entry
-      :name: ref-ref29
-
-      n.d.ac.
-
-   .. container:: csl-entry
-      :name: ref-ref30
-
-      n.d.ad.
-
-   .. container:: csl-entry
-      :name: ref-ref31
-
-      n.d.ae.
-
-   .. container:: csl-entry
-      :name: ref-ref32
-
-      n.d.af.
-
-   .. container:: csl-entry
-      :name: ref-ref33
-
-      n.d.ag.
-
-   .. container:: csl-entry
-      :name: ref-ref34
-
-      n.d.ah.
-
-   .. container:: csl-entry
-      :name: ref-ref35
-
-      n.d.ai.
-
-   .. container:: csl-entry
-      :name: ref-ref36
-
-      n.d.aj.
-
-   .. container:: csl-entry
-      :name: ref-ref37
-
-      n.d.ak.
-
-   .. container:: csl-entry
-      :name: ref-ref38
-
-      n.d.al.
-
-   .. container:: csl-entry
-      :name: ref-ref39
-
-      n.d.am.
-
-   .. container:: csl-entry
-      :name: ref-ref40
-
-      n.d.an.
 
 .. [1]
    There is some overlap and the boundaries between these are only

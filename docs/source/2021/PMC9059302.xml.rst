@@ -2,6 +2,8 @@
 A qualitative exploration of the barriers to and facilitators of clozapine monitoring in a secure psychiatric setting
 =====================================================================================================================
 
+
+
 Sarah Blagden
 Jane Beenstock
 Natalie Auld
@@ -46,23 +48,23 @@ Mark LimmerCorrespondence: Dr Sarah Blagden. Email: s.blagden@nhs.net
 pmc
 Clozapine is the only antipsychotic medication with established efficacy
 in adults with treatment-resistant schizophrenia and is an important
-treatment option in forensic psychiatric settings.\ :sup:`(n.d.a)`
-However, it must be used with caution owing to its considerable
-side-effect profile.\ :sup:`(n.d.a)` Most prominently, this includes a
-risk of neutropenia and fatal agranulocytosis, cardiac complications and
-bowel obstruction.\ :sup:`(n.d.a)` Development of the metabolic
-syndrome, consisting of obesity, insulin resistance (often resulting in
-type 2 diabetes) and lipid derangements, is common.\ :sup:`(n.d.a)`
-Consequently, alongside psychiatric monitoring, close monitoring of
-several physical health parameters is required for patients, as
-stipulated in the British National Formulary and by manufacturers
-(`Table 1 <#tab01>`__). Table 1Minimum physical health monitoring
-required for patients taking clozapine (source: BNF, Lancashire and
-South Cumbria NHS Foundation Trust\ :sup:`(n.d.a)`)Monitoring for
-neutropeniaWeeks 1–18Weeks 19–52Ongoing monitoringFull blood
-countWeekly\ `a <#tfn1_1>`__\ Every 2 weeks\ `a <#tfn1_1>`__\ Every 4
-weeks\ `a <#tfn1_1>`__\ Other physical health parametersBaseline1 month3
-months6 months9 months12 months/annuallyWeight, BMI, waist
+treatment option in forensic psychiatric settings.\ :sup:`1` However, it
+must be used with caution owing to its considerable side-effect
+profile.\ :sup:`1` Most prominently, this includes a risk of neutropenia
+and fatal agranulocytosis, cardiac complications and bowel
+obstruction.\ :sup:`1` Development of the metabolic syndrome, consisting
+of obesity, insulin resistance (often resulting in type 2 diabetes) and
+lipid derangements, is common.\ :sup:`1` Consequently, alongside
+psychiatric monitoring, close monitoring of several physical health
+parameters is required for patients, as stipulated in the British
+National Formulary and by manufacturers (`Table 1 <#tab01>`__). Table
+1Minimum physical health monitoring required for patients taking
+clozapine (source: BNF, Lancashire and South Cumbria NHS Foundation
+Trust\ :sup:`1`)Monitoring for neutropeniaWeeks 1–18Weeks 19–52Ongoing
+monitoringFull blood countWeekly\ `a <#tfn1_1>`__\ Every 2
+weeks\ `a <#tfn1_1>`__\ Every 4 weeks\ `a <#tfn1_1>`__\ Other physical
+health parametersBaseline1 month3 months6 months9 months12
+months/annuallyWeight, BMI, waist
 circumference\ `b <#tfn1_2>`__\ ✓✓✓✓✓Pulse and blood
 pressure\ `c <#tfn1_3>`__\ ✓✓HbA1C or fasting
 glucose✓✓✓✓Prolactin✓✓Lipids✓✓✓✓✓ECG\ `d <#tfn1_4>`__\ ✓Liver and renal
@@ -72,18 +74,17 @@ Despite being an important line of treatment, it is consistently
 reported in the literature that challenges remain around the use of
 clozapine. Previous audits have demonstrated incomplete adherence to
 physical health monitoring, particularly during the first year of
-monitoring when the risk of side-effects is
-greatest.\ :sup:`(n.d.b)–(n.d.c)` Even where abnormalities are
-identified, this often does not translate into results being
-communicated or acted upon.\ :sup:`(n.d.b),(n.d.c),(n.d.d)` A previous
+monitoring when the risk of side-effects is greatest.\ :sup:`2–5` Even
+where abnormalities are identified, this often does not translate into
+results being communicated or acted upon.\ :sup:`2,5,6` A previous
 evaluation of shared-care clozapine monitoring found that implementing a
 different model of monitoring could feel process-driven and generate
 anxiety for staff, with a recommendation to identify facilitators and
-barriers to ensure that change is successful and
-sustained.\ :sup:`(n.d.e)` Therefore, in this study, we aimed to explore
-the beliefs and understanding of staff and patients at a secure mental
-health unit regarding clozapine monitoring, and to use this information
-to identify barriers to and facilitators of monitoring.
+barriers to ensure that change is successful and sustained.\ :sup:`7`
+Therefore, in this study, we aimed to explore the beliefs and
+understanding of staff and patients at a secure mental health unit
+regarding clozapine monitoring, and to use this information to identify
+barriers to and facilitators of monitoring.
 
 .. _sec1:
 
@@ -158,8 +159,7 @@ Epistemology
 
 The research was underpinned by an interpretivist approach, which
 recognises the subjective nature of knowledge and the need to understand
-situations from the perspective of those
-involved.\ :sup:`(n.d.f),(n.d.g)`
+situations from the perspective of those involved.\ :sup:`8,9`
 
 .. _sec1-4:
 
@@ -173,16 +173,16 @@ extensive field notes were made, and several quotes from each
 interviewee were transcribed verbatim to ensure data capture.
 Subsequently, based on field notes, quotes and transcripts, thematic
 analysis was utilised in the format described by Braun and
-Clarke.\ :sup:`(n.d.f)` Thematic analysis is based on finding and
-interpreting patterns (themes) within the data.\ :sup:`(n.d.f)`
-Following data familiarisation and immersion, a list of codes was
-generated by S.B. Next, themes were searched for, and an analytical
-framework was constructed by S.B. Where this framework did not fit the
-data, themes were further refined and alternative explanations sought
-until a final framework was agreed by S.B., J.B. and M.L. As well as
-following standardised topic guides, robust and transparent analysis was
-critical to ensuring reflexivity and minimising the researcher's
-influence on emerging themes.
+Clarke.\ :sup:`8` Thematic analysis is based on finding and interpreting
+patterns (themes) within the data.\ :sup:`8` Following data
+familiarisation and immersion, a list of codes was generated by S.B.
+Next, themes were searched for, and an analytical framework was
+constructed by S.B. Where this framework did not fit the data, themes
+were further refined and alternative explanations sought until a final
+framework was agreed by S.B., J.B. and M.L. As well as following
+standardised topic guides, robust and transparent analysis was critical
+to ensuring reflexivity and minimising the researcher's influence on
+emerging themes.
 
 .. _sec1-5:
 
@@ -369,17 +369,17 @@ must-do aspect of clozapine care to prevent serious incidents in the
 short term, as well as the long-term health effects of cardiometabolic
 complications. Despite this, studies repeatedly report that adherence to
 the required monitoring, in both in-patient and community settings, is
-incomplete.\ :sup:`(n.d.b)–(n.d.d),(n.d.h),(n.d.i)` Although clozapine
-is widely used in forensic settings, there is very little published
-literature relating to its use here. This qualitative study has provided
-valuable insight into clozapine monitoring in a secure unit and has
-identified facilitators and barriers to effective monitoring. These are
-displayed in `Fig. 1 <#fig01>`__ in the format of Lewin's force field
-analysis, which depicts change as a state of imbalance between driving
-and resisting forces, with change achieved by increasing the
-facilitators, reducing the barriers, or both.\ :sup:`(n.d.j),(n.d.k)`
-Fig. 1Force field analysis of forces driving and resisting change in
-relation to clozapine monitoring.\ :sup:`(n.d.j),(n.d.k)`
+incomplete.\ :sup:`2–6,10,11` Although clozapine is widely used in
+forensic settings, there is very little published literature relating to
+its use here. This qualitative study has provided valuable insight into
+clozapine monitoring in a secure unit and has identified facilitators
+and barriers to effective monitoring. These are displayed in `Fig.
+1 <#fig01>`__ in the format of Lewin's force field analysis, which
+depicts change as a state of imbalance between driving and resisting
+forces, with change achieved by increasing the facilitators, reducing
+the barriers, or both.\ :sup:`12,13` Fig. 1Force field analysis of
+forces driving and resisting change in relation to clozapine
+monitoring.\ :sup:`12,13`
 
 The key facilitator was the motivation of staff to facilitate recovery
 and prepare patients for discharge. Staff understood the risks of not
@@ -387,14 +387,14 @@ effectively monitoring clozapine and were keen to implement a more
 efficient model. This mirrors the findings of a previous evaluation of
 community shared-care clozapine monitoring, where forensic healthcare
 professionals were motivated by enabling patients to develop skills for
-independence.\ :sup:`(n.d.e)` Both staff and patients believed that
-physical and mental healthcare were equally important for people taking
-clozapine.\ :sup:`(n.d.e)` In our study, there was a range of
-understanding among patients, with stepdown patients having greater
-understanding of the associated benefits of monitoring. Their engagement
-is a further key facilitator to be harnessed. Linked to this, staff
-noted that patients responded favourably to routine, and that
-consistency should be a core component of clozapine monitoring.
+independence.\ :sup:`7` Both staff and patients believed that physical
+and mental healthcare were equally important for people taking
+clozapine.\ :sup:`7` In our study, there was a range of understanding
+among patients, with stepdown patients having greater understanding of
+the associated benefits of monitoring. Their engagement is a further key
+facilitator to be harnessed. Linked to this, staff noted that patients
+responded favourably to routine, and that consistency should be a core
+component of clozapine monitoring.
 
 In terms of barriers, an important finding was that roles and
 responsibilities for monitoring were not clearly defined and inter-team
@@ -403,22 +403,21 @@ health, clozapine monitoring was widely perceived to be outside the
 scope of practice of the different teams involved. These factors have
 previously been identified as key determinants of psychiatrists’
 practice in relation to clozapine, and major contributors to low rates
-and inconsistency of follow-up.\ :sup:`(n.d.i)` Likewise, there was
-sometimes a lack of knowledge about clozapine monitoring, particularly
-aspects that staff did not perceive as their responsibility. Although
-the FBC component was widely understood, as results must be available to
-enable clozapine dispensing, some staff perceived understanding of
+and inconsistency of follow-up.\ :sup:`11` Likewise, there was sometimes
+a lack of knowledge about clozapine monitoring, particularly aspects
+that staff did not perceive as their responsibility. Although the FBC
+component was widely understood, as results must be available to enable
+clozapine dispensing, some staff perceived understanding of
 cardiometabolic monitoring to be limited among ward staff, despite the
 widespread prevalence of these complications. Defined roles and
 responsibilities must be supported by robust pathways for clozapine
 monitoring. Inconsistent documentation, limited knowledge about
 clozapine and a lack of communication between teams have previously been
-shown to limit improvements when abnormalities are
-detected.\ :sup:`(n.d.l),(n.d.d)` Logistically, access to
-phlebotomy-trained staff was a key barrier to on-schedule monitoring,
-which has been highlighted in previous audits of clozapine
-monitoring.\ :sup:`(n.d.b),(n.d.m)` From a patient perspective,
-monitoring was passive, and many had little insight into the monitoring
+shown to limit improvements when abnormalities are detected.\ :sup:`4,6`
+Logistically, access to phlebotomy-trained staff was a key barrier to
+on-schedule monitoring, which has been highlighted in previous audits of
+clozapine monitoring.\ :sup:`2,3` From a patient perspective, monitoring
+was passive, and many had little insight into the monitoring
 requirements. Although there were more barriers than facilitators with
 respect to changing the clozapine monitoring system, the facilitators
 were strong motivators, so it is anticipated that they will drive the
@@ -429,32 +428,31 @@ consensus as to what gold-standard clozapine monitoring encompasses, and
 this study adds to this. First, it is essential that staff and patients
 perceive clozapine monitoring as a tool for facilitating patient
 recovery, independence and safety, and not simply as the process for
-supplying a medication.\ :sup:`(n.d.e)` Patient education should not be
-a one-off event but should be repeated throughout treatment, especially
-as patients may be unwell at the time of clozapine initiation and have
-low health literacy.\ :sup:`(n.d.n)` Clozapine monitoring must be
-supported by care pathways and effective interventions to ensure that,
-first, monitoring takes place and, second, that abnormal findings are
-actioned.\ :sup:`(n.d.d)` Pathways should be standardised so that they
-can be easily followed by busy staff working across wards. Any system of
+supplying a medication.\ :sup:`7` Patient education should not be a
+one-off event but should be repeated throughout treatment, especially as
+patients may be unwell at the time of clozapine initiation and have low
+health literacy.\ :sup:`14` Clozapine monitoring must be supported by
+care pathways and effective interventions to ensure that, first,
+monitoring takes place and, second, that abnormal findings are
+actioned.\ :sup:`6` Pathways should be standardised so that they can be
+easily followed by busy staff working across wards. Any system of
 monitoring must be supported by electronic tools to keep track of
-monitoring.\ :sup:`(n.d.d)` An in-patient clozapine clinic is an
-effective system for clozapine monitoring that is widely supported by
-staff and patients. This provides FBC monitoring, along with monitoring
-of other physical health parameters and side-effects. In terms of
-staffing, multidisciplinary representation is likely to be effective,
-with mental and physical health co-staffing supported in this study.
-Several senior staff members in our study raised concerns about
-undergraduate training around clozapine. Given the complex monitoring
-and severe side-effects, robust training on clozapine should be
-encompassed by undergraduate mental health nursing degrees and a
-mandatory workplace training module. Where establishment of a clozapine
-clinic is not feasible, it is recommended that, as a minimum, a
-clozapine pathway is established that defines the roles and
-responsibilities of different staff groups and triggers appropriate
-communication and actions where abnormal results are identified. This
-should be underpinned by an electronic system that simplifies the
-process and is accessible by the relevant staff.
+monitoring.\ :sup:`6` An in-patient clozapine clinic is an effective
+system for clozapine monitoring that is widely supported by staff and
+patients. This provides FBC monitoring, along with monitoring of other
+physical health parameters and side-effects. In terms of staffing,
+multidisciplinary representation is likely to be effective, with mental
+and physical health co-staffing supported in this study. Several senior
+staff members in our study raised concerns about undergraduate training
+around clozapine. Given the complex monitoring and severe side-effects,
+robust training on clozapine should be encompassed by undergraduate
+mental health nursing degrees and a mandatory workplace training module.
+Where establishment of a clozapine clinic is not feasible, it is
+recommended that, as a minimum, a clozapine pathway is established that
+defines the roles and responsibilities of different staff groups and
+triggers appropriate communication and actions where abnormal results
+are identified. This should be underpinned by an electronic system that
+simplifies the process and is accessible by the relevant staff.
 
 .. _sec3-1:
 
@@ -604,79 +602,6 @@ and dispensed in the community when you leave hospital?What do you think
 about the idea of having a clinic on the hospital site where you'd go to
 have your clozapine monitoring done?Is there anything else about
 clozapine that we haven't mentioned and that you'd like to discuss?
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-ref1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-ref2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-ref3
-
-      n.d.m.
-
-   .. container:: csl-entry
-      :name: ref-ref4
-
-      n.d.l.
-
-   .. container:: csl-entry
-      :name: ref-ref5
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-ref6
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-ref7
-
-      n.d.e.
-
-   .. container:: csl-entry
-      :name: ref-ref8
-
-      n.d.f.
-
-   .. container:: csl-entry
-      :name: ref-ref9
-
-      n.d.g.
-
-   .. container:: csl-entry
-      :name: ref-ref10
-
-      n.d.h.
-
-   .. container:: csl-entry
-      :name: ref-ref11
-
-      n.d.i.
-
-   .. container:: csl-entry
-      :name: ref-ref12
-
-      n.d.j.
-
-   .. container:: csl-entry
-      :name: ref-ref13
-
-      n.d.k.
-
-   .. container:: csl-entry
-      :name: ref-ref14
-
-      n.d.n.
 
 .. [1]
    More frequent monitoring will be required if abnormal results are

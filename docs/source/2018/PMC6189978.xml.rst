@@ -2,6 +2,8 @@
 Community treatment orders in England: review of usage from national data
 =========================================================================
 
+
+
 Daniel M. Bennett
 Andrew C. Bailey
 Alasdair D. Forrest
@@ -13,13 +15,13 @@ Alasdair D. Forrest
 ..
 
 We read with interest the paper by Gupta *et al* on community treatment
-orders in England.(n.d.a) This and other reports on the use of
-compulsory mental health powers are particularly welcome now, as
-legislation is being reviewed.(n.d.b)\ :sup:`–`\ (n.d.c) Scotland's
-distinct but comparable law and practice may be more relevant than those
-of the other jurisdictions mentioned. We are pleased to provide data
-from Scotland to broaden the picture and consider unique Scottish
-community provisions for mentally disordered offenders.
+orders in England.1 This and other reports on the use of compulsory
+mental health powers are particularly welcome now, as legislation is
+being reviewed.2\ :sup:`–`\ 4 Scotland's distinct but comparable law and
+practice may be more relevant than those of the other jurisdictions
+mentioned. We are pleased to provide data from Scotland to broaden the
+picture and consider unique Scottish community provisions for mentally
+disordered offenders.
 
 Community-based detention was made possible in Scotland by the Mental
 Health (Care and Treatment) (Scotland) Act 2003, enacted in October
@@ -40,14 +42,13 @@ patient to hospital and, when they are returned to hospital, it is by
 varying the order not by revoking it.
 
 Gupta *et al* note that new CTOs in England have been stable at around
-4500 per year over the past 5 years.(n.d.a) This is in contrast to
-Scotland, where the use of CTOs (with community-only powers) has
-increased from 11.2 to 20.5 per 100 000 population between 2008 and
-2017.(n.d.d) The proportion of CTOs with community-only powers was 44.9%
-in January 2017.(n.d.d) If the legislation was similar in England
-(taking CTOs as a proportion of the total long-term sections, i.e. new
-CTOs and Section 3s), this was only slightly lower at 37% in
-2014/2015.(n.d.a)
+4500 per year over the past 5 years.1 This is in contrast to Scotland,
+where the use of CTOs (with community-only powers) has increased from
+11.2 to 20.5 per 100 000 population between 2008 and 2017.5 The
+proportion of CTOs with community-only powers was 44.9% in January
+2017.5 If the legislation was similar in England (taking CTOs as a
+proportion of the total long-term sections, i.e. new CTOs and Section
+3s), this was only slightly lower at 37% in 2014/2015.1
 
 Uniquely in the UK, Scotland also has a provision whereby a
 community-only compulsion order can be made by a criminal court (which
@@ -57,11 +58,11 @@ with breaches addressed by the mental health rather than the criminal
 justice system. In the 10 years leading up to 2017, three orders with
 community-only powers were made (where the patient was unfit or lacking
 criminal responsibility), representing only 2% of compulsion orders made
-in those circumstances.(n.d.d) Over the same time scale, 14
-community-only compulsion orders were made as disposals, representing
-2.6% of such disposals.(n.d.d) The role of community detention as a
-criminal disposal is therefore much less prominent in Scotland than in
-civil mental health legislation.
+in those circumstances.5 Over the same time scale, 14 community-only
+compulsion orders were made as disposals, representing 2.6% of such
+disposals.5 The role of community detention as a criminal disposal is
+therefore much less prominent in Scotland than in civil mental health
+legislation.
 
 We hope this Scottish context adds to the review provided by Gupta *et
 al*, and we agree, having considered these figures for community-based
@@ -69,26 +70,3 @@ detention, that it seems ‘sensible to take whatever steps possible to
 see that it is used effectively’. We respectfully suggest that adopting
 a broader range of data and jurisdictions for such a study would assist
 in that regard.
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-ref1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-ref2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-ref4
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-ref5
-
-      n.d.d.

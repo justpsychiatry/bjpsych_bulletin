@@ -2,6 +2,8 @@
 Still room for improvement: standardisation of clinical correspondence and experience in a rural crisis and home treatment service
 ==================================================================================================================================
 
+
+
 Daniel Robinson
 Samuel Dearman
 :Date: 2019-6
@@ -22,10 +24,10 @@ practitioner (GP). Unfortunately, omission of information often occurs.
 A study of letters from mental health services in London found a
 mismatch between what GPs felt they needed to know and what was being
 included; for example, only 17% of the letters in this study included a
-diagnosis.(n.d.a) Evidence suggests that structured letter formats take
-no longer to read, are preferred by GPs, improve comprehension of
-letters and reduce the risk of omission of information by the author and
-reader.(n.d.b)
+diagnosis.1 Evidence suggests that structured letter formats take no
+longer to read, are preferred by GPs, improve comprehension of letters
+and reduce the risk of omission of information by the author and
+reader.2
 
 Anecdotally, we observed variation in our medical correspondence to our
 GP colleagues and thus undertook a quality improvement project looking
@@ -71,24 +73,6 @@ continues to be an area for improvement within psychiatric services, but
 that relatively simple methods and collaborative efforts can lead to
 significant quality improvements. We hope our approach warrants
 consideration from the wider pool of colleagues as we meet our duties to
-improve the quality of services(n.d.c) and especially commend engaging
+improve the quality of services3 and especially commend engaging
 trainees in the process as a learning opportunity in an attempt to add
 as much value as possible.
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-ref1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-ref2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-ref3
-
-      n.d.c.

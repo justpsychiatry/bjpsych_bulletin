@@ -2,6 +2,8 @@
 Pathways to Recovery: development and evaluation of a cognitive–behavioural therapy in-patient treatment programme for adults with anorexia nervosa
 ===================================================================================================================================================
 
+
+
 Andrea Brown
 Richard Jenkinson
 Julia Coakes
@@ -46,17 +48,17 @@ There is very limited guidance available regarding effective,
 evidence-based, in-patient treatment for those people with severe
 anorexia nervosa who cannot be managed safely due to high medical and/or
 psychosocial risk and/or who have not responded to treatment in
-out-patient services.(n.d.a)\ :sup:`,`\ (n.d.b) Treasure *et
-al*\ (n.d.c) have recently proposed that severe and enduring anorexia
-nervosa (SE-AN) may be defined by an illness duration of seven or more
-years and that interventions should be matched to illness ‘stage’. This
-proposed ‘staging model’ helpfully emphasises the importance of early
+out-patient services.1\ :sup:`,`\ 2 Treasure *et al*\ 3 have recently
+proposed that severe and enduring anorexia nervosa (SE-AN) may be
+defined by an illness duration of seven or more years and that
+interventions should be matched to illness ‘stage’. This proposed
+‘staging model’ helpfully emphasises the importance of early
 intervention for people with recent onset anorexia nervosa. However, the
 suggestion of shifting focus away from recovery towards enhancing
 quality of life and harm minimisation for those with more enduring
-difficulties(n.d.d)\ :sup:`,`\ (n.d.e) has the potential to fuel
-pessimism with regards to outcomes for this group of patients and the
-clinicians who work with them.
+difficulties4\ :sup:`,`\ 5 has the potential to fuel pessimism with
+regards to outcomes for this group of patients and the clinicians who
+work with them.
 
 .. _sec1-1:
 
@@ -93,21 +95,21 @@ and comorbidities including personality disorders, substance misuse and
 autistic spectrum disorders.
 
 A CBT approach was adopted in response to evidence that CBT was the most
-effective treatment for bulimia nervosa(n.d.f) and it had the potential
-to be effective trans-diagnostically with other types of eating
-disorders(n.d.g) and a wide range of comorbidities. The collaborative
-CBT approach was not compatible with the pre-existing framework of using
-BMI to inform treatment and evaluate progress (i.e. the BMI
-guidelines).(n.d.h) The Pathways to Recovery model was developed as a
-solution by a multidisciplinary group of clinicians with consultation
-with patients, their families/carers and the wider staff team. Pathways
-to Recovery incorporated key CBT principles and enabled the whole staff
-team to work collaboratively and coherently in an integrated and
-holistic way with each patient.
+effective treatment for bulimia nervosa6 and it had the potential to be
+effective trans-diagnostically with other types of eating disorders7 and
+a wide range of comorbidities. The collaborative CBT approach was not
+compatible with the pre-existing framework of using BMI to inform
+treatment and evaluate progress (i.e. the BMI guidelines).8 The Pathways
+to Recovery model was developed as a solution by a multidisciplinary
+group of clinicians with consultation with patients, their
+families/carers and the wider staff team. Pathways to Recovery
+incorporated key CBT principles and enabled the whole staff team to work
+collaboratively and coherently in an integrated and holistic way with
+each patient.
 
 The Pathways to Recovery model was piloted and evaluated independently
 using qualitative methodology. Overall, Pathways to Recovery was found
-to be acceptable and a positive alternative to BMI guidelines.(n.d.i)
+to be acceptable and a positive alternative to BMI guidelines.9
 
 Pathways to Recovery broadly defines recovery as learning to live with
 eating-disordered thoughts without using eating-disordered behaviours.
@@ -185,13 +187,13 @@ used in eating disorder research were selected for their clinical
 utility:
 
 Eating Disorder Examination – Questionnaire (EDE-Q): A self-report
-measure assessing eating disorder symptoms over the previous 28
-days.(n.d.j) This instrument has good reliability and validity.(n.d.k)
-High scores indicate greater eating disorder psychopathology.
+measure assessing eating disorder symptoms over the previous 28 days.10
+This instrument has good reliability and validity.11 High scores
+indicate greater eating disorder psychopathology.
 
 Clinical Outcomes in Routine Evaluation Outcome Measure (CORE-OM): A
 widely used, generic, 34-item self-report measure of psychological
-distress. This instrument has good reliability and validity.(n.d.l) High
+distress. This instrument has good reliability and validity.12 High
 scores indicate greater psychological distress.
 
 BMI: BMI (weight/height\ :sup:`2`) was recorded for each patient at
@@ -235,11 +237,11 @@ overall sample was 27 years (range 18–57 years). Of the participants,
 disorder in-patient treatment. The mean duration of anorexia nervosa was
 more than 9 years (range 0–31 years). More than half (51.9%) of the
 participants had an illness duration of 7 years or more, thus meeting
-the criterion proposed by Treasure *et al*\ (n.d.c) for SE-AN. On
-admission the participants were significantly underweight: 86% had a BMI
-lower than 16 kg/m\ :sup:`2` and nearly one third (31%) had a BMI lower
-than 13 kg/m\ :sup:`2`. More than half (54%) of the participants had at
-least one comorbid diagnosis including borderline personality disorder,
+the criterion proposed by Treasure *et al*\ 3 for SE-AN. On admission
+the participants were significantly underweight: 86% had a BMI lower
+than 16 kg/m\ :sup:`2` and nearly one third (31%) had a BMI lower than
+13 kg/m\ :sup:`2`. More than half (54%) of the participants had at least
+one comorbid diagnosis including borderline personality disorder,
 post-traumatic stress disorder, obsessive compulsive disorder,
 generalised anxiety disorder, alcohol and substance misuse, autistic
 spectrum disorder, depression and gender dysphoria. Table 1Demographic
@@ -283,10 +285,10 @@ discharged with scores below the clinical cut-off point. The mean global
 EDE-Q score at discharge was also significantly lower compared to
 admission (*t* (42) = 5.04, *P* < 0.001, *d* = 0.93). The mean EDE-Q
 score had reduced to <1 s.d. above the community norm at discharge
-(mean = 1.55, s.d. = 1.21)(n.d.j) compared to 2 s.d. above the community
-norm at admission. Almost one quarter of the patients (24.5%) had a
-global EDE-Q score of within 1 s.d. of the community norm at discharge,
-representing minimal eating disorder psychopathology.(n.d.m)
+(mean = 1.55, s.d. = 1.21)10 compared to 2 s.d. above the community norm
+at admission. Almost one quarter of the patients (24.5%) had a global
+EDE-Q score of within 1 s.d. of the community norm at discharge,
+representing minimal eating disorder psychopathology.13
 
 .. _sec3-3:
 
@@ -341,11 +343,11 @@ Question 3: How do the outcomes of patients treated by Pathways to Recovery comp
 -------------------------------------------------------------------------------------------------------------------------------------
 
 The outcomes for Pathways to Recovery were compared to those reported by
-Dalle Grave *et al*,(n.d.m) who describe findings from a CBT in-patient
-service in Italy, and Goddard *et al*,(n.d.n) who describe outcomes from
-12 adult in-patient services in the UK (`Table 4 <#tab04>`__). Table
+Dalle Grave *et al*,13 who describe findings from a CBT in-patient
+service in Italy, and Goddard *et al*,14 who describe outcomes from 12
+adult in-patient services in the UK (`Table 4 <#tab04>`__). Table
 4Pathways to Recovery outcomes compared to other in-patient
-settingsGoddard *et al*\ (n.d.n)Dalle Grave *et al*\ (n.d.m)Pathways to
+settingsGoddard *et al*\ 14Dalle Grave *et al*\ 13Pathways to
 RecoveryMean length of admission (weeks)26.4 (17.9)Up to 20 weeks33.2
 (17.47)Discharge BMI (kg/m\ :sup:`2`)17.3 (2.1)18.9 (1.5)18.7 (2.3)Those
 achieving BMI 18.5 (%)22%\ `a <#tfn4_1>`__\ 86.1%\ `b <#tfn4_2>`__\ 67%
@@ -356,8 +358,8 @@ known51.4%\ `b <#tfn4_2>`__\ 24.5% [6]_ [7]_ [8]_ [9]_
 
 .. _sec3-4-1:
 
-Pathways to Recovery in comparison to Dalle Grave *et al*\ (n.d.m)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pathways to Recovery in comparison to Dalle Grave *et al*\ 13
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The mean discharge BMI in both settings was broadly similar. A greater
 proportion of the Italian patients left with a BMI in the healthy range
@@ -366,18 +368,18 @@ disorder psychopathology.
 
 .. _sec3-4-2:
 
-Pathways to Recovery in comparison to Goddard *et al*\ (n.d.n)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pathways to Recovery in comparison to Goddard *et al*\ 14
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The Pathways to Recovery outcomes appear to be substantially better than
-the average outcomes reported by Goddard *et al*\ (n.d.n) from 12 adult
+the average outcomes reported by Goddard *et al*\ 14 from 12 adult
 in-patient services in the UK: 49% of the Pathways to Recovery sample
 achieved a BMI greater than 19 kg/m\ :sup:`2` at discharge compared to
-only 22% of the Goddard *et al*\ (n.d.n) sample. The EDE-Q on admission
-for both groups was similar, and both achieved a statistically
-significant decrease in scores. However, the improvement in the Pathways
-to Recovery sample appears to be more clinically significant, achieving
-values closer to the mean taken from the general female population.
+only 22% of the Goddard *et al*\ 14 sample. The EDE-Q on admission for
+both groups was similar, and both achieved a statistically significant
+decrease in scores. However, the improvement in the Pathways to Recovery
+sample appears to be more clinically significant, achieving values
+closer to the mean taken from the general female population.
 
 .. _sec4:
 
@@ -393,42 +395,42 @@ evaluation was restricted to those with a diagnosis of anorexia nervosa.
 The people treated were complex, with almost one-third starting
 treatment with a BMI of less than 13 kg/m\ :sup:`2` and more than half
 having one or more comorbid diagnoses. More than half the participants
-met the criterion of illness duration proposed by SE-AN.(n.d.c) It is
-worth noting that the term SE-AN implies both a severe level of
-symptoms, including serious medical comorbidities as well a long
-duration of illness. Although people with shorter durations of illness
-may also experience physical comorbidities and other disabling features
-of anorexia nervosa, these symptoms become progressively more likely as
+met the criterion of illness duration proposed by SE-AN.3 It is worth
+noting that the term SE-AN implies both a severe level of symptoms,
+including serious medical comorbidities as well a long duration of
+illness. Although people with shorter durations of illness may also
+experience physical comorbidities and other disabling features of
+anorexia nervosa, these symptoms become progressively more likely as
 time goes on.
 
 The first key finding was that introducing Pathways to Recovery
 significantly enhanced weight restoration compared to TAU, with more
 than two-thirds of participants gaining enough weight to enter the World
 Health Organization's healthy BMI range. This is important since lower
-BMI at discharge has been found to be a predictor of relapse.(n.d.o)
-Pathways to Recovery also led to significant improvements in general
+BMI at discharge has been found to be a predictor of relapse.15 Pathways
+to Recovery also led to significant improvements in general
 psychological distress and symptoms of eating disorder, with nearly
 one-quarter having minimal eating disorder psychopathology at discharge;
 however, these improvements were not significantly different from those
 achieved by TAU.
 
 The outcomes for patients treated by Pathways to Recovery were broadly
-comparable to those produced by another CBT in-patient programme.(n.d.m)
-The mean discharge BMI in both settings was similar. Although a greater
+comparable to those produced by another CBT in-patient programme.13 The
+mean discharge BMI in both settings was similar. Although a greater
 proportion of the Italian participants left with a BMI in the healthy
 range (BMI 18.5–25 kg/m\ :sup:`2`) and met the criterion for minimal
 eating disorder psychopathology, this only represented the outcomes for
 those who had completed the programme; whereas the Pathways to Recovery
 data set includes those who did not complete the programme (except those
 who left within the first four weeks). Furthermore, the Dalle Grave *et
-al*\ (n.d.m) sample included adolescents (29% were younger than 18),
-thus the mean age and median illness duration were less than the
-Pathways to Recovery sample. The Dalle Grave *et al*\ (n.d.m) sample
-recorded depression (53.6%) and anxiety (20%) but did not report any
-other comorbidities. Depression and anxiety are recognised complications
-of starvation and may have been a feature of the anorexia nervosa rather
-than comorbidities *per se*. This could indicate a less complex cohort
-than the Pathways to Recovery sample. This indicates that Pathways to
+al*\ 13 sample included adolescents (29% were younger than 18), thus the
+mean age and median illness duration were less than the Pathways to
+Recovery sample. The Dalle Grave *et al*\ 13 sample recorded depression
+(53.6%) and anxiety (20%) but did not report any other comorbidities.
+Depression and anxiety are recognised complications of starvation and
+may have been a feature of the anorexia nervosa rather than
+comorbidities *per se*. This could indicate a less complex cohort than
+the Pathways to Recovery sample. This indicates that Pathways to
 Recovery is effective for not only patients with SE-AN but also for
 those with other comorbidities. Such patient are often excluded from
 specialist eating disorder in-patient services due to the complexity of
@@ -437,8 +439,8 @@ their presentations.
 Another key finding was that Pathways to Recovery appears to produce
 better than average short-term outcomes for in-patients with anorexia
 nervosa when compared with similar adult in-patient settings in the
-UK.(n.d.n) The length of illness in both groups was virtually identical
-and although the length of stay was longer for the Pathways to Recovery
+UK.14 The length of illness in both groups was virtually identical and
+although the length of stay was longer for the Pathways to Recovery
 group, the outcomes demonstrated that instead of being treatment
 resistant, this group of patients can achieve positive outcomes in terms
 of weight restoration and improvements in psychopathology. This may be
@@ -448,15 +450,15 @@ spectrum, and thus give hope to these patients and their families.
 Improvements in both of these outcome measures are likely to result in
 sustained recovery post-discharge.
 
-Treasure *et al*\ (n.d.c) have suggested changing the focus of those
-with SE-AN ‘to improving quality of life and minimising discomfort
-rather than achieving optimal weight’. This approach runs the risk of
+Treasure *et al*\ 3 have suggested changing the focus of those with
+SE-AN ‘to improving quality of life and minimising discomfort rather
+than achieving optimal weight’. This approach runs the risk of
 clinicians and patients assuming that weight restoration is not possible
 or even acceptable. Furthermore, chronic low weight has many long-term
-health risks affecting all organ systems,(n.d.p) many of which can
+health risks affecting all organ systems,16 many of which can
 potentially reduce life expectancy.
 
-However, Calugi *et al*\ (n.d.q) caution: ‘there are strong reasons to
+However, Calugi *et al*\ 17 caution: ‘there are strong reasons to
 indicate that pessimism regarding the recovery prospects of patients
 with SE-AN may not be entirely justified and consequently steering away
 from a recovery model may be premature at this stage’. They go on to
@@ -533,94 +535,6 @@ practitioner at Insight Eating, Leeds. **Tish O'Brien**, now retired,
 was an occupational therapist and **Louise Hall** is a clinical
 psychologist at The Retreat, York. All authors work or have worked in
 the eating disorders service (The Naomi Unit) at The Retreat in York.
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-ref1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-ref2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-ref3
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-ref4
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-ref5
-
-      n.d.e.
-
-   .. container:: csl-entry
-      :name: ref-ref6
-
-      n.d.f.
-
-   .. container:: csl-entry
-      :name: ref-ref7
-
-      n.d.g.
-
-   .. container:: csl-entry
-      :name: ref-ref8
-
-      n.d.h.
-
-   .. container:: csl-entry
-      :name: ref-ref9
-
-      n.d.i.
-
-   .. container:: csl-entry
-      :name: ref-ref10
-
-      n.d.j.
-
-   .. container:: csl-entry
-      :name: ref-ref11
-
-      n.d.k.
-
-   .. container:: csl-entry
-      :name: ref-ref12
-
-      n.d.l.
-
-   .. container:: csl-entry
-      :name: ref-ref13
-
-      n.d.m.
-
-   .. container:: csl-entry
-      :name: ref-ref14
-
-      n.d.n.
-
-   .. container:: csl-entry
-      :name: ref-ref15
-
-      n.d.o.
-
-   .. container:: csl-entry
-      :name: ref-ref16
-
-      n.d.p.
-
-   .. container:: csl-entry
-      :name: ref-ref17
-
-      n.d.q.
 
 .. [1]
    Data are shown as mean (s.d.) unless otherwise indicated. TAU,

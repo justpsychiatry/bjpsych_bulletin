@@ -2,6 +2,8 @@
 Flexible assertive community treatment (FACT) model in specialist psychosis teams: an evaluation
 ================================================================================================
 
+
+
 Loopinder Sood
 Andy Owen
 Richard Onyon
@@ -37,28 +39,28 @@ Hannah SeabrookCorrespondence to Andy Owen (andy.owen@covwarkpt.nhs.uk)
 
 Recent years have seen a widespread disinvestment from assertive
 community treatment (ACT), with many teams being merged into generic
-community mental health teams (CMHTs).\ :sup:`(n.d.a),(n.d.b)` Such
-changes have been criticised for moving away from evidence-based
-systems, instead adopting untested models of service delivery, with
-poorer quality care, described in a King's Fund report as ‘a leap in the
-dark’.\ :sup:`(n.d.c)` In some cases new services have adopted a
-flexible ACT (FACT) model, with people able to access intensive support
-delivered in the community using a team case-load and ACT principles, as
-and when they require it.\ :sup:`(n.d.d),(n.d.e)` In this model, care
-coordinators manage individual case-loads, but also work together to
-provide shared care for people at times of increased need, enabling
-seamless transition between high- and low-intensity care.
+community mental health teams (CMHTs).\ :sup:`1,2` Such changes have
+been criticised for moving away from evidence-based systems, instead
+adopting untested models of service delivery, with poorer quality care,
+described in a King's Fund report as ‘a leap in the dark’.\ :sup:`3` In
+some cases new services have adopted a flexible ACT (FACT) model, with
+people able to access intensive support delivered in the community using
+a team case-load and ACT principles, as and when they require
+it.\ :sup:`4,5` In this model, care coordinators manage individual
+case-loads, but also work together to provide shared care for people at
+times of increased need, enabling seamless transition between high- and
+low-intensity care.
 
 An observational study in the UK has not shown negative effects in
 people previously supported by ACT teams in terms of hospital admissions
 or need for crisis resolution home treatment team (CRHT)
-interventions.\ :sup:`(n.d.f),(n.d.g)` However, there have been no UK
-studies assessing whether there could be advantages for people
-previously supported by a CMHT but now receiving FACT. It might be
-expected that some people who have not previously had access to periods
-of more intensive support within the CMHT could benefit from the FACT
-approach, perhaps with a reduced need to have interventions from a CRHT
-or hospital admission.
+interventions.\ :sup:`6,7` However, there have been no UK studies
+assessing whether there could be advantages for people previously
+supported by a CMHT but now receiving FACT. It might be expected that
+some people who have not previously had access to periods of more
+intensive support within the CMHT could benefit from the FACT approach,
+perhaps with a reduced need to have interventions from a CRHT or
+hospital admission.
 
 .. _S1:
 
@@ -67,18 +69,18 @@ Method
 
 In South Warwickshire there had previously been a single,
 well-established ACT team, with outcome data over a 10-year period
-showing a reduced need for time in hospital.\ :sup:`(n.d.h)` The area
-was also served by three generic CMHTs and a single early intervention
-team. The early intervention services were maintained, whereas each of
-the three CMHTs was divided into a team for people with a history of
-psychosis (recovery teams) and a team for people with other non-organic
-mental disorders. At the same time they became ‘age-independent’, with
-no upper age limit. The previous ACT team was disbanded and merged into
-the new recovery teams, which were configured to deliver services using
-the FACT model. A few months prior to the changes, the ACT team had
-absorbed a community rehabilitation team and therefore fidelity to the
-original ACT model had reduced. Characteristics of the ACT, CMHT and
-FACT teams are shown in `Table 1 <#T1>`__.
+showing a reduced need for time in hospital.\ :sup:`8` The area was also
+served by three generic CMHTs and a single early intervention team. The
+early intervention services were maintained, whereas each of the three
+CMHTs was divided into a team for people with a history of psychosis
+(recovery teams) and a team for people with other non-organic mental
+disorders. At the same time they became ‘age-independent’, with no upper
+age limit. The previous ACT team was disbanded and merged into the new
+recovery teams, which were configured to deliver services using the FACT
+model. A few months prior to the changes, the ACT team had absorbed a
+community rehabilitation team and therefore fidelity to the original ACT
+model had reduced. Characteristics of the ACT, CMHT and FACT teams are
+shown in `Table 1 <#T1>`__.
 
 .. container:: table-wrap
    :name: T1
@@ -194,20 +196,19 @@ the CMHTs. Results were analysed separately for these two groups. Tests
 of significance between the old systems and the new FACT service were
 carried out using 2-tailed paired *t*-tests or, when data were skewed,
 using the Wilcoxon signed rank test. A Monte Carlo permutation test, as
-described by Good\ :sup:`(n.d.i)` and derived from
-Fisher,\ :sup:`(n.d.j)` was used when there was no standard statistical
-method available, such as to compare partially paired data. This type of
-testing gives a *P*-value directly (much like Fisher's exact test)
-without an intermediary test statistic such as a *t*-value. To keep the
-false detection rate (i.e. the overall type 1 error) low at 0.05 on
-account of multiple testing, we used the
-Benjamini-Hochberg\ :sup:`(n.d.k)` correction, which gave a significance
-level alpha of 0.0288. This means that *P*-values of less than 0.0288
-are significant. Where a significant difference was observed in one
-group but not in the other, *post hoc* power calculations were carried
-out in order to check for any potential type 2 errors. Demographic and
-clinical characteristics of people from the two legacy teams are shown
-in `Table 2 <#T2>`__.
+described by Good\ :sup:`9` and derived from Fisher,\ :sup:`10` was used
+when there was no standard statistical method available, such as to
+compare partially paired data. This type of testing gives a *P*-value
+directly (much like Fisher's exact test) without an intermediary test
+statistic such as a *t*-value. To keep the false detection rate (i.e.
+the overall type 1 error) low at 0.05 on account of multiple testing, we
+used the Benjamini-Hochberg\ :sup:`11` correction, which gave a
+significance level alpha of 0.0288. This means that *P*-values of less
+than 0.0288 are significant. Where a significant difference was observed
+in one group but not in the other, *post hoc* power calculations were
+carried out in order to check for any potential type 2 errors.
+Demographic and clinical characteristics of people from the two legacy
+teams are shown in `Table 2 <#T2>`__.
 
 .. container:: table-wrap
    :name: T2
@@ -248,19 +249,19 @@ contacts with a member of the new FACT team reduced from 1.16 to 0.69
 per week, with a corresponding reduction in mean duration of contacts
 from 65 to 38 minutes per person. These differences were statistically
 significant and are of similar magnitude to the changes observed in the
-other UK study of FACT.\ :sup:`(n.d.f),(n.d.g)` The number of contacts
-by support workers was not significantly different (0.25 compared with
-0.29), but the proportion increased from 22 to 43%. In other words, the
-reduction of face-to-face contacts in the new FACT system for people
-previously in the ACT team was a result of less involvement of qualified
-staff. The number of community-based contacts reduced significantly in
-the new service, but the proportion was greater, indicating that,
-overall, more contacts had been lost in clinic settings compared with
-those in the community. For people previously with a CMHT there was very
-little difference in number and duration of contacts when the service
-adopted the FACT model. However, there was greater use of support
-workers and more contacts were in community settings, consistent with
-the principles of the FACT model (`Table 3 <#T3>`__).
+other UK study of FACT.\ :sup:`6,7` The number of contacts by support
+workers was not significantly different (0.25 compared with 0.29), but
+the proportion increased from 22 to 43%. In other words, the reduction
+of face-to-face contacts in the new FACT system for people previously in
+the ACT team was a result of less involvement of qualified staff. The
+number of community-based contacts reduced significantly in the new
+service, but the proportion was greater, indicating that, overall, more
+contacts had been lost in clinic settings compared with those in the
+community. For people previously with a CMHT there was very little
+difference in number and duration of contacts when the service adopted
+the FACT model. However, there was greater use of support workers and
+more contacts were in community settings, consistent with the principles
+of the FACT model (`Table 3 <#T3>`__).
 
 .. container:: table-wrap
    :name: T3
@@ -440,14 +441,14 @@ these people experienced less than half the number of face-to-face
 interventions with the CRHT than when they were with a CMHT, which was
 statistically significant. This is consistent with the FACT philosophy
 of enabling people to seamlessly move to a high-intensity team approach
-at times of increased need.\ :sup:`(n.d.l)` Hence, it is possible that
-during periods of crisis, people were able to receive intensive
-community support within the FACT team, reducing the need for transfer
-to the CRHT. Similarly, the reductions in bed use would be consistent
-with the ability of the FACT model to support people at times of crisis
-with less need for admission. There were no changes in background bed
-availability in the services that would provide an alternative
-explanation for these reductions.
+at times of increased need.\ :sup:`12` Hence, it is possible that during
+periods of crisis, people were able to receive intensive community
+support within the FACT team, reducing the need for transfer to the
+CRHT. Similarly, the reductions in bed use would be consistent with the
+ability of the FACT model to support people at times of crisis with less
+need for admission. There were no changes in background bed availability
+in the services that would provide an alternative explanation for these
+reductions.
 
 .. _S7:
 
@@ -456,23 +457,23 @@ People previously with the ACT team
 
 The other UK evaluation of FACT considered 112 people who had previously
 been with an ACT service, comparing their hospital and CRHT use before
-and after the change,\ :sup:`(n.d.f),(n.d.g)` but without an appraisal
-of the impact of people going to FACT from a CMHT. Our findings for
-people who had previously been supported by the ACT team were similar,
-with no evidence of adverse consequences in terms of increased need for
-admission or increased crisis home treatment team contact in the first
-year. This was despite a considerable reduction in face-to-face support
-from mental health services. In fact, bed use was reduced, but not
-significantly, although this has to be interpreted with caution and may
-not be clinically meaningful as the number of people admitted during the
-study period was very low.
+and after the change,\ :sup:`6,7` but without an appraisal of the impact
+of people going to FACT from a CMHT. Our findings for people who had
+previously been supported by the ACT team were similar, with no evidence
+of adverse consequences in terms of increased need for admission or
+increased crisis home treatment team contact in the first year. This was
+despite a considerable reduction in face-to-face support from mental
+health services. In fact, bed use was reduced, but not significantly,
+although this has to be interpreted with caution and may not be
+clinically meaningful as the number of people admitted during the study
+period was very low.
 
 A possible explanation for this is that a FACT approach could be a more
 efficient model than ACT because people only receive high-intensity
 team-based interventions at times of need, freeing up resources for
 those who most need them. However, our previous follow-up study of the
-ACT population in South Warwickshire\ :sup:`(n.d.h)` showed that most
-people, once they had been with the service for 5 years, reverted to a
+ACT population in South Warwickshire\ :sup:`8` showed that most people,
+once they had been with the service for 5 years, reverted to a
 relatively low level of bed use. The average time with the ACT team had
 been over 6 years, and by the time the services changed most of these
 people were relatively stable. Hence, it might be expected that they
@@ -492,7 +493,7 @@ interpreting the findings as being solely attributable to the FACT
 model. One of the limitations of the observational design is the
 possibility of regression to the mean or background variations which
 could contribute to reduced hospital use or less contact with the CRHT.
-Change point analysis can mitigate against this,\ :sup:`(n.d.m)–(n.d.n)`
+Change point analysis can mitigate against this,\ :sup:`13–15`
 particularly if combined with start points staggered in time in order to
 reduce the effect of wider system changes which might influence results.
 However, because the time period under study was relatively short and
@@ -503,26 +504,25 @@ beyond the scope of our pragmatic evaluation. The pragmatic method was
 limited to routinely collected contact data and did not capture more
 personally meaningful information about satisfaction, social functioning
 and engagement with services, which are known benefits of
-ACT.\ :sup:`(n.d.o)`
+ACT.\ :sup:`16`
 
 ACT teams have had varying levels of success in terms of achieving
-fidelity to the model.\ :sup:`(n.d.p)` Without the use of an objective
+fidelity to the model.\ :sup:`17` Without the use of an objective
 measure, such as the Dartmouth Assertive Community Treatment Scale
-(DACTS),\ :sup:`(n.d.q)` it is not possible to know with certainty the
-degree to which the South Warwickshire team was practising according to
-the ACT principles. Although previous DACTS measures taken several years
-earlier had shown high fidelity, this had been eroded with less use of
-shared case-loads and lower staff to patient ratios. Hence, the
-observations about the outcome for people who had been with the ACT team
-cannot be extrapolated with certainty to other ACT teams with higher
-fidelity. This argument also applies to the Firn
-studies\ :sup:`(n.d.f),(n.d.g)` of dismantling ACT teams, which failed
-to measure ACT fidelity. Although a FACT fidelity scale is available
-(from The Netherlands),\ :sup:`(n.d.l)` this has never been validated in
-a UK setting. As Dutch FACT teams also undertake the role of a 24-hour
-crisis home treatment service, it would not be meaningful to use this
-scale with a service in the UK, where this function is provided by
-separate teams.
+(DACTS),\ :sup:`18` it is not possible to know with certainty the degree
+to which the South Warwickshire team was practising according to the ACT
+principles. Although previous DACTS measures taken several years earlier
+had shown high fidelity, this had been eroded with less use of shared
+case-loads and lower staff to patient ratios. Hence, the observations
+about the outcome for people who had been with the ACT team cannot be
+extrapolated with certainty to other ACT teams with higher fidelity.
+This argument also applies to the Firn studies\ :sup:`6,7` of
+dismantling ACT teams, which failed to measure ACT fidelity. Although a
+FACT fidelity scale is available (from The Netherlands),\ :sup:`12` this
+has never been validated in a UK setting. As Dutch FACT teams also
+undertake the role of a 24-hour crisis home treatment service, it would
+not be meaningful to use this scale with a service in the UK, where this
+function is provided by separate teams.
 
 .. _S9:
 
@@ -545,94 +545,6 @@ disband ACT services, there would be value in configuring new teams
 according to the FACT model, which appears to be a safe alternative in
 the short term for people who have been with an ACT team for several
 years.
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-R1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-R2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-R3
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-R4
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-R5
-
-      n.d.e.
-
-   .. container:: csl-entry
-      :name: ref-R6
-
-      n.d.f.
-
-   .. container:: csl-entry
-      :name: ref-R7
-
-      n.d.g.
-
-   .. container:: csl-entry
-      :name: ref-R8
-
-      n.d.h.
-
-   .. container:: csl-entry
-      :name: ref-R9
-
-      n.d.i.
-
-   .. container:: csl-entry
-      :name: ref-R10
-
-      n.d.j.
-
-   .. container:: csl-entry
-      :name: ref-R11
-
-      n.d.k.
-
-   .. container:: csl-entry
-      :name: ref-R12
-
-      n.d.l.
-
-   .. container:: csl-entry
-      :name: ref-R13
-
-      n.d.m.
-
-   .. container:: csl-entry
-      :name: ref-R15
-
-      n.d.n.
-
-   .. container:: csl-entry
-      :name: ref-R16
-
-      n.d.o.
-
-   .. container:: csl-entry
-      :name: ref-R17
-
-      n.d.p.
-
-   .. container:: csl-entry
-      :name: ref-R18
-
-      n.d.q.
 
 .. [1]
    **Loopinder Sood**, Associate Specialist, **Andy Owen**, Consultant

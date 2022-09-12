@@ -2,6 +2,8 @@
 A guide to a new short course to promote interest and engagement in psychiatry in medical students
 ==================================================================================================
 
+
+
 Matthew Langley
 Benjamin Lomas
 Zena Schofield
@@ -28,16 +30,15 @@ Gillian DoodyCorrespondence to Gillian Doody
 
 Psychiatry is one of several medical specialties undergoing a crisis in
 recruitment, with a 15% shortfall in core trainee (CT1) allocations year
-by year.\ :sup:`(n.d.a)` The Royal College of Psychiatrists is seeking
-to address this deficit by engaging with students before, during and
-after medical school,\ :sup:`(n.d.b)` with recommendations for
-interventions at each level. One such intervention is the provision of
-student selected components (SSCs) in psychiatry. In this paper, we
-discuss our experience of developing and delivering an innovative
-optional module for second-year medical students studying for the
-Bachelor of Medical Sciences (BMedSci) degree at the University of
-Nottingham and the impact this had on their attitudes towards
-psychiatry.
+by year.\ :sup:`1` The Royal College of Psychiatrists is seeking to
+address this deficit by engaging with students before, during and after
+medical school,\ :sup:`2` with recommendations for interventions at each
+level. One such intervention is the provision of student selected
+components (SSCs) in psychiatry. In this paper, we discuss our
+experience of developing and delivering an innovative optional module
+for second-year medical students studying for the Bachelor of Medical
+Sciences (BMedSci) degree at the University of Nottingham and the impact
+this had on their attitudes towards psychiatry.
 
 .. _S1:
 
@@ -71,14 +72,13 @@ Health Business Elite) were searched using all combinations of the terms
 ‘psychiatry’, ‘student selected component’, ‘special study module’,
 ‘SSC’ and ‘SSM’. This search yielded 21 results and, after removal of
 duplicates, review of the abstracts identified 4 articles of particular
-interest. Brown *et al*'s\ :sup:`(n.d.c)` survey of Scottish
-psychiatrists supported our view that engaging medical students early in
-their training was important for promoting positive attitudes towards
+interest. Brown *et al*'s\ :sup:`3` survey of Scottish psychiatrists
+supported our view that engaging medical students early in their
+training was important for promoting positive attitudes towards
 psychiatry. We also found three published examples of SSCs/SSMs in
 psychiatry. One of these was a 3-week SSC at Hull York Medical School on
-mental health and the arts.\ :sup:`(n.d.d)` The other two were both SSMs
-looking at the representation of mental illness in
-films.\ :sup:`(n.d.e),(n.d.f)`
+mental health and the arts.\ :sup:`4` The other two were both SSMs
+looking at the representation of mental illness in films.\ :sup:`5,6`
 
 Some parts of our design were influenced by these reports. For example,
 we included short examples from films and other popular media in our
@@ -127,7 +127,7 @@ Seminar 1: History of psychiatry
 
 An assumption was made that students' prior knowledge was comparable to
 a member of the public's and therefore likely to be influenced by
-popular media portrayals of mental illness\ :sup:`(n.d.g)` or personal
+popular media portrayals of mental illness\ :sup:`7` or personal
 experience involving themselves, friends or relatives.
 
 The session begins with students having to define the job descriptions
@@ -178,16 +178,16 @@ establish the nature of the symptoms of psychosis.
 
 To enable students to develop an experiential insight into
 schizophrenia, we attempted to simulate a psychotic symptom. There is an
-existing body of literature to support this approach.\ :sup:`(n.d.h)`
-The experience of an auditory hallucination is simulated for the
-students by listening to an audio file played on their own mobile phones
-or other devices via headphones. The scripts were based on patients'
-descriptions of their auditory hallucinations and then anonymised. The
-hallucinations were voiced by members of the teaching team, recorded and
-mixed together. The audio file was distributed to students via the
-Moodle virtual learning environment (https://moodle.org) with
-instructions to bring it to the relevant session on a device with
-headphones attached, having not yet listened to it.
+existing body of literature to support this approach.\ :sup:`8` The
+experience of an auditory hallucination is simulated for the students by
+listening to an audio file played on their own mobile phones or other
+devices via headphones. The scripts were based on patients' descriptions
+of their auditory hallucinations and then anonymised. The hallucinations
+were voiced by members of the teaching team, recorded and mixed
+together. The audio file was distributed to students via the Moodle
+virtual learning environment (https://moodle.org) with instructions to
+bring it to the relevant session on a device with headphones attached,
+having not yet listened to it.
 
 The pressure to perform well academically in medical students is well
 known, as is their competitive nature. A quick-to-administer
@@ -221,12 +221,11 @@ reminding the students of the biological basis of the physiological
 changes that occur in anxiety.
 
 To further illustrate the concepts included in the broad area of
-neurosis, video clips of characters from *Winnie the
-Pooh*\ :sup:`(n.d.i)` are then shown and discussed in the group. This
-illustrates how disorders can be identified (e.g. depressive disorder in
-Eeyore, anxiety disorder in Piglet) and the importance of having a
-structured means of drawing the line between the normal and the
-pathological.
+neurosis, video clips of characters from *Winnie the Pooh*\ :sup:`9` are
+then shown and discussed in the group. This illustrates how disorders
+can be identified (e.g. depressive disorder in Eeyore, anxiety disorder
+in Piglet) and the importance of having a structured means of drawing
+the line between the normal and the pathological.
 
 It was considered important that issues of suicide and risk assessment
 are discussed. To facilitate this, examples of famous people who have
@@ -318,11 +317,11 @@ school and is available for future groups to see online.
 The student experience
 ======================
 
-The Attitudes to Psychiatry (ATP) questionnaire\ :sup:`(n.d.j)` and a
-bespoke questionnaire to obtain qualitative and quantitative feedback on
-the creative assessment and the role of reflection in medical training
-were completed by students both before and after the course. There were
-no statistically significant differences in attitudes to psychiatry
+The Attitudes to Psychiatry (ATP) questionnaire\ :sup:`10` and a bespoke
+questionnaire to obtain qualitative and quantitative feedback on the
+creative assessment and the role of reflection in medical training were
+completed by students both before and after the course. There were no
+statistically significant differences in attitudes to psychiatry
 question items before and after the course. There were 11 students who
 completed the ATP before the module and 10 who completed it at the end
 of the module. When individual statements were examined using
@@ -446,59 +445,6 @@ assessment tool has face validity. We would encourage all psychiatrists
 in medical education to reflect on how we can make changes to improve
 recruitment of appropriately skilled doctors to psychiatry and present
 this module as one suggestion.
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-R1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-R2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-R3
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-R4
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-R5
-
-      n.d.e.
-
-   .. container:: csl-entry
-      :name: ref-R6
-
-      n.d.f.
-
-   .. container:: csl-entry
-      :name: ref-R7
-
-      n.d.g.
-
-   .. container:: csl-entry
-      :name: ref-R8
-
-      n.d.h.
-
-   .. container:: csl-entry
-      :name: ref-R9
-
-      n.d.i.
-
-   .. container:: csl-entry
-      :name: ref-R10
-
-      n.d.j.
 
 .. [1]
    **Matthew Langley** is a specialist trainee in psychiatry

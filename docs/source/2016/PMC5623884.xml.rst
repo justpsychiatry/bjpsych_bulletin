@@ -2,6 +2,8 @@
 Mental capacity legislation in the UK: systematic review of the experiences of adults lacking capacity and their carers
 =======================================================================================================================
 
+
+
 Sam WilsonCorrespondence to Sam Wilson (samuel.wilson1@nhs.net)  [1]_
 :Date: 2017-10
 
@@ -31,30 +33,28 @@ Sam WilsonCorrespondence to Sam Wilson (samuel.wilson1@nhs.net)  [1]_
 ..
 
 In law, mental capacity is the ability to make decisions, and it relies
-on a number of attributes such as comprehension and
-reasoning.\ :sup:`(n.d.a)` Capacity legislation exists to allow legally
-valid decisions to be made about finances, welfare or medical treatment
-where the individual lacks mental capacity In Scotland this legislation
-exists as the Adults with Incapacity (Scotland) Act 2000 (AWIA) and in
-England and Wales as the Mental Capacity Act 2005 (MCA). Northern
-Ireland has recently adopted the Mental Capacity Act (Northern Ireland)
-2016.
+on a number of attributes such as comprehension and reasoning.\ :sup:`1`
+Capacity legislation exists to allow legally valid decisions to be made
+about finances, welfare or medical treatment where the individual lacks
+mental capacity In Scotland this legislation exists as the Adults with
+Incapacity (Scotland) Act 2000 (AWIA) and in England and Wales as the
+Mental Capacity Act 2005 (MCA). Northern Ireland has recently adopted
+the Mental Capacity Act (Northern Ireland) 2016.
 
 Prior to the introduction of legislation, English capacity law was
 criticised by the Law Commission as being unsystematic and out of step
-with disability rights.\ :sup:`(n.d.b)` The Scottish Law Commission
-described Scottish capacity law as fragmented and
-archaic.\ :sup:`(n.d.c)` The AWIA and the MCA were introduced to reform
-capacity law, and are similar in many respects. They set out principles
-which aim to promote the rights of adults who lack capacity, and create
-mechanisms to allow substitute decision-making, a process whereby
-another individual has the legal power to make decisions on the disabled
-adult's behalf. The MCA has a specific ‘best interests’ process, which
-allows some decisions to be made without court proceedings, whereas
-there is no equivalent process in the AWIA. The Northern Irish
-legislation mirrors the MCA in many regards. The terminology varies
-between jurisdictions, for example, guardianship in the AWIA is similar
-to deputyship in the MCA.
+with disability rights.\ :sup:`2` The Scottish Law Commission described
+Scottish capacity law as fragmented and archaic.\ :sup:`3` The AWIA and
+the MCA were introduced to reform capacity law, and are similar in many
+respects. They set out principles which aim to promote the rights of
+adults who lack capacity, and create mechanisms to allow substitute
+decision-making, a process whereby another individual has the legal
+power to make decisions on the disabled adult's behalf. The MCA has a
+specific ‘best interests’ process, which allows some decisions to be
+made without court proceedings, whereas there is no equivalent process
+in the AWIA. The Northern Irish legislation mirrors the MCA in many
+regards. The terminology varies between jurisdictions, for example,
+guardianship in the AWIA is similar to deputyship in the MCA.
 
 A number of studies have explored the experiences of adults lacking
 capacity and their carers in relation to the legislation, and this
@@ -68,14 +68,13 @@ Method
 This review systematically appraised the research evidence exploring how
 adults lacking capacity and their carers experienced capacity
 legislation. It followed the Centre for Reviews and Dissemination
-guideline.\ :sup:`(n.d.d)` The process is summarised in `Fig.
-1 <#F1>`__. All experiences related to the AWIA and the MCA were
-considered of interest, from everyday decision-making to perceptions of
-court proceedings and their outcomes. There was no research relating to
-the Northern Irish legislation, because the review was undertaken prior
-to its adoption. In this review, ‘carers’ included family and
-professional carers who made substitute decisions in a day-to-day caring
-role.
+guideline.\ :sup:`4` The process is summarised in `Fig. 1 <#F1>`__. All
+experiences related to the AWIA and the MCA were considered of interest,
+from everyday decision-making to perceptions of court proceedings and
+their outcomes. There was no research relating to the Northern Irish
+legislation, because the review was undertaken prior to its adoption. In
+this review, ‘carers’ included family and professional carers who made
+substitute decisions in a day-to-day caring role.
 
 .. figure:: 261f1
    :alt: Flow chart of study selection process.
@@ -120,22 +119,22 @@ the abstract whether the paper should be included. The remaining papers
 were read once to exclude irrelevant papers from the final sample.
 
 Quality assessment was carried out using the Multi-Methods Appraisal
-Tool (MMAT),\ :sup:`(n.d.e)` which was selected because it offered the
-ability to assess the quality of all the various types of studies in the
-sample. It consisted of screening questions followed by questions for
+Tool (MMAT),\ :sup:`5` which was selected because it offered the ability
+to assess the quality of all the various types of studies in the sample.
+It consisted of screening questions followed by questions for
 quantitative, qualitative and mixed-methods studies. No studies were
 excluded from the final sample because of low quality.
 
 This review followed guidance that items should be regarded as data for
 secondary research only if they were described as results or findings in
-the primary research.\ :sup:`(n.d.f)` A data extraction form was
-developed during a reading of the final sample papers. The data
-extraction form consisted of headings taken from the results sections of
-the final sample papers. Results from each study were then extracted if
-they were relevant to any heading on the data extraction form. Analysis
-used a framework method\ :sup:`(n.d.g)` with a matrix consisting of each
-study along the x-axis and each heading from the data extraction form
-along the y-axis.
+the primary research.\ :sup:`6` A data extraction form was developed
+during a reading of the final sample papers. The data extraction form
+consisted of headings taken from the results sections of the final
+sample papers. Results from each study were then extracted if they were
+relevant to any heading on the data extraction form. Analysis used a
+framework method\ :sup:`7` with a matrix consisting of each study along
+the x-axis and each heading from the data extraction form along the
+y-axis.
 
 .. _S2:
 
@@ -164,84 +163,83 @@ their results clearly but failed to report important information.
    |                 |      |                 | journal?      | score |
    +=================+======+=================+===============+=======+
    | Badger          | MCA  | Multiple        | No            | 3/4   |
-   | (2009)\         |      | qualitative     |               |       |
-   |  :sup:`(n.d.h)` |      | methods         |               |       |
+   | (               |      | qualitative     |               |       |
+   | 2009)\ :sup:`8` |      | methods         |               |       |
    +-----------------+------+-----------------+---------------+-------+
    |                 |      |                 |               |       |
    +-----------------+------+-----------------+---------------+-------+
    | Badger &        | MCA  | Multiple        | No            | 2/4   |
    | Parnell         |      | qualitative     |               |       |
-   | (2009)\         |      | methods         |               |       |
-   |  :sup:`(n.d.i)` |      |                 |               |       |
+   | (               |      | methods         |               |       |
+   | 2009)\ :sup:`9` |      |                 |               |       |
    +-----------------+------+-----------------+---------------+-------+
    |                 |      |                 |               |       |
    +-----------------+------+-----------------+---------------+-------+
    | Jevon           | AWIA | Quantitative    | No            | 2/4   |
-   | (2014)\         |      | survey          |               |       |
-   |  :sup:`(n.d.j)` |      |                 |               |       |
+   | (2              |      | survey          |               |       |
+   | 014)\ :sup:`10` |      |                 |               |       |
    +-----------------+------+-----------------+---------------+-------+
    |                 |      |                 |               |       |
    +-----------------+------+-----------------+---------------+-------+
    | Jingree         | MCA  | Qualitative     | Yes           | 4/4   |
-   | (2015)\         |      | interviews      |               |       |
-   |  :sup:`(n.d.k)` |      |                 |               |       |
+   | (2              |      | interviews      |               |       |
+   | 015)\ :sup:`11` |      |                 |               |       |
    +-----------------+------+-----------------+---------------+-------+
    |                 |      |                 |               |       |
    +-----------------+------+-----------------+---------------+-------+
    | Killeen & Myers | AWIA | Mixed-methods – | No            | 2/4   |
    | (2004) Ch.      |      | quantitative    |               |       |
-   | 4\              |      | survey and      |               |       |
-   |  :sup:`(n.d.l)` |      | qualitative     |               |       |
+   | 4\ :sup:`12`    |      | survey and      |               |       |
+   |                 |      | qualitative     |               |       |
    |                 |      | interviews      |               |       |
    +-----------------+------+-----------------+---------------+-------+
    |                 |      |                 |               |       |
    +-----------------+------+-----------------+---------------+-------+
    | Killeen & Myers | AWIA | Qualitative     | No            | 2/4   |
    | (2004) Ch.      |      | interviews      |               |       |
-   | 5\              |      |                 |               |       |
-   |  :sup:`(n.d.m)` |      |                 |               |       |
+   | 5\ :sup:`13`    |      |                 |               |       |
    +-----------------+------+-----------------+---------------+-------+
    |                 |      |                 |               |       |
    +-----------------+------+-----------------+---------------+-------+
    | Manthorpe *et   | MCA  | Qualitative     | Yes           | 4/4   |
    | al*             |      | interviews      |               |       |
-   | (2012)\         |      |                 |               |       |
-   |  :sup:`(n.d.n)` |      |                 |               |       |
+   | (2              |      |                 |               |       |
+   | 012)\ :sup:`14` |      |                 |               |       |
    +-----------------+------+-----------------+---------------+-------+
    |                 |      |                 |               |       |
    +-----------------+------+-----------------+---------------+-------+
    | Mental Welfare  | AWIA | Qualitative     | No            | 2/4   |
    | Commission      |      | interviews      |               |       |
-   | (2011)\         |      |                 |               |       |
-   |  :sup:`(n.d.o)` |      |                 |               |       |
+   | (2              |      |                 |               |       |
+   | 011)\ :sup:`15` |      |                 |               |       |
    +-----------------+------+-----------------+---------------+-------+
    |                 |      |                 |               |       |
    +-----------------+------+-----------------+---------------+-------+
    | Myron *et al*   | MCA  | Mixed-methods – | No            | 1/4   |
-   | (2008)\         |      | questionnaires  |               |       |
-   |  :sup:`(n.d.p)` |      | and qualitative |               |       |
+   | (2              |      | questionnaires  |               |       |
+   | 008)\ :sup:`16` |      | and qualitative |               |       |
    |                 |      | interviews      |               |       |
    +-----------------+------+-----------------+---------------+-------+
    |                 |      |                 |               |       |
    +-----------------+------+-----------------+---------------+-------+
    | Samsi &         | MCA  | Qualitative     | Yes           | 4/4   |
    | Manthorpe       |      | interviews      |               |       |
-   | (2011)\         |      |                 |               |       |
-   |  :sup:`(n.d.q)` |      |                 |               |       |
+   | (2              |      |                 |               |       |
+   | 011)\ :sup:`17` |      |                 |               |       |
    +-----------------+------+-----------------+---------------+-------+
    |                 |      |                 |               |       |
    +-----------------+------+-----------------+---------------+-------+
    | Samsi &         | MCA  | Qualitative     | Yes           | 4/4   |
    | Manthorpe       |      | interviews      |               |       |
-   | (2013)\         |      |                 |               |       |
-   |  :sup:`(n.d.r)` |      |                 |               |       |
+   | (2              |      |                 |               |       |
+   | 013)\ :sup:`18` |      |                 |               |       |
    +-----------------+------+-----------------+---------------+-------+
    |                 |      |                 |               |       |
    +-----------------+------+-----------------+---------------+-------+
    | Williams *et    | MCA  | Mixed-methods – | No            | 2/4   |
    | al*             |      | quantitative    |               |       |
-   | (2012)\         |      | survey and      |               |       |
-   |  :sup:`(n.d.s)` |      | qualitative     |               |       |
+   | (2              |      | survey and      |               |       |
+   | 012)\ :sup:`19` |      | qualitative     |               |       |
    |                 |      | interviews      |               |       |
    +-----------------+------+-----------------+---------------+-------+
 
@@ -270,8 +268,8 @@ and MCA could be made.
    |              |      |              | context      |              |
    +==============+======+==============+==============+==============+
    | Badger       | MCA  | Explore      | Intellectual | 27           |
-   | (2009)\ :s   |      | dec          | disability   | p            |
-   | up:`(n.d.h)` |      | ision-making |              | articipants: |
+   | (200         |      | dec          | disability   | p            |
+   | 9)\ :sup:`8` |      | ision-making |              | articipants: |
    |              |      |              |              | 2 staff and  |
    |              |      |              |              | 1 family     |
    |              |      |              |              | member for   |
@@ -290,8 +288,8 @@ and MCA could be made.
    +--------------+------+--------------+--------------+--------------+
    | Badger &     | MCA  | Explore      | Not          | 24           |
    | Parnell      |      | dec          | described    | p            |
-   | (2009)\ :s   |      | ision-making |              | articipants: |
-   | up:`(n.d.i)` |      |              |              | 6 disabled   |
+   | (200         |      | ision-making |              | articipants: |
+   | 9)\ :sup:`9` |      |              |              | 6 disabled   |
    |              |      |              |              | adults with  |
    |              |      |              |              | 2 staff      |
    |              |      |              |              | and 1 family |
@@ -301,16 +299,16 @@ and MCA could be made.
    |              |      |              |              |              |
    +--------------+------+--------------+--------------+--------------+
    | Jevon        | AWIA | Assess       | Not          | 193 welfare  |
-   | (2014)\ :s   |      | experiences  | described    | guardians    |
-   | up:`(n.d.j)` |      | of guardians |              | (27%         |
+   | (2014        |      | experiences  | described    | guardians    |
+   | )\ :sup:`10` |      | of guardians |              | (27%         |
    |              |      |              |              | response     |
    |              |      |              |              | rate)        |
    +--------------+------+--------------+--------------+--------------+
    |              |      |              |              |              |
    +--------------+------+--------------+--------------+--------------+
    | Jingree      | MCA  | Explore      | Intellectual | 15 support   |
-   | (2015)\ :s   |      | dec          | disability   | workers from |
-   | up:`(n.d.k)` |      | ision-making |              | a single     |
+   | (2015        |      | dec          | disability   | workers from |
+   | )\ :sup:`11` |      | ision-making |              | a single     |
    |              |      |              |              | service      |
    +--------------+------+--------------+--------------+--------------+
    |              |      |              |              |              |
@@ -318,8 +316,8 @@ and MCA could be made.
    | Killeen &    | AWIA | Explore      | General      | 3            |
    | Myers        |      | power of     | public       | individuals  |
    | (2004) Ch.   |      | attorney and |              | who had made |
-   | 4\ :s        |      | intromission |              | a power of   |
-   | up:`(n.d.l)` |      | with funds   |              | attorney     |
+   | 4\ :sup:`12` |      | intromission |              | a power of   |
+   |              |      | with funds   |              | attorney     |
    |              |      |              |              | and 5        |
    |              |      |              |              | individuals  |
    |              |      |              |              | who had      |
@@ -334,8 +332,8 @@ and MCA could be made.
    | Killeen &    | AWIA | Understand   | Mixed        | 58           |
    | Myers        |      | the          |              | pr           |
    | (2004) Ch.   |      | operation of |              | ofessionals, |
-   | 5\ :s        |      | guardianship |              | carers, and  |
-   | up:`(n.d.m)` |      |              |              | adults with  |
+   | 5\ :sup:`13` |      | guardianship |              | carers, and  |
+   |              |      |              |              | adults with  |
    |              |      |              |              | incapacity   |
    |              |      |              |              | involved in  |
    |              |      |              |              | 13           |
@@ -349,8 +347,8 @@ and MCA could be made.
    +--------------+------+--------------+--------------+--------------+
    | Manthorpe    | MCA  | Assess links | Dementia     | 123          |
    | *et al*      |      | between      |              | p            |
-   | (2012)\ :s   |      | personal and |              | rofessionals |
-   | up:`(n.d.n)` |      | professional |              | (70 of whom  |
+   | (2012        |      | personal and |              | rofessionals |
+   | )\ :sup:`14` |      | professional |              | (70 of whom  |
    |              |      | experiences  |              | had          |
    |              |      | of dementia  |              | experience   |
    |              |      |              |              | as carers)   |
@@ -360,15 +358,15 @@ and MCA could be made.
    | Mental       | AWIA | Assess       | Not          | 58 welfare   |
    | Welfare      |      | experiences  | described    | guardians    |
    | Commission   |      | of guardians |              | (family or   |
-   | (2011)\ :s   |      | and          |              | carer)       |
-   | up:`(n.d.o)` |      | supervisors  |              |              |
+   | (2011        |      | and          |              | carer)       |
+   | )\ :sup:`15` |      | supervisors  |              |              |
    +--------------+------+--------------+--------------+--------------+
    |              |      |              |              |              |
    +--------------+------+--------------+--------------+--------------+
    | Myron        | MCA  | Assess       | Mixed        | 73 staff, 20 |
    | *et al*      |      | staff,       |              | disabled     |
-   | (2008)\ :s   |      | family and   |              | adults, and  |
-   | up:`(n.d.p)` |      | patient      |              | 6 carers     |
+   | (2008        |      | family and   |              | adults, and  |
+   | )\ :sup:`16` |      | patient      |              | 6 carers     |
    |              |      | knowledge    |              |              |
    |              |      | of capacity  |              |              |
    +--------------+------+--------------+--------------+--------------+
@@ -376,8 +374,8 @@ and MCA could be made.
    +--------------+------+--------------+--------------+--------------+
    | Samsi &      | MCA  | Understand   | General      | 37           |
    | Manthorpe    |      | how older    | public       | sel          |
-   | (2011)\ :s   |      | people       |              | f-identified |
-   | up:`(n.d.q)` |      | planned for  |              | ‘well’       |
+   | (2011        |      | people       |              | f-identified |
+   | )\ :sup:`17` |      | planned for  |              | ‘well’       |
    |              |      | their        |              | people aged  |
    |              |      | future       |              | over 50      |
    |              |      |              |              | years        |
@@ -386,8 +384,8 @@ and MCA could be made.
    +--------------+------+--------------+--------------+--------------+
    | Samsi &      | MCA  | Explore      | Dementia     | 12 dementia  |
    | Manthorpe    |      | dec          |              | dyads        |
-   | (2013)\ :s   |      | ision-making |              | (person with |
-   | up:`(n.d.r)` |      |              |              | dementia     |
+   | (2013        |      | ision-making |              | (person with |
+   | )\ :sup:`18` |      |              |              | dementia     |
    |              |      |              |              | plus their   |
    |              |      |              |              | carer)       |
    +--------------+------+--------------+--------------+--------------+
@@ -395,8 +393,8 @@ and MCA could be made.
    +--------------+------+--------------+--------------+--------------+
    | Williams *et | MCA  | Explore      | Mixed        | 385          |
    | al*          |      | dec          |              | p            |
-   | (2012)\ :s   |      | ision-making |              | articipants, |
-   | up:`(n.d.s)` |      |              |              | mostly       |
+   | (2012        |      | ision-making |              | articipants, |
+   | )\ :sup:`19` |      |              |              | mostly       |
    |              |      |              |              | p            |
    |              |      |              |              | rofessionals |
    |              |      |              |              | –            |
@@ -412,7 +410,7 @@ and MCA could be made.
 None of the four studies from Scotland had been published in
 peer-reviewed journals and none received the highest rating of
 methodological quality. Two of these studies were separate pieces of
-research in a single publication.\ :sup:`(n.d.l),(n.d.m)`
+research in a single publication.\ :sup:`12,13`
 
 The findings are summarised in `Table 3 <#T3>`__. For reasons of
 parsimony, the 15 items from the data extraction form were collapsed
@@ -490,29 +488,28 @@ One study from Scotland reported that family carers saw guardianship as
 positive because it offered them the ability to manage their relative's
 welfare and finances. Improved safety and quality of life were described
 in several cases. Half of the six adults with incapacity interviewed in
-this study described improvements in their quality of
-life.\ :sup:`(n.d.m)` In a telephone survey, most guardians stated that
-guardianship was useful, but a minority reported that it made little
-difference, or found it a negative experience.\ :sup:`(n.d.o)` In a
-postal survey of guardians, most of the participants described welfare
-guardianship as being useful, but the response rate (26.7%) in this
-study was low and the result may not represent the experience of
-carers.\ :sup:`(n.d.j)` Those who had made a power of attorney or who
-had made a successful application for intromission with funds saw the
-process as a positive experience. However, there were only a total of
-eight participants in this mixed-methods study.\ :sup:`(n.d.l)`
+this study described improvements in their quality of life.\ :sup:`13`
+In a telephone survey, most guardians stated that guardianship was
+useful, but a minority reported that it made little difference, or found
+it a negative experience.\ :sup:`15` In a postal survey of guardians,
+most of the participants described welfare guardianship as being useful,
+but the response rate (26.7%) in this study was low and the result may
+not represent the experience of carers.\ :sup:`10` Those who had made a
+power of attorney or who had made a successful application for
+intromission with funds saw the process as a positive experience.
+However, there were only a total of eight participants in this
+mixed-methods study.\ :sup:`12`
 
 Some older members of the general public in England saw potential
 benefits from making a power of attorney, but most described a
 disinclination to plan for the future. Any plans that were made were
 usually of a financial nature. Individuals living alone with no family
 described difficulty in appointing someone to look after their
-affairs.\ :sup:`(n.d.q)` The finding of participants failing to make
-powers of attorney or advance decisions, despite believing in their
-utility, was repeated in a group of professionals who had personal
-experience as carers.\ :sup:`(n.d.n)` Only a minority of elderly people
-made a power of attorney in another study by the same
-researchers.\ :sup:`(n.d.r)`
+affairs.\ :sup:`17` The finding of participants failing to make powers
+of attorney or advance decisions, despite believing in their utility,
+was repeated in a group of professionals who had personal experience as
+carers.\ :sup:`14` Only a minority of elderly people made a power of
+attorney in another study by the same researchers.\ :sup:`18`
 
 .. _S4:
 
@@ -525,28 +522,27 @@ Scotland. The process was described as perplexing and inhibiting for
 carers, and confusing and stressful for adults who lacked capacity. The
 process made some carers feel ‘isolated and under pressure’ and was
 described in negative terms such as ‘a nightmare’ and ‘an enormous waste
-of time’.\ :sup:`(n.d.m)` By contrast, the instruments of the AWIA which
-did not require court proceedings were viewed generally
-positively.\ :sup:`(n.d.l)`
+of time’.\ :sup:`13` By contrast, the instruments of the AWIA which did
+not require court proceedings were viewed generally
+positively.\ :sup:`12`
 
 However, negative experiences were not just restricted to experiences in
 court. A minority of participants in the telephone survey of guardians
 found being a guardian to be a negative experience in
-general.\ :sup:`(n.d.o)` One study of the MCA included five cases of
-best interests decision-making from the point of view of family carers,
-and the experience in each case was described as disempowering and
+general.\ :sup:`15` One study of the MCA included five cases of best
+interests decision-making from the point of view of family carers, and
+the experience in each case was described as disempowering and
 distressing for the carers. No further details were given because the
 carers were not directly interviewed, but this finding contrasted
 markedly with the largely positive views of the MCA expressed by
-professional respondents in the same study.\ :sup:`(n.d.s)`
+professional respondents in the same study.\ :sup:`19`
 
 As well as the cases of carers appearing disempowered, some adults who
 lacked capacity were observed to resent the powers that others held over
-them.\ :sup:`(n.d.m)` However, some carers in Scotland who had gone
-through processes to be formally appointed with decision-making powers
-saw themselves as empowered.\ :sup:`(n.d.l),(n.d.m)` In this review, the
-legislation was perceived as empowering’ for some and disempowering for
-others.
+them.\ :sup:`13` However, some carers in Scotland who had gone through
+processes to be formally appointed with decision-making powers saw
+themselves as empowered.\ :sup:`12,13` In this review, the legislation
+was perceived as empowering’ for some and disempowering for others.
 
 .. _S5:
 
@@ -555,14 +551,14 @@ Decision-making
 
 A qualitative study of support workers found decision-making to be
 inconsistent with the MCA; there was no assumption of capacity, and
-decisions were rarely oriented towards best interests.\ :sup:`(n.d.k)`
-Other support workers described struggling to balance their duties under
-the MCA with duty of care and safeguarding obligations, and stated that
+decisions were rarely oriented towards best interests.\ :sup:`11` Other
+support workers described struggling to balance their duties under the
+MCA with duty of care and safeguarding obligations, and stated that
 limited resources restricted their ability to support decision-making in
-practice.\ :sup:`(n.d.i)` Another group felt that organisational
-policies, the influences of others such as family and professionals, and
-their duty of care restricted their ability to engage the adults in best
-interests decision-making.\ :sup:`(n.d.h)`
+practice.\ :sup:`9` Another group felt that organisational policies, the
+influences of others such as family and professionals, and their duty of
+care restricted their ability to engage the adults in best interests
+decision-making.\ :sup:`8`
 
 Some decision-making was clearly compliant with the general principles
 of the legislation. All 12 carers for individuals with dementia
@@ -574,10 +570,9 @@ participation in decision-making, and used their knowledge of the
 person's previous wishes. However, even these carers described conflicts
 of interest between their needs and those of the adult with incapacity,
 and admitted struggling to decide what constituted best
-interests.\ :sup:`(n.d.r)` The situation was similar in Scotland, with
-carers reporting difficulties assessing the most beneficial course of
-action and understanding the views of the adult with
-incapacity.\ :sup:`(n.d.m)`
+interests.\ :sup:`18` The situation was similar in Scotland, with carers
+reporting difficulties assessing the most beneficial course of action
+and understanding the views of the adult with incapacity.\ :sup:`13`
 
 Overall, it appeared to be the case that immediate carers (whether
 family carers or support workers) sometimes found difficulty in making
@@ -586,7 +581,7 @@ there could be conflicts between the wishes of the adult lacking
 capacity and the priorities of the decision maker. Although the degree
 of engagement with the principles varied between studies, this finding
 was consistent in all the studies which examined this theme, including
-in two of the four highest-quality studies.\ :sup:`(n.d.k),(n.d.r)`
+in two of the four highest-quality studies.\ :sup:`11,18`
 
 .. _S6:
 
@@ -600,18 +595,17 @@ Practical support
 
 Older members of the public in England were generally unaware of
 potential resources to support making powers of attorney or advance
-decisions, and some suggested that this might be
-helpful.\ :sup:`(n.d.q)` Carers described a lack of practical support
-for decision-making for the adult lacking capacity, and some would have
-liked more.\ :sup:`(n.d.r)` In one study, carers could identify
-potential sources of support, but these were generic supports such as
-friends, relatives, general practitioners and social
-services.\ :sup:`(n.d.p)` In Scotland, around 75% of guardians were
-satisfied with the level of supervision and support they had from their
-local authorities.\ :sup:`(n.d.o)` Guardians in another study perceived
+decisions, and some suggested that this might be helpful.\ :sup:`17`
+Carers described a lack of practical support for decision-making for the
+adult lacking capacity, and some would have liked more.\ :sup:`18` In
+one study, carers could identify potential sources of support, but these
+were generic supports such as friends, relatives, general practitioners
+and social services.\ :sup:`16` In Scotland, around 75% of guardians
+were satisfied with the level of supervision and support they had from
+their local authorities.\ :sup:`15` Guardians in another study perceived
 that they received insufficient support but were subject to excessive
-scrutiny.\ :sup:`(n.d.m)` The perception of excessive scrutiny was
-shared by holders of intromission with funds.\ :sup:`(n.d.l)`
+scrutiny.\ :sup:`13` The perception of excessive scrutiny was shared by
+holders of intromission with funds.\ :sup:`12`
 
 .. _S8:
 
@@ -622,22 +616,21 @@ There was a lack of awareness on the part of the general public about
 the legislation. None of the respondents in a study of older members of
 the public in England were aware of the MCA, or that it could
 potentially support their choices for the future, but a few understood
-the nature of a power of attorney.\ :sup:`(n.d.q)` Only 3 of 12
-‘dementia dyads’ (consisting of a person with dementia and their carer)
-had heard of a power of attorney, and only a single pair had utilised
-one.\ :sup:`(n.d.r)` This lack of understanding of the legislation was
+the nature of a power of attorney.\ :sup:`17` Only 3 of 12 ‘dementia
+dyads’ (consisting of a person with dementia and their carer) had heard
+of a power of attorney, and only a single pair had utilised
+one.\ :sup:`18` This lack of understanding of the legislation was
 apparent even where carers had been trained or where they held specific
 powers. Support workers thought that they needed more training in using
-the MCA\ :sup:`(n.d.h),(n.d.p)` and were observed to be unclear about
-some of their duties under the MCA.\ :sup:`(n.d.i)` Guardians in
-Scotland were ignorant of their responsibilities to document the use of
-powers, and were unaware that they could delegate them.\ :sup:`(n.d.o)`
-Some respondents felt that improved sources of information were
-necessary.\ :sup:`(n.d.m)` Organisations caring for disabled adults had
-policies about risk which needed to be revised to comply with the
-principles of the legislation, and education about the MCA was suggested
-not just for professionals, but for adults lacking capacity and family
-carers as well.\ :sup:`(n.d.h)`
+the MCA\ :sup:`8,16` and were observed to be unclear about some of their
+duties under the MCA.\ :sup:`9` Guardians in Scotland were ignorant of
+their responsibilities to document the use of powers, and were unaware
+that they could delegate them.\ :sup:`15` Some respondents felt that
+improved sources of information were necessary.\ :sup:`13` Organisations
+caring for disabled adults had policies about risk which needed to be
+revised to comply with the principles of the legislation, and education
+about the MCA was suggested not just for professionals, but for adults
+lacking capacity and family carers as well.\ :sup:`8`
 
 .. _S9:
 
@@ -647,9 +640,8 @@ Assertiveness of carers
 Those professionals with personal experience of being family carers
 described a necessity for carers to be ‘assertive’ in using the MCA to
 compel health and social services to act in the best interests of the
-adult who lacked capacity.\ :sup:`(n.d.n)` The need for guardians to be
-‘assertive and articulate’ was also described in
-Scotland.\ :sup:`(n.d.m)`
+adult who lacked capacity.\ :sup:`14` The need for guardians to be
+‘assertive and articulate’ was also described in Scotland.\ :sup:`13`
 
 .. _S10:
 
@@ -660,9 +652,9 @@ Data about the reasons for making applications for formal financial or
 welfare powers were only found in studies from Scotland. In a survey of
 guardians, the most common reason described for applying for
 guardianship was a wish for a formal role in the care of the adult with
-incapacity.\ :sup:`(n.d.o)` Carers applied for intromission with funds
+incapacity.\ :sup:`15` Carers applied for intromission with funds
 because they believed that they had no other means of managing the
-person's finances.\ :sup:`(n.d.l)`
+person's finances.\ :sup:`12`
 
 .. _S11:
 
@@ -694,16 +686,15 @@ qualitative data were sought in the process of this review, but most of
 the studies in the final sample used qualitative or mixed methods. The
 lack of quantitative studies presented difficulty in data synthesis,
 because methods for the systematic review of qualitative research are
-not well established.\ :sup:`(n.d.d),(n.d.f)` However, there were
-benefits from utilising qualitative data to answer this review's
-research questions. Qualitative methods were appropriate to answer the
-primary researchers' questions because they are concerned with
-experiences and perceptions,\ :sup:`(n.d.d)` are not reliant on random
-sampling\ :sup:`(n.d.t)` and can draw conclusions from small sample
-sizes.\ :sup:`(n.d.u)` However, this systematic review cannot make
-claims of generalisability because it is based mainly on qualitative
-data, and the prevalence of the experiences described in this review
-cannot be determined.
+not well established.\ :sup:`4,6` However, there were benefits from
+utilising qualitative data to answer this review's research questions.
+Qualitative methods were appropriate to answer the primary researchers'
+questions because they are concerned with experiences and
+perceptions,\ :sup:`4` are not reliant on random sampling\ :sup:`20` and
+can draw conclusions from small sample sizes.\ :sup:`21` However, this
+systematic review cannot make claims of generalisability because it is
+based mainly on qualitative data, and the prevalence of the experiences
+described in this review cannot be determined.
 
 There are other limitations which mean that the findings of this review
 must be treated with caution. This review relied on a single researcher
@@ -734,22 +725,21 @@ including from some adults who lacked capacity. The ability to make
 plans for future incapacity was seen as useful. These positive
 consequences of the AWIA and MCA suggest that the legislation has
 achieved its goals, at least judging by the standards set by the law
-reformers of the 1990s.\ :sup:`(n.d.b),(n.d.c)` However, although a
-detailed discussion of human rights is beyond the scope of this paper,
-it must be acknowledged that the paradigm of disability rights has
-changed since the drafting of these laws; for example, there is pressure
-from the United Nations' Committee on the Rights of Persons with
-Disabilities to replace existing capacity laws with alternative
-approaches which do not utilise substitute decision-making and which
-would allow legal capacity regardless of the level of mental
-impairment.\ :sup:`(n.d.v)` These proposals are based on an
-interpretation of Article 12 of the UN Convention on the Rights of
-Person with Disabilities\ :sup:`(n.d.w)` which has excited
-controversy\ :sup:`(n.d.x)` and been criticised as undermining rather
-than promoting the rights of people with mental
-illnesses.\ :sup:`(n.d.y)` However, if that interpretation of Article 12
-is accepted as authoritative, then key areas of UK capacity legislation
-are incompatible with international law.\ :sup:`(n.d.z)`
+reformers of the 1990s.\ :sup:`2,3` However, although a detailed
+discussion of human rights is beyond the scope of this paper, it must be
+acknowledged that the paradigm of disability rights has changed since
+the drafting of these laws; for example, there is pressure from the
+United Nations' Committee on the Rights of Persons with Disabilities to
+replace existing capacity laws with alternative approaches which do not
+utilise substitute decision-making and which would allow legal capacity
+regardless of the level of mental impairment.\ :sup:`22` These proposals
+are based on an interpretation of Article 12 of the UN Convention on the
+Rights of Person with Disabilities\ :sup:`23` which has excited
+controversy\ :sup:`24` and been criticised as undermining rather than
+promoting the rights of people with mental illnesses.\ :sup:`25`
+However, if that interpretation of Article 12 is accepted as
+authoritative, then key areas of UK capacity legislation are
+incompatible with international law.\ :sup:`26`
 
 In this review, some positive consequences of the AWIA and the MCA were
 mitigated by other findings. Perhaps not unexpectedly, adults lacking
@@ -772,23 +762,23 @@ sometimes unaware of their responsibilities. Decision-making was not
 always fully compliant with the legislative principles. Although some of
 the studies with these findings were conducted shortly after the
 introduction of the legislation when knowledge might be expected to be
-limited,\ :sup:`(n.d.h),(n.d.i),(n.d.p)` other studies continued to
-demonstrate this finding several years later.\ :sup:`(n.d.k),(n.d.o)`
+limited,\ :sup:`8,9,16` other studies continued to demonstrate this
+finding several years later.\ :sup:`11,15`
 
 Legislation could be experienced as either empowering or disempowering
 by carers. Although some adults lacking capacity described positive
 outcomes, others described concepts similar to disempowerment. The AWIA
 and the MCA have been lauded as progressive and empowering
-instruments.\ :sup:`(n.d.aa),(n.d.ab)` It is true that both are grounded
-in principles such as enablement, least restriction, and the
-participation of the adult who lacks capacity in decision-making.
-Nevertheless, these principles are only empowering in the sense that
-they return disabled people to the legal status of any other citizen,
-and do not give them any additional rights to allow them to overcome
-their impairments. Series\ :sup:`(n.d.ac)` has observed that most of the
-mechanisms of the MCA have the effect of transferring power away from
-disabled adults, and for this reason disputes the claim that the MCA is
-empowering. The AWIA may be viewed as disempowering for the same reason.
+instruments.\ :sup:`27,28` It is true that both are grounded in
+principles such as enablement, least restriction, and the participation
+of the adult who lacks capacity in decision-making. Nevertheless, these
+principles are only empowering in the sense that they return disabled
+people to the legal status of any other citizen, and do not give them
+any additional rights to allow them to overcome their impairments.
+Series\ :sup:`29` has observed that most of the mechanisms of the MCA
+have the effect of transferring power away from disabled adults, and for
+this reason disputes the claim that the MCA is empowering. The AWIA may
+be viewed as disempowering for the same reason.
 
 In this review, negative experiences of the legislation related mainly
 to court proceedings, although data were lacking about the Court of
@@ -799,21 +789,21 @@ costly by the applicants. What other options are there? Moving to a
 tribunal system could potentially decrease costs and reduce distress
 because the proceedings take place outside the courts. However,
 tribunals might prove more expensive because of the addition of an extra
-judicial tier,\ :sup:`(n.d.aa)` and may not necessarily be experienced
-more positively than court proceedings.
+judicial tier,\ :sup:`27` and may not necessarily be experienced more
+positively than court proceedings.
 
 The initial legislation did not deal with the provision of due legal
 process for adults without capacity who require restrictive care regimes
 but lack the ability to challenge their *de facto* detention (so-called
-‘Bournewood patients’).\ :sup:`(n.d.ad)` This gap in the law still
-exists in Scotland.\ :sup:`(n.d.ae)` In England and Wales, provisions to
-deal with this issue were made in the form of the Deprivation of Liberty
-Safeguards, but these were criticised by the House of Lords, which
-recommended the process be replaced.\ :sup:`(n.d.aa)` Both the AWIA and
-the MCA are undergoing reform to deal with this issue. This review found
-no data about deprivation of liberty, and it is unfortunate that there
-are no perspectives from patients or their carers to inform the changes
-to this area of law.
+‘Bournewood patients’).\ :sup:`30` This gap in the law still exists in
+Scotland.\ :sup:`31` In England and Wales, provisions to deal with this
+issue were made in the form of the Deprivation of Liberty Safeguards,
+but these were criticised by the House of Lords, which recommended the
+process be replaced.\ :sup:`27` Both the AWIA and the MCA are undergoing
+reform to deal with this issue. This review found no data about
+deprivation of liberty, and it is unfortunate that there are no
+perspectives from patients or their carers to inform the changes to this
+area of law.
 
 Finally, the participation of disabled adults in research about capacity
 legislation needs be improved. Most of the findings in this review were
@@ -826,164 +816,6 @@ This study formed part of an MSc in Mental Health and Law from Queen
 Mary University of London. Dr Erminia Colucci, Dr Ruth Fletcher and Dr
 Yasmin Khatib commented on the design of this study and drafts of the
 manuscript. Dr Lucy Series suggested additional papers for this review.
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-R1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-R2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-R3
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-R4
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-R5
-
-      n.d.e.
-
-   .. container:: csl-entry
-      :name: ref-R6
-
-      n.d.f.
-
-   .. container:: csl-entry
-      :name: ref-R7
-
-      n.d.g.
-
-   .. container:: csl-entry
-      :name: ref-R8
-
-      n.d.h.
-
-   .. container:: csl-entry
-      :name: ref-R9
-
-      n.d.i.
-
-   .. container:: csl-entry
-      :name: ref-R10
-
-      n.d.j.
-
-   .. container:: csl-entry
-      :name: ref-R11
-
-      n.d.k.
-
-   .. container:: csl-entry
-      :name: ref-R12
-
-      n.d.l.
-
-   .. container:: csl-entry
-      :name: ref-R13
-
-      n.d.m.
-
-   .. container:: csl-entry
-      :name: ref-R14
-
-      n.d.n.
-
-   .. container:: csl-entry
-      :name: ref-R15
-
-      n.d.o.
-
-   .. container:: csl-entry
-      :name: ref-R16
-
-      n.d.p.
-
-   .. container:: csl-entry
-      :name: ref-R17
-
-      n.d.q.
-
-   .. container:: csl-entry
-      :name: ref-R18
-
-      n.d.r.
-
-   .. container:: csl-entry
-      :name: ref-R19
-
-      n.d.s.
-
-   .. container:: csl-entry
-      :name: ref-R20
-
-      n.d.t.
-
-   .. container:: csl-entry
-      :name: ref-R21
-
-      n.d.u.
-
-   .. container:: csl-entry
-      :name: ref-R22
-
-      n.d.v.
-
-   .. container:: csl-entry
-      :name: ref-R23
-
-      n.d.w.
-
-   .. container:: csl-entry
-      :name: ref-R24
-
-      n.d.x.
-
-   .. container:: csl-entry
-      :name: ref-R25
-
-      n.d.y.
-
-   .. container:: csl-entry
-      :name: ref-R26
-
-      n.d.z.
-
-   .. container:: csl-entry
-      :name: ref-R27
-
-      n.d.aa.
-
-   .. container:: csl-entry
-      :name: ref-R28
-
-      n.d.ab.
-
-   .. container:: csl-entry
-      :name: ref-R29
-
-      n.d.ac.
-
-   .. container:: csl-entry
-      :name: ref-R30
-
-      n.d.ad.
-
-   .. container:: csl-entry
-      :name: ref-R31
-
-      n.d.ae.
 
 .. [1]
    **Sam Wilson** MRCPsych, Locum Consultant Psychiatrist, Royal

@@ -2,6 +2,8 @@
 2.5 years on: what are the effects of a ‘frequent attenders’ service in the Emergency Department?
 =================================================================================================
 
+
+
 Soraia Sousa
 Tracey Hilder
 Christopher Burdess
@@ -35,18 +37,18 @@ Philippa BoltonCorrespondence to Dr Soraia Sousa
 ..
 
 Patients who frequently attend the Emergency Department (ED) have been
-characterized as a heterogeneous group,(n.d.a)\ :sup:`,`\ (n.d.b) often
-with complex healthcare needs who are at least as sick as non-frequent
-attenders(n.d.b)\ :sup:`,`\ (n.d.c) and have been associated with a
-higher expected mortality rate.(n.d.a)\ :sup:`,`\ (n.d.d) A recent
-national Commission for Quality and Innovation (CQUIN) aimed to improve
-the way services manage these patients. This was based on the Cambridge
-study(n.d.e) which highlighted that there should be services designed to
-integrate physical and psychological needs of these patients at the ED
-interface. In the current CQUIN, a cohort of patients who attend
-frequently is identified, and the pre and post intervention attendances
-across the cohort are compared with a 20% reduction in attendances
-required to achieve the target.
+characterized as a heterogeneous group,1\ :sup:`,`\ 2 often with complex
+healthcare needs who are at least as sick as non-frequent
+attenders2\ :sup:`,`\ 3 and have been associated with a higher expected
+mortality rate.1\ :sup:`,`\ 4 A recent national Commission for Quality
+and Innovation (CQUIN) aimed to improve the way services manage these
+patients. This was based on the Cambridge study5 which highlighted that
+there should be services designed to integrate physical and
+psychological needs of these patients at the ED interface. In the
+current CQUIN, a cohort of patients who attend frequently is identified,
+and the pre and post intervention attendances across the cohort are
+compared with a 20% reduction in attendances required to achieve the
+target.
 
 However, in the UK, the longer term effect of a frequent attenders' (FA)
 service has not been evaluated in terms of whether such a service has an
@@ -62,14 +64,14 @@ Department (ED) 20 times a year or more. Tees, Esk and Wear Valleys
 support via the Psychiatric Liaison team, and the North East Ambulance
 service were the third partner in this project. This CQUIN was
 commissioned in response to guidelines from the Royal College of
-Emergency Medicine (August 2014).(n.d.f) Due to the relatively small
-numbers of patients attending over 20 times a year the service saw all
-patients attending 15 times a year or more.
+Emergency Medicine (August 2014).6 Due to the relatively small numbers
+of patients attending over 20 times a year the service saw all patients
+attending 15 times a year or more.
 
 The initial local CQUIN demonstrated a 46% reduction in attendances in
 the cohort over a 12 month period compared to the previous 12 months and
 every patient demonstrated a reduction in attendance. Similar outcomes
-have been showed in other studies.(n.d.g)\ :sup:`,`\ (n.d.h)
+have been showed in other studies.7\ :sup:`,`\ 8
 
 This service has been in place 2.5 years at the time of this study and
 an evaluation of its impact over this time period was conducted. This
@@ -239,12 +241,11 @@ Discussion
 
 The implementation of a MDT approach to reduce attendance to ED services
 by frequent attenders has been suggested as effective by a number of
-studies(n.d.g)\ :sup:`,`\ (n.d.h) and has therefore been recommended by
-the College of Emergency Medicine. However, a significant number of
-studies regarding this have been done outside of the UK which has
-implications on how much information can be extrapolated towards the UK
-population given significant differences in the national health care
-systems.
+studies7\ :sup:`,`\ 8 and has therefore been recommended by the College
+of Emergency Medicine. However, a significant number of studies
+regarding this have been done outside of the UK which has implications
+on how much information can be extrapolated towards the UK population
+given significant differences in the national health care systems.
 
 This study observed that since the implementation of the FA's Service, a
 marked reduction of the number of patients classed as ‘frequent
@@ -263,11 +264,11 @@ attendances and did not qualify for this category by 2017, which means
 that the 2017 patients' list (with the exception of patient A) was made
 of new patients. This means that there isn't a cumulative effect by
 which the list expands year after year as new patients are added. This
-has also been discussed by other studies. In two
-studies(n.d.b)\ :sup:`,`\ (n.d.h) it has been demonstrated that some
-patients will qualify as FA during a period of crisis which is not a
-situation that repeats year after year. Therefore, each cohort tends to
-have a new set of patients while others are removed from the list.
+has also been discussed by other studies. In two studies2\ :sup:`,`\ 8
+it has been demonstrated that some patients will qualify as FA during a
+period of crisis which is not a situation that repeats year after year.
+Therefore, each cohort tends to have a new set of patients while others
+are removed from the list.
 
 Another potentially contributing factor to this result is the
 educational component of the project in which ED clinicians are
@@ -323,14 +324,13 @@ in `Fig. 1 <#fig01>`__, with the highest reductions in pain, respiratory
 problems and borderline personality disorder presentations.
 
 In this study, female gender was predominant, whereas a number of
-studies(n.d.c)\ :sup:`,`\ (n.d.i)\ :sup:`–`\ (n.d.j) have showed higher
-prevalence of males in groups of frequent attenders. The mean age of
-patients in the second cohort was 7 years younger and generally this
-study presented lower mean ages than other
-studies(n.d.i)\ :sup:`,`\ (n.d.j). Some
-studies(n.d.a)\ :sup:`,`\ (n.d.k) have also suggested that the age
-distribution is bi-modal with peak ages in younger patients (<40 years
-old) and old age (>65 years old).
+studies3\ :sup:`,`\ 9\ :sup:`–`\ 11 have showed higher prevalence of
+males in groups of frequent attenders. The mean age of patients in the
+second cohort was 7 years younger and generally this study presented
+lower mean ages than other studies9\ :sup:`,`\ 11. Some
+studies1\ :sup:`,`\ 10 have also suggested that the age distribution is
+bi-modal with peak ages in younger patients (<40 years old) and old age
+(>65 years old).
 
 Two unexpected groups emerged that warrant further research: firstly,
 older people who attended ED frequently often had undiagnosed dementia
@@ -346,21 +346,21 @@ these high risk patients.
 Regarding the costs of frequent attenders to ED: Considering the
 distribution of common presentations to ED in our sample, it is likely
 that basic investigations such as blood analysis or an x-ray are done
-which means that the cost per presentation will be around £127.(n.d.l)
-If a more specialized investigation such as a computerized tomography
-(CT) or ultrasound scan is done, the cost further increases to around
-£207.(n.d.l) This calculation does not take into consideration inpatient
-admissions (average cost £400 per night), or the use of ambulances
-(average cost of £254 per attendance).(n.d.m) More than this, though,
-are the costs related to excess mortality and morbidity in this group of
-patients, whose underlying conditions are not being optimally managed,
-potential iatrogenic harm from unhelpful tests, investigations and
-treatments, poor patient and clinician experience and the
-disproportionate amount of time these patients take up in the ED due to
-their complexity. Of note, in the original CQUIN of patients attending
-over 20 times a year, there was a reduction of 170 inpatient admissions
-to the acute trust in the 12 months prior to the intervention compared
-to the 12 months post intervention.
+which means that the cost per presentation will be around £127.12 If a
+more specialized investigation such as a computerized tomography (CT) or
+ultrasound scan is done, the cost further increases to around £207.12
+This calculation does not take into consideration inpatient admissions
+(average cost £400 per night), or the use of ambulances (average cost of
+£254 per attendance).13 More than this, though, are the costs related to
+excess mortality and morbidity in this group of patients, whose
+underlying conditions are not being optimally managed, potential
+iatrogenic harm from unhelpful tests, investigations and treatments,
+poor patient and clinician experience and the disproportionate amount of
+time these patients take up in the ED due to their complexity. Of note,
+in the original CQUIN of patients attending over 20 times a year, there
+was a reduction of 170 inpatient admissions to the acute trust in the 12
+months prior to the intervention compared to the 12 months post
+intervention.
 
 There are a number of limitations to this evaluation and results should
 not be interpreted too broadly. The sample was collected from the area
@@ -414,71 +414,3 @@ Trust working at the University Hospital of North Durham, UK. **Dr
 Philippa Bolton** is a Liaison Consultant Psychiatrist for Tees, Esk and
 Wear Valleys NHS Foundation Trust working in the Liaison Psychiatry team
 at University Hospital North Durham, UK.
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-ref1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-ref2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-ref3
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-ref4
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-ref5
-
-      n.d.e.
-
-   .. container:: csl-entry
-      :name: ref-ref6
-
-      n.d.f.
-
-   .. container:: csl-entry
-      :name: ref-ref7
-
-      n.d.g.
-
-   .. container:: csl-entry
-      :name: ref-ref8
-
-      n.d.h.
-
-   .. container:: csl-entry
-      :name: ref-ref9
-
-      n.d.i.
-
-   .. container:: csl-entry
-      :name: ref-ref10
-
-      n.d.k.
-
-   .. container:: csl-entry
-      :name: ref-ref11
-
-      n.d.j.
-
-   .. container:: csl-entry
-      :name: ref-ref12
-
-      n.d.l.
-
-   .. container:: csl-entry
-      :name: ref-ref13
-
-      n.d.m.

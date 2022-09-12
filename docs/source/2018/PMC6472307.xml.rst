@@ -2,6 +2,8 @@
 The Risk Reference Panel: a thematic analysis of a multidisciplinary forum for complex cases
 ============================================================================================
 
+
+
 Alec Thomas
 Ian Evans
 Gaynor JonesCorrespondence to Alec Thomas (alecthomas@doctors.org.uk)
@@ -57,13 +59,13 @@ the case, the configuration of local services and resources available.
 In many cases, issues around risk are managed effectively by individual
 practitioners or teams on a day-to-day basis, using evidence-based
 guidance from national bodies such as the Royal College of
-Psychiatrists(n.d.a) or the Department of Health,(n.d.b) as well as
-locally agreed policies and procedures and clinical supervision.
-However, in some circumstances the risks posed may be exceptional or
-unclear, and individuals can engage in high levels of self-harm or
-antisocial behaviour. This can be analysed retrospectively by complex
-case reviews to reduce risk of recurrence,(n.d.c) but prospective
-prevention or minimisation of harm is clearly preferable.
+Psychiatrists1 or the Department of Health,2 as well as locally agreed
+policies and procedures and clinical supervision. However, in some
+circumstances the risks posed may be exceptional or unclear, and
+individuals can engage in high levels of self-harm or antisocial
+behaviour. This can be analysed retrospectively by complex case reviews
+to reduce risk of recurrence,3 but prospective prevention or
+minimisation of harm is clearly preferable.
 
 .. _sec1-2:
 
@@ -109,7 +111,7 @@ Although qualitative research uses many specific, prescribed techniques
 to evaluate non-empirical data, there has historically been some
 discrepancy as to what strictly constitutes thematic analysis and its
 methodology. For our purposes, we have followed the model proposed by
-Braun and Clarke,(n.d.d) which describes six discrete stages of thematic
+Braun and Clarke,4 which describes six discrete stages of thematic
 analysis.
 
 The stages of the above method as applied to our analysis are described
@@ -397,30 +399,29 @@ Discussion
 
 The Royal College of Psychiatrists has highlighted a need for improved,
 tiered risk assessment and interventions on both a local and national
-level.(n.d.e) A qualitative analysis of the content of Risk Reference
-Panel meetings has illustrated how it provides a potential model for
-services to address this need. The panel is an innovative service model
-that was set up to provide a further level of support for teams who had
-been looking for support in managing very complex individuals with
-high-risk behaviour and has provided new direction and specialist advice
-in the management of these cases.
+level.5 A qualitative analysis of the content of Risk Reference Panel
+meetings has illustrated how it provides a potential model for services
+to address this need. The panel is an innovative service model that was
+set up to provide a further level of support for teams who had been
+looking for support in managing very complex individuals with high-risk
+behaviour and has provided new direction and specialist advice in the
+management of these cases.
 
 Most cases described physical or sexual abuse, with many experiencing
 multiple adverse childhood events (ACEs). These findings support the
 existing body of work on the relationship between multiple ACEs and
 subsequent morbidity and risk behaviours, such as that by Bellis *et
-al*,(n.d.f) which showed that individuals with four or more ACEs were
-several times more likely to smoke, drink heavily, have low mental
-well-being and chronic health conditions. This also correlates with
-well-documented risk factors for self-harm,(n.d.g) suicide(n.d.h) and
-interpersonal violence.(n.d.i) These data have more general implications
-on history-taking in risk assessment, with the inclusion of this
-background information crucial to the working of the panel. The
-potential for referrers to exaggerate the risk, both consciously and
-unconsciously, to encourage acceptance by the panel should be
-acknowledged.
+al*,6 which showed that individuals with four or more ACEs were several
+times more likely to smoke, drink heavily, have low mental well-being
+and chronic health conditions. This also correlates with well-documented
+risk factors for self-harm,7 suicide8 and interpersonal violence.9 These
+data have more general implications on history-taking in risk
+assessment, with the inclusion of this background information crucial to
+the working of the panel. The potential for referrers to exaggerate the
+risk, both consciously and unconsciously, to encourage acceptance by the
+panel should be acknowledged.
 
-Although a person's risk of harm cannot be entirely removed,(n.d.e)
+Although a person's risk of harm cannot be entirely removed,5
 particularly in such complex cases, a thorough understanding of risks
 posed and their severity is crucial. The panel often identified areas
 where risk was not fully understood and suggested specific assessments
@@ -531,51 +532,3 @@ Clear names and definitions were produced for each theme.6.\ *Producing
 the report*: Writing the present report provided the final opportunity
 for analysis of the insights gained from the process. The analysis was
 used to address the initial research questions.
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-ref1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-ref2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-ref3
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-ref4
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-ref5
-
-      n.d.e.
-
-   .. container:: csl-entry
-      :name: ref-ref6
-
-      n.d.f.
-
-   .. container:: csl-entry
-      :name: ref-ref7
-
-      n.d.g.
-
-   .. container:: csl-entry
-      :name: ref-ref8
-
-      n.d.h.
-
-   .. container:: csl-entry
-      :name: ref-ref9
-
-      n.d.i.

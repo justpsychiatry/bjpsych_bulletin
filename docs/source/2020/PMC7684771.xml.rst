@@ -2,6 +2,8 @@
 A model for specific goals for in-patient treatment linked to resources and limitations in out-patient treatment
 ================================================================================================================
 
+
+
 Virginia Davies [1]_Correspondence to Virginia Davies
 (virginia.davies@ouh.nhs.uk)
 :Date: 2020-12
@@ -22,9 +24,9 @@ Virginia Davies [1]_Correspondence to Virginia Davies
 As a paediatric liaison psychiatrist, I was dubious about how an article
 that concerns itself with goals for in-patient care would speak to my
 own experiences and practice. I need not have worried; Wilkinson's
-paper\ :sup:`(n.d.)` is rich in reflections about the core issues at
-play in child and adolescent psychiatric practice and has relevance for
-all child and adolescent psychiatrists.
+paper\ :sup:`1` is rich in reflections about the core issues at play in
+child and adolescent psychiatric practice and has relevance for all
+child and adolescent psychiatrists.
 
 Wilkinson writes from the vantage points of retirement and from being
 ‘over the water’. Having spent his working life practising in the
@@ -125,14 +127,6 @@ Specialist CAMHS Paediatric Liaison Service at King's College Hospital
 Denmark Hill, London, UK.
 
 None.
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-ref1
-
-      n.d.
 
 .. [1]
    Commentary on… Child psychiatry. See this issue.

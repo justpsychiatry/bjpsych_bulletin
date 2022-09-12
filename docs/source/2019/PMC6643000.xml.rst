@@ -2,6 +2,8 @@
 Harold Bourne, MB BS, DPM, FRANZCP, FRCPsych
 ============================================
 
+
+
 Brian Barraclough\ brian.barraclough@xtra.co.nz
 :Date: 2019-8
 
@@ -21,10 +23,10 @@ This has been the case with Harold Bourne, who died recently at the age
 of 95 in London. In the early 1950s, while working at Netherne Hospital
 (a 2000 bed mental hospital in Surrey), Bourne began to question the use
 of insulin coma in the treatment of early schizophrenia. He wrote a
-notable paper, ‘The Insulin Myth’,\ :sup:`(n.d.a)` published in *The
-Lancet* in 1953. It was a review of the evidence for the effectiveness
-of insulin coma for schizophrenia and it concluded that the treatment
-was ineffective. Insulin coma, sometimes enhanced with electroconvulsive
+notable paper, ‘The Insulin Myth’,\ :sup:`1` published in *The Lancet*
+in 1953. It was a review of the evidence for the effectiveness of
+insulin coma for schizophrenia and it concluded that the treatment was
+ineffective. Insulin coma, sometimes enhanced with electroconvulsive
 therapy during the coma, was the standard treatment for schizophrenia
 from the early 1930s until the late 1950s and all mental hospitals had
 insulin units to administer it. For a 30-year-old junior doctor this was
@@ -32,18 +34,18 @@ a courageous act which challenged the authority of the profession's
 leaders. In 1957 (4 years after the publication of Bourne's paper),
 Brian Ackner and colleagues published the results of a controlled trial
 showing there was no difference in outcome between barbiturate-induced
-coma and insulin coma.\ :sup:`(n.d.b)` Shortly afterwards, all insulin
-units began to shut and this dangerous treatment went out of use.
+coma and insulin coma.\ :sup:`2` Shortly afterwards, all insulin units
+began to shut and this dangerous treatment went out of use.
 
 Two other papers deserve mention. Bourne's paper on convulsion
-dependence\ :sup:`(n.d.c)` described persistent psychoses which remained
-in remission only with long-term electroconvulsive therapy. This was
-before depot phenothiazines became available. Further, from his
-experience at the 600-bed Fountain Hospital for the severely mentally
-handicapped came his neologism ‘protophrenia’, a term for the dwarfing
-effect on mental development in children due to socially impoverished
-child-rearing, which could be mistaken for mental handicap caused by
-neuropathology.\ :sup:`(n.d.d)` This latter observation preceded the
+dependence\ :sup:`3` described persistent psychoses which remained in
+remission only with long-term electroconvulsive therapy. This was before
+depot phenothiazines became available. Further, from his experience at
+the 600-bed Fountain Hospital for the severely mentally handicapped came
+his neologism ‘protophrenia’, a term for the dwarfing effect on mental
+development in children due to socially impoverished child-rearing,
+which could be mistaken for mental handicap caused by
+neuropathology.\ :sup:`4` This latter observation preceded the
 description of psychosocial short stature or deprivation dwarfism by
 some 15 years.
 
@@ -105,26 +107,3 @@ Stanford (known as Sandy) – a London psychoanalyst.
 
 Harold Bourne was born in London 9 April 1923 and died in London 6
 November 2018.
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-ref1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-ref2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-ref3
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-ref4
-
-      n.d.d.

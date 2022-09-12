@@ -2,6 +2,8 @@
 Kenneth Kendler: fully human
 ============================
 
+
+
 Claire McKenna [1]_
 :Date: 2020-12
 
@@ -41,13 +43,12 @@ without understanding the historical context within which it exists’, he
 told me. In thinking about the arc of his career, I was reminded of the
 T. S. Eliot quotation in the epigraph to this piece.
 
-His new book *Toward a Philosophical Approach to
-Psychiatry*\ :sup:`(n.d.a)` is a compendium of his most important
-philosophical papers, as well as some of his historical and genetics
-papers (necessary to understand his thesis about the nature of
-psychiatric illness). He is an exceptionally clear and engaging writer,
-which makes the book an accessible read for psychiatrists who are not
-academic philosophers.
+His new book *Toward a Philosophical Approach to Psychiatry*\ :sup:`1`
+is a compendium of his most important philosophical papers, as well as
+some of his historical and genetics papers (necessary to understand his
+thesis about the nature of psychiatric illness). He is an exceptionally
+clear and engaging writer, which makes the book an accessible read for
+psychiatrists who are not academic philosophers.
 
 When I talked to Kendler via Skype in March 2020 he seemed pretty serene
 in his quarantine. Holed up in his home in Virginia because of COVID-19,
@@ -63,12 +64,12 @@ Kendler's philosophical stance is poetically summarised (in a riff on
 Gerard Manley Hopkins) in the title of his 2015 paper, ‘The dappled
 nature of the causes of psychiatric illness: replacing the
 organic–functional/hardware–software dichotomy with empirically based
-pluralism’.\ :sup:`(n.d.b)` His philosophical approach to psychiatry is
-very much of the pragmatic kind. He examined my more speculative
-questions briefly during this interview (about mysterianism for example)
-and, in a manner I imagined might be born of his decades long habit of
-daily meditation, let them float away like flotsam of the mind, finding
-them unhelpful to advance his project.
+pluralism’.\ :sup:`2` His philosophical approach to psychiatry is very
+much of the pragmatic kind. He examined my more speculative questions
+briefly during this interview (about mysterianism for example) and, in a
+manner I imagined might be born of his decades long habit of daily
+meditation, let them float away like flotsam of the mind, finding them
+unhelpful to advance his project.
 
 ‘It's been a wonderful and fulfilling career,’ he says, but it is one
 that's far from over yet. Now aged 69, he still directs a research
@@ -78,10 +79,10 @@ and is very active in several psychiatric genomic consortia groups. The
 fifth in the series of his books (edited with Joseph Parnas and Peter
 Zachar), based on presentations at the philosophy of psychiatry
 conferences in Copenhagen that they organise, is just coming
-out.\ :sup:`(n.d.c)` He has also raced out a series of papers this year
-based on a close reading of Kraepelin's original textbooks. ‘I can't
-write it fast enough,’ he says, as he chips away at the great edifice of
-our ignorance, one flake at a time.
+out.\ :sup:`3` He has also raced out a series of papers this year based
+on a close reading of Kraepelin's original textbooks. ‘I can't write it
+fast enough,’ he says, as he chips away at the great edifice of our
+ignorance, one flake at a time.
 
 This conversation has been condensed and edited.
 
@@ -109,11 +110,11 @@ clinically and a bad way to do it research-wise. So, I'm trying to
 provide a framework to think clearly and rigorously. I guess that would
 be the most important. I think I contributed a bit.
 
-**I read two lovely papers\ (n.d.b),(n.d.d) of yours about a
-philosophical framework for psychiatry, which I thought were really good
-primers. I wanted to ask you a bit about the importance of philosophy
-for psychiatrists. It can sometimes seem to psychiatrists quite arcane
-and not necessarily applicable to their day-to-day practice.**
+**I read two lovely papers\ 2,4 of yours about a philosophical framework
+for psychiatry, which I thought were really good primers. I wanted to
+ask you a bit about the importance of philosophy for psychiatrists. It
+can sometimes seem to psychiatrists quite arcane and not necessarily
+applicable to their day-to-day practice.**
 
 Well, I have to say that this is not novel. We all make philosophical
 assumptions about the things we do and think. And you can either examine
@@ -315,29 +316,6 @@ word – ‘sacred’ out of our everyday life experience, which as we know
 kind of rushes by us. Poetry is kind of grabbing this potent observation
 and thinking through the emotional implications of often very small
 things in our lives.
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-ref1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-ref2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-ref3
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-ref4
-
-      n.d.d.
 
 .. [1]
    **Claire McKenna talks to Kenneth Kendler**, psychiatric polymath,

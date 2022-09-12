@@ -2,6 +2,8 @@
 Freedom to think: the need for thorough assessment and treatment of gender dysphoric children – CORRIGENDUM
 ===========================================================================================================
 
+
+
 Marcus Evans
 :Date: 2021-10
 
@@ -48,17 +50,16 @@ diagnostic category, ‘recent-onset gender dysphoria’, making up a
 substantial proportion.” should read: “‘There has been a 3264% rise in
 referrals to the national gender identity service at the Tavistock and
 Portman NHS Trust in London over the past 10 years (from 77 in 2009–2010
-to 2590 in 2018–2019).\ :sup:`(n.d.a)` The profile of referrals has also
+to 2590 in 2018–2019).\ :sup:`c1` The profile of referrals has also
 undergone a major transformation: we have seen a reversal of the gender
 ratio from two-thirds male:female to two-thirds female:male, with a
 recently described clinical phenomenon of as yet uncertain diagnostic
 significance making up a substantial proportion. This gender dysphoria
 of recent onset among adolescents (sometimes termed ‘recent-onset gender
-dysphoria’ or ROGD, ‘rapid-onset adolescent dysphoria’\ :sup:`(n.d.b)`
-or ‘adolescent-onset transgender history\ :sup:`(n.d.c)`) lacks an
-agreed name or established diagnostic criteria, but its emergence has
-been documented by a number of gender clinics
-worldwide.\ :sup:`(n.d.d)`\ ’”
+dysphoria’ or ROGD, ‘rapid-onset adolescent dysphoria’\ :sup:`c2` or
+‘adolescent-onset transgender history\ :sup:`c3`) lacks an agreed name
+or established diagnostic criteria, but its emergence has been
+documented by a number of gender clinics worldwide.\ :sup:`c4`\ ’”
 
 The following should then be added: “‘Bernadette Wren, the then
 associate director of the Tavistock and Portman NHS Foundation Trust's
@@ -68,7 +69,7 @@ following terms: “many of the young people, and increasing numbers of
 them, have had a gender-uncontentious childhood, if you like, and it is
 only when they come into puberty and post-puberty that they begin to
 question. That now represents a substantial proportion of our
-group”.\ :sup:`(n.d.e)`\ ’”
+group”.\ :sup:`c5`\ ’”
 
 The sentence ‘The affirmative approach to gender dysphoria has been
 adopted by the majority of children's services in the UK.’ should read:
@@ -77,7 +78,7 @@ adopted by the majority of NHS and privately provided children's
 services in the UK. Again, Bernadette Wren stated in the House of
 Commons: “I work in a service where a lot of the young people – and
 anybody who wants it – have physical intervention. We have no record of
-turning people down for physical intervention”.(n.d.e)’”
+turning people down for physical intervention”.c5’”
 
 The section ‘Cantor says “Although almost all clinics and professional
 associations in the world use what's called the ‘watchful waiting
@@ -89,10 +90,9 @@ left untreated.\ :sup:`2,3`\ ’ should read: “‘Cantor says “Although
 almost all clinics and professional associations in the world use what's
 called the ‘watchful waiting approach’ to helping gender diverse
 children, the AAP statement instead rejected that consensus, endorsing
-gender affirmation as the only acceptable approach’.\ :sup:`(n.d.f)`
-This is despite research findings which strongly suggest that most of
-these cases would eventually desist if left
-untreated.\ :sup:`(n.d.g),(n.d.h)`\ ’”
+gender affirmation as the only acceptable approach’.\ :sup:`c6` This is
+despite research findings which strongly suggest that most of these
+cases would eventually desist if left untreated.\ :sup:`c7,c8`\ ’”
 
 The sentence ‘The British Psychological Society's review of the
 literature found the current medical approach to be “well-intentioned
@@ -110,7 +110,7 @@ their bodies, but they may not fully understand the life-long
 consequences of their decision or acknowledge the potential risks and
 uncertainties of treatment. Their ability to provide informed consent
 has been questioned, including by some clinicians working in gender
-clinics.\ :sup:`(n.d.i),(n.d.j),(n.d.k)`\ ’”
+clinics.\ :sup:`c9,c10,c11`\ ’”
 
 The following sentence should be added after the first paragraph of the
 section ‘Patients that regret treatment’: “‘A number of clinicians have
@@ -118,9 +118,9 @@ called for research into desistance, detransition and regret among
 gender dysphoric adolescents. The US National Institutes of Health (NIH)
 Sexual & Gender Minority Research Office (SGMRO) recently named
 detransition in its report outlining scientific research gap areas in
-the field of sexual and gender minority health.\ :sup:`(n.d.l)` The 8th
+the field of sexual and gender minority health.\ :sup:`c12` The 8th
 edition of WPATH's Standards of Care will include a section on
-detransitioning.\ :sup:`(n.d.m)`\ ’”
+detransitioning.\ :sup:`c13`\ ’”
 
 The following was omitted from the declaration of interest statement and
 should be included: “‘M.E. and his wife Sue Evans have provided witness
@@ -132,71 +132,3 @@ the online pages for a crowd justice fund, which will be used to pay the
 legal fees of the judicial review. Neither M.E. nor Sue Evans has
 received or will receive any financial reward for participation in the
 case.’”
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-ref1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-ref2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-ref3
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-ref4
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-ref5
-
-      n.d.e.
-
-   .. container:: csl-entry
-      :name: ref-ref6
-
-      n.d.f.
-
-   .. container:: csl-entry
-      :name: ref-ref7
-
-      n.d.g.
-
-   .. container:: csl-entry
-      :name: ref-ref8
-
-      n.d.h.
-
-   .. container:: csl-entry
-      :name: ref-ref9
-
-      n.d.i.
-
-   .. container:: csl-entry
-      :name: ref-ref10
-
-      n.d.j.
-
-   .. container:: csl-entry
-      :name: ref-ref11
-
-      n.d.k.
-
-   .. container:: csl-entry
-      :name: ref-ref12
-
-      n.d.l.
-
-   .. container:: csl-entry
-      :name: ref-ref13
-
-      n.d.m.

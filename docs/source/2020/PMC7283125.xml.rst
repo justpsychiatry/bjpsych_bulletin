@@ -2,6 +2,8 @@
 Assessing asylum seekers, refugees and undocumented migrants
 ============================================================
 
+
+
 Lauren Z. Waterman
 Cara Katona
 Cornelius Katona [1]_Correspondence to Lauren Z. Waterman
@@ -115,8 +117,8 @@ referral to neurology may be indicated. Epilepsy is often difficult to
 distinguish from non-epileptic seizures and the two may both occur in
 the same individual. Important causes of non-epileptic seizures
 (particularly in people who have been severely traumatised) include
-panic attacks and dissociative episodes.\ :sup:`(n.d.a)` Panic attacks
-are usually rapid but not immediate in onset and are associated with
+panic attacks and dissociative episodes.\ :sup:`1` Panic attacks are
+usually rapid but not immediate in onset and are associated with
 prominent autonomic symptoms such as palpitations, shortness of breath
 and tingling in the extremities. Dissociation is a psychological defence
 mechanism manifested as a perceived detachment of the mind from the
@@ -154,9 +156,9 @@ experiences; by their transience; and by the preservation of some degree
 of insight. However, many experts believe that some people with PTSD
 also have more generalised psychotic experiences which are best
 understood as part of the PTSD process. This has been termed ‘PTSD with
-secondary psychotic features’.\ :sup:`(n.d.b)` A history of trauma is
-also common in people with psychosis. Therefore, it can be challenging
-to make a differential diagnosis of a psychotic illness in someone with
+secondary psychotic features’.\ :sup:`2` A history of trauma is also
+common in people with psychosis. Therefore, it can be challenging to
+make a differential diagnosis of a psychotic illness in someone with
 comorbid symptoms of PTSD and it is common for clinicians to disagree on
 the primary diagnosis.
 
@@ -166,24 +168,23 @@ Distinguishing complex PTSD from PTSD and emotionally unstable personality disor
 -----------------------------------------------------------------------------------
 
 Complex post-traumatic stress disorder (complex PTSD) is a new diagnosis
-included in the forthcoming ICD-11.\ :sup:`(n.d.c)` Complex PTSD is more
+included in the forthcoming ICD-11.\ :sup:`3` Complex PTSD is more
 likely to develop following exposure to prolonged or repeated traumatic
 events from which escape is difficult (such as torture, slavery, human
 trafficking, prolonged domestic violence and repeated childhood abuse),
 whereas PTSD tends to develop following isolated traumatic
-events.\ :sup:`(n.d.d)` Complex PTSD is also more likely to develop
-following interpersonal trauma than following events such as a
-road-traffic accident.\ :sup:`(n.d.d)` Complex PTSD shares the same core
-features of PTSD (exposure to a threatening or horrific event,
-re-experiencing of the traumatic event, avoidance of traumatic
-reminders, sense of current threat and interference with functioning)
-but includes three additional features, all of which must be present for
-the diagnosis to be made. These are: interpersonal disturbances, affect
-dysregulation and a persistent negative self-concept. These additional
-features are believed to result from the degradation of the person's
-self-identity and autonomy. Functional impairment tends to be worse in
-complex PTSD than in PTSD, and standard PTSD treatment may be less
-effective.\ :sup:`(n.d.d)`
+events.\ :sup:`4` Complex PTSD is also more likely to develop following
+interpersonal trauma than following events such as a road-traffic
+accident.\ :sup:`4` Complex PTSD shares the same core features of PTSD
+(exposure to a threatening or horrific event, re-experiencing of the
+traumatic event, avoidance of traumatic reminders, sense of current
+threat and interference with functioning) but includes three additional
+features, all of which must be present for the diagnosis to be made.
+These are: interpersonal disturbances, affect dysregulation and a
+persistent negative self-concept. These additional features are believed
+to result from the degradation of the person's self-identity and
+autonomy. Functional impairment tends to be worse in complex PTSD than
+in PTSD, and standard PTSD treatment may be less effective.\ :sup:`4`
 
 It can sometimes be challenging to distinguish between complex PTSD and
 PTSD with comorbid emotionally unstable personality disorder (EUPD),
@@ -197,7 +198,7 @@ personality, like our patient S.T. However, there are some key
 differences: in EUPD, the person's self-image and interpersonal
 relationships tend to be unstable, whereas in complex PTSD the person is
 more likely to avoid relationships and have a persistently negative
-self-image.\ :sup:`(n.d.e)`
+self-image.\ :sup:`5`
 
 .. _sec2-4:
 
@@ -210,7 +211,7 @@ disturbances such as hearing voices might have a different significance
 or meaning to that assumed in a Western medical model. As with any
 symptom, asking the patient what it means to them is often illuminating.
 The section on cultural formulation in DSM-5 has some useful questions
-in this regard.\ :sup:`(n.d.f)`
+in this regard.\ :sup:`6`
 
 .. _sec2-5:
 
@@ -219,22 +220,22 @@ A challenge for assessment: memory deficits are common following trauma
 
 Trauma and its associated disorders, including PTSD and depression, are
 associated with relative deficits in autobiographical memory
-retrieval,\ :sup:`(n.d.g),(n.d.h)` and there is evidence that other
-aspects of memory may also be affected.\ :sup:`(n.d.i)` As a result,
-asylum seekers who have experienced trauma may tell a story that is
-convoluted and has an inconsistent timeline, which can make eliciting a
-clear history challenging. It is often helpful to check back frequently
-with the patient to make sure that you have understood correctly and to
-reflect with the patient on elements of the account that you find
-inconsistent or incomprehensible. The process of recounting may be
-distressing for the patient; thus, breaks may need to be taken and it is
-often not feasible to elicit a full account in a single session.
+retrieval,\ :sup:`7,8` and there is evidence that other aspects of
+memory may also be affected.\ :sup:`9` As a result, asylum seekers who
+have experienced trauma may tell a story that is convoluted and has an
+inconsistent timeline, which can make eliciting a clear history
+challenging. It is often helpful to check back frequently with the
+patient to make sure that you have understood correctly and to reflect
+with the patient on elements of the account that you find inconsistent
+or incomprehensible. The process of recounting may be distressing for
+the patient; thus, breaks may need to be taken and it is often not
+feasible to elicit a full account in a single session.
 
 Of note, it is therefore possible that S.T.'s poor memory had affected
 his asylum claim, since an inconsistent story or inability to recall
 specific memories is often considered by immigration systems to indicate
 poor credibility, despite this link between trauma and memory
-deficit.\ :sup:`(n.d.j)`
+deficit.\ :sup:`10`
 
 .. _sec2-6:
 
@@ -249,7 +250,7 @@ unsafe. Refusal of an asylum claim is also often associated with loss of
 accommodation and financial support. Even for those who are currently
 awaiting a decision, the research evidence indicates that prolonged
 immigration uncertainty is associated with a deterioration in mental
-health.\ :sup:`(n.d.k)`
+health.\ :sup:`11`
 
 Many asylum seekers' claims are refused because of inadequate legal
 representation and/or lack of evidence to support their claim. These
@@ -289,8 +290,7 @@ Eligibility for primary healthcare
 According to guidance issued by NHS England in November 2015, anyone in
 England can register with a GP and receive GP services without charge
 and ‘GP practices are not required to request any proof of identity or
-of immigration status from patients wishing to
-register’.\ :sup:`(n.d.l)`
+of immigration status from patients wishing to register’.\ :sup:`12`
 
 .. _sec3-1-2:
 
@@ -302,11 +302,11 @@ provide proof of address and residency, even though that is not legally
 required. This can result in vulnerable migrants being turned away. For
 example, of 1717 migrants who approached a charity following
 difficulties registering with a GP, 20% were still wrongly refused GP
-access even when supported by a charity case worker.\ :sup:`(n.d.m)`
-Some GP practices register migrants as temporary
-patients,\ :sup:`(n.d.n)` even though they are eligible to be registered
-as permanent. Migrants such as S.T. may not have a fixed address or may
-not have access to identity documents or proof of address.
+access even when supported by a charity case worker.\ :sup:`13` Some GP
+practices register migrants as temporary patients,\ :sup:`14` even
+though they are eligible to be registered as permanent. Migrants such as
+S.T. may not have a fixed address or may not have access to identity
+documents or proof of address.
 
 .. _sec3-2:
 
@@ -317,17 +317,17 @@ An additional barrier is that refused asylum seekers and undocumented
 migrants may be afraid to give personal details to a GP practice in case
 these details are accessed by the Home Office, which could in turn lead
 them to be arrested, detained and/or deported. Some try to get around
-this by registering using an alias.\ :sup:`(n.d.o)` Their fears are
+this by registering using an alias.\ :sup:`15` Their fears are
 well-founded. Non-clinical information about patients may be disclosed
 to the Home Office by NHS services in certain situations, such as if a
 patient who is ineligible for free treatment does not pay their
 treatment bill within 2 months. Their debt to the NHS may also affect
-their future immigration applications.\ :sup:`(n.d.l)` Previously, a
+their future immigration applications.\ :sup:`12` Previously, a
 memorandum of understanding (MoU) stated that NHS Digital could also
 disclose confidential patient information to the Home Office for the
-purpose of assisting immigration enforcement.\ :sup:`(n.d.p)` However,
-this MoU was withdrawn for amendment in May 2018 and it has not yet been
-re-released.\ :sup:`(n.d.l)` At the time of writing, it is unclear how
+purpose of assisting immigration enforcement.\ :sup:`16` However, this
+MoU was withdrawn for amendment in May 2018 and it has not yet been
+re-released.\ :sup:`12` At the time of writing, it is unclear how
 confidential information will be shared with the Home Office in the near
 future.
 
@@ -347,15 +347,15 @@ decision from the Home Office), those with a rejected asylum/human
 rights application but who have officially appealed their rejected
 claim, refugees (those whose asylum claim has been approved) and
 suspected victims of human trafficking, among a number of other
-categories.\ :sup:`(n.d.l)` Also, refused asylum seekers can continue,
-free of charge, with any course of treatment already underway before
-their application was refused.\ :sup:`(n.d.l)` Additionally, a category
-of NHS services that is currently free of charge irrespective of
-immigration status is ‘services for the treatment of a physical or
-mental condition caused by torture, female genital mutilation, domestic
-violence, or sexual violence’,\ :sup:`(n.d.l)` which would apply to
-S.T., whose reported history of undergoing torture may have contributed
-to his current illness.
+categories.\ :sup:`12` Also, refused asylum seekers can continue, free
+of charge, with any course of treatment already underway before their
+application was refused.\ :sup:`12` Additionally, a category of NHS
+services that is currently free of charge irrespective of immigration
+status is ‘services for the treatment of a physical or mental condition
+caused by torture, female genital mutilation, domestic violence, or
+sexual violence’,\ :sup:`12` which would apply to S.T., whose reported
+history of undergoing torture may have contributed to his current
+illness.
 
 However, for those belonging to these exempt categories, the lack of
 clarity and misinformation about who is eligible for free care has had a
@@ -363,8 +363,7 @@ deterrent effect and made many vulnerable individuals reluctant to
 present to services. These individuals often have complex legal
 situations or are unable to provide the documents requested.
 Furthermore, administrative staff rarely receive sufficient training in
-immigration law to adequately determine eligibility for
-care.\ :sup:`(n.d.q)`
+immigration law to adequately determine eligibility for care.\ :sup:`17`
 
 .. _sec3-3-2:
 
@@ -375,18 +374,18 @@ Following new government regulations introduced in October 2017, all
 hospital departments in England are legally required to check patients'
 eligibility for free NHS healthcare. If a patient is unable to prove
 that they are exempt from charges, they are required to pay upfront in
-full before receiving any treatment.\ :sup:`(n.d.r)` This requirement
-has now been extended to all NHS community health organisations,
-including community mental health services.\ :sup:`(n.d.s)` If a patient
-cannot prove that they are entitled to free care, they have to pay the
-estimated price for their treatment upfront, unless it is considered
-‘urgent’ or ‘immediately necessary’. Doctors will have to review each
-case to decide whether care is ‘immediately necessary’ or ‘urgent’: if
-it is deemed immediately necessary/urgent, treatment can be offered and
-the patient will be charged later; however, any treatment deemed
-non-urgent can be refused until the patient is able pay
-upfront.\ :sup:`(n.d.t)` However, this does not apply to GP care, which
-is currently free to all, as described above.
+full before receiving any treatment.\ :sup:`18` This requirement has now
+been extended to all NHS community health organisations, including
+community mental health services.\ :sup:`19` If a patient cannot prove
+that they are entitled to free care, they have to pay the estimated
+price for their treatment upfront, unless it is considered ‘urgent’ or
+‘immediately necessary’. Doctors will have to review each case to decide
+whether care is ‘immediately necessary’ or ‘urgent’: if it is deemed
+immediately necessary/urgent, treatment can be offered and the patient
+will be charged later; however, any treatment deemed non-urgent can be
+refused until the patient is able pay upfront.\ :sup:`20` However, this
+does not apply to GP care, which is currently free to all, as described
+above.
 
 .. _sec3-3-3:
 
@@ -399,9 +398,9 @@ patients from seeking help. A recent analysis of case notes from a
 Doctors of the World clinic found that 46 patients (over a third of all
 chargeable cases) had delayed seeking necessary healthcare owing to
 concerns related to charging, including concerns that their information
-would be shared with the Home Office.\ :sup:`(n.d.t)` A number of the
-UK's medical Royal Colleges have released statements about the upfront
-charging policy, warning of its risks.\ :sup:`(n.d.u)`
+would be shared with the Home Office.\ :sup:`20` A number of the UK's
+medical Royal Colleges have released statements about the upfront
+charging policy, warning of its risks.\ :sup:`21`
 
 .. _sec3-3-4:
 
@@ -418,10 +417,10 @@ treatment that, owing to pain, disability or the risk of the condition
 worsening without treatment, cannot wait until the person returns to
 their country of residence (it is usually expected that an undocumented
 migrant will not return to their home country for at least 6
-months).\ :sup:`(n.d.v)` Treatment is deemed ‘non-urgent’ if ‘it can
-wait until the patient can reasonably be expected to return to their
-country of residence’.\ :sup:`(n.d.l)` Many clinicians and healthcare
-providers believe that the vast majority of healthcare treatment can be
+months).\ :sup:`22` Treatment is deemed ‘non-urgent’ if ‘it can wait
+until the patient can reasonably be expected to return to their country
+of residence’.\ :sup:`12` Many clinicians and healthcare providers
+believe that the vast majority of healthcare treatment can be
 legitimately considered to be at least ‘urgent’, given that most
 physical and mental health conditions could deteriorate without timely
 treatment.
@@ -433,7 +432,7 @@ Treatment under the Mental Health Act and Mental Capacity Act
 
 Those who are detained and/or treated under the Mental Health Act 1983
 or Mental Capacity Act 2005 are also exempt from charges for
-treatment.\ :sup:`(n.d.l)` Therefore, S.T. would not be charged for his
+treatment.\ :sup:`12` Therefore, S.T. would not be charged for his
 treatment if we decide to detain him.
 
 .. _sec3-3-6:
@@ -470,20 +469,20 @@ How about if he were in Scotland, Wales or Northern Ireland?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The above guidelines only apply to NHS England. Separate guidelines
-apply to Scotland\ :sup:`(n.d.w)`, Wales\ :sup:`(n.d.x)` and Northern
-Ireland.\ :sup:`(n.d.y)` In Northern Ireland, the eligibility guidelines
-are similar to in the UK. Key differences are that in Northern Ireland
-not all migrants are eligible for free GP care, and refused asylum
-seekers who have had their asylum claim refused since 2015 have the same
+apply to Scotland\ :sup:`23`, Wales\ :sup:`24` and Northern
+Ireland.\ :sup:`25` In Northern Ireland, the eligibility guidelines are
+similar to in the UK. Key differences are that in Northern Ireland not
+all migrants are eligible for free GP care, and refused asylum seekers
+who have had their asylum claim refused since 2015 have the same
 entitlements as any other ordinary resident. Undocumented migrants (who
 do not meet the other exception criteria, such as being a victim of
 human trafficking) are liable to be charged for GP, inpatient and
 secondary care, but are not charged for A&E treatment, compulsory
 detention in hospital or treatment for some infectious diseases and
-HIV.\ :sup:`(n.d.y)` In Scotland and Wales, asylum seekers and refused
-asylum seekers are entitled to free primary and secondary healthcare on
-the same terms as any other ordinary resident.\ :sup:`(n.d.w),(n.d.x)`
-Please see the relevant guidance for further information.
+HIV.\ :sup:`25` In Scotland and Wales, asylum seekers and refused asylum
+seekers are entitled to free primary and secondary healthcare on the
+same terms as any other ordinary resident.\ :sup:`23,24` Please see the
+relevant guidance for further information.
 
 .. _sec4:
 
@@ -506,17 +505,17 @@ someone with a history of trauma.
 
 Regarding longer-term management options for S.T., psychological
 treatments appear to have the greatest benefit in reducing PTSD
-symptoms.\ :sup:`(n.d.z)` For example, there is robust evidence
-supporting the use of narrative exposure therapy (NET).\ :sup:`(n.d.aa)`
-Although a sense of safety is often considered to be a prerequisite for
-psychological therapies to be effective, NET (which was developed for
-use in conflict zones) may be beneficial even for patients whose
-immigration status and social circumstances remain unstable. The
-humanising effect of having someone trusted to talk to regularly, in a
-safe space and without judgement, can be an especially helpful aspect of
-talking therapies. There is emerging evidence to suggest that arts-based
-therapies can be effective for those who find it more difficult to
-express themselves verbally about their trauma.\ :sup:`(n.d.ab)`
+symptoms.\ :sup:`26` For example, there is robust evidence supporting
+the use of narrative exposure therapy (NET).\ :sup:`27` Although a sense
+of safety is often considered to be a prerequisite for psychological
+therapies to be effective, NET (which was developed for use in conflict
+zones) may be beneficial even for patients whose immigration status and
+social circumstances remain unstable. The humanising effect of having
+someone trusted to talk to regularly, in a safe space and without
+judgement, can be an especially helpful aspect of talking therapies.
+There is emerging evidence to suggest that arts-based therapies can be
+effective for those who find it more difficult to express themselves
+verbally about their trauma.\ :sup:`28`
 
 Psychotropic medication can also be used to treat PTSD-related symptoms.
 Antidepressants can be helpful in treating depressive symptoms in people
@@ -524,7 +523,7 @@ who have been severely traumatised: mirtazapine is often used because of
 its hypnotic effect. Antipsychotic medication (such as quetiapine, which
 is widely used) can be of benefit, particularly in the context of vivid
 flashbacks or hallucinations or in the management of persistent anxiety
-and agitation.\ :sup:`(n.d.ac)`
+and agitation.\ :sup:`29`
 
 .. _sec4-2:
 
@@ -638,154 +637,6 @@ is Medical Director of the Helen Bamber Foundation, Emeritus Professor
 of Psychiatry at the University of Kent and Honorary Professor in the
 Division of Psychiatry of the Faculty of Brain Sciences at University
 College London, UK.
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-ref1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-ref2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-ref3
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-ref4
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-ref5
-
-      n.d.e.
-
-   .. container:: csl-entry
-      :name: ref-ref6
-
-      n.d.f.
-
-   .. container:: csl-entry
-      :name: ref-ref7
-
-      n.d.g.
-
-   .. container:: csl-entry
-      :name: ref-ref8
-
-      n.d.h.
-
-   .. container:: csl-entry
-      :name: ref-ref9
-
-      n.d.i.
-
-   .. container:: csl-entry
-      :name: ref-ref10
-
-      n.d.j.
-
-   .. container:: csl-entry
-      :name: ref-ref11
-
-      n.d.k.
-
-   .. container:: csl-entry
-      :name: ref-ref12
-
-      n.d.l.
-
-   .. container:: csl-entry
-      :name: ref-ref13
-
-      n.d.m.
-
-   .. container:: csl-entry
-      :name: ref-ref14
-
-      n.d.n.
-
-   .. container:: csl-entry
-      :name: ref-ref15
-
-      n.d.o.
-
-   .. container:: csl-entry
-      :name: ref-ref16
-
-      n.d.p.
-
-   .. container:: csl-entry
-      :name: ref-ref17
-
-      n.d.q.
-
-   .. container:: csl-entry
-      :name: ref-ref18
-
-      n.d.r.
-
-   .. container:: csl-entry
-      :name: ref-ref19
-
-      n.d.s.
-
-   .. container:: csl-entry
-      :name: ref-ref20
-
-      n.d.t.
-
-   .. container:: csl-entry
-      :name: ref-ref21
-
-      n.d.u.
-
-   .. container:: csl-entry
-      :name: ref-ref22
-
-      n.d.v.
-
-   .. container:: csl-entry
-      :name: ref-ref23
-
-      n.d.w.
-
-   .. container:: csl-entry
-      :name: ref-ref24
-
-      n.d.x.
-
-   .. container:: csl-entry
-      :name: ref-ref25
-
-      n.d.y.
-
-   .. container:: csl-entry
-      :name: ref-ref26
-
-      n.d.z.
-
-   .. container:: csl-entry
-      :name: ref-ref27
-
-      n.d.aa.
-
-   .. container:: csl-entry
-      :name: ref-ref28
-
-      n.d.ab.
-
-   .. container:: csl-entry
-      :name: ref-ref29
-
-      n.d.ac.
 
 .. [1]
    **Declaration of interest:** None.

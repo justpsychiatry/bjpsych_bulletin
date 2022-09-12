@@ -2,6 +2,8 @@
 Follow the money: how is medical school teaching funded?
 ========================================================
 
+
+
 Aileen O'Brien
 Ania KorszunCorrespondence to Aileen O'Brien (aobrien@sgul.ac.uk)
 :Date: 2021-04
@@ -41,10 +43,10 @@ Many consultants who contribute to teaching do not have this activity
 included in their job plans. Clinics and clinical meetings are
 inevitably slower when students are present, but there is often no
 backfill provided. The psychiatry recruitment crisis has been
-successfully challenged by the Choose Psychiatry
-campaign;\ :sup:`(n.d.a)` however, to sustain this and encourage
-retention, jobs need to be manageable and stimulating with contributions
-to education adequately recognised.
+successfully challenged by the Choose Psychiatry campaign;\ :sup:`1`
+however, to sustain this and encourage retention, jobs need to be
+manageable and stimulating with contributions to education adequately
+recognised.
 
 Trusts receive substantial funding to cover teaching medical students,
 but most of us don't know what actually happens to this money.
@@ -69,13 +71,13 @@ The world of medical education is nothing if not acronym heavy (`Box
 *Health and Social Care Act 2012* as a special health authority within
 the Department of Health. It is a non-departmental public body which
 supports the delivery of education, training and development of the NHS
-health and public health workforce.\ :sup:`(n.d.b)` It provides
-oversight of strategic planning and development of the health and public
-health workforce, and allocates (and accounts for) funding for education
-and training resources on behalf of the Department of Health and Social
-Care (DHSC). Box 1Educational BodiesHEEHigher Education EnglandAn
-executive body of the Department of Health. It provides coordination for
-education and training within the health and public health workforce in
+health and public health workforce.\ :sup:`2` It provides oversight of
+strategic planning and development of the health and public health
+workforce, and allocates (and accounts for) funding for education and
+training resources on behalf of the Department of Health and Social Care
+(DHSC). Box 1Educational BodiesHEEHigher Education EnglandAn executive
+body of the Department of Health. It provides coordination for education
+and training within the health and public health workforce in
 England.LETBELocal Education and Training BoardStatutory regional
 committees of HEE, responsible for workforce planning, and education and
 training.OFSOffice for StudentsRegulator established in January 2018. It
@@ -99,7 +101,7 @@ Undergraduate medical training is essentially funded in England and
 Wales by: •DHSC (via HEE) – for clinical placement costs, more for the
 final years;•OFS – this is because medicine counts as a ‘high cost’
 course as opposed to, for example, many arts
-courses;\ :sup:`(n.d.c)`\ •tuition fees paid by the students.
+courses;\ :sup:`3`\ •tuition fees paid by the students.
 
 The OFS gives each university a grant based on the number of medical
 students at their institution. The numbers of students that universities
@@ -155,10 +157,10 @@ different parts of the country.
 
 The tariff covers funding for all direct costs involved in delivering
 education and training, and the list provided by the government is
-comprehensive::sup:`(n.d.d)` •direct staff teaching time within a
-clinical placement;•teaching and student facilities, including access to
-library services;•administration costs;•infrastructure costs;•pastoral
-and supervisory support;•trainee study leave and time for clinical
+comprehensive::sup:`4` •direct staff teaching time within a clinical
+placement;•teaching and student facilities, including access to library
+services;•administration costs;•infrastructure costs;•pastoral and
+supervisory support;•trainee study leave and time for clinical
 exams;•health and well-being (excluding any occupational health
 assessments);•course fees and expenses (as required to achieve
 professional registration);•student/trainee accommodation
@@ -175,21 +177,21 @@ In 2019–2020, a non-medical tariff (for an allied health professional
 medical undergraduate tariff is £33 286.
 
 In summary, in England, teaching one medical student in the clinical
-years is currently supported by::sup:`(n.d.e)` •the OFS teaching grant –
-£1500 per student for the non-clinical years and £10 000 per student
-during the clinical years (depending on holiday entitlement at different
+years is currently supported by::sup:`5` •the OFS teaching grant – £1500
+per student for the non-clinical years and £10 000 per student during
+the clinical years (depending on holiday entitlement at different
 schools, this is about £250 per week for the clinical years);•placement
 tariff – healthcare providers receive an average tariff of around
 £36 000 to provide a year's worth of placements to students in the
 clinical years;•tuition fees – £9250 per year for all years.
 
-AHPs are a core part of the NHS people plan,\ :sup:`(n.d.f)` and
-traditional ‘medical’ tasks and roles are increasingly being taken on by
-physician associates, advanced nurse associates, nurse prescribers and
-other AHPs. Although this is welcomed, with many doctors recognising the
-necessity in terms of long-term workload reduction, in the immediate
-term, doctors are increasingly asked to teach and supervise AHPs despite
-the non-medical tariff being substantially lower.
+AHPs are a core part of the NHS people plan,\ :sup:`6` and traditional
+‘medical’ tasks and roles are increasingly being taken on by physician
+associates, advanced nurse associates, nurse prescribers and other AHPs.
+Although this is welcomed, with many doctors recognising the necessity
+in terms of long-term workload reduction, in the immediate term, doctors
+are increasingly asked to teach and supervise AHPs despite the
+non-medical tariff being substantially lower.
 
 .. _sec5:
 
@@ -208,7 +210,7 @@ Trust's income base and therefore is embedded within the totality of the
 Trust's expenditure’. Only seven of the 23 trusts could give any
 information about consultant teaching time, and this tended to consist
 of a statement that consultants nominally have one PA per week allocated
-for teaching.\ :sup:`(n.d.g)`
+for teaching.\ :sup:`7`
 
 .. _sec6:
 
@@ -238,7 +240,7 @@ higher education budget and then goes to the NHS institutions through an
 equivalent of the tariff. The scheme in Wales is still named SIFT-W (for
 Wales); in Scotland, it is the ACT (Additional Costs of Teaching); and
 the Supplement for Undergraduate Medical and Dental Education (SUMDE) in
-Northern Ireland.\ :sup:`(n.d.h)`
+Northern Ireland.\ :sup:`8`
 
 .. _sec8:
 
@@ -339,46 +341,3 @@ http://dx.doi.org/10.1192/bjb.2020.50.
    .. rubric:: 
 
    click here to view supplementary material
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-ref1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-ref2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-ref3
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-ref4
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-ref5
-
-      n.d.e.
-
-   .. container:: csl-entry
-      :name: ref-ref6
-
-      n.d.f.
-
-   .. container:: csl-entry
-      :name: ref-ref7
-
-      n.d.g.
-
-   .. container:: csl-entry
-      :name: ref-ref8
-
-      n.d.h.

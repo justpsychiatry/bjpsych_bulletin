@@ -2,6 +2,8 @@
 Review of antipsychotic prescribing at HMP/YOI Low Newton
 =========================================================
 
+
+
 Lois Carey
 Stephen BarlowCorrespondence to Lois Carey (Lois.Carey@nhs.net)
 :Date: 2022-02
@@ -57,13 +59,12 @@ receptions per week) and psychiatric morbidity is common.
 Women in prison are five times more likely to have a mental health
 problem than women in the general population, with 78% exhibiting some
 kind of psychological disturbance on reception according to the 12-item
-General Health Questionnaire.\ :sup:`(n.d.a)` A study of remanded
-prisoners found 11% to be acutely psychotic on
-reception.\ :sup:`(n.d.b)`
+General Health Questionnaire.\ :sup:`1` A study of remanded prisoners
+found 11% to be acutely psychotic on reception.\ :sup:`2`
 
 At any one time, the mental health team in HMP Low Newton provides
 support to about a third of the population, about a quarter of whom have
-complex mental health needs.\ :sup:`(n.d.c)` The team conducts triage
+complex mental health needs.\ :sup:`3` The team conducts triage
 assessments for approximately 20 new patients each week. There are three
 sessions of clinical input from a psychiatrist, which, given the
 constraints on access to prisoners, amounts to approximately 6–8 h
@@ -84,21 +85,20 @@ practice for the relief of stress, anxiety and psychological distress,
 those licensed for this purpose, which include chlorpromazine,
 olanzapine and haloperidol, should only be used in the short term. There
 is no evidence that antipsychotics have any demonstrable long-term
-benefit in the management of personality disorders.\ :sup:`(n.d.d)`
-Despite this, off-label prescribing is increasingly common and has been
-identified as a cause for concern.\ :sup:`(n.d.e)`
+benefit in the management of personality disorders.\ :sup:`4` Despite
+this, off-label prescribing is increasingly common and has been
+identified as a cause for concern.\ :sup:`5`
 
 There is a growing body of literature highlighting the misuse potential
-of some antipsychotic medications, particularly
-quetiapine.\ :sup:`(n.d.f),(n.d.g)` There is also increasing awareness
-of the risks of harm from misuse and diversion of prescribed medicines
-in prison. These extend beyond the effects of the drugs themselves to
-include bullying, threats and coercion, and
-debt.\ :sup:`(n.d.h),(n.d.i)` Deaths from the misuse of prescribed
+of some antipsychotic medications, particularly quetiapine.\ :sup:`6,7`
+There is also increasing awareness of the risks of harm from misuse and
+diversion of prescribed medicines in prison. These extend beyond the
+effects of the drugs themselves to include bullying, threats and
+coercion, and debt.\ :sup:`8,9` Deaths from the misuse of prescribed
 drugs, including antipsychotics, are rising. The numbers of deaths
 caused by antipsychotics in 2017 saw an increase of just over 5% from
 2016, which equates to a rate of 2.1 per 1 million
-population.\ :sup:`(n.d.j)`
+population.\ :sup:`10`
 
 .. _sec2:
 
@@ -160,8 +160,8 @@ Age distribution
 The ages of the women taking antipsychotic medication ranged from 22 to
 55 years, with a mean and median of 35 years (`Fig. 1 <#fig01>`__ and
 `Table 1 <#tab01>`__) This was consistent with the age profile of the
-population as a whole within the prison.\ :sup:`(n.d.c)` Fig. 1Age in
-years of the women prescribed antipsychotic medication Table 1Age
+population as a whole within the prison.\ :sup:`3` Fig. 1Age in years of
+the women prescribed antipsychotic medication Table 1Age
 distributionAge, yearsPatients, *N*\ <21021–301631–401741–5011>502
 
 .. _sec4-2:
@@ -400,7 +400,7 @@ high number of female prisoners reporting difficulties with ‘mood’ and
 relation to ‘mood stabilisation’, as well as its antipsychotic effects.
 There is also, however, a likelihood that this medication is often
 requested by the prisoners for its ‘tradeable’ status and potential for
-misuse.\ :sup:`(n.d.k)`
+misuse.\ :sup:`11`
 
 There is a high rate of polypharmacy in relation to psychotropic
 medication, which can increase the risk of side-effects and physical
@@ -412,7 +412,7 @@ medication over alternative treatments such as psychological
 intervention.
 
 Psychological therapies are identified as the primary treatment for
-patients with personality disorder.\ :sup:`(n.d.d)` At HMP Low Newton, a
+patients with personality disorder.\ :sup:`4` At HMP Low Newton, a
 variety of psychological services are available. These include the
 12-bedded Primrose Unit, for women with severe personality disorder,
 which forms part of the Offender Personality Disorder Pathway, and a
@@ -505,61 +505,3 @@ http://doi.org/10.1192/bjb.2020.80.
    .. rubric:: 
 
    click here to view supplementary material
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-ref1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-ref2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-ref3
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-ref4
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-ref5
-
-      n.d.e.
-
-   .. container:: csl-entry
-      :name: ref-ref6
-
-      n.d.f.
-
-   .. container:: csl-entry
-      :name: ref-ref7
-
-      n.d.g.
-
-   .. container:: csl-entry
-      :name: ref-ref8
-
-      n.d.h.
-
-   .. container:: csl-entry
-      :name: ref-ref9
-
-      n.d.i.
-
-   .. container:: csl-entry
-      :name: ref-ref10
-
-      n.d.j.
-
-   .. container:: csl-entry
-      :name: ref-ref11
-
-      n.d.k.

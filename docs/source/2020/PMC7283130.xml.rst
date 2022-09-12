@@ -2,6 +2,8 @@
 Online mood monitoring in treatment-resistant depression: qualitative study of patients' perspectives in the NHS
 ================================================================================================================
 
+
+
 Emma Incecik
 Rachael W. Taylor
 Beatrice Valentini
@@ -47,20 +49,19 @@ Lindsey Marwood [1]_Correspondence to Rachael W. Taylor
 ..
 
 Patients with treatment-resistant depression (TRD) can experience a more
-chronic and severe course of illness.\ :sup:`(n.d.a)` These outcomes
-could be improved by online mood monitoring to facilitate treatment
-personalisation, and the evaluation of treatment
-efficacy.\ :sup:`(n.d.b)–(n.d.c)` True Colours is an automated
-monitoring system developed by clinicians and currently used by
-psychiatric services in Oxford Health National Health Service (NHS)
-Foundation Trust, as well as by clinical trials across the country.
-Patients in Oxford Health are provided with access to True Colours by
-their clinical team at their or their clinicians request, whereas
-clinical trial teams can use the system to monitor participants and
-collect relevant outcome data. True Colours is also available via the
-Bipolar Disorder Research Network to patients with a diagnosis of
-bipolar disorder living in the UK.\ :sup:`(n.d.d)` The system allows
-patients to self-monitor and self-manage symptoms\ :sup:`(n.d.e)` by
+chronic and severe course of illness.\ :sup:`1` These outcomes could be
+improved by online mood monitoring to facilitate treatment
+personalisation, and the evaluation of treatment efficacy.\ :sup:`2–4`
+True Colours is an automated monitoring system developed by clinicians
+and currently used by psychiatric services in Oxford Health National
+Health Service (NHS) Foundation Trust, as well as by clinical trials
+across the country. Patients in Oxford Health are provided with access
+to True Colours by their clinical team at their or their clinicians
+request, whereas clinical trial teams can use the system to monitor
+participants and collect relevant outcome data. True Colours is also
+available via the Bipolar Disorder Research Network to patients with a
+diagnosis of bipolar disorder living in the UK.\ :sup:`5` The system
+allows patients to self-monitor and self-manage symptoms\ :sup:`6` by
 prompting them to complete personalised questionnaire assessments
 according to the time, frequency and mode of interaction selected.
 Patient responses are stored and displayed graphically through the
@@ -68,19 +69,18 @@ interface, and are also made available to the patient's clinician or
 research team.
 
 Adherence rates in patients with bipolar disorder are between 75 and
-100%,\ :sup:`(n.d.f),(n.d.g)` and qualitative assessments indicated that
-patients with bipolar disorder find the system easy to use and a
-positive contributor to their clinical care and
-self-management.\ :sup:`(n.d.h)` Comments on the flexibility of the
-system led to the development of a personalised questionnaire feature,
-which allows patients to add questions to their
-schedule.\ :sup:`(n.d.i)` However, although the system is routinely used
-by patients with unipolar TRD, it is not clear whether they similarly
-benefit. Establishing the experience of this patient group is essential
-to maximising the clinical utility of this and other mood monitoring
-systems. This study aimed to qualitatively assess the perspectives of
-patients with unipolar TRD who used True Colours as part of the Lithium
-versus Quetiapine in Depression (LQD) study.\ :sup:`(n.d.j)`
+100%,\ :sup:`7,8` and qualitative assessments indicated that patients
+with bipolar disorder find the system easy to use and a positive
+contributor to their clinical care and self-management.\ :sup:`9`
+Comments on the flexibility of the system led to the development of a
+personalised questionnaire feature, which allows patients to add
+questions to their schedule.\ :sup:`10` However, although the system is
+routinely used by patients with unipolar TRD, it is not clear whether
+they similarly benefit. Establishing the experience of this patient
+group is essential to maximising the clinical utility of this and other
+mood monitoring systems. This study aimed to qualitatively assess the
+perspectives of patients with unipolar TRD who used True Colours as part
+of the Lithium versus Quetiapine in Depression (LQD) study.\ :sup:`11`
 
 .. _sec1:
 
@@ -103,14 +103,14 @@ participants attending an 8, 26 or 52 week follow-up assessment in that
 period were given the opportunity to participate in this additional
 study at the relevant follow-up assessment, conducted at a clinical
 research facility. Repeat interviews were not conducted. The full
-methodology of LQD has been reported.\ :sup:`(n.d.j)` In brief, adult
+methodology of LQD has been reported.\ :sup:`11` In brief, adult
 patients meeting the criteria for TRD were randomised to receive lithium
 or quetiapine augmentation and followed up over 12 months. As part of
 the study, participants were asked to complete two questionnaires weekly
 via True Colours to collect primary outcome data: the Quick Inventory of
-Depressive Symptomatology (QIDS-SR)\ :sup:`(n.d.k)` and Work and Social
-Adjustment Scale (WSAS).\ :sup:`(n.d.l)` Study-specific questions
-regarding medication were included to track dosage and adherence.
+Depressive Symptomatology (QIDS-SR)\ :sup:`12` and Work and Social
+Adjustment Scale (WSAS).\ :sup:`13` Study-specific questions regarding
+medication were included to track dosage and adherence.
 
 .. _sec1-2:
 
@@ -125,7 +125,7 @@ degree. L.M. conducted training with all interviewers. Typically, the
 researchers had an existing relationship with the interviewees having
 conducted their prior LQD assessments. Interviews ceased once data
 saturation was reached, meaning no new emergent themes were being
-identified by the collection of additional data.\ :sup:`(n.d.m)`
+identified by the collection of additional data.\ :sup:`14`
 
 .. _sec1-3:
 
@@ -138,7 +138,7 @@ participants were assigned a code for reference.
 
 A thematic analysis was conducted – a widely used method for
 identifying, analysing and reporting patterns within data – with steps
-recommended by Braun and Clarke.\ :sup:`(n.d.n)` This included actively
+recommended by Braun and Clarke.\ :sup:`15` This included actively
 reading the entire data-set several times, systematically identifying
 and coding for key features, analysing codes and combining them to form
 broader themes. Themes were them reviewed and refined to ensure that
@@ -148,10 +148,10 @@ lack of supporting data), and the collapsing of others into one, with
 additional subthemes. Finally, themes were appropriately named, and
 evidence included for each in the present report. This approach is
 inductive (bottom-up), meaning the themes identified were data
-driven.\ :sup:`(n.d.o)` Two researchers (E.I. and B.V.) conducted
-analyses independently, and discrepancies in the identified themes were
-discussed with L.M. and R.W.T. until resolved by consensus. The second
-rater (B.V.) did not conduct any qualitative interviews, minimising any
+driven.\ :sup:`16` Two researchers (E.I. and B.V.) conducted analyses
+independently, and discrepancies in the identified themes were discussed
+with L.M. and R.W.T. until resolved by consensus. The second rater
+(B.V.) did not conduct any qualitative interviews, minimising any
 potential bias.
 
 .. _sec2:
@@ -456,7 +456,7 @@ thought to contribute to a deterioration in mood. This aligns with the
 suggestion that the ability to identify and characterise one's mood
 state can predict positive affect, but a tendency to frequently
 scrutinise one's mood can predict negative affect and
-rumination.\ :sup:`(n.d.p)`
+rumination.\ :sup:`17`
 
 For most participants the perceived increase in insight was not
 associated with subsequent behaviour change. Neither completing the
@@ -465,16 +465,16 @@ responses over time, led participants to make connections between
 patterns in their illness and their lifestyle choices. This is in
 contrast with research in patients with bipolar disorder, whereby
 monitoring via True Colours and other automated systems was associated
-with change in behaviour/improved
-self-management.\ :sup:`(n.d.g),(n.d.h)` This may be owing to the
-differing nature of TRD, which is not characterised by the same cyclic
-mood changes, and patients with unipolar TRD may require additional
-support for mood monitoring to inform behaviour change. It may be that
-patients with TRD who are undertaking therapies such as behavioural
-activation could benefit in this regard. The potentially unique needs of
-this patient group highlighted here would clearly benefit from further
-qualitative and quantitative research to fully understand how patients
-with TRD can benefit from this and other mood monitoring systems.
+with change in behaviour/improved self-management.\ :sup:`8,9` This may
+be owing to the differing nature of TRD, which is not characterised by
+the same cyclic mood changes, and patients with unipolar TRD may require
+additional support for mood monitoring to inform behaviour change. It
+may be that patients with TRD who are undertaking therapies such as
+behavioural activation could benefit in this regard. The potentially
+unique needs of this patient group highlighted here would clearly
+benefit from further qualitative and quantitative research to fully
+understand how patients with TRD can benefit from this and other mood
+monitoring systems.
 
 Although participants did not use True Colours for self-management,
 their responses suggested confidence that the system could improve
@@ -498,11 +498,11 @@ Three key barriers to mood monitoring via True Colours were identified.
 First, participants indicated that it was difficult to find the time
 and/or motivation to engage consistently with the system. However, as
 discussed, LQD participants were required to complete two questionnaires
-each week as well as study-specific questions.\ :sup:`(n.d.j)` In
-standard clinical practice, a manageable amount and frequency of use
-could be agreed between patient and clinician. Balancing the need to
-collect sufficient data while minimising the burden placed on patients
-is an important consideration and likely to be relevant to other online
+each week as well as study-specific questions.\ :sup:`11` In standard
+clinical practice, a manageable amount and frequency of use could be
+agreed between patient and clinician. Balancing the need to collect
+sufficient data while minimising the burden placed on patients is an
+important consideration and likely to be relevant to other online
 platforms.
 
 Second, participants raised concerns about their ability to categorise
@@ -531,7 +531,7 @@ There are limitations to this study. Convenience sampling was used, and
 although this is a widely used method of sampling in qualitative work,
 it may limit the transferability of the results to other settings,
 particularly as all participants were selected from a single clinical
-trial.\ :sup:`(n.d.q)` Participants also varied in how long and to what
+trial.\ :sup:`18` Participants also varied in how long and to what
 extent they had used True Colours, making it difficult for some to
 comment on certain features (e.g. the graphs). The content and frequency
 of questionnaires was also protocolised according to the design of the
@@ -558,12 +558,11 @@ translates to an improvement in empirical outcomes.
 Although this qualitative study was conducted in a single sample taken
 from a clinical trial, the differences between the experiences of
 patients with unipolar TRD reported here and those of patients with
-bipolar disorder\ :sup:`(n.d.h)` may have wider implications across
-settings and mood monitoring platforms. It is clear that online tools
-developed to support patient care are not ‘one size fits all’, and the
-experiences and preferences of individual patient groups must be
-accounted for during development if such tools are to provide the
-benefits intended.
+bipolar disorder\ :sup:`9` may have wider implications across settings
+and mood monitoring platforms. It is clear that online tools developed
+to support patient care are not ‘one size fits all’, and the experiences
+and preferences of individual patient groups must be accounted for
+during development if such tools are to provide the benefits intended.
 
 We would like to thank Vanashree Wadekar for programming and setting up
 the LQD study questionnaires on the True Colours system, Valeria De
@@ -627,94 +626,6 @@ B.V., R.W.T. and L.M. contributed to the analysis, with support in
 analysis design from S.L.H. E.I. and R.W.T. drafted the manuscript and
 all authors made revisions to the intellectual content and approved the
 final version. All authors are accountable for all aspects of the work.
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-ref1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-ref2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-ref4
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-ref5
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-ref6
-
-      n.d.e.
-
-   .. container:: csl-entry
-      :name: ref-ref7
-
-      n.d.f.
-
-   .. container:: csl-entry
-      :name: ref-ref8
-
-      n.d.g.
-
-   .. container:: csl-entry
-      :name: ref-ref9
-
-      n.d.h.
-
-   .. container:: csl-entry
-      :name: ref-ref10
-
-      n.d.i.
-
-   .. container:: csl-entry
-      :name: ref-ref11
-
-      n.d.j.
-
-   .. container:: csl-entry
-      :name: ref-ref12
-
-      n.d.k.
-
-   .. container:: csl-entry
-      :name: ref-ref13
-
-      n.d.l.
-
-   .. container:: csl-entry
-      :name: ref-ref14
-
-      n.d.m.
-
-   .. container:: csl-entry
-      :name: ref-ref15
-
-      n.d.n.
-
-   .. container:: csl-entry
-      :name: ref-ref16
-
-      n.d.o.
-
-   .. container:: csl-entry
-      :name: ref-ref17
-
-      n.d.p.
-
-   .. container:: csl-entry
-      :name: ref-ref18
-
-      n.d.q.
 
 .. [1]
    **Declaration of interest:** In the past 3 years, A.J.C. has received

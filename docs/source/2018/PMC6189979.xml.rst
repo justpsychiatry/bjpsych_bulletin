@@ -2,6 +2,8 @@
 Dear *BJPsych Bulletin*\ …
 ==========================
 
+
+
 Norman PooleCorrespondence to Dr Norman Poole (pb@rcpsych.ac.uk)
 :Date: 2018-10
 
@@ -35,21 +37,20 @@ publication. Nor do I Tweet.
 All this avoidance of letter writing would not appear to be good
 preparation for a career in psychiatry, however, and I am always
 immensely impressed by those who do put pen to paper. Freud was of
-course a prodigious writer of letters;(n.d.a) these are worth a read for
-the light they shed on the man's foibles as much as the development of
-his ideas. His letter to the concerned mother of a young gay man,(n.d.b)
-in which he assures her that homosexuality is ‘nothing to be ashamed of’
-and its persecution ‘a great injustice’, exemplifies the qualities of a
-good letter: crafted, lucid and brief, with a hint of wit. Not everyone
-can aspire to such prose, but the correspondence section of a journal is
+course a prodigious writer of letters;1 these are worth a read for the
+light they shed on the man's foibles as much as the development of his
+ideas. His letter to the concerned mother of a young gay man,2 in which
+he assures her that homosexuality is ‘nothing to be ashamed of’ and its
+persecution ‘a great injustice’, exemplifies the qualities of a good
+letter: crafted, lucid and brief, with a hint of wit. Not everyone can
+aspire to such prose, but the correspondence section of a journal is
 often its most lively and combative. Recent notable examples within
-these pages include the exchange between Sameer Jauhar and Allan
-Young(n.d.c) and Joanna Moncrief,(n.d.d) following her typically
-provocative paper in our *Against the Stream* series. I was also struck
-by Martin Plöderl and Clemens Fartacek's admirably brief account of
-complexity theory in risk assessment in April's edition.(n.d.e) A
-well-written rebuttal can influence minds as much as any original paper,
-and quicker too.
+these pages include the exchange between Sameer Jauhar and Allan Young3
+and Joanna Moncrief,4 following her typically provocative paper in our
+*Against the Stream* series. I was also struck by Martin Plöderl and
+Clemens Fartacek's admirably brief account of complexity theory in risk
+assessment in April's edition.5 A well-written rebuttal can influence
+minds as much as any original paper, and quicker too.
 
 Notwithstanding some admiration for the scribblers’ art, you can imagine
 my state of mind when our correspondence editor Greg Shields handed in
@@ -75,31 +76,3 @@ that’, then get going. Just don't expect a reply.
 Dr Norman Poole is Editor of the *BJPsych Bulletin* and Consultant
 Neuropsychiatrist at St George's Hospital, South West London and St
 George's Mental Health NHS Trust, UK.
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-ref1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-ref2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-ref3
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-ref4
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-ref5
-
-      n.d.e.

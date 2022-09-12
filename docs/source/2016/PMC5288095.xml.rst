@@ -2,6 +2,8 @@
 The most important things I have learnt in my career as a psychiatrist
 ======================================================================
 
+
+
 Julian LeffCorrespondence to Julian Leff (julian.leff@kcl.ac.uk)  [1]_
 :Date: 2017-2
 
@@ -83,8 +85,8 @@ psychiatry, and this attitude can stimulate research projects which have
 the potential to lead to breakthroughs in psychiatric treatments. For
 example, my concern about the failure of antipsychotic medication to
 suppress auditory hallucinations in one in four patients led me to
-develop avatar therapy, :sup:`(n.d.a)` a novel and effective treatment
-for this debilitating condition.
+develop avatar therapy, :sup:`1` a novel and effective treatment for
+this debilitating condition.
 
 .. _S3:
 
@@ -108,7 +110,7 @@ and given credence to their narratives, they would have introduced CBTp
 much earlier, saving considerable suffering. While CBTp alleviates the
 anxiety of patients with persecutory auditory hallucinations, it has
 little impact on their frequency or volume, as opposed to avatar
-therapy. :sup:`(n.d.a)`
+therapy. :sup:`1`
 
 .. _S4:
 
@@ -120,11 +122,11 @@ quantitative studies, such as patients' experience of novel therapies,
 but they are of equal importance. Quantitative and qualitative studies
 are not in competition, but complement each other and are very
 informative when employed in tandem. An example is the current
-large-scale replication study of the value of avatar therapy.
-:sup:`(n.d.b)` Standard quantitative measures of the participants'
-assessment of the power and malignancy of their persecutory voices are
-augmented by the participants' accounts of their experience of standing
-up to the avatar they have created as a proxy for their persecutor.
+large-scale replication study of the value of avatar therapy. :sup:`2`
+Standard quantitative measures of the participants' assessment of the
+power and malignancy of their persecutory voices are augmented by the
+participants' accounts of their experience of standing up to the avatar
+they have created as a proxy for their persecutor.
 
 .. _S5:
 
@@ -175,7 +177,7 @@ following sequence.
 When Christine Vaughn joined the Social Psychiatry Unit, she decided
 that she wanted to embark on a PhD to replicate the findings of Brown,
 Birley and Wing that high expressed emotion in family carers
-significantly predicted relapse of schizophrenia. :sup:`(n.d.c)` This
+significantly predicted relapse of schizophrenia. :sup:`3` This
 pioneering study was surprisingly neglected by the psychiatric
 community, probably because of the prevailing adherence to biological
 explanations for schizophrenia. Christine and I decided that a
@@ -187,10 +189,10 @@ depressive disorder to ascertain whether expressed emotion was a
 specific predictor for schizophrenia or whether it would predict relapse
 of depression as well. In the event it turned out to be a more potent
 predictor for relapse of depression than for relapse of schizophrenia,
-as shown by Jill Hooley in her PhD in the USA. :sup:`(n.d.d)` In
-addition, our study replicated the protective effects of medication and
-low contact with the carer against the stress of high expressed emotion
-that the earlier study had revealed. This stimulated me to consider the
+as shown by Jill Hooley in her PhD in the USA. :sup:`4` In addition, our
+study replicated the protective effects of medication and low contact
+with the carer against the stress of high expressed emotion that the
+earlier study had revealed. This stimulated me to consider the
 possibility of intervening in high expressed emotion families to lower
 expressed emotion and contact between the patient and the family carers.
 There were two compelling reasons for this: primarily, to determine the
@@ -207,8 +209,8 @@ Germany who was a trained psychoanalyst and myself as an eclectic
 therapist with no strong adherence to any one theory of family
 functioning. The therapy used by this heterogeneous team was remarkably
 effective, succeeding in reducing the patients' relapse rate over 9
-months from 50% to less than 10%. :sup:`(n.d.e)` The success of this
-trial led to two more randomised controlled trials (RCTs), including a
+months from 50% to less than 10%. :sup:`5` The success of this trial led
+to two more randomised controlled trials (RCTs), including a
 cost-benefit study. The accumulation of this evidence plus ten
 replications in different countries led the National Institute for
 Health and Clinical Excellence (NICE) to recommend that family carers of
@@ -229,8 +231,8 @@ discussion.
 Linear thinking forms the basis of almost all biological research in
 psychiatry. It has a long history, having been first formulated by the
 Greek philosophers Anaximander and Plato. In the modern era, Von
-Bertalanffy was the first to challenge linear thinking. :sup:`(n.d.f)`
-He stated that we must think in terms of systems of elements in mutual
+Bertalanffy was the first to challenge linear thinking. :sup:`6` He
+stated that we must think in terms of systems of elements in mutual
 interaction. At that time, the development of cybernetics promoted
 systems thinking. The process of feedback whereby missiles could monitor
 and correct their trajectory was recognised as analogous to the
@@ -238,9 +240,9 @@ biological system's capacity to maintain and organise itself in nature.
 This formulation was seen as very relevant to the process of family
 therapy. The family theorist Gregory Bateson wrote: ‘I think that
 cybernetics is the biggest bite out of the Tree of Knowledge that
-mankind has taken in the last 2000 years’. :sup:`(n.d.g)` It is ironic
-that a technology developed to destroy human beings should contribute to
-our understanding of family relationships.
+mankind has taken in the last 2000 years’. :sup:`7` It is ironic that a
+technology developed to destroy human beings should contribute to our
+understanding of family relationships.
 
 Homeostasis is a concept fundamental to systems theory. It is achieved
 by negative feedback loops, which stabilise the system by reducing
@@ -255,9 +257,9 @@ own smile.
 
 Robert Dubin considers that the difficulty of avoiding linear thinking
 stems from our propensity to look for isolatable one-way causes.
-:sup:`(n.d.h)` Feedback processes can easily be overlooked, not only
-because the linear perspective is the dominant mode, but also because
-they tend to be unnoticed owing to their very pervasiveness.
+:sup:`8` Feedback processes can easily be overlooked, not only because
+the linear perspective is the dominant mode, but also because they tend
+to be unnoticed owing to their very pervasiveness.
 
 Earlier I stated that one compelling reason for working with high
 expressed emotion families was, I quote myself, ‘to determine the
@@ -448,7 +450,7 @@ were uncertain. In the event, all the patients considered suitable to
 live in the sheltered homes in the community by the resettlement teams
 adapted well to life in the outside world, and when asked where they
 would prefer to live a year later, 84% wanted to stay where they were.
-:sup:`(n.d.i)`
+:sup:`9`
 
 Friern hospital did close on time 10 years after the decanting began.The
 Claybury closure was delayed because the consultants there went on
@@ -528,54 +530,6 @@ Do not be put off by the hard work and inevitable disappointments. They
 are more than compensated for by the intellectual excitement generated
 by research and the knowledge that you are improving the lives of your
 patients.
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-R1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-R2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-R3
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-R4
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-R5
-
-      n.d.e.
-
-   .. container:: csl-entry
-      :name: ref-R6
-
-      n.d.f.
-
-   .. container:: csl-entry
-      :name: ref-R7
-
-      n.d.g.
-
-   .. container:: csl-entry
-      :name: ref-R8
-
-      n.d.h.
-
-   .. container:: csl-entry
-      :name: ref-R9
-
-      n.d.i.
 
 .. [1]
    **Julian Leff** is an Honorary Professor at University College London

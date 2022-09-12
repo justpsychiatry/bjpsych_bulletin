@@ -2,6 +2,8 @@
 Model for ethical triaging of electroconvulsive therapy patients during the COVID-19 pandemic
 =============================================================================================
 
+
+
 Phern-Chern Tor
 Jacinta Tan
 Colleen LooCorrespondence to Phern-Chern Tor
@@ -24,42 +26,41 @@ Colleen LooCorrespondence to Phern-Chern Tor
 ..
 
 Electroconvulsive therapy (ECT) is the most effective acute treatment
-for severe depression.\ :sup:`(n.d.a)` It is also effective in reducing
+for severe depression.\ :sup:`1` It is also effective in reducing
 psychotic symptoms in treatment-resistant schizophrenia and in treating
 mania and catatonia. The National Institute for Health and Care
-Excellence (NICE) treatment guidelines for ECT\ :sup:`(n.d.b)` and the
-Royal College of Psychiatrists’ position statement on
-ECT\ :sup:`(n.d.c)` state that ECT should be a first-line treatment
-where rapid response is required because of high suicide risk, poor oral
-intake or other conditions where the patient's physical health is at
-risk. These guidelines also state that valid informed consent should be
-obtained without pressure or coercion, in the context of significant
-stigma, discrimination and controversy associated with the
-treatment.\ :sup:`(n.d.b)` A substitute decision maker should be
-available to patients lacking capacity to give consent, as there is
-increasing evidence that patients lacking capacity have
-equivalent\ :sup:`(n.d.d)` to superior responses\ :sup:`(n.d.e)` to ECT
+Excellence (NICE) treatment guidelines for ECT\ :sup:`2` and the Royal
+College of Psychiatrists’ position statement on ECT\ :sup:`3` state that
+ECT should be a first-line treatment where rapid response is required
+because of high suicide risk, poor oral intake or other conditions where
+the patient's physical health is at risk. These guidelines also state
+that valid informed consent should be obtained without pressure or
+coercion, in the context of significant stigma, discrimination and
+controversy associated with the treatment.\ :sup:`2` A substitute
+decision maker should be available to patients lacking capacity to give
+consent, as there is increasing evidence that patients lacking capacity
+have equivalent\ :sup:`4` to superior responses\ :sup:`5` to ECT
 compared with capacitous patients. Despite its impressive effectiveness
 and broad spectrum of effect, ECT has experienced at least 20 years of
 decreasing in-patient use in the USA. In 2017 a study reported that only
 1 in 10 US hospitals offered ECT and only 1.5% of severely depressed
-in-patients received ECT,\ :sup:`(n.d.f)` the most effective treatment
-for severe depression. These trends are also evident in the UK and
-Ireland.\ :sup:`(n.d.g)` Furthermore, the use of ECT is controversial
-and has its detractors and some consider it unacceptable in modern
-psychiatry.\ :sup:`(n.d.h)`
+in-patients received ECT,\ :sup:`6` the most effective treatment for
+severe depression. These trends are also evident in the UK and
+Ireland.\ :sup:`7` Furthermore, the use of ECT is controversial and has
+its detractors and some consider it unacceptable in modern
+psychiatry.\ :sup:`8`
 
 With the COVID-19 pandemic, ECT challenges have compounded from a
 problem of getting patients to accept ECT to an additional challenge of
 struggling to continue providing ECT for existing patients. Already
 scarce ECT resources have been further reduced by lack of personal
 protective equipment (PPE), restriction of anaesthesia and limited
-institutional support.\ :sup:`(n.d.i)` The International Society of ECT
-and Neurostimulation (ISEN) has published a position statement on ECT
-during COVID-19 which includes classifying cases into elective,
+institutional support.\ :sup:`9` The International Society of ECT and
+Neurostimulation (ISEN) has published a position statement on ECT during
+COVID-19 which includes classifying cases into elective,
 urgent/essential and emergency and suggests triaging patients to reduce
-demand for ECT.\ :sup:`(n.d.j)` This recommendation to triage patients
-is a relatively novel situation for many ECT practitioners, who are more
+demand for ECT.\ :sup:`10` This recommendation to triage patients is a
+relatively novel situation for many ECT practitioners, who are more
 accustomed to a ‘first come, first served’ situation in routine ECT
 practice. We suggest a useful ethical model that can be used in
 conjunction with existing ethical frameworks to assist ECT practitioners
@@ -73,7 +74,7 @@ General medical ethics applied to ECT
 
 A commonly accepted framework for medical ethics uses the ‘Georgetown
 principles’ of beneficence, non-maleficence, autonomy and justice.
-Ottosson & Fink\ :sup:`(n.d.k)` suggest the following ECT-specific
+Ottosson & Fink\ :sup:`11` suggest the following ECT-specific
 considerations for each principle.
 
 .. _sec1-1:
@@ -93,12 +94,12 @@ Non-maleficence
 ---------------
 
 Given that mortality with ECT is lower than overall mortality associated
-with general anaesthesia,\ :sup:`(n.d.l)` and lower than if the patient
-had not received ECT,\ :sup:`(n.d.m)` the main side-effect of concern is
+with general anaesthesia,\ :sup:`12` and lower than if the patient had
+not received ECT,\ :sup:`13` the main side-effect of concern is
 cognitive impairment. However, the cognitive impairment is often
 transient, lasting for a shorter period than the therapeutic effect of
 ECT and can be minimised using empirically derived dosing of
-ECT.\ :sup:`(n.d.n)`
+ECT.\ :sup:`14`
 
 .. _sec1-3:
 
@@ -112,7 +113,7 @@ paternalism in the patient's best interests and authoritarianism that
 discounts the patient's autonomy. Prescribing ECT with a substitute
 decision-making process or in patient's best interests is increasingly
 supported by recent evidence of equivalent to superior outcomes in
-patients lacking capacity to consent to ECT.\ :sup:`(n.d.e)`
+patients lacking capacity to consent to ECT.\ :sup:`5`
 
 .. _sec1-4:
 
@@ -122,9 +123,9 @@ Justice
 There are three broad forms of distributive justice: egalitarian (equal
 access), libertarian (the right to social and economic liberty) and
 utilitarian (maximise public utility). During a time of limited
-resources, Emanuel *et al*\ :sup:`(n.d.o)` argue that a utilitarian
-approach is the most appropriate, i.e. emphasising population outcomes
-by triaging patients who are most likely to respond and derive the most
+resources, Emanuel *et al*\ :sup:`15` argue that a utilitarian approach
+is the most appropriate, i.e. emphasising population outcomes by
+triaging patients who are most likely to respond and derive the most
 benefit from ECT with the least risk of harm to the patients and the ECT
 team. This could even mean pausing ECT for a patient with low
 utilitarian potential in order to start ECT for a patient with high
@@ -134,8 +135,8 @@ For the purposes of this discussion, the context is that of a
 predominantly public or taxpayer-funded healthcare system rather than
 one that is predominantly insurance or self-funded. The former system is
 more likely to face the problems of scare resources requiring healthcare
-rationing\ :sup:`(n.d.p)` and the libertarian aspects of justice may be
-less dominant.
+rationing\ :sup:`16` and the libertarian aspects of justice may be less
+dominant.
 
 .. _sec2:
 
@@ -148,9 +149,9 @@ routine care delivery during the crisis, leading to increased risk of
 harm to patients’ healthincreased risk of patients getting COVID-19
 owing to lack of ECT (e.g. delayed discharge from hospital while their
 illness resolves more slowly and higher vulnerability to COVID-19 among
-severely mentally ill patients\ :sup:`(n.d.i)`)increased risk of
-patients getting COVID-19 while attending for ECT (e.g. repeated
-out-patient appointments for ECT, requiring patients to travel more
+severely mentally ill patients\ :sup:`9`)increased risk of patients
+getting COVID-19 while attending for ECT (e.g. repeated out-patient
+appointments for ECT, requiring patients to travel more
 frequently)increased risk to the team delivering ECT, due to the higher
 risk of infection from patients receiving general anaesthesia and
 potential aerosolisation of patients’ respiratory materialutilisation of
@@ -163,7 +164,7 @@ intensive treatment units (ITUs).
 How should we ethically triage ECT patients during COVID-19?
 ============================================================
 
-Emanuel et al\ :sup:`(n.d.o)` provide a four-point framework to guide
+Emanuel et al\ :sup:`15` provide a four-point framework to guide
 rationing of scarce healthcare resources during COVID-19: (a) maximise
 benefits; (b) treat people equally; (c) promote and reward instrumental
 value; and (d) give priority to the worst off.
@@ -283,7 +284,7 @@ options have been relatively ineffective.
 
 This scenario has a patient with both positive (depression, older age)
 and negative (history of personality disorder and anxiety) predictors
-for ECT response,\ :sup:`(n.d.q)` no response to the first five ECT
+for ECT response,\ :sup:`17` no response to the first five ECT
 treatments and a significant risk of having presymptomatic COVID-19. The
 principle of ‘maximizing benefits’ is less clear here, as her prognosis
 of responding to ECT is mixed, and the principle of ‘promoting and
@@ -311,7 +312,7 @@ ensure adequate ECT resources, so that both high- and low-priority
 patients can receive high-quality ECT. This requires deliberate short-
 and long-term planning and negotiation for scarce resources within
 healthcare systems, the exploration of new ECT resources (e.g. advanced
-practice nurses for both anaesthesia and ECT delivery,\ :sup:`(n.d.r)`
+practice nurses for both anaesthesia and ECT delivery,\ :sup:`18`
 dedicated ECT suites to avoid competition with surgical needs) and
 adequate PPE for ECT staff and patients. The current COVID-19 crisis has
 placed significant strain on healthcare resources for many months, and
@@ -328,11 +329,11 @@ dilemmas about how to prioritise patients must be addressed to ensure
 that patients with non-COVID disorders continue to have their healthcare
 needs met fairly and equitably in a fully accountable way. These efforts
 should be a priority even after the COVID-19 situation eventually
-resolves. Given the SARS outbreak in 2003\ :sup:`(n.d.s)` and the
-current COVID-19 outbreak,\ :sup:`(n.d.i)` which both caught most of the
-world largely unprepared, there is a strong ethical imperative to
-prepare for the future third coronavirus outbreak or, indeed, second or
-third waves of COVID-19 either locally or globally.
+resolves. Given the SARS outbreak in 2003\ :sup:`19` and the current
+COVID-19 outbreak,\ :sup:`9` which both caught most of the world largely
+unprepared, there is a strong ethical imperative to prepare for the
+future third coronavirus outbreak or, indeed, second or third waves of
+COVID-19 either locally or globally.
 
 **Phern-Chern Tor**, MBBS, DFD(CAW), MMed(Psych), FAMS, is a consultant
 psychiatrist and head of the Neurostimulation Service at the Institute
@@ -372,103 +373,5 @@ http://dx.doi.org/10.1192/bjb.2020.99.
 
    click here to view supplementary material
 
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-ref1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-ref2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-ref3
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-ref4
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-ref5
-
-      n.d.e.
-
-   .. container:: csl-entry
-      :name: ref-ref6
-
-      n.d.f.
-
-   .. container:: csl-entry
-      :name: ref-ref7
-
-      n.d.g.
-
-   .. container:: csl-entry
-      :name: ref-ref8
-
-      n.d.h.
-
-   .. container:: csl-entry
-      :name: ref-ref9
-
-      n.d.i.
-
-   .. container:: csl-entry
-      :name: ref-ref10
-
-      n.d.j.
-
-   .. container:: csl-entry
-      :name: ref-ref11
-
-      n.d.k.
-
-   .. container:: csl-entry
-      :name: ref-ref12
-
-      n.d.l.
-
-   .. container:: csl-entry
-      :name: ref-ref13
-
-      n.d.m.
-
-   .. container:: csl-entry
-      :name: ref-ref14
-
-      n.d.n.
-
-   .. container:: csl-entry
-      :name: ref-ref15
-
-      n.d.o.
-
-   .. container:: csl-entry
-      :name: ref-ref16
-
-      n.d.p.
-
-   .. container:: csl-entry
-      :name: ref-ref17
-
-      n.d.q.
-
-   .. container:: csl-entry
-      :name: ref-ref18
-
-      n.d.r.
-
-   .. container:: csl-entry
-      :name: ref-ref19
-
-      n.d.s.
-
 .. [1]
-   Based on Emanuel et al's four-point framework.\ \ :sup:`(n.d.m)`
+   Based on Emanuel et al's four-point framework.\ \ :sup:`13`

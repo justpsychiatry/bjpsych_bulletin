@@ -2,6 +2,8 @@
 Patients in mental healthcare should be referred to as patients and not service users
 =====================================================================================
 
+
+
 Stefan PriebeCorrespondence to Stefan Priebe (s.priebe@qmul.ac.uk)
 :Date: 2021-12
 
@@ -33,17 +35,17 @@ asylums, which tended to change their names to avoid the negative
 connotations associated with a previous name that had been built up in
 the population over time. For example, the Karl-Bonhoeffer-Nervenklinik
 (last of the changed names) in Berlin changed its name four times within
-a period of only 100 years.\ :sup:`(n.d.a)`
+a period of only 100 years.\ :sup:`1`
 
 Recently, there has been a shift in the National Health Service (NHS)
 towards calling patients in mental healthcare ‘service users’ instead of
 patients. The term is used in guidelines published by the National
-Institute for Health and Care Excellence (NICE),\ :sup:`(n.d.b)` in
-publications of voluntary organisations\ :sup:`(n.d.c)` and in
-prestigious scientific journals.\ :sup:`(n.d.d)` Of course, every
-individual should be entitled to be addressed in any way they like, but
-the question is whether the term service user should be generally used
-when referring to patients.
+Institute for Health and Care Excellence (NICE),\ :sup:`2` in
+publications of voluntary organisations\ :sup:`3` and in prestigious
+scientific journals.\ :sup:`4` Of course, every individual should be
+entitled to be addressed in any way they like, but the question is
+whether the term service user should be generally used when referring to
+patients.
 
 I will argue that the term service user should be avoided, for four
 reasons: because it is discriminating, cynical, patronising and
@@ -70,9 +72,9 @@ challenged outside mental health. If mental health services now diverge
 from other health services and decide to call their patients by another
 term, they turn their patients into something different. Parity of
 esteem – defined as ‘valuing mental health equally with physical
-health’\ :sup:`(n.d.e)` – is undermined when mental health services use
-terms that distinguish their patients from patients in other services
-and, thus, discriminate against their own patients.
+health’\ :sup:`5` – is undermined when mental health services use terms
+that distinguish their patients from patients in other services and,
+thus, discriminate against their own patients.
 
 .. _sec2:
 
@@ -84,15 +86,15 @@ Service user, as a term, suggests that the people in question either
 them. Neither of these assumptions necessarily applies. In England
 alone, more than 50 000 times a year patients are treated involuntarily,
 i.e. against their wishes and involving specific legislation that allows
-such coercion.\ :sup:`(n.d.f)` One can hardly claim that those people
-‘use’ the service, just as prisoners are not ‘prison users’. Also,
-although mental healthcare is hopefully beneficial to many patients, it
-would be grandiose of professionals and others to believe that mental
-healthcare helps everybody. Thus, it is not universally of ‘use’ and
-there is no question that in some cases – despite the best intentions of
-all people involved – it might even be harmful. Thus, both suggestions
-of the meaning of ‘use’ that are inherent in the term service user may
-be regarded as cynical.
+such coercion.\ :sup:`6` One can hardly claim that those people ‘use’
+the service, just as prisoners are not ‘prison users’. Also, although
+mental healthcare is hopefully beneficial to many patients, it would be
+grandiose of professionals and others to believe that mental healthcare
+helps everybody. Thus, it is not universally of ‘use’ and there is no
+question that in some cases – despite the best intentions of all people
+involved – it might even be harmful. Thus, both suggestions of the
+meaning of ‘use’ that are inherent in the term service user may be
+regarded as cynical.
 
 .. _sec3:
 
@@ -103,8 +105,8 @@ A number of surveys have asked patients in mental health services which
 term they prefer to be used. The results of these surveys are
 consistent. The majority of patients prefer the term patient, and this
 applies across studies that have been conducted at different times and
-in different settings.\ :sup:`(n.d.g)–(n.d.h)` Insisting on a term that
-most of the patients explicitly do not want may be seen as patronising.
+in different settings.\ :sup:`7–9` Insisting on a term that most of the
+patients explicitly do not want may be seen as patronising.
 
 .. _sec4:
 
@@ -141,7 +143,7 @@ in mental healthcare in the NHS. In this brief paper, the argument
 focused on the alternative term service user. Similar arguments could be
 made about other terms, such as ‘client’ and ‘consumer’. Those arguments
 would overlap in parts with the ones put forward here (see
-ref.\ :sup:`(n.d.h)`).
+ref.\ :sup:`9`).
 
 I have personally experienced the strong views and feelings of present
 and former patients in NHS mental health services who prefer the term
@@ -169,46 +171,3 @@ Declaration of interest
 =======================
 
 None.
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-ref1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-ref2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-ref3
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-ref4
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-ref5
-
-      n.d.e.
-
-   .. container:: csl-entry
-      :name: ref-ref6
-
-      n.d.f.
-
-   .. container:: csl-entry
-      :name: ref-ref7
-
-      n.d.g.
-
-   .. container:: csl-entry
-      :name: ref-ref9
-
-      n.d.h.

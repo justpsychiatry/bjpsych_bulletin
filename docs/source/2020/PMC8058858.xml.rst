@@ -2,6 +2,8 @@
 Management measures for non-medical staff on psychiatric hospital wards during the COVID-19 pandemic
 ====================================================================================================
 
+
+
 Lei Yang
 Dongmei Wu
 :Date: 2020-08
@@ -14,11 +16,10 @@ Dongmei Wu
 A notice issued by the National Health Commission in China on 18 March
 2020 highlighted the need for psychological counselling for those
 affected by COVID-19, vulnerable groups, health workers and those
-fighting the virus on the frontline.\ :sup:`(n.d.a)` Data shows that 323
+fighting the virus on the frontline.\ :sup:`1` Data shows that 323
 patients with severe mental disorders had been diagnosed with COVID-19
-across the country as of 19 February 2020.\ :sup:`(n.d.b)` The
-development of an epidemic poses great challenges for psychiatric
-hospitals.
+across the country as of 19 February 2020.\ :sup:`2` The development of
+an epidemic poses great challenges for psychiatric hospitals.
 
 There are visitors and non-medical staff who work in hospitals, such as
 cleaners, who have no medical experience or knowledge about prevention
@@ -71,9 +72,9 @@ Finally, it is important to keep an eye on the psychological status of
 non-medical staff on wards. On account of the long-term exposure to a
 dangerous environment, coupled with patients’ uncooperative attitudes,
 loud yelling or violent behaviour, their visitors and caregivers are
-prone to psychological difficulties.\ :sup:`(n.d.c)` As cleaners
-frequently enter or leave wards, the exposure risk increases. If there
-are any signs of anxiety or panic, non-medical staff should receive
+prone to psychological difficulties.\ :sup:`3` As cleaners frequently
+enter or leave wards, the exposure risk increases. If there are any
+signs of anxiety or panic, non-medical staff should receive
 psychological interventions to help them properly handle negative
 feelings.
 
@@ -87,21 +88,3 @@ None.
 
 This work was supported by the Sichuan Science and Technology Program
 (grant number 2018JY0306 to D.W.).
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-ref1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-ref2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-ref3
-
-      n.d.c.

@@ -2,6 +2,8 @@
 Patient safety and quality of care in mental health: a world of its own?
 ========================================================================
 
+
+
 Danielle D'Lima
 Mike J. Crawford
 Ara Darzi
@@ -28,20 +30,19 @@ Stephanie ArcherCorrespondence to Danielle D'Lima (d.d'lima@ucl.ac.uk)
 ..
 
 With repeated examples of failure across the healthcare
-system,\ :sup:`(n.d.a),(n.d.b)` there has long been a need to understand
-how we can better uphold and improve on the quality and safety of care
-that is being provided to our patients. There is a gap between the
-policy and guidelines generated from research evidence and the practice
-of medical, nursing and allied health professionals. This gap is at risk
-of increasing, owing to an under-appreciation of heterogeneity in local
-context\ :sup:`(n.d.c)–(n.d.d)` and the ever-growing demands on the
-healthcare system, with fewer resources provided to manage them. As a
-result, quality and safety in healthcare, a discipline which aims to
-integrate scientific understanding with applied practice, has made
-significant progress over recent decades and is now regarded as an
-active and established community of researchers and practitioners
-alongside the fields of improvement and implementation
-science.\ :sup:`(n.d.e)–(n.d.f)`
+system,\ :sup:`1,2` there has long been a need to understand how we can
+better uphold and improve on the quality and safety of care that is
+being provided to our patients. There is a gap between the policy and
+guidelines generated from research evidence and the practice of medical,
+nursing and allied health professionals. This gap is at risk of
+increasing, owing to an under-appreciation of heterogeneity in local
+context\ :sup:`3–5` and the ever-growing demands on the healthcare
+system, with fewer resources provided to manage them. As a result,
+quality and safety in healthcare, a discipline which aims to integrate
+scientific understanding with applied practice, has made significant
+progress over recent decades and is now regarded as an active and
+established community of researchers and practitioners alongside the
+fields of improvement and implementation science.\ :sup:`6–8`
 
 Such growth has been reflected in the establishment of
 discipline-specific journals. For example, the BMJ launched *BMJ Quality
@@ -51,25 +52,25 @@ evolution of the discipline has also included the development and
 refinement of a number of methodological tools, such as Plan, Do, Study,
 Act (PDSA) cycles and Driver Diagrams, which draw on the manufacturing
 industry to support individuals in applying continuous quality
-improvement (CQI) principles in healthcare practice.\ :sup:`(n.d.g)`
+improvement (CQI) principles in healthcare practice.\ :sup:`9`
 
 Despite the growing international interest in quality and safety in
 healthcare, its application to a mental health context has not been
-explored.\ :sup:`(n.d.h)` It cannot be assumed that findings based on
+explored.\ :sup:`10` It cannot be assumed that findings based on
 physical health in acute care hospitals can be automatically applied to
 mental health. This is because of the different challenges presented by
 patients and settings in this specialised area of care, including a
 greater emphasis on community-based care, greater use of Mental Health
-Act legislation and increased risk of self-harm.\ :sup:`(n.d.h)` Mental
+Act legislation and increased risk of self-harm.\ :sup:`10` Mental
 health in general has been viewed as a neglected area and one in which
 patients may be less likely to have a voice when it comes to their care
-and safety.\ :sup:`(n.d.i)` It has also been suggested that the stigma
+and safety.\ :sup:`11` It has also been suggested that the stigma
 surrounding mental health issues has the potential in itself to
 contribute to staff neglecting patient safety and quality of
-care.\ :sup:`(n.d.h)` In order to deliver high-quality care to patients,
-it is essential that a firmer understanding of patient safety and
-quality of care in mental health is not only developed, but also
-disseminated appropriately to ensure that it has the greatest impact.
+care.\ :sup:`10` In order to deliver high-quality care to patients, it
+is essential that a firmer understanding of patient safety and quality
+of care in mental health is not only developed, but also disseminated
+appropriately to ensure that it has the greatest impact.
 
 Key literature searches of high-profile quality and safety journals
 reveal that there is a lack of published literature under the umbrella
@@ -94,18 +95,18 @@ Even the small number of studies that are returned from these searches
 do not consistently focus on mental health as the primary setting of
 interest. Instead, mental health tends to form one component of a
 system-level study often associated with high-level quality improvement
-and quality of care structures in the healthcare
-system.\ :sup:`(n.d.j)–(n.d.k)` In other instances, mental health is
-positioned as just one example or context alongside physical health
-settings and is therefore not the sole focus of the article or its key
-messages.\ :sup:`(n.d.l)–(n.d.m)` Generally, the work being published in
-these quality and safety journals does not focus on aspects of safe care
-that may be of specific importance to a mental health setting or explore
-how established quality and safety metrics apply and translate to this
-unique context. However, searches do identify a systematic review on
-medication errors in mental health\ :sup:`(n.d.n)` and some work around
-continuity of care and communication between in-patient and out-patient
-mental health settings, for example.\ :sup:`(n.d.o)`
+and quality of care structures in the healthcare system.\ :sup:`12–14`
+In other instances, mental health is positioned as just one example or
+context alongside physical health settings and is therefore not the sole
+focus of the article or its key messages.\ :sup:`15–17` Generally, the
+work being published in these quality and safety journals does not focus
+on aspects of safe care that may be of specific importance to a mental
+health setting or explore how established quality and safety metrics
+apply and translate to this unique context. However, searches do
+identify a systematic review on medication errors in mental
+health\ :sup:`18` and some work around continuity of care and
+communication between in-patient and out-patient mental health settings,
+for example.\ :sup:`19`
 
 Contrary to these findings, searches run across the broader medical and
 social science literature reveal that much has been published on the
@@ -122,14 +123,14 @@ The specialty-specific literature succeeds at providing a significant
 amount of research into patient safety incidents that are more precisely
 related to a mental health setting. These include violence and
 aggression, patient victimisation, suicide and self-harm, seclusion and
-restraint, and absconding and missing patients.\ :sup:`(n.d.h)` Other
-key areas that apply more broadly across all settings are falls and
-other patient accidents, adverse medication events and adverse
-diagnostic events such as misdiagnosis. This literature is not without
-its faults, however, as there is a tendency for it to focus on areas of
-safety that may be of greatest concern to the public rather than areas
-of quality that may contribute most to patient experience and clinical
-outcome effectiveness. It may also not be fully reflective of the vast
+restraint, and absconding and missing patients.\ :sup:`10` Other key
+areas that apply more broadly across all settings are falls and other
+patient accidents, adverse medication events and adverse diagnostic
+events such as misdiagnosis. This literature is not without its faults,
+however, as there is a tendency for it to focus on areas of safety that
+may be of greatest concern to the public rather than areas of quality
+that may contribute most to patient experience and clinical outcome
+effectiveness. It may also not be fully reflective of the vast
 developments that have been made in understanding quality and safety in
 healthcare more broadly.
 
@@ -139,15 +140,14 @@ discipline and work around quality and safety of care within the broader
 and less defined mental health discipline). In recent years there has
 been a call for ‘parity of esteem’ between physical and mental health
 (i.e. recognition of mental health as an equally important discipline
-within medicine).\ :sup:`(n.d.p),(n.d.q)` The data that we have
-presented certainly suggest that there is no parity in the attention
-being paid to quality and safety, and this is an area that requires
-attention. The structure of the National Health Service (NHS) is guilty
-of fostering this separation, to some extent, through commissioning
-different organisations to provide physical and mental
-healthcare.\ :sup:`(n.d.r)` However, Academic Health Science Networks
-are aiming to help break down historical barriers between acute care and
-mental health trusts.
+within medicine).\ :sup:`20,21` The data that we have presented
+certainly suggest that there is no parity in the attention being paid to
+quality and safety, and this is an area that requires attention. The
+structure of the National Health Service (NHS) is guilty of fostering
+this separation, to some extent, through commissioning different
+organisations to provide physical and mental healthcare.\ :sup:`22`
+However, Academic Health Science Networks are aiming to help break down
+historical barriers between acute care and mental health trusts.
 
 Furthermore, the two bodies of literature appear to exist in silos and
 do not explicitly refer to or build on one another as a matter of
@@ -177,10 +177,10 @@ researchers.
 
 A recent independent report into the quality of in-patient mental health
 services highlighted the need for further training and use of quality
-improvement in mental health services.\ :sup:`(n.d.s)` The Royal College
-of Psychiatrists also recognise this issue and have set up a working
-group to steer progress. The Institute for Healthcare Improvement (IHI)
-is working with a number of mental health trusts in the UK to build
+improvement in mental health services.\ :sup:`23` The Royal College of
+Psychiatrists also recognise this issue and have set up a working group
+to steer progress. The Institute for Healthcare Improvement (IHI) is
+working with a number of mental health trusts in the UK to build
 capacity and capability to implement quality improvement programming at
 scale. It is important to recognise the challenges in applying
 improvement science in different healthcare delivery models, targeting
@@ -237,104 +237,6 @@ setting. Patient safety and quality of care in mental health should not
 be existing in a world of its own but instead be a fully integrated
 component of the broader scientific discipline. It is the responsibility
 of members of both communities to ensure that this happens.
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-R1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-R2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-R3
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-R5
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-R6
-
-      n.d.e.
-
-   .. container:: csl-entry
-      :name: ref-R8
-
-      n.d.f.
-
-   .. container:: csl-entry
-      :name: ref-R9
-
-      n.d.g.
-
-   .. container:: csl-entry
-      :name: ref-R10
-
-      n.d.h.
-
-   .. container:: csl-entry
-      :name: ref-R11
-
-      n.d.i.
-
-   .. container:: csl-entry
-      :name: ref-R12
-
-      n.d.j.
-
-   .. container:: csl-entry
-      :name: ref-R14
-
-      n.d.k.
-
-   .. container:: csl-entry
-      :name: ref-R15
-
-      n.d.l.
-
-   .. container:: csl-entry
-      :name: ref-R17
-
-      n.d.m.
-
-   .. container:: csl-entry
-      :name: ref-R18
-
-      n.d.n.
-
-   .. container:: csl-entry
-      :name: ref-R19
-
-      n.d.o.
-
-   .. container:: csl-entry
-      :name: ref-R20
-
-      n.d.p.
-
-   .. container:: csl-entry
-      :name: ref-R21
-
-      n.d.q.
-
-   .. container:: csl-entry
-      :name: ref-R22
-
-      n.d.r.
-
-   .. container:: csl-entry
-      :name: ref-R23
-
-      n.d.s.
 
 .. [1]
    **Danielle D'Lima**, Research Associate, Department of Applied Health

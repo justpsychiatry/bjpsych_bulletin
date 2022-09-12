@@ -2,6 +2,8 @@
 Depression, memory and electroconvulsive therapy
 ================================================
 
+
+
 Rudi CoetzerCorrespondence to Dr Rudi Coetzer
 (b.r.coetzer@bangor.ac.uk) [1]_
 :Date: 2019-4
@@ -36,7 +38,7 @@ straightforward in clinical practice. What matters to clinicians might
 not always perfectly align with what is important to their patients. For
 example, the DSM-5 lists a combination of physical, cognitive, affective
 and behavioural diagnostic criteria representing major depressive
-disorder (MDD).(n.d.a) For patients with MDD, subjectively, fatigue is
+disorder (MDD).1 For patients with MDD, subjectively, fatigue is
 sometimes the most disconcerting symptom, whereas for others it might be
 impaired concentration or the persistent feelings of sadness and
 hopelessness, resulting in a range of subtly different presentations.
@@ -49,34 +51,34 @@ efficacy, potential side-effects, and accordingly their acceptability to
 patients with MDD varies.
 
 A recent retrospective study found that patients were generally
-satisfied with ECT as a safe and effective treatment for
-depression.(n.d.b) Nevertheless, one of the suggested adverse
-side-effects of ECT concerns possible memory problems. Whether ECT can
-have a deleterious effect on memory presents an important question for
-both the clinician and patient when discussing treatment options. An
-appraisal of the current neuroscience knowledge on memory and ECT can
-provide some guidance to further inform clinical decision-making,
-including addressing patients' concerns regarding treatment choice.
-Lezak *et al*, reviewing neuropsychology and other neuroscience findings
-concerning ECT and memory, conclude that memory difficulties immediately
-post-ECT can be present in some patients, but that it is less common
-beyond this period, even in patients who have had longer-term
-treatment.(n.d.c) Similarly, Kirov *et al* conclude that long-term
-memory effects are rare and that ECT appears to be safe as regards
-adverse neuropsychological outcomes.(n.d.d) Furthermore, a recently
-published, large cohort study found that the risk of developing dementia
-in patients previously treated with ECT was not significant.(n.d.e)
-These findings might reassure clinicians, but what about patients'
-views? Understanding patients' preferences and concerns as regards
-treatment choice is an important aspect of clinical decision-making and
-ultimately for determining overall treatment response.
+satisfied with ECT as a safe and effective treatment for depression.2
+Nevertheless, one of the suggested adverse side-effects of ECT concerns
+possible memory problems. Whether ECT can have a deleterious effect on
+memory presents an important question for both the clinician and patient
+when discussing treatment options. An appraisal of the current
+neuroscience knowledge on memory and ECT can provide some guidance to
+further inform clinical decision-making, including addressing patients'
+concerns regarding treatment choice. Lezak *et al*, reviewing
+neuropsychology and other neuroscience findings concerning ECT and
+memory, conclude that memory difficulties immediately post-ECT can be
+present in some patients, but that it is less common beyond this period,
+even in patients who have had longer-term treatment.3 Similarly, Kirov
+*et al* conclude that long-term memory effects are rare and that ECT
+appears to be safe as regards adverse neuropsychological outcomes.4
+Furthermore, a recently published, large cohort study found that the
+risk of developing dementia in patients previously treated with ECT was
+not significant.5 These findings might reassure clinicians, but what
+about patients' views? Understanding patients' preferences and concerns
+as regards treatment choice is an important aspect of clinical
+decision-making and ultimately for determining overall treatment
+response.
 
 .. _sec1:
 
 Memory complaints post-ECT
 ==========================
 
-Vann Jones and McCollum(n.d.f) report the findings from their systematic
+Vann Jones and McCollum6 report the findings from their systematic
 review of ECT and subjective memory complaints. Although there were
 methodological limitations to some of the included studies, which made
 definitive conclusions difficult, their review does suggest that
@@ -86,12 +88,12 @@ another study not included in their review reported that although
 cognitive function appears to be largely unchanged in many (but not all)
 areas of neuropsychological functioning, improved depression long-term
 post-ECT appears to be associated with improvement in some cognitive
-functions.(n.d.g) Vann Jones and McCollum's review raises some
-interesting questions for clinical practice and neuroscience. In
-particular, if the above (and other) findings from the research
-literature is correct in concluding that ECT is safe as regards memory
-functions, why is it that a number of patients consistently continue to
-report longer-term subjective memory difficulties after ECT?
+functions.7 Vann Jones and McCollum's review raises some interesting
+questions for clinical practice and neuroscience. In particular, if the
+above (and other) findings from the research literature is correct in
+concluding that ECT is safe as regards memory functions, why is it that
+a number of patients consistently continue to report longer-term
+subjective memory difficulties after ECT?
 
 Addressing the above question is potentially of considerable relevance
 not only to patients, but also clinicians. For example, from a policy
@@ -99,7 +101,7 @@ and practice perspective there is an acknowledgement of the importance
 of considering cognition as part of ECT service delivery. The Royal
 College of Psychiatrists Statement on Electroconvulsive Therapy advises
 that cognitive functioning should be assessed before ECT and monitored
-after every three or four ECTs, and also after the final ECT.(n.d.h)
+after every three or four ECTs, and also after the final ECT.8
 Furthermore, the Statement indicates that in addition to orientation
 being assessed after each ECT, retrograde amnesia, new learning and
 subjective memory complaints should be tested more than 24 h post-ECT.
@@ -129,13 +131,12 @@ interpretation of test results. Cognitive domains assessed generally
 include information processing, language functions, new learning and
 retention, construction, visual–spatial abilities and executive control
 functions, among several others. Kolar suggests that neuropsychological
-testing should be an integral part of ECT service provision.(n.d.i) In
-ECT services, testing will most likely focus on cognitive domains such
-as new learning and retention, as well as information processing.
-Although the assessment of cognitive functions appears straightforward
-enough, interpretation of the results is not. This may be one of the
-reasons why wider implementation of cognitive assessment post-ECT has
-not occurred.
+testing should be an integral part of ECT service provision.9 In ECT
+services, testing will most likely focus on cognitive domains such as
+new learning and retention, as well as information processing. Although
+the assessment of cognitive functions appears straightforward enough,
+interpretation of the results is not. This may be one of the reasons why
+wider implementation of cognitive assessment post-ECT has not occurred.
 
 Returning to the relevance of diagnostic criteria as outlined at the
 beginning of this editorial provides a good example of some of the
@@ -169,12 +170,12 @@ study looking at repeated neuropsychological testing about 3 weeks after
 ECT found objective as well as subjective memory difficulties to be
 present, but the authors cautioned that subjective post-ECT reports of
 memory problems may be influenced also by problems of awareness,
-questioning their reliability.(n.d.j) Perhaps if routine standard
-cognitive assessment were available in ECT services, patients could be
-reassured that in addition to their own ‘report back’ opportunities to
-identify their concerns about memory problems with their doctor, their
-cognitive functions (including memory) would be closely monitored for
-objective change.
+questioning their reliability.10 Perhaps if routine standard cognitive
+assessment were available in ECT services, patients could be reassured
+that in addition to their own ‘report back’ opportunities to identify
+their concerns about memory problems with their doctor, their cognitive
+functions (including memory) would be closely monitored for objective
+change.
 
 .. _sec3:
 
@@ -198,12 +199,12 @@ self-awareness, might account for a discrepancy between actual and
 reported cognitive impairment. For example, a recent study of patients
 with acquired brain injury found that most of the variance between
 actual and perceived cognitive impairment was explained by affective
-factors such as anxiety or low mood.(n.d.k) Conversely, it may be
-helpful to also look more closely at which specific symptom(s) of MDD
-improve post-ECT. As an example, one interesting hypothesis to test
-would be to determine how much of improvement in depression can be
-accounted for (or not) by a specific improvement in patients' ability to
-think or concentrate post-ECT.
+factors such as anxiety or low mood.11 Conversely, it may be helpful to
+also look more closely at which specific symptom(s) of MDD improve
+post-ECT. As an example, one interesting hypothesis to test would be to
+determine how much of improvement in depression can be accounted for (or
+not) by a specific improvement in patients' ability to think or
+concentrate post-ECT.
 
 As regards clinical practice, one of the possible implications from Vann
 Jones and McCollum's study is that there may be a need to consider if it
@@ -219,87 +220,19 @@ situation, the length of such assessments and, closely related to the
 latter, what type of assessment (bedside, formal neuropsychological
 testing or a hybrid approach), among other questions. To conclude,
 several recent papers illustrate the essence of some of these questions.
-Although the Montreal Cognitive Assessment(n.d.l) is considered to be
-useful in monitoring cognitive function after ECT,(n.d.m) on the other
-hand, cognitive assessment after ECT is also presently thought to not be
-comprehensive enough, especially if limited to bedside testing
-only.(n.d.i) As with many of the questions surrounding the clinical
-practice and neuroscience of ECT, this is not an easy one to provide a
-definitive answer to.
+Although the Montreal Cognitive Assessment12 is considered to be useful
+in monitoring cognitive function after ECT,13 on the other hand,
+cognitive assessment after ECT is also presently thought to not be
+comprehensive enough, especially if limited to bedside testing only.9 As
+with many of the questions surrounding the clinical practice and
+neuroscience of ECT, this is not an easy one to provide a definitive
+answer to.
 
 **Dr Rudi Coetzer** is a Consultant Neuropsychologist and Head of
 Service with the North Wales Brain Injury Service, Betsi Cadwaladr
 University Health Board NHS Wales, UK, and a Senior Lecturer in Clinical
 Neuropsychology in the School of Psychology at Bangor University, Wales,
 UK.
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-ref1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-ref2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-ref3
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-ref4
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-ref5
-
-      n.d.e.
-
-   .. container:: csl-entry
-      :name: ref-ref6
-
-      n.d.f.
-
-   .. container:: csl-entry
-      :name: ref-ref7
-
-      n.d.g.
-
-   .. container:: csl-entry
-      :name: ref-ref8
-
-      n.d.h.
-
-   .. container:: csl-entry
-      :name: ref-ref9
-
-      n.d.i.
-
-   .. container:: csl-entry
-      :name: ref-ref10
-
-      n.d.j.
-
-   .. container:: csl-entry
-      :name: ref-ref11
-
-      n.d.k.
-
-   .. container:: csl-entry
-      :name: ref-ref12
-
-      n.d.l.
-
-   .. container:: csl-entry
-      :name: ref-ref13
-
-      n.d.m.
 
 .. [1]
    See this issue.

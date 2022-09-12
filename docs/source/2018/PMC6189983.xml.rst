@@ -2,6 +2,8 @@
 Maintenance doses for clozapine: past and present
 =================================================
 
+
+
 Avneet Sharma
 :Date: 2018-10
 
@@ -15,10 +17,10 @@ long-term clozapine treatment, with the main aim of assessing the
 side-effect burden with a view to optimising the treatment. We compared
 our current clinical practice with one described in a publication 20
 years ago in the *BJPsych Bulletin* in 1998 on maintenance doses for
-clozapine.(n.d.a)
+clozapine.1
 
-Murphy *et al*\ (n.d.a) presented findings on 44 patients who had been
-on clozapine for 6 months or more. Our patient number was 41, and the
+Murphy *et al*\ 1 presented findings on 44 patients who had been on
+clozapine for 6 months or more. Our patient number was 41, and the
 information was retrieved from electronic case records, although this
 did not make the job easier as the relevant information was scattered
 across time and in different sections of the record system.
@@ -67,23 +69,9 @@ needs to titrate to when starting clozapine.
 The side-effect burden on its own should be enough to make clinicians
 keep dose review on the agenda on a regular basis. Owing to large
 variations in metabolism, it is hard to predict the optimum dose and
-plasma level in an individual patient; the manufacturers(n.d.b) advise
-that once maximum therapeutic benefit has been established, many
-patients can be maintained effectively on lower doses with careful
-downward titration. The past BNF guidelines regarding maintenance doses
-were thought to be not based on evidence,(n.d.a) but empirical; it may
-be time to revisit the past, as patients appeared to be getting a better
-deal.
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-ref1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-ref2
-
-      n.d.b.
+plasma level in an individual patient; the manufacturers2 advise that
+once maximum therapeutic benefit has been established, many patients can
+be maintained effectively on lower doses with careful downward
+titration. The past BNF guidelines regarding maintenance doses were
+thought to be not based on evidence,1 but empirical; it may be time to
+revisit the past, as patients appeared to be getting a better deal.

@@ -2,6 +2,8 @@
 Do foundation doctors meet the mental health competencies in the foundation programme curriculum?
 =================================================================================================
 
+
+
 Jack Haywood
 :Date: 2020-02
 
@@ -14,14 +16,14 @@ In recent years, the UK Foundation Programme has been adapted in order
 to meet the changing demands of patients, as well as those of foundation
 year doctors. A broadening of the Foundation Programme in 2014
 stipulated that 100% of foundation year doctors should undertake a
-placement including community care from August 2017.\ :sup:`(n.d.a)`
-Further to this, in 2015, Health Education England set a target that 45%
-of foundation year trainees should complete a psychiatry placement to
-gain exposure to mental healthcare.\ :sup:`(n.d.b)` However, it is
-important to recognise that mental health problems do not present just
-in the psychiatry setting. General practice (GP) and accident and
-emergency (A&E) are arguably ‘gateways’ to accessing mental healthcare
-in the National Health Service.
+placement including community care from August 2017.\ :sup:`1` Further
+to this, in 2015, Health Education England set a target that 45% of
+foundation year trainees should complete a psychiatry placement to gain
+exposure to mental healthcare.\ :sup:`2` However, it is important to
+recognise that mental health problems do not present just in the
+psychiatry setting. General practice (GP) and accident and emergency
+(A&E) are arguably ‘gateways’ to accessing mental healthcare in the
+National Health Service.
 
 The Foundation Programme Curriculum 2016 outlines the expectations for
 what foundation doctors should learn. With the changes to community
@@ -30,8 +32,8 @@ foundation year placement in psychiatry, A&E and/or GP affects trainees’
 ability to meet the Foundation Programme mental health competencies. I
 used a cross-sectional questionnaire to ask foundation year 2 (FY2) and
 CT1/ST1 trainees whether they felt they had met 17 mental health-related
-competencies from the curriculum.\ :sup:`(n.d.c)` This was sent
-electronically via Foundation Schools.
+competencies from the curriculum.\ :sup:`3` This was sent electronically
+via Foundation Schools.
 
 A total of 360 trainees took the survey. Of all the trainees, only 29.7%
 (n = 107) were aware that there are specific mental health competencies
@@ -58,21 +60,3 @@ curriculum, as many were not aware they had the competencies to meet.
 Further research should involve asking assessors to make the same
 competency assessments about the foundation year trainees, moving away
 from self-assessment to a work-based assessment.
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-ref1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-ref2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-ref3
-
-      n.d.c.

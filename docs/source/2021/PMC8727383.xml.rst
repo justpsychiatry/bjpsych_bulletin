@@ -2,6 +2,8 @@
 Fluctuation of suicide intent and other matters in psychosocial assessment post self-harm
 =========================================================================================
 
+
+
 Prasanna de Silva
 :Date: 2021-12
 
@@ -21,16 +23,15 @@ He appears to have given up on prospects of predicting longer-term
 suicide risk but has not commented on the emerging body of evidence
 suggesting the effectiveness of combining an app-based questionnaire
 with inflammatory biomarkers such as interleukin subtypes, SAT1 and
-Toll-like receptor subtypes.\ :sup:`(n.d.a)` These biomarkers probably
-reflect the degree of underlying stress which Professor Morgan
-describes, with some quantitative features provided in addition. These
-types of hybrid assessments should cover both the short- and longer-term
-risks but will not predict when (or under what circumstances) the lethal
-behaviour could take place. Consequently, mitigation needs simple
-strategies such as Dr Cole-King's suicide safety plan, a brief document
-co-produced with the patient, held by the patient and carer, describing
-what to do and who to contact if suicidal intent reaches a
-climax.\ :sup:`(n.d.b)`
+Toll-like receptor subtypes.\ :sup:`1` These biomarkers probably reflect
+the degree of underlying stress which Professor Morgan describes, with
+some quantitative features provided in addition. These types of hybrid
+assessments should cover both the short- and longer-term risks but will
+not predict when (or under what circumstances) the lethal behaviour
+could take place. Consequently, mitigation needs simple strategies such
+as Dr Cole-King's suicide safety plan, a brief document co-produced with
+the patient, held by the patient and carer, describing what to do and
+who to contact if suicidal intent reaches a climax.\ :sup:`2`
 
 Brief hybrid assessments might also be less intrusive and distressing to
 patients compared with the standard ‘psychosocial assessment’ carried
@@ -41,13 +42,13 @@ deemed ‘medically fit’). Often both the assessor and patient are aware
 that this is likely to be the only contact between them, further
 reducing the likelihood of frank disclosure of trauma and abuse; this is
 strongly associated with invalid assessments and completed suicide in
-the future.\ :sup:`(n.d.c)`
+the future.\ :sup:`3`
 
 Patients also find repeated disclosures of personal details to multiple
-mental health staff frustrating and traumatic,\ :sup:`(n.d.d)` along the
-lines of ‘why don't you look up the notes before speaking to me?’.
-Similar to the experience of repeated police interviews under implied
-caution (‘anything you say might be used for a future Mental Health Act
+mental health staff frustrating and traumatic,\ :sup:`4` along the lines
+of ‘why don't you look up the notes before speaking to me?’. Similar to
+the experience of repeated police interviews under implied caution
+(‘anything you say might be used for a future Mental Health Act
 assessment’), patients are (perhaps rightly) suspicious that the
 assessors are looking for discrepancies in the history to undermine the
 reliability of the person's account leading to suicidal thinking and/or
@@ -55,10 +56,10 @@ self-harming behaviour, thereby making it easier to discharge (or
 dismiss) the patient seeking help.
 
 Professor Morgan touches on in-patient (‘never event’)
-suicides,\ :sup:`(n.d.e),(n.d.f)` mainly involving patients who have
-either absconded or been given planned home leave, as major improvements
-to ward design (including shaving off door edges and securing windows,
-door handles and toilet equipment) have now taken place. He does not,
+suicides,\ :sup:`5,6` mainly involving patients who have either
+absconded or been given planned home leave, as major improvements to
+ward design (including shaving off door edges and securing windows, door
+handles and toilet equipment) have now taken place. He does not,
 however, suggest practical changes in ward policy, for example, the
 potential benefit of a face-to-face review within 24 h of being placed
 on home leave in order to check on basic needs (elegantly summarised by
@@ -95,36 +96,3 @@ work and especially emotionally draining. Therefore, it is essential for
 staff assessing suicidal patients to be debriefed supportively and given
 sufficient time off (at least undertaking other duties) to regain their
 emotional composure.
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-ref1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-ref2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-ref3
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-ref4
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-ref5
-
-      n.d.e.
-
-   .. container:: csl-entry
-      :name: ref-ref6
-
-      n.d.f.

@@ -2,6 +2,8 @@
 Vitamin D in patients with intellectual and developmental disability in secure in-patient services in the North of England, UK
 ==============================================================================================================================
 
+
+
 Iain McKinnon
 Thomas Lewis
 Naomi Mehta
@@ -64,22 +66,21 @@ Background
 
 Suboptimal levels of plasma 25-hydroxy vitamin D (25OHD) have been
 implicated in a number of morbidities, including musculoskeletal and
-cardiorespiratory diseases, diabetes and
-depression.(n.d.a)\ :sup:`,`\ (n.d.b) A substantial proportion of
-vitamin D is obtained from ultraviolet-B light acting on the
-skin(n.d.a), although the relative amounts obtained from solar and food
-sources vary from study to study.(n.d.c) There is, therefore, a greater
-potential for impaired vitamin D levels during the autumn and winter
-months.(n.d.d) Public Health England currently advise a minimum of 10 µg
-of vitamin D per day for the general population, but give no separate
-advice for those at risk of minimal sunlight exposure, such as
-institutionalised individuals.(n.d.e)
+cardiorespiratory diseases, diabetes and depression.1\ :sup:`,`\ 2 A
+substantial proportion of vitamin D is obtained from ultraviolet-B light
+acting on the skin1, although the relative amounts obtained from solar
+and food sources vary from study to study.3 There is, therefore, a
+greater potential for impaired vitamin D levels during the autumn and
+winter months.4 Public Health England currently advise a minimum of
+10 µg of vitamin D per day for the general population, but give no
+separate advice for those at risk of minimal sunlight exposure, such as
+institutionalised individuals.5
 
 It is estimated that approximately 50% of the population of Northern
-England have insufficient or deficient vitamin D levels.(n.d.f) Based on
+England have insufficient or deficient vitamin D levels.6 Based on
 National Health Service guidelines, in January 2013, a decision was made
 by the clinicians at Northgate Hospital, Northumberland, UK, to
-routinely screen for vitamin D deficiency and treat as necessary.(n.d.g)
+routinely screen for vitamin D deficiency and treat as necessary.7
 Northgate Hospital has a range of levels of secure care facilities for
 people with intellectual and developmental disabilities (IDD) who
 offend, as well as providing specialised services for people with severe
@@ -147,8 +148,8 @@ Following the initial test, all patients were offered appropriate
 treatment by the hospital's physical health service if required,
 although not all patients accepted it. At Northgate Hospital, the
 supplementation protocol for vitamin D is based on guidance provided by
-the National Health Service Specialist Pharmacy Service.(n.d.h) Those
-patients found to be deficient were treated with 20 000 units of oral
+the National Health Service Specialist Pharmacy Service.8 Those patients
+found to be deficient were treated with 20 000 units of oral
 colecalciferol twice weekly for 8 weeks and then maintained on 800 units
 daily. Those found to have insufficient levels were treated with a
 maintenance dose of 800–1600 units of oral colecalciferol daily.
@@ -185,8 +186,8 @@ marginal homogeneity was applied to the pairs of non-adjusted 25OHD
 levels to assess differences in patients’ 25OHD levels between baseline
 and follow-up.
 
-Data were analysed using SPSS version 22.(n.d.i) This service evaluation
-was registered with the Research and Development department of
+Data were analysed using SPSS version 22.9 This service evaluation was
+registered with the Research and Development department of
 Northumberland, Tyne and Wear National Health Service Foundation Trust,
 in November 2013 (Registration number SER-13-018).
 
@@ -295,7 +296,7 @@ vitamin D deficiency, along with follow-up serum levels after a year.
 The rationale for the implementation of this protocol was based on
 concerns that low levels of sun exposure, the secure environment and the
 prescription of psychotropic medication put in-patients in a ‘high risk’
-category, with potentially serious long-term health sequelae.(n.d.g)
+category, with potentially serious long-term health sequelae.7
 
 The data suggest considerable vitamin deficiency among this patient
 group. Furthermore, there were no clear differences in 25OHD levels
@@ -313,9 +314,9 @@ psychotropic medication and those who were not, these factors remain of
 clinical concern with respect to bone health. A recent small-scale
 prospective study found that antipsychotics may inhibit vitamin
 D-metabolising enzymes, thereby causing a reduction in both calcium and
-25OHD levels.(n.d.j) This association is of particular concern given the
+25OHD levels.10 This association is of particular concern given the
 known link between antipsychotics and osteoporosis risk via raised
-prolactin levels.(n.d.k)
+prolactin levels.11
 
 Patients with normal 25OHD levels at baseline who were already on
 supplements all opted to continue with treatment. Those with normal
@@ -336,18 +337,18 @@ Although vitamin D deficiency was widespread among this group, it was
 not present among all patients. There is some evidence from genome-wide
 association studies that genetic factors also have a significant role in
 identifying those at increased risk, but this is beyond the scope of
-this evaluation.(n.d.l)
+this evaluation.12
 
 Our data are commensurate with a study of psychiatric in-patients in a
 Scottish high-secure hospital at a similar geographical latitude to
 Northgate Hospital. That study concluded that all patients in secure
 settings should be screened and offered supplementation based on
 ‘significant and serious’ deficiency of 25OHD associated with bone
-demineralisation.(n.d.m) Furthermore, such deficiencies do not appear to
-be limited to secure care. One study of people with IDD in
+demineralisation.13 Furthermore, such deficiencies do not appear to be
+limited to secure care. One study of people with IDD in
 institutionalised nursing care in Finland demonstrated significant 25OHD
 insufficiency, which was addressed by oral or intramuscular
-supplementation.(n.d.n)
+supplementation.14
 
 The data in this study were routinely collected and not prospectively
 planned, leading to limitations in their interpretation. Serum
@@ -359,28 +360,27 @@ without a larger, more specialised study. The patient group at Northgate
 is not ethnically diverse; all patients in this cohort were of white
 ethnicity. One study of a long-stay psychiatric in-patient facility
 found an association between low vitamin D levels and being of a BAME
-background, with improvements in 25OHD levels after treatment.(n.d.o)
-Another recent study in Tier 4 adolescent psychiatric services showed
-similar numbers of white and BAME patients with 25OHD deficiency (46 vs.
-53%).(n.d.p)
+background, with improvements in 25OHD levels after treatment.15 Another
+recent study in Tier 4 adolescent psychiatric services showed similar
+numbers of white and BAME patients with 25OHD deficiency (46 vs. 53%).16
 
 This raises the question as to whether all patients who are ‘high risk’
 should be offered treatment. The long stays of patients within secure
 services, along with concomitant medication, would put these patients
 within this category. Current guidance by Public Health England
 recommends a minimum of 10 µg per day for the general population aged
-four and above, where diet alone is insufficient.(n.d.e) However, the
-choice between simple supplementation or a deficiency protocol for
-patients such as these has not been fully established. Furthermore, it
-has not been established whether supplementation should be offered
-without suitable baseline screening. It should also be considered that
-the more general effects of vitamin D supplementation are far from
-certain. A meta-analysis of 18 randomised controlled trials (RCTs)
-suggested that there was a modest reduction in overall mortality for
-people taking standard doses of 25OHD supplementation,(n.d.q) but a more
-recent umbrella review of systematic reviews and meta-analyses of
-observational studies and RCTs found little convincing evidence of a
-clear role for vitamin D in health outcomes.(n.d.r)
+four and above, where diet alone is insufficient.5 However, the choice
+between simple supplementation or a deficiency protocol for patients
+such as these has not been fully established. Furthermore, it has not
+been established whether supplementation should be offered without
+suitable baseline screening. It should also be considered that the more
+general effects of vitamin D supplementation are far from certain. A
+meta-analysis of 18 randomised controlled trials (RCTs) suggested that
+there was a modest reduction in overall mortality for people taking
+standard doses of 25OHD supplementation,17 but a more recent umbrella
+review of systematic reviews and meta-analyses of observational studies
+and RCTs found little convincing evidence of a clear role for vitamin D
+in health outcomes.18
 
 Nevertheless, this study has shown that in-patients with IDD appear to
 have deficiencies in vitamin D and that these are amenable to correction
@@ -402,96 +402,3 @@ UK; **Julie Thorp**, Consultant Psychiatrist, Northumberland, Tyne and
 Wear NHS Foundation Trust, UK; **Chris Ince**, Consultant Psychiatrist,
 Specialist Services, Northumberland, Tyne and Wear NHS Foundation Trust,
 UK.
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-ref1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-ref2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-ref3
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-ref4
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-ref5
-
-      n.d.e.
-
-   .. container:: csl-entry
-      :name: ref-ref6
-
-      n.d.f.
-
-   .. container:: csl-entry
-      :name: ref-ref7
-
-      n.d.g.
-
-   .. container:: csl-entry
-      :name: ref-ref8
-
-      n.d.h.
-
-   .. container:: csl-entry
-      :name: ref-ref9
-
-      n.d.i.
-
-   .. container:: csl-entry
-      :name: ref-ref10
-
-      n.d.j.
-
-   .. container:: csl-entry
-      :name: ref-ref11
-
-      n.d.k.
-
-   .. container:: csl-entry
-      :name: ref-ref12
-
-      n.d.l.
-
-   .. container:: csl-entry
-      :name: ref-ref13
-
-      n.d.m.
-
-   .. container:: csl-entry
-      :name: ref-ref14
-
-      n.d.n.
-
-   .. container:: csl-entry
-      :name: ref-ref15
-
-      n.d.o.
-
-   .. container:: csl-entry
-      :name: ref-ref16
-
-      n.d.p.
-
-   .. container:: csl-entry
-      :name: ref-ref17
-
-      n.d.q.
-
-   .. container:: csl-entry
-      :name: ref-ref18
-
-      n.d.r.

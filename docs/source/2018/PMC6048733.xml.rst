@@ -2,6 +2,8 @@
 Community treatment orders in England: review of usage from national data
 =========================================================================
 
+
+
 Susham Gupta
 Elvan U. Akyuz
 Toby Baldwin
@@ -66,27 +68,27 @@ can discharge the patient from the CTO if the grounds for its use, as
 laid out in the MHA, are deemed not to be met. Following the
 introduction of CTOs, uptake was initially higher than some had
 predicted, and over the past few years usage seems to be fairly
-stable.(n.d.a)\ :sup:`–`\ (n.d.b) The attitude of many clinicians to
-CTOs has been favourable,(n.d.c) but they have also been the subject of
-controversy.(n.d.c)\ :sup:`,`\ (n.d.d) The power to coerce patients to
-accept treatment in the community clearly represents a conflict between
-the principles of respecting autonomy and of preventing harm to the
-patient and/or others, and thus between providing the ‘least
-restrictive’ treatment option balanced against ‘preventive’
-principles.(n.d.e) The difficulties in resolving this conflict
-satisfactorily have resulted in significant variations in the nature and
-implementation of these orders in different countries. Factors which
-could reduce the usage of CTOs may include a reluctance to use coercive
-measures, objections from patients' advocates, concerns about liability,
-operational aspects and the lack of a strong evidence base.(n.d.f)
+stable.1\ :sup:`–`\ 3 The attitude of many clinicians to CTOs has been
+favourable,4 but they have also been the subject of
+controversy.4\ :sup:`,`\ 5 The power to coerce patients to accept
+treatment in the community clearly represents a conflict between the
+principles of respecting autonomy and of preventing harm to the patient
+and/or others, and thus between providing the ‘least restrictive’
+treatment option balanced against ‘preventive’ principles.6 The
+difficulties in resolving this conflict satisfactorily have resulted in
+significant variations in the nature and implementation of these orders
+in different countries. Factors which could reduce the usage of CTOs may
+include a reluctance to use coercive measures, objections from patients'
+advocates, concerns about liability, operational aspects and the lack of
+a strong evidence base.7
 
 CTOs are typically indicated for psychiatric patients, usually with a
 diagnosis of psychosis, presenting with a ‘revolving door’ pattern of
 admissions secondary to poor treatment adherence and poor engagement
-with psychiatric services.(n.d.g) Although a main aim of CTOs is to
-reduce readmissions by preventing relapse, another motivation might be
-to attempt to improve quality of life for patients and their careers.
-The responsible clinician devises a set of conditions appropriate to the
+with psychiatric services.8 Although a main aim of CTOs is to reduce
+readmissions by preventing relapse, another motivation might be to
+attempt to improve quality of life for patients and their careers. The
+responsible clinician devises a set of conditions appropriate to the
 individual patient in the CTO. The responsible clinician has the
 discretion to recall the patient, initially for a 72-h period, for
 further treatment if deemed necessary. During this recall period, a
@@ -104,9 +106,9 @@ prefer to wait longer, in the hope that things will improve without
 having to subject the patient to a measure which may seem overly
 coercive or even punitive. A recent follow-up study found that fewer
 than half the patients subject to CTOs are recalled, with about a fifth
-being recalled multiple times.(n.d.h) In that study, half of these
-recalls were due to deterioration in clinical condition and about 70% of
-recalls resulted in revocation.
+being recalled multiple times.9 In that study, half of these recalls
+were due to deterioration in clinical condition and about 70% of recalls
+resulted in revocation.
 
 .. _sec2:
 
@@ -115,37 +117,37 @@ Effectiveness of CTOs
 
 If CTOs were effective and were used effectively, they might lead to an
 overall reduction in requirement for in-patient treatment and a decline
-in the number of patients detained on treatment sections.(n.d.i) Two
-older American randomised controlled studies (RCTs) of similar measures
-failed to find clinical benefits, but it has been argued that they had
+in the number of patients detained on treatment sections.10 Two older
+American randomised controlled studies (RCTs) of similar measures failed
+to find clinical benefits, but it has been argued that they had
 significant methodological drawbacks, for example, in that they excluded
-high-risk patients.(n.d.j)\ :sup:`,`\ (n.d.k) Subsequent American
-studies have claimed to demonstrate benefits, especially when considered
-as part of a wider public health system involving the criminal justice
-system.(n.d.f) Given the difference in psychiatric service provision,
-these studies may have limited applicability to the UK. The OCTET study,
-a RCT which was carried out soon after the introduction of CTOs, did not
-find clinical benefits.(n.d.l) However, this study has been criticised
-as having significant methodological problems, such as again excluding
-high-risk patients and the fact that the CTOs were only used for a brief
-period of time.(n.d.m)\ :sup:`,`\ (n.d.n) Small naturalistic UK clinical
-studies using before and after methodologies have reported positive
-outcomes.(n.d.o)\ :sup:`–`\ (n.d.p) Swartz and Swanson (2015)(n.d.n)
-suggested that RCTs may not be the best way to study these complex
-tools, and that larger, naturalistic studies may be more appropriate. A
-Care Quality Commission (CQC) 2009/10 report claimed that a third of CTO
-patients in England did not have a reported history of non-adherence or
-disengagement.(n.d.q)
+high-risk patients.11\ :sup:`,`\ 12 Subsequent American studies have
+claimed to demonstrate benefits, especially when considered as part of a
+wider public health system involving the criminal justice system.7 Given
+the difference in psychiatric service provision, these studies may have
+limited applicability to the UK. The OCTET study, a RCT which was
+carried out soon after the introduction of CTOs, did not find clinical
+benefits.13 However, this study has been criticised as having
+significant methodological problems, such as again excluding high-risk
+patients and the fact that the CTOs were only used for a brief period of
+time.14\ :sup:`,`\ 15 Small naturalistic UK clinical studies using
+before and after methodologies have reported positive
+outcomes.16\ :sup:`–`\ 18 Swartz and Swanson (2015)15 suggested that
+RCTs may not be the best way to study these complex tools, and that
+larger, naturalistic studies may be more appropriate. A Care Quality
+Commission (CQC) 2009/10 report claimed that a third of CTO patients in
+England did not have a reported history of non-adherence or
+disengagement.19
 
 Figures from the Mental Health Minimum Data Set show that the majority
 of people on CTOs are of working age, and more than twice as many are
 male than female; however, in the 65 and over age group, more women than
-men are on CTOs.(n.d.r) The descriptive data indicate that patients are
+men are on CTOs.20 The descriptive data indicate that patients are
 typically male and around 40 years of age, with a long history of
 schizophrenia-like or serious affective illness, previous admissions,
 poor medication adherence, aftercare needs, the potential for violence
 and displaying psychotic symptoms, especially delusions, at the time of
-the CTO.(n.d.e) CTO usage is more prevalent in urban areas.(n.d.s)
+the CTO.6 CTO usage is more prevalent in urban areas.21
 
 .. _sec3:
 
@@ -169,7 +171,7 @@ Results
 All the figures quoted in the results below and accompanying tables were
 extracted from the NHS Digital report: *In-Patients Formally Detained in
 Hospitals Under the Mental Health Act 1983, and Patients Subject to
-Supervised Community Treatment: 2015/16, Annual Figures*.(n.d.s)
+Supervised Community Treatment: 2015/16, Annual Figures*.21
 
 As shown in `Table 1 <#tab01>`__, the annual rate of new CTOs is fairly
 stable at around 4500, with the number of patients subject to CTOs at
@@ -229,10 +231,10 @@ patients discharged by MHT, %3.42.53.43.02.4 [2]_
 
 The past few years have seen a 17% reduction in the number of in-patient
 beds for people needing care for mental health problems: from 26 448 in
-2008/09 to 21 949 in 2012/13.(n.d.t) HSCIC data (2015) show that annual
+2008/09 to 21 949 in 2012/13.22 HSCIC data (2015) show that annual
 patient contact numbers have fallen significantly, while patient numbers
-are increasing.(n.d.u) The same report also shows that the greatest fall
-has been for assertive outreach services (more than 20%) and general
+are increasing.23 The same report also shows that the greatest fall has
+been for assertive outreach services (more than 20%) and general
 psychiatric, substance misuse and forensic services (around 15% each).
 By contrast, contact with criminal justice liaison and diversion
 services saw the greatest increase in contacts (36.2%), while contact
@@ -247,14 +249,14 @@ The rate of CTO use is about 10 per 100 000 of the population, which
 puts it in the low to moderate range by international comparison with
 similar provisions for compulsory treatment in the community. Australia
 and New Zealand and some parts of the USA have much higher rates,
-whereas rates are much lower in Canada and New York.(n.d.v)
+whereas rates are much lower in Canada and New York.24
 
 The pattern of usage of CTOs seems to be fairly stable in the context of
 ongoing reductions in psychiatric service provision. A CQC report
 claimed that the powers were being applied ‘preventatively beyond those
-for whom they were primarily designed’.(n.d.q) However, we note that the
-rate of discharge by MHTs is low and possibly falling, indicating that
-these independent tribunals do not seem to regard CTOs as being used
+for whom they were primarily designed’.19 However, we note that the rate
+of discharge by MHTs is low and possibly falling, indicating that these
+independent tribunals do not seem to regard CTOs as being used
 inappropriately.
 
 The number of recalls is nearly half the total number of CTOs, and
@@ -297,119 +299,6 @@ Specialty Doctor at East London NHS Foundation Trust, UK; and **David
 Curtis** is Honorary Professor of Psychiatry at University College
 London Genetics Institute and the Centre for Psychiatry, Barts and the
 London School of Medicine and Dentistry, London, UK.
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-ref1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-ref3
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-ref4
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-ref5
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-ref6
-
-      n.d.e.
-
-   .. container:: csl-entry
-      :name: ref-ref7
-
-      n.d.f.
-
-   .. container:: csl-entry
-      :name: ref-ref8
-
-      n.d.g.
-
-   .. container:: csl-entry
-      :name: ref-ref9
-
-      n.d.h.
-
-   .. container:: csl-entry
-      :name: ref-ref10
-
-      n.d.i.
-
-   .. container:: csl-entry
-      :name: ref-ref11
-
-      n.d.j.
-
-   .. container:: csl-entry
-      :name: ref-ref12
-
-      n.d.k.
-
-   .. container:: csl-entry
-      :name: ref-ref13
-
-      n.d.l.
-
-   .. container:: csl-entry
-      :name: ref-ref14
-
-      n.d.m.
-
-   .. container:: csl-entry
-      :name: ref-ref15
-
-      n.d.n.
-
-   .. container:: csl-entry
-      :name: ref-ref16
-
-      n.d.o.
-
-   .. container:: csl-entry
-      :name: ref-ref18
-
-      n.d.p.
-
-   .. container:: csl-entry
-      :name: ref-ref19
-
-      n.d.q.
-
-   .. container:: csl-entry
-      :name: ref-ref20
-
-      n.d.r.
-
-   .. container:: csl-entry
-      :name: ref-ref21
-
-      n.d.s.
-
-   .. container:: csl-entry
-      :name: ref-ref22
-
-      n.d.t.
-
-   .. container:: csl-entry
-      :name: ref-ref23
-
-      n.d.u.
-
-   .. container:: csl-entry
-      :name: ref-ref24
-
-      n.d.v.
 
 .. [1]
    (Note that some patients may be recalled more than once.) Also shown

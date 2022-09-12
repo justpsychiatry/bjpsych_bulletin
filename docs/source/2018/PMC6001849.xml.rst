@@ -2,6 +2,8 @@
 Implementing National Institute for Health and Care Excellence smoke-free guidance in a secure facility: an evaluation of the prescribing costs in clozapine users
 ==================================================================================================================================================================
 
+
+
 Stephen Noblett
 Jane Beenstock
 James Noblett
@@ -58,16 +60,16 @@ Smoking imposes a huge economic burden on society. Action on Smoking and
 Health has concluded that the costs to society in England are
 approximately £13.9 billion per year. Around £2 billion of this is the
 cost to the National Health Service (NHS) of treating diseases caused by
-smoking.(n.d.a) For adults with a common mental disorder such as
-depression and anxiety, smoking rates are almost twice as high compared
-to adults who are mentally well, and three times higher for those with
-schizophrenia or bipolar disorder.(n.d.b) Smoking is thus a key
-contributor to the health inequalities that exist between people with a
-mental health disorder and the general population, which result in a
-difference in life expectancy of 15–20 years.(n.d.c)\ :sup:`,`\ (n.d.d)
-Nationally there has been a growing recognition that providers of mental
-health services should be smoke free and support patients with nicotine
-addictions to stop smoking.(n.d.e)\ :sup:`–`\ (n.d.f)
+smoking.1 For adults with a common mental disorder such as depression
+and anxiety, smoking rates are almost twice as high compared to adults
+who are mentally well, and three times higher for those with
+schizophrenia or bipolar disorder.2 Smoking is thus a key contributor to
+the health inequalities that exist between people with a mental health
+disorder and the general population, which result in a difference in
+life expectancy of 15–20 years.3\ :sup:`,`\ 4 Nationally there has been
+a growing recognition that providers of mental health services should be
+smoke free and support patients with nicotine addictions to stop
+smoking.5\ :sup:`–`\ 7
 
 .. _sec1-2:
 
@@ -75,40 +77,40 @@ National Institute for Health and Care Excellence guidance
 ==========================================================
 
 In particular, National Institute for Health and Care Excellence (NICE)
-guidance(n.d.e) advocates that all NHS settings should be smoke free
-because of the health benefits to the individual, the wider community
-and healthcare providers. They emphasise that healthcare providers
-should promote healthy environments for their staff and patients. In
-this Trust the guidance was implemented through a nicotine management
-policy as, learning from other Trusts, the focus was on supporting
-people who have a nicotine addiction rather than banning smoking. The
-policy contents are similar to smoke-free policies in other Trusts:
-admitted smokers may no longer have smoking breaks and should manage
-their nicotine addiction through the use of nicotine replacement therapy
-(NRT) with behavioural support. Consequently, people admitted to
-smoke-free mental health units need to be supported to cease smoking
-tobacco cigarettes during their admission. Ideally, this would lead to
-permanent smoking cessation. `Table 1 <#tab01>`__ summarises some of the
-consequences in terms of cost or benefit to the individual and to the
-wider organisation. Table 1Summary of the costs and benefit consequences
-of smoking cessation following the introduction of a smoke-free policy
-in a mental health provider unitConsequenceCost or benefit?Smoking
-cessation aids such as nicotine replacement therapy (NRT) and
-medications such as buproprionCostBehavioural support(n.d.g)CostIncrease
-in number of clozapine assay tests requiredCostReduction in amount of
-antipsychotic medication required, with opportunity for fewer side
-effects from the medicationBenefitReduction in staff time spent
-supervising smoking breaks(n.d.h)BenefitImprovement in mental
-health(n.d.i)BenefitReduction in premature mortality and in levels of
-morbidityBenefit(n.d.j)\ :sup:`–`\ (n.d.k)Potential lower costs of
-prescribed antibiotics for lung infections or other smoking-related
-physical health problemsBenefitPublic Health England estimates the
-long-term quit rate for long-term patients is 40%, and 25% for
-short-term patientsBenefit(n.d.l)Public Health England estimates that
-the intervention could cost approximately £1430 per annum to the health
-and care system on average over 10 yearsCost(n.d.l)Public Health England
-estimates net savings of approximately £1460 per annum per person to the
-health and care system on average over 10 yearsBenefit(n.d.l)
+guidance5 advocates that all NHS settings should be smoke free because
+of the health benefits to the individual, the wider community and
+healthcare providers. They emphasise that healthcare providers should
+promote healthy environments for their staff and patients. In this Trust
+the guidance was implemented through a nicotine management policy as,
+learning from other Trusts, the focus was on supporting people who have
+a nicotine addiction rather than banning smoking. The policy contents
+are similar to smoke-free policies in other Trusts: admitted smokers may
+no longer have smoking breaks and should manage their nicotine addiction
+through the use of nicotine replacement therapy (NRT) with behavioural
+support. Consequently, people admitted to smoke-free mental health units
+need to be supported to cease smoking tobacco cigarettes during their
+admission. Ideally, this would lead to permanent smoking cessation.
+`Table 1 <#tab01>`__ summarises some of the consequences in terms of
+cost or benefit to the individual and to the wider organisation. Table
+1Summary of the costs and benefit consequences of smoking cessation
+following the introduction of a smoke-free policy in a mental health
+provider unitConsequenceCost or benefit?Smoking cessation aids such as
+nicotine replacement therapy (NRT) and medications such as
+buproprionCostBehavioural support8CostIncrease in number of clozapine
+assay tests requiredCostReduction in amount of antipsychotic medication
+required, with opportunity for fewer side effects from the
+medicationBenefitReduction in staff time spent supervising smoking
+breaks9BenefitImprovement in mental health10BenefitReduction in
+premature mortality and in levels of
+morbidityBenefit11\ :sup:`–`\ 13Potential lower costs of prescribed
+antibiotics for lung infections or other smoking-related physical health
+problemsBenefitPublic Health England estimates the long-term quit rate
+for long-term patients is 40%, and 25% for short-term
+patientsBenefit14Public Health England estimates that the intervention
+could cost approximately £1430 per annum to the health and care system
+on average over 10 yearsCost14Public Health England estimates net
+savings of approximately £1460 per annum per person to the health and
+care system on average over 10 yearsBenefit14
 
 .. _sec1-3:
 
@@ -118,8 +120,8 @@ NRT and the associated costs and savings
 NRT provides nicotine to the body without using cigarettes. The aromatic
 hydrocarbons found in cigarette smoke are known to increase the
 metabolism of some drugs due to induction of the cytochrome P450 enzyme
-system.(n.d.m) NRT does not influence these metabolic enzymes.(n.d.n)
-Plasma levels of clozapine are altered in the absence of tobacco smoke.
+system.15 NRT does not influence these metabolic enzymes.16 Plasma
+levels of clozapine are altered in the absence of tobacco smoke.
 Therapeutic-drug monitoring of clozapine is therefore useful with a
 recognised therapeutic range to regulate the required prescribing dose.
 Failure to monitor plasma levels in the context of stopping smoking may
@@ -131,9 +133,9 @@ elsewhere to improve health and well-being. This, however, may be offset
 by increased requirements for therapeutic-drug monitoring and the cost
 of NRT. Whereas there is extensive published literature demonstrating
 the long-term benefits of smoking cessation, in both the general
-population(n.d.o) and in the population of people with a mental health
-disorder;(n.d.p) there is limited published work describing the
-short-term costs and benefits.
+population17 and in the population of people with a mental health
+disorder;18 there is limited published work describing the short-term
+costs and benefits.
 
 .. _sec1-4:
 
@@ -145,14 +147,14 @@ clozapine assay testing in the context of the new nicotine management
 policy within a secure mental health population. In January 2015, the
 secure mental health service implemented a nicotine management policy
 (NMP) in response to the publication of the NICE public health guidance
-48.(n.d.e) This evaluation focused on the costs and savings relating to
+48.5 This evaluation focused on the costs and savings relating to
 clozapine and NRT because these are the two most direct expenditures
 from supporting people who smoke to manage their nicotine addiction
 without smoking tobacco cigarettes. NRT is required to manage the
 nicotine addiction and clozapine is commonly prescribed in the
 specialist services. Patients on clozapine who stop smoking are likely
 to have lower prescribing costs because of the need for lower dosages of
-medication when stopping smoking.(n.d.q)
+medication when stopping smoking.19
 
 .. _sec2:
 
@@ -303,10 +305,10 @@ understand if these results are likely to be the same for other Trusts
 implementing this important policy change that is needed to improve the
 mental and physical health of people using mental health services.
 Smoke-free policies challenge the culture in mental health
-units,(n.d.r)\ :sup:`–`\ (n.d.s) but the financial pressure involved
-should not derail the ambition to be smoke free because it is consistent
-with national policy and is of significant benefit to people with a
-mental health disorder.(n.d.p)
+units,20\ :sup:`–`\ 23 but the financial pressure involved should not
+derail the ambition to be smoke free because it is consistent with
+national policy and is of significant benefit to people with a mental
+health disorder.18
 
 Thank you to Cath Harris, Information Services Librarian, for her
 support with the literature search.
@@ -319,101 +321,3 @@ of Sheffield, Sheffield, UK. **Joanne Ireland** is a Deputy Lead
 Pharmacist and **Sarah Ormiston** is a Clinical Audit Facilitator, both
 in Specialist Services at the Lancashire Care NHS Foundation Trust in
 Preston, UK.
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-ref1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-ref2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-ref3
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-ref4
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-ref5
-
-      n.d.e.
-
-   .. container:: csl-entry
-      :name: ref-ref7
-
-      n.d.f.
-
-   .. container:: csl-entry
-      :name: ref-ref8
-
-      n.d.g.
-
-   .. container:: csl-entry
-      :name: ref-ref9
-
-      n.d.h.
-
-   .. container:: csl-entry
-      :name: ref-ref10
-
-      n.d.i.
-
-   .. container:: csl-entry
-      :name: ref-ref11
-
-      n.d.j.
-
-   .. container:: csl-entry
-      :name: ref-ref13
-
-      n.d.k.
-
-   .. container:: csl-entry
-      :name: ref-ref14
-
-      n.d.l.
-
-   .. container:: csl-entry
-      :name: ref-ref15
-
-      n.d.m.
-
-   .. container:: csl-entry
-      :name: ref-ref16
-
-      n.d.n.
-
-   .. container:: csl-entry
-      :name: ref-ref17
-
-      n.d.o.
-
-   .. container:: csl-entry
-      :name: ref-ref18
-
-      n.d.p.
-
-   .. container:: csl-entry
-      :name: ref-ref19
-
-      n.d.q.
-
-   .. container:: csl-entry
-      :name: ref-ref20
-
-      n.d.r.
-
-   .. container:: csl-entry
-      :name: ref-ref23
-
-      n.d.s.

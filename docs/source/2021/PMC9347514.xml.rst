@@ -2,6 +2,8 @@
 Psychiatrists should investigate their patients less
 ====================================================
 
+
+
 Matthew Butler
 Fraser Scott
 Biba Stanton
@@ -35,16 +37,15 @@ pmc
 The Royal College of Psychiatrists’ *Standards for Inpatient Mental
 Health Services* require a ‘comprehensive physical review’ to be
 initiated within four hours of admission to a psychiatric inpatient
-unit, which is to be completed within one week.\ :sup:`(n.d.a)` In
-practice, this means that inpatients are often subjected to a battery of
-admission blood tests that are directed without regard for the
-presentation. Routine blood tests on admission remain a requirement in
-local trust policies,\ :sup:`(n.d.b)` and clinical evaluations indicate
-that the majority of patients receive them.\ :sup:`(n.d.c)` In addition,
-selected psychiatric patients may have further investigations, such as a
-magnetic resonance imaging (MRI) of the brain for those with a first
-psychotic episode, or an electroencephalogram (EEG) to rule out
-seizures.
+unit, which is to be completed within one week.\ :sup:`1` In practice,
+this means that inpatients are often subjected to a battery of admission
+blood tests that are directed without regard for the presentation.
+Routine blood tests on admission remain a requirement in local trust
+policies,\ :sup:`2` and clinical evaluations indicate that the majority
+of patients receive them.\ :sup:`3` In addition, selected psychiatric
+patients may have further investigations, such as a magnetic resonance
+imaging (MRI) of the brain for those with a first psychotic episode, or
+an electroencephalogram (EEG) to rule out seizures.
 
 In this article, we consider some of the reasons why investigations
 might be requested by psychiatrists and why they are often
@@ -74,12 +75,12 @@ screening in a patient on chronic antipsychotic treatment. Screening
 tests have been used in medicine since the middle of the 20th century
 (an early example being the successful screening and treatment of
 syphilis) and have undoubtedly improved diagnosis rates for medical and
-psychiatric patients.\ :sup:`(n.d.d)` Despite this, there are a number
-of strict criteria that a screening test must meet before it is
-acceptable for use, including prior implementation of cost-effective
-primary prevention, a validated test, agreement on further
-investigation, good evidence for intervention at the presymptomatic
-phase, and evidence that benefits outweigh harms.\ :sup:`(n.d.e)`
+psychiatric patients.\ :sup:`4` Despite this, there are a number of
+strict criteria that a screening test must meet before it is acceptable
+for use, including prior implementation of cost-effective primary
+prevention, a validated test, agreement on further investigation, good
+evidence for intervention at the presymptomatic phase, and evidence that
+benefits outweigh harms.\ :sup:`5`
 
 Screening tests are distinct from diagnostic tests, which aim to
 accurately diagnose a condition for which there is clinical suspicion.
@@ -122,24 +123,24 @@ criteria, and many have such a low probability of a clinically relevant
 result that it is hard to justify their routine clinical use. Systematic
 reviews have found that routine blood tests rarely alter the management
 of patients due for admission to psychiatric hospital, even when
-abnormal results are found.\ :sup:`(n.d.f),(n.d.g)` In one of the
-included studies of 500 patients, only one individual had an abnormal
-result that mandated urgent medical intervention. Notably, this patient
-was obviously symptomatic.\ :sup:`(n.d.h)`
+abnormal results are found.\ :sup:`6,7` In one of the included studies
+of 500 patients, only one individual had an abnormal result that
+mandated urgent medical intervention. Notably, this patient was
+obviously symptomatic.\ :sup:`8`
 
 Imaging and physiological investigations may not fare better. EEGs show
 interictal epileptiform discharges (IEDs) in only 29–55% of people with
-epilepsy,\ :sup:`(n.d.i)` so it is inappropriate as a rule-out test for
+epilepsy,\ :sup:`9` so it is inappropriate as a rule-out test for
 complex partial seizures presenting with psychotic symptoms. In
 contrast, EEG abnormalities (broader than just IEDs) occur in 19% of
 those treated with antipsychotics, so an abnormal EEG is not specific to
-a neurological cause of psychiatric symptoms.\ :sup:`(n.d.j)` Similarly,
-one study found that 6% of healthy controls have at least one
-abnormality on an MRI of the brain, so the presence of an abnormality
-*per se* has a poor specificity for determining a neurological cause for
-psychiatric symptoms. This same research also concluded that none of 349
-individuals with first-episode psychosis had MRI findings that
-necessitated a change in clinical management.\ :sup:`(n.d.k)`
+a neurological cause of psychiatric symptoms.\ :sup:`10` Similarly, one
+study found that 6% of healthy controls have at least one abnormality on
+an MRI of the brain, so the presence of an abnormality *per se* has a
+poor specificity for determining a neurological cause for psychiatric
+symptoms. This same research also concluded that none of 349 individuals
+with first-episode psychosis had MRI findings that necessitated a change
+in clinical management.\ :sup:`11`
 
 .. _sec2-2:
 
@@ -167,7 +168,7 @@ an appropriate history or examination. In the specific case of
 functional disorders (such as functional neurological disorders), these
 are diagnosed through eliciting positive clinical signs, rather than
 being ‘diagnoses of exclusion’ which require investigation to exclude
-other causes.\ :sup:`(n.d.l)`
+other causes.\ :sup:`12`
 
 Even for tests with extraordinarily high sensitivity and specificity,
 there are further interpretative difficulties that arise in the absence
@@ -205,7 +206,7 @@ patient), risking injury for patient and clinician. The noise and
 enclosed environment of an MRI scanner can be frightening for an anxious
 patient. Over-investigation may also contribute to the development or
 perpetuation of health anxiety, as it can serve to confirm a patient's
-fears about a serious undiagnosed illness.\ :sup:`(n.d.m)` This may be
+fears about a serious undiagnosed illness.\ :sup:`13` This may be
 particularly pertinent for individuals with somatoform or
 hypochondriacal disorders, who psychiatrists may encounter more often
 than might clinicians in other specialties.
@@ -216,16 +217,16 @@ a positive result inevitably returns the question: what next? In many
 cases, this might be further investigation, leading to a non-negligible
 potential of harm. Take the case of creatine kinase (CK), which is
 sometimes recommended as an admission blood test for psychiatric
-in-patients,\ :sup:`(n.d.b)` despite being incidentally and benignly
-raised in many patients, and even being a poor discriminator for
-neuroleptic malignant syndrome.\ :sup:`(n.d.n)` When faced with a raised
-CK in an asymptomatic patient, most of us feel that we should do
-something, so patients are frequently subjected to further blood tests
-and sometimes intravenous fluids for a test that should never have been
-done. More dramatically, if ten people are treated with endovascular
-coiling for an incidental unruptured intracranial aneurysm detected on
-MRI, one will end up disabled or dead within one year, all for a lesion
-that probably would not have caused any harm.\ :sup:`(n.d.o)`
+in-patients,\ :sup:`2` despite being incidentally and benignly raised in
+many patients, and even being a poor discriminator for neuroleptic
+malignant syndrome.\ :sup:`14` When faced with a raised CK in an
+asymptomatic patient, most of us feel that we should do something, so
+patients are frequently subjected to further blood tests and sometimes
+intravenous fluids for a test that should never have been done. More
+dramatically, if ten people are treated with endovascular coiling for an
+incidental unruptured intracranial aneurysm detected on MRI, one will
+end up disabled or dead within one year, all for a lesion that probably
+would not have caused any harm.\ :sup:`15`
 
 Readers may be familiar with ‘incidentalomas’, an all-encompassing term
 for non-specific lesions seen on medical imaging. Incidentalomas have
@@ -235,16 +236,16 @@ phenomenon of non-specific abnormal results also occurs with blood
 tests. One study of healthy adults receiving a routine battery of blood
 tests found that over one-third had at least one abnormal result, of
 which only 7% were deemed to require a medical review (none of them
-urgently).\ :sup:`(n.d.p)`
+urgently).\ :sup:`16`
 
 Finally, in the context of limited healthcare funding, expensive
 investigations divert resources from more worthwhile causes. Discounting
 the cost of staff time, a simple routine battery of blood tests is
-likely to cost in the region of £15–20.\ :sup:`(n.d.q)` The number of
+likely to cost in the region of £15–20.\ :sup:`17` The number of
 psychiatric admissions needed to screen to find a positive serum free
 thyroxine (FT4) is in the region of 127, which corresponds to a cost of
-around £400 per abnormal result.\ :sup:`(n.d.r)` MRI brain scans cost in
-the region of £200. Cost-wise, there is likely more benefit from a five
+around £400 per abnormal result.\ :sup:`18` MRI brain scans cost in the
+region of £200. Cost-wise, there is likely more benefit from a five
 minute clinical history and examination.
 
 .. _sec3:
@@ -274,38 +275,37 @@ be avoided.
 However, the overuse of investigations is a common theme in much of
 medicine and often functions more as a ‘psychological comfort blanket
 for clinicians’ rather than providing any tangible benefit to our
-patients.\ :sup:`(n.d.s)` It may also stem from ‘addition bias’, the
-human tendency to try to solve challenging problems by adding something
-in rather than taking something away.\ :sup:`(n.d.t)` Ordering an
-investigation may make us feel as though we have addressed the problem
-we were trying to solve, when in fact we might not have. For instance,
-if the problem is poor physical health outcomes in people with severe
-mental illness, admission blood tests are unlikely to be an answer.
-Focusing on this superficial attempt at joined-up healthcare perhaps
-distracts from other solutions, such as addressing stigma and reducing
-inequalities.
+patients.\ :sup:`19` It may also stem from ‘addition bias’, the human
+tendency to try to solve challenging problems by adding something in
+rather than taking something away.\ :sup:`20` Ordering an investigation
+may make us feel as though we have addressed the problem we were trying
+to solve, when in fact we might not have. For instance, if the problem
+is poor physical health outcomes in people with severe mental illness,
+admission blood tests are unlikely to be an answer. Focusing on this
+superficial attempt at joined-up healthcare perhaps distracts from other
+solutions, such as addressing stigma and reducing inequalities.
 
 Furthermore, the familiar feeling that we must ‘do something rather than
 nothing’ may stem from a human tendency towards action, which is also
-known as intervention bias.\ :sup:`(n.d.u)` Of course, as we have seen,
-there are scenarios where doing nothing is just as good, or even better,
-than doing something. The Hippocratic oath reminds us that our primary
-role as doctors is to first do no harm.
+known as intervention bias.\ :sup:`21` Of course, as we have seen, there
+are scenarios where doing nothing is just as good, or even better, than
+doing something. The Hippocratic oath reminds us that our primary role
+as doctors is to first do no harm.
 
 Overuse of investigations in psychiatry may also represent part of a
 wider risk-averse culture in medicine, which is sometimes referred to as
 ‘defensive medicine’. Defensive medicine is costly to healthcare
-institutions.\ :sup:`(n.d.v)` Many doctors, including ourselves and
+institutions.\ :sup:`22` Many doctors, including ourselves and
 three-quarters of all psychiatrists, admit to defensive medicine to some
 degree, including the ordering of clinically useless
-investigations.\ :sup:`(n.d.w)` The reasons why clinicians may practise
+investigations.\ :sup:`23` The reasons why clinicians may practise
 defensive medicine are myriad; however, the most commonly cited reason
 is fear of litigation resulting from malpractice hearings, particularly
 as the majority of cases of litigation stem from doctors missing
 diagnoses, rather than actively causing harm through the use of
-treatments.\ :sup:`(n.d.v)` There are some (albeit incomplete) data that
-some aspects of defensive medicine may stem from physicians struggling
-to tolerate uncertainty in patient diagnosis and care.\ :sup:`(n.d.x)`
+treatments.\ :sup:`22` There are some (albeit incomplete) data that some
+aspects of defensive medicine may stem from physicians struggling to
+tolerate uncertainty in patient diagnosis and care.\ :sup:`24`
 
 .. _sec4:
 
@@ -336,11 +336,11 @@ ensure that we conduct thorough histories and examinations. This allows
 us both to request the appropriate investigations and to know how to
 interpret them once we have the results. This approach is supported by
 the American Psychiatric Association, which discourages routine
-laboratory testing,\ :sup:`(n.d.y)` and by the National Institute for
-Health and Care Excellence (NICE), which does not recommend neuroimaging
-in first-episode psychosis.\ :sup:`(n.d.z)` However, too often doctors
-are still faced with incidental findings on tests that should never have
-been requested. Psychiatrists should investigate their patients less and
+laboratory testing,\ :sup:`25` and by the National Institute for Health
+and Care Excellence (NICE), which does not recommend neuroimaging in
+first-episode psychosis.\ :sup:`26` However, too often doctors are still
+faced with incidental findings on tests that should never have been
+requested. Psychiatrists should investigate their patients less and
 examine them more.
 
 **Matthew Butler** is a Maudsley BRC Preparatory Clinical Research
@@ -378,136 +378,3 @@ Declaration of interest
 J.R. has received payment from the Alberta Psychiatric Association for a
 lecture and has held one unpaid advisory meeting with representatives
 from Promentis Pharmaceuticals regarding drug development.
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-ref1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-ref2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-ref3
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-ref4
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-ref5
-
-      n.d.e.
-
-   .. container:: csl-entry
-      :name: ref-ref6
-
-      n.d.f.
-
-   .. container:: csl-entry
-      :name: ref-ref7
-
-      n.d.g.
-
-   .. container:: csl-entry
-      :name: ref-ref8
-
-      n.d.h.
-
-   .. container:: csl-entry
-      :name: ref-ref9
-
-      n.d.i.
-
-   .. container:: csl-entry
-      :name: ref-ref10
-
-      n.d.j.
-
-   .. container:: csl-entry
-      :name: ref-ref11
-
-      n.d.k.
-
-   .. container:: csl-entry
-      :name: ref-ref12
-
-      n.d.l.
-
-   .. container:: csl-entry
-      :name: ref-ref13
-
-      n.d.m.
-
-   .. container:: csl-entry
-      :name: ref-ref14
-
-      n.d.n.
-
-   .. container:: csl-entry
-      :name: ref-ref15
-
-      n.d.o.
-
-   .. container:: csl-entry
-      :name: ref-ref16
-
-      n.d.p.
-
-   .. container:: csl-entry
-      :name: ref-ref17
-
-      n.d.q.
-
-   .. container:: csl-entry
-      :name: ref-ref18
-
-      n.d.r.
-
-   .. container:: csl-entry
-      :name: ref-ref19
-
-      n.d.s.
-
-   .. container:: csl-entry
-      :name: ref-ref20
-
-      n.d.t.
-
-   .. container:: csl-entry
-      :name: ref-ref21
-
-      n.d.u.
-
-   .. container:: csl-entry
-      :name: ref-ref22
-
-      n.d.v.
-
-   .. container:: csl-entry
-      :name: ref-ref23
-
-      n.d.w.
-
-   .. container:: csl-entry
-      :name: ref-ref24
-
-      n.d.x.
-
-   .. container:: csl-entry
-      :name: ref-ref25
-
-      n.d.y.
-
-   .. container:: csl-entry
-      :name: ref-ref26
-
-      n.d.z.

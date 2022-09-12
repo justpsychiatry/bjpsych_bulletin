@@ -2,6 +2,8 @@
 Size and clustering of ethnic groups and rates of psychiatric admission in England
 ==================================================================================
 
+
+
 Gayathri Venkatesan
 Scott Weich
 Orla McBride
@@ -64,16 +66,16 @@ Patrick KeownCorrespondence to Gayathri Venkatesan
 
 It has been known for some time that Black and minority ethnic (BME)
 groups are overrepresented among psychiatric in-patients in the National
-Health Service (NHS).(n.d.a) The Count Me In census confirmed that this
-overrepresentation persists and may be becoming more pronounced.(n.d.b)
-The census also consistently demonstrated significant variation between
-BME groups, with most having higher rates of admission but some having
-lower rates compared with the national average. These differences in
-admission rates are likely to be explained by three main factors:
-differences in the incidence and rates of mental disorder;
-service-related factors, such as pathways into in-patient care; and
-changes in the size and distribution of the ethnic minority groups in
-the UK.(n.d.a)\ :sup:`,`\ (n.d.c)\ :sup:`–`\ (n.d.d)
+Health Service (NHS).1 The Count Me In census confirmed that this
+overrepresentation persists and may be becoming more pronounced.2 The
+census also consistently demonstrated significant variation between BME
+groups, with most having higher rates of admission but some having lower
+rates compared with the national average. These differences in admission
+rates are likely to be explained by three main factors: differences in
+the incidence and rates of mental disorder; service-related factors,
+such as pathways into in-patient care; and changes in the size and
+distribution of the ethnic minority groups in the
+UK.1\ :sup:`,`\ 3\ :sup:`–`\ 5
 
 .. _sec-1-1:
 
@@ -82,29 +84,29 @@ Background
 
 One of the earliest demonstrations of the ethnic density hypothesis was
 the study of psychiatric admission rates in Chicago by Faris and
-Dunham.(n.d.e) Several subsequent studies have supported this idea of a
+Dunham.6 Several subsequent studies have supported this idea of a
 ‘protective’ ethnic density effect, whereby individuals living in areas
 with a greater proportion of people of the same ethnicity have better
-health.(n.d.f)\ :sup:`–`\ (n.d.g) However, not all studies have
-consistently found results that support the ethnic density
-hypothesis.(n.d.h) A study at a wider regional scale in England failed
-to show any effect within individual ethnic groups, although there was
-some evidence to support differences between ethnic groups.(n.d.i)
+health.7\ :sup:`–`\ 10 However, not all studies have consistently found
+results that support the ethnic density hypothesis.11 A study at a wider
+regional scale in England failed to show any effect within individual
+ethnic groups, although there was some evidence to support differences
+between ethnic groups.12
 
 In response, Halpern argued that within-group ethnic density operates at
 a local level, for example, by reducing levels of ethnic discrimination
 and increasing levels of social support, and may not be detected when
-the scale of investigation is at a regional or national level.(n.d.j)
-Halpern made two predictions about between-group effects that might be
-evident at a larger scale: (a) smaller ethnic groups will tend to have
-higher psychiatric admission rates than larger groups, and (b) groups
-that have a stronger tendency to cluster together will tend to have
-lower admission rates. We aimed to empirically test these two
-predictions at a national level in England by linking NHS mental health
-admission rate data from 2005/06 to UK census ethnic group population
-estimates, and examining national level mental health admission rates
-for each BME group according to the population size of each group and
-the degree of clustering of each group across England.
+the scale of investigation is at a regional or national level.13 Halpern
+made two predictions about between-group effects that might be evident
+at a larger scale: (a) smaller ethnic groups will tend to have higher
+psychiatric admission rates than larger groups, and (b) groups that have
+a stronger tendency to cluster together will tend to have lower
+admission rates. We aimed to empirically test these two predictions at a
+national level in England by linking NHS mental health admission rate
+data from 2005/06 to UK census ethnic group population estimates, and
+examining national level mental health admission rates for each BME
+group according to the population size of each group and the degree of
+clustering of each group across England.
 
 .. _sec2:
 
@@ -123,15 +125,14 @@ The population size of each ethnic group was obtained from the
 ‘Understanding Population Trends and Processes’ section of the Ethnic
 Group Population Projection (ETHPOP) database. This is a web resource
 maintained by the University of Leeds, which provides projections of
-each ethnic group at various levels, including the national
-level.(n.d.k)
+each ethnic group at various levels, including the national level.14
 
 The index of dissimilarity was used as a measure of clustering for each
-ethnic group.(n.d.l) This ranges from 0 (indicating full integration) to
-100 (indicating full segregation). An index of less than 40 indicates
-low levels of segregation, while one of 40 or more indicates moderate to
-high levels of segregation.(n.d.m) Data were obtained from the Centre on
-Dynamics of Ethnicity website.(n.d.n)
+ethnic group.15 This ranges from 0 (indicating full integration) to 100
+(indicating full segregation). An index of less than 40 indicates low
+levels of segregation, while one of 40 or more indicates moderate to
+high levels of segregation.16 Data were obtained from the Centre on
+Dynamics of Ethnicity website.17
 
 .. _sec2-2:
 
@@ -290,7 +291,7 @@ to be an interaction with age. According to our results, the greatest
 increase in admission rates was in teenagers and young adults. By
 contrast, the AESOP study indicated that the incidence of psychosis
 remains raised in ethnic minority groups throughout the age range of our
-study.(n.d.o) This may indicate a reduced risk of (re)admission with
+study.18 This may indicate a reduced risk of (re)admission with
 increasing age in BME groups relative to the White British population.
 
 Our findings provide support for the hypothesis that larger ethnic
@@ -305,7 +306,7 @@ emphasise that this study only looked at between-group effects and did
 not investigate within-group effects.
 
 The BME population in the UK is increasing in size and becoming less
-clustered.(n.d.m) Our results suggest that both of these factors should
+clustered.16 Our results suggest that both of these factors should
 ameliorate the overrepresentation of BME groups among psychiatric
 in-patients. However, the Count Me In census indicated that this
 overrepresentation continues. The answer may lie in changes in the
@@ -313,7 +314,7 @@ delivery to mental health services. We have previously shown that that
 although rates of admission have fallen across England, one of the
 largest reductions has been in admissions for depression, whereas
 admissions for schizophrenia and mania have shown only a modest, if any,
-reduction.(n.d.p)
+reduction.19
 
 In this work, we have shown that the increased rate of admission for BME
 groups was confined to schizophreniform disorders and mania, but was not
@@ -341,9 +342,9 @@ population level data. This ecological study was undertaken at a
 national level and, therefore, the results may be affected by the
 ecological fallacy (i.e. associative results observed at this national
 level are not necessarily replicated at the individual or smaller
-geographical levels.(n.d.q) However, the finding of an association
-between ethnic groups and higher rates of detention is fully consistent
-with a number of studies that have found higher rates of psychosis and
+geographical levels.20 However, the finding of an association between
+ethnic groups and higher rates of detention is fully consistent with a
+number of studies that have found higher rates of psychosis and
 admission among individuals from BME groups.
 
 Local area of residence is likely to reflect aspects of group membership
@@ -359,9 +360,8 @@ for each ethnic group. It did not have access to any individual-level
 data or local area data. A further study is required with a more
 detailed data-set, including detention outcomes recorded at individual,
 local area, regional and national levels, and corresponding explanatory
-variables as in our previous study.(n.d.r) Dual diagnoses, specific
-substance use and multiple admissions should all be considered in future
-studies.
+variables as in our previous study.21 Dual diagnoses, specific substance
+use and multiple admissions should all be considered in future studies.
 
 .. _sec6:
 
@@ -400,99 +400,6 @@ Campus for Ageing & Vitality, Newcastle, UK; and **Kamaldeep Bhui** is a
 Professor of Cultural Psychiatry and Epidemiology at the Centre for
 Psychiatry, Barts and The London School of Medicine and Dentistry, Queen
 Mary University of London, UK.
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-ref1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-ref2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-ref3
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-ref5
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-ref6
-
-      n.d.e.
-
-   .. container:: csl-entry
-      :name: ref-ref7
-
-      n.d.f.
-
-   .. container:: csl-entry
-      :name: ref-ref10
-
-      n.d.g.
-
-   .. container:: csl-entry
-      :name: ref-ref11
-
-      n.d.h.
-
-   .. container:: csl-entry
-      :name: ref-ref12
-
-      n.d.i.
-
-   .. container:: csl-entry
-      :name: ref-ref13
-
-      n.d.j.
-
-   .. container:: csl-entry
-      :name: ref-ref14
-
-      n.d.k.
-
-   .. container:: csl-entry
-      :name: ref-ref15
-
-      n.d.l.
-
-   .. container:: csl-entry
-      :name: ref-ref16
-
-      n.d.m.
-
-   .. container:: csl-entry
-      :name: ref-ref17
-
-      n.d.n.
-
-   .. container:: csl-entry
-      :name: ref-ref18
-
-      n.d.o.
-
-   .. container:: csl-entry
-      :name: ref-ref19
-
-      n.d.p.
-
-   .. container:: csl-entry
-      :name: ref-ref20
-
-      n.d.q.
-
-   .. container:: csl-entry
-      :name: ref-ref21
-
-      n.d.r.
 
 .. [1]
    The data are for 16 ethnic groups in England.

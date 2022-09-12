@@ -2,6 +2,8 @@
 Profile: André Tomlin
 =====================
 
+
+
 Julia Bland
 :Date: 2018-4
 
@@ -192,11 +194,11 @@ Another mission is in myth busting, with evidence, of potentially
 harmful treatments; for example, a recent review piece in Mental Elf by
 Edel McGlanaghy on the subject of the potentially harmful effects of
 psychological treatment, mainly online cognitive–behavioural therapy for
-anxiety.(n.d.a)
+anxiety.1
 
 We discussed the merits and demerits of ‘trans diagnostic’ approaches to
 mental healthcare, recently written about in relation to Child and
-Adolescent mental health by Miranda Wolpert and Peter Fonagy.(n.d.b)
+Adolescent mental health by Miranda Wolpert and Peter Fonagy.2
 
 They have looked at the limitations of diagnosis and evidence-based
 research, proposing focusing on the person rather than the diagnosis.
@@ -217,12 +219,12 @@ and psychiatrists.
 This migration on Tomlin's part from traditional psychiatric research
 towards the ‘groovy social science side’ is never going overboard, he
 reassures me. ‘I'll stop in the safe middle ground’. He feels his
-education about psychiatry has been extended beyond ICD-10(n.d.c) via
-twitter contact with patients and nurses, reaching out into the wider
-waters of social care and psychology. But writing from the user
-perspective can become flaky, he admits, and although his personal
-philosophy is transdiagnostic, he fully supports psychiatrists who must
-treat patients on particular pathways determined by diagnosis.
+education about psychiatry has been extended beyond ICD-103 via twitter
+contact with patients and nurses, reaching out into the wider waters of
+social care and psychology. But writing from the user perspective can
+become flaky, he admits, and although his personal philosophy is
+transdiagnostic, he fully supports psychiatrists who must treat patients
+on particular pathways determined by diagnosis.
 
 He is also increasingly sceptical about the evidence-based medicine
 world, which he sees as ‘quite insular’, and even research more broadly,
@@ -245,21 +247,3 @@ decide for yourself.
 and Maudsley NHS Foundation Trust and a consultant medical
 psychotherapist at DocHealth, British Medical Association, UK; email:
 julia.bland@hotmail.co.uk
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-ref1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-ref2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-ref3
-
-      n.d.c.

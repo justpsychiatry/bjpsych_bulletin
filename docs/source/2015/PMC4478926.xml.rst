@@ -2,7 +2,9 @@
 The neurology–psychiatry divide: a thought experiment\ `† <#fn1>`__
 ===================================================================
 
-Thomas J. ReillyCorrespondence to Thomas J. Reilly (t.reilly@nhs.net)
+
+
+Thomas J. Reilly Correspondence to Thomas J. Reilly (t.reilly@nhs.net)
  [1]_  [2]_
 :Date: 2015-6
 
@@ -66,21 +68,21 @@ neuronal axons is the neuropathology, which results in a patient’s
 symptoms. However, it becomes less tenable as the underlying disease
 processes are less well characterised. Epilepsy was once regarded as a
 psychiatric disease. As its neuropathology was better understood, we now
-regard it as a neurological illness. :sup:`(n.d.a)` Similarly, we now
-know of pathological processes in diseases such as schizophrenia. These
+regard it as a neurological illness. :sup:`1` Similarly, we now know of
+pathological processes in diseases such as schizophrenia. These
 processes, while not localised lesions, are evident when comparing brain
 imaging of people with schizophrenia to healthy controls and are present
-before the illness manifests clinically. :sup:`(n.d.b)`
+before the illness manifests clinically. :sup:`2`
 
 The final nail in the coffin of classifying brain diseases by their
 pathology is the case of conversion disorder, or neurologically
 unexplained symptoms. By definition, this disorder cannot be explained
-by underlying neuropathology. :sup:`(n.d.c)` It is, presumably, a result
-of psychological and social factors and is more a ‘functional’ disorder
-of the central nervous system. And yet it is not treated by
-psychiatrists but by neurologists. Attempting to categorise brain
-disease by pathology is clearly troublesome so perhaps we should focus
-on dividing illnesses based on their symptoms.
+by underlying neuropathology. :sup:`3` It is, presumably, a result of
+psychological and social factors and is more a ‘functional’ disorder of
+the central nervous system. And yet it is not treated by psychiatrists
+but by neurologists. Attempting to categorise brain disease by pathology
+is clearly troublesome so perhaps we should focus on dividing illnesses
+based on their symptoms.
 
 .. _S3:
 
@@ -102,13 +104,12 @@ Unfortunately, it would take little time for our Martian friend to pick
 holes in this argument. He could point to anti-*N*-methyl-d-aspartate
 receptor encephalitis, which can be clinically indistinguishable from
 the first episode of schizophrenia, though it has a well-defined
-‘neurological’ pathophysiology. :sup:`(n.d.d)` This disease was only
-recently discovered, making it difficult to estimate how many patients
-presenting with psychiatric symptoms actually have neurological
-diseases. Similarly, psychiatric symptoms are common in traditionally
-neurological disorders: hallucinations in Parkinson’s disease
-:sup:`(n.d.e)` and depression in multiple sclerosis :sup:`(n.d.f)` are
-just two examples.
+‘neurological’ pathophysiology. :sup:`4` This disease was only recently
+discovered, making it difficult to estimate how many patients presenting
+with psychiatric symptoms actually have neurological diseases.
+Similarly, psychiatric symptoms are common in traditionally neurological
+disorders: hallucinations in Parkinson’s disease :sup:`5` and depression
+in multiple sclerosis :sup:`6` are just two examples.
 
 .. _S4:
 
@@ -117,10 +118,10 @@ The biopsychosocial approach
 
 It could be argued that psychiatrists are specifically trained to have a
 biopsychosocial approach to disease, paying more attention to
-psychological and social aspects. :sup:`(n.d.g)` This is important, as
-these factors influence the presentation and course of psychiatric
-illness. However, as previously stated, psychological and social factors
-also underpin traditionally neurological conditions such as unexplained
+psychological and social aspects. :sup:`7` This is important, as these
+factors influence the presentation and course of psychiatric illness.
+However, as previously stated, psychological and social factors also
+underpin traditionally neurological conditions such as unexplained
 neurological symptoms and non-epileptic attacks. Indeed, there is a
 spectrum of psychosocial components to all diseases. Having a
 biopsychosocial approach to illness is required not just for
@@ -148,58 +149,10 @@ seem desirable that neurologists be competent in the management of
 psychiatric disorders, and *vice versa*. Unfortunately, this is not the
 case. In the UK, it is perfectly normal to train in one of these
 specialties with no exposure to the other, unlike in other European
-countries. :sup:`(n.d.h)` Nature does not respect our arbitrary
+countries. :sup:`8` Nature does not respect our arbitrary
 categorisations and neither do our patients. It would surely benefit
 both specialties to integrate training pathways, as has been suggested
-by others. :sup:`(n.d.i)`
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-R1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-R2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-R3
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-R4
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-R5
-
-      n.d.e.
-
-   .. container:: csl-entry
-      :name: ref-R6
-
-      n.d.f.
-
-   .. container:: csl-entry
-      :name: ref-R7
-
-      n.d.g.
-
-   .. container:: csl-entry
-      :name: ref-R8
-
-      n.d.h.
-
-   .. container:: csl-entry
-      :name: ref-R9
-
-      n.d.i.
+by others. :sup:`9`
 
 .. [1]
    **Thomas J Reilly** BSc MBChB is an academic foundation doctor at the

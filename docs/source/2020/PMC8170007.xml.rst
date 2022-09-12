@@ -2,6 +2,8 @@
 A day in the life of a psychiatrist in 2050: where will the algorithm take us?
 ==============================================================================
 
+
+
 George Gillett [1]_Correspondence to George Gillett
 (george_gillett@outlook.com) [2]_
 :Date: 2020-06
@@ -24,11 +26,10 @@ activity, social media and keypad interactions, digital phenotyping
 promises to measure and interpret human behaviour at unprecedented
 scale. In psychosis, researchers strive to use such data to predict
 relapse, while others aim to predict suicide risk using machine-learning
-techniques.\ :sup:`(n.d.a),(n.d.b)` However, with the field in its
-infancy, the potential social effects of such technological advances are
-unclear. How successful will digital phenotyping be in clarifying
-psychiatry's uncertainties? Most importantly, where will the algorithm
-take us?
+techniques.\ :sup:`1,2` However, with the field in its infancy, the
+potential social effects of such technological advances are unclear. How
+successful will digital phenotyping be in clarifying psychiatry's
+uncertainties? Most importantly, where will the algorithm take us?
 
 .. _sec1:
 
@@ -45,15 +46,15 @@ the conference programme asked, leaving Dr Singh shocked at the science
 fiction surrounding her. The algorithms, already claiming more accurate
 suicide risk assessment than clinicians, had begun to quantify mood,
 anxiety, sleep, physical activity, interpersonal interactions and
-geolocation as markers of social functioning.\ :sup:`(n.d.c)` A former
+geolocation as markers of social functioning.\ :sup:`3` A former
 Director of the Institute of Mental Health had left to join Silicon
 Valley as early as 2015 and social media companies boasted about their
-own suicide risk screening tools only 3 years
-later.\ :sup:`(n.d.d),(n.d.e)` While psychiatrists of the past stole
-glimpses of psychopathology from snapshot mental state examinations and
-unreliable histories, the ‘big data’ revolution promised to chart
-patients’ entire behavioural phenotype for doctors to assess. Even the
-machines were learning, they claimed.
+own suicide risk screening tools only 3 years later.\ :sup:`4,5` While
+psychiatrists of the past stole glimpses of psychopathology from
+snapshot mental state examinations and unreliable histories, the ‘big
+data’ revolution promised to chart patients’ entire behavioural
+phenotype for doctors to assess. Even the machines were learning, they
+claimed.
 
 *Steve's alarm woke him. The day introduced him with a motivating
 message, psychoeducation they called it, as he hunched over a bowl of
@@ -73,9 +74,9 @@ their jobs to automation and robotics. Governments, eager to improve
 ‘population well-being’ and keen to avoid culpability for suicide and
 violence, implemented their own machine-learning projects. Insurance
 companies demanded that their clients wear smartwatches, such that their
-every behaviour could be monitored.\ :sup:`(n.d.f)` The rush towards big
-data, ‘the new oil’ as one economist put it, spared no profession, field
-or domain of daily life.\ :sup:`(n.d.g)` As the future came to stay, the
+every behaviour could be monitored.\ :sup:`6` The rush towards big data,
+‘the new oil’ as one economist put it, spared no profession, field or
+domain of daily life.\ :sup:`7` As the future came to stay, the
 algorithms marked their next victim. Psychiatry?
 
 *Yes, Steve replied, as the receptionist beckoned him towards the sign
@@ -93,13 +94,13 @@ clinical decision-making. It strove to compete, claiming a therapeutic
 relationship of its own with patients. As early as the 2010s, self-help
 phone applications advertised themselves with taglines such as ‘rule
 your mind or it will rule you’, while others offered individualised
-therapy through artificial intelligence techniques.\ :sup:`(n.d.h)` The
-market flooded well beyond the traditional boundaries of academia,
-researchers were inundated with innovation but starved of time to
-regulate it. A 2018 analysis found that only 14 of approximately 100
-studies using mental health apps had clinically validated evidence of
-their effectiveness.\ :sup:`(n.d.i)` However, fears about the field's
-lack of regulation could only chase the technology into the future.
+therapy through artificial intelligence techniques.\ :sup:`8` The market
+flooded well beyond the traditional boundaries of academia, researchers
+were inundated with innovation but starved of time to regulate it. A
+2018 analysis found that only 14 of approximately 100 studies using
+mental health apps had clinically validated evidence of their
+effectiveness.\ :sup:`9` However, fears about the field's lack of
+regulation could only chase the technology into the future.
 
 *His phone knew. The app which monitored his mood knew, as did the one
 which monitored his geolocation. Maybe the software which monitored his
@@ -148,7 +149,7 @@ which had appeal, a safety net he wondered if he'd benefit from.*
 Dr Singh was hesitant to offer the remote-monitoring outreach service to
 all her patients. The qualitative studies had identified that some found
 it too intrusive, whereas others worried they would become fixated on
-their own mental health, causing an anxiety of its own.\ :sup:`(n.d.j)`
+their own mental health, causing an anxiety of its own.\ :sup:`10`
 Historical concerns around the medicalisation of everyday experience
 persisted in new forms. Part of her was relieved when Steve declined.
 
@@ -178,59 +179,6 @@ up and walked towards the fireworks.*
 **George Gillett**, BA, BM BCh, is an Academic Foundation Doctor at the
 Oxford University Clinical Academic Graduate School, and at the
 Department of Psychiatry, University of Oxford, UK.
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-ref1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-ref2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-ref3
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-ref4
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-ref5
-
-      n.d.e.
-
-   .. container:: csl-entry
-      :name: ref-ref6
-
-      n.d.f.
-
-   .. container:: csl-entry
-      :name: ref-ref7
-
-      n.d.g.
-
-   .. container:: csl-entry
-      :name: ref-ref8
-
-      n.d.h.
-
-   .. container:: csl-entry
-      :name: ref-ref9
-
-      n.d.i.
-
-   .. container:: csl-entry
-      :name: ref-ref10
-
-      n.d.j.
 
 .. [1]
    **Declaration of interest** None.

@@ -2,6 +2,8 @@
 Choice of provider for out-patient treatment is not working
 ===========================================================
 
+
+
 David VealeCorrespondence to Professor David Veale
 (david.veale@kcl.ac.uk)
 :Date: 2018-4
@@ -40,12 +42,12 @@ right of patients to choose their out-patient provider in defined
 circumstances. Thus, if you visit your general practitioner (GP) with a
 cancer, you can choose your treatment provider, using a variety of
 criteria such as reputation, outcomes, waiting times and location.
-Paradoxically, choice is not often a priority in physical
-healthcare.(n.d.a) When surveyed, people most value proximity, a short
-waiting list and ease of transport to healthcare. This is perhaps
-because the quality of physical healthcare is more similar across
-providers compared with, say, the delivery of a protocol in
-cognitive–behavioural therapy (CBT) for a particular disorder.
+Paradoxically, choice is not often a priority in physical healthcare.1
+When surveyed, people most value proximity, a short waiting list and
+ease of transport to healthcare. This is perhaps because the quality of
+physical healthcare is more similar across providers compared with, say,
+the delivery of a protocol in cognitive–behavioural therapy (CBT) for a
+particular disorder.
 
 .. _sec1:
 
@@ -54,19 +56,19 @@ Background
 
 In 2012, the Rt Hon. Norman Lamb and the coalition government introduced
 the legal right for National Health Service (NHS) patients in England to
-choose their mental healthcare provider for out-patient
-treatment.(n.d.b) This was a significant step towards parity of care and
-allowed patients suffering mental disorder to choose their *out-patient*
-provider, in the same way as they could if suffering from a physical
-condition, without the need for discussion at a funding committee. Older
-readers will remember that choice for mental health out-patient
-treatment used to be available on the NHS up until the early 1990s.
+choose their mental healthcare provider for out-patient treatment.2 This
+was a significant step towards parity of care and allowed patients
+suffering mental disorder to choose their *out-patient* provider, in the
+same way as they could if suffering from a physical condition, without
+the need for discussion at a funding committee. Older readers will
+remember that choice for mental health out-patient treatment used to be
+available on the NHS up until the early 1990s.
 
 The way the change in law is interpreted is outlined in the document
 *Choice in Mental Health*, published by NHS Improvement, who are now
-responsible for the regulation of patient choice.(n.d.c) NHS England
-have also published some helpful documents and guides on patient choice,
-from which some of this article is drawn.(n.d.d)\ :sup:`–`\ (n.d.e)
+responsible for the regulation of patient choice.3 NHS England have also
+published some helpful documents and guides on patient choice, from
+which some of this article is drawn.4\ :sup:`–`\ 6
 
 The guidance by NHS Improvement and NHS England is clear. Nevertheless,
 introduction of the change is being hampered by several factors: lack of
@@ -111,13 +113,13 @@ medically unexplained symptoms, where local services may not be well
 developed. It might involve out-patient child and adolescent services if
 other local services are not required. However, there is no obligation
 on the provider of a CMHT to travel to the patient; in effect, choice
-depends on the patient traveling to an out-patient provider.(n.d.f)
+depends on the patient traveling to an out-patient provider.5
 
-In brief, NHS England(n.d.f) state that a patient is *not* entitled to
-choose where to be referred in the following cases. 1The patient's needs
-cannot be addressed by a typical package of care that lies outside
-National Institute for Health and Care Excellence (NICE) guidance or is
-not routinely commissioned on an ongoing basis through a NHS standard
+In brief, NHS England5 state that a patient is *not* entitled to choose
+where to be referred in the following cases. 1The patient's needs cannot
+be addressed by a typical package of care that lies outside National
+Institute for Health and Care Excellence (NICE) guidance or is not
+routinely commissioned on an ongoing basis through a NHS standard
 contract. An example for which choice of provider does not exist might
 be repetitive transcranial magnetic stimulation for depression, because
 it is not routinely commissioned. An example of where choice would exist
@@ -181,11 +183,11 @@ case. Services such as our own not only have funding streams for
 treating patients with severe cases in tertiary care but also treat
 patients within primary care (IAPT) and secondary care as described
 above. NHS Improvement published further guidance earlier this year in
-user-friendly language. The leaflets(n.d.f) were sent directly to all
-CCGs.(n.d.b) Although Mind and other mental health charities also
-publicised the initiative, the message is still not getting through to
-GPs or patients who would like the option of choice for out-patient
-treatment where it is clinically appropriate.
+user-friendly language. The leaflets5 were sent directly to all CCGs.2
+Although Mind and other mental health charities also publicised the
+initiative, the message is still not getting through to GPs or patients
+who would like the option of choice for out-patient treatment where it
+is clinically appropriate.
 
 It would undoubtedly help if NHS Digital and providers were to publicise
 on their websites those services that are directly available to GPs,
@@ -393,36 +395,3 @@ Disorders and Trauma, South London and Maudsley NHS Foundation Trust,
 UK, and Visiting Professor in Cognitive Behavioural Psychotherapies at
 the Institute of Psychiatry, Psychology and Neuroscience, King's College
 London, UK.
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-ref1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-ref2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-ref3
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-ref4
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-ref5
-
-      n.d.f.
-
-   .. container:: csl-entry
-      :name: ref-ref6
-
-      n.d.e.

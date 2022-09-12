@@ -2,6 +2,8 @@
 Improving patient flow in acute psychiatric wards: enhanced bed management and trusted assessment
 =================================================================================================
 
+
+
 Douglas Turkington
 Steve Moorhead
 Gordon D. Turkington
@@ -46,7 +48,7 @@ Denise Pickersgill [1]_Correspondence to Douglas Turkington
    :depth: 3
 ..
 
-NHS England's Five Year Forward View for Mental Health\ :sup:`(n.d.a)`
+NHS England's Five Year Forward View for Mental Health\ :sup:`1`
 mandated that access should be increased to high-quality community care,
 avoidable admissions should be prevented and treatment delivered as
 close to home as possible (recommendation 22). Out-of-area placements
@@ -57,53 +59,52 @@ health trusts working under contracts where these levers were being
 deployed had been losing substantial amounts of non-returnable funding
 through the use of out-of-area placements at a cost of £608/day. It is
 known that patient outcomes when admitted out of area are significantly
-worse than for those admitted locally.\ :sup:`(n.d.b)` The Five Year
-Forward plan, however, set targets without acknowledging that many
-mental health trusts were already ‘under-bedded’ in relation to their
-population size and level of social adversity and under-resourced in
-terms of community provision. Also, critical indicators for
-admission/discharge and estimated discharge dates were being
-underutilised by crisis teams and ward staff, leading to unnecessarily
-prolonged in-patient stays.\ :sup:`(n.d.c)` Meanwhile, since the plan
-was written and distributed, a number of factors have come together to
-increase the pressure on scarce in-patient bed
-resources.\ :sup:`(n.d.d)` In particular, the percentage of patients
-admitted under the Mental Health Act 1983 has increased, as has length
-of stay. Intellectual disability (‘learning disability’) beds were being
-reduced for both the forensic and working-age adult populations. One
-possible explanation was put forward that clients are declining informal
-admissions as the acute wards are perceived as stressful and end up
-eventually being admitted for a longer period under the Mental Health
-Act.\ :sup:`(n.d.e)` This is paralleled by nursing staff opinion that
-acute in-patient wards are now best viewed as ‘mini-PICUs’. Reduction in
-the use of the Mental Health Act 1983 is an objective of the Independent
-Review of the Act (which was completed in December 2018 and for which a
-white paper is proposed in the next session of parliament), and this
-could potentially improve flow through acute admission beds. Over the
-past 5 years there has been a 50% increase in accident and emergency
-(A&E) department attendances for mental health problems.\ :sup:`(n.d.f)`
-This has led to increased pressure on crisis and liaison specialist
-services and, at times, perhaps unnecessary admission under the Mental
-Health Act. Presentations with intoxication from alcohol and other
-substances have been rising. We have also seen a surge in the use of
-‘gate sections’ from Her Majesty's Prisons. This occurs when a prisoner
-has been mentally ill, was not transferred to prison under section 38
-but is detained under the Act ‘at the gate’ at the time of their
-release. People whose primary diagnosis is a personality disorder are
-frequently kept too long under assessment in in-patient units, where
-risk may increase rather than decrease. Their difficulties have often
-arisen from prolonged or repeated traumatising experiences in childhood
-or adolescence, and they may be better supported with effective
-community psychological management programmes,\ :sup:`(n.d.g)` avoiding
-off-licence use of psychopharmacology and potentially further
+worse than for those admitted locally.\ :sup:`2` The Five Year Forward
+plan, however, set targets without acknowledging that many mental health
+trusts were already ‘under-bedded’ in relation to their population size
+and level of social adversity and under-resourced in terms of community
+provision. Also, critical indicators for admission/discharge and
+estimated discharge dates were being underutilised by crisis teams and
+ward staff, leading to unnecessarily prolonged in-patient
+stays.\ :sup:`3` Meanwhile, since the plan was written and distributed,
+a number of factors have come together to increase the pressure on
+scarce in-patient bed resources.\ :sup:`4` In particular, the percentage
+of patients admitted under the Mental Health Act 1983 has increased, as
+has length of stay. Intellectual disability (‘learning disability’) beds
+were being reduced for both the forensic and working-age adult
+populations. One possible explanation was put forward that clients are
+declining informal admissions as the acute wards are perceived as
+stressful and end up eventually being admitted for a longer period under
+the Mental Health Act.\ :sup:`5` This is paralleled by nursing staff
+opinion that acute in-patient wards are now best viewed as ‘mini-PICUs’.
+Reduction in the use of the Mental Health Act 1983 is an objective of
+the Independent Review of the Act (which was completed in December 2018
+and for which a white paper is proposed in the next session of
+parliament), and this could potentially improve flow through acute
+admission beds. Over the past 5 years there has been a 50% increase in
+accident and emergency (A&E) department attendances for mental health
+problems.\ :sup:`6` This has led to increased pressure on crisis and
+liaison specialist services and, at times, perhaps unnecessary admission
+under the Mental Health Act. Presentations with intoxication from
+alcohol and other substances have been rising. We have also seen a surge
+in the use of ‘gate sections’ from Her Majesty's Prisons. This occurs
+when a prisoner has been mentally ill, was not transferred to prison
+under section 38 but is detained under the Act ‘at the gate’ at the time
+of their release. People whose primary diagnosis is a personality
+disorder are frequently kept too long under assessment in in-patient
+units, where risk may increase rather than decrease. Their difficulties
+have often arisen from prolonged or repeated traumatising experiences in
+childhood or adolescence, and they may be better supported with
+effective community psychological management programmes,\ :sup:`7`
+avoiding off-licence use of psychopharmacology and potentially further
 traumatising coercive in-patient treatment under the Mental Health
-Act.\ :sup:`(n.d.h)` Any such admissions should be brief and require a
-team or pathway-based attitude supporting positive risk management. Risk
-averse practice has been rising owing to the negative consequences
-ensuing if the discharge and community plan are not effective in
-preventing a serious adverse outcome. All of these factors have combined
-to make the current in-patient experience of care potentially a
-stressful one for patients and staff alike.
+Act.\ :sup:`8` Any such admissions should be brief and require a team or
+pathway-based attitude supporting positive risk management. Risk averse
+practice has been rising owing to the negative consequences ensuing if
+the discharge and community plan are not effective in preventing a
+serious adverse outcome. All of these factors have combined to make the
+current in-patient experience of care potentially a stressful one for
+patients and staff alike.
 
 There is no doubt that the spiralling development of specialist teams
 (while a good thing for their target populations) has significantly
@@ -117,21 +118,21 @@ admission was needed. However, ‘split’ in-patient and out-patient
 consultant psychiatrist posts have contributed to impairing pathway
 ownership of the flow of patients into and out of acute units as well as
 causing patient dissatisfaction with perceived lack of continuity of
-care.\ :sup:`(n.d.i)` As a result of this accumulation of factors, many
-trusts across the UK have found themselves in great need of a solution
-to the problem of lack of available admission beds that arises as they
-do not have ‘the right patient at the right place at the right time’ on
-their care pathway. Cumbria, Northumberland, Tyne and Wear NHS
-Foundation Trust (NTW), which covers a population of approximately 1.5
-million, decided that effective and prompt discharge to the correct
-treatment pathway needed to be facilitated and the trust board mandated
-a director to take responsibility for this crucial area. The enhanced
-bed management (EBM) service was created as one of a number of
-interlinking strands to deal with rising demand for in-patient
-admission. The other strands included the establishment of a personality
-disorder hub, improving crisis assessment and home treatment teams and
-improving rehabilitation flow. This paper reports early findings from
-evaluation of our EBM service.
+care.\ :sup:`9` As a result of this accumulation of factors, many trusts
+across the UK have found themselves in great need of a solution to the
+problem of lack of available admission beds that arises as they do not
+have ‘the right patient at the right place at the right time’ on their
+care pathway. Cumbria, Northumberland, Tyne and Wear NHS Foundation
+Trust (NTW), which covers a population of approximately 1.5 million,
+decided that effective and prompt discharge to the correct treatment
+pathway needed to be facilitated and the trust board mandated a director
+to take responsibility for this crucial area. The enhanced bed
+management (EBM) service was created as one of a number of interlinking
+strands to deal with rising demand for in-patient admission. The other
+strands included the establishment of a personality disorder hub,
+improving crisis assessment and home treatment teams and improving
+rehabilitation flow. This paper reports early findings from evaluation
+of our EBM service.
 
 .. _sec1:
 
@@ -162,13 +163,13 @@ placements (adult acute) was calculated by comparing a proxy of flow
 compared between the first 6 months and second 6 months of 2018 (the
 second reflecting the period when the full team was operational).
 Unpaired *t*-tests were used to compare the periods in
-question.\ :sup:`(n.d.j)` All other statistical analyses were performed
-using IBM SPSS Statistics (for Windows), release 24.0.0.2. Further
-exploration to understand the impact of internal transfers examined
-length of stay data for all patients discharged from adult acute wards
-in the trust during the financial year 2018–2019. Outcomes and
-recommendations from the first 50 trusted assessments were determined by
-case note review in March 2019.
+question.\ :sup:`10` All other statistical analyses were performed using
+IBM SPSS Statistics (for Windows), release 24.0.0.2. Further exploration
+to understand the impact of internal transfers examined length of stay
+data for all patients discharged from adult acute wards in the trust
+during the financial year 2018–2019. Outcomes and recommendations from
+the first 50 trusted assessments were determined by case note review in
+March 2019.
 
 Ethical approval was not sought as this project was a service evaluation
 and there was no randomisation and no treatment being tested.
@@ -291,7 +292,7 @@ Discussion
 These results show that, by investing in an enhanced bed management
 (EBM) service, improvement in quality of care and substantial financial
 savings can be achieved by preventing unnecessarily long hospital
-stays.\ :sup:`(n.d.k)`
+stays.\ :sup:`11`
 
 .. _sec3-1:
 
@@ -338,7 +339,7 @@ Trusted assessment has been operating in acute hospitals for some time
 but with a slightly different role, where a number of different
 providers agree that the trusted assessment will decide on the most
 appropriate discharge package once that discharge has been decided
-on.\ :sup:`(n.d.l)` Our model of trusted assessment, within mental
+on.\ :sup:`12` Our model of trusted assessment, within mental
 healthcare, is that the various teams within the trust agree to clinical
 mediation, positive risk management or other care strategy with the
 contribution of an experienced clinician working within EBM. This team
@@ -370,25 +371,24 @@ Implications for other mental health trusts
 This service development took place in a mental health trust that
 already had an ‘outstanding rating’ from the Care Quality Commission.
 In-patient beds, rehabilitation beds, community and other resources were
-all close to the median in the NHS benchmarking
-document.\ :sup:`(n.d.m)` The Five Year Forward plan, however, set
-targets without acknowledging that many mental health trusts were
-already ‘under-bedded’ in relation to their population size and level of
-social adversity and under-resourced in terms of community provision. It
-is certainly the case that there are mental health trusts where much
-higher numbers of out-of-area acute beds are chronically in use. If the
-important targets of the Five Year Forward plan are to be achieved
-within a system of suboptimal bed provision, our findings show initial
-support for the contention that EBM, incorporating trusted assessments,
-is a safe and viable option. The generalisation of these findings to
-other trusts and settings will depend on an adequate number of acute
-psychiatric beds being funded and a number of other locality-specific
-factors. These include the level of social deprivation and adequate
-funding of crisis/home treatment teams and other community mental health
-provision. Mental health trusts might consider appointing a senior
-clinician or director with responsibility for pathway synchronisation
-and ownership of patient flow. This model may also prove beneficial for
-older adult and rehabilitation services.
+all close to the median in the NHS benchmarking document.\ :sup:`13` The
+Five Year Forward plan, however, set targets without acknowledging that
+many mental health trusts were already ‘under-bedded’ in relation to
+their population size and level of social adversity and under-resourced
+in terms of community provision. It is certainly the case that there are
+mental health trusts where much higher numbers of out-of-area acute beds
+are chronically in use. If the important targets of the Five Year
+Forward plan are to be achieved within a system of suboptimal bed
+provision, our findings show initial support for the contention that
+EBM, incorporating trusted assessments, is a safe and viable option. The
+generalisation of these findings to other trusts and settings will
+depend on an adequate number of acute psychiatric beds being funded and
+a number of other locality-specific factors. These include the level of
+social deprivation and adequate funding of crisis/home treatment teams
+and other community mental health provision. Mental health trusts might
+consider appointing a senior clinician or director with responsibility
+for pathway synchronisation and ownership of patient flow. This model
+may also prove beneficial for older adult and rehabilitation services.
 
 All authors contributed in a substantial manner to the design of this
 project or the acquisition/analysis or interpretation of the data and
@@ -408,74 +408,6 @@ Hospital, NTW NHS Foundation Trust, Sunderland, UK. **Leigh Bell**, BN,
 is a Bed Manager at Monkwearmouth Hospital, NTW NHS Foundation Trust,
 Sunderland, UK. **Denise Pickersgill**, BA, is Associate Director of
 Monkwearmouth Hospital, NTW NHS Foundation Trust, Sunderland, UK.
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-ref1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-ref2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-ref3
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-ref4
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-ref5
-
-      n.d.e.
-
-   .. container:: csl-entry
-      :name: ref-ref6
-
-      n.d.f.
-
-   .. container:: csl-entry
-      :name: ref-ref7
-
-      n.d.g.
-
-   .. container:: csl-entry
-      :name: ref-ref8
-
-      n.d.h.
-
-   .. container:: csl-entry
-      :name: ref-ref9
-
-      n.d.i.
-
-   .. container:: csl-entry
-      :name: ref-ref10
-
-      n.d.j.
-
-   .. container:: csl-entry
-      :name: ref-ref11
-
-      n.d.k.
-
-   .. container:: csl-entry
-      :name: ref-ref12
-
-      n.d.l.
-
-   .. container:: csl-entry
-      :name: ref-ref13
-
-      n.d.m.
 
 .. [1]
    **Declaration of interest:** None.

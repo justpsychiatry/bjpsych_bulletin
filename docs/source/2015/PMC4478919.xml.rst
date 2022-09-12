@@ -2,6 +2,8 @@
 Investigating the usefulness of a metacognitive training group programme for schizophrenia
 ==========================================================================================
 
+
+
 Lorna Jane Howe
 Ian D. BrownCorrespondence to Ian Brown (ian.brown@sheffield.ac.uk)
  [1]_
@@ -36,45 +38,43 @@ Ian D. BrownCorrespondence to Ian Brown (ian.brown@sheffield.ac.uk)
 ..
 
 The need for psychological interventions for psychosis is increasingly
-recognised\ :sup:`(n.d.a)` and cognitive–behavioural interventions have
+recognised\ :sup:`1` and cognitive–behavioural interventions have
 emerged as potentially effective approaches that should be considered in
-the treatment of schizophrenia.\ :sup:`(n.d.b)` The rationale for such
+the treatment of schizophrenia.\ :sup:`2` The rationale for such
 approaches stems from mounting evidence that cognitive biases may
 trigger or maintain symptoms in schizophrenia, especially rigidly held
 unusual beliefs, frequently described as delusions within the
-literature.\ :sup:`(n.d.c)` Individuals with the diagnosis may show
-evidence of attributional biases, jumping to conclusions, bias against
+literature.\ :sup:`3` Individuals with the diagnosis may show evidence
+of attributional biases, jumping to conclusions, bias against
 disconfirmatory evidence, overconfidence in errors and problems with
-theory of mind.\ :sup:`(n.d.d)` In light of these findings, an
-evidence-based group cognitive training programme has been developed
-called metacognitive training for schizophrenia (MCT)\ :sup:`(n.d.e)`
-(metacognitive can be defined as thinking about one’s own thinking). The
-programme aims to provide psychoeducation on cognitive biases to help
-alter individual’s current problem-solving repertoire and prevent
-relapse.\ :sup:`(n.d.e),(n.d.f)` Research has confirmed the feasibility
-of MCT and provided support for its efficacy in reducing positive
-symptoms and cognitive biases related to schizophrenia in 29 countries
-including Germany\ :sup:`(n.d.g),(n.d.h)` and
-Switzerland.\ :sup:`(n.d.i),(n.d.j)`
+theory of mind.\ :sup:`4` In light of these findings, an evidence-based
+group cognitive training programme has been developed called
+metacognitive training for schizophrenia (MCT)\ :sup:`5` (metacognitive
+can be defined as thinking about one’s own thinking). The programme aims
+to provide psychoeducation on cognitive biases to help alter
+individual’s current problem-solving repertoire and prevent
+relapse.\ :sup:`5,6` Research has confirmed the feasibility of MCT and
+provided support for its efficacy in reducing positive symptoms and
+cognitive biases related to schizophrenia in 29 countries including
+Germany\ :sup:`7,8` and Switzerland.\ :sup:`9,10`
 
 However, although there is already support for the efficacy of
-MCT\ :sup:`(n.d.g),(n.d.h)` exploring its effectiveness within the local
-service was deemed important and, if necessary, adapting the service on
-the basis of feedback. This was reinforced by a health trust-wide
-initiative to promote clinical effectiveness through service-user
-feedback. It was considered important to examine individual
-sessions/modules as well as the broader programme experience (collapsing
-across attended modules). The open nature of the programme was such that
-participants could enter the programme at different points in the cycle:
-comparison of individual modules would show whether different
-entry-points to the programme were seen to be similarly useful/effective
-and identify particular foci for improvement. Three specific aims
-emerged from local service needs: to (a) explore the perceived utility
-and effectiveness of each MCT module, (b) explore the overall perceived
-utility and effectiveness of MCT group attendance (collapsing across
-sessions attended), and (c) examine the interrelationships between
-post-session ratings of perceived group utility, effectiveness and
-self-reported anxiety.
+MCT\ :sup:`7,8` exploring its effectiveness within the local service was
+deemed important and, if necessary, adapting the service on the basis of
+feedback. This was reinforced by a health trust-wide initiative to
+promote clinical effectiveness through service-user feedback. It was
+considered important to examine individual sessions/modules as well as
+the broader programme experience (collapsing across attended modules).
+The open nature of the programme was such that participants could enter
+the programme at different points in the cycle: comparison of individual
+modules would show whether different entry-points to the programme were
+seen to be similarly useful/effective and identify particular foci for
+improvement. Three specific aims emerged from local service needs: to
+(a) explore the perceived utility and effectiveness of each MCT module,
+(b) explore the overall perceived utility and effectiveness of MCT group
+attendance (collapsing across sessions attended), and (c) examine the
+interrelationships between post-session ratings of perceived group
+utility, effectiveness and self-reported anxiety.
 
 .. _S1:
 
@@ -112,7 +112,7 @@ Measures
 
 The questionnaire was developed by the group facilitator (a clinical
 psychologist) based on the questionnaire used by the authors of
-MCT.\ :sup:`(n.d.e)` It took approximately 5 min to complete and covered
+MCT.\ :sup:`5` It took approximately 5 min to complete and covered
 demographic information, questions that created a unique anonymised code
 to track participants through the programme and questions providing
 quantitative data on either a five-point or ten-point Likert scale
@@ -127,7 +127,7 @@ Description of the programme
   lasting approximately 45 min, facilitated by a clinical psychologist.
   There were different modules each week, which consisted of
   familiarising participants with the Table 1Programme
-  content\ :sup:`(n.d.k)`\ Module titleTarget domainOverview of
+  content\ :sup:`11`\ Module titleTarget domainOverview of
   exercisesModule 1a & 1b:
 | Attribution – blaming and
 | taking creditSelf-serving bias *v.*
@@ -183,7 +183,7 @@ Description of the programme
   individuals could join at any time. The manual, modules and other
   resources were downloaded cost-free from
   `www.uke.de/mct <www.uke.de/mct>`__. `Table 1 <#T1>`__ outlines the
-  content of the group programme.\ :sup:`(n.d.k)`
+  content of the group programme.\ :sup:`11`
 
 .. _S6:
 
@@ -265,9 +265,9 @@ to recovery0.2060.010–0.1940.018Change in knowledge–0.0400.625 to show
 that some individuals reported no change or negative change between pre-
 and post-group. Specifically, 20% (32/159) reported zero or negative
 changes in knowledge. It was not possible to compute accurate reliable
-change estimates\ :sup:`(n.d.l)` for knowledge items, as available
-estimates of test–retest reliability are conflated with intervention
-effects. Those who showed zero and negative changes would not be able to
+change estimates\ :sup:`12` for knowledge items, as available estimates
+of test–retest reliability are conflated with intervention effects.
+Those who showed zero and negative changes would not be able to
 demonstrate reliable improvement in any analysis of reliable change.
 
 .. _S9:
@@ -307,11 +307,10 @@ positively correlated with change in knowledge. By increasing an
 individual’s awareness of cognitive biases and providing corrective
 experiences, it could be expected that an individual would report an
 increase in knowledge and related recovery (in terms of decreased
-symptoms).\ :sup:`(n.d.e)` However, it is acknowledged that ‘recovery’
-is a complex term and, although recovery from clinical symptoms can be
-seen as an outcome, individuals may continue to experience psychological
-distress while achieving ‘personal’ and ‘social’
-recovery.\ :sup:`(n.d.m),(n.d.n)`
+symptoms).\ :sup:`5` However, it is acknowledged that ‘recovery’ is a
+complex term and, although recovery from clinical symptoms can be seen
+as an outcome, individuals may continue to experience psychological
+distress while achieving ‘personal’ and ‘social’ recovery.\ :sup:`13,14`
 
 Interestingly, self-reported anxiety was negatively correlated with
 perceived usefulness and helpfulness to recovery. This suggests that the
@@ -343,8 +342,8 @@ and they may not have benefited from the group. Nevertheless, it is
 suggested that individuals with various mental health difficulties may
 benefit from MCT as the focus is on providing a neutral ‘common ground’
 for discussing thinking styles, rather than individual
-symptoms.\ :sup:`(n.d.k)` However, this remains to be investigated and
-was beyond the scope of this paper.
+symptoms.\ :sup:`11` However, this remains to be investigated and was
+beyond the scope of this paper.
 
 It is also noted that some participants only attended the group once or
 a few times. This may be a behavioural indication that the intervention
@@ -377,7 +376,7 @@ psychological intervention to participants within a local service. In
 addition to meeting local service needs, this paper contributes to the
 broader evidence base for MCT and supports the use of
 cognitive–behavioural interventions in the treatment of individuals
-experiencing psychosis.\ :sup:`(n.d.b),(n.d.g),(n.d.h)`
+experiencing psychosis.\ :sup:`2,7,8`
 
 The results have provided some important insights that may help to
 inform future clinical practice. Correlations suggested that individuals
@@ -392,7 +391,7 @@ be needed (for example ensuring only individuals with a diagnosis of
 schizophrenia/psychosis are included). It may also be useful to
 implement the recently developed individualised MCT programme on a
 one-to-one basis with some clients who may not benefit from a group
-format.\ :sup:`(n.d.o)`
+format.\ :sup:`15`
 
 The MCT programme showed promising results in promoting knowledge and
 was helpful for recovery and therefore further evaluation of the MCT
@@ -497,84 +496,6 @@ Questions on the evaulation form
    | None at |   |         |        |   |         |   |         |   | A great |
    | all     |   |         |        |   |         |   |         |   | deal    |
    +---------+---+---------+--------+---+---------+---+---------+---+---------+
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-R1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-R2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-R3
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-R4
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-R5
-
-      n.d.e.
-
-   .. container:: csl-entry
-      :name: ref-R6
-
-      n.d.f.
-
-   .. container:: csl-entry
-      :name: ref-R7
-
-      n.d.g.
-
-   .. container:: csl-entry
-      :name: ref-R8
-
-      n.d.h.
-
-   .. container:: csl-entry
-      :name: ref-R9
-
-      n.d.i.
-
-   .. container:: csl-entry
-      :name: ref-R10
-
-      n.d.j.
-
-   .. container:: csl-entry
-      :name: ref-R11
-
-      n.d.k.
-
-   .. container:: csl-entry
-      :name: ref-R12
-
-      n.d.l.
-
-   .. container:: csl-entry
-      :name: ref-R13
-
-      n.d.m.
-
-   .. container:: csl-entry
-      :name: ref-R14
-
-      n.d.n.
-
-   .. container:: csl-entry
-      :name: ref-R15
-
-      n.d.o.
 
 .. [1]
    **Lorna Jane Howe** is a Clinical Psychologist at Cambian Healthcare.

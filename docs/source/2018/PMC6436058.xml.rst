@@ -2,6 +2,8 @@
 The clinical utility of the IRAC component of the Framework for Routine Outcome Measurement in Liaison Psychiatry (FROM-LP)
 ===========================================================================================================================
 
+
+
 Caroline Guest
 Stephen Crockett
 Patrick Little
@@ -50,21 +52,21 @@ Anish PatelCorrespondence to Anish Patel (anishpatel@nhs.net)
 The value and cost-effectiveness of an adequately funded and organised
 mental health liaison team (MHLT) have been demonstrated and promoted in
 national policy documents and economic analyses over the past 5
-years.(n.d.a)\ :sup:`–`\ (n.d.b) Although the economic benefits of a
-MHLT have been established, there is a lack of evidence relating to
-clinical (and other) outcomes.(n.d.c) Measurement of clinical outcomes
-is essential for clinical teams to evaluate their work and enable
-ongoing service development. A Centre for Mental Health (CMH) report
-highlighted the challenges associated with measurement of outcome across
-MHLTs, which are operating in a number of different settings and
-carrying out a wide range of clinical activities in support of patients
-with many different types of clinical problems.(n.d.c) A systematic
-review on the effectiveness of liaison psychiatry found that many
-studies had disparate results and were methodologically flawed.(n.d.d)
-The CMH report proposed the use of a framework for measurements based on
-a logic model approach which took into account structure (inputs),
-process (activities) and outcomes (outputs) and suggested using a
-combination from each, ‘the so-called Scorecard approach’.(n.d.c)
+years.1\ :sup:`–`\ 4 Although the economic benefits of a MHLT have been
+established, there is a lack of evidence relating to clinical (and
+other) outcomes.5 Measurement of clinical outcomes is essential for
+clinical teams to evaluate their work and enable ongoing service
+development. A Centre for Mental Health (CMH) report highlighted the
+challenges associated with measurement of outcome across MHLTs, which
+are operating in a number of different settings and carrying out a wide
+range of clinical activities in support of patients with many different
+types of clinical problems.5 A systematic review on the effectiveness of
+liaison psychiatry found that many studies had disparate results and
+were methodologically flawed.6 The CMH report proposed the use of a
+framework for measurements based on a logic model approach which took
+into account structure (inputs), process (activities) and outcomes
+(outputs) and suggested using a combination from each, ‘the so-called
+Scorecard approach’.5
 
 .. _sec1-1:
 
@@ -73,16 +75,16 @@ Development of the FROM-LP
 
 In response to these recommendations, in 2015 the Faculty of Liaison
 Psychiatry of the Royal College of Psychiatrists produced the Framework
-for Routine Outcome Measurements in Liaison Psychiatry (FROM-LP).(n.d.e)
-The authors, after further describing its development, proposed that it
-was adopted across all MHLT's in the National Health service
-(NHS).(n.d.f) Their aim was to enable consistency of data collection and
-effective reporting of outcomes such that patients, referrers, the NHS
-Trust providing the service and commissioners could all understand and
-have confidence in the beneficial effects of their MHLT. The authors
-acknowledged that rolling out this tool quickly across MHLT's nationwide
-meant that it was potentially an imperfect tool; however, they
-recognised that it could be refined over time.(n.d.e)
+for Routine Outcome Measurements in Liaison Psychiatry (FROM-LP).7 The
+authors, after further describing its development, proposed that it was
+adopted across all MHLT's in the National Health service (NHS).8 Their
+aim was to enable consistency of data collection and effective reporting
+of outcomes such that patients, referrers, the NHS Trust providing the
+service and commissioners could all understand and have confidence in
+the beneficial effects of their MHLT. The authors acknowledged that
+rolling out this tool quickly across MHLT's nationwide meant that it was
+potentially an imperfect tool; however, they recognised that it could be
+refined over time.7
 
 .. _sec1-2:
 
@@ -108,7 +110,7 @@ Implementation of the FROM-LP
   construct validity and thus the clinical utility of this component of
   the FROM-LP? Table 1Framework for Routine Outcome Measurement in
   Liaison Psychiatry (FROM-LP) content. Adapted from Trigwell &
-  Kustow.(n.d.e)FROM-LP summary tableMeasurementCase type 1: single
+  Kustow.7FROM-LP summary tableMeasurementCase type 1: single
   contactCase type 2: series of contactsProcess1. Response time
 | **2. IRAC**\ 1. Response time
 | **2. IRAC**\ Outcomes (clinician-rated)3. CGI-I3. CGI-I (at beginning
@@ -323,7 +325,7 @@ risk (12.5%)(d)providing guidance and advice (16.5%).
 This type of information can be used (alongside the structure and
 outcomes measurements in FROM-LP) to gain a clearer understanding of the
 work that the in-patient team are routinely carrying out, as described
-in the paper by Guthrie *et al*.(n.d.g) This can then guide service
+in the paper by Guthrie *et al*.9 This can then guide service
 development; for example, do our staff have all the necessary skills to
 manage the referrals, or do they require training in specific areas?
 
@@ -341,14 +343,13 @@ Conclusion
 
 Since the launch of FROM-LP, there has been encouraging feedback based
 on opinion and observation, and numerous MHLT's have already implemented
-it.(n.d.f) However, the developers acknowledged that rolling out this
-tool quickly across MHLTs nationwide meant that it was potentially
-imperfect.(n.d.e) Tadros's commentary(n.d.h) further encouraged MHLTs to
-develop a positive approach integrating the collection of outcome
-measures into everyday clinical practice, and found the FROM-LP a very
-useful tool to measure service quality and clinical effectiveness. To
-date, however, there has not been an actual appraisal of the tool or any
-part of it.
+it.8 However, the developers acknowledged that rolling out this tool
+quickly across MHLTs nationwide meant that it was potentially
+imperfect.7 Tadros's commentary10 further encouraged MHLTs to develop a
+positive approach integrating the collection of outcome measures into
+everyday clinical practice, and found the FROM-LP a very useful tool to
+measure service quality and clinical effectiveness. To date, however,
+there has not been an actual appraisal of the tool or any part of it.
 
 Through our evaluation of the IRAC scale of the FROM-LP, we have
 demonstrated an improvement in the accuracy of the referrals to our
@@ -368,49 +369,6 @@ Health Liaison Team, Bristol, UK; and **Dr Anish Patel** is a Consultant
 Liaison Psychiatrist in the North Bristol NHS Trust Mental Health
 Liaison Team, Bristol, UK, and part of Avon and Wiltshire Mental Health
 Partnership NHS Trust, Chippenham, UK.
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-ref1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-ref4
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-ref5
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-ref6
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-ref7
-
-      n.d.e.
-
-   .. container:: csl-entry
-      :name: ref-ref8
-
-      n.d.f.
-
-   .. container:: csl-entry
-      :name: ref-ref9
-
-      n.d.g.
-
-   .. container:: csl-entry
-      :name: ref-ref10
-
-      n.d.h.
 
 .. [1]
    CGI, Clinical Global Impression – Improvement scale; CORE-10,

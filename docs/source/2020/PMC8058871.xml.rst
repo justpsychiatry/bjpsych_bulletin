@@ -2,6 +2,8 @@
 Clozapine and COVID-19
 ======================
 
+
+
 Edward Silva
 Siobhan Gee
 Shubulade Smith
@@ -15,24 +17,23 @@ Fiona Gaughran
 
 The COVID-19 pandemic presents psychiatrists prescribing clozapine with
 complexities over and above the general difficulties already described
-among Chinese psychiatric in-patients.\ :sup:`(n.d.a)` Some common
-initiation effects of clozapine: isolated fever, tachycardia or a mildly
-raised C-reactive protein\ :sup:`(n.d.b)` may be difficult to
-differentiate from intercurrent infection, including
-COVID-19.\ :sup:`(n.d.c)` Other laboratory anomalies may add to
-confusion. Given COVID-19 infection deaths that are not the result of
-acute respiratory distress syndrome are often from fulminant
-myocarditis, for which a raised troponin is a poor prognostic feature,
-troponin levels taken routinely during clozapine initiation will need to
-be interpreted carefully. However, while leucopenia is a reported blood
-dyscrasia with COVID-19, to date neither neutropenia nor agranulocytosis
-is.
+among Chinese psychiatric in-patients.\ :sup:`1` Some common initiation
+effects of clozapine: isolated fever, tachycardia or a mildly raised
+C-reactive protein\ :sup:`2` may be difficult to differentiate from
+intercurrent infection, including COVID-19.\ :sup:`3` Other laboratory
+anomalies may add to confusion. Given COVID-19 infection deaths that are
+not the result of acute respiratory distress syndrome are often from
+fulminant myocarditis, for which a raised troponin is a poor prognostic
+feature, troponin levels taken routinely during clozapine initiation
+will need to be interpreted carefully. However, while leucopenia is a
+reported blood dyscrasia with COVID-19, to date neither neutropenia nor
+agranulocytosis is.
 
-In the absence of an antibody test for COVID-19\ :sup:`(n.d.d)` we rely
-on reverse-transcriptase polymerase chain reaction COVID-19 testing,
-which does not have 100% sensitivity in the initial phase of infection,
-so a single negative test does not exclude infection. Once an antibody
-test becomes available it will be a useful addition to pre-clozapine
+In the absence of an antibody test for COVID-19\ :sup:`4` we rely on
+reverse-transcriptase polymerase chain reaction COVID-19 testing, which
+does not have 100% sensitivity in the initial phase of infection, so a
+single negative test does not exclude infection. Once an antibody test
+becomes available it will be a useful addition to pre-clozapine
 investigations.
 
 Comorbidities such as diabetes, hypertension, respiratory illness and
@@ -40,13 +41,13 @@ cardiovascular disease are very common in patients taking clozapine but
 are associated with adverse outcomes in the event of COVID-19 infection,
 including increased mortality rates. It is not known whether the
 antibody deficiency described in patients taking clozapine will further
-compromise this vulnerable group.\ :sup:`(n.d.e)` These are not,
-however, indications to stop clozapine, which itself has serious adverse
+compromise this vulnerable group.\ :sup:`5` These are not, however,
+indications to stop clozapine, which itself has serious adverse
 consequences. Rather patients need clear advice and, if possible,
 assistance regarding self-isolation and other precautions advised.
 Obesity and sleep apnoea may also contribute to poor outcomes and
 continuous positive airway pressure treatment, which can be an
-aerosol-generating procedure,\ :sup:`(n.d.f)` may be a risk to staff.
+aerosol-generating procedure,\ :sup:`6` may be a risk to staff.
 
 Individuals already established on clozapine and managed in the
 community may require changes to their management. In view of
@@ -68,7 +69,7 @@ be followed. The combination of flu-like symptoms, chest pain and
 shortness of breath will, as community prevalence of COVID-19 increases,
 be much more likely to be because of COVID-19 than clozapine-induced
 myocarditis, except perhaps within the first 60 days of
-treatment.\ :sup:`(n.d.g)` However, such a presentation will still need
+treatment.\ :sup:`7` However, such a presentation will still need
 investigation and cessation of clozapine may on occasion be required as
 well as urgent general medical assistance. Careful documentation of
 symptom profiles and investigations will aid subsequent decisions
@@ -91,41 +92,3 @@ Janssen and Sunovion, is a collaborator on an NHS Innovations project
 co-funded by Janssen and has a family member with professional links to
 Lilly and GSK, including shares. E.S. has received speaker fees from
 Janssen and Novartis.
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-ref1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-ref2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-ref3
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-ref4
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-ref5
-
-      n.d.e.
-
-   .. container:: csl-entry
-      :name: ref-ref6
-
-      n.d.f.
-
-   .. container:: csl-entry
-      :name: ref-ref7
-
-      n.d.g.

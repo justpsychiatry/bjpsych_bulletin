@@ -2,6 +2,8 @@
 The application of mental health legislation in younger children
 ================================================================
 
+
+
 Victoria Thomas
 Barry Chipchase
 Lisa Rippon
@@ -34,8 +36,8 @@ Much of the debate around consent to treatment by young children has
 focused on competence. ‘A child who has attained sufficient
 understanding and intelligence to be able to understand fully what is
 involved in the proposed intervention will be regarded as competent to
-consent’.\ :sup:`(n.d.a)` This concept is known as Gillick
-competence.\ :sup:`(n.d.b)`
+consent’.\ :sup:`1` This concept is known as Gillick
+competence.\ :sup:`2`
 
 However, especially for younger children, persons with parental
 responsibility are, in general, responsible for treatment decisions.
@@ -47,22 +49,21 @@ the person responsible for the care and treatment of the patient must
 determine whether a person with parental responsibility has the
 capacity, within the meaning of the Mental Capacity Act 2005, to make a
 decision about the child or young person's treatment and whether the
-decision is within the ‘zone of parental control’.\ :sup:`(n.d.c)` The
-‘zone of parental control’ is a concept derived largely from European
-Court of Human Rights case law and has become central to parent-related
-decision-making.\ :sup:`(n.d.c),(n.d.d)`
+decision is within the ‘zone of parental control’.\ :sup:`3` The ‘zone
+of parental control’ is a concept derived largely from European Court of
+Human Rights case law and has become central to parent-related
+decision-making.\ :sup:`3,4`
 
-Although not a clearly defined concept,\ :sup:`(n.d.e)` there are
-guidelines in the Code about whether a particular decision falls within
-the zone of parental control. There are two key
-questions.\ :sup:`(n.d.c)` First, ‘is the decision one that a parent
-would be expected to make, having regard both to what is considered to
-be normal practice in our society and to any relevant human rights
-decisions made by the courts’? Second, ‘are there no indications that
-the parent might not act in the best interests of the child or young
-person’? The less confident a professional is that they can answer ‘yes’
-to both questions, the more likely it will be that the decision falls
-outside the zone.
+Although not a clearly defined concept,\ :sup:`5` there are guidelines
+in the Code about whether a particular decision falls within the zone of
+parental control. There are two key questions.\ :sup:`3` First, ‘is the
+decision one that a parent would be expected to make, having regard both
+to what is considered to be normal practice in our society and to any
+relevant human rights decisions made by the courts’? Second, ‘are there
+no indications that the parent might not act in the best interests of
+the child or young person’? The less confident a professional is that
+they can answer ‘yes’ to both questions, the more likely it will be that
+the decision falls outside the zone.
 
 .. _S2:
 
@@ -80,13 +81,13 @@ the extent to which a parent's interests may conflict with those of the
 child or young person. Certain treatments that could be considered
 particularly invasive or controversial, for example electroconvulsive
 therapy (ECT), are likely to be considered to fall outside the zone of
-parental control.\ :sup:`(n.d.c)`
+parental control.\ :sup:`3`
 
 Decisions that would result in a deprivation of liberty will be outside
 the zone, as detention engages the article 5 rights of the child
 (Convention for the Protection of Human Rights and Fundamental Freedoms
 right to liberty and security) and a parent may not lawfully detain or
-authorise the detention of a child.\ :sup:`(n.d.f)` There is no specific
+authorise the detention of a child.\ :sup:`6` There is no specific
 definition of deprivation of liberty, but various factors have been
 identified that are likely to be relevant; for example, the use of
 restraint (including sedation) to admit a person to an institution where
@@ -94,16 +95,16 @@ that person is resisting admission; staff exercising complete and
 effective control over the care and movement of a person for a
 significant period; and the person being unable to maintain social
 contacts because of restrictions placed on their access to other people.
-A recent judgment from the Supreme Court,\ :sup:`(n.d.g)` commonly
-referred to as the Cheshire West case, has provided a clear ‘acid test’
-on the meaning of deprivation of liberty. The Supreme Court has made it
-clear that, for a person to be deprived of their liberty, they must be
-subject both to continuous supervision and control and not be free to
-leave. The Supreme Court also held that, in all cases, the following are
-not relevant to the application of the test: (1) the person's compliance
-or lack of objection; (2) the relative normality of the placement
-(whatever the comparison made); and (3) the reason or purpose behind a
-particular placement.
+A recent judgment from the Supreme Court,\ :sup:`7` commonly referred to
+as the Cheshire West case, has provided a clear ‘acid test’ on the
+meaning of deprivation of liberty. The Supreme Court has made it clear
+that, for a person to be deprived of their liberty, they must be subject
+both to continuous supervision and control and not be free to leave. The
+Supreme Court also held that, in all cases, the following are not
+relevant to the application of the test: (1) the person's compliance or
+lack of objection; (2) the relative normality of the placement (whatever
+the comparison made); and (3) the reason or purpose behind a particular
+placement.
 
 One of the matters the Court considered in the Cheshire West case was
 whether children could be deprived of their liberty in the family home.
@@ -175,7 +176,7 @@ restraints involving up to four members of staff at a time, and
 occasional use of seclusion to maintain his own safety and the safety of
 others.The Code of Practice for the Mental Health Act advises that
 seclusion of an informal patient should be taken as an indication of the
-need to consider formal detention.\ :sup:`(n.d.c)`
+need to consider formal detention.\ :sup:`3`
 
 With legal advice from trust and local authority solicitors, it was
 agreed that as long as B met criteria for detention under the Mental
@@ -193,10 +194,9 @@ nature or degree which warrants their detention in hospital for
 assessment (or for assessment followed by treatment) for at least a
 limited period; andthe person ought to be so detained in the interests
 of their own health or safety or with a view to the protection of others
-(para. 4.2).\ :sup:`(n.d.c)` In this case, B both had mental disorder
-(autism spectrum disorder and hyperkinetic conduct disorder) and was
-presenting in a way that put his own safety, and that of others, at
-risk.
+(para. 4.2).\ :sup:`3` In this case, B both had mental disorder (autism
+spectrum disorder and hyperkinetic conduct disorder) and was presenting
+in a way that put his own safety, and that of others, at risk.
 
 Following a Mental Health Act assessment and close consultation with
 local authority and trust legal services, B was detained under section
@@ -244,7 +244,7 @@ that: ‘In such cases, the courts have stated that doubt should be
 resolved in favour of the preservation of life, and it will be
 acceptable to undertake treatment to preserve life or prevent
 irreversible serious deterioration of the patient's condition’ (para.
-36.51).\ :sup:`(n.d.c)` In B's case, incidents of extremely challenging
+36.51).\ :sup:`3` In B's case, incidents of extremely challenging
 behaviour required urgent intervention, but these were frequent and
 repetitive and therefore the clinical team was unable to rely on the
 doctrine of necessity.
@@ -261,9 +261,9 @@ subject to a section 25 order does not have to be subject to an interim
 care order. The Children Act 1989 does not, however, specifically
 address mental disorder, does not provide specific powers to enforce
 treatment, and does not provide specific safeguards for the rights of
-the detained patient.\ :sup:`(n.d.h)` B needed to be in hospital for
-further treatment of his mental disorder and therefore a secure
-accommodation order was not judged appropriate at that time.
+the detained patient.\ :sup:`8` B needed to be in hospital for further
+treatment of his mental disorder and therefore a secure accommodation
+order was not judged appropriate at that time.
 
 In some situations, particularly if there are disputes between the
 family and the treating clinician or between family members, or if other
@@ -292,49 +292,6 @@ patient and the relevant factors of each case. The Mental Health Act
 We are grateful to B's parents for giving their consent for this paper,
 to the Redburn nursing staff, and to Camilla Parker and Anthony Harbour
 for their comments on an early draft of this paper.
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-R1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-R2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-R3
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-R4
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-R5
-
-      n.d.e.
-
-   .. container:: csl-entry
-      :name: ref-R6
-
-      n.d.f.
-
-   .. container:: csl-entry
-      :name: ref-R7
-
-      n.d.g.
-
-   .. container:: csl-entry
-      :name: ref-R8
-
-      n.d.h.
 
 .. [1]
    **Victoria Thomas** is a specialty doctor, **Barry Chipchase**,

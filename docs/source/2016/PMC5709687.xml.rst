@@ -2,6 +2,8 @@
 Measuring relational security in forensic mental health services
 ================================================================
 
+
+
 Verity Chester
 Regi T. Alexander
 Wendy MorganCorrespondence to Verity Chester
@@ -35,25 +37,24 @@ Wendy MorganCorrespondence to Verity Chester
 ..
 
 Serious incident investigations in forensic mental health services have
-been linked to relational security breakdowns. :sup:`(n.d.a)` However,
-relational security has been described as the ‘poor relation’
-:sup:`(n.d.b)` when compared with physical or procedural security. This
-is most likely due to definition difficulties. Chester & Morgan
-:sup:`(n.d.c)` noted that numerous conceptualisations of relational
-security exist, all referencing different phenomena, such as
-‘therapeutic relationships’ and ‘boundaries’, without describing how
-such concepts can affect security. :sup:`(n.d.c)` The authors noted that
-the most practically useful definitions emphasise exactly how relational
-issues affect security, in two stages: (1) staff knowledge of patients
-and therapeutic relationships; and (2) how patient knowledge and
-therapeutic relationships are used to foresee potential and manage
-actual security incidents, for example: ‘The professional relationships
-between staff and patients so that … the staff to get to know … their
-patients, their moods and problems, to facilitate interventions before
-these become major problems, or lead to incidents of a security nature’
-(p. 171). :sup:`(n.d.d)` As such, relational security is intrinsically
-linked to short- and long-term assessment and management of risk in
-mental health and forensic services.
+been linked to relational security breakdowns. :sup:`1` However,
+relational security has been described as the ‘poor relation’ :sup:`2`
+when compared with physical or procedural security. This is most likely
+due to definition difficulties. Chester & Morgan :sup:`3` noted that
+numerous conceptualisations of relational security exist, all
+referencing different phenomena, such as ‘therapeutic relationships’ and
+‘boundaries’, without describing how such concepts can affect security.
+:sup:`3` The authors noted that the most practically useful definitions
+emphasise exactly how relational issues affect security, in two stages:
+(1) staff knowledge of patients and therapeutic relationships; and (2)
+how patient knowledge and therapeutic relationships are used to foresee
+potential and manage actual security incidents, for example: ‘The
+professional relationships between staff and patients so that … the
+staff to get to know … their patients, their moods and problems, to
+facilitate interventions before these become major problems, or lead to
+incidents of a security nature’ (p. 171). :sup:`4` As such, relational
+security is intrinsically linked to short- and long-term assessment and
+management of risk in mental health and forensic services.
 
 Relational security is therefore a service quality indicator of interest
 within forensic and general mental health services. Its measurement
@@ -61,12 +62,12 @@ should allow practitioners to explore background causes and respond
 accordingly with appropriate interventions. Due to the definitional
 complexities, there are subsequent challenges to measurement. Previously
 available tools only measure partial aspects of relational security or
-individual patient needs. :sup:`(n.d.c)` However, two tools have been
-developed in recent years, the Relational Security Explorer
-:sup:`(n.d.e)` and the See Think Act scale. :sup:`(n.d.b)` As limited
-research has examined the clinical utility of these measures, the
-present study examines their psychometric properties to support the aim
-of relational security measurement.
+individual patient needs. :sup:`3` However, two tools have been
+developed in recent years, the Relational Security Explorer :sup:`5` and
+the See Think Act scale. :sup:`2` As limited research has examined the
+clinical utility of these measures, the present study examines their
+psychometric properties to support the aim of relational security
+measurement.
 
 .. _S1:
 
@@ -92,9 +93,9 @@ Participants
 Participants were recruited from a forensic service for people with
 intellectual disability. As guidance recommends that relational security
 implementation should involve all occupational groups working within
-secure services, :sup:`(n.d.f)` the study invited all staff who have
-contact with patients as part of their role to take part in the study
-(*n* = 216), and of these 41% (*n* = 89) responded. The majority of the
+secure services, :sup:`6` the study invited all staff who have contact
+with patients as part of their role to take part in the study (*n* =
+216), and of these 41% (*n* = 89) responded. The majority of the
 participants were female (63%), and the average length of service
 working in secure services was 6 years (range 0.12–20). The majority of
 participants were from the nursing department (57%), followed by
@@ -106,9 +107,9 @@ locked rehabilitation (16.9%). There are no national data available
 which describe the demographics of the forensic mental health workforce,
 although the reported characteristics reflected the socio-demographic
 and occupational breakdown of the study service and the broader mental
-health workforce as a whole, :sup:`(n.d.g)` being predominantly female
-and with nursing staff comprising the largest department followed by
-other members of the multidisciplinary team. As participants responded
+health workforce as a whole, :sup:`7` being predominantly female and
+with nursing staff comprising the largest department followed by other
+members of the multidisciplinary team. As participants responded
 anonymously, it was not possible to undertake any analyses comparing
 participants with non-responders.
 
@@ -119,30 +120,30 @@ Measures
 
 .. _S5:
 
-See Think Act (STA) scale :sup:`(n.d.b)`
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+See Think Act (STA) scale :sup:`2`
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The STA scale is the first attempt to create a direct measure of
 relational security. The 28 items were developed from the Department of
-Health conceptualisation of relational security, :sup:`(n.d.f)` and
-reflect relational security scenarios (e.g. ‘We speak up if we think we
-can see that a colleague has been put in a difficult position that could
-weaken security’). Individual staff members complete the questionnaire
-in relation to the ward they work on, and select how closely their ward
+Health conceptualisation of relational security, :sup:`6` and reflect
+relational security scenarios (e.g. ‘We speak up if we think we can see
+that a colleague has been put in a difficult position that could weaken
+security’). Individual staff members complete the questionnaire in
+relation to the ward they work on, and select how closely their ward
 team resembles provided statements on a 4-point Likert scale, with
 scores of 3 ‘Just like our team’, 2 ‘Quite like our team’, 1 ‘A little
 like our team’ and 0 ‘Not like our team’. A principal components
 analysis confirmed a four-component structure of the measure:
 Therapeutic Risk Management, Pro-Social Team Culture, Boundaries and
-Patient Focus. :sup:`(n.d.b)` Initial examinations indicated good
-convergent validity with related measures (e.g. EssenCES :sup:`(n.d.h)`
-), and internally consistent subscales. :sup:`(n.d.b)` There is
-currently no normative data available for the STA scale.
+Patient Focus. :sup:`2` Initial examinations indicated good convergent
+validity with related measures (e.g. EssenCES :sup:`8` ), and internally
+consistent subscales. :sup:`2` There is currently no normative data
+available for the STA scale.
 
 .. _S6:
 
-The Relational Security Explorer (RSE) :sup:`(n.d.e)`
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The Relational Security Explorer (RSE) :sup:`5`
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The RSE is a tool designed to help clinical teams working within secure
 settings to communicate and assess their competence in relational
@@ -158,8 +159,8 @@ and, anecdotally, the authors are aware of service's collecting and
 analysing this data, despite it not being validated for this purpose.
 This is in line with the suggestion that when numerical indices and
 cut-off points are available, clinical decisions tend to be reduced to
-those numbers. :sup:`(n.d.i)` Participants were asked to complete the
-RSE on an individual, rather than a team basis, to investigate the tool
+those numbers. :sup:`9` Participants were asked to complete the RSE on
+an individual, rather than a team basis, to investigate the tool
 performance as an outcomes measure.
 
 .. _S7:
@@ -184,7 +185,7 @@ Committee for the East of England – Norfolk was also approached for
 ethical review of the project, who advised that as the relational
 security measures were being used in routine clinical practice within
 the study service, the study does not require National Health Service
-ethical approval. :sup:`(n.d.j),(n.d.k)`
+ethical approval. :sup:`10,11`
 
 .. _S9:
 
@@ -499,15 +500,14 @@ Discussion
 ==========
 
 Serious incidents within forensic mental health services can be linked
-to breakdowns of relational security. :sup:`(n.d.a)` Available measures
-should therefore provide insight into the quality of relational security
-within services, direct exploration of strengths and weaknesses, and
-prompt timely, appropriate interventions before an incident occurs.
+to breakdowns of relational security. :sup:`1` Available measures should
+therefore provide insight into the quality of relational security within
+services, direct exploration of strengths and weaknesses, and prompt
+timely, appropriate interventions before an incident occurs.
 Furthermore, tools should be accessible to all occupation groups.
-:sup:`(n.d.f)` This study therefore evaluated the psychometric
-properties of the STA and the RSE, including internal consistency,
-convergent validity and their ability to highlight differences between
-groups.
+:sup:`6` This study therefore evaluated the psychometric properties of
+the STA and the RSE, including internal consistency, convergent validity
+and their ability to highlight differences between groups.
 
 Study limitations include a relatively small sample size, and
 participants being drawn from a single service, which limit
@@ -525,10 +525,10 @@ specialist intellectual disability services is scarce, however there are
 a number of notable differences between the two populations which may
 have an effect on relational security. These include communication
 difficulties which could affect the development of therapeutic
-relationships, increased levels of behavioural incidents, :sup:`(n.d.l)`
-and higher assessed risk on structured clinical judgement tools.
-:sup:`(n.d.m)–(n.d.n)` That said, the present research reports many
-findings which echo those of previous research. :sup:`(n.d.b)`
+relationships, increased levels of behavioural incidents, :sup:`12` and
+higher assessed risk on structured clinical judgement tools.
+:sup:`13–15` That said, the present research reports many findings which
+echo those of previous research. :sup:`2`
 
 Test–re-test reliability was not examined in the present research,
 although it may be an interesting area for further study. At present,
@@ -538,19 +538,19 @@ security is a fundamentally a dynamic concept.
 
 The internal consistency aspect of reliability was examined, with the
 STA scale demonstrating high levels in accordance with previous
-research. :sup:`(n.d.b)` Its subscales correlated significantly,
-suggesting they are statistically related concepts. Internal consistency
-for the RSE was adequate but its subscales did not all correlate
-significantly, possibly indicating that some of the concepts measured
-are statistically unrelated. Although the RSE and the STA both aim to
-measure relational security, convergent validity was low. Collectively,
-these findings suggest that the RSE does not perform as well as the STA
-as a psychometric outcome measure. This raises questions regarding the
+research. :sup:`2` Its subscales correlated significantly, suggesting
+they are statistically related concepts. Internal consistency for the
+RSE was adequate but its subscales did not all correlate significantly,
+possibly indicating that some of the concepts measured are statistically
+unrelated. Although the RSE and the STA both aim to measure relational
+security, convergent validity was low. Collectively, these findings
+suggest that the RSE does not perform as well as the STA as a
+psychometric outcome measure. This raises questions regarding the
 practice of collecting and analysing data from the RSE, despite not
-being validated for this purpose. Lodewijks *et al* :sup:`(n.d.i)`
-explicitly advise against the use of numerical indices and cut-off
-points, due to clinicians' tendency to reduce clinical decisions to
-numbers if they are available.
+being validated for this purpose. Lodewijks *et al* :sup:`9` explicitly
+advise against the use of numerical indices and cut-off points, due to
+clinicians' tendency to reduce clinical decisions to numbers if they are
+available.
 
 Particular subscales of the two measures were able to detect differences
 between groups in relational security confidence, thus facilitating the
@@ -559,25 +559,24 @@ between services comparisons, and directing intervention as necessary.
 Significant findings were reported between wards of different levels of
 security, with relational security confidence lowest on medium secure
 wards, increasing on low secure wards, and highest on rehabilitation
-wards. Tighe & Gudjonsson :sup:`(n.d.b)` also reported this effect, as
-well as authors investigating social climate in secure settings.
-:sup:`(n.d.o),(n.d.p)` A possible explanation for this is that medium
-secure wards represent the beginning of the care pathway accepting newly
-admitted patients and, as such, staff have had less opportunity to
-develop the knowledge of patients and therapeutic relationships
-necessary to achieve good relational security. As patients progress
-through the low secure and rehabilitation stages of the care pathway,
-this provides an opportunity for the components necessary to relational
-security to develop.
+wards. Tighe & Gudjonsson :sup:`2` also reported this effect, as well as
+authors investigating social climate in secure settings. :sup:`16,17` A
+possible explanation for this is that medium secure wards represent the
+beginning of the care pathway accepting newly admitted patients and, as
+such, staff have had less opportunity to develop the knowledge of
+patients and therapeutic relationships necessary to achieve good
+relational security. As patients progress through the low secure and
+rehabilitation stages of the care pathway, this provides an opportunity
+for the components necessary to relational security to develop.
 
 The study also compared relational security confidence between staff
 working with male and female patients. This was examined as authors have
 documented difficulties in building therapeutic relationships with
-women, due to their clinical complexity. :sup:`(n.d.q),(n.d.r)` However,
-there were few differences between these two groups on the subscales of
-the two measures, although staff working with male patients reported
-higher scores on the Patient Dynamic (*P* = 0.024) subscale of the RSE.
-:sup:`(n.d.e)`
+women, due to their clinical complexity. :sup:`18,19` However, there
+were few differences between these two groups on the subscales of the
+two measures, although staff working with male patients reported higher
+scores on the Patient Dynamic (*P* = 0.024) subscale of the RSE.
+:sup:`5`
 
 It was expected that staff with more experience working within secure
 services would be more confident in their judgements of relational
@@ -599,11 +598,11 @@ tapping into areas of clinical practice that housekeeping staff would
 not be involved in, and the comparable lack of training offered to this
 group. However, guidance recommends that relational security
 implementation should involve all occupational groups working within
-secure services. :sup:`(n.d.f)` As housekeeping staff are a daily
-presence on forensic wards, they are equally as vulnerable to relational
-security issues and in a position to witness threats to security.
-Further research should investigate ways to support all occupational
-groups with relational security.
+secure services. :sup:`6` As housekeeping staff are a daily presence on
+forensic wards, they are equally as vulnerable to relational security
+issues and in a position to witness threats to security. Further
+research should investigate ways to support all occupational groups with
+relational security.
 
 .. _S18:
 
@@ -625,17 +624,17 @@ competent. Introducing some negatively worded items could improve this.
 
 High scoring may also be due to the way the two tools conceptualise
 relational security. Both measures are based on the STA
-conceptualisation of relational security, :sup:`(n.d.f)` which places
-much of the responsibility onto staff and teams, thus neglecting the
+conceptualisation of relational security, :sup:`6` which places much of
+the responsibility onto staff and teams, thus neglecting the
 ‘quantitative’ aspects of relational security, for example
 ‘staff-to-patient ratio and amount of time spent in face-to-face
-contact’ (p. 434) :sup:`(n.d.s)` and the supportive role and
-responsibility of service management. For example, to achieve quality
-therapeutic relationships with patients, ward staff and teams need to be
-stable, with minimum staff ward moves, turnover and absenteeism,
-:sup:`(n.d.c)` factors outside of staff members' control. Incorporating
-items reflecting such aspects of relational security could provide a
-more comprehensive picture.
+contact’ (p. 434) :sup:`20` and the supportive role and responsibility
+of service management. For example, to achieve quality therapeutic
+relationships with patients, ward staff and teams need to be stable,
+with minimum staff ward moves, turnover and absenteeism, :sup:`3`
+factors outside of staff members' control. Incorporating items
+reflecting such aspects of relational security could provide a more
+comprehensive picture.
 
 Normative data are not currently available for either of the two
 measures, which limits the interpretability of the results. Both
@@ -655,7 +654,7 @@ The increased attention relational security is receiving within the
 forensic field is a welcome advance. There is growing awareness around
 the importance of this concept, and resources aiming to raise awareness
 and support the implementation of relational security are widely
-available. :sup:`(n.d.t)` However, until recently there have been few
+available. :sup:`21` However, until recently there have been few
 mechanisms to assess the quality of relational security within services.
 The results of this study suggest that the STA scale and the RSE hold
 unique and complimentary roles attempting to support relational
@@ -679,119 +678,11 @@ as institutional aggression or serious incidents. Future studies should
 evaluate the clinical utility of the RSE, examine the psychometric
 properties and provide normative data for the STA. Until more is known
 about relational security, the approach to implementing and measuring it
-should be multidimensional, :sup:`(n.d.u)` i.e. incorporating staff,
-patient and service management perspectives.
+should be multidimensional, :sup:`22` i.e. incorporating staff, patient
+and service management perspectives.
 
 The authors are grateful to Paul Bassett for his help with statistical
 analysis.
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-R1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-R2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-R3
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-R4
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-R5
-
-      n.d.e.
-
-   .. container:: csl-entry
-      :name: ref-R6
-
-      n.d.f.
-
-   .. container:: csl-entry
-      :name: ref-R7
-
-      n.d.g.
-
-   .. container:: csl-entry
-      :name: ref-R8
-
-      n.d.h.
-
-   .. container:: csl-entry
-      :name: ref-R9
-
-      n.d.i.
-
-   .. container:: csl-entry
-      :name: ref-R10
-
-      n.d.j.
-
-   .. container:: csl-entry
-      :name: ref-R11
-
-      n.d.k.
-
-   .. container:: csl-entry
-      :name: ref-R12
-
-      n.d.l.
-
-   .. container:: csl-entry
-      :name: ref-R13
-
-      n.d.m.
-
-   .. container:: csl-entry
-      :name: ref-R15
-
-      n.d.n.
-
-   .. container:: csl-entry
-      :name: ref-R16
-
-      n.d.o.
-
-   .. container:: csl-entry
-      :name: ref-R17
-
-      n.d.p.
-
-   .. container:: csl-entry
-      :name: ref-R18
-
-      n.d.q.
-
-   .. container:: csl-entry
-      :name: ref-R19
-
-      n.d.r.
-
-   .. container:: csl-entry
-      :name: ref-R20
-
-      n.d.s.
-
-   .. container:: csl-entry
-      :name: ref-R21
-
-      n.d.t.
-
-   .. container:: csl-entry
-      :name: ref-R22
-
-      n.d.u.
 
 .. [1]
    **Verity Chester**, research and projects associate, Department of

@@ -2,6 +2,8 @@
 A memory clinic *v.* traditional community mental health team service: comparison of costs and quality
 ======================================================================================================
 
+
+
 Judy Sasha Rubinsztein
 Marelna Janse van Rensburg
 Zerak Al-Salihy
@@ -37,12 +39,11 @@ Carol BrayneCorrespondence to Judy Rubinsztein
    :depth: 3
 ..
 
-In the UK, the national dementia strategy\ :sup:`(n.d.a)` strongly
-supports the concept of timely diagnosis and intervention in dementia.
-The cost-effectiveness of such services has been
-demonstrated.\ :sup:`(n.d.b)–(n.d.c)` Studies show that memory services
-may improve quality of life for patients and
-carers.\ :sup:`(n.d.d)–(n.d.e)` The recognition of dementia enables the
+In the UK, the national dementia strategy\ :sup:`1` strongly supports
+the concept of timely diagnosis and intervention in dementia. The
+cost-effectiveness of such services has been demonstrated.\ :sup:`2–6`
+Studies show that memory services may improve quality of life for
+patients and carers.\ :sup:`7–9` The recognition of dementia enables the
 provision of safer care by considering, for example, accommodation and
 care needs and encouraging advanced decision-making. Reaching a
 diagnosis can help patients and carers to tolerate their symptoms better
@@ -51,10 +52,9 @@ and suitable treatments can be considered.
 Advocates of dedicated ‘memory clinic services’ (MCSs) point to the
 benefits of a less stigmatising setting, with a focus on psychosocial
 interventions, education and the promotion of research and clinical
-governance.\ :sup:`(n.d.f),(n.d.d),(n.d.g)–(n.d.h)` Opponents are
-concerned with resources being diverted from community mental health
-teams (CMHTs) and point to higher costs of MCS
-services.\ :sup:`(n.d.i),(n.d.j)`
+governance.\ :sup:`5,7,10–14` Opponents are concerned with resources
+being diverted from community mental health teams (CMHTs) and point to
+higher costs of MCS services.\ :sup:`15,16`
 
 In this study, Trust A has a dedicated memory clinic service (henceforth
 called MCS group) as well as a CMHT. In Trust B there is a ‘traditional’
@@ -91,11 +91,11 @@ from the Eastern Region Public Health Observatory (ERPHO). The number of
 people over the age of 65 years, based on general practice (GP) records
 in these areas, was recorded: 20 289 people in the MCS group and 21 112
 people in the CMHT group. Data from the British primary care Quality and
-Outcomes Framework (QOF),\ :sup:`(n.d.k)` which requires the recording
-of dementia and other chronic conditions, showed that the prevalence of
+Outcomes Framework (QOF),\ :sup:`17` which requires the recording of
+dementia and other chronic conditions, showed that the prevalence of
 dementia and strokes, and the recording of cholesterol and blood
 pressure, were similar in both groups. The Indices of Multiple
-Deprivation (IMD)\ :sup:`(n.d.l)` show that the GP practices in the CMHT
+Deprivation (IMD)\ :sup:`18` show that the GP practices in the CMHT
 service (Trust B) experienced less deprivation. The range of the IMD was
 11.5–17.7 for the MCS and 5.7–8.96 for the CMHT service.
 
@@ -107,8 +107,8 @@ Patient identification
 We examined all referrals received over the time frame of the study (4
 months) from specific, predetermined GP practices in these two
 rural/suburban areas. All patients included in the study had to fulfil
-Department of Health memory clinic referral criteria.\ :sup:`(n.d.m)`
-These criteria state that memory services will see all patients with
+Department of Health memory clinic referral criteria.\ :sup:`19` These
+criteria state that memory services will see all patients with
 subjective memory problems or change in everyday function, or a carer’s
 report of change in a patient over a period of more than 6 months.
 Patients referred should have no previous or definitive diagnosis of
@@ -127,23 +127,23 @@ For the MCS group, a computerised search of all memory clinic patients
 referred by GP practices in the designated area of the trust was
 performed for the specified time period. Thirty-four consecutive
 patients were identified and all fulfilled the Department of Health
-memory clinic criteria.\ :sup:`(n.d.m)` One patient refused the
-diagnostic interview after pre-diagnostic counselling and that patient
-was excluded. Occasionally, patients may be passed on to the crisis team
-or CMHT, but none on our list had been dealt with in this way.
+memory clinic criteria.\ :sup:`19` One patient refused the diagnostic
+interview after pre-diagnostic counselling and that patient was
+excluded. Occasionally, patients may be passed on to the crisis team or
+CMHT, but none on our list had been dealt with in this way.
 
 For the CMHT group, a member of the research team (M.J.V.R.) manually
 searched all consecutive referrals to the service from particular GP
 practices from a central written database. Thirty-three referrals were
 included in the CMHT group (by coincidence, the same number of patients
 as the MCS group). These 33 patients all fulfilled Department of Health
-memory clinic criteria\ :sup:`(n.d.m)` and were identified by
-consecutively recruiting from the original list. Patients were excluded
-only if they did not fulfil memory clinic criteria.\ :sup:`(n.d.m)` A
-second member of the research team (J.S.R.) ensured that all referrals
-met these criteria for inclusion or exclusion. There was uncertainty as
-to whether to include one patient and a senior nurse’s opinion from the
-MCS team was sought to arbitrate.
+memory clinic criteria\ :sup:`19` and were identified by consecutively
+recruiting from the original list. Patients were excluded only if they
+did not fulfil memory clinic criteria.\ :sup:`19` A second member of the
+research team (J.S.R.) ensured that all referrals met these criteria for
+inclusion or exclusion. There was uncertainty as to whether to include
+one patient and a senior nurse’s opinion from the MCS team was sought to
+arbitrate.
 
 .. _S5:
 
@@ -160,66 +160,64 @@ developed for this study. It was used for case-note analysis and
 captured information routinely collected by clinicians for assessment
 purposes (`Box 1 <#box1>`__). The quality criteria were chosen based on
 the National Institute for Health and Care Excellence (NICE) guidance
-for dementia services,\ :sup:`(n.d.n)` the Memory Services National
+for dementia services,\ :sup:`20` the Memory Services National
 Accreditation Programme (MSNAP) criteria where they could be applied to
-both services,\ :sup:`(n.d.o)` and literature
-evidence.\ :sup:`(n.d.g),(n.d.p),(n.d.q)` We pragmatically assessed
-whether the data could be extracted retrospectively from the services.
-This information was obtained from computerised and handwritten notes
-from the initial contact with the patient and for the following 6 months
-of contact with the mental health service. The psychiatrists involved in
-the data collection conferred about any uncertainties with recording of
-data. M.J.V.R. and Z.A.-S. each initially screened at least four sets of
-case records together with J.S.R. to ensure interrater reliability in
-recording of data. All entries were scrutinised by J.S.R. to ensure data
-entry was consistent. Any missing information was noted. It is the view
-of clinicians in both trusts that GPs are best suited to conduct
-physical examinations and these are stated in the requirements for
-referral to the service by the MCS trust. However, individual
-psychiatrists often choose to conduct some aspects of the physical
-examination themselves and the extent to which clinicians were doing
-this was noted.
+both services,\ :sup:`21` and literature evidence.\ :sup:`10,11,22` We
+pragmatically assessed whether the data could be extracted
+retrospectively from the services. This information was obtained from
+computerised and handwritten notes from the initial contact with the
+patient and for the following 6 months of contact with the mental health
+service. The psychiatrists involved in the data collection conferred
+about any uncertainties with recording of data. M.J.V.R. and Z.A.-S.
+each initially screened at least four sets of case records together with
+J.S.R. to ensure interrater reliability in recording of data. All
+entries were scrutinised by J.S.R. to ensure data entry was consistent.
+Any missing information was noted. It is the view of clinicians in both
+trusts that GPs are best suited to conduct physical examinations and
+these are stated in the requirements for referral to the service by the
+MCS trust. However, individual psychiatrists often choose to conduct
+some aspects of the physical examination themselves and the extent to
+which clinicians were doing this was noted.
 
 .. _S7:
 
 Cost of service
 ~~~~~~~~~~~~~~~
 
-| The Client Service Receipt Inventory (CSRI)\ :sup:`(n.d.r)` was
-  adapted for this study (available from the authors on request). This
-  includes all the mental health service costs for each individual
-  patient from the initial point of contact and then all subsequent
-  contacts with the mental health service over the following 6 months.
-  Costing stopped at the point the patient was discharged back to the
-  GP. However, patients found to need more extensive follow-up for more
-  severe or complex behavioural and psychological symptoms of dementia
-  (BPSD) were referred to the CMHT service in Trust A (one patient) and
-  Trust B (three patients). Costs were excluded from that point. Costing
-  was calculated from the perspective of National Health Service
-  care\ :sup:`(n.d.s)` (secondary care only evaluated in this study)
-  rather than from a wider medical or societal perspective. Costs for
-  hourly contact with professionals were mainly derived from the unit
-  costs for health and Social Services compendium and included ‘on
-  costs’, for example for a consultant psychiatrist this includes
-  salary, national insurance and superannuation, qualifications,
-  overheads, ongoing training and capital overheads.\ :sup:`(n.d.t)`
-  From this document,\ :sup:`(n.d.t)` the cost per hour for consultant
-  time is £162 (including on costs such as administrative support and
-  buildings) and the cost per hour for a non-medical clinician (e.g.
-  CMHT nurse) is £44. The costs of drugs prescribed by secondary care
-  were derived from the *British National Formulary*.\ :sup:`(n.d.u)`
-  The costs of scans were derived on the basis of the Department of
-  Health’s Dementia Commissioning Pack.\ :sup:`(n.d.v)` Costs incurred
-  as a result of time spent on discussion and meetings were based on the
-  size of individual teams, allowing for an average of 6 min discussion
-  per patient (team sizes and calculations available from the author).
-  The average time taken for domiciliary Table 1Demographic data and
-  results of assessment in memory clinic service (MCS) group and
-  community mental health team (CMHT) groupMCS group (*n* =
-  33)\ `a <#TFN2>`__\ CMHT group (*n* =
-  33)\ `a <#TFN2>`__\ *P*\ CommentsMean age, years80840.03Significantly
-  older in Trust BMean age when leaving school, years1515/>0.05Not
-  recorded in 4 patients in MCS and in
+| The Client Service Receipt Inventory (CSRI)\ :sup:`23` was adapted for
+  this study (available from the authors on request). This includes all
+  the mental health service costs for each individual patient from the
+  initial point of contact and then all subsequent contacts with the
+  mental health service over the following 6 months. Costing stopped at
+  the point the patient was discharged back to the GP. However, patients
+  found to need more extensive follow-up for more severe or complex
+  behavioural and psychological symptoms of dementia (BPSD) were
+  referred to the CMHT service in Trust A (one patient) and Trust B
+  (three patients). Costs were excluded from that point. Costing was
+  calculated from the perspective of National Health Service
+  care\ :sup:`24` (secondary care only evaluated in this study) rather
+  than from a wider medical or societal perspective. Costs for hourly
+  contact with professionals were mainly derived from the unit costs for
+  health and Social Services compendium and included ‘on costs’, for
+  example for a consultant psychiatrist this includes salary, national
+  insurance and superannuation, qualifications, overheads, ongoing
+  training and capital overheads.\ :sup:`25` From this
+  document,\ :sup:`25` the cost per hour for consultant time is £162
+  (including on costs such as administrative support and buildings) and
+  the cost per hour for a non-medical clinician (e.g. CMHT nurse) is
+  £44. The costs of drugs prescribed by secondary care were derived from
+  the *British National Formulary*.\ :sup:`26` The costs of scans were
+  derived on the basis of the Department of Health’s Dementia
+  Commissioning Pack.\ :sup:`27` Costs incurred as a result of time
+  spent on discussion and meetings were based on the size of individual
+  teams, allowing for an average of 6 min discussion per patient (team
+  sizes and calculations available from the author). The average time
+  taken for domiciliary Table 1Demographic data and results of
+  assessment in memory clinic service (MCS) group and community mental
+  health team (CMHT) groupMCS group (*n* = 33)\ `a <#TFN2>`__\ CMHT
+  group (*n* = 33)\ `a <#TFN2>`__\ *P*\ CommentsMean age,
+  years80840.03Significantly older in Trust BMean age when leaving
+  school, years1515/>0.05Not recorded in 4 patients in MCS and in
 | 20 patients in CMHTFemale, *n* (%)19 (58)22 (67)/>0.05MMSE,
   median23.5250.2\ *n* = 32 in both groupsACE-R, median (range)67
   (76)CMHT group not analysed as only 9 patients
@@ -233,24 +231,24 @@ Cost of service
   *n* (%)33 (100)24 (73)0.001Physical exam done by GP/psychiatrist, *n*
   (%)16 (48)14 (42)n/sFunctioning examined formally, *n* (%)24 (73)1
   (3)<0.0001e.g. Bristol Activities of Daily
-  Living\ :sup:`(n.d.w)`\ Behaviour examined formally, *n* (%)22 (67)1
-  (3)<0.0001e.g. Cambridge Behavioural Inventory\ :sup:`(n.d.x)`\ Global
-  assessment formal, *n* (%)33 (100)14 (42)<0.0001e.g.
-  HoNOS,\ :sup:`(n.d.y)` EQ-5D-5L\ :sup:`(n.d.z)`\ Depression examined
-  formally, *n* (%)2 (6)1 (3)>0.05e.g. Geriatric Depression
-  Scale\ :sup:`(n.d.aa)`\ Risk assessment, *n* (%)31 (94)22
-  (67)0.02Patient/carer sent copy of GP letter, *n* (%)29 (88)14
-  (42)<0.0001 [2]_ [3]_ visit and/or administrative time costs were
-  calculated on the basis of discussions with representatives from
-  professional groups in each of the teams or on data recorded by team
-  members (average times for appointment available from the author on
-  request). The mileage travelled by clinicians was calculated using the
-  Automobile Association Website (`www.theaa.com <www.theaa.com>`__).
-  Travel and transport costs are part of general overheads in the unit
-  costs of health and social care,\ :sup:`(n.d.t)` but as this was
-  anticipated to be an area of difference between the two models, this
-  was calculated separately for each patient seen at the rate of
-  54p/mile up to 3500 miles as suggested in this unit cost document.
+  Living\ :sup:`30`\ Behaviour examined formally, *n* (%)22 (67)1
+  (3)<0.0001e.g. Cambridge Behavioural Inventory\ :sup:`31`\ Global
+  assessment formal, *n* (%)33 (100)14 (42)<0.0001e.g. HoNOS,\ :sup:`32`
+  EQ-5D-5L\ :sup:`33`\ Depression examined formally, *n* (%)2 (6)1
+  (3)>0.05e.g. Geriatric Depression Scale\ :sup:`34`\ Risk assessment,
+  *n* (%)31 (94)22 (67)0.02Patient/carer sent copy of GP letter, *n*
+  (%)29 (88)14 (42)<0.0001 [2]_ [3]_ visit and/or administrative time
+  costs were calculated on the basis of discussions with representatives
+  from professional groups in each of the teams or on data recorded by
+  team members (average times for appointment available from the author
+  on request). The mileage travelled by clinicians was calculated using
+  the Automobile Association Website
+  (`www.theaa.com <www.theaa.com>`__). Travel and transport costs are
+  part of general overheads in the unit costs of health and social
+  care,\ :sup:`25` but as this was anticipated to be an area of
+  difference between the two models, this was calculated separately for
+  each patient seen at the rate of 54p/mile up to 3500 miles as
+  suggested in this unit cost document.
 
 **Box 1** Measures extracted regarding the quality of the memory service
 
@@ -302,29 +300,29 @@ assessments are shown in `Table 1 <#T1>`__.
 Diagnostic assessments included a clinical assessment of behaviour,
 functioning and a global assessment of severity in nearly all patients,
 with no significant differences between groups on these variables. Some
-structured questionnaires (e.g. EQ-5D,\ :sup:`(n.d.z)` Cambridge
-Behavioural Inventory\ :sup:`(n.d.x)`) were sent to patients and carers
-before the actual appointment in the MCS group. Others were administered
-by clinicians during the clinic appointment. However, structured
-assessments in patients and carers using symptom rating scales in these
-domains were not routinely done in the CMHT group. A Mini-Mental State
-Examination (MMSE)\ :sup:`(n.d.ab)` was performed in all patients except
-one in each group. In the MCS group, the Addenbrooke’s Cognitive
-Examination-Revised (ACE-R) test\ :sup:`(n.d.ac)` was performed
-routinely, with a median score of 67, but it was not performed routinely
-in the CMHT group. Computed tomography head scans were ordered as part
-of the assessment to a similar extent in both groups (19 in MCS and 17
-in CMHT), whereas scans that had been done previously and considered by
-the clinician to be recent enough to be helpful amounted to a further 6
-in the MCS and 5 in the CMHT group. So, only 8 MCS (24%) and 11 CMHT
-(33%) patients did not have scans available for diagnostic purposes.
-Scanning is widely available in both trusts and it was patient
-preference and some clinician guidance that determined whether a patient
-had a scan or not. Diagnoses were recorded by clinicians in 100% of
-letters sent to GPs. A psychologist saw two patients in the MCS group
-(one for neuropsychological testing and one for cognitive stimulation
-therapy) and two patients in the CMHT group had further
-neuropsychological testing.
+structured questionnaires (e.g. EQ-5D,\ :sup:`33` Cambridge Behavioural
+Inventory\ :sup:`31`) were sent to patients and carers before the actual
+appointment in the MCS group. Others were administered by clinicians
+during the clinic appointment. However, structured assessments in
+patients and carers using symptom rating scales in these domains were
+not routinely done in the CMHT group. A Mini-Mental State Examination
+(MMSE)\ :sup:`28` was performed in all patients except one in each
+group. In the MCS group, the Addenbrooke’s Cognitive Examination-Revised
+(ACE-R) test\ :sup:`29` was performed routinely, with a median score of
+67, but it was not performed routinely in the CMHT group. Computed
+tomography head scans were ordered as part of the assessment to a
+similar extent in both groups (19 in MCS and 17 in CMHT), whereas scans
+that had been done previously and considered by the clinician to be
+recent enough to be helpful amounted to a further 6 in the MCS and 5 in
+the CMHT group. So, only 8 MCS (24%) and 11 CMHT (33%) patients did not
+have scans available for diagnostic purposes. Scanning is widely
+available in both trusts and it was patient preference and some
+clinician guidance that determined whether a patient had a scan or not.
+Diagnoses were recorded by clinicians in 100% of letters sent to GPs. A
+psychologist saw two patients in the MCS group (one for
+neuropsychological testing and one for cognitive stimulation therapy)
+and two patients in the CMHT group had further neuropsychological
+testing.
 
 The post-diagnostic advice given by clinicians to patients and/or carers
 from the MCS *v*. CMHT group in percentage terms was signposting: to the
@@ -403,8 +401,8 @@ causes of dementia/comorbidity, more extended cognitive examination and
 structured assessment tools, better evidence of signposting to the third
 sector as well as copying of letters to patients and carers. It has been
 demonstrated that there is greater satisfaction with multidisciplinary
-assessment\ :sup:`(n.d.ad),(n.d.ae)` where diagnostic and management
-options are explained to both patient and caregiver.
+assessment\ :sup:`35,36` where diagnostic and management options are
+explained to both patient and caregiver.
 
 It is possible that patients in the CMHT group were not typical for an
 MCS or that a selection bias was introduced, with only 33 patients in
@@ -419,12 +417,12 @@ of patients as it was beyond the scope of this study to examine the
 costs for all patients entering CMHT services in both areas. The study
 was also not a full economic evaluation where costs and outcome data
 (such as delays to institutional care) are combined to reach
-conclusions. The CSRI\ :sup:`(n.d.r)` as adapted for this study only
-examines costs to secondary mental healthcare and not primary care,
-social care or carer time costs. Using the CSRI, we detailed the
-patient’s involvement with doctors and other clinicians as accurately
-and comprehensively as possible. In real life, clinicians do not return
-to base between patient visits so costs may have been inflated in both
+conclusions. The CSRI\ :sup:`23` as adapted for this study only examines
+costs to secondary mental healthcare and not primary care, social care
+or carer time costs. Using the CSRI, we detailed the patient’s
+involvement with doctors and other clinicians as accurately and
+comprehensively as possible. In real life, clinicians do not return to
+base between patient visits so costs may have been inflated in both
 services for travel time. We were aware that there seemed to be
 differences between groups in the rate whereby prescribing was handed
 over to GPs.
@@ -465,9 +463,9 @@ side-effects or other factors.
 Another emerging care model in the UK utilises the services of ‘allied
 mental health professionals’ in making diagnoses and offering
 interventions with medical input not provided face to face for most
-patients.\ :sup:`(n.d.f),(n.d.af),(n.d.ag)` It may be argued that some
-of the diagnostic quality provided by a ‘medical’ view on diagnosis may
-be compromised in such services and this needs further evaluation.
+patients.\ :sup:`5,37,38` It may be argued that some of the diagnostic
+quality provided by a ‘medical’ view on diagnosis may be compromised in
+such services and this needs further evaluation.
 
 We thank all the clinicians who provided information for this project,
 and Christine Hill (CLAHRC administrator), Sam Norton (statistician for
@@ -478,174 +476,6 @@ the West Suffolk Hospital, who provided support for the project and
 backfill for sessions during the CLAHRC year of training. J.S.R. also
 thanks all those in the CLAHRC, Cambridge and Peterborough scheme for
 their generous support of her fellowship.
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-R1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-R2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-R5
-
-      n.d.f.
-
-   .. container:: csl-entry
-      :name: ref-R6
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-R7
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-R9
-
-      n.d.e.
-
-   .. container:: csl-entry
-      :name: ref-R10
-
-      n.d.g.
-
-   .. container:: csl-entry
-      :name: ref-R11
-
-      n.d.p.
-
-   .. container:: csl-entry
-      :name: ref-R14
-
-      n.d.h.
-
-   .. container:: csl-entry
-      :name: ref-R15
-
-      n.d.i.
-
-   .. container:: csl-entry
-      :name: ref-R16
-
-      n.d.j.
-
-   .. container:: csl-entry
-      :name: ref-R17
-
-      n.d.k.
-
-   .. container:: csl-entry
-      :name: ref-R18
-
-      n.d.l.
-
-   .. container:: csl-entry
-      :name: ref-R19
-
-      n.d.m.
-
-   .. container:: csl-entry
-      :name: ref-R20
-
-      n.d.n.
-
-   .. container:: csl-entry
-      :name: ref-R21
-
-      n.d.o.
-
-   .. container:: csl-entry
-      :name: ref-R22
-
-      n.d.q.
-
-   .. container:: csl-entry
-      :name: ref-R23
-
-      n.d.r.
-
-   .. container:: csl-entry
-      :name: ref-R24
-
-      n.d.s.
-
-   .. container:: csl-entry
-      :name: ref-R25
-
-      n.d.t.
-
-   .. container:: csl-entry
-      :name: ref-R26
-
-      n.d.u.
-
-   .. container:: csl-entry
-      :name: ref-R27
-
-      n.d.v.
-
-   .. container:: csl-entry
-      :name: ref-R28
-
-      n.d.ab.
-
-   .. container:: csl-entry
-      :name: ref-R29
-
-      n.d.ac.
-
-   .. container:: csl-entry
-      :name: ref-R30
-
-      n.d.w.
-
-   .. container:: csl-entry
-      :name: ref-R31
-
-      n.d.x.
-
-   .. container:: csl-entry
-      :name: ref-R32
-
-      n.d.y.
-
-   .. container:: csl-entry
-      :name: ref-R33
-
-      n.d.z.
-
-   .. container:: csl-entry
-      :name: ref-R34
-
-      n.d.aa.
-
-   .. container:: csl-entry
-      :name: ref-R35
-
-      n.d.ad.
-
-   .. container:: csl-entry
-      :name: ref-R36
-
-      n.d.ae.
-
-   .. container:: csl-entry
-      :name: ref-R37
-
-      n.d.af.
-
-   .. container:: csl-entry
-      :name: ref-R38
-
-      n.d.ag.
 
 .. [1]
    **Judy Sasha Rubinsztein**, Norfolk and Suffolk NHS Foundation Trust,

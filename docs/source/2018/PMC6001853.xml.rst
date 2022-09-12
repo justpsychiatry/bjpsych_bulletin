@@ -2,6 +2,8 @@
 Against the Stream: Generalised anxiety disorder (GAD) – a redundant diagnosis
 ==============================================================================
 
+
+
 Peter TyrerCorrespondence to Peter Tyrer (p.tyrer@imperial.ac.uk)
 :Date: 2018-4
 
@@ -69,12 +71,12 @@ Mid-gastrointestinal – irritable bowel syndrome
 -----------------------------------------------
 
 Irritable bowel syndrome is now so well known that even the general
-public refer to it as IBS. Most people with IBS are anxious(n.d.a) and
-often have other bodily symptoms of anxiety, but these are subjugated to
-the gastrointestinal ones. There are now a number of specific and
-effective treatments for IBS that either ignore the generalised anxiety
-components or describe them in terms that are specific to the organ
-system concerned.
+public refer to it as IBS. Most people with IBS are anxious1 and often
+have other bodily symptoms of anxiety, but these are subjugated to the
+gastrointestinal ones. There are now a number of specific and effective
+treatments for IBS that either ignore the generalised anxiety components
+or describe them in terms that are specific to the organ system
+concerned.
 
 .. _sec2b:
 
@@ -95,11 +97,11 @@ There are many other bodily symptoms that have been given formal titles
 in general medicine – non-cardiac chest pain, respiratory distress
 syndrome, functional dysphagia – but they all are selective in picking
 out one of the symptoms of GAD and ignoring the others. Somatoform
-disorders are ripe for justified criticism,(n.d.b) but they are
-overshadowed by a proto-diagnosis that is not liked for its aetiological
-nihilism, ‘medically unexplained symptoms’; it gets a great deal of
-interest and attention, especially in primary care, again taking a chunk
-away from the GAD superstructure.
+disorders are ripe for justified criticism,2 but they are overshadowed
+by a proto-diagnosis that is not liked for its aetiological nihilism,
+‘medically unexplained symptoms’; it gets a great deal of interest and
+attention, especially in primary care, again taking a chunk away from
+the GAD superstructure.
 
 .. _sec3:
 
@@ -113,7 +115,7 @@ should not get too concerned. In health anxiety, minor worries about
 health are amplified into a full anxiety syndrome that includes all the
 symptoms of GAD. One of the core parts of treatment is for the patient
 to learn to appreciate that these ‘minor matters’ should remain minor,
-so chipping away at another GAD limb.(n.d.c)
+so chipping away at another GAD limb.3
 
 .. _sec4:
 
@@ -137,7 +139,7 @@ strong case can be made for a condition called the ‘general neurotic
 syndrome’ (or the ‘general nervous syndrome’ for those who abhor the
 word ‘neurotic’), in which certain personality features such as
 obsessionality and dependence, as well as anxiousness, contribute to the
-biaxial diagnosis.(n.d.d)
+biaxial diagnosis.4
 
 .. _sec5:
 
@@ -147,7 +149,7 @@ Mixed anxiety–depression (cothymia)
 “‘The study of anxiety and depressionTeaches us one important
 lessonThough their separate study often pleasesWe must remember they are
 not diseasesLike wind and rain in stormy weatherThese symptoms always
-come together’(n.d.e)”
+come together’5”
 
 This is the real cruncher that fells GAD completely. Nosologists have
 tried desperately for years to keep anxiety and depression apart,
@@ -155,14 +157,14 @@ insisting that they are distant relatives, not siblings, but the family
 bonds are too strong and the two always hover together threateningly at
 diagnostic gatherings. The analogy is appropriate, as the genetic
 evidence has shown repeatedly that anxiety and depression have a common
-genetic structure(n.d.f) and so should be thought of together, despite
-the obvious differences in symptomatology.
+genetic structure6 and so should be thought of together, despite the
+obvious differences in symptomatology.
 
-Despite the valiant efforts of David Goldberg(n.d.g) and several others,
-there has been great reluctance to accept mixed anxiety–depression as a
-full syndromal diagnosis in either the DSM or ICD classifications. If
-this was agreed, and it is becoming increasingly likely this will
-happen, the separate diagnosis of GAD would be weakened severely.
+Despite the valiant efforts of David Goldberg7 and several others, there
+has been great reluctance to accept mixed anxiety–depression as a full
+syndromal diagnosis in either the DSM or ICD classifications. If this
+was agreed, and it is becoming increasingly likely this will happen, the
+separate diagnosis of GAD would be weakened severely.
 
 .. _sec6:
 
@@ -172,8 +174,8 @@ Unreliability of diagnosis
 Some of these criticisms could be overcome if clinicians were pleased
 with the criteria for the diagnosis and used them consistently. But they
 do not. In the recent field trials of DSM-5, the interrater reliability
-of GAD was 0.20,(n.d.h) which the authors regard as ‘questionable’, but
-which most clinicians would regard as unacceptable.
+of GAD was 0.20,8 which the authors regard as ‘questionable’, but which
+most clinicians would regard as unacceptable.
 
 .. _sec7:
 
@@ -189,9 +191,9 @@ the common personality characteristics of anxiety, dependence and
 obsessionality with the mood disturbance to constitute a ‘general
 neurotic syndrome’. This is a condition, usually combined with
 depression, that runs a chronic course and has a worse long-term outcome
-than either anxiety or depressive disorder alone,(n.d.d) especially when
-the personality disorder is more severe.(n.d.i) The third option is to
-think of GAD as an adjustment disorder.
+than either anxiety or depressive disorder alone,4 especially when the
+personality disorder is more severe.9 The third option is to think of
+GAD as an adjustment disorder.
 
 .. _sec8:
 
@@ -202,9 +204,9 @@ Many people receive a diagnosis of GAD when they are somewhat anxiety
 prone and then experience a major life event, especially one that is
 perceived as threatening. Although for many years adjustment disorder
 had been thought of as a subsyndromal diagnosis, and as a consequence
-largely ignored,(n.d.j) it is now being examined more seriously as an
-important and measurable element of the trauma-focused disorders.(n.d.k)
-The importance of this in clinical practice is that that these life
+largely ignored,10 it is now being examined more seriously as an
+important and measurable element of the trauma-focused disorders.11 The
+importance of this in clinical practice is that that these life
 event-precipitated forms of GAD could be treated by relatively brief
 psychological therapies and be less likely to lead to long-term
 iatrogenic disease.
@@ -224,61 +226,3 @@ be quietly laid to rest and little mourned.
 
 **Peter Tyrer** is Emeritus Professor of Community Psychiatry, Centre
 for Psychiatry, Imperial College, London, UK.
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-ref1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-ref2
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-ref3
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-ref4
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-ref5
-
-      n.d.e.
-
-   .. container:: csl-entry
-      :name: ref-ref6
-
-      n.d.f.
-
-   .. container:: csl-entry
-      :name: ref-ref7
-
-      n.d.g.
-
-   .. container:: csl-entry
-      :name: ref-ref8
-
-      n.d.h.
-
-   .. container:: csl-entry
-      :name: ref-ref9
-
-      n.d.i.
-
-   .. container:: csl-entry
-      :name: ref-ref10
-
-      n.d.j.
-
-   .. container:: csl-entry
-      :name: ref-ref11
-
-      n.d.k.

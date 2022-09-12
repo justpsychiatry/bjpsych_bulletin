@@ -2,6 +2,8 @@
 Implementation of a novel primary care pathway for patients with severe and enduring mental illness
 ===================================================================================================
 
+
+
 Frank Röhricht
 Gopal Krishan Waddon
 Paul Binfield
@@ -52,21 +54,21 @@ support and relatively few were discharged back to primary care for
 ongoing case management. More recently, patients with SMI are
 increasingly considered for clinical management by less specialised,
 generic primary healthcare services and in collaborative care
-models.\ :sup:`(n.d.a)–(n.d.b)` Most of these schemes have not been
-robustly evaluated through clinical and controlled trials. There is
-however good evidence to suggest that collaborative chronic care models
-foster patient self-management and can improve mental and physical
-outcomes for patients with mental health problems.\ :sup:`(n.d.b)`
+models.\ :sup:`1–3` Most of these schemes have not been robustly
+evaluated through clinical and controlled trials. There is however good
+evidence to suggest that collaborative chronic care models foster
+patient self-management and can improve mental and physical outcomes for
+patients with mental health problems.\ :sup:`3`
 
 In England, the introduction of clinical commissioning groups (CCGs) in
-2013\ :sup:`(n.d.c)` and the significant public spending savings plan
-with annual targets for all National Health Service (NHS) provider
-organisations\ :sup:`(n.d.d)` resulted in a nationwide review of mental
+2013\ :sup:`4` and the significant public spending savings plan with
+annual targets for all National Health Service (NHS) provider
+organisations\ :sup:`5` resulted in a nationwide review of mental
 healthcare provisions and piloting of novel care pathways. Secondary
 mental healthcare providers have started to reduce the number of cases
 held by specialist community mental health teams, including assertive
 outreach and community rehabilitation teams. The NHS policy paper *No
-Health Without Mental Health*\ :sup:`(n.d.e)` emphasised the need for
+Health Without Mental Health*\ :sup:`6` emphasised the need for
 integration of care for physical and mental health needs; provider and
 commissioner organisations therefore started to engage in various local
 service redesign projects. In East London, enhanced primary care (EPC)
@@ -96,17 +98,17 @@ period from 1 August 2012 to 31 July 2015). Electronic clinical
 data-sets included: total number of identified/discharged patients;
 number of patients who refused to be transferred to the new service and
 where either general practitioners (GPs) or consultant psychiatrists
-assessed patients as not suitable; diagnoses and ICD-10\ :sup:`(n.d.f)`
-codes, gender, ethnicity, duration of service provided by secondary
-care, number of admissions to hospital; number of patients re-referred
-to secondary care or readmitted/relapsed analysis of main
-characteristics of this subgroup of patients.
+assessed patients as not suitable; diagnoses and ICD-10\ :sup:`7` codes,
+gender, ethnicity, duration of service provided by secondary care,
+number of admissions to hospital; number of patients re-referred to
+secondary care or readmitted/relapsed analysis of main characteristics
+of this subgroup of patients.
 
 In addition we conducted an analysis of available information collected
 regarding staff satisfaction (semi-structured interviews and
 questionnaires) and summarised data from a patient satisfaction survey
-(Client's Assessment of Treatment Scale\ :sup:`(n.d.g)`) for the new
-service from one of the three localities (Newham).
+(Client's Assessment of Treatment Scale\ :sup:`8`) for the new service
+from one of the three localities (Newham).
 
 .. _S3:
 
@@ -498,12 +500,11 @@ disorders (ICD-10 codes F20–29) 37.2%, mood (affective) disorders
 non-psychotic mental disorders (F40–48) 11% and disorders of adult
 personality and behaviour (F60–69) 4.1%.
 
-According to Department of Health guidance\ :sup:`(n.d.h)` the main
-cluster codes on transfer to EPC were: cluster 10–13: 48.9% (11: 19.4%;
-12: 21.5%; 13: 7.1%); cluster 4–7: 26.1%. The number of patients
-referred back to secondary care due to clinical issues (relapse
-concerns) was 237 (City & Hackney *n* = 65, Newham *n* = 124, Tower
-Hamlets *n* = 48).
+According to Department of Health guidance\ :sup:`9` the main cluster
+codes on transfer to EPC were: cluster 10–13: 48.9% (11: 19.4%; 12:
+21.5%; 13: 7.1%); cluster 4–7: 26.1%. The number of patients referred
+back to secondary care due to clinical issues (relapse concerns) was 237
+(City & Hackney *n* = 65, Newham *n* = 124, Tower Hamlets *n* = 48).
 
 .. _S11:
 
@@ -653,17 +654,17 @@ severe untoward incidents occurred during the observational period.
 Although mental healthcare services for patients with SMI have
 traditionally been regarded as too specialised for primary care, most
 patients regard primary care provisions as a significant milestone in
-their recovery journey.\ :sup:`(n.d.i)` The care pathway development was
+their recovery journey.\ :sup:`10` The care pathway development was
 conducted based on a much clearer distinction between elements focusing
 on supporting people to maintain stability and monitor symptoms versus
 elements providing active recovery-oriented treatment. This allowed
 refocusing of specialist services and deconstructing the ‘shifted
-out-patient clinic’ model,\ :sup:`(n.d.j)` essentially a replacement
-model, which does not provide opportunities for enhanced linkage and
+out-patient clinic’ model,\ :sup:`11` essentially a replacement model,
+which does not provide opportunities for enhanced linkage and
 face-to-face consultations between the primary care physician and the
-psychiatrist.\ :sup:`(n.d.k)` By contrast, the consultation-liaison
+psychiatrist.\ :sup:`12` By contrast, the consultation-liaison
 collaboration model provides regular face-to-face contact between the
-psychiatrist or mental health worker and the GP.\ :sup:`(n.d.l)`
+psychiatrist or mental health worker and the GP.\ :sup:`13`
 
 The survey results suggest that the support primary care doctors receive
 from consultant psychiatrists is a vital part of the scheme. The precise
@@ -691,20 +692,19 @@ against compromising the quality of care.
 A further significant increase of the number of people who experience a
 mental health problem in England has been predicted (i.e. 14.2%, from
 8.65 million in 2007 to 9.88 million in 2026) as a result of population
-growth.\ :sup:`(n.d.m)` More research of innovative and collaborative
-schemes for high-quality cost-effective mental healthcare is required,
-assessing the impact of working across primary and secondary
-care.\ :sup:`(n.d.n)`
+growth.\ :sup:`14` More research of innovative and collaborative schemes
+for high-quality cost-effective mental healthcare is required, assessing
+the impact of working across primary and secondary care.\ :sup:`15`
 
 The promotion of psychological resources and capabilities at a family
 and community level to support people experiencing mental ill health
 appears to be a promising complementary strategy for both primary and
 secondary prevention. Last but not least there seems to be a real case
 to extend the role of district nurses, to strengthen the role of GP
-champions in mental healthcare\ :sup:`(n.d.o)` and to involve patients
-as teachers in interprofessional learning as already pointed out by
-Lester *et al*\ :sup:`(n.d.p)` in their discussion paper on integrated
-primary mental healthcare more than 10 years ago.
+champions in mental healthcare\ :sup:`16` and to involve patients as
+teachers in interprofessional learning as already pointed out by Lester
+*et al*\ :sup:`17` in their discussion paper on integrated primary
+mental healthcare more than 10 years ago.
 
 .. _S14:
 
@@ -730,96 +730,8 @@ from secondary care services, compared with continuing specialist
 treatment. It will be important to assess differences between inner-city
 and more rural areas to establish as to whether the claim, that the
 delivery of mental healthcare in primary settings is ‘more accessible,
-affordable and acceptable for the population’\ :sup:`(n.d.q)` can be
+affordable and acceptable for the population’\ :sup:`18` can be
 substantiated.
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-R1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-R3
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-R4
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-R5
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-R6
-
-      n.d.e.
-
-   .. container:: csl-entry
-      :name: ref-R7
-
-      n.d.f.
-
-   .. container:: csl-entry
-      :name: ref-R8
-
-      n.d.g.
-
-   .. container:: csl-entry
-      :name: ref-R9
-
-      n.d.h.
-
-   .. container:: csl-entry
-      :name: ref-R10
-
-      n.d.i.
-
-   .. container:: csl-entry
-      :name: ref-R11
-
-      n.d.j.
-
-   .. container:: csl-entry
-      :name: ref-R12
-
-      n.d.k.
-
-   .. container:: csl-entry
-      :name: ref-R13
-
-      n.d.l.
-
-   .. container:: csl-entry
-      :name: ref-R14
-
-      n.d.m.
-
-   .. container:: csl-entry
-      :name: ref-R15
-
-      n.d.n.
-
-   .. container:: csl-entry
-      :name: ref-R16
-
-      n.d.o.
-
-   .. container:: csl-entry
-      :name: ref-R17
-
-      n.d.p.
-
-   .. container:: csl-entry
-      :name: ref-R18
-
-      n.d.q.
 
 .. [1]
    **Frank Röhricht**, Consultant Psychiatrist and Associate Medical

@@ -2,6 +2,8 @@
 The affective neuroscience of socioeconomic status: implications for mental health
 ==================================================================================
 
+
+
 Yu Hao
 Martha J. FarahCorrespondence to Yu Hao (hhao@sas.upenn.edu)
 :Date: 2020-10
@@ -22,15 +24,15 @@ Martha J. FarahCorrespondence to Yu Hao (hhao@sas.upenn.edu)
 ..
 
 Low socioeconomic status (SES) is a potent risk factor for mental
-disorders, particularly mood and anxiety
-disorders.\ :sup:`(n.d.a)–(n.d.b)` Life's challenges weigh more heavily
-on people with fewer financial resources and less education, and the
-impact of SES on emotional well-being is substantial. For example, Guhn
-et al\ :sup:`(n.d.c)` found an adjusted odds ratio for mental health
-conditions 25–39% higher for children of low-income families compared
-with others. A Canadian government survey\ :sup:`(n.d.d)` found that
-disabling mental health problems are twice as common among those without
-a high school diploma compared with college graduates.
+disorders, particularly mood and anxiety disorders.\ :sup:`1–3` Life's
+challenges weigh more heavily on people with fewer financial resources
+and less education, and the impact of SES on emotional well-being is
+substantial. For example, Guhn et al\ :sup:`4` found an adjusted odds
+ratio for mental health conditions 25–39% higher for children of
+low-income families compared with others. A Canadian government
+survey\ :sup:`5` found that disabling mental health problems are twice
+as common among those without a high school diploma compared with
+college graduates.
 
 In this article we review what is known about the affective neuroscience
 of SES and sketch some of the implications this field of science might
@@ -46,15 +48,14 @@ attributes (e.g. income, wealth), neighbourhood characteristics (e.g.
 rates of unemployment and crime near one's home), educational and
 occupational background and self-reported social standing, among other
 approaches. Although these measures are all distinct from one
-another,\ :sup:`(n.d.e)` they are normally moderately
-correlated.\ :sup:`(n.d.f)` Here we will seek broad generalisations
-within this relatively small literature, referring therefore to SES in
-general rather than making distinctions among more specific measures.
-Similarly, we will generalise across life stages at which participants’
-SES was measured. All of these distinctions undoubtedly have scientific
-and clinical relevance, which should also be examined. Nevertheless, for
-a preliminary review, we choose to begin by aggregating findings as much
-as possible.
+another,\ :sup:`6` they are normally moderately correlated.\ :sup:`7`
+Here we will seek broad generalisations within this relatively small
+literature, referring therefore to SES in general rather than making
+distinctions among more specific measures. Similarly, we will generalise
+across life stages at which participants’ SES was measured. All of these
+distinctions undoubtedly have scientific and clinical relevance, which
+should also be examined. Nevertheless, for a preliminary review, we
+choose to begin by aggregating findings as much as possible.
 
 Many useful insights into the aetiology and pathophysiology of mental
 disorders have come by studying the brain. Here we explore the possible
@@ -62,17 +63,16 @@ relevance of neuroscience to understanding the link between mental
 health and SES. Recent attempts to link SES and psychopathology through
 the brain have adopted different concepts from psychology and
 neuroscience as explanatory frameworks. These include the effects of
-stress on the brain,\ :sup:`(n.d.g)` the role of self-regulation in
-mental health\ :sup:`(n.d.h)` and the distinction between adversities
-consisting primarily of deprivation (prevalent in low SES) and those
-consisting primarily of threat (such as accompanies
-abuse\ :sup:`(n.d.i)`). These frameworks are not mutually exclusive, and
-the goal of our review is neither to adjudicate between them nor to
-develop a fourth alternative. Rather, we aim to gather the most
-comprehensive collection to date of research findings related to SES,
-brain and affect, and attempt a provisional integration that will enable
-empirical generalisations and highlight consistencies and
-inconsistencies.
+stress on the brain,\ :sup:`8` the role of self-regulation in mental
+health\ :sup:`9` and the distinction between adversities consisting
+primarily of deprivation (prevalent in low SES) and those consisting
+primarily of threat (such as accompanies abuse\ :sup:`10`). These
+frameworks are not mutually exclusive, and the goal of our review is
+neither to adjudicate between them nor to develop a fourth alternative.
+Rather, we aim to gather the most comprehensive collection to date of
+research findings related to SES, brain and affect, and attempt a
+provisional integration that will enable empirical generalisations and
+highlight consistencies and inconsistencies.
 
 The neuroscience studies reviewed here are basic science research,
 carried out with normal people of varying SES. Note that in some studies
@@ -108,14 +108,13 @@ Subcortical and cortical bases of negative affect
 Textbook coverage of affective neuroscience invariably begins with
 subcortical systems, particularly the amygdala and ventral striatum.
 These appear to respond automatically, without the need for conscious
-awareness of the emotion (e.g.\ :sup:`(n.d.j),(n.d.k)`), and play
-crucial roles in the experience and expression of emotion. Many other
-regions, cortical and subcortical, also participate in emotion and there
-is no simple mapping of specific emotions to specific brain
-areas.\ :sup:`(n.d.l)` Emotion is best thought of as a construction of
-the brain as a whole.\ :sup:`(n.d.m)` Nevertheless, many studies take
-the amygdala as a starting point in the investigation of emotion and the
-brain, especially negative emotion.
+awareness of the emotion (e.g.\ :sup:`11,12`), and play crucial roles in
+the experience and expression of emotion. Many other regions, cortical
+and subcortical, also participate in emotion and there is no simple
+mapping of specific emotions to specific brain areas.\ :sup:`13` Emotion
+is best thought of as a construction of the brain as a whole.\ :sup:`14`
+Nevertheless, many studies take the amygdala as a starting point in the
+investigation of emotion and the brain, especially negative emotion.
 
 .. _sec1-1:
 
@@ -131,32 +130,31 @@ majority of studies, lower SES by at least one measure was associated
 with stronger amygdala reactivity to negative facial emotions. Young
 adults whose parents were of lower SES showed greater amygdala
 activation when viewing angry faces compared with control conditions in
-two studies.\ :sup:`(n.d.n),(n.d.o)` In another study, negative facial
-expressions elicited greater amygdala reactivity for young adults from
-lower-SES families, taking into account parenting quality and maternal
-mental health.\ :sup:`(n.d.p)` Emotional faces more generally evoked
-greater right amygdala activation in adults of lower
-SES.\ :sup:`(n.d.q)` The same study showed that SES was associated with
-strength of coupling between right amygdala and right
-insula.\ :sup:`(n.d.q)` In a study of first-time mothers viewing the
-faces of either happy or distressed infants, the right amygdala was more
-active to depictions of distress in mothers of lower
-SES.\ :sup:`(n.d.r)`
+two studies.\ :sup:`15,16` In another study, negative facial expressions
+elicited greater amygdala reactivity for young adults from lower-SES
+families, taking into account parenting quality and maternal mental
+health.\ :sup:`17` Emotional faces more generally evoked greater right
+amygdala activation in adults of lower SES.\ :sup:`18` The same study
+showed that SES was associated with strength of coupling between right
+amygdala and right insula.\ :sup:`18` In a study of first-time mothers
+viewing the faces of either happy or distressed infants, the right
+amygdala was more active to depictions of distress in mothers of lower
+SES.\ :sup:`19`
 
 Three other studies yielded partial support for a relationship between
 amygdala reactivity to negative facial emotions and SES. The support
 from these findings was qualified by participant gender in one case
-(only for women\ :sup:`(n.d.s)`), ethnicity of depicted face in another
-(only for Black emotional faces in a study with Mexican American
-participants\ :sup:`(n.d.t)`) and history of violence exposure in a
-third (only in non-exposed participants\ :sup:`(n.d.u)`). In only one
-study testing the relationship between amygdala reactivity and SES was a
-significant relationship not found, and this study had relatively little
-variance in SES among the participants (all were recruited through an
-antipoverty programme\ :sup:`(n.d.v)`). Finally, in a memory study with
-emotional faces as retrieval cues, testing the hippocampus as a region
-of interest (ROI), there was less activity in the posterior hippocampus
-in lower-SES individuals when they watched angry faces.\ :sup:`(n.d.w)`
+(only for women\ :sup:`20`), ethnicity of depicted face in another (only
+for Black emotional faces in a study with Mexican American
+participants\ :sup:`21`) and history of violence exposure in a third
+(only in non-exposed participants\ :sup:`22`). In only one study testing
+the relationship between amygdala reactivity and SES was a significant
+relationship not found, and this study had relatively little variance in
+SES among the participants (all were recruited through an antipoverty
+programme\ :sup:`23`). Finally, in a memory study with emotional faces
+as retrieval cues, testing the hippocampus as a region of interest
+(ROI), there was less activity in the posterior hippocampus in lower-SES
+individuals when they watched angry faces.\ :sup:`24`
 
 .. _sec1-2:
 
@@ -168,55 +166,53 @@ evoke negative emotions include unpleasant sounds, social rejection and
 loss of money. In one study unpleasantly loud auditory stimuli were used
 to evoke emotional states in participants of varying SES, violence
 exposure and ethnicity, generally with a warning tone but occasionally
-without.\ :sup:`(n.d.x)` When trials without a warning cue were
-considered, family income was negatively associated with hippocampal
-activity, consistent with greater effect of unexpected negative stimuli
-with lower SES. SES showed the opposite effect with cued noise, with
-higher neighbourhood deprivation (i.e. lower SES) showing lower activity
-in the hippocampi and amygdalae, perhaps related to reduced preparatory
+without.\ :sup:`25` When trials without a warning cue were considered,
+family income was negatively associated with hippocampal activity,
+consistent with greater effect of unexpected negative stimuli with lower
+SES. SES showed the opposite effect with cued noise, with higher
+neighbourhood deprivation (i.e. lower SES) showing lower activity in the
+hippocampi and amygdalae, perhaps related to reduced preparatory
 regulatory effects.
 
 Two studies have used the sound of babies crying, contrasted with white
 noise, with participants of varying SES. The crying was rated as more
-annoying,\ :sup:`(n.d.y)` but effect of SES on neural response to the
-cry in non-parent adults was complex and difficult to interpret; there
-was generally more activation in the insula and several other regions in
+annoying,\ :sup:`26` but effect of SES on neural response to the cry in
+non-parent adults was complex and difficult to interpret; there was
+generally more activation in the insula and several other regions in
 women from low-SES backgrounds, with the opposite pattern in men.
 Another study of mothers hearing baby cries found less activation
 associated with lower SES in frontal and temporal cortical regions, but
-differences in classic emotion-related areas were not
-found.\ :sup:`(n.d.z)` Although baby cries communicate urgency and
-distress, they may function less as generic signals of threat or harm
-and more as triggers for complex, evolved systems of parenting
-behaviour.\ :sup:`(n.d.aa)`
+differences in classic emotion-related areas were not found.\ :sup:`27`
+Although baby cries communicate urgency and distress, they may function
+less as generic signals of threat or harm and more as triggers for
+complex, evolved systems of parenting behaviour.\ :sup:`28`
 
 Social rejection is another kind of experience that evokes negative
 emotion. The so-called ‘social pain’ that results from rejection is not
 typically associated with amygdala activity, but has a more distinctive
 functional anatomy including the dorsal and ventral anterior cingulate,
 anterior insula and also the ventromedial prefrontal cortex (vmPFC) and
-orbital cortex regions (see meta-analyses\ :sup:`(n.d.ab)–(n.d.ac)`).
-Gonzalez et al\ :sup:`(n.d.ad)` assessed responses to exclusion in the
-classic ‘cyberball’ rejection task in young adults of varying
-neighbourhood SES, and tested whether SES was associated with dorsal
-anterior cingulate cortex (dACC) and insula responses. The insula was
-not reliably activated by exclusion in this study overall, nor as a
-function of SES, but lower SES was associated with a larger dACC
-response. Related to social rejection is negative social evaluation.
-Muscatell et al\ :sup:`(n.d.ae)` had participants read negative versus
-neutral or positive personal assessments of their performance in an
-interview, and *a priori* regions of interest were the dorsomedial
-prefrontal cortex (dmPFC) and amygdala. Although amygdala activity did
-not differ with subjective social status (and it was not stated whether
-the task evoked amygdala activity in this condition for participants in
-general), dmPFC activity was evoked by negative evaluations and was
-higher in lower-SES participants.
+orbital cortex regions (see meta-analyses\ :sup:`29–31`). Gonzalez et
+al\ :sup:`32` assessed responses to exclusion in the classic ‘cyberball’
+rejection task in young adults of varying neighbourhood SES, and tested
+whether SES was associated with dorsal anterior cingulate cortex (dACC)
+and insula responses. The insula was not reliably activated by exclusion
+in this study overall, nor as a function of SES, but lower SES was
+associated with a larger dACC response. Related to social rejection is
+negative social evaluation. Muscatell et al\ :sup:`33` had participants
+read negative versus neutral or positive personal assessments of their
+performance in an interview, and *a priori* regions of interest were the
+dorsomedial prefrontal cortex (dmPFC) and amygdala. Although amygdala
+activity did not differ with subjective social status (and it was not
+stated whether the task evoked amygdala activity in this condition for
+participants in general), dmPFC activity was evoked by negative
+evaluations and was higher in lower-SES participants.
 
 Finally, the aversive experience of losing money, a secondary
 reinforcer, which differs in some ways from primary aversive stimuli
-such as pain,\ :sup:`(n.d.af)` has been assessed during fMRI in two
-studies with participants of varying SES, neither of which found effects
-of SES.\ :sup:`(n.d.ag),(n.d.ah)`
+such as pain,\ :sup:`34` has been assessed during fMRI in two studies
+with participants of varying SES, neither of which found effects of
+SES.\ :sup:`35,36`
 
 .. _sec1-3:
 
@@ -247,7 +243,7 @@ most often associated with positive affect is the ventral striatum,
 which consists primarily of the nucleus accumbens and part of the
 caudate nucleus, although other cortical regions are also engaged,
 including the medial and orbital frontal cortex, cingulate cortex and
-anterior insula.\ :sup:`(n.d.ai)`
+anterior insula.\ :sup:`37`
 
 The literature on the neural correlates of positive emotion and SES is
 relatively small. One study, already mentioned in connection with
@@ -255,37 +251,35 @@ negative emotion, is also relevant to positive emotion. In this study,
 mothers viewed happy as well as unhappy baby faces, and some of the
 areas activated by the happy faces, including the left amygdala and the
 right insula, differed by SES and specifically were less active in the
-lower-SES mothers.\ :sup:`(n.d.r)`
+lower-SES mothers.\ :sup:`19`
 
-Silverman et al\ :sup:`(n.d.aj)` exposed participants to affectively
-valenced pictures of people, objects and scenes and contrasted neural
-responses to positive images (e.g. an amusement park) relative to
-neutral images (e.g. furniture). They found lower activity in response
-to the happy pictures in lower-SES participants in a variety of areas,
-including the striatum.
+Silverman et al\ :sup:`38` exposed participants to affectively valenced
+pictures of people, objects and scenes and contrasted neural responses
+to positive images (e.g. an amusement park) relative to neutral images
+(e.g. furniture). They found lower activity in response to the happy
+pictures in lower-SES participants in a variety of areas, including the
+striatum.
 
 Other studies have induced positive emotional states with monetary gains
 during simple games. The focus of most studies on SES and reward has
 been on reward anticipation, rather than the receipt of the reward
 itself. Reward anticipation is a motivational state sometimes associated
-with ‘wanting’, in contrast to the response of
-‘liking’.\ :sup:`(n.d.ak)` Response to receipt of a reward has either
-not been shown to differ by SES\ :sup:`(n.d.ag),(n.d.al)` or the study
-design has not allowed reward receipt to be examined separate from
-reward anticipation because of block rather than event-related
-design.\ :sup:`(n.d.ah)` In contrast, reward anticipation generally
-evokes more activity for lower-SES participants. Romens et
-al\ :sup:`(n.d.al)` found heightened response to the anticipation of
-reward in medial prefrontal cortex (mPFC) in lower-SES girls, and no
-locations of reduced response. Gonzalez et al\ :sup:`(n.d.am)` found a
-similar relationship in striatal and other regions. Quevedo et
-al\ :sup:`(n.d.ag)` covaried SES in a study of the effect of attachment
-style on reward, and although the range of SES was relatively narrow,
-they found that maternal unemployment and lower family income during
-childhood were associated with higher striatal activity and amygdala
-activity respectively, during reward anticipation. When anticipating a
-larger but lower-probability reward, lower-SES adolescents show more
-mPFC activation.\ :sup:`(n.d.an)`
+with ‘wanting’, in contrast to the response of ‘liking’.\ :sup:`39`
+Response to receipt of a reward has either not been shown to differ by
+SES\ :sup:`35,40` or the study design has not allowed reward receipt to
+be examined separate from reward anticipation because of block rather
+than event-related design.\ :sup:`36` In contrast, reward anticipation
+generally evokes more activity for lower-SES participants. Romens et
+al\ :sup:`40` found heightened response to the anticipation of reward in
+medial prefrontal cortex (mPFC) in lower-SES girls, and no locations of
+reduced response. Gonzalez et al\ :sup:`41` found a similar relationship
+in striatal and other regions. Quevedo et al\ :sup:`35` covaried SES in
+a study of the effect of attachment style on reward, and although the
+range of SES was relatively narrow, they found that maternal
+unemployment and lower family income during childhood were associated
+with higher striatal activity and amygdala activity respectively, during
+reward anticipation. When anticipating a larger but lower-probability
+reward, lower-SES adolescents show more mPFC activation.\ :sup:`42`
 
 .. _sec2-1:
 
@@ -305,55 +299,55 @@ Emotion regulation refers to self-induced changes in intensity and
 duration of emotional experience, typically for the purpose of reducing
 negative experience. These changes can be accomplished by either
 conscious, explicit strategies or automatic, implicit
-processes.\ :sup:`(n.d.ao)` One of the most effective explicit emotion
+processes.\ :sup:`43` One of the most effective explicit emotion
 regulation strategies is cognitive reappraisal, by which we volitionally
 reinterpret the meaning of stimuli in order to alleviate negative
 feelings. A recent review suggests that explicit emotion regulation
 engages the dorsolateral, ventrolateral and dorsomedial frontal and
-parietal cortex.\ :sup:`(n.d.ap)` Kim et al\ :sup:`(n.d.aq)` showed
-disturbing pictures to participants of varying SES and instructed them
-to reduce negative emotion through cognitive reappraisal, for example
-viewing a picture of a bruised and beaten woman and reappraising it as a
-picture of an actress playing the role of a violence victim. They found
-that individuals of low SES recruited less prefrontal activation than
-their higher-SES counterparts and showed less reduction in amygdala
-activity during reappraisal, consistent with this emotion regulation
-strategy being used less effectively by these participants. However,
-gender seems to moderate the effect of SES on prefrontal activity
-related to emotion regulation::sup:`(n.d.s)` in males but not females
-when considered separately, activation in dorsolateral and ventrolateral
-prefrontal cortical regions (dlPFC and vlPFC) during cognitive
-reappraisal was positively correlated with SES.
+parietal cortex.\ :sup:`44` Kim et al\ :sup:`45` showed disturbing
+pictures to participants of varying SES and instructed them to reduce
+negative emotion through cognitive reappraisal, for example viewing a
+picture of a bruised and beaten woman and reappraising it as a picture
+of an actress playing the role of a violence victim. They found that
+individuals of low SES recruited less prefrontal activation than their
+higher-SES counterparts and showed less reduction in amygdala activity
+during reappraisal, consistent with this emotion regulation strategy
+being used less effectively by these participants. However, gender seems
+to moderate the effect of SES on prefrontal activity related to emotion
+regulation::sup:`20` in males but not females when considered
+separately, activation in dorsolateral and ventrolateral prefrontal
+cortical regions (dlPFC and vlPFC) during cognitive reappraisal was
+positively correlated with SES.
 
 Another form of emotion regulation is implicit, involuntary emotion
 regulation, which does not require effortful use of a strategy or
 conscious monitoring of emotional state, but is simply evoked
-automatically.\ :sup:`(n.d.ar)` Implicit emotion regulation is
-omnipresent in our encounters with emotional stimuli, with ventral ACC
-and vmPFC engaging automatically to modulate subcortical
-activity.\ :sup:`(n.d.ap)` By its nature, implicit regulation is not
-carried out following instructions, so it can be difficult to determine
-in any given task whether these ventral anterior activations represent
-regulatory activity. In any case, less functional coupling between the
-amygdala and vmPFC has been found in low-SES individuals when processing
-negative emotion.\ :sup:`(n.d.as)` In the same intensively studied group
-of participants (see also\ :sup:`(n.d.s),(n.d.aq),(n.d.as)`), Liberzon
-and colleagues\ :sup:`(n.d.at)` found less prefrontal activity in
-lower-SES participants in a task designed to evoke implicit emotion
-regulation, although in this task the finding was localised to lateral
-rather than medial regions.
+automatically.\ :sup:`46` Implicit emotion regulation is omnipresent in
+our encounters with emotional stimuli, with ventral ACC and vmPFC
+engaging automatically to modulate subcortical activity.\ :sup:`44` By
+its nature, implicit regulation is not carried out following
+instructions, so it can be difficult to determine in any given task
+whether these ventral anterior activations represent regulatory
+activity. In any case, less functional coupling between the amygdala and
+vmPFC has been found in low-SES individuals when processing negative
+emotion.\ :sup:`47` In the same intensively studied group of
+participants (see also\ :sup:`20,45,47`), Liberzon and
+colleagues\ :sup:`48` found less prefrontal activity in lower-SES
+participants in a task designed to evoke implicit emotion regulation,
+although in this task the finding was localised to lateral rather than
+medial regions.
 
 Studies of participants at rest provide additional evidence concerning
 limbic–cortical interactions. Functional connectivity between the
 amygdala and the vmPFC was found to be weaker in participants of lower
 SES, and this difference in brain activity accounted for SES disparities
-in vulnerability to stressful life events.\ :sup:`(n.d.au)` Connectivity
-of the amygdala and hippocampus to prefrontal regions was also reduced
-in lower-SES children, and these differences fully mediated the
-relationship between SES and later depression.\ :sup:`(n.d.av)` Finally,
+in vulnerability to stressful life events.\ :sup:`49` Connectivity of
+the amygdala and hippocampus to prefrontal regions was also reduced in
+lower-SES children, and these differences fully mediated the
+relationship between SES and later depression.\ :sup:`50` Finally,
 connectivity between the ventral striatum and ventral PFC is reduced in
 low SES, and this fully mediated the relationhip between SES and
-anxiety.\ :sup:`(n.d.aw)`
+anxiety.\ :sup:`51`
 
 .. _sec4:
 
@@ -392,11 +386,11 @@ susceptibility among low-SES individuals to depression and anxiety. In
 contrast, anticipation of reward appears to evoke more activity in
 people of lower SES, which in one study mediated the relationship
 between socioeconomic disadvantage and adolescent depression
-symptoms.\ :sup:`(n.d.al)` Greater reactivity to the promise of reward
-may contribute to disorders of impulse control.\ :sup:`(n.d.ax)`
-Finally, in at least a few studies functional networks that may serve to
-regulate emotion are weaker in people of lower SES, and these
-differences too have been found to mediate risk for psychopathology.
+symptoms.\ :sup:`40` Greater reactivity to the promise of reward may
+contribute to disorders of impulse control.\ :sup:`52` Finally, in at
+least a few studies functional networks that may serve to regulate
+emotion are weaker in people of lower SES, and these differences too
+have been found to mediate risk for psychopathology.
 
 Given the disproportionate mental health burden borne by those of low
 SES, it makes sense to deploy the full range of approaches to
@@ -440,256 +434,3 @@ https://doi.org/10.1192/bjb.2020.69.
    .. rubric:: 
 
    click here to view supplementary material
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-ref1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-ref3
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-ref4
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-ref5
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-ref6
-
-      n.d.e.
-
-   .. container:: csl-entry
-      :name: ref-ref7
-
-      n.d.f.
-
-   .. container:: csl-entry
-      :name: ref-ref8
-
-      n.d.g.
-
-   .. container:: csl-entry
-      :name: ref-ref9
-
-      n.d.h.
-
-   .. container:: csl-entry
-      :name: ref-ref10
-
-      n.d.i.
-
-   .. container:: csl-entry
-      :name: ref-ref11
-
-      n.d.j.
-
-   .. container:: csl-entry
-      :name: ref-ref12
-
-      n.d.k.
-
-   .. container:: csl-entry
-      :name: ref-ref13
-
-      n.d.l.
-
-   .. container:: csl-entry
-      :name: ref-ref14
-
-      n.d.m.
-
-   .. container:: csl-entry
-      :name: ref-ref15
-
-      n.d.n.
-
-   .. container:: csl-entry
-      :name: ref-ref16
-
-      n.d.o.
-
-   .. container:: csl-entry
-      :name: ref-ref17
-
-      n.d.p.
-
-   .. container:: csl-entry
-      :name: ref-ref18
-
-      n.d.q.
-
-   .. container:: csl-entry
-      :name: ref-ref19
-
-      n.d.r.
-
-   .. container:: csl-entry
-      :name: ref-ref20
-
-      n.d.s.
-
-   .. container:: csl-entry
-      :name: ref-ref21
-
-      n.d.t.
-
-   .. container:: csl-entry
-      :name: ref-ref22
-
-      n.d.u.
-
-   .. container:: csl-entry
-      :name: ref-ref23
-
-      n.d.v.
-
-   .. container:: csl-entry
-      :name: ref-ref24
-
-      n.d.w.
-
-   .. container:: csl-entry
-      :name: ref-ref25
-
-      n.d.x.
-
-   .. container:: csl-entry
-      :name: ref-ref26
-
-      n.d.y.
-
-   .. container:: csl-entry
-      :name: ref-ref27
-
-      n.d.z.
-
-   .. container:: csl-entry
-      :name: ref-ref28
-
-      n.d.aa.
-
-   .. container:: csl-entry
-      :name: ref-ref29
-
-      n.d.ab.
-
-   .. container:: csl-entry
-      :name: ref-ref31
-
-      n.d.ac.
-
-   .. container:: csl-entry
-      :name: ref-ref32
-
-      n.d.ad.
-
-   .. container:: csl-entry
-      :name: ref-ref33
-
-      n.d.ae.
-
-   .. container:: csl-entry
-      :name: ref-ref34
-
-      n.d.af.
-
-   .. container:: csl-entry
-      :name: ref-ref35
-
-      n.d.ag.
-
-   .. container:: csl-entry
-      :name: ref-ref36
-
-      n.d.ah.
-
-   .. container:: csl-entry
-      :name: ref-ref37
-
-      n.d.ai.
-
-   .. container:: csl-entry
-      :name: ref-ref38
-
-      n.d.aj.
-
-   .. container:: csl-entry
-      :name: ref-ref39
-
-      n.d.ak.
-
-   .. container:: csl-entry
-      :name: ref-ref40
-
-      n.d.al.
-
-   .. container:: csl-entry
-      :name: ref-ref41
-
-      n.d.am.
-
-   .. container:: csl-entry
-      :name: ref-ref42
-
-      n.d.an.
-
-   .. container:: csl-entry
-      :name: ref-ref43
-
-      n.d.ao.
-
-   .. container:: csl-entry
-      :name: ref-ref44
-
-      n.d.ap.
-
-   .. container:: csl-entry
-      :name: ref-ref45
-
-      n.d.aq.
-
-   .. container:: csl-entry
-      :name: ref-ref46
-
-      n.d.ar.
-
-   .. container:: csl-entry
-      :name: ref-ref47
-
-      n.d.as.
-
-   .. container:: csl-entry
-      :name: ref-ref48
-
-      n.d.at.
-
-   .. container:: csl-entry
-      :name: ref-ref49
-
-      n.d.au.
-
-   .. container:: csl-entry
-      :name: ref-ref50
-
-      n.d.av.
-
-   .. container:: csl-entry
-      :name: ref-ref51
-
-      n.d.aw.
-
-   .. container:: csl-entry
-      :name: ref-ref52
-
-      n.d.ax.

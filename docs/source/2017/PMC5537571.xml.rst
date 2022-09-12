@@ -2,6 +2,8 @@
 Evaluation of the 13-item Hypomania Checklist and a brief 3-item manic features questionnaire in primary care
 =============================================================================================================
 
+
+
 Sukhmeet Singh
 Paul Scouller
 Daniel J. SmithCorrespondence to Daniel J. Smith
@@ -36,30 +38,28 @@ Daniel J. SmithCorrespondence to Daniel J. Smith
 ..
 
 Bipolar disorder affects at least 1–2% of the population and is
-associated with considerable psychosocial
-impairment.\ :sup:`(n.d.a)–(n.d.b)` Accurate diagnosis can be difficult
-because patients tend initially to present in primary care for help with
-depression rather than with manic features, and many primary care
-practitioners do not systematically assess for a history of bipolar
-disorder.\ :sup:`(n.d.c)–(n.d.d)` Recently the National Institute for
-Health and Care Excellence (NICE) recommended that all patients in the
-UK presenting to primary care with depression should be assessed for a
-history of manic features, specifically ‘previous periods of
-overactivity or disinhibited behaviour’.\ :sup:`(n.d.e)`
+associated with considerable psychosocial impairment.\ :sup:`1–4`
+Accurate diagnosis can be difficult because patients tend initially to
+present in primary care for help with depression rather than with manic
+features, and many primary care practitioners do not systematically
+assess for a history of bipolar disorder.\ :sup:`5–7` Recently the
+National Institute for Health and Care Excellence (NICE) recommended
+that all patients in the UK presenting to primary care with depression
+should be assessed for a history of manic features, specifically
+‘previous periods of overactivity or disinhibited behaviour’.\ :sup:`8`
 
 Recent screening studies of bipolar disorder in UK primary care have
 identified that between 7 and 10% of individuals with depression may
 have undiagnosed bipolar disorder, usually bipolar disorder type
-II.\ :sup:`(n.d.f),(n.d.g)` It is also the case that individuals with
-difficult to treat depression and those with poor response to
-antidepressants are more likely to have unrecognised bipolar
-disorder.\ :sup:`(n.d.h)`
+II.\ :sup:`9,10` It is also the case that individuals with difficult to
+treat depression and those with poor response to antidepressants are
+more likely to have unrecognised bipolar disorder.\ :sup:`11`
 
 In this context, we aimed to estimate unrecognised bipolar disorder
 within a sample of primary care patients with depression who were taking
 antidepressant medications, as well as to evaluate the potential
 clinical utility of two short screening questionnaires for bipolar
-disorder: the 13-item Hypomania Checklist (HCL-13)\ :sup:`(n.d.i)` and a
+disorder: the 13-item Hypomania Checklist (HCL-13)\ :sup:`12` and a
 brief 3-item manic features questionnaire. Our focus on these brief
 assessment instruments was stimulated by the need for questionnaires
 that could be used easily in primary care consultations, which are
@@ -94,20 +94,20 @@ Assessment measures
 -------------------
 
 A research nurse completed the Structured Clinical Interview for DMS-IV
-(SCID-1)\ :sup:`(n.d.j)` in person in order to obtain a gold-standard
+(SCID-1)\ :sup:`13` in person in order to obtain a gold-standard
 diagnosis. An assessment of practice notes was also conducted to
 corroborate findings from the SCID-1 assessment and to clarify
 medication regimens. Participants completed the HCL-13 and a brief
 3-item bipolar screening questionnaire. This 3-item questionnaire (with
 a maximum score of 6) was based on the three core diagnostic features
 for bipolar disorder taken from DSM-5: elevated mood, severe
-irritability and overactivity.\ :sup:`(n.d.k)` The questions and scoring
-were as follows: Have you ever had a period of time when you were
-feeling so good, ‘high’, excited or ‘hyper’ that other people thought
-you were not your normal self or you were so ‘hyper’ that you got into
-trouble? (Definitely no (score 0), perhaps yes (score 1), definitely yes
-(score 2).)What about a period of time when you were so irritable that
-you found yourself shouting at people or starting fights or arguments?
+irritability and overactivity.\ :sup:`14` The questions and scoring were
+as follows: Have you ever had a period of time when you were feeling so
+good, ‘high’, excited or ‘hyper’ that other people thought you were not
+your normal self or you were so ‘hyper’ that you got into trouble?
+(Definitely no (score 0), perhaps yes (score 1), definitely yes (score
+2).)What about a period of time when you were so irritable that you
+found yourself shouting at people or starting fights or arguments?
 (Definitely no (score 0), perhaps yes (score 1), definitely yes (score
 2).)What about a period of time when you were physically much more
 active than usual, for example, when you had lots of different projects
@@ -128,7 +128,7 @@ specificity, positive predictive value (PPV) and negative predictive
 value (NPV) using MedCalc and verified these manually. Positive and
 negative clinical utility measures were calculated using an online
 calculator constructed by the developer of the MedCalc test
-(`www.psycho-oncology.info/cui.html <www.psycho-oncology.info/cui.html>`__).\ :sup:`(n.d.l)`
+(`www.psycho-oncology.info/cui.html <www.psycho-oncology.info/cui.html>`__).\ :sup:`15`
 
 .. _S5:
 
@@ -239,7 +239,7 @@ questionnaire to discriminate effectively between the two groups.
 Similarly, an AUC of 0.79 (95% CI 0.69–0.89) for the 3-item
 questionnaire also demonstrates a ‘fair’ overall ability. An AUC of over
 0.80 is considered to demonstrate a ‘good’ overall ability to
-discriminate.\ :sup:`(n.d.m)`
+discriminate.\ :sup:`16`
 
 .. figure:: 189f1
    :alt: Receiver operating characteristics (ROC) for 13-item Hypomania
@@ -454,14 +454,14 @@ taking antidepressant therapy for more than 12 months or who had had
 multiple courses of antidepressants over the preceding 5 years. We found
 that 16.1% of our sample had bipolar disorder. This rate is higher than
 in previous literature from the UK. In samples of primary care patients,
-Hughes *et al*\ :sup:`(n.d.g)` found a prevalence of 7.3% whereas Smith
-*et al* found a prevalence of 9.6%. Both studies assessed patients with
+Hughes *et al*\ :sup:`10` found a prevalence of 7.3% whereas Smith *et
+al* found a prevalence of 9.6%. Both studies assessed patients with
 depressive disorder who had been prescribed antidepressant medication.
 It is possible that the addition in our study of participants who had
 previously been prescribed multiple courses of antidepressants led to a
 higher prevalence estimate for bipolar disorder, because unrecognised
 bipolar disorder is more common in patients with more severe and
-enduring depression.\ :sup:`(n.d.n)`
+enduring depression.\ :sup:`17`
 
 We also aimed to compare the HCL-13 and a brief 3-item questionnaire in
 terms of their ability to differentiate between patients with MDD and
@@ -472,10 +472,10 @@ sensitivity and specificity was reasonable, but PPVs were low. This is a
 function of the low prevalence of bipolar disorder in primary care
 setting, but represents a potential limitation in terms of the
 usefulness of these instruments to GPs in everyday clinical
-practice.\ :sup:`(n.d.o)` In a review of brief screening instruments for
-depressive disorder in a low-income country, Hanlon *et
-al*\ :sup:`(n.d.p)` concluded that the low PPV at acceptable sensitivity
-levels may preclude their use in clinical settings.
+practice.\ :sup:`18` In a review of brief screening instruments for
+depressive disorder in a low-income country, Hanlon *et al*\ :sup:`19`
+concluded that the low PPV at acceptable sensitivity levels may preclude
+their use in clinical settings.
 
 Nevertheless, we would argue that there may be some use in primary care
 for these brief screening instruments alongside additional assessments,
@@ -487,7 +487,7 @@ that clinicians may find this useful for excluding a diagnosis of
 bipolar disorder in their patients with depression. The NICE guidance
 states that the ideal instrument should be brief, easy to administer and
 to score, and should be able to be interpreted without extensive and
-specialist training :sup:`(n.d.e)`
+specialist training :sup:`8`
 
 .. _S8:
 
@@ -545,89 +545,6 @@ A proportion of primary care patients with MDD, perhaps as many as 1 in
 a time-restricted environment, we suggest that a brief 3-item
 questionnaire may be a useful screening tool for bipolar disorder and a
 first step towards a more comprehensive assessment.
-
-.. container:: references csl-bib-body hanging-indent
-   :name: refs
-
-   .. container:: csl-entry
-      :name: ref-R1
-
-      n.d.a.
-
-   .. container:: csl-entry
-      :name: ref-R4
-
-      n.d.b.
-
-   .. container:: csl-entry
-      :name: ref-R5
-
-      n.d.c.
-
-   .. container:: csl-entry
-      :name: ref-R7
-
-      n.d.d.
-
-   .. container:: csl-entry
-      :name: ref-R8
-
-      n.d.e.
-
-   .. container:: csl-entry
-      :name: ref-R9
-
-      n.d.f.
-
-   .. container:: csl-entry
-      :name: ref-R10
-
-      n.d.g.
-
-   .. container:: csl-entry
-      :name: ref-R11
-
-      n.d.h.
-
-   .. container:: csl-entry
-      :name: ref-R12
-
-      n.d.i.
-
-   .. container:: csl-entry
-      :name: ref-R13
-
-      n.d.j.
-
-   .. container:: csl-entry
-      :name: ref-R14
-
-      n.d.k.
-
-   .. container:: csl-entry
-      :name: ref-R15
-
-      n.d.l.
-
-   .. container:: csl-entry
-      :name: ref-R16
-
-      n.d.m.
-
-   .. container:: csl-entry
-      :name: ref-R17
-
-      n.d.n.
-
-   .. container:: csl-entry
-      :name: ref-R18
-
-      n.d.o.
-
-   .. container:: csl-entry
-      :name: ref-R19
-
-      n.d.p.
 
 .. [1]
    **Sukhmeet Singh** is a foundation year doctor at NHS Greater Glasgow
