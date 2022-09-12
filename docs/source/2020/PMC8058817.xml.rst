@@ -7,9 +7,11 @@ Representation of Black, Asian and minority ethnic patients in secondary care me
 Hari Subramaniam
 Elizabeta B. Mukaetova-Ladinska
 Andrew Wilson
-John Bankart [1]_\*Correspondence to Dr Hari Subramaniam
+John Bankart [1]_\*
+:Correspondence: Dr Hari Subramaniam
 (hari.subramaniam@leicspart.nhs.uk)
-:Date: 2020-08
+
+:date: 2020-08
 
 :Abstract:
    .. rubric:: Aims and method

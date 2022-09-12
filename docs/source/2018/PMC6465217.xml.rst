@@ -8,9 +8,11 @@ Deirdre Mulryan
 Anna McIntyre
 Colm McDonald
 Sabina Feeney
-Brian HallahanCorrespondence to Dr Brian Hallahan
+Brian Hallahan
+:Correspondence: Dr Brian Hallahan
 (brian.hallahan@nuigalway.ie)
-:Date: 2018-12
+
+:date: 2018-12
 
 :Abstract:
    .. rubric:: Aims and method
@@ -174,7 +176,8 @@ D.M., A.M. and S.F.) and included all handwritten, typed and
 electronically generated entries pertaining to in-patient admissions to
 one of three acute psychiatric in-patient units; attendance at the
 different day hospitals, day centres and out-patient clinics in the
-region; correspondence to and from general practitioners and specialists
+region; 
+:Correspondence: and from general practitioners and specialists
 (including neurologists) and all prescription records.
 
 Demographic data collected included gender, age and socioeconomic,

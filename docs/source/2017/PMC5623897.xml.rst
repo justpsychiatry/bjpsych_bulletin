@@ -11,7 +11,8 @@ Kenneth Davison
 Hamish McClelland
 Alan Kerr
 Martin Schapira
-:Date: 2017-10
+
+:date: 2017-10
 
 
 .. contents::

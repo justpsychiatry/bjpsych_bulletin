@@ -5,7 +5,8 @@ Profile: André Tomlin
 
 
 Julia Bland
-:Date: 2018-4
+
+:date: 2018-4
 
 
 .. contents::

@@ -5,7 +5,8 @@ A model for specific goals for in-patient treatment linked to resources and limi
 
 
 Virginia Davies
-:Date: 2022-06
+
+:date: 2022-06
 
 
 .. contents::

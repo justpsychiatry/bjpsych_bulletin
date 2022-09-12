@@ -4,9 +4,11 @@ A day in the life of a psychiatrist in 2050: where will the algorithm take us?
 
 
 
-George Gillett [1]_Correspondence to George Gillett
+George Gillett [1]_
+:Correspondence: George Gillett
 (george_gillett@outlook.com) [2]_
-:Date: 2020-06
+
+:date: 2020-06
 
 :Abstract:
    Digital phenotyping (such as using live data from personal digital

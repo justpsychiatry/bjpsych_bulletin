@@ -6,7 +6,8 @@ Still room for improvement: standardisation of clinical correspondence and exper
 
 Daniel Robinson
 Samuel Dearman
-:Date: 2019-6
+
+:date: 2019-6
 
 
 .. contents::
@@ -29,7 +30,8 @@ longer to read, are preferred by GPs, improve comprehension of letters
 and reduce the risk of omission of information by the author and
 reader.2
 
-Anecdotally, we observed variation in our medical correspondence to our
+Anecdotally, we observed variation in our medical 
+:Correspondence: our
 GP colleagues and thus undertook a quality improvement project looking
 at improving the quality and consistency of letters produced by our
 team. This project was used as a developmental opportunity for one of

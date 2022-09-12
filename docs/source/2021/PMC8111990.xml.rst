@@ -4,9 +4,11 @@ Predicting short-term suicide risk: allowing for ongoing variation in severity o
 
 
 
-Gethin MorganCorrespondence to Gethin Morgan
+Gethin Morgan
+:Correspondence: Gethin Morgan
 (hilary.howard@blueyonder.co.uk)
-:Date: 2021-04
+
+:date: 2021-04
 
 :Abstract:
    This article considers the role that assessment of suicidal ideation

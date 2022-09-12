@@ -6,9 +6,11 @@ Model for ethical triaging of electroconvulsive therapy patients during the COVI
 
 Phern-Chern Tor
 Jacinta Tan
-Colleen LooCorrespondence to Phern-Chern Tor
+Colleen Loo
+:Correspondence: Phern-Chern Tor
 (phern_chern_tor@imh.com.sg)
-:Date: 2020-8-19
+
+:date: 2020-8-19
 
 :Abstract:
    Electroconvulsive therapy (ECT) is an essential treatment for severe
